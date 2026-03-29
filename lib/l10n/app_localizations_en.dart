@@ -72,6 +72,48 @@ class AppLocalizationsEn extends AppLocalizations {
   String get chapterBasedTests => 'Chapter Based Tests';
 
   @override
+  String get topicWiseBrowseTitle => 'Topic-wise browse';
+
+  @override
+  String get topicWiseBrowseSearchHint => 'Search tags…';
+
+  @override
+  String get topicWiseBrowseGroupingTopic => 'Showing: topics';
+
+  @override
+  String get topicWiseBrowseGroupingSubTopic => 'Showing: sub-topics';
+
+  @override
+  String get topicWiseBrowseGroupingConcepts => 'Showing: concepts';
+
+  @override
+  String get topicWiseBrowseEmptySubject =>
+      'No tags found for this subject yet.';
+
+  @override
+  String get topicWiseBrowseEmptyFilter =>
+      'No tags match your search. Try different words.';
+
+  @override
+  String get topicWiseBrowseLoadError =>
+      'Could not load tags. Open the app again after questions finish importing.';
+
+  @override
+  String topicWiseBrowseQuestionCount(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count questions',
+      one: '$count question',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get topicWiseBrowseTagTapSoon =>
+      'Practice by tag will be available in a future update.';
+
+  @override
   String get previousYearQuestions => 'Previous Year Questions';
 
   @override

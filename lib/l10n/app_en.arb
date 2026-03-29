@@ -64,6 +64,41 @@
   "chapterBasedTests": "Chapter Based Tests",
   "@chapterBasedTests": { "description": "Topic-wise tests tile subtitle" },
 
+  "topicWiseBrowseTitle": "Topic-wise browse",
+  "@topicWiseBrowseTitle": { "description": "App bar title for topic / tag browse screen" },
+
+  "topicWiseBrowseSearchHint": "Search tags…",
+  "@topicWiseBrowseSearchHint": { "description": "Hint for topic-wise tag search field" },
+
+  "topicWiseBrowseGroupingTopic": "Showing: topics",
+  "@topicWiseBrowseGroupingTopic": { "description": "Caption when config uses topic field" },
+
+  "topicWiseBrowseGroupingSubTopic": "Showing: sub-topics",
+  "@topicWiseBrowseGroupingSubTopic": { "description": "Caption when config uses sub_topic field" },
+
+  "topicWiseBrowseGroupingConcepts": "Showing: concepts",
+  "@topicWiseBrowseGroupingConcepts": { "description": "Caption when config uses concepts_used" },
+
+  "topicWiseBrowseEmptySubject": "No tags found for this subject yet.",
+  "@topicWiseBrowseEmptySubject": { "description": "No rows in DB for selected subject" },
+
+  "topicWiseBrowseEmptyFilter": "No tags match your search. Try different words.",
+  "@topicWiseBrowseEmptyFilter": { "description": "Search returned no results" },
+
+  "topicWiseBrowseLoadError": "Could not load tags. Open the app again after questions finish importing.",
+  "@topicWiseBrowseLoadError": { "description": "Error loading topic-wise tag list" },
+
+  "topicWiseBrowseQuestionCount": "{count, plural, one{{count} question} other{{count} questions}}",
+  "@topicWiseBrowseQuestionCount": {
+    "description": "Badge showing how many questions use a tag",
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "topicWiseBrowseTagTapSoon": "Practice by tag will be available in a future update.",
+  "@topicWiseBrowseTagTapSoon": { "description": "SnackBar when user taps a tag row" },
+
   "previousYearQuestions": "Previous Year Questions",
   "@previousYearQuestions": { "description": "Previous Year Questions section heading" },
 

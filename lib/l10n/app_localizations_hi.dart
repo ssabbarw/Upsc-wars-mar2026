@@ -72,6 +72,48 @@ class AppLocalizationsHi extends AppLocalizations {
   String get chapterBasedTests => 'अध्याय आधारित टेस्ट';
 
   @override
+  String get topicWiseBrowseTitle => 'विषय-वार ब्राउज़';
+
+  @override
+  String get topicWiseBrowseSearchHint => 'टैग खोजें…';
+
+  @override
+  String get topicWiseBrowseGroupingTopic => 'दिखा रहे हैं: विषय';
+
+  @override
+  String get topicWiseBrowseGroupingSubTopic => 'दिखा रहे हैं: उप-विषय';
+
+  @override
+  String get topicWiseBrowseGroupingConcepts => 'दिखा रहे हैं: अवधारणाएँ';
+
+  @override
+  String get topicWiseBrowseEmptySubject =>
+      'इस विषय के लिए अभी कोई टैग नहीं मिला।';
+
+  @override
+  String get topicWiseBrowseEmptyFilter =>
+      'आपकी खोज से कोई टैग मेल नहीं खाता। दूसरे शब्द आज़माएँ।';
+
+  @override
+  String get topicWiseBrowseLoadError =>
+      'टैग लोड नहीं हो सके। प्रश्न आयात पूरा होने के बाद ऐप फिर खोलें।';
+
+  @override
+  String topicWiseBrowseQuestionCount(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count प्रश्न',
+      one: '$count प्रश्न',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get topicWiseBrowseTagTapSoon =>
+      'टैग से अभ्यास आगे के अपडेट में उपलब्ध होगा।';
+
+  @override
   String get previousYearQuestions => 'पिछले वर्ष के प्रश्न';
 
   @override

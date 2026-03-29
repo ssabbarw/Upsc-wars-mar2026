@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter/services.dart' show AssetManifest, rootBundle;
 import 'package:fpdart/fpdart.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:upsc_wars_new/core/constants/mcq_seed_constants.dart';
@@ -36,16 +36,40 @@ class McqSeedRepositoryImpl implements McqSeedRepository {
   Future<Either<Failure, Unit>> seedFromAssetsIfNeeded({
     required void Function(McqSeedProgress progress) onProgress,
   }) async {
-    final totalSlots =
-        McqSeedConstants.subjectFolders.length * McqSeedConstants.filesPerSubject;
-    var completedSlots = 0;
-
     try {
+      final pathsByFolder = <String, List<String>>{};
+      for (final folder in McqSeedConstants.subjectFolders) {
+        pathsByFolder[folder] = await _jsonAssetPathsForSubjectFolder(folder);
+      }
+
+      final totalSlots = pathsByFolder.values.fold<int>(
+        0,
+        (sum, paths) => sum + paths.length,
+      );
+
+      if (totalSlots == 0) {
+        AppLogger.warning(
+          'MCQ seed: no JSON asset paths resolved — check ${McqSeedConstants.fileCountMode} '
+          'and pubspec assets',
+        );
+        return const Right(unit);
+      }
+
+      var completedSlots = 0;
+
       for (final folder in McqSeedConstants.subjectFolders) {
         final label = _folderToDisplayLabel(folder);
-        for (var n = 1; n <= McqSeedConstants.filesPerSubject; n++) {
-          final path =
-              '${McqSeedConstants.assetRootEn}/$folder/$n.json';
+        final paths = pathsByFolder[folder] ?? <String>[];
+        final subjectFileCount = paths.length;
+        if (subjectFileCount == 0) {
+          AppLogger.warning(
+            'MCQ seed: no JSON files for subject folder $folder',
+          );
+          continue;
+        }
+
+        for (var index = 0; index < paths.length; index++) {
+          final path = paths[index];
           try {
             final raw = await rootBundle.loadString(path);
             final parsed = await compute(parseMcqBundleJson, raw);
@@ -103,7 +127,7 @@ class McqSeedRepositoryImpl implements McqSeedRepository {
           onProgress(
             McqSeedProgress(
               overallFraction: completedSlots / totalSlots,
-              subjectFraction: n / McqSeedConstants.filesPerSubject,
+              subjectFraction: (index + 1) / subjectFileCount,
               currentSubjectFolder: folder,
               currentSubjectLabel: label,
             ),
@@ -119,6 +143,46 @@ class McqSeedRepositoryImpl implements McqSeedRepository {
       );
       return Left(CacheFailure(e.toString()));
     }
+  }
+
+  /// Resolves ordered JSON paths for one subject folder based on [McqSeedConstants.fileCountMode].
+  Future<List<String>> _jsonAssetPathsForSubjectFolder(String folder) async {
+    final prefix = '${McqSeedConstants.assetRootEn}/$folder/';
+    switch (McqSeedConstants.fileCountMode) {
+      case McqSeedFileCountMode.cappedSequential:
+        return List<String>.generate(
+          McqSeedConstants.filesPerSubject,
+          (i) => '$prefix${i + 1}.json',
+        );
+      case McqSeedFileCountMode.allBundledJson:
+        final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
+        final keys = manifest
+            .listAssets()
+            .where(
+              (String key) => key.startsWith(prefix) && key.endsWith('.json'),
+            )
+            .toList()
+          ..sort(_compareQuestionJsonAssetPaths);
+        return keys;
+    }
+  }
+
+  /// Puts `2.json` before `10.json`; non-numeric names sort alphabetically after numeric stems.
+  static int _compareQuestionJsonAssetPaths(String a, String b) {
+    final fa = a.split('/').last.replaceAll('.json', '');
+    final fb = b.split('/').last.replaceAll('.json', '');
+    final ia = int.tryParse(fa);
+    final ib = int.tryParse(fb);
+    if (ia != null && ib != null) {
+      return ia.compareTo(ib);
+    }
+    if (ia != null) {
+      return -1;
+    }
+    if (ib != null) {
+      return 1;
+    }
+    return fa.compareTo(fb);
   }
 
   static String _folderToDisplayLabel(String folder) {

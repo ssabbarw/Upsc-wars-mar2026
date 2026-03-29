@@ -8,6 +8,7 @@ import 'package:upsc_wars_new/features/practice_test/presentation/pages/practice
 import 'package:upsc_wars_new/features/practice_test/presentation/pages/practice_test_results_page.dart';
 import 'package:upsc_wars_new/features/practice_test/presentation/pages/practice_test_review_page.dart';
 import 'package:upsc_wars_new/features/subject_tests/presentation/pages/subject_test_list_page.dart';
+import 'package:upsc_wars_new/features/topic_wise/presentation/pages/topic_wise_browse_page.dart';
 
 part 'app_router.g.dart';
 
@@ -16,6 +17,7 @@ part 'app_router.g.dart';
 enum AppRoute {
   splash,
   home,
+  topicWiseBrowse,
   subjectTests,
   practiceTestRun,
   practiceTestResults,
@@ -37,6 +39,11 @@ GoRouter appRouter(Ref ref) {
         path: '/home',
         name: AppRoute.home.name,
         builder: (context, state) => const HomePage(),
+      ),
+      GoRoute(
+        path: '/topic-wise/browse',
+        name: AppRoute.topicWiseBrowse.name,
+        builder: (context, state) => const TopicWiseBrowsePage(),
       ),
       GoRoute(
         path: '/subject/:subjectId/tests',

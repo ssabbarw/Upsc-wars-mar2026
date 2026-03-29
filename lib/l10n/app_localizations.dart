@@ -224,6 +224,66 @@ abstract class AppLocalizations {
   /// **'Chapter Based Tests'**
   String get chapterBasedTests;
 
+  /// App bar title for topic / tag browse screen
+  ///
+  /// In en, this message translates to:
+  /// **'Topic-wise browse'**
+  String get topicWiseBrowseTitle;
+
+  /// Hint for topic-wise tag search field
+  ///
+  /// In en, this message translates to:
+  /// **'Search tags…'**
+  String get topicWiseBrowseSearchHint;
+
+  /// Caption when config uses topic field
+  ///
+  /// In en, this message translates to:
+  /// **'Showing: topics'**
+  String get topicWiseBrowseGroupingTopic;
+
+  /// Caption when config uses sub_topic field
+  ///
+  /// In en, this message translates to:
+  /// **'Showing: sub-topics'**
+  String get topicWiseBrowseGroupingSubTopic;
+
+  /// Caption when config uses concepts_used
+  ///
+  /// In en, this message translates to:
+  /// **'Showing: concepts'**
+  String get topicWiseBrowseGroupingConcepts;
+
+  /// No rows in DB for selected subject
+  ///
+  /// In en, this message translates to:
+  /// **'No tags found for this subject yet.'**
+  String get topicWiseBrowseEmptySubject;
+
+  /// Search returned no results
+  ///
+  /// In en, this message translates to:
+  /// **'No tags match your search. Try different words.'**
+  String get topicWiseBrowseEmptyFilter;
+
+  /// Error loading topic-wise tag list
+  ///
+  /// In en, this message translates to:
+  /// **'Could not load tags. Open the app again after questions finish importing.'**
+  String get topicWiseBrowseLoadError;
+
+  /// Badge showing how many questions use a tag
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, one{{count} question} other{{count} questions}}'**
+  String topicWiseBrowseQuestionCount(int count);
+
+  /// SnackBar when user taps a tag row
+  ///
+  /// In en, this message translates to:
+  /// **'Practice by tag will be available in a future update.'**
+  String get topicWiseBrowseTagTapSoon;
+
   /// Previous Year Questions section heading
   ///
   /// In en, this message translates to:

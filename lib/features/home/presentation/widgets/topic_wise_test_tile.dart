@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:upsc_wars_new/core/constants/app_sizes.dart';
+import 'package:upsc_wars_new/core/router/app_router.dart';
 import 'package:upsc_wars_new/core/utils/responsive.dart';
 import 'package:upsc_wars_new/l10n/app_localizations.dart';
 
@@ -25,7 +27,9 @@ class TopicWiseTestTile extends StatelessWidget {
         child: Material(
           color: _color,
           child: InkWell(
-            onTap: () {},
+            onTap: () {
+              context.pushNamed(AppRoute.topicWiseBrowse.name);
+            },
             child: Padding(
               padding: const EdgeInsets.symmetric(
                 horizontal: AppSizes.lg,
