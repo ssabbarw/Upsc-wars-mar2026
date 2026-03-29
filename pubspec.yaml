@@ -1,0 +1,51 @@
+name: upsc_wars_new
+description: "UPSC Wars - Educational App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Localisation
+  intl: ^0.20.2
+
+  # State management
+  flutter_riverpod: ^2.6.1
+  hooks_riverpod: ^2.6.1
+  flutter_hooks: ^0.20.5
+  riverpod_annotation: ^2.3.5
+
+  # Navigation
+  go_router: ^14.6.2
+
+  # Local database — primary data store
+  sqflite: ^2.4.1
+  path: ^1.9.1
+
+  # Simple key-value store — used only for lightweight settings (e.g. theme mode).
+  # Not intended for feature data; use sqflite for that.
+  shared_preferences: ^2.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+  # Code generation for Riverpod
+  build_runner: ^2.4.13
+  riverpod_generator: ^2.4.3
+
+  # Riverpod-specific linting rules
+  custom_lint: ^0.7.0
+  riverpod_lint: ^2.3.13
+
+flutter:
+  uses-material-design: true
+  generate: true  # enables flutter gen-l10n for localizations
