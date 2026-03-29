@@ -1,6 +1,7 @@
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
+
 /// Singleton that manages the SQLite database connection.
 ///
 /// Features access the database via [appDatabaseProvider] (see
