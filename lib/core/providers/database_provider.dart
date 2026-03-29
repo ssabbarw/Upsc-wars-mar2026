@@ -1,4 +1,3 @@
-import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:upsc_wars_new/core/database/app_database.dart';
@@ -11,9 +10,13 @@ part 'database_provider.g.dart';
 /// ```dart
 /// final db = await ref.watch(appDatabaseProvider.future);
 /// ```
-@riverpod
-Future<Database> appDatabase(Ref ref) async {
-  final db = await AppDatabase.instance.database;
+///
+/// [keepAlive] keeps the connection open for the app lifetime. [ref.onDispose]
+/// must be registered **before** any `await` — otherwise if this provider is
+/// disposed while [AppDatabase.instance.database] is still resolving,
+/// registering a dispose callback throws [StateError].
+@Riverpod(keepAlive: true)
+Future<Database> appDatabase(AppDatabaseRef ref) async {
   ref.onDispose(AppDatabase.instance.close);
-  return db;
+  return AppDatabase.instance.database;
 }

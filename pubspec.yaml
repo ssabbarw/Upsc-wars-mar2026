@@ -35,6 +35,7 @@ dependencies:
   # Simple key-value store — used only for lightweight settings (e.g. theme mode).
   # Not intended for feature data; use sqflite for that.
   shared_preferences: ^2.3.4
+  fpdart: ^1.2.0
 
 dev_dependencies:
   flutter_test:

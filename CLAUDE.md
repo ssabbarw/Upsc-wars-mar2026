@@ -207,6 +207,7 @@ class QuestionRepositoryImpl implements QuestionRepository {
 
 - **Simplicity first** — always prefer the simplest working solution
 - **Strict null safety** — never use `!` force-unwrap unless unavoidable; add a `// safe:` comment explaining why
+- use verbose names, i don't mind long names of classes, methods and variables. their name should explain what they do or are used for. Eg; readFilesOneByOneAndPutQuestionsinDBUsingBatchingFromAnIsolate -> this is perfectly acceptable  
 - Use `const` constructors and widgets everywhere possible
 - All public classes, methods, and fields must have `///` dartdoc comments
 - Use `final` by default — only use `var` if the value will change

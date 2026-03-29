@@ -265,6 +265,30 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'2020'**
   String get pyqYear2020;
+
+  /// Overall MCQ import progress percentage
+  ///
+  /// In en, this message translates to:
+  /// **'Overall: {percent}%'**
+  String mcqSeedOverallProgress(int percent);
+
+  /// Current subject MCQ import progress percentage
+  ///
+  /// In en, this message translates to:
+  /// **'{subject}: {percent}%'**
+  String mcqSeedSubjectProgress(String subject, int percent);
+
+  /// Message when MCQ import fails
+  ///
+  /// In en, this message translates to:
+  /// **'Could not load questions. Check storage and try again.'**
+  String get mcqSeedFailed;
+
+  /// Button to retry MCQ import
+  ///
+  /// In en, this message translates to:
+  /// **'Retry'**
+  String get mcqSeedRetry;
 }
 
 class _AppLocalizationsDelegate

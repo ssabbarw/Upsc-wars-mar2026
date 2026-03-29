@@ -6,7 +6,7 @@ part of 'database_provider.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$appDatabaseHash() => r'4a1f6f727f788b419a50c1dea1f44aacbd515cbb';
+String _$appDatabaseHash() => r'58c0dfdadcbc0a108c64aaf0223f8cd4379d2d48';
 
 /// Provides the open [Database] instance to the rest of the app.
 ///
@@ -15,9 +15,14 @@ String _$appDatabaseHash() => r'4a1f6f727f788b419a50c1dea1f44aacbd515cbb';
 /// final db = await ref.watch(appDatabaseProvider.future);
 /// ```
 ///
+/// [keepAlive] keeps the connection open for the app lifetime. [ref.onDispose]
+/// must be registered **before** any `await` — otherwise if this provider is
+/// disposed while [AppDatabase.instance.database] is still resolving,
+/// registering a dispose callback throws [StateError].
+///
 /// Copied from [appDatabase].
 @ProviderFor(appDatabase)
-final appDatabaseProvider = AutoDisposeFutureProvider<Database>.internal(
+final appDatabaseProvider = FutureProvider<Database>.internal(
   appDatabase,
   name: r'appDatabaseProvider',
   debugGetCreateSourceHash:
@@ -28,6 +33,6 @@ final appDatabaseProvider = AutoDisposeFutureProvider<Database>.internal(
 
 @Deprecated('Will be removed in 3.0. Use Ref instead')
 // ignore: unused_element
-typedef AppDatabaseRef = AutoDisposeFutureProviderRef<Database>;
+typedef AppDatabaseRef = FutureProviderRef<Database>;
 // ignore_for_file: type=lint
 // ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package

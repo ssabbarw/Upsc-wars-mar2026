@@ -91,4 +91,21 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get pyqYear2020 => '2020';
+
+  @override
+  String mcqSeedOverallProgress(int percent) {
+    return 'Overall: $percent%';
+  }
+
+  @override
+  String mcqSeedSubjectProgress(String subject, int percent) {
+    return '$subject: $percent%';
+  }
+
+  @override
+  String get mcqSeedFailed =>
+      'Could not load questions. Check storage and try again.';
+
+  @override
+  String get mcqSeedRetry => 'Retry';
 }

@@ -83,5 +83,28 @@
   "@pyqYear2021": { "description": "PYQ year 2021" },
 
   "pyqYear2020": "2020",
-  "@pyqYear2020": { "description": "PYQ year 2020" }
+  "@pyqYear2020": { "description": "PYQ year 2020" },
+
+  "mcqSeedOverallProgress": "Overall: {percent}%",
+  "@mcqSeedOverallProgress": {
+    "description": "Overall MCQ import progress percentage",
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+
+  "mcqSeedSubjectProgress": "{subject}: {percent}%",
+  "@mcqSeedSubjectProgress": {
+    "description": "Current subject MCQ import progress percentage",
+    "placeholders": {
+      "subject": { "type": "String" },
+      "percent": { "type": "int" }
+    }
+  },
+
+  "mcqSeedFailed": "Could not load questions. Check storage and try again.",
+  "@mcqSeedFailed": { "description": "Message when MCQ import fails" },
+
+  "mcqSeedRetry": "Retry",
+  "@mcqSeedRetry": { "description": "Button to retry MCQ import" }
 }
