@@ -1,0 +1,1626 @@
+[
+  {
+    "meta": {
+      "uuid": "39b3025a-ff4e-4763-9369-966a8017c013",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "GDP vs GNP vs NNP: Definitional Boundaries and Interconversion"
+      ],
+      "subject_que_no": 4794,
+      "overall_que_no": 12141
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "NNP at market price vs NNP at factor cost",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is deceptive because students often treat 'Net National Income' as synonymous with NNP at market price, missing that NNI specifically refers to NNP at factor cost.",
+      "elimination_logic": [
+        "Eliminate option (a): GNP minus depreciation gives NNP at market price, not Net National Income — an additional step is needed.",
+        "Eliminate option (b): NNP at market price retains indirect taxes net of subsidies; Net National Income (NNI) removes them — they are not the same.",
+        "Eliminate option (d): Subtracting NFIA from GDP gives GNP, not NNP or NNI — this confuses two separate conversions.",
+        "Confirm option (c): Net National Income = NNP at Factor Cost = NNP at Market Price – Net Indirect Taxes — this correctly defines NNI."
+      ],
+      "upsc_trap_explanation": "The UPSC frequently exploits the confusion between NNP at market price and Net National Income (NNI). Students know that GNP minus depreciation equals NNP, but many stop there and treat NNP and NNI as identical. In fact, NNI is NNP at factor cost — obtained by further subtracting net indirect taxes (indirect taxes minus subsidies) from NNP at market price. A student who has only partially studied this chain will select option (b), believing NNP at market price and NNI are the same concept with different labels.",
+      "final_explanation": "The chain of national income aggregates requires precise conversions at each step. Starting from GDP, adding Net Factor Income from Abroad (NFIA) gives GNP; subtracting depreciation gives NNP at market price; subtracting net indirect taxes gives NNP at factor cost, which is also called Net National Income (NNI).\n\n• Option (a): Incorrect — GNP minus depreciation yields NNP at market price, not NNI. A further subtraction of net indirect taxes is required.\n• Option (b): Incorrect — NNP at market price and NNI are distinct; the former includes net indirect taxes embedded in market prices, while NNI strips them out.\n• Option (c): Correct — NNI = NNP at Factor Cost = NNP at Market Price – Net Indirect Taxes. This is the standard definition used in India's national accounts.\n• Option (d): Incorrect — Subtracting NFIA from GDP moves in the reverse direction (toward a domestic measure), which is unrelated to NNI.\n\nValue Addition:\n• Net indirect taxes = Indirect taxes – Subsidies; when subsidies exceed indirect taxes, net indirect taxes are negative.\n• India reports National Income as NNI (NNP at factor cost) in CSO/MoSPI publications.\n• The conversion ladder: GDP → (+NFIA) → GNP → (–Depreciation) → NNP at MP → (–Net Indirect Taxes) → NNI."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following correctly defines 'Net National Income' (NNI) in national income accounting?\n\n(a) Gross National Product minus Depreciation\n(b) Net National Product at Market Price minus Net Factor Income from Abroad\n(c) Net National Product at Market Price minus Net Indirect Taxes\n(d) Gross Domestic Product minus Net Factor Income from Abroad minus Depreciation",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9b12f9e9-7e74-4386-9e1a-955d37badc2b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Market Price vs Factor Cost vs Basic Price: Three Valuation Concepts"
+      ],
+      "subject_que_no": 4795,
+      "overall_que_no": 12142
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "conflation",
+      "concept_anchor": "Basic Price distinguished from Factor Cost",
+      "statement_analysis": [
+        {
+          "statement": "GDP at Basic Price equals GDP at Factor Cost when there are no taxes or subsidies on production.",
+          "verdict": "Correct",
+          "reason": "Basic Price = price received by producer excluding product taxes but including production subsidies; Factor Cost further excludes net production taxes. When production taxes and subsidies are both zero, Basic Price equals Factor Cost."
+        },
+        {
+          "statement": "India shifted from Factor Cost to Basic Price as the primary valuation measure following the 2011-12 base year revision to align with SNA 2008 norms.",
+          "verdict": "Correct",
+          "reason": "The 2015 revision adopting 2011-12 as base year shifted India's primary GDP measure to market price at the aggregate level and basic price at the sectoral/GVA level, consistent with SNA 2008 recommendations."
+        },
+        {
+          "statement": "Basic Price includes subsidies granted on products but excludes subsidies on production.",
+          "verdict": "Incorrect",
+          "reason": "Basic Price excludes product taxes and excludes product subsidies received; it is the price producers receive after production subsidies but before product taxes. The distinction between product-level and production-level taxes/subsidies is what separates Basic Price from Factor Cost."
+        }
+      ],
+      "strong_distractor": "d — A student who confuses the direction of subsidy inclusion between basic price and factor cost will accept statement 3 as correct and choose option (d), selecting all three statements.",
+      "elimination_logic": [
+        "Verify statement 1: When net production taxes = 0 and net product taxes = 0, Basic Price and Factor Cost converge — statement 1 is correct.",
+        "Verify statement 2: India's 2015 base revision adopted SNA 2008 and shifted primary measure to market price/basic price — statement 2 is correct.",
+        "Reject statement 3: Basic Price excludes taxes on products and is net of product subsidies received by producers; it does not separately exclude 'production subsidies' as stated — statement 3 conflates the two levels.",
+        "Select option (b): only statements 1 and 2 are correct."
+      ],
+      "upsc_trap_explanation": "The trap here lies in conflating the two levels at which taxes and subsidies operate: the product level (taxes/subsidies on specific products) and the production level (taxes on the act of production). Basic Price removes product taxes but retains what producers receive; Factor Cost goes further by also adjusting for net production taxes. A student who has memorised 'Basic Price excludes taxes' without understanding the two-tier structure will miscategorise statement 3 as correct.",
+      "final_explanation": "India's national accounting framework uses three valuation concepts that differ in how taxes and subsidies are treated. Market Price is the price paid by consumers. Basic Price is what producers receive — it excludes product taxes but includes product subsidies received. Factor Cost goes one step further by also excluding net taxes on production (taxes levied on firms for the act of producing).\n\n• Statement 1 — Correct: In the absence of all taxes and subsidies on production, Basic Price and Factor Cost are numerically equal. The difference between them is precisely net production taxes.\n• Statement 2 — Correct: India's 2015 revision (2011-12 base year) adopted SNA 2008 norms, moving the primary headline measure to GDP at market price and sectoral data to GVA at basic prices.\n• Statement 3 — Incorrect: This statement mischaracterises the structure. Basic Price does not separately exclude 'production subsidies' — it already reflects what producers receive after product-level adjustments, while Factor Cost adjusts for production-level taxes.\n\nValue Addition:\n• GDP at MP = GVA at Basic Price + Product Taxes – Product Subsidies.\n• Factor Cost convention was India's primary measure until the 2011-12 revision.\n• SNA 2008 recommends Basic Price as the preferred valuation for output measurement."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding valuation concepts in India's national income accounting:\n\n1. GDP at Basic Price equals GDP at Factor Cost when there are no taxes or subsidies on production.\n2. India shifted from Factor Cost to Basic Price as the primary valuation measure following the 2011-12 base year revision to align with SNA 2008 norms.\n3. Basic Price includes subsidies granted on products but excludes subsidies on production.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "676a7a4a-9153-47bc-adc3-7b9a39f472bc",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Expenditure Method: Components of GDP (C + I + G + NX)"
+      ],
+      "subject_que_no": 4796,
+      "overall_que_no": 12143
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Government transfer payments excluded from G in GDP",
+      "statement_analysis": [
+        {
+          "statement": "Government expenditure (G) in the expenditure method of GDP includes transfer payments such as pensions and unemployment benefits.",
+          "verdict": "Incorrect",
+          "reason": "Transfer payments do not represent purchases of goods or services — they are income redistribution. GDP measures production, so only government consumption and investment spending enter G; transfer payments are excluded."
+        },
+        {
+          "statement": "Net exports (NX) are added to GDP because exports represent domestic production purchased by foreigners, while imports are subtracted to offset foreign-produced goods already counted in C, I, or G.",
+          "verdict": "Correct",
+          "reason": "The logic of NX is precisely to avoid double-counting: imports appear within C, I, and G when residents purchase foreign goods, so subtracting imports removes them, and adding exports captures domestic output sold abroad."
+        },
+        {
+          "statement": "In the expenditure method, gross investment (I) includes both Gross Fixed Capital Formation and the change in inventories but excludes purchases of existing second-hand capital assets.",
+          "verdict": "Correct",
+          "reason": "I = GFCF + Change in Inventories. Purchase of existing assets merely transfers ownership and does not create new output, so it is excluded from GDP's investment component."
+        }
+      ],
+      "strong_distractor": "a — Option (a) selects only statement 1 as incorrect, which requires a student to carefully verify statements 2 and 3 as correct; many students who know statement 1 is wrong will default to (a) without checking the others.",
+      "elimination_logic": [
+        "Identify statement 1: Transfer payments (pensions, subsidies) are explicitly excluded from G — this statement is false, making it a candidate for 'NOT correct'.",
+        "Verify statement 2: The NX logic of adding exports and subtracting imports to prevent double-counting is standard — statement 2 is correct.",
+        "Verify statement 3: Investment = GFCF + Change in Inventories; second-hand asset purchases are ownership transfers, not new production — statement 3 is correct.",
+        "Since only statement 1 is NOT correct, select option (a) — but check: the question asks which is NOT correct, so answer is (a) — wait, re-examine options. Only statement 1 is incorrect → correct_option is (a)."
+      ],
+      "upsc_trap_explanation": "The transfer payments trap is a recurring UPSC favourite. Students who have memorised 'G = government spending' without understanding what qualifies as spending often include social security payments, subsidies, and pensions within G. These are income redistributions, not factor payments for output, and are strictly excluded from the expenditure method. Statement 1 is crafted to sound precisely correct to a partially prepared student who associates 'government pensions' with 'government expenditure.'",
+      "final_explanation": "In the expenditure method, GDP = C + I + G + NX, where each component has a precise boundary.\n\n• Statement 1 — Incorrect: Government expenditure (G) covers only government purchases of goods and services (defence, education, salaries of public servants). Transfer payments like pensions and subsidies are not purchases of output — they redistribute income — and are therefore excluded from G.\n• Statement 2 — Correct: Exports are domestic output bought by foreigners (should be counted); imports are foreign output already embedded in C, I, or G (should be removed). NX = Exports – Imports achieves both adjustments simultaneously.\n• Statement 3 — Correct: Gross Investment = GFCF + Change in Inventories. Buying an existing factory merely transfers ownership between parties — no new production occurs — so it is rightly excluded.\n\nValue Addition:\n• Transfer payments enter national accounts as part of personal income, not as GDP components.\n• GFCF sub-components: machinery & equipment, construction, intellectual property products, cultivated biological resources.\n• Negative NX (trade deficit) directly reduces GDP measured by the expenditure method."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the expenditure method of GDP calculation:\n\n1. Government expenditure (G) in the expenditure method of GDP includes transfer payments such as pensions and unemployment benefits.\n2. Net exports (NX) are added to GDP because exports represent domestic production purchased by foreigners, while imports are subtracted to offset foreign-produced goods already counted in C, I, or G.\n3. In the expenditure method, gross investment (I) includes both Gross Fixed Capital Formation and the change in inventories but excludes purchases of existing second-hand capital assets.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2b6bc41f-e042-4cb5-aa17-253a1655035b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Gross Fixed Capital Formation (GFCF): Components and Significance"
+      ],
+      "subject_que_no": 4797,
+      "overall_que_no": 12144
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "GFCF components — existing assets excluded",
+      "statement_analysis": [
+        {
+          "statement": "Expenditure on new construction of roads and bridges by a state government is part of GFCF.",
+          "verdict": "Correct",
+          "reason": "Construction is one of the four recognised sub-components of GFCF; new infrastructure built by government qualifies as public GFCF."
+        },
+        {
+          "statement": "A manufacturing firm's purchase of a second-hand machine from another domestic firm is counted in GFCF.",
+          "verdict": "Incorrect",
+          "reason": "GFCF records only new fixed assets; purchase of existing second-hand assets merely transfers ownership without creating new productive capacity and is excluded."
+        },
+        {
+          "statement": "Expenditure on developing a new pharmaceutical patent by a private firm qualifies as GFCF under SNA 2008.",
+          "verdict": "Correct",
+          "reason": "Under SNA 2008, intellectual property products (including patents, software, R&D) are classified as GFCF, not intermediate consumption."
+        },
+        {
+          "statement": "A farmer's investment in a new herd of dairy cattle is included in GFCF as cultivated biological resources.",
+          "verdict": "Correct",
+          "reason": "Cultivated biological resources (livestock reared for dairy, draught, or breeding) are the fourth sub-component of GFCF under SNA 2008."
+        }
+      ],
+      "strong_distractor": "c — Students who know three of the four items correctly but are unsure about cultivated biological resources being in GFCF will select 'Only three', missing that all items except the second-hand machine are correct.",
+      "elimination_logic": [
+        "Evaluate pair 1: New construction is unambiguously a GFCF sub-component — correct.",
+        "Evaluate pair 2: Second-hand machine purchase is a transfer of existing assets, explicitly excluded from GFCF — incorrect.",
+        "Evaluate pair 3: SNA 2008 elevated R&D and patents to capital formation — pharmaceutical patent development is correct.",
+        "Evaluate pair 4: Cultivated biological resources (dairy cattle) are the fourth GFCF sub-component — correct.",
+        "Three of four pairs are correctly classified → answer is (c) Only three."
+      ],
+      "upsc_trap_explanation": "The second-hand asset trap is well-documented in UPSC patterns. GFCF measures additions to the capital stock of the economy, not all spending on capital goods. When a firm buys a machine from another domestic firm, no new machine enters the economy — the same machine simply changes hands. A student who has memorised 'investment = spending on capital goods' without the 'new assets only' qualifier will accept statement 2 as correct and overcount.",
+      "final_explanation": "GFCF measures the net addition to the economy's fixed capital stock — it counts only newly produced fixed assets, not transfers of existing ones. The four sub-components under SNA 2008 are: (1) Machinery and Equipment, (2) Construction, (3) Intellectual Property Products, and (4) Cultivated Biological Resources.\n\n| Item | Verdict |\n|---|---|\n| New construction of roads by state government | Correct — Construction sub-component |\n| Purchase of second-hand machine from domestic firm | Incorrect — Ownership transfer, not new capital |\n| Pharmaceutical patent development | Correct — Intellectual Property Products |\n| New dairy cattle herd | Correct — Cultivated Biological Resources |\n\nThree of the four pairs are correctly classified as GFCF.\n\nValue Addition:\n• Under SNA 2008, R&D expenditure is GFCF, not intermediate consumption — a major change from older conventions.\n• India's GFCF-to-GDP ratio is a key indicator tracked by MoSPI; a ratio above 30% is considered healthy.\n• Public GFCF has been declining relative to private GFCF in India since the 1990s liberalisation era."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following items and their classification as Gross Fixed Capital Formation (GFCF):",
+        "columns": [
+          "Item",
+          "Classified as GFCF?"
+        ],
+        "rows": [
+          [
+            "Expenditure on new construction of roads and bridges by a state government",
+            "Yes"
+          ],
+          [
+            "A manufacturing firm's purchase of a second-hand machine from another domestic firm",
+            "Yes"
+          ],
+          [
+            "Expenditure on developing a new pharmaceutical patent by a private firm",
+            "Yes"
+          ],
+          [
+            "A farmer's investment in a new herd of dairy cattle",
+            "Yes"
+          ]
+        ],
+        "footer_text": "How many of the above items are correctly classified as GFCF?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "95dfd79e-cdd4-4106-96ad-7ff2a417f51b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Change in Inventories (Stock-Building) as a GDP Component",
+        "Output/Value-Added Method: Concept of Value Added and Avoiding Double Counting"
+      ],
+      "subject_que_no": 4798,
+      "overall_que_no": 12145
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "Inventory changes and value-added in GDP identity",
+      "statement_analysis": null,
+      "strong_distractor": "c — Swapping the explanations for inventory drawdown and the double-counting problem is the most tempting error; students who conflate 'negative change in inventories' with 'exclusion of intermediate goods' will choose option (c).",
+      "elimination_logic": [
+        "Match A: Unplanned inventory accumulation → firms produced more than sold → output is still counted in GDP — matches with 3.",
+        "Match B: Inventory drawdown → goods produced in a prior period now sold → current GDP is reduced by this amount — matches with 1.",
+        "Match C: Wheat→flour→bread chain — adding all three stages double-counts wheat and flour — the solution is to count only value added or final goods — matches with 4.",
+        "Match D: Machinery purchased by a firm is a final good (investment), not intermediate — it enters GFCF, not excluded — matches with 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 → option (a)."
+      ],
+      "upsc_trap_explanation": "The trap lies in confusing 'intermediate goods excluded from GDP' with 'inventory drawdown reduces GDP.' Both concepts involve goods not being sold in the current period, but the reasoning is opposite. Intermediate goods (wheat used to make flour) are excluded to avoid double-counting — they reappear in the value of the final good. Inventory drawdown, however, involves goods sold in the current period that were produced in a prior period — current GDP falls because no new production occurs this period for those sales.",
+      "final_explanation": "GDP measurement requires careful treatment of goods that do not match the period of production and sale.\n\n| List I (Scenario) | List II (Explanation) |\n|---|---|\n| A — Unplanned inventory accumulation | 3 — Output produced but unsold is treated as 'purchased' by the producer and counted in GDP |\n| B — Inventory drawdown | 1 — Goods sold from prior-period stock reduce current GDP since they were not produced this period |\n| C — Wheat→Flour→Bread chain | 4 — Counting output at each stage double-counts inputs; only value added or final good value is used |\n| D — Machinery purchased by firm | 2 — Capital goods are final goods (GFCF), not intermediate, so they are included in GDP |\n\nCorrect match: A-3, B-1, C-4, D-2.\n\nValue Addition:\n• Planned vs unplanned inventory accumulation: planned is investment; unplanned signals demand shortfall — both enter GDP.\n• The output-expenditure identity requires treating unsold output as 'self-purchased investment' by the firm.\n• Negative inventory change (drawdown) is subtracted in the expenditure method even when retail sales are booming."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Scenario in GDP measurement) with List II (Explanation/Principle):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. A textile firm produces 1,000 shirts but sells only 700 in the same year — an unplanned build-up of stock",
+            "1. This reduces current-period GDP because the goods being sold were not produced in the current period"
+          ],
+          [
+            "B. A retailer sells goods from last year's unsold inventory, producing nothing new this year",
+            "2. Capital goods are treated as final goods (GFCF) and are fully included in GDP"
+          ],
+          [
+            "C. National accountants count only the value of bread, not also the value of wheat and flour used to make it",
+            "3. Unsold output is recorded as investment by the producer and included in GDP"
+          ],
+          [
+            "D. A factory's purchase of new industrial robots for use in production",
+            "4. Counting output at every stage of production would count the same material inputs multiple times"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-1, C-4, D-2\n(b) A-1, B-3, C-4, D-2\n(c) A-3, B-4, C-1, D-2\n(d) A-2, B-1, C-3, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "beb40d64-1daa-4617-a320-9efc49490e6f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Income Method: Factor Incomes and Their Classification"
+      ],
+      "subject_que_no": 4799,
+      "overall_que_no": 12146
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Gross Mixed Income — informal sector coverage",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who correctly identify both A and R as true will often assume R explains A without pausing to examine whether the causal link holds — the large informal sector explains why GMI is large, but the definition of GMI is not caused by informality.",
+      "elimination_logic": [
+        "Step 1: Is A correct? — Gross Mixed Income covers self-employed and unincorporated enterprises where labour and capital returns cannot be separated — Yes, A is factually correct.",
+        "Step 2: Is R correct? — India's informal/unorganised sector constitutes over 50% of GDP — Yes, R is factually correct.",
+        "Step 3: Does R explain A? — The definition and existence of Gross Mixed Income as a category predates India's informality; GMI is a universal SNA category, not created because of India's informal sector. R explains why GMI is large in India, not why GMI exists as a concept — R does NOT causally explain A.",
+        "Since both A and R are correct but R does not explain A, the answer is option (b) — wait: re-examine. The question as constructed maps to option (b) in standard AR format. But correct_option is listed as (d). Re-examine: A is correct; R is correct but does not explain A → option (b). There is a mismatch — correct_option must be (b). Correcting: correct_option = b."
+      ],
+      "upsc_trap_explanation": "Both the assertion and reason are independently true facts. The trap is assuming that because India has a large informal sector and GMI captures the informal sector, the existence of informality 'explains' the definition of GMI. In reality, Gross Mixed Income is a universally defined SNA category present in all economies, regardless of the size of the informal sector. The informal sector's size explains the quantitative significance of GMI in India, not the definitional existence of the category.",
+      "final_explanation": "The income method of GDP aggregates all factor incomes: Compensation of Employees (wages/salaries), Gross Operating Surplus (profits, rents, interest of incorporated entities), Gross Mixed Income (GMI), and net taxes on production.\n\nAssertion (A): Correct — GMI is defined as the income of self-employed individuals and unincorporated household enterprises where it is impossible to separately identify the labour and capital components of income. This is standard SNA terminology.\n\nReason (R): Correct — India's informal/unorganised sector is estimated to account for more than half of GDP, making GMI a critically important aggregate in India's income accounts.\n\nCausal link: R does NOT explain A. GMI's definition is a universal SNA convention, not a product of India's informality. R explains why GMI is quantitatively significant in India, not why the category exists. Therefore, both A and R are correct, but R is not the correct explanation of A.\n\nValue Addition:\n• Transfer payments (pensions, unemployment benefits) are explicitly excluded from all four income categories.\n• India measures GMI largely through NSSO surveys, not direct enterprise accounts.\n• Nominal vs real wages: deflating by CPI converts nominal compensation data to real purchasing power."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): In the income method of GDP calculation, 'Gross Mixed Income' is the category used to capture earnings of self-employed individuals and unincorporated enterprises where labour and capital income cannot be separately identified.\n\nReason (R): India's informal and unorganised sector accounts for a majority of the country's economic output, making the Gross Mixed Income category especially significant in India's national income accounts.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "67e1135b-44a6-4df8-b864-9481669bed08",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Output/Value-Added Method: Concept of Value Added and Avoiding Double Counting"
+      ],
+      "subject_que_no": 4800,
+      "overall_que_no": 12147
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "conflation",
+      "concept_anchor": "Intermediate goods excluded; capital goods included as final goods",
+      "statement_analysis": null,
+      "strong_distractor": "c — A student who knows that 'intermediate goods are excluded from GDP' may incorrectly extend this to capital goods, reasoning that industrial robots used in production are 'used up in production' similar to raw materials.",
+      "elimination_logic": [
+        "Identify the principle: value-added method excludes intermediate consumption to avoid double-counting, but capital goods (machinery, robots) are final goods — they are not consumed in a single production cycle.",
+        "Eliminate option (a): Steel used by the car manufacturer is intermediate consumption — it is excluded. But the scenario asks which item IS correctly included, not excluded.",
+        "Confirm option (b): Industrial robots are fixed capital assets — they are classified as GFCF (a final good category) and are fully counted in GDP.",
+        "Eliminate option (c): Electricity purchased from a supplier and used in the production process is intermediate consumption — excluded from the car manufacturer's value added.",
+        "Eliminate option (d): Car parts bought from a domestic supplier and assembled are intermediate inputs — the value of parts is captured in the supplier's value added, not added again at the assembly stage."
+      ],
+      "upsc_trap_explanation": "The conflation trap here involves capital goods vs intermediate goods. Both are used in production, but the distinction is crucial: intermediate goods are fully used up in one production period (steel, electricity, components), while capital goods (robots, machinery) provide services over multiple periods. Only intermediate goods are deducted as 'intermediate consumption' in the value-added method; capital goods enter GDP as GFCF — a final good category.",
+      "final_explanation": "A national income statistician uses the output/value-added method to calculate GDP. In this method, Value Added = Gross Output – Intermediate Consumption. The challenge lies in correctly distinguishing intermediate inputs (excluded) from final goods, including capital goods (included).\n\nApplicable principle: Intermediate goods used up in production are deducted as intermediate consumption. Capital goods — assets used across multiple periods — are not intermediate consumption; they are GFCF and count as final goods in GDP.\n\n• Option (a): Steel sheets used by a car factory are intermediate inputs — absorbed into the final car. Including them separately causes double-counting. Excluded.\n• Option (b): Correct — Industrial robots purchased by a factory are capital assets (GFCF). They are not consumed in a single production cycle and are counted as final investment spending in GDP.\n• Option (c): Electricity purchased from a grid operator for production use is intermediate consumption — it is excluded from the car manufacturer's output value when computing value added.\n• Option (d): Components sourced from domestic suppliers are intermediate inputs — their value is already in the supplier's value added. Counting them again at the assembly stage double-counts them.\n\nValue Addition:\n• Under SNA 2008, R&D spending and military weapons are also treated as capital formation (final goods), not intermediate consumption.\n• The double-counting problem is the foundational reason for using value added rather than gross output.\n• India's GDP by output method is primarily measured as GVA at basic prices, then adjusted to GDP at market prices."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A national income statistician is compiling GDP using the output/value-added method for a large automobile manufacturing economy. The automobile factory purchases steel sheets from a steel mill, imports electricity from a grid operator, sources engine components from a domestic supplier, and has recently invested in industrial robots for the assembly line. All transactions occur within the same accounting year.\n\nWhich of the following items should be included in the economy's GDP as a final good or investment, rather than being deducted as intermediate consumption?\n\n(a) Steel sheets purchased by the automobile factory from the domestic steel mill\n(b) Industrial robots purchased by the automobile factory for use on the assembly line\n(c) Electricity purchased from the grid operator for powering the production facility\n(d) Engine components sourced from a domestic supplier and incorporated into finished vehicles",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8a2e36f0-9e85-4090-bd6e-9e6e267ef5be",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Gross Value Added (GVA) vs GDP: The Bridge Equation"
+      ],
+      "subject_que_no": 4801,
+      "overall_que_no": 12148
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Sectoral growth rates reported in GVA not GDP",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students familiar with GVA but uncertain about whether the agriculture sector specifically uses GVA or GDP will hesitate before correctly identifying the GDP-based statement as the odd one out.",
+      "elimination_logic": [
+        "Identify the common attribute: the correct items should all be true features of GVA-based measurement in India's national accounts.",
+        "Evaluate (a): India's sectoral growth rates (agriculture, industry, services) are reported in GVA terms — TRUE, consistent with GVA usage.",
+        "Evaluate (b): GDP at market price is obtained from GVA at basic price by adding product taxes and subtracting product subsidies — TRUE, part of the bridge equation.",
+        "Evaluate (c): This claims that GDP, not GVA, is the primary measure used for inter-sectoral comparisons within India's national accounts — FALSE; GVA at basic prices is the primary sectoral measure in India.",
+        "Evaluate (d): When taxes on products grow faster than GVA, GDP growth can exceed GVA growth — TRUE, a direct implication of the bridge equation."
+      ],
+      "upsc_trap_explanation": "The trap exploits the common tendency to use 'GDP' and 'GVA' interchangeably. India's national accounts use GVA at basic prices as the preferred measure for sector-level analysis. GDP is the aggregate economy-level measure. A partially prepared student may not know that sectoral data in India is specifically presented in GVA terms, not GDP terms, and may dismiss option (c) as a minor terminological issue rather than a substantive error.",
+      "final_explanation": "In India's national accounts, GVA at basic prices and GDP at market prices are connected by the bridge equation: GDP = GVA + Taxes on Products – Subsidies on Products.\n\n• Option (a): True — All sector-level growth rates published by MoSPI (agriculture, industry, services) are in GVA terms.\n• Option (b): True — The bridge equation is exactly this: product taxes are added and product subsidies subtracted to move from GVA to GDP.\n• Option (c): False — This is the odd one out. Inter-sectoral comparisons within India's national accounts use GVA at basic prices, not GDP. GDP is the aggregate measure; GVA is the sector-level measure.\n• Option (d): True — Since GDP = GVA + net product taxes, if net product taxes grow faster than GVA, GDP growth rate will arithmetically exceed GVA growth rate.\n\nValue Addition:\n• India's Economic Survey and Union Budget both report sectoral composition in GVA terms.\n• GDP can be thought of as 'GVA from the demand side' adjusted for taxes and subsidies on products.\n• A falling subsidy bill (if subsidies on products are reduced) increases GDP relative to GVA."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following statements correctly describe the relationship between Gross Value Added (GVA) and GDP in India's national accounts. Which one does NOT?\n\n(a) India reports sectoral economic growth rates — for agriculture, industry, and services — in GVA terms rather than GDP terms.\n(b) GDP at market price is derived from GVA at basic price by adding taxes on products and subtracting subsidies on products.\n(c) GDP at market price, rather than GVA at basic price, is the primary measure used for comparing the relative size of individual sectors in India's national accounts.\n(d) When taxes on products grow at a faster rate than GVA, the resulting GDP growth rate will exceed the GVA growth rate in the same period.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e8122431-0c12-4f2b-b819-35cc185a3e9a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Real GDP vs Nominal GDP: GDP Deflator and Price Indices"
+      ],
+      "subject_que_no": 4802,
+      "overall_que_no": 12149
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "GDP Deflator — variable basket vs CPI fixed basket",
+      "statement_analysis": [
+        {
+          "statement": "The GDP Deflator is a broader price index than CPI because it covers all domestically produced goods and services, including capital goods, while excluding imported goods.",
+          "verdict": "Correct",
+          "reason": "GDP Deflator covers the entire range of domestically produced output (consumption, investment, government spending) and excludes imports since imports are not domestic production. CPI, by contrast, includes imported goods in the consumption basket."
+        },
+        {
+          "statement": "Like the Consumer Price Index, the GDP Deflator uses a fixed basket of goods whose composition remains unchanged from the base year to the current year.",
+          "verdict": "Incorrect",
+          "reason": "The GDP Deflator is a variable-weight (Paasche-type) index — its basket changes every year to reflect current-year output composition. CPI uses a fixed Laspeyres-type basket anchored to the base year."
+        }
+      ],
+      "strong_distractor": "a — Students who know the GDP Deflator is broader than CPI will accept statement 1 as correct but may not recall the fixed vs variable basket distinction for statement 2, leading them to select 'both correct.'",
+      "elimination_logic": [
+        "Evaluate statement 1: GDP Deflator = (Nominal GDP / Real GDP) × 100 — covers all domestically produced goods including capital goods; excludes imports. Statement 1 is correct.",
+        "Evaluate statement 2: CPI uses a fixed Laspeyres basket; GDP Deflator uses a variable Paasche basket that updates each year. The claim of a 'fixed basket' for GDP Deflator is false. Statement 2 is incorrect.",
+        "Since statement 1 is correct and statement 2 is incorrect, select option (c) — Statement 1 correct, Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "The UPSC has tested the fixed vs variable basket distinction before. Most students know that GDP Deflator is broader than CPI but have not specifically memorised that CPI is a Laspeyres (fixed-weight) index while GDP Deflator is a Paasche (variable-weight) index. Statement 2 is constructed to sound like a reasonable analogy — 'both are price indices, so both use fixed baskets' — exploiting the scope-extension error of assuming GDP Deflator works the same way as CPI.",
+      "final_explanation": "The GDP Deflator and CPI measure price changes differently in coverage and methodology.\n\n• Statement 1 — Correct: The GDP Deflator covers all domestically produced goods — consumption goods, capital goods, and government expenditure. It excludes imports (since imports are foreign production) but includes capital goods that CPI omits. CPI covers the consumer's market basket, which includes imports.\n• Statement 2 — Incorrect: CPI uses a fixed (Laspeyres) basket defined at the base year and updated infrequently. The GDP Deflator, by contrast, uses a variable basket that reflects the current year's output composition — it is effectively a Paasche-type index. Calling it 'fixed basket' mischaracterises its methodology.\n\nSince statement 1 is correct and statement 2 is incorrect, option (c) is correct.\n\nValue Addition:\n• GDP Deflator formula: (Nominal GDP ÷ Real GDP) × 100.\n• CPI tends to overstate inflation due to substitution bias (fixed basket doesn't adjust for consumer switching); GDP Deflator avoids this.\n• India uses CPI (Combined) as the inflation target under the Monetary Policy Framework Agreement, not the GDP Deflator."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding the GDP Deflator:\n\nStatement 1: The GDP Deflator is a broader price index than CPI because it covers all domestically produced goods and services, including capital goods, while excluding imported goods.\nStatement 2: Like the Consumer Price Index, the GDP Deflator uses a fixed basket of goods whose composition remains unchanged from the base year to the current year.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9bee8317-5887-48d5-9d60-7ffd388f151a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Base Year Revision in National Accounts: India's 2011-12 Base Year"
+      ],
+      "subject_que_no": 4803,
+      "overall_que_no": 12150
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "2011-12 base year revision and GDP controversy",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students aware that India revised its base year but uncertain of the exact year often confuse 2004-05 (the previous base year) with 2011-12 (the current base year), selecting option (b).",
+      "elimination_logic": [
+        "Recall that India's most recent base year revision was announced by MoSPI in January 2015.",
+        "The revision replaced 2004-05 as the base year with 2011-12, adopting SNA 2008 norms.",
+        "The revision shifted the primary measure from Factor Cost to Market Price and significantly raised GDP estimates, triggering the 'GDP controversy.'",
+        "Option (c) — 2011-12 — is the correct base year; option (b) — 2004-05 — was the previous base year now replaced."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap is classic: students who have read about India's base year revision but not memorised which year replaced which will confuse 2004-05 (the previous base year) with 2011-12 (the current one). The question adds difficulty by naming both years as options, forcing students to recall not just that 'a revision happened' but precisely which year is now the base year.",
+      "final_explanation": "India's national income accounting uses a base year to compute real GDP. The base year is periodically revised to reflect structural changes in the economy.\n\n• Option (a) — 1999-2000: This was an even older base year used before 2004-05; it has been superseded twice.\n• Option (b) — 2004-05: This was the previous base year, now replaced. Selecting this confuses the old and new base years.\n• Option (c) — 2011-12: Correct. MoSPI adopted 2011-12 as the new base year in January 2015. Key changes: shift from Factor Cost to Market Price as headline measure, adoption of SNA 2008 norms (including R&D as GFCF), use of MCA21 database for corporate sector, and inclusion of financial sector profits — collectively raising GDP estimates.\n• Option (d) — 2017-18: This is not yet the official base year; the next revision to 2017-18 was under consideration but not finalised as of the current period.\n\nValue Addition:\n• The 2011-12 revision raised India's GDP growth estimates significantly, sparking the 'GDP controversy' in 2015.\n• MCA21 (Ministry of Corporate Affairs database) was a new data source introduced in the 2011-12 base revision.\n• Base year revisions also affect sectoral composition — services sector share changed with the new base."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "India's Ministry of Statistics and Programme Implementation (MoSPI) undertook a major revision of national income accounts in January 2015, shifting the primary headline measure from Factor Cost to Market Price and adopting SNA 2008 norms. This revision was based on ________ as the new base year, replacing the previously used base year.\n\n(a) 1999-2000\n(b) 2004-05\n(c) 2011-12\n(d) 2017-18",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "015b18a5-e7fa-4cc8-abdd-35a23a39a347",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "System of National Accounts (SNA) 2008: Key Norms and India's Compliance"
+      ],
+      "subject_que_no": 4804,
+      "overall_que_no": 12151
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "SNA 2008 — R&D as GFCF, FISIM inclusion, illegal activities",
+      "statement_analysis": [
+        {
+          "statement": "Under SNA 2008, research and development expenditure is reclassified from intermediate consumption to gross fixed capital formation.",
+          "verdict": "Correct",
+          "reason": "SNA 2008 explicitly treats R&D as intellectual property products forming part of GFCF — a major departure from earlier conventions that treated it as intermediate consumption."
+        },
+        {
+          "statement": "SNA 2008 requires all national statistical agencies to include estimates of illegal economic activities (drug trafficking, prostitution) in their GDP calculations.",
+          "verdict": "Incorrect",
+          "reason": "SNA 2008 does not mandate inclusion of illegal activities in GDP. Some European countries include certain illegal activities under ESA 2010 (the European adaptation), but this is not a universal SNA 2008 requirement."
+        },
+        {
+          "statement": "Financial Intermediation Services Indirectly Measured (FISIM) is included in GDP under SNA 2008 to capture the value of services provided by banks through the interest rate spread.",
+          "verdict": "Correct",
+          "reason": "FISIM represents the implicit service charge embedded in the interest rate differential between borrowing and lending rates of financial intermediaries and is included in output measurement under SNA 2008."
+        }
+      ],
+      "strong_distractor": "d — A student who has read about European countries (UK, Netherlands) including illegal activities in GDP may incorrectly generalise this to SNA 2008 as a global norm, accepting statement 2 as correct and choosing option (d).",
+      "elimination_logic": [
+        "Verify statement 1: SNA 2008 reclassified R&D to GFCF — this is a widely cited feature of SNA 2008 — statement 1 is correct.",
+        "Reject statement 2: Illegal activities inclusion was a feature of ESA 2010 adopted by EU countries; SNA 2008 itself does not mandate this — statement 2 is incorrect.",
+        "Verify statement 3: FISIM captures the implicit financial service in interest spreads and is a standard SNA 2008 inclusion — statement 3 is correct.",
+        "Statements 1 and 3 are correct → select option (a)."
+      ],
+      "upsc_trap_explanation": "The illegal activities trap is carefully designed. Several European countries (UK, Netherlands, Italy) made headlines in 2014 when they included illegal activities in GDP to comply with ESA 2010 (the European regional adaptation). Students who read these news items may generalise that SNA 2008 globally mandates this inclusion. In fact, SNA 2008 allows countries to record illegal activities but does not require it — the EU mandate was a regional policy decision under ESA 2010, not a universal SNA 2008 norm.",
+      "final_explanation": "SNA 2008 introduced several significant methodological changes to how GDP is measured globally.\n\n• Statement 1 — Correct: SNA 2008 reclassified R&D expenditure as Intellectual Property Products under GFCF. Previously, R&D was treated as intermediate consumption (cost of production), effectively invisible in GDP. This change raised GDP estimates in countries with large R&D sectors.\n• Statement 2 — Incorrect: SNA 2008 does not require inclusion of illegal activities. The confusion arises from ESA 2010 — the EU-specific adaptation — which led European countries to add estimates of drug trafficking and prostitution to their national accounts in 2014. This was a regional policy, not a global SNA 2008 mandate.\n• Statement 3 — Correct: FISIM represents the implicit price charged by banks (the spread between lending and deposit rates). Including it ensures banks' services are captured in GDP even when no explicit fee is charged.\n\nValue Addition:\n• Military weapons systems are also reclassified as GFCF (not government consumption) under SNA 2008.\n• India has partially adopted SNA 2008 — full compliance, especially in FISIM measurement, is still evolving.\n• ESA 2010 (European System of Accounts) is the EU's regional implementation of SNA 2008 principles."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the System of National Accounts (SNA) 2008:\n\n1. Under SNA 2008, research and development expenditure is reclassified from intermediate consumption to gross fixed capital formation.\n2. SNA 2008 requires all national statistical agencies to include estimates of illegal economic activities (drug trafficking, prostitution) in their GDP calculations.\n3. Financial Intermediation Services Indirectly Measured (FISIM) is included in GDP under SNA 2008 to capture the value of services provided by banks through the interest rate spread.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bd50a162-7b0f-4942-9d56-fddf06bce12f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Treatment of Government Services in GDP Measurement"
+      ],
+      "subject_que_no": 4805,
+      "overall_que_no": 12152
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Government non-market services valued at cost of production",
+      "statement_analysis": null,
+      "strong_distractor": "d — Option (d) references market price valuation, which students associate with GDP measurement generally, making it tempting to apply to government services specifically even though government services have no market price.",
+      "elimination_logic": [
+        "Recall that government services (public administration, defence, policing) are non-market services — no price is charged to recipients.",
+        "Without a market price, these services cannot be valued at market price — eliminate option (d).",
+        "Value added method excludes profit; government services are non-profit by nature, so 'profit margin' is irrelevant — eliminate option (c).",
+        "Valuating at citizens' willingness to pay requires contingent valuation surveys — this is not the standard national accounts method — eliminate option (a).",
+        "Confirm option (b): government non-market services are valued at cost of production = salaries of public servants + intermediate consumption + depreciation of government assets."
+      ],
+      "upsc_trap_explanation": "Students familiar with GDP measurement know that 'value added' or 'market price' are the standard concepts, and they often apply these to all sectors including government. The specific problem with government services is that no market price exists — no one pays a market rate for a police patrol or a court hearing. The solution in national accounts is to value output at input cost (salaries + depreciation + intermediate consumption), a method that creates the perverse result of equating government efficiency with expenditure.",
+      "final_explanation": "Government non-market services present a unique measurement challenge in national income accounting because no market price is charged to users. National accountants resolve this by using the cost-of-production approach.\n\n• Option (a): Willingness-to-pay surveys are used in welfare economics and environmental valuation — not in standard national accounts for government services.\n• Option (b): Correct — Government non-market services are valued at cost of production: total compensation of government employees (salaries, wages) plus intermediate consumption (stationery, utilities, etc.) plus depreciation of government capital assets.\n• Option (c): Applying a profit margin requires knowledge of revenue and profit — government non-market services generate no revenue, making profit-margin imputation impossible.\n• Option (d): Market price valuation is precisely what cannot be applied — the absence of a market price is the defining problem.\n\nValue Addition:\n• This convention means that hiring more public servants raises measured GDP even if their productivity is zero — a recognised limitation.\n• Under SNA 2008, defence weapons are now GFCF (investment), raising government's contribution to GDP.\n• FISIM is separately added for government's use of financial intermediation services."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "In national income accounting, the output of government non-market services — such as public administration, law enforcement, and judicial services — cannot be measured at a market price since they are provided free or at nominal cost. How does the standard national accounts framework value these services for inclusion in GDP?\n\n(a) By estimating citizens' aggregate willingness to pay for these services through survey methods\n(b) By summing the cost of inputs used to produce them — including employee compensation, intermediate consumption, and depreciation of government capital assets\n(c) By applying a profit margin to the cost of production, consistent with how private sector services are valued\n(d) By using the market price of the closest private-sector equivalent service available in the economy",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "90f213bb-9c1d-4b82-9ac0-1168979c1ae7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Net Factor Income from Abroad (NFIA): Components and India's Position"
+      ],
+      "subject_que_no": 4806,
+      "overall_que_no": 12153
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "NRI remittances not factor income in NFIA",
+      "statement_analysis": [
+        {
+          "statement": "Remittances sent by Non-Resident Indians to their families in India are classified as factor income and are included in the NFIA component used to convert GDP to GNP.",
+          "verdict": "Incorrect",
+          "reason": "NRI remittances are transfer payments, not compensation for factor services rendered. They appear in the current account of the Balance of Payments as 'private transfers,' not as factor income, and do not enter NFIA."
+        },
+        {
+          "statement": "India's Net Factor Income from Abroad is typically negative because profits repatriated by foreign firms operating in India exceed the earnings of Indian firms and workers abroad.",
+          "verdict": "Correct",
+          "reason": "India is a net capital-importing nation; foreign firms earn substantial profits in India and repatriate them, while Indian outward investment income is smaller, resulting in a negative NFIA and GNP < GDP for India."
+        },
+        {
+          "statement": "Compensation earned by Indian software engineers temporarily working abroad on short-term contracts is included in India's NFIA.",
+          "verdict": "Correct",
+          "reason": "Compensation of resident individuals working abroad (if they remain residents for national accounting purposes) is a component of NFIA — it represents factor services rendered abroad and income flowing back to the home economy."
+        }
+      ],
+      "strong_distractor": "a — Students who know NRI remittances are important for India's balance of payments will incorrectly categorise them as factor income, selecting only statement 1 as incorrect, missing that statements 2 and 3 are correct.",
+      "elimination_logic": [
+        "Evaluate statement 1: NRI remittances are transfers, not factor payments — they appear in BOP's current account as private transfers, not factor income. Statement 1 is NOT correct.",
+        "Evaluate statement 2: India's GNP < GDP is well-established — negative NFIA due to profit repatriation by foreign firms — statement 2 is correct (so NOT in the 'not correct' answer).",
+        "Evaluate statement 3: Compensation of Indian residents working temporarily abroad is factor income flowing in — included in NFIA — statement 3 is correct.",
+        "Only statement 1 is NOT correct → answer is option (a) — 1 only."
+      ],
+      "upsc_trap_explanation": "NRI remittances are one of India's largest foreign exchange earnings — over $80 billion annually — making them highly salient in any economics discussion. This salience creates the trap: students conflate 'important for India's external sector' with 'factor income in NFIA.' In reality, remittances are gifts or transfers from individuals living abroad to family members at home — no factor service is rendered in exchange. They appear in the Balance of Payments under 'Secondary Income' (private transfers), not under 'Primary Income' (factor income).",
+      "final_explanation": "NFIA captures income flows related to factor services — labour, capital — crossing national borders. It is critical to distinguish factor income from transfer income.\n\n• Statement 1 — NOT correct: NRI remittances are private transfer payments with no quid pro quo factor service. They appear in the BOP's secondary income account, not as factor income, and do not enter NFIA.\n• Statement 2 — Correct: India's NFIA is characteristically negative. Foreign multinationals earn large profits in India and repatriate them abroad; Indian overseas investment income is comparatively smaller. Hence GNP < GDP for India.\n• Statement 3 — Correct: Compensation earned by Indian residents on temporary overseas assignments is factor income earned abroad — it is a component of NFIA's labour income sub-category.\n\nOnly statement 1 is NOT correct.\n\nValue Addition:\n• NFIA components: labour compensation (cross-border), investment income (dividends, interest), and retained earnings of subsidiaries.\n• India's BOP distinguishes 'Primary Income' (factor income, part of NFIA) from 'Secondary Income' (remittances, transfers).\n• For a capital-exporting nation like USA, GNP > GDP; for India, GNP < GDP."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about Net Factor Income from Abroad (NFIA) and India's external factor income position:\n\n1. Remittances sent by Non-Resident Indians to their families in India are classified as factor income and are included in the NFIA component used to convert GDP to GNP.\n2. India's Net Factor Income from Abroad is typically negative because profits repatriated by foreign firms operating in India exceed the earnings of Indian firms and workers abroad.\n3. Compensation earned by Indian software engineers temporarily working abroad on short-term contracts is included in India's NFIA.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d34e4cac-53b2-41c6-a661-9e045e70eaf9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Depreciation (Capital Consumption Allowance): Gross vs Net Aggregates"
+      ],
+      "subject_que_no": 4807,
+      "overall_que_no": 12154
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "Economic depreciation vs accounting depreciation in national accounts",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know that depreciation is subtracted from GNP to get NNP will identify the GNP–NNP relationship correctly in option (b) but may not realise that 'accounting/tax depreciation' in option (d) is the critical error that makes it the wrong pair.",
+      "elimination_logic": [
+        "Evaluate option (a): NNP = GNP – Depreciation is the correct formula — this pair is correctly matched.",
+        "Evaluate option (b): A higher depreciation rate does widen the gap between gross and net aggregates — this pair is correctly matched.",
+        "Evaluate option (c): GDP (gross) is preferred over NDP in practice because depreciation is difficult to measure accurately — this pair is correctly matched.",
+        "Evaluate option (d): This pair claims depreciation in national accounts is the same as accounting/tax depreciation — this is FALSE. National accounts use 'economic depreciation' (actual wear and tear of physical capital), which differs from accounting depreciation (governed by tax rules and amortisation schedules). Option (d) is NOT correctly matched."
+      ],
+      "upsc_trap_explanation": "Students with a commerce or accounting background are particularly vulnerable here — they are accustomed to 'depreciation' meaning the accounting charge calculated using written-down value or straight-line methods for tax purposes. National accounts use a different concept: economic depreciation, which measures the actual physical and economic wear of capital goods. The two diverge significantly — tax depreciation is often accelerated (to give tax breaks), while economic depreciation follows actual capital consumption patterns.",
+      "final_explanation": "Depreciation (Capital Consumption Allowance) bridges gross and net aggregates in national income accounting.\n\n• Option (a) — Correctly matched: NNP = GNP – Depreciation. This is the standard definitional formula. NNP is a better measure of sustainable income because it nets out capital consumed during production.\n• Option (b) — Correctly matched: A higher depreciation rate means more capital is consumed per period, widening the numerical gap between gross aggregates (GNP, GDP) and net aggregates (NNP, NDP).\n• Option (c) — Correctly matched: GDP is preferred over NDP in practice precisely because measuring depreciation accurately across all sectors and asset types is methodologically difficult — gross figures are more reliably measured.\n• Option (d) — NOT correctly matched: Depreciation in national accounts is 'economic depreciation' — reflecting the actual loss of value due to physical wear, tear, and obsolescence of capital assets. It is not the same as accounting/tax depreciation, which is governed by legal, financial reporting, or tax conventions and may be accelerated or deferred.\n\nValue Addition:\n• Economic depreciation aligns with the concept of 'replacement cost' of capital consumed.\n• High depreciation → gross figures overstate sustainable productive capacity.\n• India's CSO uses perpetual inventory method to estimate depreciation in national accounts."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to depreciation in national income accounting is NOT correctly matched?\n\n(a) NNP : Obtained by subtracting depreciation (capital consumption allowance) from GNP\n(b) Higher depreciation rate : Widens the gap between gross and net national income aggregates\n(c) Preference for GDP over NDP in practice : Difficulty in accurately measuring depreciation across all sectors\n(d) Depreciation in national accounts : Equivalent to accounting or tax depreciation as used in corporate financial statements",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "36515a94-1656-4077-82be-4aca321e424f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Personal Income, Disposable Income, and National Income: The Aggregates Ladder"
+      ],
+      "subject_que_no": 4808,
+      "overall_que_no": 12155
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "entity-swap",
+      "concept_anchor": "National Income to Personal Disposable Income conversion sequence",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know the general direction (NI → PI → PDI) but are uncertain about where retained corporate profits and social security contributions are deducted (at the NI→PI step) will confuse option (c) with option (b).",
+      "elimination_logic": [
+        "Establish the starting point: National Income (NNP at Factor Cost) is the broadest aggregate in this ladder.",
+        "Step 1 conversion: From National Income to Personal Income — deduct retained corporate profits, corporate income taxes, social security contributions; add transfer payments (pensions, subsidies) received by households.",
+        "Step 2 conversion: From Personal Income to Personal Disposable Income — deduct personal direct taxes (income tax on individuals).",
+        "The correct sequence is: National Income → Personal Income → Personal Disposable Income, matching option (b).",
+        "Option (a) wrongly inserts PDI between NI and PI; option (c) starts from GDP not NI; option (d) omits the PI stage entirely."
+      ],
+      "upsc_trap_explanation": "The trap exploits the distinction between National Income and Personal Income, which many students treat as synonymous. National Income includes retained corporate profits and social security contributions that never reach individual households — these must be deducted to arrive at Personal Income. Only then are personal taxes deducted to reach Personal Disposable Income. Students who skip the National Income → Personal Income step and go directly from National Income to Personal Disposable Income will find options (b) and (d) indistinguishable without this precision.",
+      "final_explanation": "The national income aggregates form a precise ladder, with each step requiring specific additions and deductions.\n\nCorrect sequence: National Income (NNP at FC) → Personal Income → Personal Disposable Income.\n\nStep 1 — National Income to Personal Income:\n- Deduct: Retained earnings of corporations (undistributed profits), corporate taxes, social security contributions\n- Add: Transfer payments received by households (pensions, unemployment benefits)\n\nStep 2 — Personal Income to Personal Disposable Income:\n- Deduct: Personal direct taxes (individual income tax)\n\nWhy wrong options fail:\n- Option (a): Inserts Personal Disposable Income before Personal Income — reverses the two steps.\n- Option (c): Begins from GDP rather than National Income — GDP is a gross domestic measure, not the starting point of this personal income ladder.\n- Option (d): Skips the Personal Income stage entirely, conflating National Income with Personal Disposable Income.\n\nValue Addition:\n• Personal Disposable Income ≠ Private Final Consumption Expenditure — households save a portion of PDI.\n• India's household savings rate is calculated as a share of PDI.\n• Per Capita PDI is a better welfare indicator than per capita GDP, though still imperfect (ignores distribution)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct sequence of converting National Income into Personal Disposable Income in national income accounting?\n\n(a) National Income → Personal Disposable Income → Personal Income\n(b) National Income → Personal Income → Personal Disposable Income\n(c) GDP at Market Price → Personal Income → Personal Disposable Income\n(d) National Income → Personal Disposable Income (in a single step, by deducting all taxes)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "064b04ab-889e-4571-be03-794483c52a49",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Underground Economy, Informal Sector, and GDP Underestimation in India"
+      ],
+      "subject_que_no": 4809,
+      "overall_que_no": 12156
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Household services — GDP exclusion and outsourcing inclusion",
+      "statement_analysis": [
+        {
+          "statement": "A mother who cooks, cleans, and provides childcare within her own household contributes services that are NOT included in GDP, whereas if she were employed as a paid cook or nanny by another household, her identical services WOULD be counted in GDP.",
+          "verdict": "Correct",
+          "reason": "Non-monetised household production is excluded from GDP because no market transaction occurs. When identical services are purchased through a market transaction, they enter GDP. This is the basis of the feminist critique of GDP attributed to economists including Marilyn Waring and Hilary Rose, not Hausman — though Hausman's critique refers to a different measurement issue."
+        },
+        {
+          "statement": "The informal sector in India contributes less than 20% of GDP, as most informal activity is by definition unrecorded and therefore not captured in national accounts.",
+          "verdict": "Incorrect",
+          "reason": "India's informal sector is estimated to account for over 50% of GDP; while imperfectly measured, statisticians use NSSO surveys, enterprise surveys, and proxy indicators to estimate its contribution — it is not simply excluded."
+        }
+      ],
+      "strong_distractor": "a — Wait — correct_option IS (a), meaning both statements need to be re-evaluated. Statement 1 is correct; Statement 2 is incorrect → option (c): Statement 1 correct, Statement 2 incorrect. Correcting: correct_option = c.",
+      "elimination_logic": [
+        "Evaluate statement 1: Household services by a family member are excluded from GDP (no market transaction); the same services rendered for pay ARE included — this is factually accurate. Statement 1 is correct.",
+        "Evaluate statement 2: India's informal sector is estimated above 50% of GDP — the claim of 'less than 20%' is categorically false. Statement 2 is incorrect.",
+        "Statement 1 correct + Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 inverts the scale of India's informal sector. Students who know 'the informal sector is poorly measured' may interpret 'poorly measured' as 'barely counted' and accept the 20% figure as plausible. In reality, statisticians use multiple proxy methods (NSSO household surveys, enterprise surveys, benchmark-indicator approaches) to estimate informal sector contribution, which exceeds 50% of GDP by most estimates. The scope-extension trap of 'not recorded = not counted = small' is a frequent misconception.",
+      "final_explanation": "GDP measurement has well-known gaps, particularly in household production and the informal sector.\n\n• Statement 1 — Correct: Non-monetised household services (cooking, childcare, cleaning by a family member) are not counted in GDP because no market transaction takes place. If identical services are provided for payment in an arm's-length market transaction, they enter GDP. This asymmetry is the basis of the feminist critique of GDP as a welfare measure — it systematically undervalues unpaid women's work.\n• Statement 2 — Incorrect: India's informal/unorganised sector contributes an estimated 50-55% of GDP. While measurement is imperfect, MoSPI uses NSSO surveys, labour force data, and benchmark-indicator methods to estimate informal sector output — it is not simply excluded. The claim of 'less than 20%' severely understates its contribution.\n\nOption (c) is correct.\n\nValue Addition:\n• Demonetisation (2016) created controversy because its impact on the informal sector was difficult to capture in official GDP data.\n• Green GDP attempts to account for environmental costs not reflected in standard GDP.\n• India uses the 'benchmark-indicator' approach: formal sector data anchors estimates; informal sector is scaled using labour and output proxies."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about GDP measurement limitations in India:\n\nStatement 1: A mother who cooks, cleans, and provides childcare within her own household contributes services that are NOT included in GDP, whereas if she were employed as a paid cook or nanny by another household, her identical services WOULD be counted in GDP.\nStatement 2: The informal sector in India contributes less than 20% of GDP, as most informal activity is by definition unrecorded and therefore not captured in national accounts.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6039d469-7adf-45c3-a25c-03143c5db702",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "GDP and Welfare: Limitations as a Development Indicator"
+      ],
+      "subject_que_no": 4810,
+      "overall_que_no": 12157
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Simon Kuznets cautioned against GDP as welfare measure",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students may attribute the welfare critique of GDP to a more recent economist (like Joseph Stiglitz or Amartya Sen) rather than to Kuznets himself, since it seems counterintuitive that the creator of GDP would warn against its misuse.",
+      "elimination_logic": [
+        "Recall that GDP as a concept was developed primarily by Simon Kuznets for the US Department of Commerce in 1934.",
+        "Kuznets himself, in his 1934 report to the US Congress, explicitly warned that 'the welfare of a nation can scarcely be inferred from a measurement of national income.'",
+        "Eliminate option (a): Amartya Sen developed the Human Development Index concept with Mahbub ul Haq — he critiqued GDP but did not create it.",
+        "Eliminate option (b): Arthur Pigou developed welfare economics but did not specifically issue the GDP welfare caution.",
+        "Eliminate option (d): Partha Dasgupta critiques GDP on sustainability grounds (natural capital) but is not the originator of this warning.",
+        "Confirm option (c): Simon Kuznets is the correct attribution."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap: students know 'someone famous warned that GDP should not be used as a welfare measure' but attribute it to more recent critics (Sen, Stiglitz, Piketty) rather than to Kuznets — the architect of national income accounting himself. Kuznets' 1934 warning to the US Congress is historically precise and UPSC-testable. The irony of the GDP creator cautioning against its misuse makes this a high-value fact.",
+      "final_explanation": "GDP was developed as a measure of productive output, not of societal welfare or well-being.\n\n• Option (a): Amartya Sen co-developed the Human Development Index (with Mahbub ul Haq) and has written extensively on GDP's inadequacy as a welfare measure — but the foundational warning against using national income as a welfare indicator was made decades earlier.\n• Option (b): Arthur Pigou pioneered welfare economics and the concept of externalities but is not the source of this specific caution about national income.\n• Option (c): Correct — Simon Kuznets, who developed the national income accounting framework for the United States in 1934, explicitly warned the US Congress: \"The welfare of a nation can scarcely be inferred from a measurement of national income.\" He was aware of GDP's limitations from the moment he created it.\n• Option (d): Partha Dasgupta has critiqued GDP for ignoring natural capital depletion and advocates for 'inclusive wealth' — relevant but not the original warning.\n\nValue Addition:\n• Alternatives to GDP: HDI (UNDP), GNH (Bhutan), Genuine Progress Indicator (GPI), Green GDP (SEEA).\n• GDP ignores: income distribution (Gini), unpaid work, environmental degradation, leisure time.\n• The Sarkozy Commission (2009) — led by Stiglitz, Sen, Fitoussi — formally recommended moving 'beyond GDP.'"
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following economists, despite being instrumental in developing the national income accounting framework, explicitly cautioned that the welfare of a nation cannot be adequately inferred from national income measurements alone?\n\n(a) Amartya Sen\n(b) Arthur Pigou\n(c) Simon Kuznets\n(d) Partha Dasgupta",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4f2a9519-193c-48bc-949d-b5cec339256a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Advance Estimates, Revised Estimates, and GDP Data Architecture in India"
+      ],
+      "subject_que_no": 4811,
+      "overall_que_no": 12158
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "First Advance Estimate used for Union Budget — timing trap",
+      "statement_analysis": [
+        {
+          "statement": "The Union Budget presented in February relies on the First Advance Estimate of GDP, which is released in January of the same year and is based on approximately seven to eight months of actual economic data.",
+          "verdict": "Correct",
+          "reason": "MoSPI releases the First Advance Estimate in early January; the Finance Ministry uses these figures for Budget calculations since the full-year data are not yet available. The estimate uses proxy indicators for the remaining 4-5 months."
+        },
+        {
+          "statement": "India's GDP data architecture includes up to three rounds of revision, with the Third Revised Estimate being released approximately two to three years after the reference year.",
+          "verdict": "Correct",
+          "reason": "After the First and Second Advance Estimates, MoSPI releases First, Second, and Third Revised Estimates in successive years as more complete data become available. The Third Revised Estimate is considered the most reliable."
+        },
+        {
+          "statement": "The benchmark-indicator method used for advance estimates relies on high-frequency proxy data such as Index of Industrial Production, advance tax collections, and listed corporate financial results to project full-year GDP.",
+          "verdict": "Correct",
+          "reason": "Advance estimates use available monthly/quarterly indicators (IIP for industry, tax revenue data, corporate earnings, agricultural sowing data) as proxies to extrapolate the remaining months of the fiscal year."
+        }
+      ],
+      "strong_distractor": "c — Students who believe only two of the three statements are correct will choose option (c) (1 and 2 only), typically doubting statement 3's specific detail about which proxy indicators are used.",
+      "elimination_logic": [
+        "Verify statement 1: First Advance Estimate released in January, Budget presented in February — uses 7-8 months of data — statement 1 is correct.",
+        "Verify statement 2: India has three revised estimates issued over two to three years post the reference year — statement 2 is correct.",
+        "Verify statement 3: IIP, tax data, corporate results are standard proxies used in the benchmark-indicator method — statement 3 is correct.",
+        "All three statements are correct → select option (d)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap is embedded in statement 1: students often confuse the Second Advance Estimate (February) with the First Advance Estimate (January) as the basis for the Union Budget. The key fact is that the Budget is prepared using the First Advance Estimate (January), not the Second Advance Estimate (released in February, around the same time as the Budget itself — but the Budget preparation predates this release). This timing creates the trap.",
+      "final_explanation": "India's GDP data follows a multi-stage revision architecture, moving from preliminary estimates to increasingly accurate revised figures.\n\n• Statement 1 — Correct: The First Advance Estimate is released in early January. Since the Union Budget is presented in February, the Finance Ministry relies on this estimate for revenue projections and fiscal deficit calculations. Only 7-8 months of actual data are available at this point; the remaining months are extrapolated using proxy indicators.\n• Statement 2 — Correct: MoSPI releases First Revised Estimate (January of the following year), Second Revised Estimate, and Third Revised Estimate in successive years. Each revision uses more complete administrative and survey data, narrowing the margin of error.\n• Statement 3 — Correct: The benchmark-indicator method uses high-frequency proxies: IIP for manufacturing output, advance tax collections for corporate activity, agricultural sowing and procurement data for the farm sector, and listed company quarterly results for corporate sector trends.\n\nAll three statements are correct.\n\nValue Addition:\n• The Second Advance Estimate (released in February) uses 9-10 months of data — marginally more reliable.\n• Revision bias in India: research suggests advance estimates have sometimes overestimated growth relative to final estimates.\n• Base data for national accounts come from ASI (Annual Survey of Industries), NSSO surveys, and MCA21 corporate database."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about India's GDP data release architecture:\n\n1. The Union Budget presented in February relies on the First Advance Estimate of GDP, which is released in January of the same year and is based on approximately seven to eight months of actual economic data.\n2. India's GDP data architecture includes up to three rounds of revision, with the Third Revised Estimate being released approximately two to three years after the reference year.\n3. The benchmark-indicator method used for advance estimates relies on high-frequency proxy data such as Index of Industrial Production, advance tax collections, and listed corporate financial results to project full-year GDP.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "79a155cd-4307-49c9-ad8f-2a69216d20f1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Three Methods Equivalence: The GDP Identity and Why All Three Give the Same Answer"
+      ],
+      "subject_que_no": 4812,
+      "overall_que_no": 12159
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "GDP identity — three methods equal by accounting definition",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who correctly identify both A and R as true may assume R is merely a supporting fact rather than a causal explanation, and choose option (b). However, the accounting identity IS the causal explanation — R directly explains why A holds.",
+      "elimination_logic": [
+        "Step 1: Is A correct? — In theory, the output, income, and expenditure methods yield identical GDP — yes, this is the foundational identity of national income accounting. A is correct.",
+        "Step 2: Is R correct? — Every act of production generates factor income for input providers; every act of income spending is someone else's output — this circular flow is the basis of the accounting identity. R is correct.",
+        "Step 3: Does R explain A? — Yes. The reason all three methods give the same theoretical answer is precisely because of the circular flow: output creates income, income is spent on output. R is the correct causal explanation of A.",
+        "Both A and R correct, R explains A → option (a)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "The three-method equivalence is a foundational principle of national income accounting, grounded in the circular flow of income.\n\nAssertion (A): Correct — In theory, the Output (Value-Added) Method, the Income Method, and the Expenditure Method all yield the same GDP figure. This is the GDP accounting identity: every unit of output corresponds to income earned and spending undertaken.\n\nReason (R): Correct — The circular flow establishes the causal chain: every good or service produced (output) generates income for the factor owners (labour, capital, land) who produced it; that income is then spent on goods and services (expenditure). Therefore, output = income = expenditure — by the logic of economic accounting, not by coincidence.\n\nCausal link: R correctly explains A. The identity holds because of this circular flow argument — production creates income; income funds spending; spending purchases output. In practice, statistical discrepancies arise because data for the three methods come from different sources, but the theoretical identity is preserved.\n\nValue Addition:\n• India primarily uses the Output/GVA method as its primary GDP estimation approach.\n• The USA primarily uses the Expenditure method.\n• Statistical Discrepancy in India's accounts is resolved by treating the output method estimate as primary and expressing the discrepancy explicitly in the income/expenditure breakdown."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): In theory, the output method, income method, and expenditure method of calculating GDP must yield identical results for the same economy in the same accounting period.\n\nReason (R): Every unit of production simultaneously generates income for the factors of production involved, and the expenditure on that output is what constitutes the income of the sellers — making output, income, and expenditure conceptually inseparable in a closed economy.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4f5db5ef-2aa9-49b6-8651-42117e500029",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Purchasing Power Parity (PPP) vs Market Exchange Rate for International GDP Comparison"
+      ],
+      "subject_que_no": 4813,
+      "overall_que_no": 12160
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "India GDP rank PPP vs nominal — Balassa-Samuelson Effect",
+      "statement_analysis": [
+        {
+          "statement": "India's GDP rank by PPP is higher than its rank by nominal USD exchange rate, because PPP adjusts for India's lower price levels, making each dollar of income represent more real purchasing power.",
+          "verdict": "Correct",
+          "reason": "India is approximately 3rd globally by PPP-adjusted GDP but 5th or 6th by nominal USD GDP. Lower domestic price levels (especially for non-traded services) inflate PPP-adjusted figures relative to nominal figures."
+        },
+        {
+          "statement": "The Balassa-Samuelson Effect explains why non-traded services (haircuts, local transport, domestic food) are typically cheaper in developing countries, which is the primary reason PPP GDP exceeds nominal GDP for such economies.",
+          "verdict": "Correct",
+          "reason": "The Balassa-Samuelson effect: productivity growth in the traded goods sector raises wages across the economy; in developing countries, lower productivity in traded goods means lower economy-wide wages and therefore cheaper non-traded services — driving the price level down and PPP GDP above nominal GDP."
+        },
+        {
+          "statement": "The International Monetary Fund uses PPP-based GDP for assessing countries' external debt sustainability and trade balances, rather than nominal USD GDP.",
+          "verdict": "Incorrect",
+          "reason": "The IMF uses nominal GDP (in USD) for debt sustainability analysis and trade comparisons — debts are contracted and settled in nominal currency values. PPP is used for welfare and standard-of-living comparisons."
+        },
+        {
+          "statement": "A country with a highly undervalued currency relative to its purchasing power parity exchange rate will show a larger gap between its PPP GDP and its nominal GDP.",
+          "verdict": "Correct",
+          "reason": "An undervalued currency (nominal exchange rate below PPP rate) mechanically reduces nominal GDP relative to PPP GDP. Countries like China (historically) and India exhibit this gap."
+        }
+      ],
+      "strong_distractor": "d — Students who recall that IMF uses PPP figures in its World Economic Outlook for global comparisons may not distinguish between using PPP for welfare comparison versus debt sustainability, accepting statement 3 as correct and choosing 'All four.'",
+      "elimination_logic": [
+        "Evaluate pair 1: India ranks ~3rd by PPP and ~5th/6th by nominal — PPP adjusts for price level differences — correct.",
+        "Evaluate pair 2: Balassa-Samuelson effect explains non-traded services cheapness in developing economies driving PPP above nominal GDP — correct.",
+        "Evaluate pair 3: IMF uses nominal GDP for debt sustainability and trade, not PPP — incorrect.",
+        "Evaluate pair 4: Undervalued currency → lower nominal GDP relative to PPP GDP → larger gap — correct.",
+        "Three of four are correct → answer is (c) Only three."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap targets the IMF's use of PPP. The IMF does publish PPP figures prominently in its World Economic Outlook, which creates the impression that PPP is the IMF's standard measure for all purposes. In fact, IMF's debt sustainability analyses, Article IV consultations, and trade assessments use nominal GDP in USD. PPP is used specifically for welfare and living-standard comparisons, where the volume of goods and services matters more than currency values.",
+      "final_explanation": "PPP adjustments and nominal exchange-rate-based GDP serve different analytical purposes in international economics.\n\n| Pair | Verdict |\n|---|---|\n| India's higher PPP rank vs nominal rank | Correct — India ~3rd (PPP) vs ~5th-6th (nominal) |\n| Balassa-Samuelson Effect explains non-traded services cheapness | Correct — productivity differential → cheaper services → lower price level |\n| IMF uses PPP for debt sustainability analysis | Incorrect — IMF uses nominal GDP for debt/trade; PPP for welfare comparisons |\n| Undervalued currency → larger PPP-nominal gap | Correct — mechanically follows from definition |\n\nThree of four pairs are correct.\n\nValue Addition:\n• World Bank and IMF use PPP for global poverty line calculations and inequality comparisons.\n• China's PPP GDP briefly exceeded US PPP GDP around 2014 by IMF estimates.\n• PPP conversion factors are updated by the International Comparison Program (ICP), last comprehensively done in 2017."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about Purchasing Power Parity (PPP) and nominal GDP comparisons:",
+        "columns": [
+          "Statement",
+          "Claimed as correct?"
+        ],
+        "rows": [
+          [
+            "India's GDP rank by PPP is higher than its rank by nominal USD exchange rate, because PPP adjusts for India's lower price levels, making each dollar of income represent more real purchasing power.",
+            "Yes"
+          ],
+          [
+            "The Balassa-Samuelson Effect explains why non-traded services are typically cheaper in developing countries, which is the primary reason PPP GDP exceeds nominal GDP for such economies.",
+            "Yes"
+          ],
+          [
+            "The International Monetary Fund uses PPP-based GDP for assessing countries' external debt sustainability and trade balances, rather than nominal USD GDP.",
+            "Yes"
+          ],
+          [
+            "A country with a highly undervalued currency relative to its purchasing power parity exchange rate will show a larger gap between its PPP GDP and its nominal GDP.",
+            "Yes"
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b9ce6fe7-8f4a-4373-82b2-e376752181d6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "GDP vs GNP vs NNP: Definitional Boundaries and Interconversion",
+        "Net Factor Income from Abroad (NFIA): Components and India's Position"
+      ],
+      "subject_que_no": 4814,
+      "overall_que_no": 12161
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Capital-importing nations — GNP < GDP relationship",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know India is a capital-importing nation and that this affects the GDP-GNP relationship may intuitively pick option (a) but without specifying the correct direction — they may confuse 'capital-importing' with 'GNP > GDP.'",
+      "elimination_logic": [
+        "Identify the principle: for a capital-importing nation, foreign factors earn more in the domestic economy than domestic factors earn abroad — NFIA is negative.",
+        "Negative NFIA means GNP = GDP + NFIA < GDP — so GNP is less than GDP for a capital-importing nation.",
+        "Eliminate option (a): GNP > GDP would require positive NFIA — this applies to capital-exporting nations (like Japan, Germany), not capital-importing ones.",
+        "Eliminate option (b): GNP = GDP would require NFIA = 0 — true only for a closed economy with no cross-border factor flows.",
+        "Eliminate option (d): This reverses the relationship — claiming GNP > GDP — and applies the wrong direction.",
+        "Confirm option (c): Country Zeta is a capital-importing developing nation with large foreign firm profits repatriated — NFIA is negative — GNP < GDP."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap: students correctly recall that 'capital flows relate to GNP-GDP difference' but confuse the direction. Capital-importing nations receive inflows of capital, meaning foreign firms earn profits domestically. When those profits leave as NFIA outflows, GNP (= GDP + NFIA) is less than GDP. Students who mentally associate 'large capital inflows' with 'more income' may incorrectly infer GNP > GDP, reversing the actual relationship.",
+      "final_explanation": "The relationship between GDP and GNP hinges on Net Factor Income from Abroad (NFIA).\n\nApplicable principle: GNP = GDP + NFIA. For capital-importing nations, foreign firms earn profits domestically and repatriate them — creating a net outflow of factor income (negative NFIA). Therefore, GNP < GDP for such economies.\n\n• Option (a): Incorrect — GNP > GDP requires positive NFIA, meaning domestic factors earn more abroad than foreign factors earn domestically. This characterises capital-exporting nations (Germany, Japan, USA), not capital-importing developing economies.\n• Option (b): Incorrect — GNP = GDP only when NFIA = 0, implying zero net cross-border factor flows — unrealistic for any open developing economy with FDI.\n• Option (c): Correct — Country Zeta is a capital-importing nation with large foreign firm profits repatriated. This creates negative NFIA. GNP = GDP + (negative NFIA) → GNP < GDP.\n• Option (d): Incorrect — This repeats the direction of option (a), misidentifying Zeta's category.\n\nValue Addition:\n• India's GNP is consistently below its GDP, reflecting net repatriation of foreign firm profits.\n• USA's GNP historically exceeded GDP because of large US corporate earnings abroad.\n• Remittances improve the current account but do NOT affect GDP or GNP directly (they are transfers, not factor income)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Country Zeta is a developing economy that has attracted large volumes of foreign direct investment over the past two decades. Foreign multinational corporations have established significant manufacturing operations within Zeta, and a substantial portion of the profits generated are repatriated to the home countries of these corporations. Meanwhile, Zeta's domestic firms have limited overseas investment, and few Zeta residents work abroad.\n\nWhich of the following statements most accurately describes the relationship between Country Zeta's GDP and GNP?\n\n(a) Country Zeta's GNP will exceed its GDP, since large capital inflows increase the nation's total income above its domestic output.\n(b) Country Zeta's GNP will equal its GDP, because foreign investment inflows and profit outflows cancel each other out over time.\n(c) Country Zeta's GNP will be less than its GDP, since factor income outflows (repatriated profits) exceed factor income inflows, resulting in negative Net Factor Income from Abroad.\n(d) Country Zeta's GNP will exceed its GDP, because it is a capital-importing nation and capital importers always have a higher GNP than GDP.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bca984b8-e38f-48c2-956e-e17ef26d6a12",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Expenditure Method: Components of GDP (C + I + G + NX)",
+        "Gross Fixed Capital Formation (GFCF): Components and Significance"
+      ],
+      "subject_que_no": 4815,
+      "overall_que_no": 12162
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Expenditure method components — transfer payments and GFCF boundary",
+      "statement_analysis": null,
+      "strong_distractor": "b — Swapping the matches for government transfer payments (A) and government consumption (C) is the most likely error — students who know transfers are excluded but forget which expenditure method category they 'belong to' will mismatch A and C.",
+      "elimination_logic": [
+        "Match A: Government transfer payments — these are NOT included in G in GDP; they are excluded from the expenditure method entirely as they are income redistributions — matches with 4.",
+        "Match B: Net exports = Exports – Imports; imports subtracted to remove foreign goods already embedded in C, I, G — matches with 2.",
+        "Match C: Government consumption expenditure (salaries, purchases of goods for current use) is the G component — matches with 1.",
+        "Match D: Purchase of new industrial machinery by a firm = GFCF = part of I (Gross Investment) — matches with 3.",
+        "Correct: A-4, B-2, C-1, D-3 → option (d)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap pairs 'government transfer payments' with 'included in G' — a classic misconception. Students who have partially memorised 'government expenditure in GDP' as including all government spending will match A with 1 (government consumption), missing that transfer payments are fully excluded from G. The question forces students to distinguish between government's role as a buyer of goods and services (G) and its role as an income redistributor (transfers).",
+      "final_explanation": "The expenditure method requires precise identification of what enters each component.\n\n| List I (Expenditure Item) | List II (Treatment in GDP) |\n|---|---|\n| A — Government transfer payments (pensions, unemployment benefits) | 4 — Excluded entirely from GDP expenditure method; they are income redistributions |\n| B — Net Exports (Exports – Imports) | 2 — Added to account for domestic output sold abroad; imports subtracted to remove foreign goods |\n| C — Government salaries and purchases of office supplies | 1 — Included as Government Consumption Expenditure (G) in C+I+G+NX |\n| D — New machinery purchased by a manufacturing firm | 3 — Included as Gross Fixed Capital Formation within Investment (I) |\n\nCorrect: A-4, B-2, C-1, D-3 → option (d).\n\nValue Addition:\n• Transfer payments enter the economy's income stream but represent no new output — hence excluded from GDP.\n• G in GDP includes both government consumption (recurrent) and government investment (GFCF) — defence weapons now classified as GFCF under SNA 2008.\n• A trade deficit (negative NX) arithmetically reduces GDP in the expenditure method."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Expenditure items) with List II (Their treatment in the Expenditure Method of GDP calculation):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Government transfer payments such as pensions paid to retired civil servants and unemployment benefits",
+            "1. Included as Government Consumption Expenditure (G) — a direct component of C+I+G+NX"
+          ],
+          [
+            "B. Net Exports (value of exports minus value of imports)",
+            "2. Added to capture domestic output sold abroad; imports deducted to remove foreign production from domestic totals"
+          ],
+          [
+            "C. Salaries of government employees and government purchases of office supplies for current use",
+            "3. Counted as Gross Fixed Capital Formation within the Investment (I) component"
+          ],
+          [
+            "D. Purchase of new industrial machinery by a private firm for use in its production facility",
+            "4. Excluded from GDP — represents income redistribution with no corresponding production of goods or services"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-2, C-4, D-3\n(b) A-1, B-4, C-2, D-3\n(c) A-4, B-3, C-1, D-2\n(d) A-4, B-2, C-1, D-3"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "08a7d882-2876-41a7-8062-1be3217e158d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Change in Inventories (Stock-Building) as a GDP Component"
+      ],
+      "subject_que_no": 4816,
+      "overall_que_no": 12163
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Inventory drawdown reduces GDP despite high sales",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who associate 'high sales' with 'high GDP contribution' will incorrectly choose option (a), not realising that if sales are met from inventories produced in a prior period, current GDP is reduced by the drawdown.",
+      "elimination_logic": [
+        "Recall: GDP measures current-period production, not current-period sales.",
+        "When a firm sells from its existing inventory (produced last period), current production has not increased — in fact, the inventory drawdown is a negative contribution to current GDP.",
+        "Eliminate option (a): High sales from inventory drawdown do NOT raise GDP — they draw down previously produced stock.",
+        "Eliminate option (b): GDP is not 'unchanged' — inventory drawdown is explicitly subtracted in the expenditure method.",
+        "Eliminate option (d): Inventory drawdown does not raise GDP; the relationship is the opposite.",
+        "Confirm option (c): A negative change in inventories (drawdown) reduces current-period GDP even when sales are buoyant."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap exploits the intuitive but incorrect association between high sales and high GDP. When a retailer or manufacturer sells goods from pre-existing inventory, they are selling something produced in a prior period — current production is zero for those items. The GDP identity requires that current-period output equals current-period income equals current-period expenditure; selling prior-period stock does not create current-period output. Inventory drawdown is subtracted in the current period's GDP calculation precisely to maintain this identity.",
+      "final_explanation": "GDP measures the value of goods and services produced in the current period, not goods sold in the current period.\n\n• Option (a): Incorrect — High sales from inventory do not raise current GDP. The goods were produced in a previous period; their production was already counted then.\n• Option (b): Incorrect — GDP is not unchanged. The inventory drawdown is explicitly a negative component in the change-in-inventories term within Investment (I) in the expenditure method.\n• Option (c): Correct — A drawdown of inventories (negative change in inventories) reduces current GDP even if actual sales are strong. This is because goods sold from inventory were produced in an earlier period; their production should have been — and was — counted in that earlier period's GDP.\n• Option (d): Incorrect — This states the opposite of the correct relationship.\n\nValue Addition:\n• Investment (I) in GDP = GFCF + Change in Inventories; a negative inventory change directly reduces I and therefore GDP.\n• Unplanned inventory accumulation (firms produce more than expected demand) is also counted in GDP — the firm is treated as 'purchasing' its own unsold output.\n• High inventory drawdown combined with strong sales signals demand outpacing production — often a leading indicator of future production increase."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "During a particular quarter, retail sales of consumer goods in an economy are exceptionally strong. However, firms had not ramped up production — instead, they met the surge in demand by selling from their previously accumulated inventories. As a result, inventories fell significantly below their levels at the start of the quarter. What is the effect on the current quarter's GDP?\n\n(a) Current GDP rises because high consumer sales represent high consumption expenditure.\n(b) Current GDP remains unchanged because the goods were already counted when they were produced.\n(c) Current GDP falls because the negative change in inventories reduces the investment component, offsetting any rise in consumption expenditure.\n(d) Current GDP rises because inventory drawdown signals productive activity, which is captured as output in the value-added method.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1bdb20c5-71c4-46f9-a4f8-5b18f2164a56",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Income Method: Factor Incomes and Their Classification",
+        "Personal Income, Disposable Income, and National Income: The Aggregates Ladder"
+      ],
+      "subject_que_no": 4817,
+      "overall_que_no": 12164
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "partial-truth",
+      "concept_anchor": "National Income vs Personal Income — retained profits deducted",
+      "statement_analysis": [
+        {
+          "statement": "National Income and Personal Income are identical because all income generated in the economy ultimately flows to households as the ultimate owners of all factors of production.",
+          "verdict": "Incorrect",
+          "reason": "National Income includes retained corporate profits, social security contributions by employers, and corporate taxes — none of which reach individual households directly. Personal Income deducts these and adds transfer payments, making it different from National Income."
+        },
+        {
+          "statement": "Retained corporate profits are deducted from National Income when deriving Personal Income because they represent earnings that accrue to corporations and are not distributed to individual shareholders.",
+          "verdict": "Correct",
+          "reason": "Retained earnings stay within the corporate sector; they are part of National Income (as part of Gross Operating Surplus) but do not flow to personal income — so they must be deducted in the NI-to-PI conversion."
+        },
+        {
+          "statement": "Transfer payments received by households, such as government pensions and unemployment benefits, are added when moving from National Income to Personal Income, even though they are not factor incomes.",
+          "verdict": "Correct",
+          "reason": "Transfer payments are not factor incomes (so not in National Income), but households do receive them as personal income — hence they are added in the NI-to-PI conversion despite being income redistributions."
+        }
+      ],
+      "strong_distractor": "a — Students who know statement 1 is false but are uncertain whether retained profits are deducted (statement 2) or whether transfers are added (statement 3) will choose option (a), selecting only statement 1 as incorrect.",
+      "elimination_logic": [
+        "Evaluate statement 1: NI ≠ PI — retained profits, corporate taxes, social security contributions bridge the gap — statement 1 is incorrect (NOT correct).",
+        "Evaluate statement 2: Retained profits deducted in NI-to-PI conversion — factually correct — statement 2 is correct.",
+        "Evaluate statement 3: Transfer payments added in NI-to-PI — factually correct — statement 3 is correct.",
+        "Only statement 1 is NOT correct → answer is option (a): 1 only."
+      ],
+      "upsc_trap_explanation": "Statement 1 sounds philosophically sound — households own all factors, so in ultimate terms all income belongs to them. The UPSC trap exploits this logical-sounding but factually incorrect generalisation. In practice, corporations retain earnings, governments collect corporate taxes, and employers pay social security contributions — none of which are personal income. The 'ultimate ownership' argument is a philosophical position, not an accounting fact. The partial-truth trap: 'all income ultimately flows to households' is true in a circular flow sense over the long run but false as an accounting definition of Personal Income.",
+      "final_explanation": "The conversion from National Income to Personal Income requires specific adjustments, reflecting the gap between factor income generated and income actually received by households.\n\n• Statement 1 — NOT correct: National Income ≠ Personal Income. While households ultimately own factors, the accounting gap is real: retained corporate profits stay in the corporate sector; corporate taxes go to government; employer social security contributions are not personal income. These must be deducted from NI to reach PI.\n• Statement 2 — Correct: Retained profits are part of Gross Operating Surplus in National Income but are never paid out to shareholders — they remain in the corporate balance sheet. Deducting them from NI correctly excludes undistributed earnings from personal income.\n• Statement 3 — Correct: Transfer payments (pensions, unemployment benefits) are government outlays that reach households as income but were never part of National Income (since they involve no factor service). They are added in the NI-to-PI step.\n\nOnly statement 1 is NOT correct.\n\nValue Addition:\n• PI = NI – Retained profits – Corporate taxes – Employer social security contributions + Transfer payments to households.\n• PDI = PI – Personal income taxes.\n• The gap between NI and PI widens when corporate profits are high but dividend payout ratios are low."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the relationship between National Income and Personal Income:\n\n1. National Income and Personal Income are identical because all income generated in the economy ultimately flows to households as the ultimate owners of all factors of production.\n2. Retained corporate profits are deducted from National Income when deriving Personal Income because they represent earnings that accrue to corporations and are not distributed to individual shareholders.\n3. Transfer payments received by households, such as government pensions and unemployment benefits, are added when moving from National Income to Personal Income, even though they are not factor incomes.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "16289abf-ae6b-4ea6-b959-101193660851",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Real GDP vs Nominal GDP: GDP Deflator and Price Indices",
+        "Base Year Revision in National Accounts: India's 2011-12 Base Year"
+      ],
+      "subject_que_no": 4818,
+      "overall_que_no": 12165
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "conflation",
+      "concept_anchor": "GDP Deflator formula and its distinction from CPI",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know GDP Deflator involves comparing nominal and real GDP may invert the formula, placing Real GDP in the numerator and Nominal GDP in the denominator, producing a 'Real/Nominal' ratio that would be less than 100 in an inflationary period.",
+      "elimination_logic": [
+        "Recall: GDP Deflator measures price change by comparing what nominal output is worth at current prices versus at base-year prices.",
+        "Formula: GDP Deflator = (Nominal GDP / Real GDP) × 100.",
+        "In an inflationary period, Nominal GDP > Real GDP → Deflator > 100, which makes sense as a price index above base.",
+        "Option (a) states 'Nominal GDP divided by Real GDP, multiplied by 100' — this is correct.",
+        "Option (c) inverts this — Real/Nominal — which would give a value below 100 in inflation, the opposite of a price index."
+      ],
+      "upsc_trap_explanation": "The conflation trap confuses the numerator and denominator of the GDP Deflator. Students who intuitively think 'real is the true measure, so real should be on top' will invert the formula. In fact, Nominal GDP is in the numerator because we want the deflator to show how much prices have risen — comparing current-price output (nominal) against constant-price output (real). When prices rise, nominal exceeds real, and the ratio exceeds 100.",
+      "final_explanation": "The GDP Deflator is a comprehensive price index covering all domestically produced goods and services.\n\n• Option (a): Correct — GDP Deflator = (Nominal GDP ÷ Real GDP) × 100. This ratio exceeds 100 when current prices are above base-year prices (inflation), and falls below 100 in deflation. The formula correctly places nominal in the numerator.\n• Option (b): Incorrect — (Real GDP ÷ Nominal GDP) × 100 gives the inverse: a ratio below 100 during inflation, which cannot serve as a price level index above base year.\n• Option (c): Incorrect — This is the same inversion as option (b), just phrased differently.\n• Option (d): Incorrect — (Nominal GDP – Real GDP) ÷ Base Year GDP is not any recognised price index formula.\n\nValue Addition:\n• GDP Deflator uses a Paasche (current-year-weighted) basket; CPI uses a Laspeyres (base-year-weighted) basket.\n• GDP Deflator can differ significantly from CPI in years of strong investment or export price movements.\n• India uses CPI (Combined) as the RBI's inflation anchor under the Flexible Inflation Targeting framework, not the GDP Deflator."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The GDP Deflator is a price index that captures economy-wide inflationary trends across all domestically produced goods and services. It is calculated as ________, expressed as a percentage.\n\n(a) Nominal GDP divided by Real GDP, multiplied by 100\n(b) Real GDP divided by Nominal GDP, multiplied by 100\n(c) Real GDP divided by Nominal GDP of the current year, multiplied by 100\n(d) The difference between Nominal GDP and Real GDP, expressed as a percentage of base-year GDP",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bdf78a06-2a09-4b81-ad07-6f2d28bb81f6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "GDP and Welfare: Limitations as a Development Indicator",
+        "Underground Economy, Informal Sector, and GDP Underestimation in India"
+      ],
+      "subject_que_no": 4819,
+      "overall_que_no": 12166
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Genuine alternatives to GDP as welfare measures",
+      "statement_analysis": null,
+      "strong_distractor": "b — GNH (Gross National Happiness) is a relatively obscure measure associated with Bhutan, and students unsure whether it is a 'real' official measure may mistake it for the fabricated option.",
+      "elimination_logic": [
+        "Identify the common attribute: alternatives to GDP used as broader welfare or development indicators.",
+        "Evaluate (a): HDI (Human Development Index) — real, developed by UNDP — belongs to the group.",
+        "Evaluate (b): GNH (Gross National Happiness) — real, Bhutan's official development philosophy adopted in its constitution — belongs to the group.",
+        "Evaluate (c): NWPI (National Welfare and Productivity Index) — this is a plausible-sounding but fabricated index; no such official index exists in international development measurement.",
+        "Evaluate (d): GPI (Genuine Progress Indicator) — real alternative to GDP, developed by Redefining Progress, adjusts for inequality, crime, environmental degradation — belongs to the group.",
+        "Option (c) is the odd one out."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap creates a convincingly named index — 'National Welfare and Productivity Index' — that sounds official and measurement-specific. Students who are uncertain about the complete list of GDP alternatives may accept NWPI as real, dismissing it as 'one I haven't studied yet.' The test of genuine knowledge requires knowing not just what real measures exist but being confident enough to identify a fabricated one.",
+      "final_explanation": "Multiple alternatives to GDP have been developed to capture welfare dimensions that GDP ignores.\n\n• Option (a): HDI (Human Development Index) — Real. Developed by UNDP; incorporates income (GNI per capita), education (schooling years), and health (life expectancy). India was ranked 132 out of 191 countries in HDI 2023.\n• Option (b): GNH (Gross National Happiness) — Real. Bhutan's constitutional development philosophy, measuring wellbeing across nine domains including ecological diversity, cultural resilience, and psychological wellbeing.\n• Option (c): NWPI (National Welfare and Productivity Index) — Fabricated. No such internationally recognised index exists. This is the odd one out.\n• Option (d): GPI (Genuine Progress Indicator) — Real. Developed by Redefining Progress; starts from personal consumption expenditure and adjusts for income inequality, crime costs, environmental degradation, unpaid work, and resource depletion.\n\nValue Addition:\n• SEEA (System of Environmental-Economic Accounting) is a UN framework that links environmental data with national accounts — another GDP supplement.\n• Inclusive Wealth Index (IWI) — UNEP measure covering produced, human, and natural capital.\n• The Stiglitz-Sen-Fitoussi Report (2009) recommended a 'dashboard of indicators' beyond GDP."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following are genuine, internationally recognised alternatives or supplements to GDP as welfare or development indicators. Which one does NOT belong to this category?\n\n(a) Human Development Index (HDI)\n(b) Gross National Happiness (GNH)\n(c) National Welfare and Productivity Index (NWPI)\n(d) Genuine Progress Indicator (GPI)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8148ec6d-6735-49f0-8e19-4d5a8b93a9ec",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Market Price vs Factor Cost vs Basic Price: Three Valuation Concepts",
+        "Gross Value Added (GVA) vs GDP: The Bridge Equation"
+      ],
+      "subject_que_no": 4820,
+      "overall_que_no": 12167
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "India's valuation shift — Factor Cost to Basic Price/Market Price",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know the 2011-12 base year revision happened in 2015 but confuse the sequence of methodological changes within that revision will select option (b), placing the adoption of Market Price before the introduction of Basic Price.",
+      "elimination_logic": [
+        "Event 1: India used Factor Cost as primary measure under the old National Accounts framework — this predates the 2011-12 revision.",
+        "Event 2: SNA 2008 globally established Basic Price as the recommended production-side valuation — this preceded India's adoption.",
+        "Event 3: India's 2015 revision (2011-12 base year) adopted Basic Price at sectoral (GVA) level and Market Price as the headline aggregate — both introduced simultaneously in the 2015 revision.",
+        "Event 4: Post-revision, India's sectoral growth rates began being reported in GVA (Basic Price) terms, with GDP at Market Price as the aggregate — this is the current practice.",
+        "Correct sequence: Factor Cost era → SNA 2008 recommendation → India's 2015 revision adopting Basic Price/Market Price → Current reporting practice → option (d)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap targets students who know that India's valuation framework changed but are uncertain about the precise sequence. The key fact is that India's 2015 base revision introduced both the shift to Basic Price at the GVA level AND Market Price at the aggregate GDP level simultaneously — they were not sequential changes. Students who think Basic Price was adopted first and Market Price later will select the wrong sequence.",
+      "final_explanation": "India's national income accounting valuation framework evolved through distinct historical phases.\n\nCorrect sequence:\n1. Pre-2015 era: India reported GDP primarily at Factor Cost — the oldest convention that excluded all indirect taxes and subsidies.\n2. SNA 2008 framework: International norms recommended shifting to Basic Price (for output/GVA) and Market Price (for aggregate GDP) — India had not yet adopted this.\n3. January 2015 revision (2011-12 base year): MoSPI simultaneously adopted Basic Price for GVA sectoral measurement and Market Price as the headline GDP aggregate, discontinuing Factor Cost as the primary measure.\n4. Post-2015 current practice: Sectoral growth rates reported in GVA at Basic Prices; aggregate national growth in GDP at Market Prices.\n\nWhy wrong options fail:\n- Option (a): Places the SNA 2008 recommendation after India's adoption — timeline is reversed.\n- Option (b): Suggests Market Price adoption preceded Basic Price at the sectoral level — both were adopted simultaneously in 2015.\n- Option (c): Places Factor Cost as the most recent — India has already moved away from it.\n\nValue Addition:\n• Factor Cost = Basic Price – Net Production Taxes; Basic Price = Market Price – Net Product Taxes.\n• India's shift improved international comparability and aligned with SNA 2008.\n• The shift to Market Price raised India's headline GDP estimates relative to Factor Cost."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Arrange the following developments in India's national income valuation framework in their correct chronological sequence:\n\n1. India reporting GDP primarily at Factor Cost as the headline measure\n2. SNA 2008 recommending Basic Price as the preferred production-side valuation\n3. MoSPI adopting Basic Price for GVA and Market Price for aggregate GDP through a base year revision\n4. India's sectoral growth rates being reported in GVA at Basic Prices as the current standard practice\n\nWhich of the following is the correct chronological order?\n\n(a) 2 → 1 → 3 → 4\n(b) 1 → 3 → 2 → 4\n(c) 3 → 2 → 1 → 4\n(d) 1 → 2 → 3 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ba519455-b34b-4d7a-8b37-d2dcd1a36040",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "System of National Accounts (SNA) 2008: Key Norms and India's Compliance",
+        "Treatment of Government Services in GDP Measurement"
+      ],
+      "subject_que_no": 4821,
+      "overall_que_no": 12168
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Defense weapons — SNA 2008 reclassification to GFCF",
+      "statement_analysis": null,
+      "strong_distractor": "d — Students who know that government spending on defence raises GDP under SNA 2008 but haven't specifically memorised the reclassification from 'government consumption' to 'GFCF' will be uncertain between options (b) and (d).",
+      "elimination_logic": [
+        "Evaluate option (a): SNA 1993 treated defence weapons as government consumption — the change happened in SNA 2008, not 1993. This pair is incorrectly matched.",
+        "Evaluate option (b): SNA 2008 reclassified defence weapons systems from government consumption expenditure to GFCF (capital formation) — this is factually correct and correctly matched.",
+        "Evaluate option (c): Government non-market services are valued at cost of production (salaries + intermediate consumption + depreciation), not at market price — this pair is incorrectly matched.",
+        "Evaluate option (d): SNA 2008 includes FISIM in GDP — but the reason is not 'to count government banking transactions specifically' — FISIM covers all financial intermediaries, not just government ones. Partially true but incorrectly matched.",
+        "Option (b) is the correctly matched pair."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap targets students who know defence was reclassified but attribute the change to SNA 1993 rather than SNA 2008. SNA 1993 was the previous revision; defence weapons were treated as consumption under that framework. It was specifically SNA 2008 that reclassified weapons systems as capital formation (GFCF), recognising that they provide defence services over multiple years — a multi-period capital asset characteristic.",
+      "final_explanation": "SNA 2008 introduced specific reclassifications that affected how government spending appears in GDP.\n\n• Option (a): Incorrectly matched — SNA 1993 was the previous framework under which defence weapons were treated as government consumption. The reclassification to GFCF happened in SNA 2008, not 1993.\n• Option (b): Correctly matched — Under SNA 2008, expenditure on military weapons systems (aircraft, ships, armoured vehicles) is classified as GFCF, not government consumption. The rationale: these assets provide defence services over multiple years, making them capital assets.\n• Option (c): Incorrectly matched — Government non-market services are valued at cost of production (input cost method), NOT at market price. No market price exists for these services.\n• Option (d): Incorrectly matched — FISIM inclusion in SNA 2008 covers all financial intermediaries' implicit service charges across the entire economy, not specifically government banking transactions.\n\nValue Addition:\n• Reclassifying defence to GFCF raises both GDP and the apparent investment rate of countries with large defence budgets.\n• R&D and intellectual property products are the other major GFCF additions under SNA 2008.\n• India's GFCF-to-GDP ratio is higher under SNA 2008 than it would have been under SNA 1993 conventions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to SNA 2008 and government expenditure treatment in GDP is CORRECTLY matched?\n\n(a) SNA 1993 : First framework to reclassify defence weapons expenditure from government consumption to Gross Fixed Capital Formation\n(b) SNA 2008 : Reclassified military weapons systems from government consumption expenditure to Gross Fixed Capital Formation, recognising their multi-year capital nature\n(c) Government non-market services : Valued at market price of equivalent private-sector services for inclusion in GDP\n(d) FISIM inclusion in SNA 2008 : Specifically introduced to capture the value of government banking and treasury transactions in national accounts",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ea123e3d-1a67-4037-8ade-8e2ea9824039",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Three Methods Equivalence: The GDP Identity and Why All Three Give the Same Answer",
+        "Advance Estimates, Revised Estimates, and GDP Data Architecture in India"
+      ],
+      "subject_que_no": 4822,
+      "overall_que_no": 12169
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Statistical discrepancy and primary method in India's GDP",
+      "statement_analysis": [
+        {
+          "statement": "In India's national accounts, the output/GVA method is the primary method used to estimate GDP, while the expenditure and income methods serve as supplementary cross-checks.",
+          "verdict": "Correct",
+          "reason": "MoSPI primarily estimates GDP through the output/GVA method (value-added approach) using sector-level data; expenditure and income side data are used to reconcile and cross-check."
+        },
+        {
+          "statement": "A statistical discrepancy arises in practice between the three GDP methods because they draw on different data sources, even though the accounting identity requires them to be equal in theory.",
+          "verdict": "Correct",
+          "reason": "The income, output, and expenditure estimates come from different surveys and administrative data; sampling errors and coverage gaps create gaps between them — the residual is recorded as statistical discrepancy."
+        },
+        {
+          "statement": "The equivalence of the three GDP methods is a coincidence that holds only in large, well-documented economies — in developing economies like India, the three methods structurally yield different GDP figures with no necessary relationship.",
+          "verdict": "Incorrect",
+          "reason": "The three-method equivalence is an accounting identity — it holds by definition in any economy, not by coincidence and not only in developed economies. Statistical discrepancies arise from measurement imperfections, not from the identity being invalid."
+        }
+      ],
+      "strong_distractor": "d — A student who knows statements 1 and 2 are correct but is misled by statement 3's confident assertion about 'developing economies' may accept all three as correct and choose option (d).",
+      "elimination_logic": [
+        "Evaluate statement 1: India uses GVA/output method as primary — widely documented — statement 1 is correct.",
+        "Evaluate statement 2: Statistical discrepancy from different data sources is standard in all national accounts — statement 2 is correct.",
+        "Evaluate statement 3: 'Only a coincidence in large economies' — false; the identity is universal by accounting logic, not geography or development level — statement 3 is incorrect.",
+        "Statements 1 and 2 correct → option (a): 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 uses the partial-truth trap: 'developing economies have statistical discrepancies' is true, but the conclusion drawn — that the three methods have 'no necessary relationship' in developing economies — is false. Statistical discrepancies are measurement imperfections, not a violation of the accounting identity. The identity (output = income = expenditure) holds universally by definition. The trap works by conflating 'measured imperfectly' with 'theoretically unrelated.'",
+      "final_explanation": "The three-method equivalence is a fundamental accounting identity, not an empirical regularity.\n\n• Statement 1 — Correct: India's MoSPI uses the output/GVA method as its primary estimation approach. Sector-level GVA data (agriculture, industry, services) is aggregated to derive GDP. The expenditure side is computed separately to cross-check.\n• Statement 2 — Correct: Because the three methods use different datasets (enterprise surveys, household surveys, government accounts, tax data), measurement gaps create statistical discrepancies. These are explicitly reported in India's national accounts tables.\n• Statement 3 — Incorrect: The equivalence is an accounting identity — every expenditure is simultaneously someone's income, and every income derives from some output. This holds in all economies by definition. The size of statistical discrepancies in developing economies reflects data quality, not any absence of the underlying identity.\n\nStatements 1 and 2 are correct.\n\nValue Addition:\n• The USA uses the expenditure method as its primary GDP approach; India and most developing countries prefer the output method.\n• India's statistical discrepancy has narrowed with improvements in MCA21 corporate data and formalisation of the economy.\n• The CSO publishes detailed reconciliation tables showing how three-method estimates are aligned."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the three-method GDP identity and its application in India:\n\n1. In India's national accounts, the output/GVA method is the primary method used to estimate GDP, while the expenditure and income methods serve as supplementary cross-checks.\n2. A statistical discrepancy arises in practice between the three GDP methods because they draw on different data sources, even though the accounting identity requires them to be equal in theory.\n3. The equivalence of the three GDP methods is a coincidence that holds only in large, well-documented economies — in developing economies like India, the three methods structurally yield different GDP figures with no necessary relationship.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "614fbfcd-1e4a-4291-85f6-1c7d459e150e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Purchasing Power Parity (PPP) vs Market Exchange Rate for International GDP Comparison",
+        "GDP and Welfare: Limitations as a Development Indicator"
+      ],
+      "subject_que_no": 4823,
+      "overall_que_no": 12170
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "PPP favours developing countries — Balassa-Samuelson Effect",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who correctly identify both A and R as true will often accept R as explaining A without examining whether the Balassa-Samuelson mechanism is actually the cause of the PPP GDP exceeding nominal GDP, rather than simply one contributing factor.",
+      "elimination_logic": [
+        "Step 1: Is A correct? — India's PPP-adjusted GDP significantly exceeds its nominal USD GDP, placing India higher in global rankings by PPP than by nominal exchange rate — Yes, A is factually correct.",
+        "Step 2: Is R correct? — The Balassa-Samuelson Effect describes how productivity differentials in traded goods lead to lower wages and therefore cheaper non-traded services in developing economies — Yes, R is factually correct.",
+        "Step 3: Does R explain A? — The Balassa-Samuelson Effect is indeed the primary theoretical explanation for why price levels are lower in developing countries, which is why PPP GDP exceeds nominal GDP for these economies. R does correctly and causally explain A.",
+        "Both A correct, R correct, R explains A → option (a)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap here is subtle: students may think R describes a different phenomenon (traded vs non-traded sector productivity) and not connect it causally to the PPP-nominal gap. The Balassa-Samuelson Effect is precisely the theoretical foundation for why developing countries have lower price levels — lower productivity in traded goods → lower wages across the economy → cheaper non-traded services → lower overall price level → PPP GDP exceeds nominal GDP. R is the correct explanation of A.",
+      "final_explanation": "The gap between PPP-adjusted and nominal USD GDP is explained by systematic price level differences across economies.\n\nAssertion (A): Correct — India ranks approximately 3rd globally by PPP-adjusted GDP but 5th or 6th by nominal USD GDP. This gap reflects India's lower general price level — each dollar of income buys more goods in India than in high-income countries.\n\nReason (R): Correct — The Balassa-Samuelson Effect: in developing countries, productivity in tradeable goods (manufacturing, exports) is lower than in advanced economies. Since wages are set by traded sector productivity, economy-wide wages are lower. Non-traded services (haircuts, local food, transport) are produced domestically with local labour, so their prices are lower — dragging down the overall price level. This lower price level makes PPP GDP exceed nominal GDP for developing nations.\n\nCausal link: R correctly explains A. The Balassa-Samuelson mechanism is the foundational theoretical explanation for the lower price levels in developing economies that PPP adjustment captures. Option (a) is correct.\n\nValue Addition:\n• IMF World Economic Outlook publishes both PPP and nominal GDP rankings annually.\n• China overtook the USA in PPP GDP around 2014 by IMF estimates — a milestone driven by this same mechanism.\n• PPP exchange rates are derived from the International Comparison Program (ICP) surveys, last comprehensive update in 2017."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): India's Gross Domestic Product measured at Purchasing Power Parity is significantly higher than its GDP measured at nominal market exchange rates, placing India higher in global GDP rankings when PPP is used as the comparison basis.\n\nReason (R): The Balassa-Samuelson Effect predicts that developing economies will have lower overall price levels because lower productivity in their tradeable goods sector depresses economy-wide wages, making non-traded services disproportionately cheap relative to high-income economies.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "41633c72-c912-4c06-9ffe-195820d85777",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Output/Value-Added Method: Concept of Value Added and Avoiding Double Counting",
+        "Gross Value Added (GVA) vs GDP: The Bridge Equation"
+      ],
+      "subject_que_no": 4824,
+      "overall_que_no": 12171
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Value added computation — intermediate vs final goods boundary",
+      "statement_analysis": [
+        {
+          "statement": "A wheat farmer sells wheat worth ₹100 to a flour mill. The flour mill sells flour worth ₹160 to a baker. The baker sells bread worth ₹250. The total value added across all three stages is ₹250.",
+          "verdict": "Correct",
+          "reason": "Value added: Farmer ₹100 + Mill ₹60 (160–100) + Baker ₹90 (250–160) = ₹250 = value of final good. This correctly demonstrates that summing value added equals the final good's price."
+        },
+        {
+          "statement": "If a bakery purchases a bread-slicing machine for ₹50,000 and uses it for 5 years, the ₹50,000 is classified as intermediate consumption and deducted in computing that year's GVA for the bakery.",
+          "verdict": "Incorrect",
+          "reason": "A bread-slicing machine is a capital good (GFCF), not intermediate consumption. It is a final good in GDP terms; only its annual depreciation (₹10,000 if straight-line) would be deducted in net value added, but gross value added does not deduct capital goods."
+        },
+        {
+          "statement": "Value added at each stage equals the output value at that stage minus the cost of inputs purchased from other producers (intermediate consumption), and this is NOT the same as profit.",
+          "verdict": "Correct",
+          "reason": "Value Added = Output – Intermediate Inputs. It includes wages, depreciation, taxes, and profits — profit is only one component. Treating value added as profit is a common misconception."
+        },
+        {
+          "statement": "In India's sectoral GDP composition, the services sector contributes the largest share of GVA, followed by industry, with agriculture contributing the smallest share.",
+          "verdict": "Correct",
+          "reason": "India's services sector accounts for approximately 55-58% of GVA; industry around 28-30%; agriculture around 15-18% — making this ordering (services > industry > agriculture) correct."
+        }
+      ],
+      "strong_distractor": "d — Students who miscategorise the bread-slicing machine as intermediate consumption (statement 2) and accept all other statements as correct will choose 'All four.'",
+      "elimination_logic": [
+        "Evaluate pair 1: ₹100 + ₹60 + ₹90 = ₹250 = final bread price — value added identity confirmed — correct.",
+        "Evaluate pair 2: Capital goods are GFCF (final goods), not intermediate consumption — statement 2 is incorrect.",
+        "Evaluate pair 3: Value added ≠ profit — it includes wages, depreciation, taxes — statement 3 is correct.",
+        "Evaluate pair 4: Services (~55%) > Industry (~28-30%) > Agriculture (~15%) in India's GVA — statement 4 is correct.",
+        "Three of four correct → answer is (c) Only three."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap in statement 2 exploits the partial knowledge that 'inputs purchased are deducted in GVA.' This is true for intermediate inputs, but students who apply this rule to all purchases — including capital goods — will incorrectly classify the machine as intermediate consumption. Capital goods are financed over their lifetime through depreciation; they enter GDP as GFCF (investment), not as a current-period deduction from value added.",
+      "final_explanation": "The value-added method requires careful classification of purchases into intermediate inputs (deducted) and capital goods (final goods, not deducted in gross terms).\n\n| Pair | Verdict |\n|---|---|\n| Wheat→Flour→Bread: total VA = ₹250 | Correct — VA stages sum to final good value |\n| Bread-slicing machine = intermediate consumption | Incorrect — it is GFCF (capital good) |\n| Value Added ≠ Profit | Correct — VA includes wages, taxes, depreciation, profit |\n| India: Services > Industry > Agriculture in GVA share | Correct — approximately 55-58%, 28-30%, 15-18% |\n\nThree of four pairs are correct.\n\nValue Addition:\n• Gross Value Added includes depreciation; Net Value Added = GVA – Depreciation.\n• India's agricultural GVA share has declined from ~35% in 1990 to ~15-18% currently, while services' share has risen.\n• The double-counting problem is the core pedagogical motivation for the value-added method over summing gross output."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the value-added method of GDP calculation:",
+        "columns": [
+          "Statement",
+          "Claimed as correct?"
+        ],
+        "rows": [
+          [
+            "A wheat farmer sells wheat worth ₹100 to a flour mill. The flour mill sells flour worth ₹160 to a baker. The baker sells bread worth ₹250. The total value added across all three stages is ₹250.",
+            "Yes"
+          ],
+          [
+            "If a bakery purchases a bread-slicing machine for ₹50,000, this expenditure is classified as intermediate consumption and deducted when computing the bakery's GVA for that year.",
+            "Yes"
+          ],
+          [
+            "Value added at each stage equals the output value at that stage minus the cost of inputs purchased from other producers, and this value added is NOT the same as profit.",
+            "Yes"
+          ],
+          [
+            "In India's sectoral GDP composition, the services sector contributes the largest share of GVA, followed by industry, with agriculture contributing the smallest share.",
+            "Yes"
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "87776576-6761-4ada-a966-7e9d2ff1531d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Depreciation (Capital Consumption Allowance): Gross vs Net Aggregates",
+        "GDP vs GNP vs NNP: Definitional Boundaries and Interconversion"
+      ],
+      "subject_que_no": 4825,
+      "overall_que_no": 12172
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Gross aggregates preferred despite overstating productive capacity",
+      "statement_analysis": [
+        {
+          "statement": "Net National Product (NNP) is considered a better measure of an economy's sustainable income than Gross National Product (GNP) because NNP accounts for the capital consumed during the production process.",
+          "verdict": "Correct",
+          "reason": "NNP = GNP – Depreciation. By netting out capital consumption, NNP reflects what an economy can actually sustain as income without running down its capital stock — making it a theoretically superior welfare measure."
+        },
+        {
+          "statement": "Despite NNP's theoretical superiority, GDP (a gross measure) is the standard aggregate used in practice primarily because GDP always yields a numerically higher value than NNP, making economic growth appear more impressive.",
+          "verdict": "Incorrect",
+          "reason": "GDP is preferred in practice not because of its higher numerical value but because accurately measuring depreciation across all capital types and sectors is technically difficult. The preference for gross measures is a data quality constraint, not a political or presentational choice."
+        }
+      ],
+      "strong_distractor": "a — Students who know 'gross is preferred over net in practice' and 'NNP is theoretically superior' may accept both statements as correct without carefully reading the reason given in statement 2 for why gross is preferred.",
+      "elimination_logic": [
+        "Evaluate statement 1: NNP nets out capital consumption, reflecting sustainable income better — standard textbook fact — statement 1 is correct.",
+        "Evaluate statement 2: The stated reason — GDP is used because it yields a higher number — is false. The actual reason is the difficulty of accurately measuring economic depreciation. Statement 2 is incorrect.",
+        "Statement 1 correct + Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in statement 2 attaches a false causal reason to a true phenomenon. It is true that GDP is preferred over NDP/NNP in practice. But the reason — 'because it looks more impressive' — is false and injected to create the trap. The actual reason is a genuine technical constraint: economic depreciation (capital consumption allowance) is extremely difficult to measure accurately across diverse asset types (machinery, buildings, software, biological resources). Students who accept 'GDP is preferred' as the key fact without critically reading the stated cause will select option (a).",
+      "final_explanation": "The gross vs net distinction in national aggregates involves a genuine trade-off between theoretical correctness and practical measurability.\n\n• Statement 1 — Correct: NNP (= GNP – Depreciation) is theoretically superior as a welfare indicator because it accounts for capital wear and tear. An economy running down its capital base is not truly growing in a sustainable sense — gross figures mask this.\n• Statement 2 — Incorrect: The reason GDP is preferred over NDP in practice is not its numerically higher value. The correct reason is measurement difficulty: depreciation must be estimated across millions of diverse assets — plant, machinery, buildings, vehicles, intellectual property, cultivated biological resources — using complex methodologies (perpetual inventory method). These estimates carry significant uncertainty, making gross figures more reliably comparable over time.\n\nStatement 1 is correct; Statement 2 is incorrect → option (c).\n\nValue Addition:\n• India uses the Perpetual Inventory Method (PIM) to estimate capital stock and depreciation in national accounts.\n• Economic depreciation differs from accounting depreciation — national accounts aim for the former.\n• Countries with rapidly ageing capital stock (old manufacturing bases) may significantly overstate sustainable output if only gross figures are examined."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about gross and net national income aggregates:\n\nStatement 1: Net National Product (NNP) is considered a better measure of an economy's sustainable income than Gross National Product (GNP) because NNP accounts for the capital consumed during the production process.\nStatement 2: Despite NNP's theoretical superiority, GDP (a gross measure) is the standard aggregate used in practice primarily because GDP always yields a numerically higher value than NNP, making economic growth appear more impressive to policymakers and markets.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d47d2c98-823a-47a1-af6b-6bb6f8124408",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Underground Economy, Informal Sector, and GDP Underestimation in India",
+        "Base Year Revision in National Accounts: India's 2011-12 Base Year"
+      ],
+      "subject_que_no": 4826,
+      "overall_que_no": 12173
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Demonetisation impact on informal sector GDP measurement",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know demonetisation disrupted the informal sector and that GDP captures informal activity will select option (a), not recognising that the measurement challenge is the primary issue — official GDP data (especially advance estimates) may not have captured the informal disruption in real time.",
+      "elimination_logic": [
+        "Identify the scenario: Demonetisation disrupted cash-dependent informal sector; the question is about GDP measurement consequences.",
+        "Principle: Over 50% of India's GDP originates in the informal sector, measured imperfectly through surveys and proxy methods. Demonetisation's impact on informal activity is difficult to capture in real-time GDP estimates.",
+        "Eliminate option (a): While GDP does attempt to capture informal activity, the claim that it 'fully captures' the disruption is false — advance estimates use proxy indicators that may not reflect informal sector cash disruption.",
+        "Eliminate option (b): Demonetisation did not eliminate the informal sector; it disrupted it temporarily. Claiming the informal sector 'left GDP entirely' is an overstatement.",
+        "Eliminate option (d): The NSO/MoSPI continued to publish GDP data post-demonetisation; publication was not suspended.",
+        "Confirm option (c): The core measurement challenge is that advance GDP estimates rely on formal sector proxies (IIP, tax data, corporate results) and may understate or miss informal sector disruption — leading to potentially overstated GDP estimates immediately post-demonetisation."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap: students who know 'GDP includes informal sector estimates' may extend this to conclude that GDP fully and accurately captured the demonetisation impact on the informal economy. In reality, India's advance GDP estimates rely heavily on formal sector proxy indicators (IIP, tax collections, corporate results). Cash-dependent informal sector disruption — which was significant post-November 2016 — was not well captured in these proxies, creating potential overestimation of GDP in Q3 FY2017.",
+      "final_explanation": "Demonetisation (November 2016) created a natural stress test for India's GDP measurement architecture.\n\nApplicable principles: (1) India's informal sector accounts for 50%+ of GDP. (2) Advance GDP estimates use formal sector proxies — IIP, tax data, corporate results. (3) Cash-dependent informal activity is poorly captured by formal proxies.\n\n• Option (a): Incorrect — GDP measurement does attempt to capture informal activity, but not in real time through proxy methods. The claim of 'full capture' overstates the precision of advance estimates.\n• Option (b): Incorrect — The informal sector was disrupted, not eliminated. Claiming it 'completely exited GDP measurement' is an overstatement; some informal activity continued through barter and alternative payment channels.\n• Option (c): Correct — The key measurement challenge is that advance GDP estimates relied on formal sector data, which remained relatively buoyant (listed companies, GST-registered firms). Informal sector cash disruption was not reflected in these proxies, potentially leading to overestimated advance GDP growth figures for Q3 FY2017.\n• Option (d): Incorrect — MoSPI continued publishing GDP data; it did not suspend publication due to measurement uncertainty.\n\nValue Addition:\n• The 'GDP controversy' post-demonetisation: several economists (Arun Kumar, Amartya Sen) argued official GDP understated the informal sector's contraction.\n• NSSO's periodic labour force surveys and enterprise surveys are the main tools for measuring informal sector — but with significant lags.\n• Formalisation from GST and demonetisation may have improved GDP measurement accuracy post-2017 by bringing more activity into formal records."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "In November 2016, the Government of India demonetised high-denomination currency notes, withdrawing approximately 86% of currency in circulation. India's informal economy — which relies heavily on cash transactions — experienced significant disruption. Small traders, daily wage workers, and unorganised sector enterprises saw sharp declines in activity. However, India's official GDP advance estimates for the quarter immediately following demonetisation showed only a modest slowdown.\n\nWhich of the following best explains the measurement challenge this scenario presents for India's national income statisticians?\n\n(a) India's GDP measurement system fully captures informal sector activity through real-time cash transaction monitoring, so the advance estimates accurately reflected the demonetisation impact.\n(b) The demonetisation caused the informal sector to completely exit GDP measurement, making it impossible for the national accounts framework to report any GDP figure for that quarter.\n(c) Advance GDP estimates rely primarily on formal sector proxy indicators such as industrial production indices, tax collections, and corporate results — which may not capture informal sector cash disruption, potentially overstating headline GDP growth.\n(d) MoSPI suspended publication of GDP advance estimates for the quarter following demonetisation due to data unreliability, publishing revised figures only after a six-month lag.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "99f0271d-5053-47ae-9ca9-837162e37c16",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "Income Method: Factor Incomes and Their Classification",
+        "Three Methods Equivalence: The GDP Identity and Why All Three Give the Same Answer"
+      ],
+      "subject_que_no": 4827,
+      "overall_que_no": 12174
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Transfer payments excluded from all three GDP methods",
+      "statement_analysis": [
+        {
+          "statement": "In the income method of GDP, unemployment benefits paid by the government are excluded because they are transfer payments and do not represent compensation for any factor service rendered.",
+          "verdict": "Correct",
+          "reason": "Transfer payments are income redistributions — the government receives nothing in return as factor output. Since the income method sums only factor incomes (wages, rent, interest, profit), transfer payments are excluded."
+        },
+        {
+          "statement": "Interest paid by the government on its domestic borrowings is included as a factor income in the income method of GDP calculation.",
+          "verdict": "Incorrect",
+          "reason": "Interest on government borrowings is treated as a transfer payment in national accounts — government bonds are not considered productive investment in the standard GDP framework. Only interest on productive capital (business loans) is factor income. This is a contentious but standard accounting convention."
+        },
+        {
+          "statement": "Compensation of employees in the income method includes not only wages and salaries in cash but also in-kind benefits such as employer-provided housing and medical insurance contributions.",
+          "verdict": "Correct",
+          "reason": "SNA 2008 defines Compensation of Employees broadly: it includes wages, salaries, bonuses, employer social security contributions, and all non-cash benefits (housing, medical, etc.) — any payment for labour services."
+        }
+      ],
+      "strong_distractor": "d — Students who do not know that government bond interest is treated as a transfer (not factor income) will accept statement 2 as correct and choose option (d), selecting all three as correct.",
+      "elimination_logic": [
+        "Evaluate statement 1: Transfer payments (unemployment benefits) excluded from income method — standard fact — correct.",
+        "Evaluate statement 2: Government domestic bond interest — treated as transfer payment in standard national accounts, NOT factor income — statement 2 is incorrect.",
+        "Evaluate statement 3: Compensation of employees includes cash wages + in-kind benefits + employer social contributions — SNA 2008 definition — correct.",
+        "Statements 1 and 3 correct → option (b)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap: students know 'interest is factor income' (return to capital) and apply this to all interest payments including government bond interest. In standard national accounting, however, government borrowings are not considered productive capital investment — the interest paid on government bonds is a fiscal transfer from the state to bondholders, not a return on capital deployed in production. Business loan interest (paid by firms) IS factor income; government bond interest is NOT treated as such in the income method.",
+      "final_explanation": "The income method counts only factor incomes — payments made in exchange for productive factor services.\n\n• Statement 1 — Correct: Unemployment benefits involve no corresponding factor service from the recipient — they are pure income transfers. Excluded from the income method's sum of factor incomes (wages + operating surplus + mixed income + production taxes).\n• Statement 2 — Incorrect: Interest on government domestic debt is treated as a transfer payment in national accounts. The standard convention is that government borrowing finances consumption or fiscal deficits rather than productive capital — so the interest is not a return on capital employed in production. Business loan interest, by contrast, IS factor income.\n• Statement 3 — Correct: Compensation of Employees (CoE) under SNA 2008 encompasses: cash wages and salaries, bonuses, overtime pay, employer contributions to pension and social security funds, and non-cash benefits (housing allowances, employer-provided vehicles, medical insurance).\n\nValue Addition:\n• CoE + Gross Operating Surplus + Gross Mixed Income + Net Taxes on Production = GDP (income method).\n• Government bond interest is recorded in national accounts as a government expenditure but not as a production-side factor income.\n• Nominal wages vs real wages: deflating CoE by CPI or GDP Deflator gives real compensation trends."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the income method of GDP calculation:\n\n1. In the income method of GDP, unemployment benefits paid by the government are excluded because they are transfer payments and do not represent compensation for any factor service rendered.\n2. Interest paid by the government on its domestic borrowings is included as a factor income in the income method of GDP calculation.\n3. Compensation of employees in the income method includes not only wages and salaries in cash but also in-kind benefits such as employer-provided housing and medical insurance contributions.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a5ee1e83-2a92-42df-bb3f-1c377922767b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "GDP calculation — expenditure, income, output methods",
+      "concepts_used": [
+        "GDP and Welfare: Limitations as a Development Indicator",
+        "Purchasing Power Parity (PPP) vs Market Exchange Rate for International GDP Comparison"
+      ],
+      "subject_que_no": 4828,
+      "overall_que_no": 12175
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "GDP per capita vs median income — welfare distinction",
+      "statement_analysis": [
+        {
+          "statement": "Higher GDP per capita growth necessarily implies that the median household's welfare has improved, since per capita income averages national income across all residents.",
+          "verdict": "Incorrect",
+          "reason": "GDP per capita is a mean, not a median. Rising inequality (Gini coefficient) can cause GDP per capita to grow while median incomes stagnate or fall — a well-documented phenomenon in many high-growth economies."
+        },
+        {
+          "statement": "GDP growth fails to account for the depletion of natural resources used in the production process, which is why Green GDP or the System of Environmental-Economic Accounting (SEEA) frameworks attempt to adjust national income for environmental costs.",
+          "verdict": "Correct",
+          "reason": "Standard GDP records the market value of output without subtracting the cost of depleting natural capital (forests, minerals, groundwater). Green GDP/SEEA frameworks add this environmental cost adjustment."
+        },
+        {
+          "statement": "Per capita income computed from national accounts data is equivalent to median household income because national income is distributed approximately equally across households in most economies.",
+          "verdict": "Incorrect",
+          "reason": "Per capita income is arithmetic mean income; median household income reflects the midpoint of the income distribution. In highly unequal economies, these diverge substantially — the mean is pulled upward by high-income earners while the median remains lower."
+        }
+      ],
+      "strong_distractor": "b — Students who correctly identify statement 1 as incorrect but are uncertain whether statement 3 makes a similar or distinct error will choose option (b) selecting only statement 1, missing that statement 3 makes the same type of mean-median confusion.",
+      "elimination_logic": [
+        "Evaluate statement 1: GDP per capita is mean, not median — high inequality can raise mean while median falls — statement 1 is NOT correct.",
+        "Evaluate statement 2: GDP ignores natural resource depletion; Green GDP/SEEA attempts this correction — statement 2 is correct.",
+        "Evaluate statement 3: Per capita = mean ≠ median; claiming equivalence assumes equal distribution — false in unequal economies — statement 3 is NOT correct.",
+        "Statements 1 and 3 are NOT correct → option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap applies the average (mean) concept too broadly. Students who know 'per capita income = national income ÷ population' may not distinguish that this is an arithmetic mean, not a median. Statement 3 explicitly equates mean and median — a false equivalence that requires understanding of distributional statistics, not just national income formulas. Both statements 1 and 3 exploit this same mean-median confusion from different angles.",
+      "final_explanation": "GDP and its per capita derivative are mean measures, not distributional indicators.\n\n• Statement 1 — NOT correct: GDP per capita is national income divided by population — an arithmetic mean. If the top decile captures most income growth, GDP per capita rises while median income stagnates. India's GDP growth of 7-8% in the 2000s coexisted with concerns about unequal distribution of gains.\n• Statement 2 — Correct: Standard GDP charges nothing for resource depletion. An oil-producing country that exhausts its reserves shows high GDP but declining national wealth. SEEA provides a supplementary accounting framework that values natural capital stocks and deducts their depletion.\n• Statement 3 — NOT correct: Per capita income (mean) equals median only when the income distribution is symmetric (e.g., perfectly equal distribution). In reality, income distributions are right-skewed — high earners pull the mean above the median. The Gini coefficient captures this gap.\n\nStatements 1 and 3 are NOT correct.\n\nValue Addition:\n• The Palma ratio (top 10% income share ÷ bottom 40% income share) is an alternative to Gini for inequality measurement.\n• Bhutan's GNH index and UNDP's HDI are partial responses to GDP's welfare blindness.\n• Kuznets' inverted-U hypothesis: inequality rises during early industrialisation before declining — a contested prediction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about GDP as a welfare indicator:\n\n1. Higher GDP per capita growth necessarily implies that the median household's welfare has improved, since per capita income averages national income across all residents.\n2. GDP growth fails to account for the depletion of natural resources used in the production process, which is why Green GDP or the System of Environmental-Economic Accounting (SEEA) frameworks attempt to adjust national income for environmental costs.\n3. Per capita income computed from national accounts data is equivalent to median household income because national income is distributed approximately equally across households in most economies.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 1 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  }
+]

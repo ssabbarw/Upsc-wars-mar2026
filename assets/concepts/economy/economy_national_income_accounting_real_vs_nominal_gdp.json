@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "National Income Accounting",
+  "sub_topic": "Real vs nominal GDP",
+  "concepts": [
+    {
+      "name": "Nominal GDP: Definition and Measurement",
+      "key_dimensions": [
+        "Measured using current year prices — susceptible to price-level changes",
+        "Does NOT reflect actual change in output volume — a classic UPSC trap",
+        "Can rise even when physical production falls (if prices rise sufficiently)",
+        "Used in debt-to-GDP ratio calculations — policy relevance"
+      ]
+    },
+    {
+      "name": "Real GDP: Definition and Measurement",
+      "key_dimensions": [
+        "Measured using constant prices of a chosen base year — isolates volume change",
+        "Preferred metric for comparing economic growth across time periods",
+        "Can be lower than Nominal GDP in inflationary economies and higher in deflationary ones",
+        "India currently uses 2011-12 as the base year — frequently asked factual anchor"
+      ]
+    },
+    {
+      "name": "GDP Deflator: Construction and Interpretation",
+      "key_dimensions": [
+        "Formula: (Nominal GDP / Real GDP) × 100 — must-know derivation",
+        "Measures economy-wide inflation unlike CPI or WPI which cover baskets",
+        "Includes all goods and services produced domestically — broader than CPI",
+        "A GDP Deflator > 100 indicates price level has risen above base year — directional logic trap"
+      ]
+    },
+    {
+      "name": "GDP Deflator vs CPI: Key Differences",
+      "key_dimensions": [
+        "CPI uses a fixed consumer basket; GDP Deflator covers entire domestic output — scope difference",
+        "CPI includes imported goods; GDP Deflator excludes imports — critical UPSC trap",
+        "GDP Deflator automatically updates weights (Paasche index); CPI uses fixed weights (Laspeyres index)",
+        "RBI uses CPI for monetary policy, not GDP Deflator — institutional relevance"
+      ]
+    },
+    {
+      "name": "Base Year Selection and Revision",
+      "key_dimensions": [
+        "Base year should represent a 'normal' economic year — criteria for selection",
+        "India's base year revisions: 1948-49 → 1960-61 → 1970-71 → 1980-81 → 1993-94 → 2004-05 → 2011-12",
+        "Base year revision can dramatically change GDP growth estimates — policy controversy",
+        "2015 MCA-21 data incorporation during 2011-12 base year revision — raised GDP estimates, created controversy"
+      ]
+    },
+    {
+      "name": "Price Index Types: Laspeyres vs Paasche vs Fisher",
+      "key_dimensions": [
+        "Laspeyres uses base-year quantities as weights — tends to overestimate inflation (substitution bias)",
+        "Paasche uses current-year quantities — tends to underestimate inflation",
+        "Fisher Index is geometric mean of both — considered 'ideal' index",
+        "GDP Deflator is a Paasche-type index; CPI is a Laspeyres-type — comparison trap"
+      ]
+    },
+    {
+      "name": "Real GDP Growth Rate as Economic Welfare Indicator",
+      "key_dimensions": [
+        "Real GDP growth ≠ improvement in welfare — ignores distribution, sustainability, non-market activities",
+        "Per capita Real GDP is a better comparator across countries/years than aggregate Real GDP",
+        "Limitations: excludes informal economy, unpaid household work, environmental degradation",
+        "Alternative indicators: HDI, GPI (Genuine Progress Indicator), Green GDP — UPSC loves alternatives"
+      ]
+    },
+    {
+      "name": "Relationship Between Nominal GDP, Real GDP, and Inflation",
+      "key_dimensions": [
+        "Nominal GDP Growth ≈ Real GDP Growth + Inflation (GDP Deflator) — approximate identity",
+        "Distinguishing 'growth in output' vs 'growth in prices' — core analytical skill",
+        "Stagflation scenario: Nominal GDP may rise while Real GDP stagnates — policy trap",
+        "Deflation scenario: Real GDP > Nominal GDP — counterintuitive but examinable"
+      ]
+    },
+    {
+      "name": "Constant Price vs Current Price GDP in Indian Statistical Releases",
+      "key_dimensions": [
+        "CSO/NSO releases GDP in both current and constant prices — institutional source",
+        "Advance Estimates, Revised Estimates, and Final Estimates sequence — process awareness",
+        "First Advance Estimate released in January (for budget preparation) — policy linkage",
+        "Differences between advance and final estimates — reasons for revision"
+      ]
+    },
+    {
+      "name": "Real GDP Per Capita: Cross-Country Comparisons and PPP Adjustment",
+      "key_dimensions": [
+        "Nominal exchange rate conversion distorts cross-country Real GDP comparison",
+        "Purchasing Power Parity (PPP) adjustment accounts for price level differences across nations",
+        "India's GDP rank differs significantly in nominal USD terms vs PPP terms — factual trap",
+        "World Bank and IMF use PPP-adjusted figures for development comparisons — institutional context"
+      ]
+    },
+    {
+      "name": "GDP at Factor Cost vs GDP at Market Price: Interaction with Real/Nominal Distinction",
+      "key_dimensions": [
+        "GDP at Market Price = GDP at Factor Cost + Indirect Taxes – Subsidies",
+        "India switched to GDP at Market Price as headline number in 2015 base year revision — key change",
+        "GVA (Gross Value Added) at basic prices replaced GDP at factor cost — terminology shift trap",
+        "Real vs Nominal distinction applies to both GVA and GDP — layered concept"
+      ]
+    },
+    {
+      "name": "Implicit Price Deflator vs Explicit Price Indices",
+      "key_dimensions": [
+        "GDP Deflator is an 'implicit' deflator — derived, not directly measured",
+        "WPI and CPI are explicit/direct price indices with predefined baskets",
+        "Implicit deflator can diverge significantly from WPI/CPI during structural shifts",
+        "Sectoral deflators (agriculture, industry, services) used for sector-specific Real GVA — granular application"
+      ]
+    },
+    {
+      "name": "Nominal GDP and Fiscal/Debt Metrics",
+      "key_dimensions": [
+        "Fiscal deficit as % of GDP uses Nominal GDP — denominator effect",
+        "Rising Nominal GDP can reduce debt-to-GDP ratio even without actual debt reduction — inflation dividend",
+        "FRBM targets are expressed as % of Nominal GDP — legislative relevance",
+        "Debt sustainability analysis requires distinguishing real interest rate from nominal — advanced application"
+      ]
+    },
+    {
+      "name": "Chain-Based vs Fixed-Base Real GDP Measurement",
+      "key_dimensions": [
+        "Fixed-base method: single base year used throughout — simpler but distorts over long periods",
+        "Chain-linking: base year updated annually — reduces substitution bias, more accurate",
+        "USA uses chain-linked GDP; India uses fixed-base (2011-12) — comparative systems trap",
+        "Chain-linked Real GDP figures are not additive across components — a subtle but examinable trap"
+      ]
+    },
+    {
+      "name": "Sectoral Real GDP and Structural Transformation",
+      "key_dimensions": [
+        "Differential deflators applied to Agriculture, Industry, and Services sectors",
+        "Structural shift: declining share of Agriculture in Real GDP vs relatively stable Nominal share when food inflation is high",
+        "Services sector deflator construction is methodologically complex — data limitation",
+        "Premature deterioralization debate — requires Real GDP sectoral data, not Nominal"
+      ]
+    },
+    {
+      "name": "Green GDP and Environmentally Adjusted National Accounts",
+      "key_dimensions": [
+        "Green GDP = Conventional GDP – Cost of Environmental Degradation",
+        "Attempts to make Real GDP a true welfare measure by incorporating natural capital depletion",
+        "System of Environmental-Economic Accounting (SEEA) — UN framework, India's adoption status",
+        "India's GDP growth rate would be significantly lower if natural resource depletion were accounted for — policy implication"
+      ]
+    },
+    {
+      "name": "Nominal GDP Targeting as Monetary Policy Framework",
+      "key_dimensions": [
+        "Alternative to inflation targeting — targets the sum of Real growth + Inflation",
+        "Advantage: automatically accommodates supply shocks without excessive tightening",
+        "Debate: India uses flexible inflation targeting (CPI-based), not Nominal GDP targeting",
+        "Nominal GDP targeting implies tolerance for higher inflation during recessions — policy trade-off trap"
+      ]
+    },
+    {
+      "name": "GDP Measurement Methods and Their Real vs Nominal Application",
+      "key_dimensions": [
+        "Three methods: Expenditure, Income, and Value Added — all yield same Nominal GDP",
+        "Deflation to arrive at Real GDP applied differently: output method uses price indices by sector",
+        "Expenditure method deflation: separate deflators for consumption, investment, government spending, trade",
+        "Inconsistencies across methods in practice — a source of statistical discrepancy"
+      ]
+    },
+    {
+      "name": "GDP Growth Overestimation/Underestimation Controversies in India",
+      "key_dimensions": [
+        "2015 back-series controversy: new methodology showed higher GDP, questioned by economists",
+        "Arvind Subramanian's critique (2019): India's Real GDP growth overstated by ~2.5% post-2011",
+        "Informal sector deflation methodology questioned — wage data vs price data mismatch",
+        "Demonetization and GST impact on Real GDP measurement — informal economy capture failure"
+      ]
+    },
+    {
+      "name": "Real GDP and Business Cycle Analysis",
+      "key_dimensions": [
+        "Business cycles defined in terms of Real GDP fluctuations, not Nominal — definitional anchor",
+        "Recession: two consecutive quarters of negative Real GDP growth (technical definition)",
+        "Output gap = Actual Real GDP – Potential Real GDP — used in fiscal and monetary policy calibration",
+        "India's use of 'advance estimates' vs 'revised estimates' creates lags in cycle identification"
+      ]
+    }
+  ]
+}

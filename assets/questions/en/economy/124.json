@@ -1,0 +1,1626 @@
+[
+  {
+    "meta": {
+      "uuid": "4cce23e8-c6a7-413a-8ad1-fae47bf20c53",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI as the Sole Currency Authority: Note Issuance and Legal Tender"
+      ],
+      "subject_que_no": 4270,
+      "overall_que_no": 11617
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "₹1 note and coin issuer — Ministry of Finance",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students who know the RBI issues currency assume it issues all denominations, conflating the ₹1 note with higher-denomination notes.",
+      "elimination_logic": [
+        "Eliminate (a): RBI does not issue all paper currency; the ₹1 note is an exception issued by the Ministry of Finance.",
+        "Eliminate (c): The ₹2 note was discontinued, but its issuer when in circulation was RBI, not Ministry of Finance — this option conflates discontinued with exceptional.",
+        "Eliminate (d): ₹10 coins are minted by the Government and issued through RBI as agent, but the legal issuer of the ₹1 note is unambiguously the Ministry of Finance.",
+        "Confirm (b): Both the ₹1 coin and the ₹1 note bear the signature of the Finance Secretary, not the RBI Governor — Ministry of Finance is the issuing authority for both."
+      ],
+      "upsc_trap_explanation": "Students know RBI is India's currency authority and incorrectly extend this to all denominations. The trap exploits the assumption that 'all notes' means 'all currency.' In fact, the ₹1 note is unique: it bears the Finance Secretary's signature and is issued by the Ministry of Finance, while all other notes carry the RBI Governor's signature. A partially prepared student recalls that coins are minted by the Government but forgets that the ₹1 note — a paper instrument — also falls outside RBI's issuance."
+    },
+    "upsc_trap_explanation": "Students know RBI is India's currency authority and incorrectly extend this to all denominations. The ₹1 note bears the Finance Secretary's signature and is issued by the Ministry of Finance — not RBI. A partially prepared student may know coins are government-minted but forgets that the ₹1 note is also an exception among paper currency.",
+    "final_explanation": "The Reserve Bank of India issues currency notes in India under the RBI Act, 1934 — but with one critical exception. The ₹1 note is issued by the Ministry of Finance and bears the signature of the Finance Secretary, not the RBI Governor. Similarly, all coins (including ₹1, ₹2, ₹5, etc.) are minted by the Government of India and issued through RBI as a distribution agent. \n• Option (a): Incorrect — RBI does not issue all paper currency; the ₹1 note is excluded.\n• Option (b): Correct — The Ministry of Finance issues both the ₹1 note and all coins.\n• Option (c): Incorrect — The ₹2 denomination note (when in circulation) was issued by RBI, not the Ministry.\n• Option (d): Incorrect — ₹10 coins are government-minted but the 'issuer' in the legal sense for notes above ₹1 is RBI.\nValue Addition:\n• All notes above ₹1 carry the RBI Governor's signature and 'I promise to pay' guarantee.\n• The legal tender status of coins is limited: coins are legal tender up to prescribed limits per transaction.\n• India shifted from Proportional Reserve System to Minimum Reserve System in 1956, requiring RBI to maintain only ₹200 crore in gold/foreign securities (₹115 crore in gold)."
+  },
+  {
+    "meta": {
+      "uuid": "4ce95e09-b969-45d0-9041-054860cefef9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Banker's Bank and Lender of Last Resort"
+      ],
+      "subject_que_no": 4271,
+      "overall_que_no": 11618
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "LoLR function — SCBs vs. NBFCs access asymmetry",
+      "statement_analysis": [
+        {
+          "statement": "The Lender of Last Resort function of RBI extends equally to Non-Banking Financial Companies and scheduled commercial banks.",
+          "verdict": "Incorrect",
+          "reason": "LoLR in the classical sense applies to scheduled commercial banks with reserve accounts at RBI. NBFCs do not hold reserve accounts with RBI and cannot access the same emergency liquidity windows; they may receive indirect support through banks but not direct LoLR access."
+        },
+        {
+          "statement": "Marginal Standing Facility allows scheduled commercial banks to borrow overnight funds from RBI at a rate above the policy repo rate, even by temporarily drawing down their Statutory Liquidity Ratio holdings.",
+          "verdict": "Correct",
+          "reason": "MSF is set at repo rate + 25 basis points and uniquely permits banks to borrow by dipping below their statutory SLR requirement — it is an emergency window above the policy rate."
+        },
+        {
+          "statement": "Cash Reserve Ratio maintained by banks with RBI earns interest at the repo rate, whereas SLR-eligible securities earn returns determined by market yields.",
+          "verdict": "Incorrect",
+          "reason": "CRR balances held with RBI earn NO interest — this is a fundamental and frequently tested distinction. SLR securities do earn market-determined returns, but CRR is an unremunerated reserve."
+        }
+      ],
+      "strong_distractor": "a — Option (a) '1 and 3 only' is the strong distractor because students who correctly identify Statement 1 as wrong (LoLR asymmetry) may then wrongly accept Statement 3 (CRR earning interest at repo rate sounds plausible to those who confuse CRR with the SDF rate).",
+      "elimination_logic": [
+        "Evaluate Statement 1: LoLR does NOT extend equally to NBFCs — they lack reserve accounts with RBI; Statement 1 is incorrect.",
+        "Evaluate Statement 2: MSF is correctly described — above repo rate, allows temporary SLR dip; Statement 2 is correct, so it is NOT an incorrect statement.",
+        "Evaluate Statement 3: CRR earns zero interest — the claim that it earns 'interest at the repo rate' is factually wrong; Statement 3 is incorrect.",
+        "Statements 1 and 3 are NOT correct → answer is (a)... wait — re-check options: question asks which are NOT correct — Statements 1 and 3 are both incorrect, so answer is (a) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the confusion between CRR (zero interest) and the Standing Deposit Facility rate or repo rate. Since RBI does pay interest on some reserves-like instruments (SDF at repo minus 25 bps), students may assume CRR also earns something. This is a classic partial-truth trap: the part about SLR earning market yields is true, but conflating it with CRR earning repo interest is false.",
+      "final_explanation": "RBI's LoLR and reserve instrument functions are among the most tested areas of RBI's banker's bank role.\n• Statement 1 — Incorrect: LoLR does not extend to NBFCs in the same manner as to SCBs. Banks hold reserve accounts with RBI and can access emergency liquidity through MSF and other windows. NBFCs depend on indirect channels.\n• Statement 2 — Correct: MSF is accurately described — it sits above the repo rate in the LAF corridor and is the only window permitting temporary breach of SLR.\n• Statement 3 — Incorrect: CRR balances earn absolutely no interest. This is a deliberate RBI policy instrument — the zero return itself acts as a tax on bank profitability, incentivising efficient credit deployment.\nValue Addition:\n• The SDF (Standing Deposit Facility, 2022) absorbs excess liquidity without collateral at repo minus 25 bps — it replaced the reverse repo as the effective floor of the LAF corridor.\n• Moral hazard in LoLR: if banks know RBI will always rescue them, they may take excessive risks — hence RBI's reluctance to extend unlimited LoLR.\n• CRR is currently maintained at 4% of NDTL (subject to revision); it has no statutory floor or ceiling post-2006 amendment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about RBI's functions as a banker's bank and lender of last resort:\n\n1. The Lender of Last Resort function of RBI extends equally to Non-Banking Financial Companies and scheduled commercial banks.\n2. Marginal Standing Facility allows scheduled commercial banks to borrow overnight funds from RBI at a rate above the policy repo rate, even by temporarily drawing down their Statutory Liquidity Ratio holdings.\n3. Cash Reserve Ratio maintained by banks with RBI earns interest at the repo rate, whereas SLR-eligible securities earn returns determined by market yields.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8894d8ce-77eb-44d4-a367-622243f1c941",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Monetary Policy Framework and the MPC: Mandate, Composition, and Accountability"
+      ],
+      "subject_que_no": 4272,
+      "overall_que_no": 11619
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "MPC composition and casting vote mechanism",
+      "statement_analysis": [
+        {
+          "statement": "The Monetary Policy Committee operates under the Flexible Inflation Targeting framework with a CPI target of 4% ± 2%, established through an amendment to Section 45ZA of the RBI Act.",
+          "verdict": "Correct",
+          "reason": "The FIT framework and the 4% ± 2% CPI target are legally anchored in Section 45ZA of the RBI Act, inserted by the Finance Act 2016."
+        },
+        {
+          "statement": "The MPC consists of six members: three from RBI and three nominated by the Government of India, with the RBI Governor holding a casting vote in case of a tie.",
+          "verdict": "Correct",
+          "reason": "MPC has six members — RBI Governor (Chair), Deputy Governor in charge of monetary policy, one RBI official, and three GoI nominees. The Governor's casting vote resolves ties — a 3:3 split is resolved by Governor."
+        },
+        {
+          "statement": "If MPC fails to achieve the inflation target for three consecutive quarters, the RBI Governor is required to submit a written explanation to Parliament.",
+          "verdict": "Incorrect",
+          "reason": "The written report/explanation is submitted to the Central Government (not Parliament directly). The failure is defined as breaching the tolerance band for three consecutive quarters, not three consecutive quarters per se — the report goes to GoI."
+        },
+        {
+          "statement": "The RBI Central Board of Directors has the authority to modify the repo rate set by the MPC if it deems such modification necessary for financial stability.",
+          "verdict": "Incorrect",
+          "reason": "The MPC exclusively determines the policy repo rate; the RBI Board has no authority to override or modify MPC decisions on the repo rate — institutional separation is absolute."
+        }
+      ],
+      "strong_distractor": "b — 'Only two' is the strong distractor for students who correctly identify Statement 3's error (Parliament vs. Government) but then wrongly believe the RBI Board retains some emergency override on the repo rate.",
+      "elimination_logic": [
+        "Confirm Statement 1: Section 45ZA, 4% ± 2% CPI — correct as stated.",
+        "Confirm Statement 2: Six-member MPC, 3+3 split, Governor's casting vote — correct.",
+        "Reject Statement 3: Explanation goes to Central Government, not Parliament — incorrect.",
+        "Reject Statement 4: RBI Board cannot modify MPC repo rate decisions — institutional separation is absolute; incorrect.",
+        "Two statements correct (1 and 2) → answer is (b) Only two."
+      ],
+      "upsc_trap_explanation": "Statement 3 is a classic partial-truth trap: the failure clause, the three-quarter threshold, and the written explanation mechanism are all real — but the destination is the Central Government, not Parliament. Students conflating 'accountability to Parliament' with 'accountability to Government' will mark Statement 3 as correct. Statement 4 exploits the confusion between RBI Board's general oversight and MPC's exclusive rate-setting power.",
+      "final_explanation": "The Monetary Policy Committee was constituted under Section 45ZB of the RBI Act (inserted by Finance Act 2016) and operates within the Flexible Inflation Targeting framework.\n• Statement 1 — Correct: 4% ± 2% CPI (Combined) target under Section 45ZA is correctly stated.\n• Statement 2 — Correct: Composition (6 members, 3+3) and Governor's casting vote mechanism are accurately described.\n• Statement 3 — Incorrect: The failure report is submitted to the Central Government, not directly to Parliament. 'Failure' means CPI breaches the 2%–6% band for three consecutive quarters.\n• Statement 4 — Incorrect: The RBI Board manages administration; rate-setting is exclusively the MPC's domain — no override exists.\nValue Addition:\n• MPC meetings are held at least four times a year; decisions are by majority with individual voting records published.\n• GoI nominees serve four-year terms and are not eligible for reappointment — ensures independence.\n• The Central Government notifies the inflation target every five years in consultation with RBI."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the Monetary Policy Committee (MPC) and the Flexible Inflation Targeting framework:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "The MPC operates under the Flexible Inflation Targeting framework with a CPI target of 4% ± 2%, established through an amendment to Section 45ZA of the RBI Act."
+          ],
+          [
+            "2",
+            "The MPC consists of six members: three from RBI and three nominated by the Government of India, with the RBI Governor holding a casting vote in case of a tie."
+          ],
+          [
+            "3",
+            "If MPC fails to achieve the inflation target for three consecutive quarters, the RBI Governor is required to submit a written explanation to Parliament."
+          ],
+          [
+            "4",
+            "The RBI Central Board of Directors has the authority to modify the repo rate set by the MPC if it deems such modification necessary for financial stability."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4615950c-94c5-4070-b071-5decedc66459",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "CRR vs. SLR: Instruments, Purposes, and Asymmetries"
+      ],
+      "subject_que_no": 4273,
+      "overall_que_no": 11620
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "SLR eligible assets — government securities, gold, cash only",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know CRR is held in cash but confuse where it is held (own vault vs. RBI) may match CRR incorrectly, and those who believe corporate bonds qualify for SLR will mis-match List I item C.",
+      "elimination_logic": [
+        "Match A (CRR): Held as cash balances with RBI, earns no interest — matches 2 unambiguously.",
+        "Match B (SLR): Held by the bank itself (not with RBI) in approved securities including G-Secs, gold, cash — matches 4.",
+        "Match C (Eligible SLR assets): G-Secs, cash, gold are eligible; corporate bonds are NOT — matches 1 (excludes corporate bonds).",
+        "Match D (Post-2006 CRR floor/ceiling): No statutory floor or ceiling exists; RBI has full discretion — matches 3.",
+        "Correct combination: A-2, B-4, C-1, D-3 → answer is (a)."
+      ],
+      "upsc_trap_explanation": "The trap lies in item C — students often include corporate bonds as SLR-eligible because they are high-quality securities held by banks. However, SLR-eligible assets are strictly restricted to government and government-guaranteed securities, RBI-approved securities, gold, and cash. Corporate bonds, even AAA-rated ones, do not qualify. Additionally, item D exploits the assumption that CRR must have statutory limits — post-2006, RBI has complete discretion with no floor or ceiling prescribed.",
+      "final_explanation": "CRR and SLR are the two primary statutory pre-emption tools of RBI, structurally different in every key dimension.\nCorrect pairings:\n• A (CRR) — 2: Maintained as cash with RBI, earns zero interest. The zero-return design makes it a cost to banks.\n• B (SLR) — 4: Banks maintain SLR in their own books in the form of G-Secs, gold, and cash — not deposited with RBI.\n• C (Eligible SLR assets) — 1: Strictly government securities, approved securities, gold, and cash. Corporate bonds, regardless of rating, are excluded.\n• D (Statutory CRR limits) — 3: The Banking Regulation (Amendment) Act 2006 removed statutory floor (3%) and ceiling (20%) for CRR, giving RBI full discretion.\nValue Addition:\n• Current CRR is 4% of NDTL; current SLR is 18% of NDTL (approximate — subject to revision).\n• Interbank liabilities and paid-up capital are excluded from NDTL computation.\n• SLR creates a captive market for government securities, ensuring government borrowing is always absorbed — a form of financial repression."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Cash Reserve Ratio (CRR)",
+            "1. Eligible assets include government securities, gold, and cash — but NOT corporate bonds"
+          ],
+          [
+            "B. Statutory Liquidity Ratio (SLR)",
+            "2. Maintained as cash balances with RBI; earns no interest for the bank"
+          ],
+          [
+            "C. Asset eligibility for SLR compliance",
+            "3. No statutory floor or ceiling exists post-2006 amendment; RBI has full discretion"
+          ],
+          [
+            "D. Statutory limits on CRR post-2006",
+            "4. Maintained by the bank itself in its own books in approved securities"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct match?\n\n(a) A-2, B-4, C-1, D-3\n(b) A-4, B-2, C-3, D-1\n(c) A-2, B-1, C-4, D-3\n(d) A-3, B-4, C-2, D-1"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "60127629-f4b7-4890-adf9-09a594e8c52d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Liquidity Adjustment Facility (LAF): Repo, Reverse Repo, and MSF Architecture"
+      ],
+      "subject_que_no": 4274,
+      "overall_que_no": 11621
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "SDF replacing reverse repo as LAF floor — April 2022",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both A and R are correct and know SDF absorbs excess liquidity may assume R explains A, missing that SDF's defining feature (no collateral) is the key causal mechanism, not mere rate differences.",
+      "elimination_logic": [
+        "Step 1: Is A correct? — Yes. The Standing Deposit Facility introduced in April 2022 effectively replaced the reverse repo as the floor of the LAF corridor.",
+        "Step 2: Is R correct? — Yes. SDF absorbs excess liquidity from banks WITHOUT requiring RBI to provide collateral — this is factually accurate.",
+        "Step 3: Does R causally explain A? — R describes SDF's operational mechanism (no collateral), which is precisely WHY it became more effective as a floor than reverse repo (which required RBI to give G-Secs as collateral, constraining its sterilisation capacity). R does causally explain A.",
+        "A correct + R correct + R explains A → answer is (a)... Re-check: The question is designed so that R explaining A is the correct relationship. Answer is (a)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap here works subtly: some students might think the SDF replaced reverse repo merely because of rate positioning, not because of the collateral-free nature. The true causal explanation for why SDF became the effective floor is that reverse repo required RBI to post collateral (G-Secs), limiting sterilisation during periods of large excess liquidity. SDF absorbs without collateral, making it operationally superior. Students who know A and R individually but miss the specific causal link between 'no-collateral' and 'floor effectiveness' may mark (b).",
+      "final_explanation": "The LAF corridor architecture defines the operating range for overnight interbank rates. Before April 2022, the corridor was: Reverse Repo (floor) — Repo (policy rate) — MSF (ceiling). The RBI's April 2022 Monetary Policy Statement introduced the Standing Deposit Facility.\nAssertion (A): Correct. SDF at repo minus 25 bps became the new effective floor of the corridor, operationally superseding the reverse repo rate as the floor.\nReason (R): Correct. SDF's defining and revolutionary feature is that it absorbs excess rupee liquidity from banks WITHOUT RBI needing to provide government securities as collateral — a significant operational advantage during periods of large surplus liquidity.\nCausal link: R directly and precisely explains A. The reason SDF could replace reverse repo as the effective floor is precisely its collateral-free nature — when system liquidity was in large surplus, reverse repo was constrained by RBI's G-Sec inventory; SDF has no such constraint.\nValue Addition:\n• Reverse repo remains in the LAF framework but is now de-emphasised operationally.\n• SDF rate = Repo − 25 bps; MSF rate = Repo + 25 bps — the corridor is symmetric at 25 bps on each side.\n• LTRO and TLTRO are longer-duration (1–3 year) repo-like operations targeting specific sectors, distinct from overnight LAF."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Standing Deposit Facility (SDF) introduced by RBI in April 2022 effectively replaced the reverse repo rate as the floor of the Liquidity Adjustment Facility corridor.\n\nReason (R): Unlike the reverse repo mechanism, the SDF absorbs excess liquidity from the banking system without RBI being required to provide government securities as collateral.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0f984be0-7fbf-458c-a076-6ebfcdb7ca40",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Regulatory and Supervisory Functions: Commercial Banks vs. NBFCs vs. Cooperative Banks"
+      ],
+      "subject_que_no": 4275,
+      "overall_que_no": 11622
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "NABARD supervisory delegation for RRBs",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know RBI is the apex banking regulator assume RBI directly supervises all banks including RRBs, missing the supervisory delegation to NABARD.",
+      "elimination_logic": [
+        "Identify the entity: Gramin Sahyog Bank is described as a Regional Rural Bank — RRBs are a distinct category.",
+        "Eliminate (a): RBI does not directly conduct on-site inspections of RRBs — supervisory function for RRBs is delegated to NABARD.",
+        "Eliminate (b): SEBI has no jurisdiction over banks' banking operations — eliminate immediately.",
+        "Eliminate (c): NABARD regulates RRBs' priority sector lending aspects, but the scenario asks about supervisory inspection — NABARD performs this on behalf of RBI.",
+        "Confirm (d): NABARD conducts supervisory inspections of RRBs on behalf of RBI; the ultimate regulatory authority remains RBI but operational supervision is delegated — (d) is correct."
+      ],
+      "upsc_trap_explanation": "The trap exploits the assumption that 'RBI = regulator = direct supervisor for all banks.' For RRBs, regulatory authority formally rests with RBI under the RBI Act and RRB Act, but supervisory inspection is delegated to NABARD. A student who picks option (b) — RBI directly — is technically not wrong about regulation but misses the supervisory delegation nuance. The question specifically asks about the entity that 'conducts on-site supervision,' which is NABARD.",
+      "final_explanation": "Regional Rural Banks were established under the RRB Act, 1976 to serve rural credit needs with a hybrid ownership structure (Central Government 50%, State Government 15%, Sponsor Bank 35%). Their regulation involves multiple layers.\nApplicable principle: While RBI is the regulatory authority for RRBs, it has delegated the responsibility for on-site supervisory inspection to NABARD. NABARD conducts Annual Financial Inspections of RRBs and submits reports to RBI.\n• Option (a): Incorrect — RBI does not directly inspect RRBs; delegation to NABARD is the operative arrangement.\n• Option (b): Incorrect — SEBI's jurisdiction is capital markets; it has no role in banking supervision.\n• Option (c): Incorrect — The sponsor bank provides operational support but has no supervisory inspection authority.\n• Option (d): Correct — NABARD conducts on-site inspections of RRBs on RBI's behalf; ultimate regulatory authority remains with RBI.\nValue Addition:\n• RRBs are also subject to NABARD's refinance and promotional support — NABARD wears multiple hats: supervisor, refinancer, and promoter.\n• The consolidation of RRBs (from 196 to currently around 43) was driven by RBI and GoI to improve viability.\n• RRBs are excluded from the PCA framework historically applicable to Scheduled Commercial Banks."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Gramin Sahyog Bank is a Regional Rural Bank operating in a tribal district of a central Indian state. During a routine supervisory cycle, an on-site inspection is to be conducted to assess the bank's asset quality, capital adequacy, and compliance with priority sector lending norms. A trainee officer asks which regulatory body will conduct this on-site supervision.\n\nWhich of the following correctly identifies the body that conducts on-site supervisory inspection of Regional Rural Banks?\n\n(a) Reserve Bank of India conducts direct on-site inspections of all RRBs as part of its unified banking supervision mandate\n(b) Securities and Exchange Board of India jointly inspects RRBs given their rural market-making role in government securities\n(c) The sponsor commercial bank of the RRB conducts annual supervisory inspections under a mandate from the Ministry of Finance\n(d) NABARD conducts on-site supervisory inspections of RRBs on behalf of RBI, with ultimate regulatory authority remaining with RBI",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f80abda1-7863-4a04-8a2b-d25c98a43027",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Foreign Exchange Management: RBI's Role Under FEMA vs. FERA"
+      ],
+      "subject_que_no": 4276,
+      "overall_que_no": 11623
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "FEMA vs. FERA — civil vs. criminal paradigm shift",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know FEMA is a 1999 Act and associate it with 'management' may still confuse MSS with FEMA's direct provisions, picking (b) as the odd one out.",
+      "elimination_logic": [
+        "Identify the common theme: three of the four items relate to the shift from FERA to FEMA or FEMA's operational features.",
+        "Option (a): FEMA treating forex violations as civil offences is a defining feature of the FERA-to-FEMA paradigm shift — belongs to the theme.",
+        "Option (b): MSS (Market Stabilization Scheme) is a sterilization tool under which RBI issues GoI securities to absorb rupee liquidity from forex inflows — an RBI forex management tool under FEMA's broader framework.",
+        "Option (c): FEMA granting RBI power to set bank lending rates to exporters — this is an interest rate regulation function, not a forex management provision; export credit interest rates are prescribed under banking regulations, not FEMA.",
+        "Option (d): RBI intervening to prevent excess volatility (not to target a specific exchange rate) is explicitly an FEMA-era principle.",
+        "Option (c) does not belong to FEMA's direct operational framework → answer is (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges two different RBI functions: forex management under FEMA and interest rate regulation under banking law. Export credit interest rates are prescribed under RBI's banking regulatory powers, not under FEMA. A student who associates 'exports' with 'forex' will conflate the two domains and fail to identify (c) as the odd one out.",
+      "final_explanation": "FERA (1973) was a draconian legislation that treated all forex violations as criminal offences with the burden of proof on the accused. FEMA (1999) replaced it with a civil law framework, shifting the paradigm from 'conservation' to 'management' of foreign exchange.\n• Option (a): Core FEMA feature — civil adjudication, penalties replaceable by fines.\n• Option (b): MSS is an RBI sterilization tool used to absorb excess rupee liquidity from large forex inflows by issuing special GoI securities — squarely within RBI's forex management role.\n• Option (c): Setting bank lending rates for export credit is an interest rate regulation function under RBI's banking authority, not a FEMA provision — this is the odd one out.\n• Option (d): RBI's stated forex intervention objective — preventing excess volatility without targeting a specific rate — is a core FEMA-era principle.\nValue Addition:\n• MSS ceiling is approved by Parliament as part of the fiscal framework; securities issued under MSS are distinct from regular market borrowing.\n• Under FEMA, Enforcement Directorate (ED) handles violations — not RBI directly.\n• Capital account is not fully convertible in India; RBI controls inflows and outflows through the Liberalised Remittance Scheme (LRS) and other mechanisms."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT belong to the same category as the others — specifically, the operational or legal framework of India's foreign exchange management under FEMA and RBI's associated role?\n\n(a) Treatment of foreign exchange violations as civil contraventions with monetary penalties rather than criminal prosecution\n(b) Market Stabilization Scheme under which RBI issues Government of India securities to absorb excess rupee liquidity arising from large foreign exchange inflows\n(c) RBI's power to prescribe interest rates on export credit extended by commercial banks to exporters\n(d) RBI intervening in the foreign exchange market to prevent excess volatility without targeting a specific exchange rate level",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "926c5102-909b-4a08-841c-a7ba350105ba",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Priority Sector Lending (PSL): Mandates, Categories, and Priority Sector Lending Certificates (PSLCs)"
+      ],
+      "subject_que_no": 4277,
+      "overall_que_no": 11624
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "PSL shortfall routing to RIDF — opportunity cost, not fine",
+      "statement_analysis": [
+        {
+          "statement": "Banks that fail to meet Priority Sector Lending targets are required to deposit the shortfall amount in the Rural Infrastructure Development Fund maintained with NABARD, which constitutes a monetary penalty for non-compliance.",
+          "verdict": "Incorrect",
+          "reason": "The RIDF deposit is not a penalty — it is an opportunity cost mechanism. The return on RIDF deposits is lower than the bank's normal lending rate, creating a financial disincentive without being a fine. Classifying it as a 'monetary penalty' mischaracterises its legal and regulatory nature."
+        },
+        {
+          "statement": "Priority Sector Lending Certificates are tradable instruments that allow a bank with a shortfall in PSL targets to meet those targets by purchasing certificates from a bank that has achieved a surplus in the relevant PSL category.",
+          "verdict": "Correct",
+          "reason": "PSLCs are market-based compliance instruments introduced in 2016 — a bank with a surplus in agriculture PSL can sell certificates to a bank with a deficit in that category, enabling market-based achievement of targets."
+        }
+      ],
+      "strong_distractor": "a — Students who know RIDF deposits are a consequence of PSL shortfall may assume this constitutes a 'penalty,' making them believe Statement 1 is also correct and choosing (a).",
+      "elimination_logic": [
+        "Evaluate Statement 1: RIDF deposit is an opportunity cost mechanism — the bank earns below-market returns, not a fine or penalty in the regulatory sense; Statement 1 is incorrect.",
+        "Evaluate Statement 2: PSLCs accurately described — tradable, category-specific, market-based compliance; Statement 2 is correct.",
+        "Statement 1 incorrect, Statement 2 correct → answer is (d)... Re-check options: (d) states 'Statement 1 is incorrect but Statement 2 is correct' — answer is (d)."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 1 is calling RIDF deposit a 'monetary penalty.' Analytically, it is an opportunity cost: banks earn lower returns on RIDF deposits than they would on commercial loans, creating a financial disincentive. Calling it a 'penalty' is legally and regulatorily incorrect — no fine is imposed, no regulatory action is initiated. Students who focus on the outcome (financial cost) rather than the mechanism (opportunity cost vs. fine) will mark Statement 1 as correct.",
+      "final_explanation": "Priority Sector Lending is a directed credit mandate requiring banks to allocate a portion of their Adjusted Net Bank Credit to specified sectors.\n• Statement 1 — Incorrect: RIDF is not a penalty framework. Banks deposit shortfall amounts in RIDF (or other funds like NHB, MUDRA) and earn returns lower than commercial rates — creating an opportunity cost. No penal levy is imposed; it is a regulatory nudge through forgone income.\n• Statement 2 — Correct: PSLCs (introduced 2016) are category-specific tradable certificates. Four categories: agriculture, small/marginal farmers, micro-enterprises, and weaker sections. Buying PSLCs counts toward the purchasing bank's PSL targets.\nValue Addition:\n• PSL target: 40% of ANBC for domestic commercial banks; sub-target for agriculture is 18% (including 8% for small/marginal farmers).\n• Foreign banks with fewer than 20 branches have a differentiated (and phased) PSL target, not the full 40% from day one.\n• RIDF rates are typically 2–4% below the bank's prime lending rate — the opportunity cost is the instrument of discipline."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about Priority Sector Lending in India:\n\nStatement 1: Banks that fail to meet Priority Sector Lending targets are required to deposit the shortfall amount in the Rural Infrastructure Development Fund maintained with NABARD, which constitutes a monetary penalty for non-compliance.\n\nStatement 2: Priority Sector Lending Certificates are tradable instruments that allow a bank with a shortfall in PSL targets to meet those targets by purchasing certificates from a bank that has achieved a surplus in the relevant PSL category.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "be381eb6-e670-45b1-87d9-aef0a3485d08",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI's Role in Payment and Settlement Systems: PSS Act 2007"
+      ],
+      "subject_que_no": 4278,
+      "overall_que_no": 11625
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "NPCI — set up by RBI and IBA, umbrella organisation, not government body",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know NPCI is associated with the government's Jan Dhan and digital payment push assume it is a government body or statutory body, choosing 'statutory corporation' as the blank.",
+      "elimination_logic": [
+        "Eliminate (a): NPCI is not a statutory corporation — it was not created by an Act of Parliament; it is a company incorporated under the Companies Act.",
+        "Eliminate (b): NPCI is not a wholly owned subsidiary of RBI — it has multiple shareholders including public and private sector banks.",
+        "Eliminate (d): NPCI is not a self-regulatory organisation (SRO) in the formal sense — it is an 'umbrella organisation' for retail payment systems.",
+        "Confirm (c): NPCI was incorporated as a 'not-for-profit' company under Section 8 of the Companies Act (formerly Section 25), set up by RBI and IBA to serve as the umbrella organisation for retail payment systems — answer is (c)."
+      ],
+      "upsc_trap_explanation": "NPCI's close association with government payment schemes (UPI, BHIM, RuPay) creates the impression that it is a government or statutory body. In fact, it is a not-for-profit company incorporated under the Companies Act, set up by RBI and IBA with bank shareholders. It is neither a government body nor a statutory authority — classifying it correctly is a precision trap.",
+      "final_explanation": "The National Payments Corporation of India occupies a unique institutional space in India's payment ecosystem.\n• Option (a): Incorrect — NPCI is not a statutory corporation; no Act of Parliament created it.\n• Option (b): Incorrect — RBI is a key founding institution but NPCI has a broad shareholder base of public and private banks; it is not an RBI subsidiary.\n• Option (c): Correct — NPCI is a not-for-profit Section 8 company (Companies Act), set up by RBI and the Indian Banks' Association as the 'umbrella organisation' for retail payment and settlement systems.\n• Option (d): Incorrect — SROs are industry bodies with delegated regulatory power; NPCI operates retail payment systems, not as a self-regulator.\nValue Addition:\n• NPCI operates UPI, IMPS, RuPay, NACH, BHIM, Fastag, and several other retail payment systems.\n• The Payment and Settlement Systems Act, 2007 designates RBI as the sole regulator and supervisor of all payment systems in India.\n• CCIL (Clearing Corporation of India Ltd.) handles government securities and forex settlement — it operates under RBI's oversight, not SEBI's."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The National Payments Corporation of India (NPCI), which operates retail payment systems including UPI and RuPay, was set up by the Reserve Bank of India and the Indian Banks' Association. In terms of its legal and institutional character, NPCI is best described as a ________.\n\n(a) Statutory corporation created by an Act of Parliament with RBI as the sole regulator of its operations\n(b) Wholly owned subsidiary of RBI incorporated under the Reserve Bank of India Act, 1934\n(c) Not-for-profit company incorporated under the Companies Act, functioning as an umbrella organisation for retail payment systems\n(d) Self-regulatory organisation recognised by RBI under the Payment and Settlement Systems Act, 2007",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2485105d-770c-4441-886d-740e47e05b07",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Prompt Corrective Action (PCA) Framework: Triggers, Restrictions, and Exit"
+      ],
+      "subject_que_no": 4279,
+      "overall_que_no": 11626
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "PCA moratorium distinction — PCA vs. Section 45 moratorium",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students confuse PCA's deposit withdrawal restrictions with a full moratorium, believing PCA prohibits customer withdrawals — conflating PCA with the Section 45 moratorium instrument.",
+      "elimination_logic": [
+        "Eliminate (a): PCA does restrict branch expansion — this is correctly stated; pair is correctly matched, so it cannot be the 'NOT correctly matched' pair.",
+        "Eliminate (b): PCA does restrict dividend distribution and may cap management compensation — but does NOT impose a moratorium on deposits; confusing PCA with Section 45 moratorium makes (b) a trap but it is not the answer here.",
+        "Eliminate (c): PCA triggers include CRAR falling below thresholds, Net NPA ratio exceeding thresholds, and negative RoA — correctly described.",
+        "Confirm (d): PCA framework has now been extended to NBFCs (post-2021/2022) — but the pair 'PCA applies only to Public Sector Banks among Scheduled Commercial Banks' is WRONG; PCA applies to all Scheduled Commercial Banks (public AND private sector), not only PSBs — this pair is NOT correctly matched.",
+        "Answer is (d)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges PCA's application scope — which covers all SCBs, not just public sector banks — with the popular perception that PCA is a PSB-specific corrective tool (because most PCA cases historically involved PSBs). A student who associates PCA only with PSBs based on recent cases (Punjab National Bank, IDBI Bank) will accept (d) as correctly matched without scrutinising it.",
+      "final_explanation": "The Prompt Corrective Action framework is RBI's structured early-intervention tool for financially stressed banks.\n• Option (a): Correctly matched — PCA does restrict branch expansion as a capital and resource conservation measure.\n• Option (b): Correctly matched — PCA restricts dividend distribution; it does NOT impose a moratorium on deposits (that requires a separate Section 45 order). The pair is correctly stated.\n• Option (c): Correctly matched — CRAR, Net NPA ratio, and RoA (or leverage) are the three risk thresholds that trigger PCA.\n• Option (d): NOT correctly matched — PCA applies to all Scheduled Commercial Banks (public and private sector), not exclusively to public sector banks. It has also been extended to NBFCs. Limiting it to PSBs is factually wrong.\nValue Addition:\n• A bank exits PCA only after sustained improvement across all parameters for at least four consecutive quarters, on the Board's recommendation.\n• RRBs and historically Small Finance Banks were excluded from PCA — distinction still relevant.\n• Section 45 moratorium (used for Yes Bank in 2020) restricts customer withdrawals — fundamentally different from PCA's corrective restrictions on the bank's operational decisions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to the Prompt Corrective Action (PCA) framework of RBI is NOT correctly matched?\n\n(a) PCA restriction : Banks placed under PCA cannot expand their branch network\n(b) PCA and deposit moratorium : PCA framework does not impose a moratorium restricting customer deposit withdrawals\n(c) PCA triggers : Include Capital to Risk-weighted Assets Ratio, Net NPA ratio, and Return on Assets falling below prescribed thresholds\n(d) Applicability of PCA : Framework applies only to Public Sector Banks among Scheduled Commercial Banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f9114830-c426-4410-9ada-87b685b0274f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Differential Rate of Interest and Directed Credit: RBI's Developmental Role"
+      ],
+      "subject_que_no": 4280,
+      "overall_que_no": 11627
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "RBI divested stake in NABARD and NHB to Government",
+      "statement_analysis": [
+        {
+          "statement": "RBI was the initial promoter and shareholder of NABARD when it was established in 1982, but has since divested its entire shareholding to the Government of India.",
+          "verdict": "Correct",
+          "reason": "NABARD was established in 1982 following the recommendations of the Shivaraman Committee. RBI was an initial shareholder but transferred its entire stake to the Government of India, which now holds 99.6%+ stake."
+        },
+        {
+          "statement": "The National Housing Bank was promoted by RBI and continues to have RBI as its majority shareholder as of current ownership structure.",
+          "verdict": "Incorrect",
+          "reason": "RBI has divested its stake in NHB to the Government of India — as of 2019, GoI holds 100% of NHB. RBI is no longer a shareholder."
+        },
+        {
+          "statement": "The RBI Act, 1934 explicitly identifies 'promotion and development of banking habit and financial literacy' as one of RBI's statutory functions in its preamble.",
+          "verdict": "Incorrect",
+          "reason": "While RBI does undertake developmental and promotional functions, the preamble of RBI Act references regulation of currency issue, maintaining reserves, and operating credit system — the specific phrase about 'financial literacy' is not in the original preamble; developmental role is inferred from practice and later provisions."
+        }
+      ],
+      "strong_distractor": "c — Students who know NHB was promoted by RBI but are unaware of the divestment will accept Statement 2 as correct, leading them to choose options that include Statement 2.",
+      "elimination_logic": [
+        "Confirm Statement 1: RBI promoted NABARD (1982) and divested its entire stake to GoI — Statement 1 is correct.",
+        "Reject Statement 2: RBI has divested its NHB stake to GoI; GoI now owns 100% of NHB — Statement 2 is incorrect.",
+        "Reject Statement 3: 'Financial literacy' as an explicit preamble term is a fabrication; the preamble addresses currency, reserves, credit — Statement 3 is incorrect.",
+        "Only Statement 1 is correct → answer is (a) 1 only."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in Statement 2 works because RBI was indeed the promoter of NHB — students who know the promotion role conflate it with current ownership. RBI divested its NHB stake in 2019 to GoI. Statement 3 uses authoritative-sounding statutory language about the preamble to fabricate a specific provision that does not exist.",
+      "final_explanation": "RBI's developmental function — often underweighted in preparation — involves setting up specialised institutions for targeted credit delivery.\n• Statement 1 — Correct: RBI was co-promoter of NABARD in 1982 alongside GoI. Over time, RBI transferred its shareholding; Government of India now holds overwhelming majority stake.\n• Statement 2 — Incorrect: NHB was promoted by RBI in 1988, but RBI divested its 100% stake in NHB to the Government of India as of 2019. RBI holds zero stake currently.\n• Statement 3 — Incorrect: The preamble of RBI Act addresses regulation of currency issuance, maintaining monetary stability, and operating the currency and credit system — not 'financial literacy' as an explicit statutory object.\nValue Addition:\n• SIDBI (1990) and EXIM Bank (1982) were also promoted with RBI's initial support; SIDBI's ownership is spread across public financial institutions.\n• The developmental role of RBI is explicitly recognised but the more dominant legal framing is regulatory and monetary.\n• Interest rate deregulation: savings deposit rate and export credit rates still have RBI-prescribed floors/structures despite broader deregulation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding RBI's developmental and promotional functions:\n\n1. RBI was the initial promoter and shareholder of NABARD when it was established in 1982, but has since divested its entire shareholding to the Government of India.\n2. The National Housing Bank was promoted by RBI and continues to have RBI as its majority shareholder as of the current ownership structure.\n3. The RBI Act, 1934 explicitly identifies 'promotion and development of banking habit and financial literacy' as one of RBI's statutory functions in its preamble.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c663405d-190a-4bef-9c6c-461cdfc6ec10",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "External Benchmark-Based Lending Rate (EBLR) vs. MCLR: Transmission Mechanism"
+      ],
+      "subject_que_no": 4281,
+      "overall_que_no": 11628
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "BPLR to Base Rate to MCLR to EBLR evolution timeline",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who remember MCLR replaced 'something earlier' may confuse Base Rate (2010) with BPLR and place them in the wrong order, or conflate EBLR's 2019 mandatory date with MCLR's 2016 introduction.",
+      "elimination_logic": [
+        "Anchor: BPLR (Benchmark Prime Lending Rate) was the pre-reform regime — banks had excessive discretion; multiple BPLRs existed.",
+        "Base Rate system was introduced in July 2010 to bring transparency and replace BPLR.",
+        "MCLR (Marginal Cost of Funds-Based Lending Rate) replaced Base Rate in April 2016 — introduced to improve monetary policy transmission.",
+        "EBLR (External Benchmark-Based Lending Rate) was made mandatory for floating-rate retail and MSME loans from October 2019.",
+        "Correct order: BPLR → Base Rate (2010) → MCLR (2016) → EBLR mandatory (2019) → answer is (b)."
+      ],
+      "upsc_trap_explanation": "The trap involves the proximity of MCLR (2016) and EBLR (2019) — three years apart but both in the 'recent era.' Students who cannot pin the exact years may swap these two. Additionally, the existence of BPLR (pre-2010) is often forgotten or conflated with Base Rate as a single reform, collapsing the four-stage evolution into three.",
+      "final_explanation": "India's bank lending rate evolution reflects progressive attempts to improve monetary policy transmission.\nCorrect sequence:\n1. BPLR era: Banks had multiple internal benchmark rates with opacity; sub-BPLR lending undermined the system.\n2. Base Rate (July 2010): RBI mandated a single transparent floor below which banks could not lend (with exceptions). Replaced BPLR.\n3. MCLR (April 2016): Replaced Base Rate; linked to marginal cost of funds rather than average cost, better reflecting policy rate changes. But sticky deposit costs still impeded transmission.\n4. EBLR mandatory (October 2019): For floating-rate retail and MSME loans, banks must link rates to an external benchmark (repo rate, T-bill rate, or FBIL benchmark). Direct transmission from RBI rate to borrower.\nOption (a) and (c) fail by swapping MCLR and EBLR or by placing Base Rate after MCLR.\nValue Addition:\n• Banks can choose their external benchmark but once chosen, cannot change it during the loan tenor.\n• Spread over EBLR (risk premium + business strategy premium) can be changed only upon a credit event or at specified intervals.\n• Existing MCLR-linked loans were not mandatorily converted to EBLR — applies to new floating-rate retail/MSME loans."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of evolution in bank lending rate benchmarks in India?\n\n1. Benchmark Prime Lending Rate (BPLR) regime\n2. Base Rate system\n3. Marginal Cost of Funds-Based Lending Rate (MCLR)\n4. External Benchmark-Based Lending Rate (EBLR) made mandatory for floating-rate retail and MSME loans\n\n(a) 2 → 1 → 3 → 4\n(b) 1 → 2 → 3 → 4\n(c) 1 → 2 → 4 → 3\n(d) 1 → 3 → 2 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f6e13154-6d6c-4b2c-815e-6344f536c58c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI's Supervisory Tools: On-site Inspection vs. Off-site Surveillance (OSMOS)"
+      ],
+      "subject_que_no": 4282,
+      "overall_que_no": 11629
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "CAMELS rating and DICGC ₹5 lakh deposit insurance limit",
+      "statement_analysis": [
+        {
+          "statement": "The CAMELS rating framework used in RBI's Annual Financial Inspection assesses banks on six parameters: Capital adequacy, Asset quality, Management, Earnings, Liquidity, and Systems/Sensitivity to market risk.",
+          "verdict": "Correct",
+          "reason": "CAMELS is the standard supervisory rating framework used in AFI — all six components are correctly identified; this statement is factually accurate."
+        },
+        {
+          "statement": "RBI's power to supersede the Board of Directors of a commercial bank and appoint an Administrator is available under Section 35A of the Banking Regulation Act, 1949.",
+          "verdict": "Incorrect",
+          "reason": "The power to supersede the Board and appoint an Administrator is under Section 36AA of the Banking Regulation Act, not Section 35A. Section 35A grants RBI power to issue directions to banks — a different provision."
+        },
+        {
+          "statement": "Under the DICGC insurance framework, a depositor is covered up to ₹5 lakh per bank irrespective of the number of accounts held in that bank, and this limit was enhanced from ₹1 lakh in 2020.",
+          "verdict": "Correct",
+          "reason": "DICGC insurance was enhanced from ₹1 lakh to ₹5 lakh per depositor per bank in February 2020 — correctly stated in all respects."
+        }
+      ],
+      "strong_distractor": "c — 'Only three' is not an option here; students who correctly identify Statement 2 as wrong (wrong section number) may then accept Statement 3's ₹5 lakh figure without recalling the ₹1 lakh predecessor and choose incorrectly.",
+      "elimination_logic": [
+        "Evaluate Statement 1: CAMELS — Capital, Asset quality, Management, Earnings, Liquidity, Systems — correct; Statement 1 is correct (NOT incorrect).",
+        "Evaluate Statement 2: Section 35A is directions power; supersession of Board is Section 36AA — Statement 2 is incorrect (IS an incorrect statement).",
+        "Evaluate Statement 3: ₹5 lakh per depositor per bank, enhanced from ₹1 lakh in 2020 — correct; Statement 3 is correct (NOT incorrect).",
+        "Only Statement 2 is NOT correct → answer is (b) 2 only."
+      ],
+      "upsc_trap_explanation": "The fabrication trap in Statement 2 exploits the fact that both Section 35A and Section 36AA are RBI's enforcement powers under Banking Regulation Act. Students who remember '35' as an important section number may attribute the supersession power to 35A without distinguishing that it is a directions power, not a supersession power. The actual supersession authority — 36AA — is one section away and easily confused.",
+      "final_explanation": "RBI's supervisory toolkit under the Banking Regulation Act involves multiple specific provisions, each with distinct powers.\n• Statement 1 — Correct: CAMELS (Capital, Asset quality, Management, Earnings, Liquidity, Systems/Sensitivity) is correctly described as the AFI framework.\n• Statement 2 — Incorrect: Section 35A confers power to issue binding directions to banks. The power to supersede the Board of a commercial bank and appoint an Administrator is specifically Section 36AA — a critical distinction.\n• Statement 3 — Correct: DICGC covers ₹5 lakh per depositor per bank (all accounts aggregated); the limit was increased from ₹1 lakh in February 2020.\nOnly Statement 2 is NOT correct.\nValue Addition:\n• DICGC covers both principal and interest up to ₹5 lakh — joint accounts are treated separately from individual accounts of the same depositor.\n• RBI can also recommend licence cancellation of a bank to GoI — power under Section 22 read with Section 35 of BR Act.\n• Off-site Monitoring and Surveillance (OSMOS) uses data returns filed by banks to generate early warning signals between annual inspections."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about RBI's supervisory tools and related provisions:\n\n1. The CAMELS rating framework used in RBI's Annual Financial Inspection assesses banks on six parameters: Capital adequacy, Asset quality, Management, Earnings, Liquidity, and Systems/Sensitivity to market risk.\n2. RBI's power to supersede the Board of Directors of a commercial bank and appoint an Administrator is available under Section 35A of the Banking Regulation Act, 1949.\n3. Under the DICGC insurance framework, a depositor is covered up to ₹5 lakh per bank irrespective of the number of accounts held in that bank, and this limit was enhanced from ₹1 lakh in 2020.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 2 only\n(c) 1 and 2 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fb4e3fb2-527c-4873-acf7-ee8306a25400",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Capital Adequacy and Basel Norms Implementation in India: RBI's Role"
+      ],
+      "subject_que_no": 4283,
+      "overall_que_no": 11630
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "D-SIBs, CCyB, and India's CRAR vs. Basel III minimum",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know India maintains higher CRAR than Basel minimum may incorrectly pair CRAR with '8%' (the Basel minimum) rather than '9%' (India's mandatory minimum), and may confuse CCyB with CCB.",
+      "elimination_logic": [
+        "Match A (India's minimum CRAR): RBI mandates 9% minimum CRAR for Indian banks, more conservative than Basel III's 8% minimum — matches 3.",
+        "Match B (Capital Conservation Buffer): CCB is 2.5% of RWA, maintained above minimum CRAR to absorb losses in stress — matches 1.",
+        "Match C (D-SIBs): SBI, HDFC Bank, and ICICI Bank are designated D-SIBs requiring higher capital surcharge — matches 4.",
+        "Match D (Countercyclical Capital Buffer): CCyB is activated/deactivated by RBI based on credit cycle stage; currently at 0% in India — matches 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 → answer is (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges CCB (Capital Conservation Buffer, fixed at 2.5%) with CCyB (Countercyclical Capital Buffer, variable and RBI-activated). Both are Basel III buffers, but CCB is always maintained while CCyB is cyclically activated. Students who know one buffer exists may conflate them, leading to mis-matching of B and D. Additionally, India's CRAR being 9% (not Basel's 8%) is a precision point frequently missed.",
+      "final_explanation": "India's implementation of Basel III capital norms under RBI's supervision involves multiple layers of capital requirements.\nCorrect pairings:\n• A (India's mandatory minimum CRAR) — 3: RBI mandates 9% minimum CRAR, stricter than Basel III's 8% international minimum, reflecting RBI's conservative approach.\n• B (Capital Conservation Buffer) — 1: CCB of 2.5% of Risk-Weighted Assets is mandatory above the minimum CRAR; breaching it triggers restrictions on dividend and bonus payments.\n• C (Domestic Systemically Important Banks) — 4: SBI, HDFC Bank, and ICICI Bank are the three D-SIBs; they carry additional capital surcharge reflecting their systemic importance.\n• D (Countercyclical Capital Buffer) — 2: CCyB is variable, activated by RBI during credit booms and released during downturns; currently at 0% in India.\nValue Addition:\n• D-SIBs face a 'too big to fail' expectation — their implicit government guarantee creates moral hazard.\n• AT1 bonds (Additional Tier-1) can be written down or converted to equity to absorb losses — Yes Bank's AT1 write-down in 2020 was controversial.\n• Basel IV norms (under development) focus on output floor for internal models — India's adoption timeline pending."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II relating to capital adequacy norms as implemented by RBI:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. India's mandatory minimum Capital to Risk-weighted Assets Ratio for scheduled commercial banks",
+            "1. 2.5% of Risk-Weighted Assets, mandatory above minimum CRAR, restricts dividends when breached"
+          ],
+          [
+            "B. Capital Conservation Buffer (CCB)",
+            "2. Variable buffer activated by RBI based on credit cycle; currently at zero in India"
+          ],
+          [
+            "C. Domestic Systemically Important Banks (D-SIBs) currently designated",
+            "3. 9% — stricter than the 8% international Basel III minimum"
+          ],
+          [
+            "D. Countercyclical Capital Buffer (CCyB)",
+            "4. SBI, HDFC Bank, and ICICI Bank — subject to higher capital surcharge"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct match?\n\n(a) A-1, B-3, C-2, D-4\n(b) A-3, B-2, C-4, D-1\n(c) A-3, B-1, C-4, D-2\n(d) A-1, B-4, C-3, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6ad9828a-a9b8-4ef7-b160-34471c51f8e5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI's Independence vs. Government of India: Section 7 of RBI Act and Institutional Tensions"
+      ],
+      "subject_que_no": 4284,
+      "overall_que_no": 11631
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Section 7 RBI Act — GoI direction power never formally invoked until 2018",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is A correct? — Yes. Section 7 of the RBI Act empowers the Central Government to issue directions to the RBI Board in public interest after consultation with the Governor, and this provision was not formally invoked until the 2018 controversy.",
+        "Step 2: Is R correct? — Yes. The Bimal Jalan Committee (2019) was constituted to review RBI's Economic Capital Framework, specifically to determine appropriate levels of contingency risk buffer versus revaluation reserves available for transfer to GoI.",
+        "Step 3: Does R causally explain A? — No. The Bimal Jalan Committee reviewed the surplus transfer framework — a separate issue from whether Section 7 directions power was invoked. The Section 7 controversy in 2018 related to differences over regulatory forbearance, PCA framework, and liquidity support; the Committee was appointed to resolve the surplus transfer dispute, not the Section 7 invocation.",
+        "A correct + R correct + R does NOT explain A → answer is (b)."
+      ],
+      "upsc_trap_explanation": "Both A and R are factually correct — Section 7 was controversially discussed in 2018, and the Bimal Jalan Committee (2019) is a real committee on economic capital. The trap is assuming that because both events relate to the 2018–2019 RBI-GoI tension, one explains the other. In fact, the Section 7 controversy was about PCA and regulatory forbearance disputes, while the Committee addressed the surplus transfer methodology — related tensions, but causally separate events.",
+      "final_explanation": "The 2018–2019 period marked an unprecedented public tension between the RBI and the Central Government, touching multiple institutional dimensions.\nAssertion (A): Correct. Section 7 of the RBI Act provides that the Central Government may, after consultation with the Governor, issue directions to the RBI Board in public interest. This power was never formally and officially invoked until it became the subject of public controversy in 2018, when the Government was reported to be considering using it over disagreements on PCA framework and liquidity support.\nReason (R): Correct. The Bimal Jalan Committee (2019) was indeed constituted to examine RBI's Economic Capital Framework and determine the appropriate size of contingency reserves, revaluation buffers, and the quantum of surplus transfer to Government.\nCausal relationship: R does not explain A. The Section 7 controversy was about regulatory and operational disagreements; the Bimal Jalan Committee was a resolution mechanism for the surplus transfer dispute — a parallel but causally distinct development from the Section 7 invocation question.\nValue Addition:\n• Jalan Committee recommended a Contingency Risk Buffer of 5.5–6.5% of RBI's balance sheet.\n• Fiscal dominance occurs when government's deficit financing pressures override the central bank's price stability mandate.\n• RBI Board meets regularly but cannot override MPC decisions — governance separation is structural."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Section 7 of the RBI Act, which empowers the Central Government to issue directions to the RBI Board in public interest after consulting the Governor, was not formally invoked until the controversy surrounding it emerged in 2018.\n\nReason (R): The Bimal Jalan Committee constituted in 2019 reviewed RBI's Economic Capital Framework to determine appropriate levels of contingency risk buffer and revaluation reserves available for transfer to the Government.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b15aed7d-c22d-42ae-bccd-a06bdc64b7dd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Financial Inclusion Initiatives Driven by RBI: BC Model, Jan Dhan, and Digital Finance"
+      ],
+      "subject_que_no": 4285,
+      "overall_que_no": 11632
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Payment Banks deposit ceiling ₹2 lakh and no lending function",
+      "statement_analysis": [
+        {
+          "statement": "Payment Banks licensed by RBI can accept deposits up to ₹2 lakh per customer but are prohibited from extending loans or credit cards to customers.",
+          "verdict": "Correct",
+          "reason": "Payment Banks can accept demand deposits up to ₹2 lakh per individual customer and cannot engage in lending activities — this is a defining restriction that distinguishes them from Small Finance Banks."
+        },
+        {
+          "statement": "Under RBI's Business Correspondent model, the Business Correspondent is an independent financial service provider whose liability for banking transactions rests entirely with the customer.",
+          "verdict": "Incorrect",
+          "reason": "A BC is an agent of the bank — not an independent provider. Liability for banking transactions conducted through BC rests with the bank, not with the customer. The bank is responsible for the BC's acts and omissions."
+        },
+        {
+          "statement": "RBI's Account Aggregator framework enables consent-based sharing of financial data between Financial Information Providers (FIPs) and Financial Information Users (FIUs), with the Account Aggregator itself prohibited from storing the data it transmits.",
+          "verdict": "Correct",
+          "reason": "The AA framework is designed for data flow, not data storage — AAs facilitate encrypted data transmission between FIPs and FIUs based on customer consent and cannot store, sell, or use the financial data themselves."
+        }
+      ],
+      "strong_distractor": "b — Students who know the BC model involves agents may wrongly think BCs carry independent liability (since they interact directly with customers), choosing options that include Statement 2 as correct.",
+      "elimination_logic": [
+        "Confirm Statement 1: ₹2 lakh deposit ceiling, no lending — correctly describes Payment Banks; Statement 1 is correct.",
+        "Reject Statement 2: BC is bank's agent; liability rests with the bank, not the customer or BC independently — Statement 2 is incorrect.",
+        "Confirm Statement 3: AA framework prohibits data storage by the aggregator — consent architecture is correctly described; Statement 3 is correct.",
+        "Statements 1 and 3 correct → answer is (c) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is the phrase 'independent financial service provider' and 'liability rests with the customer.' The BC is explicitly not independent — they are the bank's agent under a contract, and the bank bears full liability for BC-mediated transactions. This distinction is critical for consumer protection. Students who associate 'agent' with 'independence' in colloquial usage will miss the precise legal characterisation.",
+      "final_explanation": "RBI's financial inclusion strategy uses differentiated institutions and digital frameworks to extend banking services to underserved populations.\n• Statement 1 — Correct: Payment Banks are licensed as 'differentiated banks' — deposits up to ₹2 lakh per customer, no credit functions, primarily payments and remittances.\n• Statement 2 — Incorrect: BCs are agents of banks, not independent providers. The bank is fully liable for the BC's conduct in banking transactions. This is a consumer protection principle — customers deal with the bank through the BC, not with an independent entity.\n• Statement 3 — Correct: AA framework's key principle is 'data blind' aggregation — AAs route encrypted data from FIPs to FIUs but cannot store, view, or monetise the data. Only the customer and the FIU receiving data see its content.\nValue Addition:\n• Small Finance Banks can accept deposits and extend loans — no ceiling on deposits; distinction from Payment Banks is critical.\n• Digital Lending Guidelines (2022): loan amount must be disbursed directly to borrower's bank account — not to the Lending Service Provider (LSP) — addresses predatory fintech practices.\n• AA framework covers banks, NBFCs, insurance, mutual funds, pension — all RBI/SEBI/IRDAI/PFRDA regulated entities can be FIPs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about RBI's financial inclusion initiatives and differentiated banking:\n\n1. Payment Banks licensed by RBI can accept deposits up to ₹2 lakh per customer but are prohibited from extending loans or credit cards to customers.\n2. Under RBI's Business Correspondent model, the Business Correspondent is an independent financial service provider whose liability for banking transactions rests entirely with the customer.\n3. RBI's Account Aggregator framework enables consent-based sharing of financial data between Financial Information Providers and Financial Information Users, with the Account Aggregator itself prohibited from storing the data it transmits.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d743eea4-2cb1-4f5f-8a70-f90c7dc4c5e0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI and Inflation: Types of Inflation Measures and Which RBI Targets"
+      ],
+      "subject_que_no": 4286,
+      "overall_que_no": 11633
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "RBI targets CPI Combined — not WPI or core CPI",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know 'core inflation' is what economists focus on (excluding food and fuel volatility) may assume RBI targets core CPI rather than headline CPI (Combined), picking (c).",
+      "elimination_logic": [
+        "Eliminate (a): WPI is used for GDP deflation and tracks wholesale-level price changes — not the monetary policy anchor; RBI targets CPI.",
+        "Eliminate (c): Core CPI (excluding food and fuel) is monitored as an analytical tool but the FIT framework's legal target is headline CPI (Combined) — 4% ± 2%.",
+        "Eliminate (d): CPI-Industrial Workers is used for wage indexation; not the monetary policy target.",
+        "Confirm (b): The Flexible Inflation Targeting framework under Section 45ZA of the RBI Act mandates CPI (Combined) as the target variable — answer is (b)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap offers 'core CPI' as a plausible alternative because economists emphasise core inflation as more amenable to monetary policy (supply-side food/fuel shocks cannot be controlled by rate hikes). A well-prepared student who has read monetary policy analysis may recall this and incorrectly choose core CPI. The legal target under the FIT framework is unambiguously headline CPI (Combined) — not core.",
+      "final_explanation": "India's Flexible Inflation Targeting framework, legislated through amendments to the RBI Act in 2016, specifies the precise inflation measure RBI must target.\n• Option (a): Incorrect — WPI reflects wholesale prices; it is used in national accounts as a deflator and for input cost analysis, not for monetary policy.\n• Option (b): Correct — CPI (Combined), also called All-India CPI, is the legally mandated target at 4% ± 2%. Government notifies this target every five years in consultation with RBI.\n• Option (c): Incorrect — Core CPI (ex-food, ex-fuel) is analytically important for understanding demand-driven inflation but is not the statutory target variable.\n• Option (d): Incorrect — CPI-IW is sector-specific, used for wage indexation of industrial workers and EPFO calculations, not monetary policy.\nValue Addition:\n• Food and beverages carry ~45.86% weight in CPI basket — making headline CPI highly volatile with food supply shocks.\n• Breaching the 2%–6% band for three consecutive quarters constitutes 'failure' under the FIT framework.\n• WPI has a higher weight for manufactured products — divergence between WPI and CPI signals margin compression or expansion at the producer level."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under the Flexible Inflation Targeting framework established through amendments to the RBI Act, the Reserve Bank of India is mandated to target which of the following inflation measures?\n\n(a) Wholesale Price Index (WPI) — as it better captures input cost pressures in the economy\n(b) Consumer Price Index (Combined) — as the primary variable for the 4% ± 2% inflation target\n(c) Core Consumer Price Index — excluding food and fuel components, as monetary policy can more effectively control demand-driven inflation\n(d) Consumer Price Index for Industrial Workers — as it directly measures cost of living changes for wage-earning households",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "da27eb7e-4f7b-46bd-a8f1-acf4c2d34431",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Regulation of Cooperative Banks: Dual Regulation Problem and 2020 Reforms"
+      ],
+      "subject_que_no": 4287,
+      "overall_que_no": 11634
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "BR Amendment Act 2020 — RBI supersession power over UCBs without State consent",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know State Governments regulate cooperative societies assume State Government consent is needed for RBI action on UCBs, selecting (c) — missing the 2020 amendment.",
+      "elimination_logic": [
+        "Identify entity: Nagpur Nagari Cooperative Bank is an Urban Cooperative Bank (UCB) — falls under the dual regulation framework.",
+        "Eliminate (b): State Registrar's consent is not required for RBI to take action on banking functions post-2020 amendment.",
+        "Eliminate (c): The Banking Regulation (Amendment) Act 2020 specifically removed the requirement for State Government consent before RBI can recommend amalgamation or supersede a UCB board.",
+        "Eliminate (d): NABARD supervises State Cooperative Banks and DCCBs — not Urban Cooperative Banks; wrong entity.",
+        "Confirm (a): Post-2020 amendment, RBI can supersede the board of an Urban Cooperative Bank and recommend reconstruction/amalgamation without State government consent — answer is (a)."
+      ],
+      "upsc_trap_explanation": "The trap exploits the pre-2020 dual regulation gap where State Registrar's consent was needed for board-level interventions in UCBs. The PMC Bank crisis (2019) exposed this gap — RBI could regulate banking operations but could not act on management without State cooperation. The Banking Regulation (Amendment) Act 2020 plugged this specifically for UCBs. Students who know the 'dual regulation' concept but not the 2020 amendment will choose (c) — State Government consent — as the correct requirement.",
+      "final_explanation": "Urban Cooperative Banks operated in a regulatory gap where banking functions were regulated by RBI and management/membership by State Registrars of Cooperative Societies — creating the dual regulation problem exposed in the Punjab and Maharashtra Cooperative Bank (PMC) crisis.\nApplicable principle: Banking Regulation (Amendment) Act 2020 significantly expanded RBI's powers over UCBs, specifically enabling RBI to supersede the board and recommend amalgamation or reconstruction WITHOUT requiring State Government consent.\n• Option (a): Correct — Post-2020, RBI can supersede a UCB's board and act on restructuring independently of State Government consent.\n• Option (b): Incorrect — State Registrar's no-objection is no longer required for RBI's banking regulatory actions on UCBs.\n• Option (c): Incorrect — This was the pre-2020 position; the 2020 amendment eliminated this constraint.\n• Option (d): Incorrect — NABARD supervises State Cooperative Banks and District Central Cooperative Banks; Urban Cooperative Banks are under RBI's direct supervisory expanded powers.\nValue Addition:\n• Multi-State Cooperative Banks fall under Central Registrar and RBI — a different track from single-state UCBs.\n• Depositors in cooperative banks are covered by DICGC up to ₹5 lakh — same as commercial banks.\n• State Cooperative Banks and DCCBs remain under NABARD's supervisory purview — the 2020 amendment's expanded RBI power applies specifically to UCBs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Nagpur Nagari Cooperative Bank, an urban cooperative bank operating in Maharashtra, has reported severe deterioration in asset quality, capital erosion, and governance failures involving its elected Board of Directors. Depositors are withdrawing funds in large volumes. RBI determines that immediate supervisory intervention including supersession of the bank's Board and recommendation for amalgamation with a healthier institution is necessary.\n\nWhich of the following correctly describes RBI's power to act in this situation following the Banking Regulation (Amendment) Act, 2020?\n\n(a) RBI can supersede the Board of the Urban Cooperative Bank and recommend amalgamation or reconstruction without requiring prior consent of the State Government\n(b) RBI can issue directions to the bank but must obtain a no-objection from the State Registrar of Cooperative Societies before superseding the Board\n(c) RBI requires the State Government's formal approval before it can recommend amalgamation of an Urban Cooperative Bank, as cooperative management remains a State subject\n(d) Supervisory intervention in Urban Cooperative Banks is the exclusive domain of NABARD, which acts on behalf of RBI for all cooperative banking entities",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "16831aec-32b8-42fd-aa93-efbe7795038b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI as the Sole Currency Authority: Note Issuance and Legal Tender",
+        "CRR vs. SLR: Instruments, Purposes, and Asymmetries"
+      ],
+      "subject_que_no": 4288,
+      "overall_que_no": 11635
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Legal tender distinction — coins limited, notes unlimited legal tender",
+      "statement_analysis": [
+        {
+          "statement": "Coins in India are unlimited legal tender for all transactions, just as currency notes issued by RBI.",
+          "verdict": "Incorrect",
+          "reason": "Coins are limited legal tender — a person is not obligated to accept coins beyond certain prescribed limits per transaction (e.g., coins up to ₹1,000 for ₹1 coins). Currency notes are unlimited legal tender."
+        },
+        {
+          "statement": "India adopted the Minimum Reserve System for currency note issuance in 1956, replacing the earlier Proportional Reserve System.",
+          "verdict": "Correct",
+          "reason": "India switched from the Proportional Reserve System to the Minimum Reserve System in 1956; under MRS, RBI is required to maintain a minimum reserve of ₹200 crore (₹115 crore in gold) regardless of the volume of notes issued."
+        },
+        {
+          "statement": "Under the Clean Note Policy, RBI is obligated to withdraw soiled and mutilated currency notes from circulation and replace them at full face value.",
+          "verdict": "Correct",
+          "reason": "Clean Note Policy requires banks (and through them, RBI) to ensure clean currency circulation; mutilated notes can be exchanged, though the value given for heavily mutilated notes may be reduced based on RBI's Note Refund Rules."
+        },
+        {
+          "statement": "Net Demand and Time Liabilities, which form the base for CRR computation, include interbank deposits placed by one scheduled commercial bank with another.",
+          "verdict": "Incorrect",
+          "reason": "Interbank liabilities (deposits of one bank with another) are specifically excluded from NDTL for the purpose of CRR computation — this is a standard exclusion designed to avoid double-counting within the banking system."
+        }
+      ],
+      "strong_distractor": "c — Students who know NDTL includes most bank liabilities may assume interbank deposits are included, and may also not recall the nuance of limited vs. unlimited legal tender for coins, making 'Only three' plausible.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Coins are limited legal tender — prescribed limits apply per transaction; Statement 1 is incorrect.",
+        "Evaluate Statement 2: MRS adopted in 1956 replacing PRS — correctly stated; Statement 2 is correct.",
+        "Evaluate Statement 3: Clean Note Policy and note replacement obligations exist; Statement 3 is broadly correct (noting RBI's Note Refund Rules govern mutilated notes).",
+        "Evaluate Statement 4: Interbank deposits are excluded from NDTL — Statement 4 is incorrect.",
+        "Two correct statements (2 and 3) → answer is (b) Only two."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the assumption that all legal tender in India is unlimited — a superficially logical conclusion. In reality, coins have transactional limits making them 'limited' legal tender. Statement 4 exploits the broad understanding of NDTL without the specific exclusion rule for interbank deposits — a precision detail that frequently appears in RBI-related examination questions.",
+      "final_explanation": "Currency management and reserve computation involve precise legal distinctions.\n• Statement 1 — Incorrect: Coins are limited legal tender with per-transaction acceptance limits; notes are unlimited legal tender.\n• Statement 2 — Correct: The Minimum Reserve System (1956) requires only a minimum reserve (₹200 crore, with ₹115 crore in gold) regardless of note volume — a much more flexible system than the Proportional Reserve System.\n• Statement 3 — Correct: Clean Note Policy mandates removal of soiled notes; replacement is at face value (RBI Note Refund Rules govern mutilated note compensation).\n• Statement 4 — Incorrect: Interbank liabilities are excluded from NDTL to prevent double-counting within the banking system; only liabilities to non-bank entities are counted.\nTwo statements are correct → (b) Only two.\nValue Addition:\n• ₹1 coin: legal tender up to ₹1,000 per transaction in most transactions — beyond that, recipient can legally refuse.\n• Gold and foreign currency held as reserve under MRS must meet ₹115 crore minimum gold threshold.\n• NDTL also excludes paid-up capital and reserves of banks from the computation base."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about currency management and reserve computation by RBI:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Coins in India are unlimited legal tender for all transactions, just as currency notes issued by RBI."
+          ],
+          [
+            "2",
+            "India adopted the Minimum Reserve System for currency note issuance in 1956, replacing the earlier Proportional Reserve System."
+          ],
+          [
+            "3",
+            "Under the Clean Note Policy, RBI is obligated to withdraw soiled and mutilated currency notes from circulation and replace them at full face value."
+          ],
+          [
+            "4",
+            "Net Demand and Time Liabilities, which form the base for CRR computation, include interbank deposits placed by one scheduled commercial bank with another."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e6b93b89-f701-4310-9cb0-e29cb0678a81",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Liquidity Adjustment Facility (LAF): Repo, Reverse Repo, and MSF Architecture",
+        "Open Market Operations (OMO) and Government Securities Market Management"
+      ],
+      "subject_que_no": 4289,
+      "overall_que_no": 11636
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "OMO injects durable liquidity vs. LAF overnight — structural distinction",
+      "statement_analysis": [
+        {
+          "statement": "Open Market Operations conducted by RBI in the secondary market for government securities are used to inject or absorb durable (long-lasting) liquidity in the banking system, as distinct from the short-term liquidity managed through the Liquidity Adjustment Facility.",
+          "verdict": "Correct",
+          "reason": "OMO purchases inject permanent/durable liquidity by adding reserves to banks without a repayment obligation (unlike repo). LAF operations are short-term (overnight to 14 days). This is the fundamental architectural distinction."
+        },
+        {
+          "statement": "Operation Twist, as practised by RBI, involves simultaneously purchasing long-term government securities and selling short-term government securities to steepen the yield curve and incentivise long-term investment.",
+          "verdict": "Incorrect",
+          "reason": "Operation Twist flattens (not steepens) the yield curve — buying long-term G-Secs raises their prices and reduces long-term yields, while selling short-term raises short-term yields. The objective is to flatten or compress the spread between short and long-term rates, not steepen it."
+        }
+      ],
+      "strong_distractor": "a — Students who know Operation Twist involves buying long-term and selling short-term securities may not recall whether the effect is to steepen or flatten the yield curve, accepting Statement 2 as correct and choosing (a).",
+      "elimination_logic": [
+        "Evaluate Statement 1: OMO creates durable reserve changes vs. LAF's transient changes — structurally correct; Statement 1 is correct.",
+        "Evaluate Statement 2: Operation Twist flattens the yield curve (reduces long-term yields, raises short-term yields) — 'steepen' is the opposite of the actual effect; Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect → answer is (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is the yield curve direction claim. The mechanics of Operation Twist (buying long-term, selling short-term) are well-known. But the effect on the yield curve confuses many: buying long-term bonds pushes their prices up and yields DOWN; selling short-term bonds pushes their prices down and yields UP. Net effect: long-term yields fall, short-term yields rise → yield curve FLATTENS. Students who recall the mechanics but misattribute the effect will choose the wrong option.",
+      "final_explanation": "LAF and OMO serve different purposes in RBI's liquidity management toolkit.\n• Statement 1 — Correct: OMO purchases are permanent reserve injections — money enters banks' accounts without any repayment commitment. LAF (repo) is collateralised overnight borrowing that reverses the next day. This durable vs. transient distinction is architecturally fundamental.\n• Statement 2 — Incorrect: Operation Twist flattens the yield curve. Buying long-term G-Secs → price rises, long-term yields fall. Selling short-term G-Secs → price falls, short-term yields rise. Spread between long and short rates narrows → flatter yield curve. The goal is to lower long-term borrowing costs without changing the short-term policy rate.\nValue Addition:\n• RBI conducted Operation Twist in December 2019–early 2020 specifically to reduce the 10-year G-Sec yield and ease long-term borrowing costs for the government.\n• G-SAP (2021) was essentially commitment-based OMO — RBI pre-announced the amount it would buy to anchor yield expectations.\n• A steeper yield curve (higher long-term vs. short-term rates) is the normal shape; central banks use twists to correct when the curve is excessively steep."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Statement 1: Open Market Operations conducted by RBI in the secondary market for government securities are used to inject or absorb durable (long-lasting) liquidity in the banking system, as distinct from the short-term liquidity managed through the Liquidity Adjustment Facility.\n\nStatement 2: Operation Twist, as practised by RBI, involves simultaneously purchasing long-term government securities and selling short-term government securities to steepen the yield curve and incentivise long-term investment.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f8de8563-f6e9-4009-8984-ac50f22015dd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Monetary Policy Framework and the MPC: Mandate, Composition, and Accountability",
+        "CRR vs. SLR: Instruments, Purposes, and Asymmetries"
+      ],
+      "subject_que_no": 4290,
+      "overall_que_no": 11637
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "CRR statutory floor ceiling removed — 2006 amendment",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who recall a general 'banking reform year' like 1991 or 2010 may associate CRR deregulation with those reform periods, choosing 2002 (a plausible-sounding reform year) as the blank.",
+      "elimination_logic": [
+        "Eliminate (a): 2002 is not the year of CRR floor/ceiling removal — no such amendment occurred.",
+        "Eliminate (b): 1991 is associated with LPG reforms, not specifically CRR statutory limit removal.",
+        "Eliminate (d): 2016 is the year MPC/FIT framework was legislated — not CRR limit removal.",
+        "Confirm (c): The Banking Regulation (Amendment) Act 2006 removed the statutory floor (3%) and ceiling (20%) for CRR, giving RBI complete discretion — answer is (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap places plausible reform years (1991, 2002, 2016) against the correct year (2006). Since multiple banking reforms happened across these years, students who cannot pin the specific 2006 amendment for CRR deregulation will guess based on association with other major reforms. The year 2016 is particularly dangerous as it correctly relates to MPC amendments to the same RBI Act.",
+      "final_explanation": "The evolution of CRR as a monetary policy instrument reflects progressive regulatory liberalisation.\n• Option (a): Incorrect — 2002 is not the year of this specific amendment.\n• Option (b): Incorrect — 1991 relates to broader economic liberalisation; CRR statutory limits remained in the RBI Act until much later.\n• Option (c): Correct — A 2006 amendment to the RBI Act removed the statutory floor of 3% and ceiling of 20% for CRR. RBI now has complete discretion to set CRR at any level it deems appropriate for monetary management.\n• Option (d): Incorrect — 2016 is the year Section 45ZA–45ZL were inserted into the RBI Act for the MPC and FIT framework.\nValue Addition:\n• Before 2006, the statutory band (3%–20%) constrained RBI's flexibility in using CRR as a counter-cyclical tool.\n• CRR was actively used in the 1990s at rates as high as 15% to contain monetary expansion.\n• SLR, by contrast, still has a statutory ceiling of 40% under the Banking Regulation Act, though no floor is prescribed."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "An amendment to the RBI Act removed the statutory floor and ceiling for the Cash Reserve Ratio, granting RBI complete discretion to set the CRR at any level it considers appropriate for monetary management. This amendment was effected in the year ________.\n\n(a) 2002\n(b) 1991\n(c) 2006\n(d) 2016",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3d215a74-46f9-4c9a-b072-69745c254da6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Regulatory and Supervisory Functions: Commercial Banks vs. NBFCs vs. Cooperative Banks",
+        "Regulation of Cooperative Banks: Dual Regulation Problem and 2020 Reforms"
+      ],
+      "subject_que_no": 4291,
+      "overall_que_no": 11638
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "State Cooperative Banks supervised by NABARD, not RBI directly",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know RBI regulates Urban Cooperative Banks (correctly) may extend this to all cooperative banks, accepting (b) as correctly matched without distinguishing UCBs from State Cooperative Banks.",
+      "elimination_logic": [
+        "Evaluate (a): Scale-Based Regulation framework for NBFCs post-2021 is correctly stated — RBI introduced SBR to regulate NBFCs proportionally to their size and systemic risk; (a) is correctly matched.",
+        "Evaluate (b): Payment Banks and Small Finance Banks are exclusively licensed and supervised by RBI — correctly stated; (b) is correctly matched.",
+        "Evaluate (c): Banking Regulation (Amendment) Act 2020 expanded RBI's powers over Urban Cooperative Banks — correctly stated; (c) is correctly matched.",
+        "Evaluate (d): State Cooperative Banks and District Central Cooperative Banks are supervised by NABARD, not directly by RBI; the pair claims RBI directly supervises all State Cooperative Banks — this is incorrect; (d) is NOT correctly matched.",
+        "Answer is (d)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap conflates RBI's regulatory authority (which technically extends broadly) with its supervisory implementation (which is delegated to NABARD for State Cooperative Banks and DCCBs). Students who know RBI is the apex banking regulator assume direct supervision, missing the supervisory delegation to NABARD. This is a precision distinction — RBI regulates, NABARD supervises for this category.",
+      "final_explanation": "India's banking regulatory architecture distinguishes between different institution types with different supervisory arrangements.\n• Option (a): Correctly matched — RBI's Scale-Based Regulation (2021) creates four layers (Base, Middle, Upper, Top) for NBFCs based on size and systemic risk.\n• Option (b): Correctly matched — RBI exclusively licenses and supervises Payment Banks and Small Finance Banks; no shared jurisdiction for these differentiated licence types.\n• Option (c): Correctly matched — The 2020 Amendment expanded RBI's powers specifically to supersede UCB boards and recommend amalgamation without State Government consent.\n• Option (d): NOT correctly matched — State Cooperative Banks and District Central Cooperative Banks (DCCBs) are supervised by NABARD on behalf of RBI, not by RBI directly. RBI remains the ultimate regulatory authority but delegates supervisory inspection to NABARD for these entities.\nValue Addition:\n• The distinction between 'regulation' (RBI) and 'supervision' (NABARD for State Coops/DCCBs) is a jurisdictional precision critical for exam questions.\n• UCBs (Urban Cooperative Banks) are directly under RBI's expanded supervisory powers post-2020 — different from State Coops.\n• Multi-State Cooperative Banks fall under Central Registrar of Cooperative Societies and RBI — a third track."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to RBI's regulatory and supervisory functions is NOT correctly matched?\n\n(a) Scale-Based Regulation framework : Introduced by RBI in 2021 to regulate NBFCs proportionally based on their size and systemic risk significance\n(b) Payment Banks and Small Finance Banks : Licensed and supervised exclusively by RBI under differentiated banking framework\n(c) Banking Regulation (Amendment) Act 2020 : Expanded RBI's powers to supersede the board of Urban Cooperative Banks without requiring State Government consent\n(d) State Cooperative Banks and District Central Cooperative Banks : Directly supervised by RBI through its Department of Supervision under the Banking Regulation Act",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fbb4e726-1f6d-4aa2-8610-e3d43e0f2055",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Banker to the Government: RBI's Role as Government's Fiscal Agent",
+        "Open Market Operations (OMO) and Government Securities Market Management"
+      ],
+      "subject_que_no": 4292,
+      "overall_que_no": 11639
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "OMO secondary market only — does not directly finance government deficit",
+      "statement_analysis": [
+        {
+          "statement": "Open Market Operations involve RBI purchasing government securities in the primary market, directly financing the fiscal deficit of the Central Government.",
+          "verdict": "Incorrect",
+          "reason": "OMO operates in the secondary market — RBI buys or sells already-issued G-Secs from/to banks and other market participants. OMO is a monetary tool for managing systemic liquidity, not a fiscal financing tool. Primary market subscription (devolvement) is a separate, distinct mechanism."
+        },
+        {
+          "statement": "The Market Stabilization Scheme involves RBI issuing government securities on behalf of the Government of India specifically to absorb excess rupee liquidity arising from large foreign exchange inflows, and the proceeds of these issuances are credited to a separate MSS cash account maintained by the government with RBI.",
+          "verdict": "Correct",
+          "reason": "MSS is correctly described — it sterilises forex inflows by mopping up excess rupee liquidity; MSS securities are distinct from regular market borrowing, and proceeds are maintained separately (not available for government expenditure)."
+        },
+        {
+          "statement": "RBI's debt management role — managing the Central Government's borrowing programme — is exercised independently of its monetary policy role, with no institutional conflict of interest, since the two functions are performed by separate departments within RBI.",
+          "verdict": "Incorrect",
+          "reason": "This is precisely the conflict identified by reformers — as debt manager, RBI prefers low interest rates to minimise government borrowing costs; as monetary authority, it may need to raise rates to contain inflation. This institutional conflict persists despite internal departmental separation — the proposed PDMA was to address this by removing debt management from RBI entirely."
+        }
+      ],
+      "strong_distractor": "c — Students who know OMO happens in the secondary market may still accept Statement 3 (which sounds like an administrative fact) without recognising it denies the conflict of interest — making 'only Statement 1' seem like the answer and leading them to (a).",
+      "elimination_logic": [
+        "Evaluate Statement 1: OMO is secondary market — NOT primary market financing; this is incorrect; Statement 1 is NOT correct.",
+        "Evaluate Statement 2: MSS mechanics correctly stated — separate cash account, sterilisation purpose; Statement 2 IS correct (not incorrect).",
+        "Evaluate Statement 3: Denying the conflict of interest between debt management and monetary policy roles is factually incorrect — the conflict is real and motivated the PDMA proposal; Statement 3 is NOT correct.",
+        "Statements 1 and 3 are not correct → answer is (a) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 3's trap is subtle: internal departmental separation within RBI is real, but this does not eliminate the institutional conflict of interest — both functions sit with the same Governor and Board, creating inherent tension. The question asks about statements that are 'NOT correct' — Statement 3 denies the conflict, which is a false claim. Students who accept the bureaucratic answer (separate departments = no conflict) will not identify Statement 3 as incorrect.",
+      "final_explanation": "Government debt management and monetary policy are two functions that coexist within RBI with recognised tension.\n• Statement 1 — Incorrect: OMO is exclusively secondary market. RBI buys/sells G-Secs from/to the market to manage banking system liquidity — it is not primary market financing of the deficit.\n• Statement 2 — Correct: MSS is accurately described. Securities issued under MSS absorb excess rupee liquidity; proceeds go to a ringfenced government account with RBI and cannot be used for expenditure.\n• Statement 3 — Incorrect: Internal departmental separation does not resolve the institutional conflict. The PDMA proposal (Public Debt Management Agency) aims to transfer government debt management completely outside RBI to eliminate this conflict structurally.\nStatements 1 and 3 are NOT correct → answer is (a) 1 and 3 only.\nValue Addition:\n• Devolvement: when government's primary auction of G-Secs is undersubscribed, RBI absorbs the unsold portion — this is quasi-monetary financing, a key concern.\n• MSS ceiling is approved by Parliament, distinguishing MSS issuances from regular dated securities.\n• PDMA, proposed in Union Budget 2015–16, was put on hold due to disagreement between GoI and RBI."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about RBI's role in government debt and liquidity management:\n\n1. Open Market Operations involve RBI purchasing government securities in the primary market, directly financing the fiscal deficit of the Central Government.\n2. The Market Stabilization Scheme involves RBI issuing government securities on behalf of the Government of India specifically to absorb excess rupee liquidity arising from large foreign exchange inflows, and the proceeds are credited to a separate MSS cash account maintained by the government with RBI.\n3. RBI's debt management role is exercised independently of its monetary policy role, with no institutional conflict of interest, since the two functions are performed by separate departments within RBI.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a3a47a6a-ad21-4a0f-bf89-68a9f8e13997",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Priority Sector Lending (PSL): Mandates, Categories, and Priority Sector Lending Certificates (PSLCs)"
+      ],
+      "subject_que_no": 4293,
+      "overall_que_no": 11640
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PSL sub-targets — agriculture 18% including 8% small/marginal farmers",
+      "statement_analysis": null,
+      "strong_distractor": "d — Students who know the overall PSL target is 40% of ANBC may assume the agriculture sub-target is also straightforward and pick a round number (15% or 20%), missing the specific 18% with 8% small/marginal farmer sub-sub-target.",
+      "elimination_logic": [
+        "Eliminate (a): 15% agriculture target is not the current prescribed target — 18% is correct.",
+        "Eliminate (b): 20% is an exaggeration; the agriculture sub-target is 18%, not 20%.",
+        "Eliminate (d): 18% overall with 10% for small/marginal farmers — the small/marginal farmer sub-target is 8%, not 10%.",
+        "Confirm (c): PSL agriculture target is 18% of ANBC, of which at least 8% must go to small and marginal farmers — answer is (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap works here through the sub-sub-target: students know '18%' for agriculture but often inflate the small/marginal farmer component to 10% because it seems proportionate. The actual RBI mandate is 8% for small/marginal farmers within the 18% agriculture target. Any option that correctly states 18% but pairs it with 10% exploits this precision gap.",
+      "final_explanation": "Priority Sector Lending mandates have multiple layers of sub-targets beneath the overall 40% ANBC requirement.\n• Option (a): Incorrect — Agriculture sub-target is 18%, not 15% of ANBC.\n• Option (b): Incorrect — 20% exceeds the actual agriculture target of 18%.\n• Option (c): Correct — Agriculture sub-target is 18% of ANBC, of which at least 8% must be directed specifically to small and marginal farmers. This creates a nested target architecture.\n• Option (d): Incorrect — The small/marginal farmer component is 8%, not 10%.\nValue Addition:\n• Small and marginal farmers are defined by landholding: up to 1 hectare (marginal) and 1–2 hectares (small).\n• PSLCs allow banks to buy surplus agriculture PSL compliance certificates from banks that have exceeded their targets — four separate PSLC categories exist.\n• Shortfall in agriculture sub-target results in deposit in NABARD's Rural Infrastructure Development Fund at below-market rates."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "As per RBI's Priority Sector Lending guidelines, domestic scheduled commercial banks are required to direct a specified percentage of their Adjusted Net Bank Credit to agriculture, including a defined sub-target for small and marginal farmers. Which of the following correctly identifies these targets?\n\n(a) Agriculture: 15% of ANBC, of which 8% must flow to small and marginal farmers\n(b) Agriculture: 20% of ANBC, of which 8% must flow to small and marginal farmers\n(c) Agriculture: 18% of ANBC, of which 8% must flow to small and marginal farmers\n(d) Agriculture: 18% of ANBC, of which 10% must flow to small and marginal farmers",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4ebb7a74-6afd-4ef9-bfb1-45e8c730db73",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI's Role in Payment and Settlement Systems: PSS Act 2007",
+        "Foreign Exchange Management: RBI's Role Under FEMA vs. FERA"
+      ],
+      "subject_que_no": 4294,
+      "overall_que_no": 11641
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "CCIL government securities settlement under RBI not SEBI",
+      "statement_analysis": [
+        {
+          "statement": "The Clearing Corporation of India Ltd (CCIL) handles settlement of transactions in government securities and foreign exchange — both domains over which RBI exercises regulatory oversight, not SEBI.",
+          "verdict": "Correct",
+          "reason": "CCIL operates under RBI's oversight for G-Sec and forex settlement. SEBI oversees equity and corporate bond settlement. The jurisdictional boundary is clear: CCIL's G-Sec and forex functions fall under RBI's PSS Act mandate."
+        },
+        {
+          "statement": "Payment aggregators and payment gateways facilitating digital transactions in India are regulated by SEBI, as they operate in the financial intermediation space between merchants and banks.",
+          "verdict": "Incorrect",
+          "reason": "Payment aggregators and gateways are regulated by RBI under the Payment and Settlement Systems Act, 2007 — not by SEBI. RBI issued guidelines for payment aggregators in 2021 including requirements for Big Tech firms operating in this space."
+        },
+        {
+          "statement": "FERA (1973) placed the burden of proof on the accused in foreign exchange violation proceedings, whereas FEMA (1999) shifted this to a civil law framework where the burden of proof lies with the enforcement authority.",
+          "verdict": "Correct",
+          "reason": "FERA was a criminal statute — accused had to prove innocence (reverse burden). FEMA is civil in nature — enforcement agency (ED) must prove the violation. This paradigm shift from conservation to management is the defining distinction."
+        }
+      ],
+      "strong_distractor": "b — Students who know SEBI regulates financial intermediaries may extend this to payment aggregators, choosing (b) incorrectly by assuming payment processors fall under SEBI's intermediary framework.",
+      "elimination_logic": [
+        "Confirm Statement 1: CCIL — G-Sec and forex settlement — under RBI's oversight; SEBI's domain is equity/corporate bonds; Statement 1 is correct.",
+        "Reject Statement 2: Payment aggregators regulated by RBI under PSS Act, not SEBI; Statement 2 is incorrect.",
+        "Confirm Statement 3: FERA — criminal/reverse burden; FEMA — civil/prosecution burden; Statement 3 is correct.",
+        "Statements 1 and 3 correct → answer is (c) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 exploits the reasonable assumption that SEBI, which regulates financial market intermediaries, would also oversee payment intermediaries. The entity-swap replaces RBI with SEBI. In reality, payment systems are explicitly RBI's domain under PSS Act, 2007, regardless of the digital intermediation character of payment aggregators. This confusion has practical relevance: when RBI issued payment aggregator guidelines in 2021, it explicitly covered Big Tech firms like Amazon, Google Pay, and PhonePe.",
+      "final_explanation": "Jurisdictional boundaries between RBI and SEBI in India's financial regulation are a frequent examination focus.\n• Statement 1 — Correct: CCIL clears and settles G-Sec and forex transactions under RBI's oversight. Equity and corporate bond settlement platforms fall under SEBI.\n• Statement 2 — Incorrect: Payment aggregators (Razorpay, PayU, Amazon Pay, etc.) are regulated by RBI under the PSS Act, 2007. SEBI has no jurisdiction over payment intermediaries.\n• Statement 3 — Correct: FERA's criminal character (reverse burden of proof, imprisonment for violations) contrasted with FEMA's civil framework (ED proves the case, monetary penalties preferred over imprisonment) is a cornerstone distinction.\nValue Addition:\n• Enforcement Directorate handles FEMA violations; Directorate of Revenue Intelligence handles FERA-era cases still pending.\n• PSS Act, 2007 empowers RBI to designate systemically important payment systems — CCIL and NPCI are so designated.\n• Big Tech inclusion in payment aggregator regulations (2021) requires Nodal Accounts, minimum net worth, and RBI authorisation for online payment aggregation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about RBI's regulatory role in payment systems and foreign exchange management:\n\n1. The Clearing Corporation of India Ltd (CCIL) handles settlement of transactions in government securities and foreign exchange — both domains over which RBI exercises regulatory oversight, not SEBI.\n2. Payment aggregators and payment gateways facilitating digital transactions in India are regulated by SEBI, as they operate in the financial intermediation space between merchants and banks.\n3. FERA (1973) placed the burden of proof on the accused in foreign exchange violation proceedings, whereas FEMA (1999) shifted this to a civil law framework where the burden of proof lies with the enforcement authority.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bbc7cedc-c393-47fe-971c-74deb622b38d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Banker's Bank and Lender of Last Resort",
+        "Monetary Policy Framework and the MPC: Mandate, Composition, and Accountability"
+      ],
+      "subject_que_no": 4295,
+      "overall_que_no": 11642
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "MPC sets repo rate; RBI Board does not — institutional separation",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is A correct? — Yes. The Monetary Policy Committee, not the RBI Board of Directors, is the body empowered to determine the policy repo rate. This institutional separation is unambiguous.",
+        "Step 2: Is R correct? — Evaluate: R states that the MPC was created because the Governor's casting vote 'ensures RBI always retains monetary policy control against government nominees.' This is factually inaccurate — the casting vote is a tie-breaking mechanism, not a structural veto. Government nominees are equals in voting; the casting vote only applies in a 3:3 tie. More fundamentally, the casting vote exists for efficient decision-making, not to ensure RBI dominance.",
+        "Step 3: Since R is incorrect, the answer is (c) — A correct, R incorrect.",
+        "A correct + R incorrect → answer is (c)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap in R re-frames the Governor's casting vote as a structural control mechanism ensuring RBI dominance over GoI nominees. This overstates the casting vote's purpose — it is simply a procedural tie-breaker, and in practice GoI nominees have voted against the majority. Students who know the casting vote exists but rationalise it as a 'control mechanism' will accept R as correct and choose (a) or (b) rather than (c).",
+      "final_explanation": "The institutional architecture of monetary policy decision-making after the 2016 amendments is a critical examination topic.\nAssertion (A): Correct. The MPC — not the RBI Board — is the sole body empowered to set the policy repo rate. The Board manages RBI's general administration, approves accounts, and oversees governance, but has zero authority over monetary policy rate decisions.\nReason (R): Incorrect. The statement mischaracterises the Governor's casting vote. The casting vote exists to break a tie in a 3:3 vote — it is a procedural mechanism, not a structural tool to ensure RBI's institutional dominance over GoI-nominated members. GoI nominees have equal voting rights and can and do vote independently. The MPC's design was motivated by broadening expertise and accountability, not by creating an RBI veto.\nSince A is correct but R is incorrect, answer is (c).\nValue Addition:\n• MPC decisions are by majority — if 4 members vote one way, the outcome is decided regardless of the Governor's preference.\n• GoI-nominated MPC members serve 4-year non-renewable terms — designed to ensure independence from political pressure.\n• RBI Board members include Government-nominated directors; their role is governance oversight, not monetary policy — a clear functional separation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The policy repo rate in India is determined by the Monetary Policy Committee and not by the RBI's Central Board of Directors.\n\nReason (R): The Monetary Policy Committee was structured with the RBI Governor holding a casting vote to ensure that RBI retains effective control over monetary policy decisions against any opposing votes cast by Government of India nominees.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c4d037ab-081a-4ae9-a770-461fdb89571b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Financial Inclusion Initiatives Driven by RBI: BC Model, Jan Dhan, and Digital Finance",
+        "External Benchmark-Based Lending Rate (EBLR) vs. MCLR: Transmission Mechanism"
+      ],
+      "subject_que_no": 4296,
+      "overall_que_no": 11643
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "EBLR loan disbursement only to borrower account — Digital Lending Guidelines 2022",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know EBLR links lending rates to the repo rate may assume the scenario tests rate transmission, choosing (a) and missing that the complaint is about disbursement destination — covered by Digital Lending Guidelines 2022.",
+      "elimination_logic": [
+        "Identify the complaint: loan sanctioned but funds credited to fintech's own account, not borrower's account — this is a disbursement routing issue.",
+        "Eliminate (a): EBLR deals with interest rate benchmarking, not disbursement routing — not applicable.",
+        "Eliminate (c): BC guidelines deal with agent-based banking delivery, not digital loan disbursement routing.",
+        "Eliminate (d): PSS Act governs payment systems regulation; not directly applicable to loan disbursement directions.",
+        "Confirm (b): RBI's Digital Lending Guidelines (2022) explicitly require that loan disbursals must be credited directly to the borrower's bank account — not to any Lending Service Provider's account; this directly addresses the consumer's complaint."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap arises because EBLR (option a) is also relevant to the fintech lending scenario in a different dimension (interest rate). Students who know EBLR improves transparency in fintech-bank lending partnerships may pick (a) as broadly relevant. The specific rule violated in the scenario — disbursement to borrower's account, not the LSP — is precisely covered by the 2022 Digital Lending Guidelines, which are a distinct regulatory intervention.",
+      "final_explanation": "RBI's Digital Lending Guidelines (2022) were introduced specifically to address predatory practices by fintech Lending Service Providers (LSPs) operating in partnership with regulated banks and NBFCs.\nApplicable principle: The Guidelines mandate that loan disbursements must be credited directly to the borrower's own bank account — not to any LSP or intermediary. This prevents LSPs from misusing loan funds, charging undisclosed fees, or creating undisclosed obligations before the borrower receives funds.\n• Option (a): Incorrect — EBLR deals with floating-rate benchmark linking to repo rate; not relevant to disbursement routing.\n• Option (b): Correct — The Digital Lending Guidelines (2022) directly address this scenario; the fintech/LSP cannot receive disbursement in its account.\n• Option (c): Incorrect — BC guidelines address agent-based physical service delivery, not digital loan disbursement flows.\n• Option (d): Incorrect — PSS Act covers payment system regulation; loan disbursement routing is a lending guideline matter.\nValue Addition:\n• Digital Lending Guidelines also prohibit automatic credit limit increases without explicit borrower consent.\n• All digital loan agreements must disclose Annual Percentage Rate (APR) — total cost including fees.\n• LSPs must be disclosed to the borrower; they cannot be hidden behind the regulated lender's brand."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A consumer lodges a complaint with RBI's grievance redressal mechanism. The consumer had applied for a personal loan through a mobile application operated by a fintech company partnered with a licensed NBFC. After loan sanctioning, the consumer discovered that the disbursed amount was credited to the fintech company's nodal account rather than directly to the consumer's bank account. The consumer was later required to pay a processing fee before accessing the funds.\n\nWhich RBI framework is most directly applicable to address this consumer's grievance and the practice complained of?\n\n(a) External Benchmark-Based Lending Rate (EBLR) guidelines, which require transparent pricing in retail loans involving fintech intermediaries\n(b) RBI's Digital Lending Guidelines (2022), which mandate that loan disbursements be credited directly to the borrower's bank account and not to any intermediary\n(c) Business Correspondent guidelines, under which the fintech company as an agent of the NBFC is prohibited from holding funds on behalf of borrowers\n(d) Payment and Settlement Systems Act, 2007, under which RBI can penalise payment aggregators that hold consumer funds without authorisation",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ee303be3-e4cb-47c1-8e9e-fa625176143e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Capital Adequacy and Basel Norms Implementation in India: RBI's Role",
+        "Prompt Corrective Action (PCA) Framework: Triggers, Restrictions, and Exit"
+      ],
+      "subject_que_no": 4297,
+      "overall_que_no": 11644
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "AT1 bonds bail-in hierarchy vs. PCA framework triggers",
+      "statement_analysis": null,
+      "strong_distractor": "a — Capital Conservation Buffer sounds like a buffer that 'prevents' PCA, making students think it belongs to the PCA trigger framework; they may conflate a capital buffer (Basel III tool) with a PCA trigger (supervisory tool).",
+      "elimination_logic": [
+        "Identify the theme: three of four items relate to Basel III capital adequacy framework components implemented by RBI.",
+        "Option (a): Capital Conservation Buffer (2.5% of RWA) — Basel III capital layer; belongs to capital adequacy framework.",
+        "Option (b): Net NPA ratio threshold — this is a PCA trigger, not a Basel III capital component; PCA and Basel III are distinct frameworks.",
+        "Option (c): Additional Tier-1 (AT1) bonds — Basel III capital instrument (bail-in capital); belongs to capital adequacy framework.",
+        "Option (d): Countercyclical Capital Buffer (CCyB) — Basel III variable buffer; belongs to capital adequacy framework.",
+        "Option (b) is the odd one out — it belongs to PCA, not Basel III capital structure."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges PCA's Net NPA trigger with Basel III capital framework elements. All four items relate to 'bank stress and capital' broadly — but three are Basel III capital structure components (CCB, AT1, CCyB), while Net NPA ratio is a PCA trigger. Students who think of all four as 'capital and stress management tools' without distinguishing the conceptual category (capital adequacy vs. supervisory intervention) will fail to identify (b) as the odd one out.",
+      "final_explanation": "Basel III capital adequacy and RBI's PCA framework are related but conceptually distinct regulatory tools.\n• Option (a): Capital Conservation Buffer — a Basel III mandatory buffer (2.5% of RWA) maintained above minimum CRAR; breaching it triggers dividend/bonus restrictions. Belongs to capital adequacy framework.\n• Option (b): Net NPA ratio — a PCA trigger. When Net NPA exceeds prescribed thresholds (currently 6%, 9%, 12% for three risk thresholds), PCA is triggered. This is a supervisory intervention tool, not a capital component.\n• Option (c): Additional Tier-1 bonds — a Basel III capital instrument; absorbs losses before equity capital; central to bail-in capital hierarchy. Belongs to capital adequacy framework.\n• Option (d): Countercyclical Capital Buffer — Basel III variable buffer, activated by RBI during credit booms; currently at 0%. Belongs to capital adequacy framework.\nValue Addition:\n• CCB and CCyB together form the 'combined buffer requirement' above minimum CRAR in Basel III.\n• Yes Bank's AT1 write-down (March 2020) was India's first application of bail-in capital principles.\n• PCA exit requires improvement across CRAR, Net NPA, and RoA for at least four consecutive quarters."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT belong to the same regulatory framework as the others — specifically the Basel III capital adequacy norms as implemented by RBI for scheduled commercial banks?\n\n(a) Capital Conservation Buffer of 2.5% of Risk-Weighted Assets maintained above the minimum Capital to Risk-weighted Assets Ratio\n(b) Net NPA ratio exceeding prescribed threshold levels as a criterion determining a bank's supervisory classification\n(c) Additional Tier-1 bonds that absorb losses at the point of non-viability before equity capital is written down\n(d) Countercyclical Capital Buffer that RBI activates or deactivates based on the stage of the credit cycle",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "728ed277-5954-4884-b5f1-b49eb4038973",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI and Inflation: Types of Inflation Measures and Which RBI Targets",
+        "Monetary Policy Framework and the MPC: Mandate, Composition, and Accountability"
+      ],
+      "subject_que_no": 4298,
+      "overall_que_no": 11645
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "CPI food weight ~45.86% — monetary policy limits on food inflation",
+      "statement_analysis": [
+        {
+          "statement": "Since food and beverages account for nearly 46% of the CPI basket, supply-side food price shocks can drive headline CPI above the tolerance band even when demand-side inflation is well-contained, creating a dilemma for RBI's rate-setting.",
+          "verdict": "Correct",
+          "reason": "The high food weight (~45.86%) means food price shocks from monsoon failure or supply disruptions can breach the 6% upper band without any demand overheating — monetary tightening would then harm growth without addressing the root supply-side cause."
+        },
+        {
+          "statement": "RBI monitors core inflation (CPI excluding food and fuel) as an analytical tool to distinguish demand-driven inflationary pressures from supply-side shocks, even though the statutory inflation target is defined in terms of headline CPI.",
+          "verdict": "Correct",
+          "reason": "Core inflation is central to RBI's monetary policy analysis — it signals demand-pull inflation that rate hikes can address. The statutory target is headline CPI, but the analytical focus includes core as a guide to underlying inflation dynamics."
+        },
+        {
+          "statement": "Because supply-side food inflation cannot be controlled through interest rate policy, the RBI Act provides that breaching the inflation target due exclusively to food price increases does not constitute a failure requiring explanation to the Central Government.",
+          "verdict": "Incorrect",
+          "reason": "No such exemption exists in the RBI Act. The failure clause is defined as breaching the 2%–6% band for three consecutive quarters regardless of cause. RBI must submit a written explanation to the Central Government even if the breach is driven entirely by food prices."
+        }
+      ],
+      "strong_distractor": "d — '1, 2 and 3' is the strong distractor because the logic of Statement 3 (food inflation exemption) sounds like good policy and students may assume such a sensible provision must exist.",
+      "elimination_logic": [
+        "Confirm Statement 1: High food weight creates supply-side vs. demand-side dilemma for monetary policy — correct.",
+        "Confirm Statement 2: Core inflation monitored analytically; headline CPI is statutory target — correctly stated.",
+        "Reject Statement 3: No food-inflation exemption exists in the failure clause — breaching the band for three consecutive quarters triggers the explanation mechanism regardless of cause; Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect → answer is (a) 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 is an intelligently constructed plausible-fabrication: it would make policy sense to exempt supply-side shocks from the failure mechanism, and many economies allow central banks to 'look through' such shocks. However, India's RBI Act has no such legal exemption. The failure clause is categorical — three quarters of breaching the band = failure, regardless of cause. A student who reasons from policy logic rather than legal text will mark Statement 3 as correct.",
+      "final_explanation": "India's inflation targeting framework must navigate the structural challenge of a high food weight in CPI.\n• Statement 1 — Correct: With ~45.86% weight, food and beverages dominate CPI. A monsoon failure or food supply shock can spike headline inflation to 7–8% even with zero demand pressure — creating an impossible monetary policy choice.\n• Statement 2 — Correct: RBI publishes core inflation data in its policy communications and MPC minutes explicitly reference core trends. But the legal mandate — and the accountability mechanism — uses headline CPI.\n• Statement 3 — Incorrect: The RBI Act's failure clause contains no exemption for food-price-driven breaches. Three consecutive quarters outside 2%–6% → written explanation to Central Government, regardless of cause.\nValue Addition:\n• MPC's monetary policy report must explain inflation forecast deviations — published after each policy meeting.\n• Supply-side food inflation calls for fiscal and agricultural policy responses — MSP rationalisation, buffer stock releases, import duty adjustments.\n• RBI can 'look through' temporary supply shocks in practice (without formal legal exemption) by focusing on 12-month forward inflation projections."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about RBI's inflation targeting framework and its practical challenges:\n\n1. Since food and beverages account for nearly 46% of the CPI basket, supply-side food price shocks can drive headline CPI above the tolerance band even when demand-side inflation is well-contained, creating a dilemma for RBI's rate-setting.\n2. RBI monitors core inflation (CPI excluding food and fuel) as an analytical tool to distinguish demand-driven inflationary pressures from supply-side shocks, even though the statutory inflation target is defined in terms of headline CPI.\n3. Because supply-side food inflation cannot be controlled through interest rate policy, the RBI Act provides that breaching the inflation target due exclusively to food price increases does not constitute a failure requiring explanation to the Central Government.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "de8ade3e-23d6-4a93-994d-5645e108e27b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Regulation of Cooperative Banks: Dual Regulation Problem and 2020 Reforms",
+        "Regulatory and Supervisory Functions: Commercial Banks vs. NBFCs vs. Cooperative Banks"
+      ],
+      "subject_que_no": 4299,
+      "overall_que_no": 11646
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Multi-state cooperative banks under Central Registrar — different from single-state UCBs",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know NABARD supervises cooperatives and that Multi-State cooperatives involve the Centre may incorrectly pair Multi-State cooperative banks with NABARD rather than Central Registrar + RBI.",
+      "elimination_logic": [
+        "Match A (Urban Cooperative Banks — banking regulation): Post-2020 amendment, RBI regulates and can supersede UCB boards; State Registrar handles membership/management — matches 2.",
+        "Match B (State Cooperative Banks and DCCBs — supervisory inspection): NABARD conducts inspections on RBI's behalf — matches 4.",
+        "Match C (Multi-State Cooperative Societies with banking): Fall under Central Registrar of Cooperative Societies + RBI — not single-state UCB framework — matches 1.",
+        "Match D (Payment Banks — licensing and supervision): Exclusively under RBI; no shared jurisdiction — matches 3.",
+        "Correct: A-2, B-4, C-1, D-3 → answer is (a)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap lies in item C — Multi-State Cooperative Banks. Students who know NABARD supervises cooperative banks may assign (4) to Multi-State cooperatives, missing that Multi-State cooperative societies fall under the Central Registrar of Cooperative Societies and RBI — not NABARD. NABARD's supervisory delegation covers State Cooperative Banks and DCCBs (single-state), not multi-state entities.",
+      "final_explanation": "India's cooperative banking regulation involves multiple regulatory actors with distinct jurisdictions.\nCorrect pairings:\n• A (Urban Cooperative Banks) — 2: RBI regulates banking functions; State Registrar handles cooperative management. Post-2020, RBI can supersede UCB boards independently.\n• B (State Cooperative Banks and DCCBs) — 4: NABARD conducts supervisory inspection on RBI's behalf — the supervisory delegation model.\n• C (Multi-State Cooperative Banks) — 1: Multi-state cooperative societies (including those with banking functions) are registered with and managed under the Central Registrar of Cooperative Societies, with RBI exercising banking regulation — distinct from single-state UCBs.\n• D (Payment Banks) — 3: Exclusively licensed and supervised by RBI; no shared jurisdiction with any other regulator.\nValue Addition:\n• The PMC Bank (Punjab & Maharashtra Cooperative Bank) crisis exposed the gap in UCB regulation — remedied by the 2020 amendment.\n• NABARD is also a refinancing body for cooperative banks — it wears three hats: regulator (partially), supervisor (for State Coops/DCCBs), and refinancer.\n• Small Finance Banks, despite their focus on smaller borrowers, are fully licensed banks under RBI — not cooperative institutions."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (banking institution type) with List II (correct regulatory/supervisory arrangement):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Urban Cooperative Banks (banking functions)",
+            "1. Registered under Central Registrar of Cooperative Societies; banking regulated by RBI — distinct from single-state cooperative framework"
+          ],
+          [
+            "B. State Cooperative Banks and District Central Cooperative Banks",
+            "2. Banking functions regulated by RBI (with expanded powers post-2020); membership/management under State Registrar of Cooperative Societies"
+          ],
+          [
+            "C. Multi-State Cooperative Societies carrying on banking activities",
+            "3. Licensed and supervised exclusively by RBI; no shared jurisdiction with any other regulator"
+          ],
+          [
+            "D. Payment Banks",
+            "4. Supervisory inspection conducted by NABARD on behalf of RBI"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct match?\n\n(a) A-2, B-4, C-1, D-3\n(b) A-4, B-2, C-3, D-1\n(c) A-2, B-1, C-4, D-3\n(d) A-1, B-4, C-2, D-3"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "07137719-9e21-4964-9d9b-591501d8d684",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI's Independence vs. Government of India: Section 7 of RBI Act and Institutional Tensions",
+        "Differential Rate of Interest and Directed Credit: RBI's Developmental Role"
+      ],
+      "subject_que_no": 4300,
+      "overall_que_no": 11647
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Bimal Jalan Committee — contingency risk buffer vs. revaluation reserves",
+      "statement_analysis": [
+        {
+          "statement": "The Bimal Jalan Committee (2019) on RBI's Economic Capital Framework recommended that RBI's contingency risk buffer should be maintained within a range of 5.5% to 6.5% of RBI's balance sheet, and any surplus above this range could be transferred to the Government of India.",
+          "verdict": "Correct",
+          "reason": "The Jalan Committee recommended exactly this range (5.5%–6.5%) for the Contingency Risk Buffer (CRB) — amounts above the upper end can be transferred to GoI as surplus. This formed the basis for the large RBI surplus transfer in 2019–20."
+        },
+        {
+          "statement": "Revaluation reserves arising from changes in the market value of RBI's gold and foreign currency holdings form part of RBI's distributable surplus and are regularly transferred to the Government of India as part of RBI's annual dividend.",
+          "verdict": "Incorrect",
+          "reason": "Revaluation reserves (from mark-to-market changes in gold/forex values) are unrealised gains — they are not distributable surplus. The Jalan Committee explicitly recommended keeping revaluation reserves separate from distributable income; only realised surpluses are transferred. Transferring unrealised revaluation gains would be inappropriate and the Committee recommended they remain within RBI's balance sheet."
+        }
+      ],
+      "strong_distractor": "a — Students who know RBI transfers large surpluses to GoI annually (which increased post-Jalan) may assume revaluation reserves are part of this transfer, selecting (a) both correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: 5.5%–6.5% CRB range recommended by Jalan Committee — correct as stated; Statement 1 is correct.",
+        "Evaluate Statement 2: Revaluation reserves are unrealised gains from mark-to-market — the Jalan Committee explicitly distinguished these from distributable surplus; they are NOT transferred as dividend; Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect → answer is (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 exploits the partial knowledge that 'RBI transfers large surpluses including reserves to GoI.' While RBI does transfer large amounts, the Jalan Committee carefully separated three categories: Realised equity (can be distributed), Revaluation balances (cannot be distributed — unrealised), and Risk provisioning buffer (Contingency Risk Buffer). The distinction between realised and unrealised gains is the precision point students miss.",
+      "final_explanation": "RBI's Economic Capital Framework determines how much capital RBI retains and how much is transferred to the Government of India.\n• Statement 1 — Correct: Jalan Committee recommended Contingency Risk Buffer of 5.5%–6.5% of RBI's balance sheet. Any CRB above 6.5% is 'excess' and can be transferred. This framework enabled the ₹1.76 lakh crore transfer in 2019–20.\n• Statement 2 — Incorrect: Revaluation reserves arise from unrealised market value changes in gold and forex holdings. These are notional gains — if gold price rises, RBI's gold reserve value increases on paper, but this is not a cash gain. The Jalan Committee explicitly said revaluation balances should NOT be treated as distributable surplus — they remain as a buffer against adverse valuation movements.\nValue Addition:\n• Currency and Gold Revaluation Account (CGRA) and Foreign Exchange Forward Contracts Valuation Account (FCVA) are the main revaluation accounts on RBI's balance sheet.\n• The Contingency Fund (CF) within RBI's balance sheet is for unforeseen contingencies — distinct from revaluation reserves.\n• Annual surplus transfer to GoI is determined post-accounts approval by RBI Board — typically in May/June each year."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Statement 1: The Bimal Jalan Committee (2019) on RBI's Economic Capital Framework recommended that RBI's contingency risk buffer should be maintained within a range of 5.5% to 6.5% of RBI's balance sheet, and any surplus above this range could be transferred to the Government of India.\n\nStatement 2: Revaluation reserves arising from changes in the market value of RBI's gold and foreign currency holdings form part of RBI's distributable surplus and are regularly transferred to the Government of India as part of RBI's annual dividend.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "953c5518-383d-408a-9bba-0ac9587fc374",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Banker's Bank and Lender of Last Resort",
+        "CRR vs. SLR: Instruments, Purposes, and Asymmetries",
+        "Liquidity Adjustment Facility (LAF): Repo, Reverse Repo, and MSF Architecture"
+      ],
+      "subject_que_no": 4301,
+      "overall_que_no": 11648
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "quantitative-pairing",
+      "trap_type": "scope-extension",
+      "concept_anchor": "MSF — SLR dip permitted; corridor architecture — SDF floor, MSF ceiling",
+      "statement_analysis": [
+        {
+          "statement": "The Marginal Standing Facility rate is set at 25 basis points above the policy repo rate and forms the ceiling of the Liquidity Adjustment Facility corridor.",
+          "verdict": "Correct",
+          "reason": "MSF rate = Repo + 25 bps. It represents the upper bound (ceiling) of the LAF corridor — the most expensive window through which banks can borrow from RBI."
+        },
+        {
+          "statement": "Banks can access MSF only if they have maintained their full Statutory Liquidity Ratio requirements — they cannot borrow under MSF by dipping below the statutory SLR threshold.",
+          "verdict": "Incorrect",
+          "reason": "MSF uniquely permits banks to borrow from RBI by temporarily drawing down their SLR holdings below the statutory requirement — this is the specific emergency feature that distinguishes MSF from normal repo operations."
+        },
+        {
+          "statement": "The Standing Deposit Facility, introduced in April 2022, absorbs surplus liquidity from the banking system without RBI providing government securities as collateral, and operates at the Standing Deposit Facility rate which is set below the policy repo rate.",
+          "verdict": "Correct",
+          "reason": "SDF absorbs excess liquidity on an uncollateralised basis at SDF rate (repo minus 25 bps) — both its collateral-free nature and rate positioning are correctly described."
+        },
+        {
+          "statement": "Long-Term Repo Operations and Targeted Long-Term Repo Operations are overnight lending facilities designed to provide daily liquidity to banks within the standard Liquidity Adjustment Facility framework.",
+          "verdict": "Incorrect",
+          "reason": "LTRO and TLTRO are one-to-three year term (not overnight) liquidity operations. They are distinct from the overnight LAF framework — their longer duration is the defining characteristic that differentiates them from standard repo/reverse repo."
+        }
+      ],
+      "strong_distractor": "b — 'Only two' is the correct answer but students who accept Statement 2 (thinking full SLR must be maintained to access MSF) and reject Statement 3 (confusing SDF rate positioning) may count differently.",
+      "elimination_logic": [
+        "Evaluate Statement 1: MSF = Repo + 25 bps, ceiling of LAF corridor — correct.",
+        "Evaluate Statement 2: MSF allows SLR dip — the opposite of what Statement 2 claims; Statement 2 is incorrect.",
+        "Evaluate Statement 3: SDF collateral-free, rate below repo — correctly stated; Statement 3 is correct.",
+        "Evaluate Statement 4: LTRO/TLTRO are 1–3 year tenor operations, not overnight — Statement 4 is incorrect.",
+        "Two statements correct (1 and 3) → answer is (b) Only two."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a reversed-scope trap: it states the opposite of MSF's key feature. Students who know MSF is an 'emergency window' may assume it has stricter, not more permissive, conditions — and accept Statement 2. In reality, MSF's emergency character is precisely that it allows a temporary SLR breach. Statement 4 exploits the tendency to group all repo-like operations as 'LAF instruments' without distinguishing the overnight vs. term dimension.",
+      "final_explanation": "The LAF corridor and its associated instruments define RBI's short-term liquidity architecture.\n• Statement 1 — Correct: MSF at repo + 25 bps is the corridor ceiling — most expensive borrowing window.\n• Statement 2 — Incorrect: MSF allows banks to borrow by temporarily breaching SLR — banks can dip below statutory SLR level to access MSF. This emergency provision is MSF's defining feature.\n• Statement 3 — Correct: SDF (April 2022) absorbs liquidity without collateral at repo minus 25 bps — new effective floor of the corridor.\n• Statement 4 — Incorrect: LTRO/TLTRO are 1–3 year tenor operations — fundamentally different from overnight LAF. They inject durable medium-term liquidity, not daily overnight liquidity.\nTwo statements correct → (b) Only two.\nValue Addition:\n• Pre-April 2022 corridor: Reverse Repo (floor, repo − 25 bps) → Repo (4%) → MSF (ceiling, repo + 25 bps).\n• Post-April 2022 corridor: SDF (floor, repo − 25 bps) → Repo (policy rate) → MSF (ceiling, repo + 25 bps).\n• TLTRO funds were specifically directed to investment-grade corporate bonds, NBFCs, and MFIs — sector-targeted liquidity support during COVID."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about RBI's liquidity management instruments:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "The Marginal Standing Facility rate is set at 25 basis points above the policy repo rate and forms the ceiling of the Liquidity Adjustment Facility corridor."
+          ],
+          [
+            "2",
+            "Banks can access MSF only if they have maintained their full Statutory Liquidity Ratio requirements — they cannot borrow under MSF by dipping below the statutory SLR threshold."
+          ],
+          [
+            "3",
+            "The Standing Deposit Facility, introduced in April 2022, absorbs surplus liquidity from the banking system without RBI providing government securities as collateral, and operates at a rate set below the policy repo rate."
+          ],
+          [
+            "4",
+            "Long-Term Repo Operations and Targeted Long-Term Repo Operations are overnight lending facilities designed to provide daily liquidity to banks within the standard Liquidity Adjustment Facility framework."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "246acdf2-83fc-41c4-99e6-2b75f0455953",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Foreign Exchange Management: RBI's Role Under FEMA vs. FERA",
+        "Banker to the Government: RBI's Role as Government's Fiscal Agent"
+      ],
+      "subject_que_no": 4302,
+      "overall_que_no": 11649
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "FEMA replaced FERA in 1999 — civil vs. criminal paradigm",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know FERA was replaced 'around liberalisation' may associate this with 1991 or 1993, selecting 1993 as a plausible near-correct year.",
+      "elimination_logic": [
+        "Eliminate (a): FERA was not replaced in 1991 — economic liberalisation happened then but FERA continued.",
+        "Eliminate (b): 1993 is not the year FEMA was enacted — a common temporal-swap choice.",
+        "Eliminate (c): 2001 is when FEMA actually came into full force (notified provisions), but the Act was passed in 1999.",
+        "Confirm (d): The Foreign Exchange Management Act was enacted in 1999, replacing FERA (1973) — answer is (d)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap exploits proximity between FEMA's passage (1999), its enforcement commencement (2000/2001), and the liberalisation era (1991). Students who associate forex reform with 1991 LPG reforms may choose 1991 or a plausible reform year in the early 1990s. The precise answer is 1999 (year of enactment); some provisions took effect in 2000 but the Act itself is 1999.",
+      "final_explanation": "The transition from FERA to FEMA marked a fundamental shift in India's approach to foreign exchange regulation.\n• Option (a): Incorrect — 1991 is the year of economic liberalisation (LPG reforms); FERA continued to operate throughout the 1990s.\n• Option (b): Incorrect — 1993 is not associated with FEMA's enactment; no such forex legislation was passed that year.\n• Option (c): Incorrect — FEMA came into force/full effect in June 2000, but the Act was enacted (passed) in 1999. The year of enactment is 1999.\n• Option (d): Correct — FEMA, 1999 replaced FERA, 1973. The paradigm shift: from conservation-oriented criminal law (FERA) to management-oriented civil law (FEMA).\nValue Addition:\n• Under FERA, even minor violations could attract imprisonment; FEMA prefers monetary penalties.\n• Enforcement Directorate investigates FEMA violations; it also investigates money laundering under PMLA.\n• Capital account convertibility remains partial in India — RBI controls inflows/outflows through Liberalised Remittance Scheme (currently USD 250,000 per resident per year)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Foreign Exchange Regulation Act, 1973, which treated foreign exchange violations as criminal offences with the burden of proof on the accused, was replaced by the Foreign Exchange Management Act — which adopted a civil law framework for managing foreign exchange transactions. The Foreign Exchange Management Act was enacted in the year ________.\n\n(a) 1991\n(b) 1993\n(c) 2001\n(d) 1999",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2ad377aa-fb2b-42c0-9dd6-4bdfdf29621e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "Priority Sector Lending (PSL): Mandates, Categories, and Priority Sector Lending Certificates (PSLCs)",
+        "RBI's Role in Payment and Settlement Systems: PSS Act 2007"
+      ],
+      "subject_que_no": 4303,
+      "overall_que_no": 11650
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "PSL foreign bank differentiation — branch threshold determines target",
+      "statement_analysis": [
+        {
+          "statement": "Foreign banks operating in India with 20 or more branches are subject to the same Priority Sector Lending targets as domestic scheduled commercial banks, including all sub-targets for agriculture and weaker sections.",
+          "verdict": "Incorrect",
+          "reason": "Foreign banks with 20 or more branches must meet the 40% overall PSL target (phased in), but are not required to meet all sub-targets in the same manner as domestic banks — specifically, the agriculture sub-target and weaker sections sub-targets have different or phased requirements for foreign banks. The statement's claim of 'same targets including all sub-targets' overstates the obligation."
+        },
+        {
+          "statement": "Priority Sector Lending Certificates are category-specific — a certificate generated from agricultural lending surplus cannot be used by another bank to meet its shortfall in the micro-enterprise sub-target.",
+          "verdict": "Correct",
+          "reason": "PSLCs are category-specific instruments. Four PSLC categories exist (agriculture, small/marginal farmers, micro-enterprises, weaker sections) and a bank must purchase the correct category PSLC to meet a specific category shortfall — cross-category use is not permitted."
+        },
+        {
+          "statement": "Prepaid Payment Instruments such as mobile wallets and gift cards are regulated by the Securities and Exchange Board of India as they constitute a form of stored value instrument similar to derivatives in economic function.",
+          "verdict": "Incorrect",
+          "reason": "Prepaid Payment Instruments (PPIs) are regulated by RBI under the Payment and Settlement Systems Act, 2007 and RBI's PPI Master Directions — not SEBI. PPIs have no resemblance to derivatives; classifying them under SEBI is a plausible-fabrication."
+        }
+      ],
+      "strong_distractor": "a — '1 only' is the strong distractor because Statement 1's error (sub-targets for foreign banks) is subtle — students who know the 40% overall target applies to large foreign banks may accept Statement 1 as fully correct without questioning the sub-target claim.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Foreign banks with ≥20 branches face phased 40% PSL overall, but sub-targets (especially agriculture weaker sections) differ — claiming 'same targets including all sub-targets' is incorrect; Statement 1 is NOT correct.",
+        "Evaluate Statement 2: PSLCs are category-specific — correctly stated; Statement 2 IS correct (not incorrect).",
+        "Evaluate Statement 3: PPIs regulated by RBI under PSS Act, not SEBI — the SEBI attribution is a fabrication; Statement 3 is NOT correct.",
+        "Statements 1 and 3 are NOT correct → answer is (a) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits partial knowledge of PSL targets for foreign banks. Many students know the 40% figure but miss that sub-targets for agriculture (especially for small/marginal farmers) and weaker sections are structured differently for foreign banks — with phased implementation and different components. Statement 3 is a classic plausible-fabrication: PPIs sound like financial instruments, SEBI regulates financial instruments — but PPIs are payment instruments regulated by RBI.",
+      "final_explanation": "PSL framework and payment regulation both contain precision points frequently tested in examinations.\n• Statement 1 — Incorrect: Foreign banks with ≥20 branches face 40% overall PSL (phased), but sub-targets for agriculture sub-categories and weaker sections differ from domestic bank obligations. Claiming identical sub-targets is an over-statement.\n• Statement 2 — Correct: PSLC category-specificity is a key operational rule. Banks cannot use agriculture-category PSLCs to cover micro-enterprise shortfalls — each category certificate covers only that specific shortfall.\n• Statement 3 — Incorrect: PPIs (Paytm wallet, PhonePe wallet, gift cards, meal cards) are regulated by RBI under PSS Act, 2007 and PPI Master Directions. SEBI has no jurisdiction over them.\nStatements 1 and 3 are NOT correct → (a).\nValue Addition:\n• Foreign banks with fewer than 20 branches have an even more differentiated PSL regime — they can choose an alternative route of 40% for specified sectors.\n• Four PSLC categories: General (PSL), Agriculture, Small/Marginal Farmers, and Micro-Enterprises.\n• PPIs are classified as small PPIs (KYC-lite, up to ₹10,000 limit) and full KYC PPIs (up to ₹2 lakh) — different issuance conditions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about Priority Sector Lending targets and payment instrument regulation:\n\n1. Foreign banks operating in India with 20 or more branches are subject to the same Priority Sector Lending targets as domestic scheduled commercial banks, including all sub-targets for agriculture and weaker sections.\n2. Priority Sector Lending Certificates are category-specific — a certificate generated from agricultural lending surplus cannot be used by another bank to meet its shortfall in the micro-enterprise sub-target.\n3. Prepaid Payment Instruments such as mobile wallets and gift cards are regulated by the Securities and Exchange Board of India as they constitute a form of stored value instrument similar to derivatives in economic function.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fb7a9851-e1de-497f-b54a-170d5395f90d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Functions of RBI",
+      "concepts_used": [
+        "RBI's Supervisory Tools: On-site Inspection vs. Off-site Surveillance (OSMOS)",
+        "Capital Adequacy and Basel Norms Implementation in India: RBI's Role",
+        "Prompt Corrective Action (PCA) Framework: Triggers, Restrictions, and Exit"
+      ],
+      "subject_que_no": 4304,
+      "overall_que_no": 11651
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "PCA extended to NBFCs post-2021 — new scope expansion",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who associate PCA exclusively with the high-profile public sector bank cases (PNB, IDBI, UCO Bank) may believe PCA applies only to commercial banks and not NBFCs, selecting (a) as 'historically accurate even if changed.'",
+      "elimination_logic": [
+        "Eliminate (a): PCA was historically limited to SCBs but was extended to NBFCs in 2022 — stating it 'continues to be limited' is incorrect post-extension.",
+        "Eliminate (b): PCA does not impose a moratorium on customer deposits — distinguishing PCA from Section 45 moratorium is fundamental; (b) is wrong.",
+        "Eliminate (d): RBI Board can recommend PCA exit but it requires sustained improvement for four or more quarters, not a single quarter; (d) misrepresents exit conditions.",
+        "Confirm (c): PCA framework was extended to NBFCs in November 2021/2022, covering those above a certain asset threshold — correctly reflecting the expanded scope; answer is (c)."
+      ],
+      "upsc_trap_explanation": "Option (a) is the conflation trap — it conflates the historical scope (SCBs only) with the current scope (extended to NBFCs). The 2021–2022 extension of PCA to NBFCs was a significant policy development. Students who learned PCA in the context of the banking sector NPA crisis (2015–2019) and associate it exclusively with SCBs will choose (a) without awareness of the extension.",
+      "final_explanation": "The PCA framework has evolved significantly in its scope and application.\n• Option (a): Incorrect — PCA's applicability was extended to NBFCs (above a specified asset threshold) in 2022, making this statement outdated and incorrect.\n• Option (b): Incorrect — PCA restricts a bank's operational decisions (dividends, branch expansion, lending, management pay) but does NOT impose a moratorium restricting depositor withdrawals. A moratorium under Section 45 is a separate, more extreme measure.\n• Option (c): Correct — The extension of PCA to NBFCs in 2021–2022 was a significant regulatory development reflecting NBFC sector's growing systemic importance post-IL&FS and DHFL crises.\n• Option (d): Incorrect — PCA exit requires sustained improvement across all trigger parameters for at least four consecutive quarters — one quarter is insufficient.\nValue Addition:\n• NBFCs subject to PCA include those with asset size above a threshold and those under the 'Upper Layer' of the Scale-Based Regulation framework.\n• The three PCA risk thresholds for banks use CRAR, Net NPA, and RoA as metrics — each has three breach levels (Risk Threshold 1, 2, 3).\n• Section 45 moratorium was famously applied to Yes Bank in March 2020 — withdrawal limits were capped; this is distinctly more severe than PCA."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements about the Prompt Corrective Action (PCA) framework of the Reserve Bank of India is correct?\n\n(a) The PCA framework continues to be limited in its applicability to Scheduled Commercial Banks and has not been extended to Non-Banking Financial Companies\n(b) Banks placed under the PCA framework are subject to a moratorium that restricts depositors from withdrawing their funds beyond a prescribed limit\n(c) The PCA framework, which was originally designed for Scheduled Commercial Banks, was extended to Non-Banking Financial Companies by RBI in recognition of their growing systemic significance\n(d) A bank under PCA can exit the framework upon a recommendation from its Board of Directors to RBI after demonstrating improvement for at least one quarter across all risk parameters",
+      "table_data": null
+    }
+  }
+]

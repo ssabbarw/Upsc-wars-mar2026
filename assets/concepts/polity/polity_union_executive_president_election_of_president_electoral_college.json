@@ -1,0 +1,187 @@
+{
+  "subject": "Polity",
+  "topic": "Union Executive — President",
+  "sub_topic": "Election of President — Electoral College",
+  "concepts": [
+    {
+      "name": "Composition of the Electoral College under Article 54",
+      "key_dimensions": [
+        "Exhaustive list: elected members of both Houses of Parliament + elected members of State Legislative Assemblies",
+        "UPSC trap: Nominated members of Parliament and State Legislatures are explicitly excluded",
+        "UPSC trap: Members of Legislative Councils (MLCs) are excluded even in states with bicameral legislatures",
+        "Comparison with Vice-President's electoral college which includes nominated members of Parliament"
+      ]
+    },
+    {
+      "name": "Exclusion of Nominated Members from the Electoral College",
+      "key_dimensions": [
+        "Constitutional basis: Article 54 uses 'elected members' — nominated MPs under Articles 80(1) and 331 are excluded",
+        "Rationale: Nominated members are not people's representatives, hence lack democratic legitimacy for electing the head of state",
+        "UPSC trap: Contrast with Vice-President election under Article 66 where nominated members of both Houses participate",
+        "Implication: A nominated Rajya Sabha member (e.g., eminent person) has no vote in Presidential election"
+      ]
+    },
+    {
+      "name": "Exclusion of State Legislative Council Members (MLCs)",
+      "key_dimensions": [
+        "Article 54 specifies only Legislative Assembly members, not Legislative Council members",
+        "Rationale: MLAs are directly elected by the people; MLCs have varied and indirect modes of election",
+        "States with bicameral legislatures (e.g., UP, Bihar, Maharashtra): only MLAs participate, not MLCs",
+        "UPSC trap: Total electoral college strength calculation must exclude all MLCs"
+      ]
+    },
+    {
+      "name": "Inclusion of Union Territory Legislative Assemblies after 70th Constitutional Amendment",
+      "key_dimensions": [
+        "Original Article 54 included only State assemblies; 70th Amendment (1992) added elected members of Delhi (NCT) and Puducherry",
+        "Constitutional basis: Article 54 amended to include UTs with legislatures",
+        "UPSC trap: Not all UTs are included — only those with legislative assemblies (Delhi and Puducherry currently); Jammu & Kashmir's statehood/UT status implications",
+        "Jammu & Kashmir: after reorganization in 2019, its Legislative Assembly members participate once assembly elections are held"
+      ]
+    },
+    {
+      "name": "Value of a Member of Parliament's Vote in the Electoral College",
+      "key_dimensions": [
+        "Formula: Total value of all elected MLAs' votes ÷ Total number of elected MPs",
+        "Purpose: To maintain parity between Parliament and all State Assemblies combined",
+        "UPSC trap: The value is the same for every MP regardless of which state they represent or which House they belong to",
+        "Practical implication: MP vote value changes with each election depending on state assembly compositions"
+      ]
+    },
+    {
+      "name": "Value of a State MLA's Vote — Calculation Formula",
+      "key_dimensions": [
+        "Formula: Total population of the state ÷ (Total number of elected MLAs × 1000); result rounded to nearest integer",
+        "Population figure used: 1971 Census (frozen by 42nd Amendment, extended by 84th Amendment until 2026)",
+        "UPSC trap: Different MLAs from different states have different vote values; an MLA from UP has a far higher vote value than one from Sikkim",
+        "Deliberate design: Balances larger and smaller states in electing the President"
+      ]
+    },
+    {
+      "name": "Use of 1971 Census Population Figures and the 'Freeze' Provision",
+      "key_dimensions": [
+        "42nd Constitutional Amendment (1976) froze the population basis at 1971 Census for MLA vote value calculation",
+        "84th Constitutional Amendment (2001) extended the freeze until the first census after 2026",
+        "Rationale: To prevent penalizing states that successfully implemented family planning programs",
+        "UPSC trap: This is distinct from the delimitation freeze — both use 1971 data but serve different constitutional purposes"
+      ]
+    },
+    {
+      "name": "Principle of Uniformity and Proportional Representation in the Electoral College",
+      "key_dimensions": [
+        "Article 55(1): So far as practicable, uniformity in scale of representation of different states",
+        "Article 55(2): Proportionality between the number of votes an MLA casts and the population of the state",
+        "Constitutional design ensures that the President represents all states proportionally, not just populous ones",
+        "UPSC trap: 'As far as practicable' — implies it is a directive, not an absolute guarantee; rounding off is permitted"
+      ]
+    },
+    {
+      "name": "Method of Election: Single Transferable Vote with Proportional Representation",
+      "key_dimensions": [
+        "Article 55(3) mandates election by proportional representation using the single transferable vote (STV) system",
+        "Voting is by secret ballot — electors rank candidates in order of preference (1, 2, 3...)",
+        "Quota for election: (Total valid votes ÷ 2) + 1 (Droop Quota)",
+        "UPSC trap: This is the same method used for Rajya Sabha elections and Vice-President election, but the electoral college is different in each case"
+      ]
+    },
+    {
+      "name": "Droop Quota and Transfer of Votes Mechanism",
+      "key_dimensions": [
+        "Winning quota = (Total valid votes polled ÷ (Number of seats + 1)) + 1; for President with one seat: (Total votes ÷ 2) + 1",
+        "If no candidate secures quota in first count, candidate with fewest votes is eliminated and their votes redistributed",
+        "Process continues until one candidate crosses the quota",
+        "UPSC trap: The quota is based on valid votes polled, not total votes in the electoral college — abstentions reduce the quota"
+      ]
+    },
+    {
+      "name": "Total Strength of the Electoral College — Numerical Overview",
+      "key_dimensions": [
+        "Elected MPs: 543 (Lok Sabha) + 233 (Rajya Sabha) = 776 elected members",
+        "Elected MLAs: Varies across 28 states + Delhi + Puducherry (approximately 4,120+)",
+        "Total value of all MP votes = Total value of all MLA votes (parity principle under Article 55)",
+        "UPSC trap: Vacancies in the electoral college do not invalidate the election (Article 55(3) proviso)"
+      ]
+    },
+    {
+      "name": "Effect of Vacancies in the Electoral College on Presidential Election",
+      "key_dimensions": [
+        "Article 71(4) / Article 55(3) proviso: Election of President is not invalidated merely because of vacancies in the electoral college",
+        "Vacancies could arise due to deaths, disqualifications, or pending by-elections",
+        "UPSC trap: This is a deliberate constitutional safeguard to prevent electoral paralysis",
+        "Contrast: Election of Speaker is invalidated if quorum is absent — different rule for different constitutional offices"
+      ]
+    },
+    {
+      "name": "Parity between Parliament and States in the Electoral College",
+      "key_dimensions": [
+        "Total vote value of all elected MPs = Total vote value of all elected MLAs (by design of the formula)",
+        "This ensures Parliament and state legislatures have equal weight in electing the President",
+        "UPSC trap: Parity is between totals, not individual MPs and MLAs — an individual MLA may have a higher or lower vote value than an MP",
+        "Reflects federal character: President is head of both the Union and the states"
+      ]
+    },
+    {
+      "name": "Presidential Election vs. Vice-Presidential Election — Electoral College Comparison",
+      "key_dimensions": [
+        "President (Article 54): Elected members of both Houses of Parliament + elected members of State/UT Assemblies",
+        "Vice-President (Article 66): Members of an electoral college consisting of members of BOTH Houses of Parliament (elected AND nominated); state assemblies excluded entirely",
+        "UPSC trap: VP electoral college is larger in terms of membership categories (includes nominated) but smaller in geographic scope (no states)",
+        "Key difference: VP election has no state representation, making it purely a parliamentary affair"
+      ]
+    },
+    {
+      "name": "Role of Returning Officer and Election Commission in Presidential Election",
+      "key_dimensions": [
+        "Presidential election is conducted by the Election Commission of India under Article 324",
+        "Returning Officer is typically the Secretary-General of Lok Sabha or Rajya Sabha (alternates)",
+        "Presidential and Vice-Presidential Elections Act, 1952 governs the procedural aspects",
+        "UPSC trap: Unlike general elections, there is no 'Model Code of Conduct' as such; the process is purely an electoral college vote"
+      ]
+    },
+    {
+      "name": "Dispute Resolution in Presidential Elections — Article 71",
+      "key_dimensions": [
+        "Article 71: All doubts and disputes arising out of or in connection with the election of the President shall be decided by the Supreme Court",
+        "Supreme Court's decision is final; election can be declared void by Supreme Court",
+        "UPSC trap: Unlike Parliamentary election disputes (High Court jurisdiction), Presidential election disputes go directly to the Supreme Court",
+        "Article 71(2): Acts done by President before Supreme Court declares election void remain valid (de facto doctrine)"
+      ]
+    },
+    {
+      "name": "Eligibility Conditions of Candidates and Their Interaction with Electoral College",
+      "key_dimensions": [
+        "Article 58: Must be Indian citizen, 35 years of age, and qualified for election as Lok Sabha member",
+        "Must not hold any office of profit (Article 58(2)) — serving President, VP, Governors, Union/State Ministers are exempt",
+        "UPSC trap: A sitting MLA or MP can contest Presidential election but must vacate their seat upon election as President",
+        "Nomination: Must be proposed by 50 electors and seconded by 50 electors from the electoral college"
+      ]
+    },
+    {
+      "name": "Security Deposit and Nomination Process for Presidential Election",
+      "key_dimensions": [
+        "Candidates must submit a security deposit of ₹15,000 to the Reserve Bank of India",
+        "Nomination must be subscribed by at least 50 proposers and 50 seconders (all must be members of the electoral college)",
+        "UPSC trap: The 50+50 requirement was introduced by amendment to the Presidential and VP Elections Act to prevent frivolous candidates",
+        "Original requirement was much lower; raised to reduce the large number of dummy candidates"
+      ]
+    },
+    {
+      "name": "Federal Character of the Electoral College and Constitutional Design Intent",
+      "key_dimensions": [
+        "The inclusion of state assemblies reflects the quasi-federal nature of India's Constitution",
+        "President as constitutional head of Union AND states — hence state legislatures must have a say in election",
+        "Parity of vote values between Parliament and states reinforces cooperative federalism",
+        "UPSC trap: India does not follow the US model of Electoral College per state; India uses a single national electoral college with weighted votes"
+      ]
+    },
+    {
+      "name": "Impact of Anti-Defection Law and Disqualification on Electoral College Membership",
+      "key_dimensions": [
+        "A disqualified MP or MLA loses membership of the House and thus ceases to be a member of the electoral college",
+        "UPSC trap: A member under disqualification proceedings (not yet decided) still retains voting rights in Presidential election",
+        "Members suspended from the House (not disqualified) can still vote in Presidential election — suspension ≠ disqualification",
+        "Members on bail after conviction (sentence stayed) retain electoral college membership until final disqualification"
+      ]
+    }
+  ]
+}

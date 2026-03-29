@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "National Income Accounting",
+  "sub_topic": "Base year revision in India",
+  "concepts": [
+    {
+      "name": "Purpose and Rationale for Base Year Revision",
+      "key_dimensions": [
+        "Why base years become outdated: structural shifts in economy, emergence of new sectors, changing consumption patterns",
+        "Role of base year in eliminating price distortions and reflecting real economic activity",
+        "International best practice: UN System of National Accounts (SNA) recommendation to revise every 5-10 years",
+        "UPSC trap: Distinguishing between 'base year revision' and 'rebasing' vs 'methodological overhaul' — the 2011-12 revision involved BOTH"
+      ]
+    },
+    {
+      "name": "Historical Sequence of Base Year Revisions in India",
+      "key_dimensions": [
+        "Chronological progression: 1948-49 → 1960-61 → 1970-71 → 1980-81 → 1993-94 → 2004-05 → 2011-12",
+        "Agency responsible: Central Statistics Office (CSO), now NSO under MoSPI",
+        "Frequency analysis: Gap between revisions and its economic implications",
+        "UPSC trap: Confusing the current base year (2011-12) with the previous one (2004-05); questions often ask which revision introduced GVA prominently"
+      ]
+    },
+    {
+      "name": "2011-12 Base Year Revision: Key Methodological Changes",
+      "key_dimensions": [
+        "Shift from GDP at Factor Cost to Gross Value Added (GVA) at Basic Prices as the primary measure",
+        "Adoption of SNA 2008 framework replacing SNA 1993",
+        "New data sources: MCA21 database for corporate sector, expanded NSSO surveys",
+        "UPSC trap: GVA at Basic Prices ≠ GVA at Factor Cost — Basic Prices include production taxes/subsidies but exclude product taxes/subsidies"
+      ]
+    },
+    {
+      "name": "GDP vs GVA: Relationship Post-2011-12 Revision",
+      "key_dimensions": [
+        "Formula: GDP = GVA at Basic Prices + Product Taxes – Product Subsidies",
+        "Why India shifted headline reporting to GVA: better sectoral analysis, isolates impact of tax-subsidy distortions",
+        "Difference between 'factor cost,' 'basic prices,' and 'market prices' — a classic UPSC confusion zone",
+        "Policy implication: A high product subsidy regime can make GDP significantly different from GVA, masking sectoral productivity"
+      ]
+    },
+    {
+      "name": "MCA21 Database Integration in National Accounts",
+      "key_dimensions": [
+        "What MCA21 is: Ministry of Corporate Affairs' electronic registry of company filings",
+        "How its integration improved GDP estimates: coverage of ~5 lakh private companies vs earlier sample-based approach",
+        "Controversy: Initial estimates showed higher GDP growth partly due to better corporate coverage, not actual acceleration",
+        "UPSC trap: MCA21 improved the 'corporate sector' estimate — it does NOT cover unorganised/informal sector estimates"
+      ]
+    },
+    {
+      "name": "Treatment of Unorganised/Informal Sector in Revised Estimates",
+      "key_dimensions": [
+        "Methodology: Enterprise surveys, NSSO surveys, and extrapolation using formal sector as proxy",
+        "Criticism post-2011-12: Overestimation of informal sector growth by benchmarking it to formal sector trends",
+        "Demonetisation debate: Whether GDP estimates captured informal sector contraction accurately",
+        "UPSC angle: Informal sector contributes ~45% of GDP but is hardest to measure — this is a recurring limitation question"
+      ]
+    },
+    {
+      "name": "Impact of Base Year Revision on GDP Growth Rate Estimates",
+      "key_dimensions": [
+        "Backdating controversy: Revised series showed India's GDP growth higher than previously estimated for 2012-14",
+        "Comparison with IMF/World Bank estimates and the credibility debate",
+        "Statistical artifact vs real growth: How methodological changes can arithmetically alter growth figures",
+        "UPSC trap: Revised GDP numbers do NOT mean the economy actually grew faster — it reflects better measurement"
+      ]
+    },
+    {
+      "name": "Advance Estimates, Revised Estimates, and Final Estimates System",
+      "key_dimensions": [
+        "First Advance Estimate (FAE): Released in January of the fiscal year — basis for Union Budget",
+        "Chain of revisions: 1st AE → 2nd AE → 1st RE → 2nd RE → Final Estimates (released ~2 years later)",
+        "Why large revisions occur: Incomplete data for agriculture, informal sector, and government expenditure",
+        "UPSC trap: The Union Budget is presented using First Advance Estimate GDP — not the final figure"
+      ]
+    },
+    {
+      "name": "Nominal GDP vs Real GDP in the Context of Base Year",
+      "key_dimensions": [
+        "Definition distinction: Nominal GDP uses current prices; Real GDP deflates using base year prices",
+        "GDP Deflator = (Nominal GDP / Real GDP) × 100 — different from CPI/WPI",
+        "Why base year choice affects Real GDP: An outdated base year with old price structures distorts volume estimates",
+        "UPSC trap: GDP deflator is a broader price index than CPI/WPI as it covers all goods and services produced"
+      ]
+    },
+    {
+      "name": "Chain-Base Method vs Fixed-Base Method",
+      "key_dimensions": [
+        "Fixed-base: All years compared to single base year — simple but becomes less representative over time",
+        "Chain-base: Each year compared to previous year, then linked — more dynamic but complex",
+        "India's current approach: Fixed base (2011-12) with periodic revisions — NOT yet moved to chain-linking",
+        "UPSC angle: Advanced economies (US, UK) use chain-linking; India's shift to chain-base is a pending reform often cited in Economic Survey"
+      ]
+    },
+    {
+      "name": "Sectoral Reclassification in 2011-12 Revision",
+      "key_dimensions": [
+        "New sector breakdown: Agriculture, Industry, Services with sub-categories aligned to NIC 2008",
+        "Financial services: FISIM (Financial Intermediation Services Indirectly Measured) now explicitly calculated",
+        "R&D expenditure reclassified: From intermediate consumption to capital formation (investment) — per SNA 2008",
+        "UPSC trap: Treating R&D as investment INCREASES GDP — this is a methodological change, not actual new investment"
+      ]
+    },
+    {
+      "name": "FISIM (Financial Intermediation Services Indirectly Measured)",
+      "key_dimensions": [
+        "Definition: Imputed value of banking services for which no explicit fee is charged (spread between lending and deposit rates)",
+        "SNA 2008 mandates its inclusion — adds to service sector GDP",
+        "India began including FISIM in 2011-12 revision, inflating financial services contribution",
+        "UPSC trap: FISIM is NOT a direct tax or fee — it is an imputed/estimated value, making it a common conceptual confusion point"
+      ]
+    },
+    {
+      "name": "Treatment of Government Expenditure and Public Sector in National Accounts",
+      "key_dimensions": [
+        "Government output measured at cost (since no market price): Sum of compensation + intermediate consumption + consumption of fixed capital",
+        "Defence expenditure: Revenue expenditure = intermediate consumption; Capital expenditure = Gross Fixed Capital Formation (GFCF)",
+        "UPSC trap: Government services are NOT valued at market price — this leads to systematic undervaluation vs private sector",
+        "Post-revision improvement: Better use of CAG data and state finance accounts for government sector estimation"
+      ]
+    },
+    {
+      "name": "Gross Fixed Capital Formation (GFCF) and Its Revised Measurement",
+      "key_dimensions": [
+        "GFCF as a proxy for investment: Includes machinery, construction, intellectual property (post-SNA 2008)",
+        "2011-12 change: Intellectual property products (software, R&D, mineral exploration) now included in GFCF",
+        "Private vs Public GFCF trends: Declining public investment, crowding-in vs crowding-out debate",
+        "UPSC trap: GFCF ≠ total investment — it excludes changes in inventories and valuables (gold/silver), which are separate components of capital formation"
+      ]
+    },
+    {
+      "name": "Institutional Framework: CSO, NSO, and MoSPI",
+      "key_dimensions": [
+        "CSO (Central Statistics Office) merged with NSSO to form NSO under MoSPI in 2019",
+        "National Statistical Commission (NSC): Autonomous body to oversee statistical standards — its recommendations on base year revision",
+        "Back Series controversy: NSC's committee (Sudipto Mundle Committee) could not reconcile back series data — government released its own figures",
+        "UPSC trap: NSC is an advisory body, NOT a constitutional body — MoSPI retains final authority on GDP release"
+      ]
+    },
+    {
+      "name": "Back Series Controversy After 2011-12 Revision",
+      "key_dimensions": [
+        "Problem: New methodology (SNA 2008, GVA framework) needed to be applied backwards to compare with old series",
+        "NSC-appointed Sudipto Mundle Committee submitted report but government released different figures in November 2018",
+        "Key dispute: Revised back series showed UPA-era growth lower and NDA-era growth higher — politicisation of statistics",
+        "UPSC angle: Highlights tension between statistical integrity and political optics — a governance and institutional credibility issue"
+      ]
+    },
+    {
+      "name": "Purchasing Power Parity (PPP) vs Market Exchange Rate in Cross-Country Comparisons",
+      "key_dimensions": [
+        "PPP-based GDP: Adjusts for price level differences across countries — makes India's economy appear larger (3rd largest by PPP)",
+        "Market exchange rate GDP: Uses prevailing forex rate — India ranks 5th/6th",
+        "ICP (International Comparison Programme) under World Bank: Provides PPP conversion factors, updated periodically",
+        "UPSC trap: Base year for domestic GDP and base year for PPP comparison are DIFFERENT exercises — PPP is for international comparison, not domestic deflation"
+      ]
+    },
+    {
+      "name": "Per Capita Income Estimation and Its Limitations Post-Revision",
+      "key_dimensions": [
+        "Formula: Per Capita NNI = NNI at Current Prices / Mid-year Population",
+        "Population data source: Census (decennial) with interpolation — creates estimation error between census years",
+        "Post-2011-12: Per capita income figures revised upward, but welfare implications questioned given inequality",
+        "UPSC trap: Per capita INCOME uses NNI (not GDP) at current prices — students often confuse GDP per capita with per capita NNI"
+      ]
+    },
+    {
+      "name": "National Income Aggregates: Conceptual Hierarchy and Traps",
+      "key_dimensions": [
+        "Hierarchy: GDP → GNP (add Net Factor Income from Abroad) → NNP (deduct Depreciation) → National Income (NNI at Factor Cost)",
+        "Post-revision: NNI at Factor Cost = GVA at Basic Prices + NFIA – Net Production Taxes",
+        "Depreciation (Consumption of Fixed Capital): Estimated, not directly measured — a weak link in national accounts",
+        "UPSC trap: GNP > GDP if NFIA is positive (India historically has negative NFIA due to profit repatriation by MNCs exceeding remittance inflows — VERIFY each year as remittances now make NFIA positive)"
+      ]
+    },
+    {
+      "name": "Upcoming Base Year Revision to 2022-23: Anticipated Changes",
+      "key_dimensions": [
+        "MoSPI announced revision to 2022-23 base year — expected to incorporate post-COVID structural shifts",
+        "New data sources anticipated: GST network data (GSTN), digital payment data, gig economy estimation",
+        "SNA 2025 (forthcoming): May influence methodology — treatment of data as capital asset under discussion",
+        "UPSC angle: GSTN integration expected to significantly improve informal sector estimation — a major limitation of 2011-12 revision that may be addressed"
+      ]
+    }
+  ]
+}

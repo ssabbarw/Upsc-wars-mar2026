@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Capital Markets and Financial System",
+  "sub_topic": "Government securities market",
+  "concepts": [
+    {
+      "name": "Government Securities (G-Secs): Definition, Types and Classification",
+      "key_dimensions": [
+        "Distinction between Central Government Securities, State Government Securities (SDLs), and Treasury Bills — and which qualify as 'dated securities'",
+        "Classification by tenor: short-term (T-Bills: 91-day, 182-day, 364-day) vs long-term dated securities, and the UPSC trap of whether T-Bills carry a coupon rate",
+        "Special instruments: Inflation-Indexed Bonds, Sovereign Gold Bonds, Floating Rate Bonds, STRIPS — how each differs from plain vanilla G-Secs",
+        "Sovereign guarantee vs government guarantee distinction and its implications for risk-weighting under Basel norms"
+      ]
+    },
+    {
+      "name": "Primary Issuance Mechanism: Auctions and the Role of RBI",
+      "key_dimensions": [
+        "RBI's dual role as debt manager and monetary authority — the conflict of interest and why PDMA (Public Debt Management Agency) was proposed but not yet established",
+        "Uniform Price Auction vs Multiple Price (Discriminatory) Auction — which is used for T-Bills vs dated G-Secs and why",
+        "Devolvement on Primary Dealers (PDs) and on RBI itself — when and why this happens, implications for monetary base",
+        "The 'Notified Amount' vs 'Greenshoe Option' concept in auctions and the cut-off yield mechanism"
+      ]
+    },
+    {
+      "name": "Primary Dealers (PDs): Role, Obligations and Privileges",
+      "key_dimensions": [
+        "Mandatory underwriting commitment and bidding obligation in primary auctions — the '100% of notified amount' bidding obligation trap",
+        "Distinction between Bank-PDs (operated by commercial banks) and Standalone-PDs — regulatory treatment and capital requirements differ",
+        "Privileges: access to RBI's Liquidity Adjustment Facility (LAF), SLR-eligible securities, and call money market",
+        "PDs vs Satellite Dealers (SDs) — SDs were abolished; UPSC may test whether this system still exists"
+      ]
+    },
+    {
+      "name": "Yield, Price and Duration: Core Mechanics of G-Sec Valuation",
+      "key_dimensions": [
+        "Inverse relationship between G-Sec prices and yields — why RBI's OMO bond purchases reduce yields (not increase them), a frequent UPSC trap",
+        "Yield to Maturity (YTM) vs coupon rate vs current yield — differences and which is used as the benchmark",
+        "Modified Duration and its role in measuring interest rate risk for banks holding G-Secs under HTM/AFS/HFT categories",
+        "G-Sec yield as risk-free rate benchmark — how it anchors corporate bond spreads, bank lending rates (MCLR linkage)"
+      ]
+    },
+    {
+      "name": "Held-to-Maturity (HTM), Available-for-Sale (AFS), and Held-for-Trading (HFT) Classification",
+      "key_dimensions": [
+        "HTM exemption from mark-to-market (MTM) losses — why banks lobby for higher HTM limits during rising yield environments",
+        "RBI's periodic revision of HTM limits (e.g., 23% of NDTL) and its macroprudential significance",
+        "The 'switching' restriction between categories — you cannot freely move securities from HTM to AFS without RBI permission",
+        "Impact on bank profitability: rising yields cause MTM losses in AFS/HFT, explaining why banks oppose rate hikes despite being lenders"
+      ]
+    },
+    {
+      "name": "Statutory Liquidity Ratio (SLR) and Its Link to G-Sec Market",
+      "key_dimensions": [
+        "SLR as a captive demand mechanism for G-Secs — how it creates a 'financial repression' effect on private credit",
+        "SLR-eligible instruments: G-Secs, SDLs, and certain other approved securities — NOT all government bonds qualify (e.g., SGBs are SLR-eligible but EBs may not be)",
+        "Gradual SLR reduction trajectory (from 40% in 1990s to 18% currently) and its relationship with fiscal consolidation",
+        "SLR vs CRR distinction: SLR earns return (through G-Sec coupons), CRR does not — a recurring UPSC trap"
+      ]
+    },
+    {
+      "name": "Open Market Operations (OMOs) and Their Monetary-Fiscal Nexus",
+      "key_dimensions": [
+        "OMO Purchase vs OMO Sale: which injects and which absorbs liquidity — and the corresponding effect on G-Sec yields",
+        "Operation Twist (simultaneous purchase of long-term and sale of short-term G-Secs) — objective of flattening the yield curve without changing overall liquidity",
+        "OMOs as a tool for 'yield curve management' vs traditional liquidity management — the subtle difference tested in UPSC Mains",
+        "Monetisation of deficit through OMOs — distinction between direct monetisation (Ways and Means Advances) and indirect monetisation via OMOs"
+      ]
+    },
+    {
+      "name": "Ways and Means Advances (WMA) and Overdraft Facility",
+      "key_dimensions": [
+        "WMA as a temporary liquidity facility from RBI to Central/State governments — NOT a borrowing instrument, but a short-term advance",
+        "Normal WMA vs Special WMA (against pledge of G-Secs) — the collateral distinction",
+        "Overdraft rules: government cannot be in overdraft for more than 10 consecutive working days — triggers mandatory market borrowing",
+        "State governments' WMA vs Central government WMA — different limits, and SDLs as collateral for special WMA for states"
+      ]
+    },
+    {
+      "name": "State Development Loans (SDLs): Characteristics and Spread over G-Secs",
+      "key_dimensions": [
+        "SDL spread over central G-Secs as a proxy for fiscal health of states — widening spread signals deteriorating state finances",
+        "SDL issuance calendar coordination by RBI — states cannot independently time their borrowings (unlike Centre)",
+        "SDLs as SLR-eligible instruments — banks' captive demand for SDLs and how this affects state borrowing costs",
+        "Distinction: SDLs are 'guaranteed by the respective state' not by the Union Government — credit risk is technically different, though markets treat them near-sovereignly"
+      ]
+    },
+    {
+      "name": "Retail Direct Scheme and Retail Participation in G-Sec Market",
+      "key_dimensions": [
+        "RBI Retail Direct — allows retail investors to directly open 'Retail Direct Gilt Account' with RBI (bypassing banks/brokers)",
+        "Non-competitive bidding facility in auctions — retail investors can bid without specifying yield, and are allotted at weighted average cut-off yield",
+        "5% reservation for non-competitive bids in each auction — and whether this applies to both T-Bills and dated securities",
+        "Comparison with Sovereign Gold Bond (SGB) retail distribution — SGBs are issued through banks/post offices, not directly through RBI's auction platform"
+      ]
+    },
+    {
+      "name": "Negotiated Dealing System – Order Matching (NDS-OM) and Secondary Market Structure",
+      "key_dimensions": [
+        "NDS-OM as the anonymous, screen-based electronic trading platform for G-Secs — operated by CCIL (Clearing Corporation of India Ltd.), not BSE/NSE",
+        "CCIL's role as Central Counterparty (CCP) — novation and guaranteed settlement, eliminating counterparty risk in G-Sec trades",
+        "OTC (Over-the-Counter) segment vs NDS-OM segment — most G-Sec trading is OTC reported on NDS, not exchange-traded",
+        "UPSC trap: G-Secs ARE listed on stock exchanges (BSE/NSE) but liquidity is negligible there; real market is NDS-OM"
+      ]
+    },
+    {
+      "name": "Yield Curve: Shape, Determinants and Policy Significance",
+      "key_dimensions": [
+        "Normal (upward sloping) vs Inverted yield curve — inverted curve as a recession predictor; implications for monetary policy transmission",
+        "Benchmark yield: 10-year G-Sec yield as the 'risk-free rate' in India — how it anchors home loan rates, corporate bond yields, and FCNR deposit rates",
+        "Yield curve steepening vs flattening — Operation Twist was designed to flatten the curve by compressing long-end yields",
+        "Fiscal dominance effect on yield curve — large government borrowing programme raises long-term yields regardless of RBI's short-term rate actions"
+      ]
+    },
+    {
+      "name": "Foreign Portfolio Investment (FPI) in G-Secs: Limits, Routes and Implications",
+      "key_dimensions": [
+        "General limit vs Fully Accessible Route (FAR) — FAR bonds have no FPI limit and were introduced to facilitate index inclusion",
+        "JP Morgan GBI-EM Index inclusion of Indian G-Secs (2024) — eligibility criteria (FAR bonds), expected capital inflows, and currency risk implications",
+        "FPI limits in G-Secs: medium-term framework — 6% of outstanding stock for central G-Secs, with sub-limits for short-term instruments",
+        "Volatility risk: FPI outflows during global risk-off events cause G-Sec yield spikes and rupee depreciation simultaneously — a 'double whammy' for monetary policy"
+      ]
+    },
+    {
+      "name": "STRIPS (Separate Trading of Registered Interest and Principal of Securities)",
+      "key_dimensions": [
+        "Mechanism: stripping a G-Sec into individual zero-coupon instruments (one for each coupon and one for principal) — each tradeable separately",
+        "Why STRIPS matter: creates a zero-coupon yield curve, useful for pricing derivatives and for long-duration liability matching by insurance companies/pension funds",
+        "RBI guidelines on which G-Secs are STRIPS-eligible — not all dated securities can be stripped",
+        "UPSC trap: STRIPS are NOT new instruments issued by government — they are derived from existing G-Secs; government's total debt obligation does not change"
+      ]
+    },
+    {
+      "name": "Inflation-Indexed Bonds (IIBs) and Capital Indexed Bonds (CIBs)",
+      "key_dimensions": [
+        "IIBs link both principal and coupon to inflation (WPI or CPI) — distinction from CIBs where only principal is indexed (older structure, now discontinued)",
+        "Deflation floor protection in IIBs: at maturity, investor receives higher of inflation-adjusted principal or face value — not present in all countries' IIBs",
+        "Demand-side failure of IIBs in India — why retail uptake was poor (financial literacy, preference for physical gold as inflation hedge)",
+        "Comparison with Sovereign Gold Bonds (SGBs) as alternative inflation hedges — SGBs index to gold price, IIBs index to CPI; tax treatment differs"
+      ]
+    },
+    {
+      "name": "Sovereign Gold Bonds (SGBs): Design, Issuance and Fiscal Implications",
+      "key_dimensions": [
+        "SGB structure: denominated in grams of gold, earn 2.5% fixed annual interest on issue price, capital gains on maturity are tax-exempt for individuals",
+        "Issued by RBI on behalf of Government of India — NOT by SEBI or stock exchanges, though listed for secondary market trading",
+        "Fiscal cost vs forex saving trade-off: government pays 2.5% interest + gold price appreciation as cost, but saves on gold import forex outflow",
+        "SGB vs Gold ETF vs Physical Gold — UPSC frequently tests differences: SGBs have sovereign guarantee, fixed interest, tax exemption on redemption; Gold ETFs do not"
+      ]
+    },
+    {
+      "name": "Fiscal Deficit Financing and Market Borrowing Programme",
+      "key_dimensions": [
+        "Gross vs Net borrowing distinction — gross borrowing includes rollovers of maturing debt; net borrowing is the actual addition to debt stock",
+        "Crowding out effect: large government borrowing absorbs savings, raises interest rates, and displaces private investment — empirical evidence and counter-arguments",
+        "Borrowing calendar (half-yearly) released by RBI — front-loading vs back-loading strategy and its yield impact",
+        "FRBM Act limits on borrowing: fiscal deficit target as % of GDP and its constraint on market borrowing — escape clause provisions (e.g., national security, pandemic)"
+      ]
+    },
+    {
+      "name": "Debt Management: Public Debt Management Agency (PDMA) Debate",
+      "key_dimensions": [
+        "Current arrangement: RBI manages public debt under RBI Act 1934 — creates conflict of interest between monetary policy (prefer high rates) and debt management (prefer low rates)",
+        "PDMA proposal: separate statutory body to handle government borrowing — recommended by multiple committees (Jahangir Aziz, FSLRC)",
+        "Why PDMA not implemented yet: political economy reasons, RBI's resistance, and concerns about coordination failure during crisis",
+        "International comparison: UK's DMO, US Treasury's debt management — separated from central bank; India remains an outlier among large economies"
+      ]
+    },
+    {
+      "name": "Liquidity Adjustment Facility (LAF) and Its G-Sec Collateral Requirement",
+      "key_dimensions": [
+        "LAF (Repo and Reverse Repo) requires G-Secs as collateral — this creates structural demand for G-Secs among banks beyond SLR requirements",
+        "Marginal Standing Facility (MSF): banks can borrow from RBI against G-Secs up to 1% of NDTL above SLR — the 'above SLR' dip is the key feature",
+        "Standing Deposit Facility (SDF) introduced in 2022 as floor for LAF corridor — unlike reverse repo, SDF does NOT require collateral (G-Secs not needed)",
+        "UPSC trap: SDF rate < Repo rate < MSF rate forms the interest rate corridor; SDF replaced reverse repo as the effective floor rate"
+      ]
+    },
+    {
+      "name": "G-Sec Market Development: Challenges and Recent Reforms",
+      "key_dimensions": [
+        "Shallow secondary market problem — dominated by banks (captive SLR holders) with low trading velocity; few non-bank participants",
+        "Interest rate derivatives (IRDs) — Interest Rate Swaps (IRS) and Interest Rate Futures (IRFs) to hedge G-Sec price risk; regulatory evolution and participation limits",
+        "Bond-Currency-Derivatives nexus: G-Sec yields, INR exchange rate, and derivatives markets are deeply interconnected — Urjit Patel Committee's analysis",
+        "Consolidation of G-Sec issuances (buyback and switches) — RBI's liability management operations to reduce rollover risk and create liquid benchmark securities"
+      ]
+    }
+  ]
+}

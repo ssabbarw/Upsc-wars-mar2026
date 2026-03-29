@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Inflation",
+  "sub_topic": "CPI — composition and base year",
+  "concepts": [
+    {
+      "name": "CPI Variants in India: CPI-U, CPI-IW, CPI-AL, CPI-RL — Roles and Releasing Authorities",
+      "key_dimensions": [
+        "Distinction between CPI (Combined/Urban/Rural) released by MoSPI vs CPI-IW and CPI-AL/RL released by Labour Bureau",
+        "Which variant is used for monetary policy (CPI Combined) vs wage revision (CPI-IW) vs Minimum Support Price indexation (CPI-AL)",
+        "UPSC trap: conflating Labour Bureau indices with RBI's headline inflation measure",
+        "Frequency of release and base year differences across variants"
+      ]
+    },
+    {
+      "name": "Base Year of CPI (Combined): 2012 vs Earlier Base Years and Revision Rationale",
+      "key_dimensions": [
+        "Current base year is 2012=100 for CPI-U, CPI-R, CPI Combined (MoSPI)",
+        "Reasons for base year revision: structural shifts in consumption, Engel's Law dynamics, rural-urban convergence",
+        "CPI-IW base year is 2016=100 (revised from 2001), CPI-AL base year is 1986-87 — high-yield distinction",
+        "UPSC trap: assuming all CPI variants share the same base year"
+      ]
+    },
+    {
+      "name": "Commodity Basket Composition of CPI (Combined): Major Groups and Weights",
+      "key_dimensions": [
+        "Six major groups: Food & Beverages, Pan/Tobacco/Intoxicants, Clothing & Footwear, Housing, Fuel & Light, Miscellaneous",
+        "Food & Beverages carries the highest weight (~45.86% in combined index) — UPSC frequently tests this",
+        "Rural CPI has higher food weight (~54%) vs Urban CPI (~36%) — reflects consumption pattern divergence",
+        "Miscellaneous group includes health, education, transport — rising weight over time signals structural change"
+      ]
+    },
+    {
+      "name": "Data Source for CPI Construction: Consumer Expenditure Survey (CES) and Its Limitations",
+      "key_dimensions": [
+        "Weights are derived from NSSO Consumer Expenditure Surveys (CES); last comprehensive survey used: 2011-12 HCES",
+        "HCES 2017-18 was withheld by government — controversy around data reliability and its impact on CPI weight revision",
+        "HCES 2022-23 released and may inform next base year revision — current affairs angle",
+        "Limitation: survey-based weights become outdated, failing to capture new consumption items (e.g., digital services)"
+      ]
+    },
+    {
+      "name": "CPI as the Headline Inflation Measure for RBI's Monetary Policy Framework",
+      "key_dimensions": [
+        "RBI's Flexible Inflation Targeting (FIT) framework mandates CPI (Combined) as the nominal anchor since 2016",
+        "Target: 4% (+/- 2% tolerance band) — upper threshold 6%, lower threshold 2%",
+        "UPSC trap: WPI was the earlier reference rate; FIT legally mandated by amended RBI Act Section 45ZA",
+        "Consequences of breaching the band for three consecutive quarters: MPC must submit report to government"
+      ]
+    },
+    {
+      "name": "WPI vs CPI: Structural Differences, Weights, and Policy Relevance",
+      "key_dimensions": [
+        "WPI covers wholesale/producer prices; CPI captures retail/consumer prices including services — WPI has no services component",
+        "WPI base year: 2011-12; released by DPIIT (Ministry of Commerce), not MoSPI",
+        "WPI assigns higher weight to manufactured products (~64%); CPI dominated by food — divergence creates 'inflation paradox'",
+        "UPSC trap: WPI deflator is used for GDP calculation at constant prices, not CPI"
+      ]
+    },
+    {
+      "name": "Core CPI vs Headline CPI vs Food Inflation: Definitions and Policy Implications",
+      "key_dimensions": [
+        "Core CPI = Headline CPI minus Food & Beverages and Fuel & Light — measures structural/demand-driven inflation",
+        "Headline CPI includes all components; sensitive to supply-side shocks (monsoon, oil prices)",
+        "RBI targets Headline CPI, not Core — UPSC trap: assuming central banks target core inflation universally",
+        "High core inflation signals sustained demand pressure, justifying rate hikes; high food inflation may not warrant monetary tightening"
+      ]
+    },
+    {
+      "name": "Housing Component in CPI: Imputed Rent and Its Exclusion from Rural CPI",
+      "key_dimensions": [
+        "Housing component exists only in Urban CPI (weight ~9.77%) — Rural CPI has NO housing component",
+        "Urban housing uses imputed rent (not actual transactions) — methodological limitation",
+        "UPSC trap: students assume housing is part of rural CPI; its absence is a frequent trick question",
+        "HRA revisions (e.g., 7th Pay Commission) caused artificial spike in urban CPI housing sub-index — policy distortion angle"
+      ]
+    },
+    {
+      "name": "Food and Beverages Sub-group: Internal Composition and Cereals vs Protein Inflation",
+      "key_dimensions": [
+        "Within Food & Beverages: Cereals, Meat & Fish, Egg, Milk, Oils & Fats, Fruits, Vegetables, Pulses, Sugar, Spices, Non-alcoholic beverages",
+        "Vegetables and Pulses are most volatile components — high weightage + supply inelasticity = disproportionate CPI impact",
+        "Protein inflation (eggs, milk, pulses) — structural issue linked to rising incomes and dietary transition (Engel's Law in action)",
+        "Cereals carry highest sub-weight within food group; MSP hikes directly transmit to CPI — fiscal-monetary policy conflict"
+      ]
+    },
+    {
+      "name": "Fuel and Light Component: Composition and Administered Price Distortions",
+      "key_dimensions": [
+        "Includes LPG, kerosene, firewood, chips, dung cake, electricity — rural basket has higher weight for biomass fuels",
+        "Administered prices (LPG, kerosene subsidies) suppress measured CPI fuel inflation — creates under-estimation of true cost of living",
+        "Global crude oil pass-through to CPI is indirect and lagged due to price controls — UPSC tests understanding of transmission mechanism",
+        "Deregulation of diesel/petrol prices increased direct pass-through to CPI Miscellaneous (transport sub-group)"
+      ]
+    },
+    {
+      "name": "Seasonal Adjustment and Vegetable Price Volatility in CPI Measurement",
+      "key_dimensions": [
+        "CPI data released in India is NOT seasonally adjusted — UPSC trap: comparing with US CPI which is seasonally adjusted",
+        "Vegetable prices show extreme seasonal variation (onion, tomato shocks) — distort month-on-month CPI readings",
+        "RBI uses 3-month and 12-month moving averages to strip seasonality for policy assessment",
+        "Trimmed mean and weighted median CPI are alternative measures used globally but not officially in India — conceptual distinction"
+      ]
+    },
+    {
+      "name": "CPI Data Collection Mechanism: Price Collection Centres and NSO's Role",
+      "key_dimensions": [
+        "MoSPI through NSO collects retail prices from ~1,114 urban markets and ~1,181 villages across states",
+        "Prices collected for rural CPI: from village shops; urban CPI: from retail outlets, markets — different price discovery environments",
+        "Data collection is monthly; CPI released with approximately 12-day lag after reference month ends",
+        "UPSC angle: field-level data collection gaps, non-response bias, and digital price transactions not captured"
+      ]
+    },
+    {
+      "name": "Inflation Indexation Using CPI: Dearness Allowance, Dearness Relief, and MGNREGA Wages",
+      "key_dimensions": [
+        "DA for central government employees linked to CPI-IW (base 2016=100), not CPI Combined — frequent UPSC trap",
+        "MGNREGA wage notifications indexed to CPI-AL (Agricultural Labourers) — separate from monetary policy CPI",
+        "Dearness Relief for pensioners also linked to CPI-IW — consistency with DA framework",
+        "Distinction: welfare/wage indexation uses Labour Bureau indices; monetary policy uses MoSPI CPI — two parallel systems"
+      ]
+    },
+    {
+      "name": "GDP Deflator vs CPI: Which Better Measures Economy-Wide Inflation",
+      "key_dimensions": [
+        "GDP Deflator covers all domestically produced goods and services; CPI covers only consumer basket — GDP deflator is broader",
+        "GDP Deflator uses WPI as primary input (not CPI) in India's National Accounts — important methodological point",
+        "CPI includes imported consumer goods (e.g., edible oils); GDP Deflator excludes imports — key structural difference",
+        "UPSC trap: assuming GDP deflator and CPI always move together; divergence occurs when investment goods prices differ from consumer prices"
+      ]
+    },
+    {
+      "name": "Laspeyres Index vs Paasche Index: Methodological Basis of CPI Construction",
+      "key_dimensions": [
+        "India's CPI uses Laspeyres formula — fixed base-year quantities as weights; tends to overestimate inflation (substitution bias)",
+        "Paasche index uses current-year quantities — tends to underestimate inflation; used in GDP deflator calculation",
+        "Fisher Ideal Index = geometric mean of Laspeyres and Paasche — considered theoretically superior but rarely used officially",
+        "UPSC angle: substitution bias in Laspeyres means CPI overstates cost of living when consumers switch to cheaper substitutes"
+      ]
+    },
+    {
+      "name": "Rural-Urban CPI Divergence: Structural Causes and Policy Implications",
+      "key_dimensions": [
+        "Rural CPI historically higher than Urban CPI in India — counterintuitive but driven by higher food weight + supply chain inefficiencies",
+        "Urban CPI more sensitive to fuel and miscellaneous services; rural CPI more sensitive to food and biomass fuel prices",
+        "Combined CPI weights: Rural ~57.15%, Urban ~42.85% — rural dominates combined index",
+        "Policy implication: monetary policy calibrated to Combined CPI may inadequately address rural food inflation; fiscal tools more appropriate"
+      ]
+    },
+    {
+      "name": "Transmission Lag: From RBI Policy Rate Changes to CPI Inflation — Channels and Delays",
+      "key_dimensions": [
+        "Monetary transmission channels: bank lending rate → credit demand → aggregate demand → prices (demand-pull)",
+        "In India, food inflation (supply-driven) is largely immune to interest rate changes — limits RBI's effectiveness",
+        "Average transmission lag estimated at 3-4 quarters in India — RBI's own research findings",
+        "UPSC trap: assuming rate hikes immediately reduce CPI; food-dominated CPI requires supply-side interventions, not monetary tools"
+      ]
+    },
+    {
+      "name": "New CPI Series (2012 Base): Methodological Improvements Over Old Series (2004-05 Base)",
+      "key_dimensions": [
+        "Old CPI series had separate indices for Industrial Workers, Agricultural Labourers — no single national measure",
+        "New 2012-base CPI introduced unified Rural, Urban, and Combined national index for the first time",
+        "Improvements: expanded item coverage, updated weights from 2011-12 HCES, better rural price collection network",
+        "UPSC trap: 2011-12 HCES data used for weights while 2004-05 was used earlier — base year ≠ survey year of weight data in older series"
+      ]
+    },
+    {
+      "name": "Inflation Expectations and Their Role in CPI Dynamics: RBI's Household Survey",
+      "key_dimensions": [
+        "RBI conducts quarterly Inflation Expectations Survey of Households (IESH) — forward-looking supplement to CPI data",
+        "Households in India consistently expect higher inflation than actual CPI — 'inflation pessimism' phenomenon",
+        "Anchoring inflation expectations is a key goal of FIT — credibility of 4% target reduces wage-price spiral risk",
+        "UPSC angle: adaptive expectations (based on past food prices) dominate in India vs rational expectations assumed in models"
+      ]
+    },
+    {
+      "name": "Rebasing of CPI-IW to 2016: Process, Significance, and Differences from MoSPI CPI",
+      "key_dimensions": [
+        "CPI-IW rebased from 2001=100 to 2016=100 by Labour Bureau in 2020 — covers workers in factories, mines, plantations, railways etc.",
+        "New basket under 2016 base: 463 items vs 392 items earlier; updated consumption pattern of industrial workers",
+        "CPI-IW is compiled for 88 industrial centres, not nationally representative — limited geographic scope vs MoSPI CPI",
+        "UPSC trap: CPI-IW revision to 2016 base ≠ MoSPI CPI revision; they remain on different base years with different purposes"
+      ]
+    }
+  ]
+}

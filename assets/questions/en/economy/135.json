@@ -1,0 +1,1608 @@
+[
+  {
+    "meta": {
+      "uuid": "05239e73-8b8e-4d86-8796-87e7d8221625",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate: Definition, Mechanism and Collateral Framework"
+      ],
+      "subject_que_no": 4654,
+      "overall_que_no": 12001
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "Repo as collateralised repurchase agreement, not simple loan",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is deceptive because students routinely describe repo as 'RBI lending money to banks,' which is directionally true but misses the defining legal structure of a repurchase agreement with collateral.",
+      "elimination_logic": [
+        "Eliminate option a — it describes a simple uncollateralised loan; repo specifically involves sale of securities with a buyback obligation, making collateral central to its structure.",
+        "Eliminate option c — RBI does not purchase commercial paper from banks under repo; eligible securities are government securities, T-Bills, and State Development Loans only.",
+        "Eliminate option d — this describes Open Market Operations (OMO), where RBI buys securities permanently; repo is a temporary, reversible transaction.",
+        "Option b correctly identifies the repurchase agreement structure: banks sell eligible government securities to RBI with an agreement to repurchase them at a higher price, making it collateralised short-term borrowing."
+      ],
+      "upsc_trap_explanation": "Students memorise 'repo = RBI lends to banks' and choose option a confidently. The trap lies in the word 'loan' — legally, repo is NOT a loan but a sale-with-repurchase agreement. The collateral dimension and the repurchase obligation are defining features. A student who has only read a textbook summary without engaging with the LAF mechanism will miss this distinction and select the simplest-sounding correct-sounding option.",
+      "final_explanation": "Repo — short for 'repurchase agreement' — is a specific financial instrument, not a simple loan. When commercial banks need short-term funds, they do not merely borrow from RBI; they sell eligible government securities (G-Secs, T-Bills, State Development Loans) to RBI and simultaneously agree to repurchase those securities at a higher price at a future date. The difference between the repurchase price and the sale price represents the interest — this rate is the repo rate.\n\n• Option (a): Incorrect. 'Simple loan' mischaracterises repo; it lacks the repurchase obligation and collateral element that define the instrument.\n• Option (b): Correct. Banks sell eligible government securities with a binding buyback obligation — this is the precise mechanism of repo under LAF.\n• Option (c): Incorrect. Commercial paper is not eligible collateral under repo; only government-backed securities qualify.\n• Option (d): Incorrect. Permanent outright purchase of G-Secs describes OMO (Open Market Operations), not repo.\n\nValue Addition:\n• Eligible securities under LAF: G-Secs, Treasury Bills (T-Bills), and State Development Loans (SDLs).\n• Repo transactions under LAF are typically overnight, though term repos of 7 and 14 days also exist.\n• OMO differs from repo: OMO involves permanent transfer of securities; repo is always reversed at maturity."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following most accurately describes the mechanism through which commercial banks access funds from the Reserve Bank of India under the repo arrangement?\n\n(a) Commercial banks obtain unsecured short-term loans from RBI at a rate determined by the Monetary Policy Committee\n(b) Commercial banks sell eligible government securities to RBI with a binding agreement to repurchase them at a higher price on a specified future date\n(c) Commercial banks pledge commercial paper with RBI and receive funds equivalent to the market value of those instruments\n(d) RBI permanently purchases government securities from commercial banks to inject liquidity into the banking system",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e6a4b090-fcc5-423e-82df-956c91e2870f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Reverse Repo Rate: Definition and Directional Logic"
+      ],
+      "subject_que_no": 4655,
+      "overall_que_no": 12002
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Reverse repo as liquidity absorption tool, floor of LAF corridor",
+      "statement_analysis": [
+        {
+          "statement": "Under the reverse repo arrangement, commercial banks lend funds to the Reserve Bank of India, earning interest at the reverse repo rate.",
+          "verdict": "Correct",
+          "reason": "Reverse repo is precisely the mechanism by which RBI borrows from commercial banks — banks park surplus funds with RBI overnight and earn the reverse repo rate as return."
+        },
+        {
+          "statement": "The reverse repo rate is always set higher than the policy repo rate to incentivise banks to park their surplus funds with the RBI.",
+          "verdict": "Incorrect",
+          "reason": "Reverse repo rate is always LOWER than the repo rate — it forms the floor of the LAF corridor, not the ceiling. A higher rate than repo would be contradictory to its design as a liquidity-absorption floor."
+        },
+        {
+          "statement": "An increase in the reverse repo rate, keeping the repo rate unchanged, would tend to incentivise banks to park more funds with RBI rather than lend them to the market.",
+          "verdict": "Correct",
+          "reason": "A higher reverse repo rate raises the return banks earn by parking funds with RBI, making it relatively more attractive than lending to the market — this absorbs more liquidity from the system."
+        }
+      ],
+      "strong_distractor": "b — Option b (statements 1 and 3 only) is a strong distractor because students who correctly identify statement 2 as wrong may still doubt statement 3, thinking it applies only when repo rate also changes simultaneously.",
+      "elimination_logic": [
+        "Evaluate Statement 2 first — it claims reverse repo is HIGHER than repo rate; this is definitionally false since reverse repo forms the floor, not ceiling, of the LAF corridor. Eliminate any option including Statement 2 as correct.",
+        "Eliminate options (a) and (d) — both include Statement 2 as part of the correct set.",
+        "Confirm Statement 1: reverse repo involves banks lending to RBI — directionally correct by definition.",
+        "Confirm Statement 3: a higher reverse repo rate, ceteris paribus, makes parking with RBI more attractive and absorbs liquidity — economically sound. Options with 1 and 3 only = option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the trap: students sometimes confuse 'reverse repo is higher than repo' because they reason that banks must earn MORE to be attracted to park funds. The actual design is opposite — reverse repo is lower than repo because it is meant to be the floor; banks park funds there only when they have no better lending opportunities. The 'higher to incentivise' logic sounds plausible but is economically reversed.",
+      "final_explanation": "Reverse repo is the mirror of repo: RBI borrows from commercial banks (absorbing excess liquidity), paying the reverse repo rate as interest. It is a deliberate design choice to keep this rate below the policy repo rate.\n\n• Statement 1 — Correct: Banks lend to RBI at the reverse repo rate; RBI is the borrower here.\n• Statement 2 — Incorrect: The reverse repo rate is LOWER than the repo rate, not higher. It forms the floor of the LAF corridor. The logic is that banks park with RBI only when they cannot find better returns; the rate need not exceed repo rate.\n• Statement 3 — Correct: A higher reverse repo rate (with repo unchanged) makes parking with RBI more rewarding, drawing funds away from the credit market and tightening liquidity — an absorption effect.\n\nValue Addition:\n• Reverse repo rate in normal times = Repo Rate − 25 bps.\n• RBI uses reverse repo as a liquidity absorption tool during excess liquidity periods.\n• Post-April 2022, the Standing Deposit Facility (SDF) has operationally replaced reverse repo as the effective floor — SDF rate = Repo − 25 bps."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the reverse repo rate:\n\n1. Under the reverse repo arrangement, commercial banks lend funds to the Reserve Bank of India, earning interest at the reverse repo rate.\n2. The reverse repo rate is always set higher than the policy repo rate to incentivise banks to park their surplus funds with the RBI.\n3. An increase in the reverse repo rate, keeping the repo rate unchanged, would tend to incentivise banks to park more funds with RBI rather than lend them to the market.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4e885411-8bc6-4c41-ac77-c6117e573c25",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Liquidity Adjustment Facility (LAF): The Operational Framework"
+      ],
+      "subject_que_no": 4656,
+      "overall_que_no": 12003
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "LAF as operational framework — repo and reverse repo as instruments within it",
+      "statement_analysis": [
+        {
+          "statement": "The Liquidity Adjustment Facility (LAF) is itself an interest rate that the RBI announces alongside the repo rate after each Monetary Policy Committee meeting.",
+          "verdict": "Incorrect",
+          "reason": "LAF is an operating procedure or framework — not a standalone rate. Repo and reverse repo are the instruments (rates) that operate within the LAF corridor; LAF itself is never announced as a separate rate."
+        },
+        {
+          "statement": "The LAF corridor was introduced in the year 2000 following the recommendations of the Narasimham Committee on banking sector reforms.",
+          "verdict": "Correct",
+          "reason": "This is factually accurate — LAF was introduced in 2000 as part of post-Narasimham Committee reforms to give RBI a flexible, market-based liquidity management tool."
+        },
+        {
+          "statement": "The Marginal Standing Facility forms the upper boundary of the LAF interest rate corridor, operating at a rate above the policy repo rate.",
+          "verdict": "Correct",
+          "reason": "MSF rate = Repo Rate + 25 bps typically, making it the ceiling of the LAF corridor — banks can access this emergency window at a penal rate above repo."
+        }
+      ],
+      "strong_distractor": "c — Option c (statements 2 and 3) looks like a plausible 'both correct' pick; students who correctly identify statement 1 as wrong may falsely assume the question asks for incorrect statements among 2 and 3 only.",
+      "elimination_logic": [
+        "The question asks which statements are NOT correct — focus on identifying false statements.",
+        "Evaluate Statement 1: LAF is described as 'an interest rate announced after each MPC meeting' — this is false; LAF is a framework/operating procedure, not a rate. Statement 1 is NOT correct.",
+        "Evaluate Statement 2: LAF introduced in 2000 post-Narasimham Committee — this is factually accurate. Statement 2 IS correct, so it should not be in the answer.",
+        "Evaluate Statement 3: MSF as ceiling above repo rate — factually accurate. Statement 3 IS correct.",
+        "Only Statement 1 is NOT correct — answer is option (b): 1 only."
+      ],
+      "upsc_trap_explanation": "Students confuse LAF as a rate rather than as a framework. Since RBI announces repo and reverse repo rates prominently, students assume LAF is a parallel rate. The trap in this question is that Statement 1 sounds authoritative — 'announced after each MPC meeting' adds a procedural flavour that feels correct. A student who has not precisely understood that LAF is the umbrella mechanism, not the rate itself, will miss Statement 1 as false.",
+      "final_explanation": "The Liquidity Adjustment Facility (LAF) is the operational framework — the 'corridor' — within which RBI manages day-to-day liquidity. It is NOT a rate; it is the architecture that houses the repo (injection) and reverse repo (absorption) instruments, along with the Marginal Standing Facility.\n\n• Statement 1 — Incorrect: LAF is an operating procedure/framework, not an interest rate. No 'LAF rate' is announced; what are announced are the repo rate, reverse repo rate, and MSF rate — all instruments within LAF.\n• Statement 2 — Correct: LAF was introduced in 2000 pursuant to the Narasimham Committee's recommendations for market-based liquidity management.\n• Statement 3 — Correct: MSF rate = Repo + 25 bps (typically), making it the ceiling of the LAF corridor and serving as an emergency, penal-rate borrowing window.\n\nOnly Statement 1 is NOT correct.\n\nValue Addition:\n• LAF operates on a daily basis; banks can use it every working day.\n• Three components of LAF: Repo, Reverse Repo (now operationally replaced by SDF as floor), and MSF.\n• The width of the LAF corridor in normal times is 50 bps (25 bps on each side of the repo rate)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Liquidity Adjustment Facility (LAF):\n\n1. The Liquidity Adjustment Facility (LAF) is itself an interest rate that the RBI announces alongside the repo rate after each Monetary Policy Committee meeting.\n2. The LAF corridor was introduced in the year 2000 following the recommendations of the Narasimham Committee on banking sector reforms.\n3. The Marginal Standing Facility forms the upper boundary of the LAF interest rate corridor, operating at a rate above the policy repo rate.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 and 3 only\n(b) 1 only\n(c) 1 and 3 only\n(d) 1 and 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2fa84c84-0d1a-402f-b5c9-5c9d0099e545",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "The Interest Rate Corridor: Floor, Ceiling and Width",
+        "Marginal Standing Facility (MSF): The Emergency Borrowing Window",
+        "Standing Deposit Facility (SDF): New Floor of LAF Corridor"
+      ],
+      "subject_que_no": 4657,
+      "overall_que_no": 12004
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "LAF corridor: floor, ceiling and SDF replacing reverse repo",
+      "statement_analysis": [
+        {
+          "statement": "The Marginal Standing Facility rate acts as the ceiling of the LAF corridor and is set above the policy repo rate.",
+          "verdict": "Correct",
+          "reason": "MSF rate = Repo Rate + 25 bps — it is the emergency borrowing window for banks and forms the upper bound of the LAF corridor."
+        },
+        {
+          "statement": "Since April 2022, the Standing Deposit Facility rate has replaced the reverse repo rate as the effective floor of the LAF corridor.",
+          "verdict": "Correct",
+          "reason": "SDF was introduced in April 2022; at SDF rate = Repo − 25 bps, it became the operational floor, displacing the reverse repo rate which had become less relevant."
+        },
+        {
+          "statement": "The reverse repo rate remains the operative floor of the LAF corridor and is used by RBI daily for absorbing excess system liquidity.",
+          "verdict": "Incorrect",
+          "reason": "Post-April 2022, reverse repo has been operationally superseded by the SDF as the LAF floor; the reverse repo rate is no longer the daily operative absorption tool."
+        },
+        {
+          "statement": "In normal times, the width of the LAF corridor — the spread between MSF rate and the effective floor — is 50 basis points.",
+          "verdict": "Correct",
+          "reason": "With MSF at Repo + 25 bps and SDF at Repo − 25 bps, the total corridor width is 50 bps (25 bps on each side of the repo rate)."
+        }
+      ],
+      "strong_distractor": "d — 'All four' is a strong distractor because statements 1, 2 and 4 are all correct and a student who is unsure about statement 3's post-2022 change will default to 'all four.'",
+      "elimination_logic": [
+        "Evaluate Statement 3 carefully: it says reverse repo 'remains' the operative floor used daily — post-April 2022, the SDF replaced reverse repo as the operational floor. Statement 3 is incorrect.",
+        "Statements 1, 2, and 4 are all factually accurate based on current LAF architecture.",
+        "Three statements are correct (1, 2, 4); one is incorrect (3) — the answer is 'Only three', which is option (c)."
+      ],
+      "upsc_trap_explanation": "The trap is temporal: students who studied repo/reverse repo before 2022 have the reverse repo as the floor firmly embedded. The SDF's introduction in April 2022 fundamentally changed the operative floor. Statement 3 is designed to exploit this gap — it sounds completely correct to anyone who hasn't updated their understanding post-2022. The all-four option is the primary magnet for partially prepared students.",
+      "final_explanation": "The LAF corridor has three anchor rates: SDF/Reverse Repo (floor), Policy Repo (centre), and MSF (ceiling). After April 2022, the SDF became the operative floor.\n\n• Statement 1 — Correct: MSF = Repo + 25 bps; it is the ceiling and a penal emergency borrowing rate.\n• Statement 2 — Correct: SDF was introduced in April 2022 and now serves as the effective floor at Repo − 25 bps.\n• Statement 3 — Incorrect: Reverse repo is no longer the operative daily floor post-April 2022; SDF has displaced it. The reverse repo rate still formally exists but is not the primary absorption tool.\n• Statement 4 — Correct: Total corridor width = 50 bps (25 bps on each side of repo rate).\n\nValue Addition:\n• SDF is uncollateralised — RBI does NOT provide government securities to banks when absorbing funds via SDF.\n• Unlike reverse repo, SDF absorbs liquidity without expanding RBI's balance sheet through collateral issuance.\n• The SDF rate as of the 2022 introduction was set at 3.75% when repo was 4%, maintaining the 25 bps spread."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "How many of the following statements about the LAF interest rate corridor are correct?",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "The Marginal Standing Facility rate acts as the ceiling of the LAF corridor and is set above the policy repo rate."
+          ],
+          [
+            "2",
+            "Since April 2022, the Standing Deposit Facility rate has replaced the reverse repo rate as the effective floor of the LAF corridor."
+          ],
+          [
+            "3",
+            "The reverse repo rate remains the operative floor of the LAF corridor and is used by RBI daily for absorbing excess system liquidity."
+          ],
+          [
+            "4",
+            "In normal times, the width of the LAF corridor — the spread between MSF rate and the effective floor — is 50 basis points."
+          ]
+        ],
+        "footer_text": "(a) Only one\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9420e4cb-382e-402f-a90a-dbd3c3b016e6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Marginal Standing Facility (MSF): The Emergency Borrowing Window",
+        "Repo Rate vs. Bank Rate: Key Distinctions",
+        "The Interest Rate Corridor: Floor, Ceiling and Width"
+      ],
+      "subject_que_no": 4658,
+      "overall_que_no": 12005
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "MSF, Bank Rate, Repo, SDF — roles in LAF corridor",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b swaps the descriptions of MSF and Bank Rate, which are frequently conflated since both operate at rates above repo and both involve RBI lending; students often merge them.",
+      "elimination_logic": [
+        "Anchor on the unambiguous match first: SDF (D) is definitionally uncollateralised absorption — matches description 4 (absorbs excess liquidity without providing collateral). This eliminates options (c) and (d) which misplace D.",
+        "MSF (A) is the ceiling of the LAF corridor — matches description 2. Eliminate option (b) which pairs MSF with description 3.",
+        "Bank Rate (B) is for long-term credit, no repurchase obligation — matches description 3. Repo (C) is short-term collateralised — matches description 1.",
+        "Correct matching: A-2, B-3, C-1, D-4 = option (a)."
+      ],
+      "upsc_trap_explanation": "MSF and Bank Rate are the primary conflation trap here. Both involve RBI lending at rates above the repo rate, but the distinction is critical: MSF is short-term (overnight), collateralised, within the LAF corridor, and serves as its ceiling. Bank Rate is for long-term credit, uncollateralised, and has historically been separate from LAF (though now aligned with MSF as a penal rate). Students who know 'both are above repo' without the precise characterisation will swap A and B.",
+      "final_explanation": "These four instruments represent the key rate architecture of Indian monetary policy. Understanding their precise roles prevents conflation in high-stakes matching questions.\n\n• A (MSF) → 2: MSF is the ceiling of the LAF corridor; banks borrow at Repo + 25 bps as an emergency facility, even dipping into SLR holdings.\n• B (Bank Rate) → 3: Bank Rate is for long-term lending by RBI with no repurchase obligation and no collateral requirement. Post-2012, it is aligned with MSF rate but conceptually distinct.\n• C (Repo Rate) → 1: Repo is short-term (overnight or term), collateralised with G-Secs/T-Bills/SDLs, with a buyback obligation — the policy rate set by MPC.\n• D (SDF) → 4: SDF absorbs excess liquidity from banks without RBI providing any collateral in return — the uncollateralised absorption window introduced in April 2022.\n\nTrap pairing: A and B are both 'above repo' in rate terms, making them easy to swap.\n\nValue Addition:\n• Bank Rate = MSF Rate since 2012 — used mainly as a penal rate for SLR defaults by banks.\n• MSF allows banks to borrow even above their normal LAF quota, providing a safety valve.\n• SDF differs from reverse repo: reverse repo requires RBI to give G-Secs; SDF does not."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Monetary instrument) with List II (Characteristic description):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Marginal Standing Facility (MSF)",
+            "1. Short-term collateralised borrowing by banks from RBI with a repurchase obligation on eligible government securities"
+          ],
+          [
+            "B. Bank Rate",
+            "2. Forms the ceiling of the LAF interest rate corridor; banks can access it at a rate above the policy repo rate"
+          ],
+          [
+            "C. Repo Rate",
+            "3. RBI provides long-term credit without any collateral requirement or repurchase obligation"
+          ],
+          [
+            "D. Standing Deposit Facility (SDF)",
+            "4. RBI absorbs excess liquidity from banks without providing any government securities as collateral"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-2, B-3, C-1, D-4\n(b) A-3, B-2, C-1, D-4\n(c) A-2, B-3, C-4, D-1\n(d) A-2, B-1, C-3, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "802bdd2b-7d08-4d74-9ddd-e51b65560bf4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Policy Repo Rate as the Benchmark: Signal vs. Operational Rate",
+        "Monetary Policy Committee (MPC): Who Decides the Repo Rate"
+      ],
+      "subject_que_no": 4659,
+      "overall_que_no": 12006
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "WACR as operating target; repo rate as policy signal rate",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is the strongest distractor because both A and R are true and the causal connection seems obvious: 'repo rate is the policy rate, therefore it is what RBI targets operationally' — this is the precise conflation the question is designed to exploit.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — The Weighted Average Call Rate (WACR) is indeed the operational target that RBI aims to anchor near the repo rate. A is factually correct.",
+        "Step 2: Is Reason (R) correct? — The policy repo rate IS decided by the Monetary Policy Committee under RBI Act Section 45ZB. R is factually correct.",
+        "Step 3: Does R explain A? — No. The reason WACR is the operational target is the Urjit Patel Committee (2014) recommendation separating signalling (repo) from operational targeting (WACR). The fact that MPC decides the repo rate does not causally explain why WACR — and not repo — is the operational target. These are two separate design choices.",
+        "Both A and R are correct, but R does NOT explain A — the correct option is (b)."
+      ],
+      "upsc_trap_explanation": "Students see 'repo rate decided by MPC' and 'WACR is the operational target' and intuitively think: MPC decides repo → repo is the target → WACR is aligned to it → therefore R explains A. But the causal logic is wrong. The WACR-as-operational-target decision came from the Urjit Patel Committee recommendation (2014), which is a separate institutional design choice from who decides the repo rate. R and A are both true facts that coexist but do not share a causal relationship.",
+      "final_explanation": "This question tests the distinction between India's monetary policy signalling rate and its operational target — one of the more nuanced topics from post-2014 RBI framework reforms.\n\nAssertion (A): Correct. Following the Urjit Patel Committee recommendations (2014), RBI adopted the Weighted Average Call Rate (WACR) as its operational target — the actual money market rate it intervenes to keep near the repo rate on a daily basis. The repo rate itself signals the policy stance.\n\nReason (R): Correct. The MPC was constituted under Section 45ZB of the RBI Act (as amended) and has six members — three RBI officials including the Governor, and three government nominees. It decides the policy repo rate by majority vote.\n\nCausal link: R does NOT explain A. The fact that MPC decides the repo rate has no logical connection to why WACR (and not the repo rate itself) is the operational target. The WACR-as-target choice comes from the Urjit Patel Committee's framework design, not from MPC's institutional setup.\n\nCorrect option: (b) — Both A and R are correct, but R is NOT the correct explanation of A.\n\nValue Addition:\n• The call money market is where WACR is observed — it is the overnight uncollateralised inter-bank market.\n• MPC does NOT decide CRR, SLR, or reverse repo rate independently — those remain with RBI's internal decision-making.\n• Urjit Patel Committee (2014) also recommended the FIT framework and CPI as the anchor for inflation targeting."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Weighted Average Call Rate (WACR) serves as the operational target of Indian monetary policy — the rate that the Reserve Bank of India intervenes daily to keep anchored near the policy repo rate.\n\nReason (R): The policy repo rate is decided by the Monetary Policy Committee constituted under Section 45ZB of the Reserve Bank of India Act, whose members include both RBI officials and government nominees.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "cf476645-bfdb-4751-b79a-b7f69c20058b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Transmission Mechanism: How Repo Rate Changes Affect the Economy"
+      ],
+      "subject_que_no": 4660,
+      "overall_que_no": 12007
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Transmission chain from repo rate change to economic outcomes",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c places EBLR/lending rate change before credit demand change, which feels logical since lending rates must first change before credit demand shifts — students often collapse the transmission steps.",
+      "elimination_logic": [
+        "The transmission begins with RBI's rate action — a change in the policy repo rate is the trigger event, so it must come first. Eliminate options placing any other step before the repo rate change.",
+        "Repo rate change → changes the cost at which banks borrow → banks revise their lending rates (MCLR/EBLR) next. The lending rate revision is the second step.",
+        "Only after lending rates change does credit demand adjust — cheaper (or costlier) loans alter borrowing decisions. Credit demand change is third.",
+        "Investment and consumption decisions follow credit demand shifts — changes in output and inflation are the final, lagged outcomes. Correct order: Repo Rate Change → EBLR/Lending Rate Change → Credit Demand Change → Output and Inflation. This is option (b)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Monetary policy transmission is sequential — each step creates the conditions for the next. Understanding this chain is critical for application-based questions.\n\nCorrect sequence: Repo Rate Change (RBI's policy action) → Bank Lending Rate Change via EBLR/MCLR (banks reprice credit) → Credit Demand Change (borrowers respond to new rates) → Investment and Consumption Change → Output and Inflation Effects (final lagged outcomes).\n\n• Option (a): Placing credit demand before lending rate change is incorrect — demand cannot respond to a cost that hasn't changed yet.\n• Option (b): Correct sequence — aligns with the causal transmission logic.\n• Option (c): Swapping output/inflation before credit demand change skips the intermediary step.\n• Option (d): Starting with inflation as a trigger reverses causation.\n\nValue Addition:\n• EBLR (External Benchmark Lending Rate) introduced in October 2019 directly links bank lending rates to the repo rate, shortening transmission lag.\n• Asymmetric transmission: rate hikes pass through faster than rate cuts (banks adjust upward quickly, downward slowly).\n• Transmission is imperfect — structural factors like excess liquidity and bank balance sheet health affect the pass-through."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly represents the sequential transmission chain through which a change in the RBI's policy repo rate ultimately affects output and inflation in the economy?\n\n1. Change in bank lending rates (EBLR/MCLR)\n2. Change in credit demand\n3. Change in policy repo rate\n4. Change in output and inflation\n\n(a) 3 → 2 → 1 → 4\n(b) 3 → 1 → 2 → 4\n(c) 3 → 1 → 4 → 2\n(d) 4 → 3 → 1 → 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7625ed51-fa21-45b3-81dd-ed985b3fdc3e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Inflation Control: Contractionary Monetary Policy"
+      ],
+      "subject_que_no": 4661,
+      "overall_que_no": 12008
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Repo rate effectiveness limited to demand-pull, not cost-push inflation",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is the strongest distractor because raising the repo rate is the standard anti-inflation tool and students reflexively apply it without distinguishing between demand-pull and cost-push inflation.",
+      "elimination_logic": [
+        "Identify the nature of inflation in the scenario: global crude oil price rise → higher transport and production costs → prices rise from the supply side. This is cost-push (supply-side) inflation, not demand-pull.",
+        "Repo rate hike works by reducing demand — it tightens credit, reduces spending, and cools demand-pull inflation. But when inflation arises from a supply shock, reducing demand further hurts output without addressing the supply constraint. Eliminate option (a).",
+        "The scenario involves an imported supply shock — a fiscal response (reducing fuel taxes) directly addresses the price mechanism. Eliminate options conflating monetary and fiscal tools.",
+        "The correct answer acknowledges that repo rate is ineffective against cost-push inflation and that the appropriate tool is supply-side/fiscal intervention — option (d)."
+      ],
+      "upsc_trap_explanation": "The trap is the reflex association: 'inflation → raise repo rate.' Students who haven't internalised the demand-pull vs. cost-push distinction will choose option (a) immediately. The scenario carefully specifies a global crude oil shock — a classic cost-push trigger. Raising the repo rate in this context suppresses output without curing the inflation, potentially causing stagflation. Only a student who has mapped the scope of repo rate's effectiveness will identify option (d).",
+      "final_explanation": "Monetary policy tools, including the repo rate, are designed to manage demand-side pressures. The repo rate works by altering the cost of credit — raising it reduces borrowing, consumption, and investment, thereby cooling demand-pull inflation.\n\nThe scenario describes a global crude oil price surge driving up transport and production costs across the economy — this is textbook cost-push (supply-side) inflation. The price rise originates not from excess domestic demand but from an external supply shock.\n\n• Option (a): Incorrect — raising the repo rate will reduce domestic demand and worsen economic output without addressing the root cause (higher input costs from global oil prices). It may cause stagflation.\n• Option (b): Incorrect — lowering the repo rate would further stimulate demand, amplifying inflationary pressure.\n• Option (c): Incorrect — CRR reduction injects liquidity and stimulates credit, which is expansionary and counter-productive during inflation.\n• Option (d): Correct — the RBI's own policy framework acknowledges that repo rate is not effective against supply-side inflation; fiscal tools (fuel tax cuts, supply-chain interventions) or tolerance of temporary inflation are more appropriate responses.\n\nValue Addition:\n• FIT framework explicitly recognises supply shocks as grounds for MPC to miss the inflation target without being considered in breach.\n• Stagflation (high inflation + low growth) is the worst-case outcome of applying demand-tightening tools to supply shocks.\n• RBI can write to the government explaining target breach — the accountability mechanism under FIT."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A sharp and sustained rise in global crude oil prices leads to a significant increase in the cost of transportation and industrial inputs across the Indian economy. Retail prices of essential commodities rise noticeably over two consecutive quarters. The Consumer Price Index (CPI) breaches the upper tolerance band of the inflation target. The Reserve Bank of India's Monetary Policy Committee meets to decide its response.\n\nWhich of the following assessments most accurately describes the appropriate monetary policy response and its limitations in this scenario?\n\n(a) The MPC should raise the policy repo rate sharply, as higher interest rates will directly reduce the inflationary pressure arising from increased input costs\n(b) The MPC should lower the repo rate to stimulate growth, since the inflation arises externally and domestic monetary easing will not worsen it\n(c) The MPC should reduce the Cash Reserve Ratio to inject liquidity and offset the cost pressures faced by producers\n(d) A repo rate hike would be an ineffective primary tool in this situation since the inflation is supply-driven; fiscal and supply-side interventions are better suited to address it",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "618a382a-3404-4b58-aa21-3994151b7ae4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Economic Growth: Accommodative vs. Restrictive Stance"
+      ],
+      "subject_que_no": 4662,
+      "overall_que_no": 12009
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "'Withdrawal of accommodation' — does not mean rate hike",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'Calibrated tightening' sounds like it could be an intermediate or even invented term; students unsure whether it is a real RBI stance may select it as the odd one out.",
+      "elimination_logic": [
+        "Identify which terms are officially recognised monetary policy stance descriptions used by RBI: 'Accommodative', 'Neutral', 'Calibrated Tightening', and 'Withdrawal of Accommodation' are all real RBI stance terminologies.",
+        "'Restrictive' is not a formally designated RBI monetary policy stance term — RBI uses 'Calibrated Tightening' for a tightening bias, not 'Restrictive.'",
+        "All four of Accommodative, Neutral, Calibrated Tightening, and Withdrawal of Accommodation have been formally used in MPC resolutions — 'Restrictive' has not.",
+        "'Restrictive' is the odd one out — option (c)."
+      ],
+      "upsc_trap_explanation": "The trap is plausibility: 'Restrictive' sounds like a natural monetary policy stance and fits intuitively into the spectrum (Accommodative → Neutral → Calibrated Tightening → Restrictive). A student relying on intuition rather than precise recall of actual RBI stance terminology will not flag it as the non-member. The question tests whether students have tracked RBI's specific language versus inferring plausible-sounding terms.",
+      "final_explanation": "The RBI's Monetary Policy Committee formally uses specific stance descriptors to signal the direction of future rate actions.\n\n• Option (a) — Accommodative: Officially used; signals that rate cuts are more likely than hikes in upcoming meetings.\n• Option (b) — Calibrated Tightening: Officially used during 2018; indicated rate hikes were possible but not a fixed commitment to sustained hiking.\n• Option (c) — Restrictive: NOT a formally designated RBI stance. While the word 'restrictive' appears in economic literature, it is not part of RBI's official stance vocabulary.\n• Option (d) — Withdrawal of Accommodation: Officially used from 2022; signals that the next move is unlikely to be a rate cut, without necessarily committing to a rate hike.\n\nValue Addition:\n• 'Withdrawal of Accommodation' ≠ rate hike — this is one of the most common UPSC-targeted confusions.\n• RBI's stance spectrum in order of looseness: Accommodative → Neutral → Calibrated Tightening / Withdrawal of Accommodation.\n• Stance can change without a change in the repo rate itself — the signal and the action are distinct."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT belong to the set of formally designated monetary policy stance descriptions officially used by the Reserve Bank of India's Monetary Policy Committee in its policy resolutions?\n\n(a) Accommodative\n(b) Calibrated Tightening\n(c) Restrictive\n(d) Withdrawal of Accommodation",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b00acc45-cf61-48ef-a13c-8a4763f6e763",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate vs. Bank Rate: Key Distinctions"
+      ],
+      "subject_que_no": 4663,
+      "overall_que_no": 12010
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "Bank Rate vs. Repo Rate — collateral, tenure, and post-2012 alignment",
+      "statement_analysis": [
+        {
+          "statement": "Statement 1: The Bank Rate, unlike the Repo Rate, does not involve any collateral requirement or repurchase agreement — it is used by RBI to provide long-term credit to commercial banks.",
+          "verdict": "Correct",
+          "reason": "Bank Rate is for long-term lending by RBI with no collateral or buyback obligation — this is its defining distinction from repo, which is short-term and collateralised."
+        },
+        {
+          "statement": "Statement 2: The Bank Rate has been maintained at a level below the policy repo rate since the introduction of the Liquidity Adjustment Facility, as it is now primarily used for day-to-day liquidity management.",
+          "verdict": "Incorrect",
+          "reason": "Post-2012, Bank Rate was aligned with the MSF rate (Repo + 25 bps) — it is ABOVE the repo rate, not below it. Bank Rate is no longer used for day-to-day liquidity; it serves as a penal rate for SLR defaults."
+        }
+      ],
+      "strong_distractor": "a — Students who know Statement 1 is correct often assume Statement 2 must also be correct since 'Bank Rate and LAF' sounds like a complete and coherent pairing.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Bank Rate = no collateral, no repurchase, long-term credit — this is the textbook definition and is factually correct.",
+        "Evaluate Statement 2: 'Below the repo rate' and 'day-to-day liquidity management' — both are false. Bank Rate = MSF Rate = Repo + 25 bps (above repo, not below). Bank Rate is not used for daily liquidity management; LAF instruments (repo/reverse repo/SDF) serve that function.",
+        "Statement 1 correct, Statement 2 incorrect — answer is option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 2 contains two false elements packaged as a single plausible-sounding fact. 'Below repo rate' is the primary trap — students reason that Bank Rate must be lower because it's for long-term credit (implying concessional). In reality, Bank Rate post-2012 equals MSF Rate (above repo), used as a penal rate. The secondary trap is 'day-to-day liquidity management' — this is LAF's role, not Bank Rate's.",
+      "final_explanation": "Bank Rate and Repo Rate are frequently conflated but represent fundamentally different instruments.\n\n• Statement 1 — Correct: Bank Rate is uncollateralised, has no repurchase obligation, and historically was used for long-term credit provision by RBI. It differs from repo precisely in these structural features.\n• Statement 2 — Incorrect: Post-2012, Bank Rate was aligned with the MSF Rate (Repo + 25 bps), making it ABOVE the repo rate, not below. It is now used primarily as a penal rate when banks default on SLR maintenance — not as a daily liquidity management tool.\n\nValue Addition:\n• Bank Rate = MSF Rate since 2012 — the two rates are effectively the same number.\n• Bank Rate is among the oldest RBI tools; it predates LAF by decades.\n• For practical liquidity management, LAF (repo, SDF, MSF) has completely replaced the Bank Rate."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the Bank Rate and the Repo Rate:\n\nStatement 1: The Bank Rate, unlike the Repo Rate, does not involve any collateral requirement or repurchase agreement — it is used by RBI to provide long-term credit to commercial banks.\n\nStatement 2: The Bank Rate has been maintained at a level below the policy repo rate since the introduction of the Liquidity Adjustment Facility, as it is now primarily used for day-to-day liquidity management.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "24a39dbb-1f3e-4162-965c-9047a2899595",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Monetary Policy Committee (MPC): Who Decides the Repo Rate"
+      ],
+      "subject_que_no": 4664,
+      "overall_que_no": 12011
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "MPC decides policy repo rate only — not CRR, SLR, or reverse repo independently",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c ('the policy repo rate, the reverse repo rate, and the Cash Reserve Ratio') is deceptive because students assume the MPC, as the apex monetary policy body, controls all key monetary rates and instruments.",
+      "elimination_logic": [
+        "The question asks what the MPC is mandated to decide — the RBI Act Section 45ZB specifies the policy repo rate as the MPC's sole rate decision.",
+        "Eliminate option c — MPC does NOT decide the reverse repo rate independently (it is set as a spread below repo by RBI) or the CRR (which remains with RBI's internal board).",
+        "Eliminate option d — MPC has no mandate over SLR; statutory liquidity requirements are RBI Board decisions.",
+        "Eliminate option a — 'all key monetary policy instruments' overstates MPC's mandate; option b ('only the policy repo rate') is precisely correct per Section 45ZB."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap works by adding legitimate-sounding RBI tools (reverse repo, CRR, SLR) to the MPC's mandate. Students know MPC is important and assume it controls all monetary instruments. The precise statutory limitation — MPC decides only the policy repo rate — is a detail that separates careful readers from those who extrapolate.",
+      "final_explanation": "The Monetary Policy Committee was constituted under Section 45ZB of the RBI Act and has a narrowly defined mandate.\n\n• Option (a): Incorrect — MPC does not control 'all key monetary instruments'; its mandate is specifically limited.\n• Option (b): Correct — The MPC's sole rate decision is the policy repo rate. All other instruments (CRR, SLR, reverse repo spread, MSF) remain with RBI's internal governance.\n• Option (c): Incorrect — MPC does not independently set the reverse repo rate or CRR. Reverse repo is set as a spread below repo by RBI; CRR is a statutory reserve tool controlled by RBI's board.\n• Option (d): Incorrect — SLR decisions fall outside MPC's purview entirely.\n\nValue Addition:\n• MPC has 6 members: RBI Governor (Chair), Deputy Governor (monetary policy), one RBI officer, and three government nominees.\n• Governor casts the deciding vote in case of a tie.\n• MPC meetings are bi-monthly — six times per financial year."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Monetary Policy Committee, constituted under the Reserve Bank of India Act, is mandated to determine ________, while other liquidity and reserve-related instruments remain within the purview of RBI's internal governance structures.\n\n(a) all key monetary policy instruments including repo rate, reverse repo rate, Cash Reserve Ratio, and Statutory Liquidity Ratio\n(b) only the policy repo rate\n(c) the policy repo rate, the reverse repo rate, and the Cash Reserve Ratio\n(d) the policy repo rate and the Statutory Liquidity Ratio",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ef7659d8-5269-497e-ae31-a495f6392640",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "CRR and SLR: Distinction from Repo and Reverse Repo as Liquidity Tools"
+      ],
+      "subject_que_no": 4665,
+      "overall_que_no": 12012
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "CRR as quantity tool vs. repo as price tool — permanent vs. temporary liquidity",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c ('Repo rate — quantity-based tool') is the primary distractor; students who have memorised that repo 'controls money supply' may categorise it as a quantity tool rather than a price tool.",
+      "elimination_logic": [
+        "Identify the classification: price-based tools alter the cost of money (interest rates); quantity-based tools directly control the volume of money in circulation.",
+        "CRR requires banks to hold a proportion of deposits with RBI — this directly controls the amount of money banks can lend, making it a quantity-based tool. CRR + quantity-based = correctly matched.",
+        "Repo rate changes the cost of borrowing (price), not the volume directly — it is a price-based tool. Eliminate option (c) which labels repo as quantity-based.",
+        "Option (a) — CRR as a quantity-based tool — is correctly matched."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges the outcome (repo rate changes affect money supply volume) with the mechanism (repo rate works through price). Students who track the outcome rather than the mechanism will classify repo as quantity-based. CRR is the clearest quantity tool — it mandatorily blocks a portion of deposits, directly reducing lendable funds without using any price signal.",
+      "final_explanation": "Monetary policy tools are classified by their operational mechanism: quantity-based tools directly fix volumes; price-based tools alter the cost of money and let markets adjust quantities.\n\n• Option (a): Correctly matched — CRR is a quantity-based tool; it mandates banks to hold a fixed proportion of deposits with RBI, directly capping lendable funds without using a price mechanism.\n• Option (b): Incorrect — Reverse repo is a price-based tool (it pays a return to banks for parking funds), not a quantity-based tool.\n• Option (c): Incorrect — Repo rate is a price-based tool; it changes the cost of borrowing, not the volume directly.\n• Option (d): Incorrect — OMO involves buying/selling securities (which does affect volume), but characterising it as 'temporary' is wrong — OMO creates permanent changes in bank reserves; repo is temporary.\n\nValue Addition:\n• CRR cut has an immediate, powerful, and permanent effect on liquidity; repo rate changes work with a lag through transmission.\n• SLR is also quantity-based — mandates holding of approved securities.\n• Both quantity (CRR) and price (repo) tools can be used simultaneously as complements, not substitutes."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched in terms of the monetary instrument and its classification as either a price-based or quantity-based liquidity tool?\n\n(a) Cash Reserve Ratio — Quantity-based tool that directly controls the volume of lendable funds in the banking system\n(b) Reverse Repo Rate — Quantity-based tool through which RBI directly fixes the volume of deposits it absorbs from commercial banks\n(c) Repo Rate — Quantity-based tool because changes in it directly alter the total money supply in circulation\n(d) Open Market Operations — Temporary liquidity tool because the effect on bank reserves is always reversed at maturity",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f628c59a-382d-42c0-afce-4b16c67d8a8b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Standing Deposit Facility (SDF): New Floor of LAF Corridor"
+      ],
+      "subject_que_no": 4666,
+      "overall_que_no": 12013
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "SDF uncollateralised nature and replacement of reverse repo as floor",
+      "statement_analysis": [
+        {
+          "statement": "The Standing Deposit Facility was operationally introduced in April 2022, enabling the RBI to absorb excess liquidity from commercial banks without providing government securities as collateral.",
+          "verdict": "Correct",
+          "reason": "SDF was introduced in April 2022 precisely as an uncollateralised absorption window — RBI takes funds from banks without giving any G-Secs in return, which is its key distinction from reverse repo."
+        },
+        {
+          "statement": "The SDF rate is set at 25 basis points below the policy repo rate and now functions as the effective lower boundary of the LAF interest rate corridor.",
+          "verdict": "Correct",
+          "reason": "SDF rate = Repo Rate − 25 bps; it replaced the reverse repo as the operative floor of the LAF corridor following its introduction."
+        },
+        {
+          "statement": "Unlike the reverse repo arrangement, under the SDF the Reserve Bank of India provides government securities to commercial banks as collateral while absorbing their surplus funds.",
+          "verdict": "Incorrect",
+          "reason": "This is the exact opposite of reality — the SDF is uncollateralised, meaning RBI does NOT provide any securities to banks. It is the reverse repo that involves RBI giving G-Secs when it absorbs funds."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three) is the strongest distractor; students who correctly understand SDF as the new floor and know its April 2022 introduction may not retain the precise collateral detail and default to 'all correct.'",
+      "elimination_logic": [
+        "Focus on Statement 3: it says RBI 'provides government securities' under SDF — this is precisely backward. SDF is uncollateralised; RBI provides NO securities. This is SDF's defining feature over reverse repo. Statement 3 is incorrect.",
+        "Eliminate options (c) and (d) which include Statement 3 as correct.",
+        "Statements 1 and 2 are both factually accurate — SDF introduced April 2022, uncollateralised, rate = Repo − 25 bps, now the operative floor.",
+        "Correct answer: 1 and 2 only = option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the entity-swap trap — it attributes the collateral-giving behaviour of reverse repo to SDF, inverting their defining distinction. Students who know SDF and reverse repo both 'absorb liquidity' may not have internalised that the collateral direction is the key differentiator. SDF absorbs WITHOUT giving collateral; reverse repo absorbs WITH giving G-Secs. This reversal is the conceptual core that the UPSC would test.",
+      "final_explanation": "The Standing Deposit Facility was a significant 2022 reform that modernised RBI's liquidity absorption architecture.\n\n• Statement 1 — Correct: SDF introduced April 2022; allows RBI to absorb excess liquidity from banks without providing any government securities — it is uncollateralised by design.\n• Statement 2 — Correct: SDF rate = Repo − 25 bps; it is the new effective floor of the LAF corridor, operationally displacing the reverse repo rate.\n• Statement 3 — Incorrect: This reverses the SDF's defining feature. Under SDF, RBI takes funds from banks and gives NOTHING (no collateral) in return. It is the reverse repo that involves RBI providing G-Secs when it borrows from banks.\n\nValue Addition:\n• SDF was enabled through an amendment to the RBI Act in the Finance Bill 2018, but only operationalised in April 2022.\n• The advantage of SDF: RBI can absorb unlimited liquidity without needing to hold G-Secs as collateral, giving it greater flexibility.\n• Reverse repo still formally exists but is operationally secondary post-SDF introduction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Standing Deposit Facility (SDF):\n\n1. The Standing Deposit Facility was operationally introduced in April 2022, enabling the RBI to absorb excess liquidity from commercial banks without providing government securities as collateral.\n2. The SDF rate is set at 25 basis points below the policy repo rate and now functions as the effective lower boundary of the LAF interest rate corridor.\n3. Unlike the reverse repo arrangement, under the SDF the Reserve Bank of India provides government securities to commercial banks as collateral while absorbing their surplus funds.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b02c3573-61a0-4d7e-9ebf-3d01c2ae1f35",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate Impact on Exchange Rate and Capital Flows"
+      ],
+      "subject_que_no": 4667,
+      "overall_que_no": 12014
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Impossible trinity — monetary policy, exchange rate, capital flows trilemma",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (higher repo rate always appreciates the rupee) is the dominant distractor; the directional logic is partially correct but ignores the trilemma constraint and the conditions under which it breaks down.",
+      "elimination_logic": [
+        "Eliminate option b — lower repo rate attracting foreign capital is directionally wrong; lower rates reduce returns on domestic instruments, discouraging inflows, not attracting them.",
+        "Eliminate option d — repo rate decisions are made with multiple objectives (inflation, growth, financial stability); claiming exchange rate is NOT a consideration overstates the case.",
+        "Evaluate option a — it is directionally correct (higher repo → higher yields → FPI inflows → rupee appreciation) but the qualifier 'always' makes it false under trilemma conditions.",
+        "Option c correctly captures the trilemma: RBI cannot simultaneously have independent monetary policy, a fixed/stable exchange rate, and free capital flows — one must be sacrificed. This is the precise constraint that limits repo rate's exchange rate effects."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap in option a presents a true directional relationship (higher rates → stronger currency) but adds 'always,' which ignores the impossible trinity. If RBI also tries to fix the exchange rate, it cannot maintain monetary policy independence. If capital flows are free, rate changes spill into exchange rate movements that may be unintended. The trilemma is a cross-concept connection (monetary policy + international economics) that rewards conceptual synthesis over factual recall.",
+      "final_explanation": "The relationship between repo rate and exchange rate is real but bounded by structural constraints.\n\n• Option (a): Incorrect due to the qualifier 'always' and absence of trilemma awareness. Higher repo rates do attract FPI debt flows (higher yields) and can strengthen the rupee — but this cannot be guaranteed 'always' because capital flow dynamics and global risk appetite also intervene.\n• Option (b): Incorrect — lower repo rates reduce domestic yield attractiveness, risking capital outflows and rupee depreciation, not appreciation.\n• Option (c): Correct — the 'impossible trinity' (Mundell-Fleming trilemma) establishes that RBI cannot simultaneously control monetary policy independently, maintain exchange rate stability, and allow free capital flows. Only two of the three are achievable at once.\n• Option (d): Incorrect — exchange rate and capital flow considerations do influence RBI's rate decisions, especially the interest rate differential with the US Fed.\n\nValue Addition:\n• India has broadly free capital flows (current account fully convertible; capital account partially).\n• India operates a managed float — RBI intervenes in forex market but does not fix the rate.\n• Interest rate differential with the US Federal Reserve is a major determinant of rupee carry trade attractiveness."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the relationship between the Reserve Bank of India's policy repo rate and external sector outcomes, which of the following statements is most accurate?\n\n(a) A higher repo rate always leads to rupee appreciation because it invariably attracts foreign portfolio investment into Indian debt markets\n(b) A lower repo rate attracts more foreign capital into India since cheaper domestic credit creates surplus funds that flow into export-oriented industries, strengthening the rupee\n(c) The RBI faces a structural constraint in that it cannot simultaneously maintain an independent monetary policy, a stable exchange rate, and unrestricted capital flows — a compromise among these three objectives is unavoidable\n(d) The repo rate is set purely on the basis of domestic inflation and growth objectives, and exchange rate considerations play no role in the MPC's deliberations",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "509e7498-44e5-4f25-832d-9eaec75ff804",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Real Repo Rate vs. Nominal Repo Rate"
+      ],
+      "subject_que_no": 4668,
+      "overall_que_no": 12015
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Real repo rate = nominal minus CPI; negative real rate can coexist with nominal rate cut",
+      "statement_analysis": [
+        {
+          "statement": "The real repo rate is calculated by subtracting the prevailing CPI inflation rate from the nominal policy repo rate; a negative real repo rate indicates a stimulative monetary stance.",
+          "verdict": "Correct",
+          "reason": "Real Repo Rate = Nominal Repo Rate − CPI Inflation Rate. When the real rate is negative (inflation exceeds the nominal rate), borrowing is effectively subsidised — this is a stimulative stance, as seen during COVID accommodative policy."
+        },
+        {
+          "statement": "A reduction in the nominal repo rate during a period of simultaneously falling inflation will always result in a more stimulative (lower) real repo rate.",
+          "verdict": "Incorrect",
+          "reason": "If nominal repo rate falls by 50 bps but inflation also falls by 100 bps simultaneously, the real repo rate actually rises (becomes less stimulative or more contractionary). The net effect on the real rate depends on the relative magnitudes of change in the nominal rate and inflation."
+        },
+        {
+          "statement": "Under the Flexible Inflation Targeting framework, the RBI deliberately targets a negative real repo rate as the long-run equilibrium condition to sustain growth.",
+          "verdict": "Incorrect",
+          "reason": "FIT framework requires RBI to maintain positive real interest rates to preserve credibility and anchor inflation expectations. Negative real rates were a COVID-era emergency, not the targeted long-run equilibrium."
+        }
+      ],
+      "strong_distractor": "b — Option b (statement 2 only) is a strong distractor because Statement 2's trap requires mathematical reasoning about relative magnitudes, and students who identify it as incorrect may miss Statement 3's more subtle error about FIT's long-run target.",
+      "elimination_logic": [
+        "The question asks which statements are NOT correct — identify the false ones.",
+        "Statement 1: Real rate = Nominal − CPI; negative = stimulative — this is definitionally correct. Statement 1 is not the answer.",
+        "Statement 2: Claims a nominal rate cut 'always' results in a more stimulative real rate — 'always' is false. If inflation falls faster than the nominal rate, real rate rises. Statement 2 is NOT correct.",
+        "Statement 3: Claims FIT targets a NEGATIVE real rate as the long-run equilibrium — false. FIT mandates positive real rates; negative real rates were a deliberate emergency COVID response, not a permanent target. Statement 3 is NOT correct.",
+        "Statements 2 and 3 are both NOT correct — answer is option (d): 2 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 uses 'always' — the classic scope-extension trap. The real rate depends on relative changes in both the nominal rate and inflation. Statement 3's trap is subtler: negative real rates WERE observed during COVID, so students assume they represent RBI's preferred stance. In fact, they were a deliberate emergency deviation; FIT mandates positive real rates as the credibility anchor. Both traps require precise quantitative and policy reasoning.",
+      "final_explanation": "The real repo rate is the inflation-adjusted cost of borrowing — the monetary signal that actually governs economic behaviour.\n\n• Statement 1 — Correct: Real Repo Rate = Nominal Repo Rate − CPI. A negative real rate means inflation exceeds the nominal rate — borrowing in real terms is free or subsidised, stimulating economic activity. This was RBI's deliberate COVID stance.\n• Statement 2 — Incorrect: 'Always' makes this false. If nominal rate falls by 25 bps but inflation simultaneously falls by 75 bps, the real rate rises by 50 bps — making policy more contractionary even as the nominal rate dropped.\n• Statement 3 — Incorrect: FIT mandates RBI to maintain positive real interest rates as its long-run credibility anchor. Negative real rates during COVID were an emergency accommodation, explicitly acknowledged as temporary — not the long-run FIT equilibrium.\n\nValue Addition:\n• RBI targets CPI inflation at 4% (±2%) under FIT — a positive real rate requires the nominal repo rate to exceed 4%.\n• During COVID (2020–21), with repo at 4% and CPI often above 5%, real repo rate was negative.\n• Positive real rates discourage capital outflows and maintain currency stability alongside inflation control."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the real policy repo rate and its role in India's monetary policy framework:\n\n1. The real repo rate is calculated by subtracting the prevailing CPI inflation rate from the nominal policy repo rate; a negative real repo rate indicates a stimulative monetary stance.\n2. A reduction in the nominal repo rate during a period of simultaneously falling inflation will always result in a more stimulative (lower) real repo rate.\n3. Under the Flexible Inflation Targeting framework, the RBI deliberately targets a negative real repo rate as the long-run equilibrium condition to sustain growth.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ede5ec67-5595-4b53-9f39-8532fa759c69",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Open Market Operations (OMO) vs. Repo: Complementary Liquidity Tools"
+      ],
+      "subject_que_no": 4669,
+      "overall_que_no": 12016
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "conflation",
+      "concept_anchor": "OMO permanent vs. repo temporary liquidity; VRR market-determined",
+      "statement_analysis": [
+        {
+          "statement": "When RBI purchases government securities through Open Market Operations, it injects permanent liquidity into the banking system by crediting banks' reserve accounts.",
+          "verdict": "Correct",
+          "reason": "OMO purchase is an outright transaction — RBI buys G-Secs permanently, creating a lasting increase in bank reserves. This distinguishes OMO from repo, where the transaction is always reversed at maturity."
+        },
+        {
+          "statement": "Both repo operations and OMO purchases involve government securities, but repo liquidity injection is temporary while OMO injection is permanent.",
+          "verdict": "Correct",
+          "reason": "This is the fundamental operational distinction: repo involves a repurchase agreement (temporary, reversed at maturity); OMO involves outright purchase (permanent, no reversal)."
+        },
+        {
+          "statement": "Variable Rate Repo (VRR) operations allow the market to determine the interest rate through an auction mechanism, unlike Fixed Rate Repo where RBI announces the rate.",
+          "verdict": "Correct",
+          "reason": "VRR is conducted as an auction — banks bid for funds at rates they choose; RBI sets a cutoff. Fixed Rate Repo is at the announced policy repo rate without any bidding. VRR is used for longer tenors (14-day, 28-day)."
+        },
+        {
+          "statement": "A reduction in the CRR injects temporary liquidity into the banking system in the same way a repo injection does, as both are eventually reversed by RBI.",
+          "verdict": "Incorrect",
+          "reason": "CRR reduction injects permanent liquidity — the released funds remain with banks indefinitely unless CRR is subsequently raised. Repo injection is temporary (reversed at maturity). These are not equivalent."
+        }
+      ],
+      "strong_distractor": "d — 'All four' is the dominant distractor; statements 1, 2, and 3 are all correct, and the error in statement 4 requires precise recall that CRR changes create permanent (not temporary) liquidity.",
+      "elimination_logic": [
+        "Evaluate Statement 4: it equates CRR reduction with repo injection as both 'temporary' — this is false. CRR reduction is permanent; repo is temporary. Statement 4 is incorrect.",
+        "Statements 1, 2, and 3 are all factually accurate regarding OMO permanence, repo temporariness, and VRR auction mechanism.",
+        "Three statements correct, one incorrect — answer is 'Only three' = option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 4 conflates CRR and repo as both temporary — exploiting students who group all 'liquidity tools' together. The permanence/temporariness distinction is the key differentiator: OMO and CRR cuts create permanent liquidity; repo and reverse repo are temporary. Students who remember that 'repo is temporary' may apply this label broadly to all RBI tools without distinguishing CRR's permanent effect.",
+      "final_explanation": "OMO and Repo are both government-security-based tools but operate on fundamentally different timeframes.\n\n• Statement 1 — Correct: OMO purchase creates permanent reserves — no reversal mechanism exists.\n• Statement 2 — Correct: Both use G-Secs, but repo is always reversed (repurchase obligation); OMO is permanent.\n• Statement 3 — Correct: VRR uses competitive auction (market determines rate); Fixed Rate Repo uses the announced policy rate.\n• Statement 4 — Incorrect: CRR reduction releases funds permanently into the banking system. It is not reversed automatically like a repo. Repo is temporary; CRR change is permanent — the opposite of what Statement 4 claims.\n\nValue Addition:\n• RBI uses OMO sales (selling G-Secs) to permanently absorb liquidity during excess liquidity conditions.\n• VRR has become increasingly common as RBI manages durable liquidity with market-determined pricing.\n• The combination of CRR cuts (permanent) + repo (temporary) allows RBI to calibrate both the baseline and day-to-day liquidity levels independently."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "How many of the following statements about Open Market Operations, Repo, and related liquidity tools are correct?",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "When RBI purchases government securities through Open Market Operations, it injects permanent liquidity into the banking system by crediting banks' reserve accounts."
+          ],
+          [
+            "2",
+            "Both repo operations and OMO purchases involve government securities, but repo liquidity injection is temporary while OMO injection is permanent."
+          ],
+          [
+            "3",
+            "Variable Rate Repo (VRR) operations allow the market to determine the interest rate through an auction mechanism, unlike Fixed Rate Repo where RBI announces the rate."
+          ],
+          [
+            "4",
+            "A reduction in the CRR injects temporary liquidity into the banking system in the same way a repo injection does, as both are eventually reversed by RBI."
+          ]
+        ],
+        "footer_text": "(a) Only one\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ef2b24e9-b64b-412c-9b6b-d237a846008e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Historical Context: Repo and Reverse Repo Rate Trends and Crisis Response"
+      ],
+      "subject_que_no": 4670,
+      "overall_que_no": 12017
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Repo rate historical trajectory — GFC, COVID low, 2022-23 hike cycle",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c places COVID low before GFC response, which students who vaguely recall 'RBI cut rates sharply twice — 2009 and 2020' may accept without checking the direction of movement.",
+      "elimination_logic": [
+        "The post-GFC (2008) RBI cut repo from ~9% to 4.75% by 2009 — this precedes all other events chronologically. It must come first.",
+        "COVID-19 response brought repo to a historic low of 4% in May 2020 — this follows the GFC response and the subsequent rate normalization cycle. It is the second event.",
+        "The 2022–23 rate hike cycle (repo raised from 4% to 6.5%) is the most recent event — it follows the COVID low.",
+        "Correct order: GFC response (2009 low at 4.75%) → COVID-19 historic low (4% in May 2020) → 2022–23 rate hike cycle. This is option (b)."
+      ],
+      "upsc_trap_explanation": "The temporal trap is the 4% vs. 4.75% confusion — students may not recall that the COVID repo rate (4%) was actually lower than the post-GFC low (4.75%), making COVID the 'historic low.' Option (c) exploits those who chronologically misplace the two crisis responses. The hike cycle's endpoint (6.5%) is a data point that confirms the sequence's direction — upward after the COVID trough.",
+      "final_explanation": "RBI's rate history through crisis periods reveals the pattern of aggressive cuts followed by normalization.\n\nCorrect chronological order:\n1. Post-GFC response (2008–09): Repo cut from ~9% to 4.75% — the first major crisis-driven rate cut cycle.\n2. COVID-19 historic low (May 2020): Repo cut further to 4% — a new all-time low, below the GFC trough.\n3. 2022–23 rate hike cycle: Repo raised from 4% to 6.5% in response to post-pandemic inflation surge.\n\n• Option (a): Incorrect — places the 2022–23 hike before COVID low, reversing the sequence.\n• Option (b): Correct — GFC trough (4.75%) → COVID trough (4%) → rate hike cycle (6.5%).\n• Option (c): Incorrect — places COVID response before GFC response, reversing the chronology.\n• Option (d): Incorrect — inverted sequence starting from the hike cycle.\n\nValue Addition:\n• The COVID repo cut of 4% was achieved via two actions: a 75 bps cut in March 2020 and a 40 bps off-cycle cut in May 2020.\n• The 2022 hike cycle began with an off-cycle emergency 40 bps hike in May 2022 — mirroring the COVID cut pattern.\n• The off-cycle May 2020 cut involved the RBI Governor announcing the decision via video conference — the first such announcement."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of the policy repo rate reaching its respective notable levels during major macroeconomic episodes?\n\n1. Repo rate cut to a then-historic low of 4.75% in response to the Global Financial Crisis\n2. Repo rate raised from 4% to 6.5% during the post-pandemic inflation tightening cycle\n3. Repo rate cut to a historic low of 4% during the COVID-19 pandemic response\n\n(a) 1 → 3 → 2 only if considering the post-2015 period\n(b) 1 → 3 → 2\n(c) 3 → 1 → 2\n(d) 2 → 1 → 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d359353e-c4f5-4352-9c87-27dbf3ca1b52",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Reverse Repo Rate Asymmetric Cut: COVID-Era Policy Innovation"
+      ],
+      "subject_que_no": 4671,
+      "overall_que_no": 12018
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Asymmetric COVID corridor — reverse repo cut more than repo to force lending",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (both correct, but R does not explain A) is the secondary distractor for students who understand the asymmetric cut but misread the causal relationship between widening the corridor and incentivising lending.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — During COVID, RBI cut reverse repo by 90 bps (from 4.25% to 3.35%) versus 40 bps for repo (from 4.40% to 4%). This widened the LAF corridor from 25 bps to 65 bps. A is factually correct.",
+        "Step 2: Is Reason (R) correct? — The stated rationale for the asymmetric cut was precisely to disincentivise banks from parking surplus funds with RBI and nudge them toward productive lending. R is factually correct.",
+        "Step 3: Does R causally explain A? — Yes. The reason RBI deliberately cut reverse repo more than repo was to make parking with RBI less rewarding, creating a policy nudge toward lending. R is the direct policy rationale for the asymmetric action described in A.",
+        "Both A and R are correct, and R is the correct explanation of A — answer is option (a)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap operates in options (c) and (d): students may think 'A is correct but R is wrong because RBI widened the corridor to improve monetary transmission, not to discourage parking.' But both are describing the same mechanism from different angles — discouraging parking IS the mechanism for forcing lending, and the 90 bps vs. 40 bps numbers confirm A. The option (b) trap is for students who know both facts are true but assume the causal link is incidental rather than intentional policy design.",
+      "final_explanation": "The COVID-era asymmetric corridor widening is one of the most innovative and UPSC-relevant episodes in recent RBI history.\n\nAssertion (A): Correct. RBI cut the reverse repo rate by 90 bps (to 3.35%) compared to only 40 bps for the repo rate (to 4%). This deliberately widened the LAF corridor from the standard 25 bps to 65 bps — a non-standard, emergency configuration.\n\nReason (R): Correct. The explicit policy rationale was to reduce the attractiveness of parking excess funds with RBI. Banks were sitting on large surpluses and preferring the risk-free reverse repo return. By cutting that return sharply, RBI made it less appealing — nudging banks to deploy funds into credit markets instead.\n\nCausal link: R directly explains A. The asymmetric cut was a deliberate design choice — its purpose (discouraging parking, incentivising lending) is exactly what Reason R describes.\n\nCorrect option: (a) — Both A and R are correct, and R is the correct explanation of A.\n\nValue Addition:\n• The asymmetric corridor is NOT a standard feature — normal corridor width = 50 bps symmetric around repo.\n• The COVID widening created a 'penalty' on safety-seeking behaviour by banks.\n• This is an example of unconventional monetary policy — using rate structure rather than rate level to achieve a specific behavioural outcome."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): During the COVID-19 pandemic response, the Reserve Bank of India reduced the reverse repo rate by 90 basis points while simultaneously reducing the policy repo rate by only 40 basis points, deliberately widening the LAF corridor beyond its standard width.\n\nReason (R): The asymmetric reduction was intended to make it less rewarding for commercial banks to park surplus funds with the RBI, thereby creating a policy incentive for banks to deploy liquidity into productive credit channels.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b1f78c20-c5eb-47e9-8793-e7f3458ebcb0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Asset Price Inflation: Beyond CPI Targeting"
+      ],
+      "subject_que_no": 4672,
+      "overall_que_no": 12019
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "RBI mandate limited to CPI — asset prices outside repo rate targeting scope",
+      "statement_analysis": [
+        {
+          "statement": "Statement 1: Prolonged periods of low policy repo rates can contribute to asset price bubbles in sectors such as real estate and equity markets even when headline CPI inflation remains within the target band.",
+          "verdict": "Correct",
+          "reason": "Low borrowing costs channel funds into risk assets when consumer inflation is controlled — this is a recognised policy blind spot under pure CPI-targeting frameworks. The disconnect between low CPI and rising asset prices is empirically well-documented."
+        },
+        {
+          "statement": "Statement 2: The Reserve Bank of India explicitly uses the policy repo rate as a direct instrument to target and control stock market valuations and housing price indices as part of its Flexible Inflation Targeting mandate.",
+          "verdict": "Incorrect",
+          "reason": "FIT mandates CPI as the anchor — not asset prices. RBI does NOT use the repo rate to target stock market or housing price levels. Macroprudential tools (LTV ratios, sectoral risk weights) are used to address asset-side risks, not the repo rate."
+        }
+      ],
+      "strong_distractor": "a — Option a (both correct) is deceptive because Statement 1 accurately describes an economic phenomenon and students may assume RBI's awareness of asset bubbles means it also targets them via repo — which is precisely what Statement 2 falsely asserts.",
+      "elimination_logic": [
+        "Statement 1 describes an economic reality — low rates and asset bubbles coexisting with controlled CPI — this is correct.",
+        "Statement 2 claims repo rate is used to 'directly target' stock market valuations and housing indices under FIT — FIT is explicitly CPI-anchored; asset prices are NOT part of the RBI's repo rate targeting mandate.",
+        "Statement 1 correct, Statement 2 incorrect — answer is option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 2 adds 'explicitly' and names stock markets and housing — making it sound like a natural extension of RBI's inflation mandate. Students who know RBI worries about asset bubbles may assume it formally targets them. The critical distinction: RBI acknowledges asset price risks but uses macroprudential tools (LTV, risk weights, sectoral caps) to address them, NOT the repo rate. The repo rate targets CPI exclusively under FIT.",
+      "final_explanation": "The tension between CPI targeting and asset price stability is a known limitation of the FIT framework.\n\n• Statement 1 — Correct: Low repo rates, by making borrowing cheap, can inflate asset prices (stocks, real estate) even when consumer goods inflation is controlled. Central banks globally have faced this challenge post-2008 and post-COVID.\n• Statement 2 — Incorrect: RBI's FIT mandate is anchored to CPI — 4% ±2%. Stock market and housing price indices are not part of this mandate. RBI uses macroprudential tools like Loan-to-Value (LTV) ratios and sectoral risk weight adjustments to address asset-side risks, not the repo rate.\n\nValue Addition:\n• Macroprudential tools vs. monetary policy: LTV caps limit borrowing against collateral; risk weights on housing loans make lending costlier — these are targeted, not blunt instruments.\n• The global debate post-2008: Should central banks 'lean against the wind' (raise rates to prevent bubbles) or restrict to CPI mandate?\n• India's FIT framework (2016) explicitly defines the mandate as CPI ±2% around 4% — asset prices are outside this legal definition."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the relationship between the policy repo rate and asset price dynamics:\n\nStatement 1: Prolonged periods of low policy repo rates can contribute to asset price bubbles in sectors such as real estate and equity markets even when headline CPI inflation remains within the target band.\n\nStatement 2: The Reserve Bank of India explicitly uses the policy repo rate as a direct instrument to target and control stock market valuations and housing price indices as part of its Flexible Inflation Targeting mandate.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ff1e5717-4baf-4010-9275-7dd13607af57",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate Changes: Frequency, Quantum and Forward Guidance"
+      ],
+      "subject_que_no": 4673,
+      "overall_que_no": 12020
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "conflation",
+      "concept_anchor": "Stance change vs. rate change — distinct signals; off-cycle MPC meetings possible",
+      "statement_analysis": [
+        {
+          "statement": "The Monetary Policy Committee meets on a bi-monthly schedule, and changes to the policy repo rate are announced only at these scheduled meetings — emergency or off-cycle rate changes are not permissible under the RBI Act.",
+          "verdict": "Incorrect",
+          "reason": "Off-cycle emergency MPC meetings are permissible and have occurred — the May 2020 off-cycle repo rate cut during COVID is a documented example. The RBI Act does not prohibit off-cycle meetings in extraordinary circumstances."
+        },
+        {
+          "statement": "A change in the Monetary Policy Committee's stated policy stance — for example, from 'accommodative' to 'neutral' — does not necessarily indicate that a change in the policy repo rate has occurred or is imminent.",
+          "verdict": "Correct",
+          "reason": "Stance and rate are distinct signals. The stance communicates the direction of future intent; a stance change can occur at a meeting where the rate is left unchanged. 'Neutral' means the MPC sees risks as balanced — not that a hike or cut has occurred."
+        },
+        {
+          "statement": "Policy repo rate changes by the MPC are typically made in multiples of 25 basis points, though the actual quantum in any given meeting is determined by majority vote.",
+          "verdict": "Correct",
+          "reason": "25 bps is the conventional increment — both rate cuts and hikes follow this convention. In rare cases (e.g., May 2020 off-cycle: 40 bps; some 2022 hikes: 50 bps), larger steps have been taken. The quantum is determined by MPC vote, not by a fixed rule."
+        }
+      ],
+      "strong_distractor": "c — Option c (2 and 3 only) is correct but students may doubt statement 3 because they recall the non-standard quantum cuts/hikes (40 bps, 50 bps) and wonder whether '25 bps is typical' is accurate enough to call it correct.",
+      "elimination_logic": [
+        "Statement 1 claims off-cycle meetings are 'not permissible' — this is demonstrably false; the May 2020 off-cycle COVID cut is evidence. Eliminate any option that includes Statement 1 as correct.",
+        "Eliminate options (a) and (b) which include Statement 1.",
+        "Statements 2 and 3 are both factually accurate — stance ≠ rate change; 25 bps is the typical quantum.",
+        "Correct answer: 2 and 3 only = option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 1 conflates the routine schedule with a hard prohibition. Students know MPC meets bi-monthly and may assume this is a statutory constraint. The May 2020 off-cycle emergency meeting (announced via video conference) is the counter-evidence. The RBI Act allows the MPC to convene in extraordinary circumstances — this is an important procedural detail that separates exam-ready candidates from those who only know the routine.",
+      "final_explanation": "MPC's operating procedures have both routine features and emergency flexibilities that are separately testable.\n\n• Statement 1 — Incorrect: Off-cycle MPC meetings are permissible. In May 2020, RBI Governor convened an off-cycle meeting and announced a 40 bps repo cut via video conference — a real precedent that disproves the 'not permissible' claim.\n• Statement 2 — Correct: Stance and rate are independent signals. A meeting can produce a stance change with no rate change (e.g., moving from 'accommodative' to 'neutral' while holding the rate). 'Withdrawal of Accommodation' is not a rate hike.\n• Statement 3 — Correct: 25 bps is the conventional increment for MPC rate decisions. Non-standard quanta (40 bps, 50 bps) have been used in exceptional circumstances, but 25 bps remains the norm.\n\nValue Addition:\n• Forward guidance (communicating future stance) is an important tool in itself — it shapes market expectations without requiring an actual rate change.\n• The May 2022 emergency meeting hiked repo by 40 bps — another off-cycle precedent post-COVID.\n• Bi-monthly meetings = 6 meetings per financial year; schedule published in advance on RBI website."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the Monetary Policy Committee's operational procedures and forward guidance mechanism:\n\n1. The Monetary Policy Committee meets on a bi-monthly schedule, and changes to the policy repo rate are announced only at these scheduled meetings — emergency or off-cycle rate changes are not permissible under the RBI Act.\n2. A change in the Monetary Policy Committee's stated policy stance — for example, from 'accommodative' to 'neutral' — does not necessarily indicate that a change in the policy repo rate has occurred or is imminent.\n3. Policy repo rate changes by the MPC are typically made in multiples of 25 basis points, though the actual quantum in any given meeting is determined by majority vote.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f8fb2368-5c3b-4983-add4-df6d9aad5f09",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Transmission Mechanism: How Repo Rate Changes Affect the Economy",
+        "Repo Rate and Economic Growth: Accommodative vs. Restrictive Stance"
+      ],
+      "subject_que_no": 4674,
+      "overall_que_no": 12021
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "EBLR as direct repo-linked transmission; asymmetric pass-through in cuts vs. hikes",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a ('transmission is now instantaneous and complete') is the strongest distractor because students know EBLR is directly linked to repo rate and assume this means full and immediate pass-through — EBLR speeds transmission but does not make it perfect.",
+      "elimination_logic": [
+        "Identify the specific policy change: shift to EBLR in 2019. EBLR directly links retail lending rates (home, auto, MSME loans) to the external benchmark (repo rate).",
+        "Eliminate option a — 'instantaneous and complete' transmission is false even under EBLR; banks can adjust spreads and operational costs create lags. EBLR improved but did not perfect transmission.",
+        "Eliminate option c — EBLR applies to retail loans (home, auto, personal, MSME); large corporate loans may still use MCLR or fixed rates. Claiming all loans are covered overstates the policy.",
+        "Eliminate option d — EBLR was introduced to IMPROVE transmission (reduce the lag and asymmetry), not to eliminate the repo rate's relevance as the policy signal.",
+        "Option b correctly captures: EBLR improved transmission speed and symmetry for retail segments by mandatorily linking lending rates to repo, but structural lags and spread adjustments mean transmission remains imperfect. Option (b)."
+      ],
+      "upsc_trap_explanation": "Option a is a partial truth — EBLR did dramatically improve transmission for retail loans, and the direct linkage to repo is real. But 'instantaneous and complete' is an overstatement that the asymmetric transmission problem disproves. Banks still adjust spreads (risk premiums, operational costs) even under EBLR, and the pass-through for corporate lending (which may use MCLR or fixed rates) remains slower. A student who knows EBLR = repo-linked may not have internalised the residual imperfection.",
+      "final_explanation": "The External Benchmark Lending Rate (EBLR) was RBI's 2019 intervention to fix India's historically poor monetary transmission — the problem of banks not passing repo rate changes to borrowers promptly.\n\nScenario analysis: A bank with a large home loan portfolio MUST reset its EBLR-linked rates within 3 months of any repo rate change. For repo-cut periods, EBLR mandates faster pass-through than the old MCLR regime.\n\n• Option (a): Incorrect — 'instantaneous and complete' is false. Even EBLR-linked loans have a reset lag (up to 3 months). Banks adjust spreads (risk premium, operating cost margin) — these are not fixed to repo. Full and perfect transmission still does not occur.\n• Option (b): Correct — EBLR materially improved transmission speed and reduced the asymmetry (especially for rate cuts), but structural factors mean transmission remains imperfect — spread adjustments, credit risk premiums, and non-EBLR loan segments all contribute to residual imperfection.\n• Option (c): Incorrect — EBLR is mandated for retail loans (home, auto, personal, MSME credit). Large corporates may still negotiate MCLR or fixed-rate agreements.\n• Option (d): Incorrect — EBLR reinforces the repo rate as the operative benchmark, not reduces its relevance.\n\nValue Addition:\n• EBLR can be repo rate, 3-month T-Bill rate, or 6-month T-Bill rate — but repo rate is the most commonly chosen external benchmark.\n• Banks must reset EBLR-linked loans at least once every 3 months.\n• Asymmetric transmission: under the old MCLR regime, banks passed on hikes faster than cuts — EBLR was designed to remedy this."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A large public sector bank holds a significant portfolio of home loans, automobile loans, and MSME credit facilities, all of which were originated after October 2019 and are linked to an external benchmark under the RBI's mandatory External Benchmark Lending Rate (EBLR) framework. The Monetary Policy Committee has just announced a 50 basis point reduction in the policy repo rate.\n\nWhich of the following best describes the transmission implications for this bank's borrowers?\n\n(a) The EBLR framework ensures instantaneous and complete transmission — all borrowers will see their equated monthly instalments reduced by an amount exactly proportional to the 50 basis point cut immediately upon the MPC announcement\n(b) EBLR has materially improved the speed and symmetry of rate transmission for the bank's retail borrowers compared to the earlier MCLR regime, but structural factors such as spread adjustments and reset periods mean that transmission remains imperfect rather than fully automatic\n(c) All of the bank's loan exposures — including large corporate facilities — will be immediately repriced downward by 50 basis points since EBLR applies uniformly across all loan categories without exception\n(d) The EBLR system reduces the relevance of the policy repo rate for this bank's lending decisions, since the actual lending rate is now determined by Treasury Bill rates rather than RBI's policy rate",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c734b4fd-d18f-4e77-8b14-e5c68d9c6b90",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Inflation Control: Contractionary Monetary Policy",
+        "Flexible Inflation Targeting"
+      ],
+      "subject_que_no": 4675,
+      "overall_que_no": 12022
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "FIT framework — CPI target 4% ±2%; repo rate as primary instrument",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a ('WPI at 5% ±2%') is the distractor because students sometimes confuse WPI and CPI as the inflation anchor, and 5% sounds plausible as a slightly higher threshold.",
+      "elimination_logic": [
+        "Eliminate option a — WPI is not the inflation anchor under FIT; CPI is the designated target, and the target is 4%, not 5%.",
+        "Eliminate option b — 'Core CPI at 4% ±1%' is incorrect; the legal target is headline CPI (not core CPI) at 4% ±2%.",
+        "Eliminate option d — 'GDP deflator' is an academic price measure, not used in India's FIT framework; the tolerance band of ±3% is also incorrect.",
+        "Option c correctly states: headline CPI at 4% with a tolerance band of ±2% (i.e., 2% to 6% acceptable range)."
+      ],
+      "upsc_trap_explanation": "The WPI/CPI confusion is a classic UPSC distractor in monetary policy questions. Pre-2016 FIT, WPI was more commonly discussed as the inflation indicator, making 'WPI at 5% ±2%' feel familiar and plausible. The FIT framework precisely specifies headline CPI (not core, not WPI, not GDP deflator) at 4% with a ±2% band. Each element — the price index, the level, and the tolerance band — is a separate testable dimension.",
+      "final_explanation": "The Flexible Inflation Targeting framework was formalised through an amendment to the RBI Act in 2016, giving RBI a legislated inflation mandate.\n\n• Option (a): Incorrect — WPI is not the FIT anchor. The specified measure is CPI (Consumer Price Index), reflecting retail prices faced by consumers. Also, the target is 4%, not 5%.\n• Option (b): Incorrect — 'Core CPI' (which excludes food and fuel) is not the target. The FIT framework uses headline CPI. The tolerance band is ±2%, not ±1%.\n• Option (c): Correct — Headline CPI at 4% ±2% (lower tolerance 2%, upper tolerance 6%). Failure to maintain this for three consecutive quarters triggers accountability: MPC must write to the government explaining the breach.\n• Option (d): Incorrect — GDP deflator is an academic construct; it is not used in India's FIT framework. The ±3% band described is also incorrect.\n\nValue Addition:\n• Inflation target is reviewed every 5 years — current mandate was renewed for 2021–2026.\n• The upper bound (6%) breach triggers MPC's written explanation to the government.\n• RBI Governor chairs the MPC — in case of a tie in voting, the Governor's vote is decisive."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under India's Flexible Inflation Targeting framework, the Reserve Bank of India is legally mandated to maintain ________ as the primary price stability objective, with the policy repo rate as the principal instrument to achieve this goal.\n\n(a) Wholesale Price Index inflation at 5 per cent with a tolerance band of ±2 per cent\n(b) Core Consumer Price Index inflation at 4 per cent with a tolerance band of ±1 per cent\n(c) Headline Consumer Price Index inflation at 4 per cent with a tolerance band of ±2 per cent\n(d) GDP deflator at 4 per cent with a tolerance band of ±3 per cent",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "50551b90-4beb-402d-b581-5ebe37d6be44",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate: Definition, Mechanism and Collateral Framework",
+        "CRR and SLR: Distinction from Repo and Reverse Repo as Liquidity Tools"
+      ],
+      "subject_que_no": 4676,
+      "overall_que_no": 12023
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Eligible collateral under LAF — G-Secs, T-Bills, SDLs only",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c ('Commercial paper — eligible collateral under LAF repo') is deceptive because commercial paper is a short-term debt instrument familiar from money markets, and students may assume RBI accepts it under repo as a liquidity tool for shorter-maturity instruments.",
+      "elimination_logic": [
+        "Recall eligible securities under LAF repo: Central Government dated securities (G-Secs), Treasury Bills (T-Bills), and State Development Loans (SDLs).",
+        "Eliminate option c — commercial paper is a private sector instrument; it is NOT eligible as collateral under LAF repo operations.",
+        "Eliminate option a — corporate bonds are not eligible LAF repo collateral regardless of rating.",
+        "Eliminate option d — SDLs are eligible, but the pair claims they are ineligible, making option d incorrectly matched.",
+        "Option b — Treasury Bills as eligible collateral under LAF — is correctly matched."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap inserts commercial paper (a real, short-term, widely traded instrument) into the list of LAF-eligible securities. Students who know 'repo uses short-term securities' may extend this to commercial paper without checking that only government-backed instruments qualify. The LAF framework is strict: only G-Secs, T-Bills, and SDLs. Private sector instruments — no matter their rating or tenor — are not eligible.",
+      "final_explanation": "LAF repo eligibility is restricted to sovereign or quasi-sovereign instruments. This ensures credit risk-free collateral in the RBI-bank transaction.\n\n• Option (a): Incorrectly matched — corporate bonds, regardless of rating, are not eligible under LAF repo. Only government securities qualify.\n• Option (b): Correctly matched — Treasury Bills (issued by the Central Government) are specifically listed as eligible collateral under LAF repo operations.\n• Option (c): Incorrectly matched — commercial paper is a private sector money market instrument and is not eligible as LAF repo collateral. The trap is the short-term nature making it seem plausible.\n• Option (d): Incorrectly matched — State Development Loans (SDLs) ARE eligible collateral under LAF. The pair falsely claims they are ineligible.\n\nValue Addition:\n• T-Bills have maturities of 91, 182, and 364 days — all eligible under LAF.\n• SDLs are state government borrowings managed through RBI's auction mechanism.\n• The credit risk-free nature of eligible collateral protects RBI from counterparty default — a key design principle."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched with respect to the eligibility of securities as collateral under the Liquidity Adjustment Facility repo operations conducted by the Reserve Bank of India?\n\n(a) AAA-rated corporate bonds — eligible collateral under LAF repo operations because of their high credit quality\n(b) Treasury Bills — eligible collateral under LAF repo operations as they are government-backed short-term instruments\n(c) Commercial paper — eligible collateral under LAF repo operations since it is a short-term money market instrument\n(d) State Development Loans — not eligible as collateral under LAF repo operations as they carry state government credit risk",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b625fd3d-8cc6-49b7-9850-300829e13620",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Monetary Policy Committee (MPC): Who Decides the Repo Rate",
+        "Policy Repo Rate as the Benchmark: Signal vs. Operational Rate"
+      ],
+      "subject_que_no": 4677,
+      "overall_que_no": 12024
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "MPC composition — 3 RBI + 3 government nominees; Governor has casting vote",
+      "statement_analysis": [
+        {
+          "statement": "The Monetary Policy Committee consists of six members — three officials nominated by the Reserve Bank of India and three external members nominated by the Central Government.",
+          "verdict": "Correct",
+          "reason": "Section 45ZB of the RBI Act specifies exactly six members: the RBI Governor, the Deputy Governor (monetary policy), one RBI officer nominated by the Central Board, and three external members nominated by the Central Government."
+        },
+        {
+          "statement": "In the event of a tied vote within the MPC, the decision is made by drawing lots from among the majority faction, as no single member is granted a decisive vote.",
+          "verdict": "Incorrect",
+          "reason": "In the event of a tie, the RBI Governor has a second (casting) vote — a decisive tiebreaker vote. Lots are not drawn; the Governor's vote resolves the deadlock."
+        },
+        {
+          "statement": "The MPC's mandate extends to deciding the policy repo rate but does not include operational decisions such as changes to the Cash Reserve Ratio or Statutory Liquidity Ratio.",
+          "verdict": "Correct",
+          "reason": "MPC's statutory role is limited to determining the policy repo rate. CRR and SLR are statutory reserve tools that remain with RBI's internal governance — they are not MPC decisions."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three) is a strong distractor because statements 1 and 3 are correct and students who are unsure about the tiebreaker mechanism may default to 'all correct' rather than identifying statement 2 as the error.",
+      "elimination_logic": [
+        "Identify the false statement: Statement 2 claims 'lots are drawn' in case of a tie — this is false. The RBI Governor holds a casting vote as the tiebreaker under Section 45ZB. Eliminate any option including Statement 2 as correct.",
+        "Eliminate options (b) and (d) which include Statement 2.",
+        "Statements 1 and 3 are both correct — 6-member composition and MPC's limited mandate (repo only, not CRR/SLR).",
+        "Correct answer: 1 and 3 only = option (a)."
+      ],
+      "upsc_trap_explanation": "The tiebreaker mechanism is a low-visibility procedural detail that students either know precisely or guess incorrectly. 'Lots drawn' sounds procedurally neutral and quasi-democratic — students unfamiliar with Section 45ZB's casting vote provision may find it plausible. The Governor's casting vote is the actual mechanism and is a frequently targeted UPSC data point because it contradicts the assumption that all six votes are equal.",
+      "final_explanation": "MPC composition and procedural rules are standard UPSC targets in monetary policy questions.\n\n• Statement 1 — Correct: MPC has 6 members — 3 from RBI (Governor, Deputy Governor for monetary policy, one RBI officer) and 3 external members nominated by the Central Government. External members serve 4-year terms and are not eligible for reappointment.\n• Statement 2 — Incorrect: The tiebreaker is not lots. Under Section 45ZB, the RBI Governor has a second (casting) vote in the event of a tie — giving the Governor effectively decisive power in deadlock situations.\n• Statement 3 — Correct: MPC's mandate is confined to the policy repo rate. CRR and SLR remain under RBI's internal decision-making authority — a deliberate separation to prevent the external nominees from having authority over statutory reserve requirements.\n\nValue Addition:\n• External MPC members are selected by a search committee headed by the Cabinet Secretary.\n• All MPC members must maintain confidentiality of deliberations until the resolution is published.\n• Dissenting members can record their votes — MPC votes and individual positions are published."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the composition and mandate of the Monetary Policy Committee:\n\n1. The Monetary Policy Committee consists of six members — three officials nominated by the Reserve Bank of India and three external members nominated by the Central Government.\n2. In the event of a tied vote within the MPC, the decision is made by drawing lots from among the majority faction, as no single member is granted a decisive vote.\n3. The MPC's mandate extends to deciding the policy repo rate but does not include operational decisions such as changes to the Cash Reserve Ratio or Statutory Liquidity Ratio.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9638c6c7-5bde-45ef-83f0-abdd6a8a527a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Economic Growth: Accommodative vs. Restrictive Stance",
+        "Repo Rate and Inflation Control: Contractionary Monetary Policy"
+      ],
+      "subject_que_no": 4678,
+      "overall_que_no": 12025
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Stagflation — conflict between growth and inflation mandates under FIT",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (both correct, R explains A) is the primary distractor because students may reason: 'FIT mandates inflation control, so RBI will always prioritise rate hikes during high inflation regardless of growth — R explains A.'",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. Under stagflation (high inflation + slow growth), raising repo rate controls inflation but suppresses investment and growth — this is a genuine policy dilemma documented in monetary economics.",
+        "Step 2: Is Reason (R) correct? — No. R states that FIT requires RBI to prioritise growth over inflation when both rise simultaneously. This is false. FIT gives primacy to the inflation target (CPI 4% ±2%); growth is not the primary mandate, though RBI takes it into account. The FIT framework does NOT instruct RBI to prioritise growth over inflation.",
+        "Step 3: Causal check is irrelevant since R is incorrect.",
+        "A is correct, R is incorrect — answer is option (c)."
+      ],
+      "upsc_trap_explanation": "Option a is a reversed-causation trap: students know both inflation control and growth matter, and they may assume FIT somehow balances both equally. FIT is explicitly an inflation-first framework — price stability is the primary mandate. Growth considerations are secondary and do not override the inflation target. R misstates the hierarchy by claiming growth is prioritised during stagflation — this is factually wrong under India's FIT design.",
+      "final_explanation": "Stagflation — simultaneous high inflation and low growth — is the hardest monetary policy scenario because the standard cure for each problem worsens the other.\n\nAssertion (A): Correct. Raising the repo rate to combat high inflation in a stagflationary environment will dampen investment and consumption, compressing GDP growth further. This is a documented policy dilemma — the RBI's contractionary tool works against the growth objective simultaneously.\n\nReason (R): Incorrect. The Flexible Inflation Targeting framework establishes price stability (CPI at 4% ±2%) as the PRIMARY mandate. RBI is NOT instructed to prioritise growth over inflation when both are problematic — it is mandated to anchor inflation first. Growth is a secondary consideration; the law does not rank it above inflation control.\n\nCorrect option: (c) — A is correct, R is incorrect.\n\nValue Addition:\n• Under FIT, if inflation breaches 6% for three consecutive quarters, MPC must submit a report to the government — the inflation mandate is legally enforced.\n• The RBI Act specifies that FIT operates 'subject to the objective of growth' — this does not mean growth takes priority; it acknowledges the dual consideration.\n• The 2022 rate hike cycle (from 4% to 6.5%) demonstrated RBI choosing inflation control even amid growth concerns — consistent with FIT's hierarchy."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): In a stagflationary environment — where both inflation is elevated and economic growth is slowing simultaneously — raising the policy repo rate creates a policy dilemma because the contractionary action needed to control inflation may simultaneously suppress investment and further weaken economic growth.\n\nReason (R): The Flexible Inflation Targeting framework governing the RBI's mandate requires the Monetary Policy Committee to prioritise economic growth over inflation control when both challenges arise simultaneously, in order to prevent output contraction.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f03a12f2-db75-456b-b6dc-76d6bf7f72f9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Open Market Operations (OMO) vs. Repo: Complementary Liquidity Tools",
+        "CRR and SLR: Distinction from Repo and Reverse Repo as Liquidity Tools"
+      ],
+      "subject_que_no": 4679,
+      "overall_que_no": 12026
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "Temporary vs. permanent liquidity — OMO, CRR, Repo, SDF correctly classified",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b swaps CRR reduction and OMO purchase descriptions, exploiting students who know both inject liquidity but confuse which is permanent vs. which has a collateral/securities dimension.",
+      "elimination_logic": [
+        "Anchor on the clearest match: SDF (D) absorbs without collateral — description 4 (absorption without providing securities). Fix D-4.",
+        "CRR reduction (B) releases permanently held reserves — no securities involved, no reversal mechanism — description 2 (permanent injection without securities). Fix B-2.",
+        "OMO Purchase (A) involves RBI buying G-Secs permanently — description 1 (permanent injection via outright purchase of government securities). Fix A-1.",
+        "Repo (C) is temporary with repurchase obligation — description 3 (temporary injection reversed at maturity). Fix C-3. Correct matching: A-1, B-2, C-3, D-4 = option (d)."
+      ],
+      "upsc_trap_explanation": "OMO and CRR are both permanent liquidity tools but differ in mechanism — OMO uses government securities; CRR is a reserve ratio change with no security transaction. Students who group them as 'both permanent' without the securities distinction will swap A and B. The conflation works because the outcome (permanent liquidity) is the same, but the mechanism is fundamentally different — which is what the matching question tests.",
+      "final_explanation": "The four tools in this question represent the full spectrum of RBI's liquidity management architecture, classified by permanence and mechanism.\n\n• A (OMO Purchase) → 1: RBI buys G-Secs permanently from the market — permanent liquidity injection through outright securities purchase. No reversal at maturity.\n• B (CRR Reduction) → 2: Lowering CRR releases reserves previously locked with RBI permanently — banks can now lend those funds. No securities transaction; purely a reserve ratio change.\n• C (Repo) → 3: Banks sell G-Secs to RBI with a buyback obligation at maturity — temporary liquidity injection that is automatically reversed. The defining temporary-reversible tool.\n• D (SDF) → 4: RBI absorbs funds from banks without giving any collateral — uncollateralised absorption, the post-2022 effective floor.\n\nTrap pairing: A and B are both permanent injection tools — the trap is confusing securities-based (OMO) with reserve-ratio-based (CRR).\n\nValue Addition:\n• OMO can also work in reverse (OMO sales) to permanently absorb liquidity.\n• CRR currently does not earn interest for banks — hence cutting CRR is an earnings-positive event for banks.\n• The combination of OMO + CRR manages structural liquidity; repo + SDF manages day-to-day (frictional) liquidity."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Monetary instrument) with List II (Nature of liquidity impact):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Open Market Operations (Purchase)",
+            "1. Permanent liquidity injection through the outright purchase of government securities from the market"
+          ],
+          [
+            "B. Cash Reserve Ratio Reduction",
+            "2. Permanent liquidity injection through release of previously locked reserves, without any government securities transaction"
+          ],
+          [
+            "C. Repo Operation",
+            "3. Temporary liquidity injection that is automatically reversed at the maturity of the repurchase agreement"
+          ],
+          [
+            "D. Standing Deposit Facility",
+            "4. Liquidity absorption from banks without the RBI providing any government securities as collateral"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-2, B-1, C-3, D-4\n(b) A-2, B-1, C-4, D-3\n(c) A-1, B-3, C-2, D-4\n(d) A-1, B-2, C-3, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e86fd094-158d-4424-ac1a-9037d4cb883f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Reverse Repo Rate: Definition and Directional Logic",
+        "Standing Deposit Facility (SDF): New Floor of LAF Corridor"
+      ],
+      "subject_que_no": 4680,
+      "overall_que_no": 12027
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "SDF replaced reverse repo as operative LAF floor post-April 2022",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (reverse repo as current floor) represents the pre-2022 understanding that remains deeply embedded in most standard textbooks; students who have not updated their knowledge to April 2022 will confidently select this.",
+      "elimination_logic": [
+        "The question asks about the CURRENT effective floor — the key word is 'currently.' Post April 2022, SDF replaced reverse repo as the operative floor.",
+        "Eliminate option a — reverse repo was the floor before April 2022; it has been operationally displaced by SDF.",
+        "Eliminate option c — MSF is the CEILING, not the floor, of the LAF corridor.",
+        "Eliminate option d — the repo rate itself is the central policy rate, not the floor.",
+        "Option b (SDF) is the correct current effective floor of the LAF corridor."
+      ],
+      "upsc_trap_explanation": "This is a pure temporal-swap trap. Before April 2022, the reverse repo rate WAS the floor — and most pre-2022 study materials state this. Students who revised from older sources will select option a with high confidence. The SDF's introduction in April 2022 is a post-syllabus-freeze development that UPSC has incorporated into its question pattern. Knowing that SDF replaced reverse repo as the operative floor — and why (uncollateralised, more flexible) — is the precise update that distinguishes recent, rigorous preparation.",
+      "final_explanation": "The LAF corridor's floor underwent a structural change in April 2022 with the Standing Deposit Facility.\n\n• Option (a): Incorrect as of April 2022. The reverse repo rate was the operative floor until SDF was introduced. Post-SDF, reverse repo is formally retained but operationally sidelined.\n• Option (b): Correct — SDF rate = Repo − 25 bps; since April 2022, it has functioned as the effective lower boundary of the LAF corridor.\n• Option (c): Incorrect — MSF rate = Repo + 25 bps; it is the CEILING of the LAF corridor, not the floor.\n• Option (d): Incorrect — the policy repo rate is the central reference point, not the floor.\n\nValue Addition:\n• SDF's key advantage: allows unlimited liquidity absorption without needing G-Secs collateral on hand.\n• The shift to SDF reflected RBI's need to absorb the massive excess liquidity created by COVID-era stimulus without balance sheet constraints.\n• Reverse repo rate (3.35% as of its last operative setting) technically still exists but is not the primary absorption tool."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following currently serves as the effective lower boundary (floor) of the Liquidity Adjustment Facility interest rate corridor maintained by the Reserve Bank of India?\n\n(a) The Reverse Repo Rate, at which commercial banks park surplus funds with the RBI against government securities\n(b) The Standing Deposit Facility Rate, at which the RBI absorbs excess liquidity from commercial banks without providing collateral\n(c) The Marginal Standing Facility Rate, which provides an emergency borrowing window for commercial banks\n(d) The Policy Repo Rate, which serves as the benchmark reference point for all monetary policy decisions",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f048face-a6fb-4cdb-b274-f4f8bb80814d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Historical Context: Repo and Reverse Repo Rate Trends and Crisis Response",
+        "Reverse Repo Rate Asymmetric Cut: COVID-Era Policy Innovation"
+      ],
+      "subject_que_no": 4681,
+      "overall_que_no": 12028
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "COVID repo at 4%; reverse repo asymmetric cut to 3.35%; 2022-23 hike to 6.5%",
+      "statement_analysis": [
+        {
+          "statement": "The policy repo rate reached its historic low of 4 per cent in May 2020 during the COVID-19 pandemic — a rate lower than any point reached during the post-Global Financial Crisis easing cycle.",
+          "verdict": "Correct",
+          "reason": "Repo was cut to 4% in May 2020 (off-cycle meeting), which was indeed lower than the post-GFC low of approximately 4.75% reached in 2009 — making it a historic low at that time."
+        },
+        {
+          "statement": "During the COVID-19 response, the reverse repo rate was reduced to 3.35 per cent — a cut of 90 basis points from its pre-COVID level — deliberately exceeding the reduction applied to the policy repo rate.",
+          "verdict": "Correct",
+          "reason": "Repo was cut by 40 bps (from 4.40% to 4%); reverse repo was cut by 90 bps (from 4.25% to 3.35%). The asymmetric cut was deliberate — to disincentivise banks from parking funds with RBI."
+        },
+        {
+          "statement": "The post-COVID rate hike cycle brought the policy repo rate to 6 per cent by the end of the 2022–23 financial year, restoring it to the pre-COVID level prevailing in early 2020.",
+          "verdict": "Incorrect",
+          "reason": "The rate hike cycle raised repo to 6.5% (not 6%) by February 2023. The pre-COVID repo rate was approximately 5.15% — so 6.5% exceeded the pre-COVID level, not merely restored it."
+        },
+        {
+          "statement": "The widening of the LAF corridor during COVID — from the standard 50 basis points to approximately 65 basis points — was a result of the asymmetric reduction of reverse repo rate relative to the repo rate.",
+          "verdict": "Correct",
+          "reason": "Standard corridor: 25 bps below and above repo = 50 bps total. After cuts: repo at 4% and reverse repo at 3.35% = 65 bps gap (reverse repo 65 bps below repo). This widening was the direct arithmetic consequence of the asymmetric cut."
+        }
+      ],
+      "strong_distractor": "d — 'All four' is the dominant distractor; statements 1, 2 and 4 are correct. The error in statement 3 requires knowing the precise rate (6.5%, not 6%) and the pre-COVID level (~5.15%), which is a numerical precision test.",
+      "elimination_logic": [
+        "Evaluate Statement 3: 'repo raised to 6 per cent by end of 2022-23' — incorrect on two counts. The rate reached 6.5% (not 6%), and the pre-COVID rate was ~5.15% (not 6%), so it exceeded the pre-COVID level rather than restoring it. Statement 3 is incorrect.",
+        "Statements 1, 2, and 4 are all factually accurate — 4% COVID low, 3.35% reverse repo, 65 bps widened corridor.",
+        "Three correct, one incorrect — answer is 'Only three' = option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3 has a double error: the rate number (6% vs. 6.5%) and the characterisation ('restoring pre-COVID level' when repo actually surpassed it). Students who remember 'rates were hiked after COVID' may accept 6% as close enough without checking precision. The 'restoring pre-COVID level' framing adds a second layer of plausibility — since it sounds like a return to normalcy. Both errors require precise historical data recall.",
+      "final_explanation": "COVID-era monetary policy produced two innovations: a historic rate low and an asymmetric corridor — both UPSC-relevant.\n\n• Statement 1 — Correct: 4% repo in May 2020 was India's lowest policy rate on record at that time, below the post-GFC trough of ~4.75%.\n• Statement 2 — Correct: Reverse repo cut by 90 bps to 3.35%; repo cut by 40 bps to 4%. Deliberate asymmetry to nudge banks into lending.\n• Statement 3 — Incorrect: The hike cycle reached 6.5% by February 2023 — not 6%. The pre-COVID repo was ~5.15% — so 6.5% EXCEEDED the pre-COVID level by over 100 bps, rather than merely restoring it.\n• Statement 4 — Correct: Gap between repo (4%) and reverse repo (3.35%) = 65 bps — versus the standard 25 bps spread, the corridor widened to 65 bps total (not the usual 50 bps symmetric corridor).\n\nValue Addition:\n• The 2022 off-cycle emergency hike (40 bps in May 2022) mirrored the 2020 off-cycle emergency cut in structure.\n• Reverse repo at 3.35% was the lowest level ever for that rate.\n• Each subsequent 2022–23 MPC meeting hiked by 50 bps until 35 bps and 25 bps increments signalled approaching terminal rate."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "How many of the following statements about the RBI's interest rate actions during and after the COVID-19 pandemic are correct?",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "The policy repo rate reached its historic low of 4 per cent in May 2020 during the COVID-19 pandemic — a rate lower than any point reached during the post-Global Financial Crisis easing cycle."
+          ],
+          [
+            "2",
+            "During the COVID-19 response, the reverse repo rate was reduced to 3.35 per cent — a cut of 90 basis points from its pre-COVID level — deliberately exceeding the reduction applied to the policy repo rate."
+          ],
+          [
+            "3",
+            "The post-COVID rate hike cycle brought the policy repo rate to 6 per cent by the end of the 2022–23 financial year, restoring it to the pre-COVID level prevailing in early 2020."
+          ],
+          [
+            "4",
+            "The widening of the LAF corridor during COVID — from the standard 50 basis points to approximately 65 basis points — was a result of the asymmetric reduction of reverse repo rate relative to the repo rate."
+          ]
+        ],
+        "footer_text": "(a) Only one\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f8ec8901-c0ce-4b0c-a773-bd3d5d6fc851",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate Impact on Exchange Rate and Capital Flows",
+        "Real Repo Rate vs. Nominal Repo Rate"
+      ],
+      "subject_que_no": 4682,
+      "overall_que_no": 12029
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Real repo rate rising while nominal falls — contractionary effect in high-inflation context",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a ('monetary stance is expansionary because repo rate fell') is the partial-truth trap: the nominal rate did fall, which is usually expansionary — but if inflation fell faster, the real rate rose, making the stance contractionary in real terms.",
+      "elimination_logic": [
+        "Calculate the real repo rate before: Nominal (6%) − Inflation (2%) = real rate of +4%.",
+        "Calculate the real repo rate after: Nominal (5.5%) − Inflation (0.5%) = real rate of +5%.",
+        "Despite the nominal rate falling by 50 bps, the real rate ROSE by 100 bps (from +4% to +5%) because inflation fell even faster than the nominal rate cut.",
+        "A rising real repo rate means the monetary stance became MORE contractionary (tighter in real terms), even though the nominal rate was cut. Option (d) correctly identifies this."
+      ],
+      "upsc_trap_explanation": "This is the precise UPSC trap identified in the real repo rate key_dimensions: 'A LOWER nominal repo rate during HIGH inflation can still be contractionary in real terms if real rate rises.' The scenario reverses this: a lower nominal rate + even lower inflation = rising real rate = more contractionary. Students who anchor on the nominal rate cut and categorise it as 'expansionary' without computing the real rate will select option (a). The question tests whether candidates have truly internalised the real vs. nominal distinction.",
+      "final_explanation": "This scenario tests the most counterintuitive aspect of real vs. nominal interest rate analysis.\n\nKey calculation:\n• Before: Real repo rate = 6% − 2% = +4%\n• After: Real repo rate = 5.5% − 0.5% = +5%\n\nThe nominal repo rate fell by 50 bps — superficially expansionary. But inflation fell by 150 bps simultaneously (2% → 0.5%), causing the real repo rate to RISE by 100 bps (4% → 5%). A higher real repo rate means borrowing is more expensive in inflation-adjusted terms — monetary policy became MORE restrictive despite the nominal cut.\n\n• Option (a): Incorrect — anchors on nominal rate only; ignores the larger fall in inflation that raised the real rate.\n• Option (b): Incorrect — accommodative stance requires a declining real rate; the real rate rose.\n• Option (c): Incorrect — the stance was not unchanged; it became materially tighter in real terms.\n• Option (d): Correct — the real repo rate rose from 4% to 5%, indicating a contractionary shift despite the nominal rate reduction.\n\nValue Addition:\n• This scenario illustrates why RBI monitors real interest rates alongside nominal rates under FIT.\n• During COVID, nominal repo was at 4% and CPI was often above 6% — real rate was negative (stimulative).\n• The Taylor Rule (prescribes optimal real policy rates based on output and inflation gaps) uses real — not nominal — rates as its core variable."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following macroeconomic scenario: The Reserve Bank of India reduces the policy repo rate from 6 per cent to 5.5 per cent. Simultaneously, the Consumer Price Index (CPI) inflation rate declines from 2 per cent to 0.5 per cent over the same period due to a favourable monsoon and declining global commodity prices.\n\nWhich of the following correctly characterises the change in India's monetary policy stance in real terms after these developments?\n\n(a) The monetary policy stance has become more expansionary because the nominal policy repo rate has been reduced by 50 basis points\n(b) The monetary policy stance has become accommodative since both the nominal repo rate and inflation have declined together\n(c) The monetary policy stance has remained broadly neutral since both the repo rate and inflation moved downward by similar magnitudes\n(d) The monetary policy stance has effectively become more contractionary in real terms despite the nominal rate cut, because the real repo rate rose as inflation declined faster than the nominal rate",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "662bfc14-6ea4-48ee-8676-2923b140f863",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate: Definition, Mechanism and Collateral Framework",
+        "Reverse Repo Rate: Definition and Directional Logic",
+        "Liquidity Adjustment Facility (LAF): The Operational Framework"
+      ],
+      "subject_que_no": 4683,
+      "overall_que_no": 12030
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "Repo vs. reverse repo direction — who borrows from whom",
+      "statement_analysis": [
+        {
+          "statement": "Under a repo transaction conducted within the Liquidity Adjustment Facility, the Reserve Bank of India sells government securities to commercial banks and agrees to buy them back at a lower price, thereby injecting liquidity into the banking system.",
+          "verdict": "Incorrect",
+          "reason": "The direction is reversed. Under repo, it is the commercial BANKS that sell securities to RBI (not RBI selling to banks) and agree to buy them back. RBI is the buyer/lender; banks are the sellers/borrowers. The buyback price is HIGHER (not lower) than the sale price — the difference represents the repo rate interest."
+        },
+        {
+          "statement": "The Liquidity Adjustment Facility serves as both a liquidity injection mechanism (through repo) and a liquidity absorption mechanism (through reverse repo/SDF), giving the RBI a bidirectional toolkit for daily cash management.",
+          "verdict": "Correct",
+          "reason": "This precisely describes LAF's dual function — repo injects and reverse repo/SDF absorbs, making it a complete bidirectional liquidity management framework for RBI."
+        },
+        {
+          "statement": "A bank experiencing a temporary surplus of funds beyond its daily operational requirements would approach the RBI's repo window to earn interest on that surplus.",
+          "verdict": "Incorrect",
+          "reason": "A bank with SURPLUS funds would use the reverse repo window (or SDF) — not the repo window. The repo window is for banks that NEED funds; the reverse repo/SDF window is for banks that HAVE excess funds and want to park them with RBI to earn interest."
+        }
+      ],
+      "strong_distractor": "c — Option c (statements 1 and 2) as the NOT-correct pair would mislead students who correctly identify Statement 1 as wrong but mistakenly also flag Statement 2 as incorrect because they confuse 'LAF as rate' with 'LAF as framework.'",
+      "elimination_logic": [
+        "The question asks which are NOT correct — identify the false statements.",
+        "Statement 1: Describes RBI selling to banks at a lower buyback price — both the direction (banks sell to RBI, not vice versa) and the price direction (buyback is higher, not lower) are wrong. Statement 1 is NOT correct.",
+        "Statement 2: Correctly describes LAF as bidirectional. Statement 2 IS correct, so it should not be in the answer.",
+        "Statement 3: A surplus bank would use reverse repo/SDF, NOT repo. Statement 3 is NOT correct.",
+        "Statements 1 and 3 are NOT correct — answer is option (b): 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 1 contains a double error — the direction of the securities transfer AND the price direction (lower vs. higher). Students who know 'repo involves government securities and RBI' may not catch that the seller/buyer roles are reversed, or may correctly identify the direction but miss the 'lower price' error. Statement 3 exploits the word 'surplus' — students should know that surplus banks go to reverse repo/SDF, not repo. Conflating the two windows is the core trap.",
+      "final_explanation": "Understanding the precise direction of repo and reverse repo transactions prevents the most common errors in monetary policy questions.\n\n• Statement 1 — Incorrect (double error): (i) It is commercial banks that sell securities to RBI — not RBI selling to banks. (ii) The buyback price is HIGHER, not lower — the difference between buyback price and sale price IS the interest (repo rate). A lower buyback price would mean banks profit from the transaction, which is the opposite of the interest-payment reality.\n• Statement 2 — Correct: LAF is precisely a bidirectional toolkit — repo for injection (when banks need funds) and reverse repo/SDF for absorption (when banks have surplus funds).\n• Statement 3 — Incorrect: A bank with surplus funds accesses the reverse repo window (or SDF post-2022) to PARK funds with RBI and earn interest. The repo window is for banks that are SHORT of funds and need to borrow.\n\nValue Addition:\n• Memory anchor: Repo = banks need money → sell securities to RBI; Reverse Repo = banks have excess money → park it with RBI.\n• The direction of securities flow: Repo: Bank → RBI (securities); RBI → Bank (cash). Reverse Repo: RBI → Bank (securities); Bank → RBI (cash).\n• Post-SDF, banks parking surplus funds get no securities in return — the uncollateralised design of SDF."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about repo, reverse repo, and the Liquidity Adjustment Facility:\n\n1. Under a repo transaction conducted within the Liquidity Adjustment Facility, the Reserve Bank of India sells government securities to commercial banks and agrees to buy them back at a lower price, thereby injecting liquidity into the banking system.\n2. The Liquidity Adjustment Facility serves as both a liquidity injection mechanism (through repo) and a liquidity absorption mechanism (through reverse repo/SDF), giving the RBI a bidirectional toolkit for daily cash management.\n3. A bank experiencing a temporary surplus of funds beyond its daily operational requirements would approach the RBI's repo window to earn interest on that surplus.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 3 only\n(b) 1 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2a60bb8a-5709-450a-bc8e-4227945eff5b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Economic Growth: Accommodative vs. Restrictive Stance",
+        "Repo Rate Changes: Frequency, Quantum and Forward Guidance"
+      ],
+      "subject_que_no": 4684,
+      "overall_que_no": 12031
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "'Withdrawal of accommodation' ≠ rate hike — stance vs. rate are distinct signals",
+      "statement_analysis": [
+        {
+          "statement": "Statement 1: When the Monetary Policy Committee changes its stance to 'Withdrawal of Accommodation,' it signals that the next policy action will be a reduction in the policy repo rate to further support economic recovery.",
+          "verdict": "Incorrect",
+          "reason": "Withdrawal of Accommodation signals the OPPOSITE — it indicates that the next action is unlikely to be a rate cut, and future moves will be tilted toward normalisation or tightening. It does NOT signal a rate reduction."
+        },
+        {
+          "statement": "Statement 2: A monetary policy stance of 'Accommodative' indicates that the MPC is biased toward rate cuts in future meetings, though it does not guarantee a rate reduction at every subsequent meeting.",
+          "verdict": "Correct",
+          "reason": "Accommodative stance signals a cutting bias — the MPC is more likely to reduce rates than hold or hike in upcoming meetings. However, the stance is a directional signal, not a commitment to cut at every meeting."
+        }
+      ],
+      "strong_distractor": "a — Wait, correct option is (a): Statement 1 incorrect, Statement 2 correct = option (d). Let me recheck: (a) Both correct, (b) Both incorrect, (c) S1 correct S2 incorrect, (d) S1 incorrect S2 correct. Statement 1 is incorrect; Statement 2 is correct. Correct option = (d). [Internal correction: correct_option must be d, not a. Updating.]",
+      "elimination_logic": [
+        "Evaluate Statement 1: 'Withdrawal of Accommodation' signals a rate CUT — this is factually wrong. This stance signals that the MPC is moving away from easy policy; it implies next moves are not cuts. Statement 1 is incorrect.",
+        "Evaluate Statement 2: 'Accommodative' stance = cutting bias, not a guarantee of cuts at every meeting — this is precisely the correct interpretation of forward guidance. Statement 2 is correct.",
+        "Statement 1 incorrect, Statement 2 correct — answer is option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the most common 'Withdrawal of Accommodation' misconception: students hear 'accommodation' and think removing the stance means doing the opposite (i.e., cutting rates to restore accommodation). In fact, the phrase means RBI is withdrawing ITS accommodative position — moving away from easy policy. The stance signals the MPC's bias for future actions, not a commitment to immediately reverse course. This is one of the most frequently tested monetary policy language traps in recent UPSC papers.",
+      "final_explanation": "Monetary policy stance language is a separate testable dimension from rate decisions themselves.\n\n• Statement 1 — Incorrect: 'Withdrawal of Accommodation' does NOT signal a rate cut — it signals the opposite. The MPC is communicating that it intends to move away from its easy-money position. The next action under this stance is more likely to be a hold or hike than a cut. Students who read 'withdrawal = removing the tightening' make this error.\n• Statement 2 — Correct: 'Accommodative' stance means the MPC has a bias toward rate cuts. However, forward guidance is a bias indicator — not a promise. The MPC may hold rates at an accommodative-stance meeting if incoming data warrants caution.\n\nValue Addition:\n• Stance spectrum (loosest to tightest): Accommodative → Neutral → Calibrated Tightening / Withdrawal of Accommodation.\n• RBI adopted 'Withdrawal of Accommodation' in June 2022 and began rate hikes — but the stance itself preceded the first hike by a meeting.\n• Forward guidance reduces market uncertainty — even without a rate change, a stance shift moves bond yields and exchange rates."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about monetary policy stance terminology used by the Reserve Bank of India's Monetary Policy Committee:\n\nStatement 1: When the Monetary Policy Committee changes its stance to 'Withdrawal of Accommodation,' it signals that the next policy action will be a reduction in the policy repo rate to further support economic recovery.\n\nStatement 2: A monetary policy stance of 'Accommodative' indicates that the MPC is biased toward rate cuts in future meetings, though it does not guarantee a rate reduction at every subsequent meeting.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "74d220b1-8f4c-4b13-9a0e-aa53e99f8f92",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Economic Growth: Accommodative vs. Restrictive Stance",
+        "Repo Rate Changes: Frequency, Quantum and Forward Guidance"
+      ],
+      "subject_que_no": 4685,
+      "overall_que_no": 12032
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "'Withdrawal of accommodation' ≠ rate hike — stance vs. rate are distinct signals",
+      "statement_analysis": [
+        {
+          "statement": "Statement 1: When the Monetary Policy Committee changes its stance to 'Withdrawal of Accommodation,' it signals that the next policy action will be a reduction in the policy repo rate to further support economic recovery.",
+          "verdict": "Incorrect",
+          "reason": "Withdrawal of Accommodation signals the OPPOSITE — it indicates that the next action is unlikely to be a rate cut, and future moves will be tilted toward normalisation or tightening. It does NOT signal a rate reduction."
+        },
+        {
+          "statement": "Statement 2: A monetary policy stance of 'Accommodative' indicates that the MPC is biased toward rate cuts in future meetings, though it does not guarantee a rate reduction at every subsequent meeting.",
+          "verdict": "Correct",
+          "reason": "Accommodative stance signals a cutting bias — the MPC is more likely to reduce rates than hold or hike in upcoming meetings. However, the stance is a directional signal, not a commitment to cut at every meeting."
+        }
+      ],
+      "strong_distractor": "a — Option a ('both correct') is the strongest distractor; students who know 'Accommodative = rate cuts likely' (Statement 2) are correct but then assume the converse — Withdrawal of Accommodation = more rate cuts — completing a false symmetry.",
+      "elimination_logic": [
+        "Evaluate Statement 1: 'Withdrawal of Accommodation' signals a rate CUT — this is factually wrong. This stance signals that the MPC is moving away from easy policy; next moves are NOT cuts. Statement 1 is incorrect.",
+        "Evaluate Statement 2: 'Accommodative' stance = cutting bias, not a guarantee of cuts at every meeting — this is the precise correct interpretation. Statement 2 is correct.",
+        "Statement 1 incorrect, Statement 2 correct — answer is option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the most common 'Withdrawal of Accommodation' misconception: students hear 'accommodation' and think removing the stance means doing the opposite (cutting rates to restore accommodation). In fact, the phrase means RBI is withdrawing ITS accommodative position — moving away from easy policy. This is one of the most frequently tested monetary policy language traps in recent UPSC discussions.",
+      "final_explanation": "Monetary policy stance language is separately testable from rate decisions themselves.\n\n• Statement 1 — Incorrect: 'Withdrawal of Accommodation' does NOT signal a rate cut. The MPC communicates it is moving away from its easy-money position — next action is more likely to be a hold or hike, not a cut.\n• Statement 2 — Correct: 'Accommodative' means the MPC has a bias toward rate cuts. Forward guidance is a bias indicator — not a promise. MPC may hold rates even at an accommodative-stance meeting if data warrants caution.\n\nValue Addition:\n• Stance spectrum (loosest to tightest): Accommodative → Neutral → Calibrated Tightening/Withdrawal of Accommodation.\n• RBI adopted 'Withdrawal of Accommodation' in June 2022 — the stance shift preceded the first hike by one meeting cycle.\n• Even a stance change (without rate change) moves bond yields and exchange rates — forward guidance is a monetary tool itself."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about monetary policy stance terminology used by the Reserve Bank of India's Monetary Policy Committee:\n\nStatement 1: When the Monetary Policy Committee changes its stance to 'Withdrawal of Accommodation,' it signals that the next policy action will be a reduction in the policy repo rate to further support economic recovery.\n\nStatement 2: A monetary policy stance of 'Accommodative' indicates that the MPC is biased toward rate cuts in future meetings, though it does not guarantee a rate reduction at every subsequent meeting.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ff0ad2b5-0359-40ca-9181-6c0b7b7f1603",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Marginal Standing Facility (MSF): The Emergency Borrowing Window",
+        "Repo Rate vs. Bank Rate: Key Distinctions"
+      ],
+      "subject_que_no": 4686,
+      "overall_que_no": 12033
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "MSF allows borrowing against SLR securities — can dip into SLR holdings",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a ('MSF uses identical collateral to repo — G-Secs and T-Bills — but at a higher rate') is deceptive because G-Secs ARE eligible under MSF, but the distinguishing feature is that MSF also allows banks to DIP INTO their SLR holdings as collateral — something repo does not permit.",
+      "elimination_logic": [
+        "Recall the key operational distinction of MSF: banks can borrow under MSF even by pledging securities from their SLR holdings — they can temporarily dip below the mandated SLR. Repo does not allow SLR securities to be used in this way.",
+        "Eliminate option a — while G-Secs are eligible under both, option a misses the SLR dipping feature that makes MSF uniquely flexible.",
+        "Eliminate option b — MSF provides liquidity TO banks (banks borrow from RBI), not the other way around. B reverses the direction.",
+        "Eliminate option d — MSF rate is NOT equal to the repo rate; it is Repo + 25 bps (higher than repo, forming the ceiling).",
+        "Option c correctly states the MSF's distinguishing feature: banks can borrow against their SLR-eligible securities, including by temporarily falling below their mandatory SLR, within prescribed limits."
+      ],
+      "upsc_trap_explanation": "Option a is the entity-swap trap — it states G-Secs are the collateral (true, but incomplete) while omitting the SLR-dipping feature. Students who know 'both repo and MSF involve G-Secs' will select option a as 'close enough.' The precise distinction — that MSF allows banks to temporarily draw down their SLR portfolio as collateral in a way repo does not — is the targeted knowledge. This feature makes MSF a genuine emergency window; banks can access it even when their non-SLR security holdings are exhausted.",
+      "final_explanation": "The Marginal Standing Facility is an emergency borrowing window designed for situations where banks face acute short-term liquidity stress beyond what normal LAF repo can address.\n\n• Option (a): Incorrect — while G-Secs and T-Bills are eligible under MSF, this option omits MSF's defining feature: banks can borrow by dipping into their SLR portfolios (up to a specified limit), which repo does not allow.\n• Option (b): Incorrect — MSF is a window through which banks BORROW from RBI, not the reverse. The direction of lending is Bank (borrower) ← RBI (lender).\n• Option (c): Correct — MSF allows banks to borrow overnight at Repo + 25 bps and can use SLR-eligible securities as collateral, with the permitted facility of temporarily breaching SLR levels within defined limits.\n• Option (d): Incorrect — MSF rate = Repo + 25 bps (the ceiling of the LAF corridor), not equal to the repo rate.\n\nValue Addition:\n• The limit up to which banks can dip into SLR securities under MSF has varied — RBI has increased/decreased this limit during liquidity stress events.\n• MSF was raised temporarily during demonetisation (2016) and COVID (2020) to provide emergency liquidity headroom.\n• Bank Rate = MSF Rate since 2012 — this is a frequently tested equivalence."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following most accurately describes the distinguishing operational feature of the Marginal Standing Facility (MSF) as compared to the standard repo operations under the Liquidity Adjustment Facility?\n\n(a) The MSF uses identical collateral to repo — government securities and Treasury Bills — but charges a higher interest rate, making it a more expensive version of the same instrument\n(b) The MSF allows the Reserve Bank of India to borrow overnight funds from commercial banks at a penal rate that is higher than the policy repo rate\n(c) The MSF enables commercial banks to borrow overnight funds from RBI against SLR-eligible securities, including by temporarily drawing down their mandatory Statutory Liquidity Ratio holdings within permitted limits\n(d) The MSF rate is set equal to the policy repo rate but applies only to borrowings that exceed a bank's normal daily liquidity requirements",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "04843e46-f865-4f53-9236-da83d386d75d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Policy Repo Rate as the Benchmark: Signal vs. Operational Rate",
+        "Monetary Policy Committee (MPC): Who Decides the Repo Rate"
+      ],
+      "subject_que_no": 4687,
+      "overall_que_no": 12034
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Urjit Patel Committee 2014 — FIT, WACR as target, single operating target",
+      "statement_analysis": [
+        {
+          "statement": "The Urjit Patel Committee (2014) recommended that the policy repo rate be made the single operating target of monetary policy, replacing the earlier practice of targeting multiple rates simultaneously.",
+          "verdict": "Correct",
+          "reason": "The Urjit Patel Committee recommended making the repo rate the single policy rate around which the LAF corridor is built, with WACR as the operational target — replacing the earlier multiple-indicator approach."
+        },
+        {
+          "statement": "Following the Urjit Patel Committee's recommendations, the Weighted Average Call Rate (WACR) became the operational target that RBI intervenes daily to keep anchored close to the policy repo rate.",
+          "verdict": "Correct",
+          "reason": "WACR — the overnight uncollateralised inter-bank lending rate — is the operational target. RBI uses LAF instruments daily to keep WACR near the repo rate, signalling the effective cost of overnight funds."
+        },
+        {
+          "statement": "The Y.H. Malegam Committee (2014) recommended the adoption of Flexible Inflation Targeting and the formal constitution of the Monetary Policy Committee as a statutory body.",
+          "verdict": "Incorrect",
+          "reason": "The Urjit Patel Committee — not the Y.H. Malegam Committee — made these recommendations. Y.H. Malegam is associated with microfinance sector reviews. This is a plausible-fabrication trap — Malegam Committee sounds authoritative and 2014 is correct, but the attribution is wrong."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three) is the strongest distractor; statements 1 and 2 are correct and the false attribution in Statement 3 to 'Y.H. Malegam Committee' sounds plausible to students who cannot recall the exact committee name.",
+      "elimination_logic": [
+        "Statement 3 attributes FIT and MPC recommendations to 'Y.H. Malegam Committee' — this is false. The Urjit Patel Committee (2014) made these recommendations. Y.H. Malegam is associated with microfinance sector reforms, not monetary policy. Statement 3 is incorrect.",
+        "Eliminate option (d) which includes Statement 3 as correct.",
+        "Statements 1 and 2 are both accurate — Urjit Patel Committee, single target, WACR as operational target.",
+        "Correct answer: 1 and 2 only = option (c)."
+      ],
+      "upsc_trap_explanation": "The Y.H. Malegam Committee is a real RBI committee (it reviewed microfinance regulations in 2011) — making it a plausible-fabrication distractor. Students who cannot recall 'Urjit Patel Committee' but know a Malegam Committee exists may accept the attribution as plausible. The fabrication combines a real committee name with a real year and real policy content, making it one of the harder entity-swap/plausible-fabrication combinations.",
+      "final_explanation": "The 2014 Urjit Patel Committee was a landmark inflection point in India's monetary policy architecture.\n\n• Statement 1 — Correct: Urjit Patel Committee recommended a single operating target framework centred on the repo rate, moving away from multiple rates and multiple indicators.\n• Statement 2 — Correct: WACR (the call money overnight rate) became the operational target — RBI uses daily LAF operations to keep WACR anchored near the repo rate, making the overnight inter-bank market the 'transmission point.'\n• Statement 3 — Incorrect: The recommendation for FIT and the statutory MPC came from the Urjit Patel Committee (2014). The Y.H. Malegam Committee (2011) reviewed the microfinance sector following the Andhra Pradesh MFI crisis — it has no connection to FIT or MPC design.\n\nValue Addition:\n• Urjit Patel was RBI Deputy Governor (Monetary Policy) in 2014 and later became RBI Governor.\n• FIT was formally legislated through RBI Act amendment in 2016 — two years after the committee's recommendation.\n• WACR typically trades within 10–15 bps of the repo rate in normal liquidity conditions — evidence that the LAF corridor works."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the evolution of India's monetary policy operating framework:\n\n1. The Urjit Patel Committee (2014) recommended that the policy repo rate be made the single operating target of monetary policy, replacing the earlier practice of targeting multiple rates simultaneously.\n2. Following the Urjit Patel Committee's recommendations, the Weighted Average Call Rate (WACR) became the operational target that RBI intervenes daily to keep anchored close to the policy repo rate.\n3. The Y.H. Malegam Committee (2014) recommended the adoption of Flexible Inflation Targeting and the formal constitution of the Monetary Policy Committee as a statutory body.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "886bcea8-2a2f-445e-baa0-9525e257c27b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Repo rate and reverse repo rate",
+      "concepts_used": [
+        "Repo Rate and Asset Price Inflation: Beyond CPI Targeting",
+        "Repo Rate and Inflation Control: Contractionary Monetary Policy"
+      ],
+      "subject_que_no": 4688,
+      "overall_que_no": 12035
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Macroprudential tools vs. monetary policy — LTV, risk weights, sectoral caps",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c (sectoral risk weight adjustments) sounds technical and niche; students may assume it belongs to monetary policy (since it is used to control credit) rather than recognising it as a macroprudential tool distinct from the repo rate.",
+      "elimination_logic": [
+        "Identify the category: tools used to address asset price bubbles and financial system risks beyond CPI targeting — these are macroprudential tools used ALONGSIDE the repo rate, not via it.",
+        "Loan-to-Value ratio caps, Sectoral risk weight adjustments, and Counter-cyclical capital buffers are all macroprudential regulatory tools — they operate through banking regulation, not through the interest rate channel.",
+        "Open Market Operations is a monetary policy tool used for liquidity management (buying/selling G-Secs) — it does NOT address asset price bubbles through a regulatory/macroprudential channel.",
+        "OMO is the odd one out — it belongs to monetary policy/liquidity management, not macroprudential regulation designed for asset bubble control."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap works by listing three genuine macroprudential tools (LTV caps, risk weights, counter-cyclical buffers) with one monetary policy tool (OMO). Students who know 'repo rate is not used for asset price control' may be unsure about OMO's category — since OMO involves G-Secs and is conducted by RBI, it sounds like it could fit into the 'asset price management' set. The distinction: OMO manages liquidity (monetary policy); LTV/risk weights/buffers manage credit quality and systemic risk (macroprudential).",
+      "final_explanation": "When RBI addresses asset price bubbles and financial stability risks beyond CPI targets, it uses macroprudential tools — a distinct toolkit from monetary policy rates.\n\n• Option (a) — Loan-to-Value ratio caps: Macroprudential tool; limits how much banks can lend against collateral (e.g., housing). Belongs to this category.\n• Option (b) — Open Market Operations: Monetary policy/liquidity management tool — RBI buys/sells G-Secs to inject or absorb liquidity. This does NOT target asset prices or financial stability risks through a regulatory channel. It is the ODD ONE OUT.\n• Option (c) — Sectoral risk weight adjustments: Macroprudential tool; RBI increases the risk weight on, say, housing loans to make them costlier for banks to hold, cooling that sector. Belongs to this category.\n• Option (d) — Counter-cyclical capital buffers: Macroprudential tool; banks build capital reserves during booms to absorb losses during busts. Belongs to this category.\n\nValue Addition:\n• LTV caps are set sector-by-sector (e.g., housing, gold loans) — RBI has periodically tightened and loosened them.\n• Risk weight increases raise the capital requirement for specific loan categories without changing the overall repo rate.\n• The Basel III framework introduced counter-cyclical capital buffers globally; India's implementation is coordinated by RBI."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT belong to the same category as the others when considered as tools used by the Reserve Bank of India to address financial system risks and asset price pressures that fall outside the scope of the CPI inflation targeting mandate?\n\n(a) Loan-to-Value ratio caps on housing and mortgage lending\n(b) Open Market Operations involving purchase or sale of government securities\n(c) Sectoral risk weight adjustments on specific credit categories such as housing and consumer loans\n(d) Counter-cyclical capital buffer requirements imposed on scheduled commercial banks",
+      "table_data": null
+    }
+  }
+]

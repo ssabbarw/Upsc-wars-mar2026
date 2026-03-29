@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Indices and Reports",
+  "sub_topic": "Human Development Index — components",
+  "concepts": [
+    {
+      "name": "HDI: Definition, Purpose, and Conceptual Foundation",
+      "key_dimensions": [
+        "Distinction between economic growth and human development — HDI as a critique of GDP-centric measurement",
+        "Mahbub ul Haq and Amartya Sen's foundational philosophy: capabilities approach vs. welfare approach",
+        "HDI as a summary measure vs. a comprehensive measure — what it deliberately excludes (inequality, poverty, security)",
+        "UPSC trap: HDI measures average achievements, NOT distribution of development"
+      ]
+    },
+    {
+      "name": "Three Core Dimensions of HDI: Long Life, Knowledge, and Decent Standard of Living",
+      "key_dimensions": [
+        "Exact mapping: Health dimension → Life Expectancy at Birth; Education dimension → two sub-indicators; Income dimension → GNI per capita",
+        "UPSC trap: It is GNI per capita (PPP, USD), NOT GDP per capita — significance of this distinction",
+        "Why these three and not others: normative choice reflecting minimum capabilities for a dignified life",
+        "Each dimension is equally weighted at 1/3 in the final geometric mean — trap: earlier arithmetic mean is no longer used"
+      ]
+    },
+    {
+      "name": "Life Expectancy at Birth: Health Dimension of HDI",
+      "key_dimensions": [
+        "Goalposts: minimum 20 years, maximum 85 years — used for normalization",
+        "What life expectancy captures and what it misses: quality of life, morbidity, disability",
+        "UPSC trap: It is life expectancy AT BIRTH, not healthy life expectancy (HALE) — HALE is used in other indices like GHI",
+        "India-specific: India's life expectancy vs. global average and implications for HDI rank"
+      ]
+    },
+    {
+      "name": "Education Dimension: Mean Years of Schooling (MYS) and Expected Years of Schooling (EYS)",
+      "key_dimensions": [
+        "MYS: average years of education received by people aged 25+; EYS: total years a child of school-entry age can expect to receive",
+        "Weighting: MYS and EYS are equally weighted within the education sub-index (arithmetic mean of their indices)",
+        "UPSC trap: Earlier HDI used Adult Literacy Rate + Gross Enrollment Ratio — this was changed in 2010 revision; current indicators are MYS and EYS",
+        "Goalposts for MYS: 0–15 years; for EYS: 0–18 years — normalization using these fixed goalposts"
+      ]
+    },
+    {
+      "name": "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation",
+      "key_dimensions": [
+        "Why GNI over GDP: GNI captures income of residents regardless of location; more reflective of citizens' actual living standard",
+        "Why logarithm of GNI is used: diminishing returns to income — doubling income does not double human development",
+        "Goalposts: minimum $100, maximum $75,000 (PPP, 2017 constant USD) — UPSC trap: these change across editions",
+        "UPSC trap: earlier HDI used GDP per capita; the shift to GNI per capita (PPP) happened in the 2010 revision"
+      ]
+    },
+    {
+      "name": "Geometric Mean Aggregation: The 2010 Methodological Revision",
+      "key_dimensions": [
+        "Pre-2010: arithmetic mean of three dimension indices — allowed perfect substitutability between dimensions",
+        "Post-2010: geometric mean — imperfect substitutability; a low score in one dimension cannot be fully compensated by another",
+        "UPSC trap: geometric mean penalizes uneven development — a country with balanced scores ranks higher than one with extreme variation even if averages are equal",
+        "Mathematical implication: HDI = (Health Index × Education Index × Income Index)^(1/3)"
+      ]
+    },
+    {
+      "name": "HDI Classification: Very High, High, Medium, and Low Human Development",
+      "key_dimensions": [
+        "Current thresholds: Very High ≥ 0.800; High 0.700–0.799; Medium 0.550–0.699; Low < 0.550",
+        "UPSC trap: India consistently falls in 'Medium Human Development' category — not 'Low'; common confusion",
+        "India's rank vs. score: rank fluctuates more than score due to other countries' improvements",
+        "Significance for policy: classification affects eligibility for certain international financing and development assistance"
+      ]
+    },
+    {
+      "name": "Inequality-Adjusted HDI (IHDI): Concept and Divergence from HDI",
+      "key_dimensions": [
+        "IHDI discounts HDI for inequality within each dimension using the Atkinson inequality measure",
+        "The 'loss' due to inequality: difference between HDI and IHDI expressed as percentage — India's loss is significant",
+        "UPSC trap: IHDI is NOT a separate index but an adjustment to HDI; introduced in 2010 alongside HDI revision",
+        "Key insight: countries with similar HDI can have very different IHDI — inequality matters beyond average achievement"
+      ]
+    },
+    {
+      "name": "Gender Development Index (GDI): HDI Disaggregated by Sex",
+      "key_dimensions": [
+        "GDI = Ratio of female HDI to male HDI — measures gender gaps in human development dimensions",
+        "Five groups based on GDI value: Group 1 (high equality) to Group 5 (low equality)",
+        "UPSC trap: GDI is NOT the same as Gender Inequality Index (GII) — GDI uses HDI components; GII uses different indicators (maternal mortality, adolescent birth rate, parliamentary seats, etc.)",
+        "India's GDI group and what it implies about female vs. male HDI scores across health, education, and income"
+      ]
+    },
+    {
+      "name": "Gender Inequality Index (GII): Components and Contrast with GDI and HDR Indices",
+      "key_dimensions": [
+        "Three dimensions: Reproductive Health (MMR + adolescent birth rate), Empowerment (parliamentary seats + secondary education), Labour Market (LFPR)",
+        "UPSC trap: GII measures LOSS due to gender inequality — higher GII = more inequality = worse outcome; GDI ratio: higher = better",
+        "GII replaced the Gender Empowerment Measure (GEM) and Gender-related Development Index (old GDI) in 2010",
+        "India-specific: India's GII rank is significantly worse than its HDI rank — reproductive health indicators are the major drag"
+      ]
+    },
+    {
+      "name": "Multidimensional Poverty Index (MPI): Relationship with HDI",
+      "key_dimensions": [
+        "MPI dimensions: Health (nutrition, child mortality), Education (years of schooling, school attendance), Living Standards (6 indicators: cooking fuel, sanitation, water, electricity, housing, assets)",
+        "UPSC trap: MPI is published in Human Development Report but is NOT a component of HDI; it is a separate complementary measure",
+        "MPI vs. income poverty: MPI captures simultaneous deprivations; a person may be above income poverty line but multidimensionally poor",
+        "Global MPI (UNDP + OPHI) vs. National MPI (NITI Aayog for India) — India developed its own national MPI with different indicators"
+      ]
+    },
+    {
+      "name": "Human Development Report (HDR): Publishing Body, Frequency, and Independence",
+      "key_dimensions": [
+        "Published annually by UNDP's Human Development Report Office (HDRO) — UPSC trap: NOT directly by UNDP headquarters, but by a semi-independent HDRO",
+        "First HDR published in 1990 — the inaugural report introduced the HDI concept",
+        "Each HDR has a thematic focus beyond ranking (e.g., climate change and human development, inequality, etc.)",
+        "UPSC trap: HDR is an INDEPENDENT report — the views expressed do not necessarily represent UNDP or UN official positions"
+      ]
+    },
+    {
+      "name": "Planetary Pressures-Adjusted HDI (PHDI): The Sustainability Dimension",
+      "key_dimensions": [
+        "Introduced in HDR 2020 — adjusts HDI downward based on a country's CO2 emissions per capita and material footprint per capita",
+        "UPSC trap: PHDI penalizes high-income countries disproportionately — some 'Very High HDI' countries drop significantly when planetary pressure is factored in",
+        "Reflects the tension between human development and environmental sustainability",
+        "India's PHDI vs. HDI: relatively small gap because India's per capita emissions and material footprint are low — a rare positive for India"
+      ]
+    },
+    {
+      "name": "Normalization Formula in HDI: Goalposts and Dimension Index Calculation",
+      "key_dimensions": [
+        "Formula: Dimension Index = (Actual value − Minimum value) / (Maximum value − Minimum value)",
+        "Goalposts are fixed across countries and years to allow cross-country and inter-temporal comparisons — UPSC trap: goalposts are periodically revised, causing historical rank revisions",
+        "Income dimension uses log of actual GNI and log of goalposts in the formula — unique treatment",
+        "Why minimum goalposts are non-zero: to account for subsistence minimum — e.g., $100 for income, 20 years for life expectancy"
+      ]
+    },
+    {
+      "name": "HDI Rank vs. HDI Score: Why They Diverge and What They Mean",
+      "key_dimensions": [
+        "A country's score can improve while its rank falls — if other countries improve faster",
+        "UPSC trap: India's HDI value has improved consistently over decades, but rank stagnation is due to faster improvement by peer nations",
+        "Small score differences can cause large rank jumps near threshold boundaries (e.g., around 0.700 or 0.800)",
+        "Policy implication: rank is a relative measure; score is an absolute measure — both matter but for different purposes"
+      ]
+    },
+    {
+      "name": "Critique of HDI: What It Measures and What It Misses",
+      "key_dimensions": [
+        "Does not capture: inequality (addressed by IHDI), gender gaps (GDI/GII), poverty (MPI), political freedom, sustainability (PHDI), happiness/subjective well-being",
+        "UPSC trap: HDI has a 'human development paradox' — some oil-rich countries have high income but low education/health scores, pulling HDI down from what GDP would suggest",
+        "Data limitation: relies on internationally comparable but often delayed census/survey data — timeliness issue",
+        "The index is a useful simplification but not a prescription — it guides attention rather than dictating policy"
+      ]
+    },
+    {
+      "name": "India's Performance on HDI: Trends, Peer Comparison, and Dimension-wise Analysis",
+      "key_dimensions": [
+        "India in Medium Human Development group; rank around 130s (out of ~193 countries) in recent reports",
+        "Dimension-wise weakness: income dimension (low GNI per capita) and education (especially MYS) are the binding constraints vs. health dimension",
+        "UPSC trap: India ranks higher on health dimension index than on income or education dimension index within HDI components",
+        "Comparison with BRICS peers: India ranks below China, Brazil, Russia but above some sub-Saharan African nations — important for Prelims factual questions"
+      ]
+    },
+    {
+      "name": "Historical Evolution of HDI Methodology: 1990, 2010, and Post-2010 Changes",
+      "key_dimensions": [
+        "1990 original: three indicators (life expectancy, adult literacy rate, real GDP per capita PPP), arithmetic mean aggregation",
+        "2010 revision: replaced adult literacy + GER with MYS + EYS; replaced GDP with GNI; changed arithmetic to geometric mean; introduced IHDI, GII, MPI",
+        "Post-2010 additions: PHDI (2020), updates to goalposts periodically",
+        "UPSC trap: questions often mix old and new methodology — e.g., 'which of the following is a component of HDI' — adult literacy rate was, but is NO LONGER"
+      ]
+    },
+    {
+      "name": "HDI and its Relationship with Other UNDP/UN Indices in the HDR Ecosystem",
+      "key_dimensions": [
+        "HDR ecosystem: HDI, IHDI, GDI, GII, MPI, PHDI — all published together but each measures a distinct concept",
+        "UPSC trap: Human Poverty Index (HPI-1 for developing, HPI-2 for developed countries) was the precursor to MPI — replaced in 2010; do not confuse with MPI",
+        "Each index addresses a criticism of HDI: IHDI → inequality; GDI/GII → gender; MPI → multidimensional poverty; PHDI → sustainability",
+        "Overlap trap: Gender Development Index (GDI) vs. Gender Inequality Index (GII) — both in HDR but measure entirely different things with different methodologies"
+      ]
+    },
+    {
+      "name": "PPP (Purchasing Power Parity) in HDI Income Dimension: Concept and Significance",
+      "key_dimensions": [
+        "PPP adjustment allows cross-country comparison by accounting for price level differences — $1 buys more in India than in the USA",
+        "GNI per capita at PPP (2017 international dollars) is the current standard — UPSC trap: the base year for PPP changes (was 2011 USD, revised to 2017 USD), causing rank revisions",
+        "Without PPP, income-based rankings would be distorted in favor of high-price countries and against low-price developing nations",
+        "PPP data source: World Bank International Comparison Program (ICP) — not the IMF or UNDP directly"
+      ]
+    }
+  ]
+}

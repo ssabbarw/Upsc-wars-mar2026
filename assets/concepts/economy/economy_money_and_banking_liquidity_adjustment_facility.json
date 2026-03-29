@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Money and Banking",
+  "sub_topic": "Liquidity Adjustment Facility",
+  "concepts": [
+    {
+      "name": "LAF: Architecture and Institutional Purpose",
+      "key_dimensions": [
+        "Definition as a monetary policy tool vs. a liquidity management tool — dual role trap",
+        "Introduced by RBI in 2000 based on Narasimham Committee recommendations — historical anchor",
+        "Distinction between LAF as a corridor system vs. a single-rate mechanism",
+        "Role in transmitting monetary policy signals to short-term money markets"
+      ]
+    },
+    {
+      "name": "Repo Rate: Mechanics and Signaling Function",
+      "key_dimensions": [
+        "Repo as RBI injecting liquidity vs. banks borrowing — direction of flow trap",
+        "Repo rate as the policy rate and its position as the floor/ceiling in the corridor — common confusion",
+        "Collateral requirement (government securities) and its implications for credit creation",
+        "Repo rate vs. Bank Rate: differences in purpose, tenure, and penal applicability"
+      ]
+    },
+    {
+      "name": "Reverse Repo Rate: Absorption Mechanism",
+      "key_dimensions": [
+        "Reverse repo as RBI absorbing excess liquidity — conceptual reversal trap",
+        "Reverse repo rate historically set 100 bps below repo; now effectively replaced by SDF — critical update",
+        "Role in setting the lower bound of the LAF corridor",
+        "Why excess liquidity parked at reverse repo does not earn as much as lending — incentive design"
+      ]
+    },
+    {
+      "name": "Marginal Standing Facility (MSF): Emergency Liquidity Window",
+      "key_dimensions": [
+        "MSF rate set 25 bps above repo rate — forms the upper bound/ceiling of the LAF corridor",
+        "Allows banks to borrow beyond their SLR holdings (up to a limit) — unique feature vs. repo",
+        "Overnight borrowing only — contrast with term repo under LAF",
+        "MSF vs. Repo: who accesses MSF and under what conditions — UPSC trap on eligibility and purpose"
+      ]
+    },
+    {
+      "name": "Standing Deposit Facility (SDF): New Floor of LAF Corridor",
+      "key_dimensions": [
+        "Introduced in April 2022 Union Budget and operationalized in MPC meeting — recency trap",
+        "SDF rate set 25 bps below repo rate, replacing reverse repo as the effective floor",
+        "Key distinction: SDF is uncollateralized (RBI does not provide securities) vs. reverse repo which is collateralized",
+        "Why SDF is superior to reverse repo for absorbing large surplus liquidity — Basel III and collateral scarcity angle"
+      ]
+    },
+    {
+      "name": "LAF Corridor: Structure and Width",
+      "key_dimensions": [
+        "Corridor defined: SDF rate (floor) → Repo rate (policy rate) → MSF rate (ceiling) — post-2022 structure",
+        "Symmetric vs. asymmetric corridor debates and RBI's historical shifts",
+        "Corridor width (currently ±25 bps) and its implications for interest rate volatility in call money markets",
+        "Pre-2022 corridor trap: Reverse repo was floor; SDF now replaced it — examinees often miss this update"
+      ]
+    },
+    {
+      "name": "Liquidity Conditions: Surplus vs. Deficit Modes",
+      "key_dimensions": [
+        "Deficit liquidity: banks borrow from RBI via repo/MSF — repo rate becomes the operative rate",
+        "Surplus liquidity: banks park funds with RBI via SDF — SDF rate becomes the operative rate",
+        "Structural vs. frictional liquidity — RBI's classification and policy implications",
+        "COVID-era surplus liquidity and RBI's challenge in managing inflation through LAF — recent context"
+      ]
+    },
+    {
+      "name": "Weighted Average Call Rate (WACR) and LAF Transmission",
+      "key_dimensions": [
+        "WACR as the operating target of monetary policy — not repo rate itself, a common misconception",
+        "How LAF corridor anchors WACR within the band — transmission mechanism",
+        "Deviation of WACR from repo rate as a measure of liquidity stress",
+        "WACR vs. MIBOR vs. T-Bill rate — overlapping benchmarks and their distinctions"
+      ]
+    },
+    {
+      "name": "Variable Rate Repo (VRR) and Variable Rate Reverse Repo (VRRR)",
+      "key_dimensions": [
+        "Fixed rate vs. variable rate operations under LAF — auction-based mechanism",
+        "VRR used for injecting liquidity at market-determined rates; VRRR for absorbing",
+        "Why RBI shifted to VRRR as the primary tool during 2021–22 surplus liquidity phase",
+        "Term VRRR vs. Overnight VRRR — tenure flexibility and its signaling effect"
+      ]
+    },
+    {
+      "name": "Open Market Operations (OMO) vs. LAF: Complementarity and Distinction",
+      "key_dimensions": [
+        "LAF manages short-term/daily liquidity; OMO manages durable/structural liquidity — critical distinction",
+        "OMO involves outright purchase/sale of G-secs; LAF involves repurchase agreements — instrument difference",
+        "Operation Twist as a special OMO — UPSC frequently tests this overlap",
+        "When RBI uses OMO alongside LAF — policy coordination trap"
+      ]
+    },
+    {
+      "name": "Cash Reserve Ratio (CRR) Interaction with LAF",
+      "key_dimensions": [
+        "CRR changes affect systemic liquidity that LAF then fine-tunes — sequencing of tools",
+        "CRR cut vs. repo rate cut — different transmission channels and speed",
+        "CRR balances maintained at RBI do not earn interest — contrast with SDF which does earn interest",
+        "COVID-era CRR cut and its interaction with LAF surplus — practical case study"
+      ]
+    },
+    {
+      "name": "Monetary Policy Transmission Through LAF",
+      "key_dimensions": [
+        "Transmission chain: Repo rate → WACR → MCLR/EBLR → Lending rates — steps and lags",
+        "Why transmission is asymmetric (faster for rate hikes than cuts) — behavioral angle",
+        "External Benchmark Lending Rate (EBLR) and its direct link to repo rate — improved transmission",
+        "MCLR vs. EBLR: which transmits LAF changes more efficiently and why"
+      ]
+    },
+    {
+      "name": "Eligible Collateral and Counterparties Under LAF",
+      "key_dimensions": [
+        "Only scheduled commercial banks (including foreign banks) can access LAF — cooperative banks and NBFCs excluded, a common trap",
+        "Eligible securities: Government of India dated securities, Treasury Bills, State Development Loans",
+        "Haircut concept on collateral — risk management angle",
+        "Primary dealers' access to MSF — a frequently missed exception"
+      ]
+    },
+    {
+      "name": "LAF and Inflation Targeting: MPC Interface",
+      "key_dimensions": [
+        "MPC sets the repo rate (policy rate); RBI operationalizes it through LAF — institutional separation of decision and execution",
+        "Flexible Inflation Targeting framework (4±2%) and how LAF rate changes signal MPC stance",
+        "Neutral, accommodative, and withdrawal of accommodation stances — how each affects LAF operations",
+        "Conflict scenario: high inflation but banking sector stress — LAF design to handle both simultaneously"
+      ]
+    },
+    {
+      "name": "LAF, Exchange Rate, and Capital Flows",
+      "key_dimensions": [
+        "Tight LAF (high repo) attracts capital inflows — rupee appreciation pressure",
+        "Impossible Trinity: RBI cannot simultaneously control exchange rate, capital flows, and interest rate via LAF",
+        "Forex intervention by RBI creates rupee liquidity that LAF must sterilize — sterilization trap",
+        "Market Stabilization Scheme (MSS) as a sterilization tool complementary to LAF — overlap distinction"
+      ]
+    },
+    {
+      "name": "Historical Evolution of LAF in India",
+      "key_dimensions": [
+        "Pre-LAF regime: CRR and sector-specific refinance windows — why LAF was a reform",
+        "Narasimham Committee II (1998) recommendation → LAF introduced June 2000",
+        "2011 revision: LAF made a purely overnight window; term repos introduced separately",
+        "2020 onwards: Surplus liquidity management challenges and eventual SDF introduction in 2022 — timeline trap"
+      ]
+    },
+    {
+      "name": "Prompt Corrective Action (PCA) Banks and LAF Access Restrictions",
+      "key_dimensions": [
+        "Banks under PCA framework may face restrictions on certain borrowing windows — governance overlap",
+        "RBI's discretion in limiting LAF access for financially stressed banks",
+        "Whether PCA restrictions override a bank's statutory right to access LAF — legal dimension",
+        "Relationship between weak bank balance sheets and poor LAF transmission — systemic risk angle"
+      ]
+    },
+    {
+      "name": "LAF vs. Bank Rate: Conceptual Traps",
+      "key_dimensions": [
+        "Bank Rate is now aligned to MSF rate (both currently same) — post-2012 alignment, a major trap",
+        "Bank Rate applies to penal interest on CRR shortfalls; repo is for routine liquidity — functional difference",
+        "Bank Rate is a signaling rate with no collateral requirement; repo requires G-sec collateral",
+        "Historical Bank Rate as long-term refinance rate vs. current ceremonial/penal role"
+      ]
+    },
+    {
+      "name": "Durable Liquidity vs. Transient Liquidity Management",
+      "key_dimensions": [
+        "LAF addresses transient/frictional liquidity (daily mismatches); OMO/CRR address durable liquidity",
+        "RBI's liquidity management framework post-2014 Urjit Patel Committee — conceptual restructuring",
+        "Liquidity Neutral stance as an RBI objective — what it means and how LAF is calibrated for it",
+        "Seasonal factors (advance tax outflows, GST payments, crop procurement) creating transient stress managed via LAF"
+      ]
+    },
+    {
+      "name": "LAF in the Context of Government Borrowing and G-Sec Market",
+      "key_dimensions": [
+        "Government securities as the backbone of LAF collateral — sovereign debt and monetary policy linkage",
+        "Ways and Means Advances (WMA) to government vs. LAF to banks — both use G-secs but different counterparties",
+        "When heavy G-sec supply tightens system liquidity and forces banks to repo more — fiscal-monetary nexus",
+        "RBI's dual role as debt manager and monetary authority creating potential conflict in LAF rate setting"
+      ]
+    }
+  ]
+}

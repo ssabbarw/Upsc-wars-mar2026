@@ -1,0 +1,1634 @@
+[
+  {
+    "meta": {
+      "uuid": "7bfed8bf-b2d7-4241-a2db-edef963a9393",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Per Capita Income: Definition, Calculation and Limitations"
+      ],
+      "subject_que_no": 4931,
+      "overall_que_no": 12278
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Per capita NNP at factor cost vs GDP at market prices",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is deceptive because GDP at market prices includes indirect taxes and subsidies, making it seem more 'complete' and therefore a natural choice for per capita welfare comparison.",
+      "elimination_logic": [
+        "Eliminate options conflating per capita GDP at market prices with a welfare measure — market prices include indirect taxes that distort the income available to citizens.",
+        "Eliminate options suggesting per capita GNP captures domestic production only — GNP includes net factor income from abroad, making it distinct from GDP.",
+        "Confirm that per capita NNP at factor cost most closely approximates the net income actually available to residents after depreciation and before price distortions — option b."
+      ],
+      "upsc_trap_explanation": "Students familiar with 'national income' in common parlance often equate it directly with GDP at market prices, which is the most frequently cited figure in news. The trap is that GDP at market prices includes indirect taxes (which represent a transfer to government, not factor incomes) and excludes depreciation, making it a weaker welfare proxy than NNP at factor cost. A superficially prepared student picks GDP because it is the most familiar aggregate.",
+      "final_explanation": "Per capita income in welfare analysis requires choosing the aggregate that best reflects the net income accruing to residents from productive activity. NNP at factor cost strips out two distortions: (1) depreciation of capital — deducted because it is not income but replacement cost; (2) indirect taxes net of subsidies — removed because they represent government transfers, not factor earnings.\n\n• Option (a) — Per capita GDP at market prices: Includes indirect taxes and ignores depreciation; overstates welfare-relevant income.\n• Option (b) — Per capita NNP at factor cost: Correct. Nets out depreciation and indirect taxes, reflecting actual net factor earnings of residents.\n• Option (c) — Per capita GNP at market prices: Adds net factor income from abroad but retains indirect taxes and depreciation — two sources of distortion remain.\n• Option (d) — Per capita NDP at market prices: Removes depreciation but retains indirect taxes — partially corrected but not fully.\n\nValue Addition:\n• India's official 'National Income' series published by CSO/MOSPI uses NNP at factor cost as the benchmark welfare aggregate.\n• The shift from factor cost to basic prices in the 2011-12 base year revision changed how subsidies and taxes are treated.\n• UPSC has previously tested the distinction between NDP, NNP, GDP and GNP in the context of welfare measurement."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following national income aggregates, expressed on a per capita basis, most accurately represents the net income available to the residents of an economy for consumption and saving?\n\n(a) GDP at market prices\n(b) NNP at factor cost\n(c) GNP at market prices\n(d) NDP at market prices",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "37ebe661-22b5-45a7-ab5a-f848659de300",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Purchasing Power Parity (PPP): Concept and Law of One Price"
+      ],
+      "subject_que_no": 4932,
+      "overall_que_no": 12279
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Absolute PPP vs Relative PPP distinction",
+      "statement_analysis": [
+        {
+          "statement": "Absolute PPP holds that the exchange rate between two currencies should equal the ratio of the two countries' price levels for an identical basket of goods.",
+          "verdict": "Correct",
+          "reason": "This is the core proposition of absolute PPP — it extends the Law of One Price to aggregate price levels across countries."
+        },
+        {
+          "statement": "Relative PPP holds that the rate of exchange rate change over time should equal the difference in inflation rates between the two countries.",
+          "verdict": "Correct",
+          "reason": "Relative PPP does not require price levels to be equal; it only requires that percentage changes in exchange rates reflect inflation differentials — a weaker and more empirically supported condition."
+        },
+        {
+          "statement": "The Big Mac Index is a direct test of absolute PPP because it uses a single standardised tradable good produced in multiple countries.",
+          "verdict": "Incorrect",
+          "reason": "The Big Mac is not fully tradable — it embeds significant non-tradable inputs (local labour, real estate, electricity). Therefore it is an illustration of PPP, not a rigorous test of absolute PPP for tradable goods."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three correct) tempts students who recall that the Big Mac Index is linked to PPP theory without knowing its limitation as a test of absolute PPP.",
+      "elimination_logic": [
+        "Verify Statement 1: Absolute PPP = exchange rate equals price level ratio — this is the textbook definition; Statement 1 is correct.",
+        "Verify Statement 2: Relative PPP = exchange rate change equals inflation differential — this is also correct and is the weaker, more empirically supported variant.",
+        "Evaluate Statement 3: The Big Mac contains non-tradable components (local rent, wages) — it illustrates PPP but is not a rigorous test of absolute PPP for purely tradable goods; Statement 3 is incorrect.",
+        "Only Statements 1 and 2 are correct — option c."
+      ],
+      "upsc_trap_explanation": "The Big Mac Index is widely cited in popular economics literature as 'proof' of PPP. Students who have read superficial descriptions associate it directly with absolute PPP without questioning whether a burger is truly a tradable good. The trap is that the Big Mac price includes substantial non-tradable inputs, making it an imperfect illustration rather than a clean test of absolute PPP.",
+      "final_explanation": "PPP theory has two variants with different conditions. Absolute PPP asserts that exchange rates adjust so that identical goods cost the same across countries — a strong condition rarely met due to transport costs, tariffs, and non-tradable goods. Relative PPP makes the weaker claim that exchange rate movements over time track inflation differentials — more empirically defensible.\n\n• Statement 1 — Correct: Absolute PPP directly applies the Law of One Price to aggregate price baskets, predicting exchange rate levels.\n• Statement 2 — Correct: Relative PPP predicts exchange rate changes, not levels, linking them to the inflation gap between countries.\n• Statement 3 — Incorrect: The Big Mac contains non-tradable inputs (local labour, real estate costs). It illustrates PPP conceptually but cannot serve as a rigorous empirical test of absolute PPP for tradable goods.\n\nValue Addition:\n• Empirical research shows Relative PPP holds better in the long run (decades) but fails in the short run due to capital flows and speculation.\n• The Economist's Big Mac Index has been published since 1986 and shows most developing country currencies are 'undervalued' relative to the dollar on PPP grounds.\n• Trade barriers, quotas, and subsidies are among the principal reasons absolute PPP fails in practice."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding Purchasing Power Parity (PPP) theory:\n\n1. Absolute PPP holds that the exchange rate between two currencies should equal the ratio of the two countries' price levels for an identical basket of goods.\n2. Relative PPP holds that the rate of exchange rate change over time should equal the difference in inflation rates between the two countries.\n3. The Big Mac Index is a direct test of absolute PPP because it uses a single standardised tradable good produced in multiple countries.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4c361b1d-3a9a-4e27-9de3-74986abfe760",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "PPP vs. Market Exchange Rate (MER): Conceptual Differences and UPSC Traps"
+      ],
+      "subject_que_no": 4933,
+      "overall_que_no": 12280
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "partial-truth",
+      "concept_anchor": "When MER preferred over PPP for analysis",
+      "statement_analysis": [
+        {
+          "statement": "PPP-based GDP comparisons are more appropriate than MER-based comparisons when analysing a country's capacity to service its external debt.",
+          "verdict": "Incorrect",
+          "reason": "External debt is denominated in foreign currency and must be repaid using foreign exchange earned through trade — this requires MER, not PPP. PPP adjustments are irrelevant for actual cross-border payment obligations."
+        },
+        {
+          "statement": "Developing countries typically appear larger in economic size under PPP-based calculations than under MER-based calculations because non-tradable services are relatively cheaper in those economies.",
+          "verdict": "Correct",
+          "reason": "Non-tradable goods and services (haircuts, domestic transport, food from local vendors) are cheaper in developing countries but are not arbitraged away by trade — PPP captures this, inflating the PPP-adjusted size of these economies."
+        },
+        {
+          "statement": "The IMF uses market exchange rates rather than PPP weights when aggregating member countries' growth rates in its World Economic Outlook.",
+          "verdict": "Incorrect",
+          "reason": "The IMF's World Economic Outlook uses PPP weights for aggregating global GDP growth because PPP weights better reflect the actual contribution of each country's domestic production to global output."
+        }
+      ],
+      "strong_distractor": "a — Option a tempts students who correctly identify Statement 2 as true but incorrectly assume Statement 1 is also true since PPP is frequently presented as the 'better' measure for all comparisons.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Debt servicing requires actual foreign exchange — MER governs forex transactions, not PPP; Statement 1 is incorrect.",
+        "Evaluate Statement 2: Non-tradable services are cheaper in developing economies, causing PPP to exceed MER — Statement 2 is correct, so exclude it.",
+        "Evaluate Statement 3: IMF WEO explicitly uses PPP weights for global growth aggregation — Statement 3 is incorrect.",
+        "Statements 1 and 3 are NOT correct — option b."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the common student tendency to apply PPP as the universal 'better' measure. PPP is superior for domestic welfare comparisons, but debt servicing, forex transactions, and trade competitiveness analysis must use MER because actual payments cross borders at market rates, not PPP-adjusted rates. A partially prepared student recalls 'PPP is preferred by IMF and World Bank' and incorrectly extends this to all analytical contexts.",
+      "final_explanation": "The choice between PPP and MER depends on the analytical purpose. PPP is appropriate for comparing living standards, welfare, and the size of domestic economies. MER is essential wherever actual cross-border monetary transfers occur.\n\n• Statement 1 — Incorrect: Debt servicing involves real payments in foreign currency at market exchange rates. A country must earn hard currency through exports or capital inflows — PPP adjustments have no bearing on this obligation.\n• Statement 2 — Correct: Cheaper non-tradable services (transport, food, housing, personal services) in developing economies are the primary driver of the PPP premium over MER in those countries.\n• Statement 3 — Incorrect: The IMF's World Economic Outlook aggregates global growth using PPP weights precisely because MER-weighted aggregation would underrepresent large developing economies whose domestic purchasing power exceeds their dollar value.\n\nValue Addition:\n• India's weight in IMF WEO's PPP-weighted global GDP (~7%) is roughly double its MER-based share (~3.5%).\n• Trade competitiveness, current account balances, and bilateral trade volumes always use MER.\n• The World Bank also uses PPP for international poverty line calculations but uses MER for debt sustainability analysis."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the use of Purchasing Power Parity (PPP) versus Market Exchange Rate (MER) in economic analysis:\n\n1. PPP-based GDP comparisons are more appropriate than MER-based comparisons when analysing a country's capacity to service its external debt.\n2. Developing countries typically appear larger in economic size under PPP-based calculations than under MER-based calculations because non-tradable services are relatively cheaper in those economies.\n3. The IMF uses market exchange rates rather than PPP weights when aggregating member countries' growth rates in its World Economic Outlook.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2b032f2f-6dea-4b67-a723-8053a162e05f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "International Comparison Program (ICP) and PPP Estimation",
+        "PPP and Global Poverty Line"
+      ],
+      "subject_que_no": 4934,
+      "overall_que_no": 12281
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "ICP benchmark years and World Bank poverty line revisions",
+      "statement_analysis": [
+        {
+          "statement": "The World Bank's current international poverty line of $2.15 per day is anchored to the 2017 ICP benchmark round.",
+          "verdict": "Correct",
+          "reason": "The World Bank updated its international poverty line from $1.90/day (2011 PPP) to $2.15/day (2017 PPP) following the 2017 ICP round, reflecting updated price data."
+        },
+        {
+          "statement": "The ICP is administered jointly by the United Nations Statistics Division and the OECD, with the World Bank playing only an advisory role.",
+          "verdict": "Incorrect",
+          "reason": "The World Bank is the primary operational manager of the ICP, not merely an advisory body. The ICP is a global statistical partnership coordinated under the World Bank's leadership."
+        },
+        {
+          "statement": "Revisions between ICP benchmark rounds can alter a country's measured poverty headcount even when no change has occurred in living standards within that country.",
+          "verdict": "Correct",
+          "reason": "When PPP conversion factors are revised due to new ICP data, the real value of a given nominal income changes relative to the international poverty line, potentially reclassifying millions of people as poor or non-poor without any actual change in their consumption."
+        },
+        {
+          "statement": "The 2017 ICP round found that India's price level relative to the global average was lower than what the 2011 ICP had estimated, implying an upward revision of India's PPP-adjusted income.",
+          "verdict": "Incorrect",
+          "reason": "The 2017 ICP round found that India's price level was higher than estimated in 2011, which meant India's PPP-adjusted income and the number of people below the international poverty line both changed — generally the revised data showed more people in poverty under the new price base than the older estimates suggested."
+        }
+      ],
+      "strong_distractor": "c — Option c (only three correct) tempts students who accept Statement 4 as correct based on the plausible but reversed reasoning that newer ICP data should show India becoming cheaper over time.",
+      "elimination_logic": [
+        "Verify Statement 1: $2.15/day was set using 2017 PPP following the 2017 ICP — correct.",
+        "Evaluate Statement 2: World Bank coordinates and leads the ICP operationally — calling it 'advisory only' is incorrect; Statement 2 fails.",
+        "Evaluate Statement 3: PPP revision changes the conversion factor, altering headcount without changing actual living standards — correct.",
+        "Evaluate Statement 4: 2017 ICP showed India's prices higher than 2011 estimates, meaning PPP-adjusted income fell relative to the older estimate — Statement 4 as written (prices lower, income upward) is incorrect.",
+        "Only Statements 1 and 3 are correct — only two are correct — option b."
+      ],
+      "upsc_trap_explanation": "Statement 4 is constructed to exploit the intuitive but incorrect assumption that developing countries grow cheaper over time relative to the global average. In reality, the 2017 ICP revision showed India's prices were underestimated in 2011, meaning the corrected PPP-adjusted incomes were lower, not higher. Students who reason loosely about 'development leads to lower relative prices' fall into this trap.",
+      "final_explanation": "The International Comparison Program (ICP) is the statistical exercise that generates PPP conversion factors — the backbone of all cross-country welfare comparisons and poverty estimates.\n\n• Statement 1 — Correct: The $2.15/day poverty line replaced the $1.90/day line (2011 PPP basis) following the 2017 ICP round's updated price data.\n• Statement 2 — Incorrect: The World Bank coordinates and operationally leads the ICP across participating countries. It is not merely advisory; it manages data collection, methodology, and publication.\n• Statement 3 — Correct: PPP revisions mechanically alter headcount estimates. When conversion factors change, the same nominal income may fall above or below the poverty line, reclassifying millions without any real change in their welfare.\n• Statement 4 — Incorrect: The 2017 ICP found India's prices to be higher relative to the global average than the 2011 round had estimated, which lowered PPP-adjusted income levels and generally increased estimated poverty headcounts.\n\nValue Addition:\n• The ICP conducts benchmark rounds periodically — 2005, 2011, and 2017 are the three most recent.\n• India's poverty headcount estimates are sensitive to which ICP round's PPP factors are used.\n• India has at times questioned the World Bank's international poverty line as not reflecting Indian price realities."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the International Comparison Program (ICP) and global poverty measurement:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "The World Bank's current international poverty line of $2.15 per day is anchored to the 2017 ICP benchmark round."
+          ],
+          [
+            "2",
+            "The ICP is administered jointly by the United Nations Statistics Division and the OECD, with the World Bank playing only an advisory role."
+          ],
+          [
+            "3",
+            "Revisions between ICP benchmark rounds can alter a country's measured poverty headcount even when no change has occurred in living standards within that country."
+          ],
+          [
+            "4",
+            "The 2017 ICP round found that India's price level relative to the global average was lower than what the 2011 ICP had estimated, implying an upward revision of India's PPP-adjusted income."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5b93bbb0-6dbf-44c5-a7c2-840214a62af8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "India's GDP Ranking: PPP vs. Nominal Basis",
+        "PPP vs. Market Exchange Rate (MER): Conceptual Differences and UPSC Traps"
+      ],
+      "subject_que_no": 4935,
+      "overall_que_no": 12282
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "India GDP rank PPP vs nominal MER standings",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b swaps India's PPP and nominal ranks, exploiting students who remember the numbers but not which measure gives the higher rank.",
+      "elimination_logic": [
+        "Confirm A: India is the 3rd largest economy on PPP basis — matches with '3' in List II; A-3.",
+        "Confirm B: India is approximately 5th largest on nominal MER basis — matches '5'; B-1 is wrong; B must match the nominal rank figure; B-5 — eliminate options placing B at rank 3.",
+        "Confirm C: IMF WEO uses PPP weights for aggregating global growth, not MER — C matches the PPP weights claim; C-4.",
+        "Confirm D: Trade competitiveness and current account analysis use MER, not PPP — D-2; eliminate options mapping D to PPP contexts.",
+        "Correct combination is A-3, B-1, C-4, D-2 — option a."
+      ],
+      "upsc_trap_explanation": "The most common trap here is conflating India's PPP rank (3rd) with its nominal rank (5th). Students who have read about India's economic rise recall 'India is among the top 5' without specifying the measure. Option b deliberately swaps these, catching anyone who remembers the numbers but not which measure yields which rank.",
+      "final_explanation": "India's GDP ranking is highly measure-sensitive, and UPSC has tested this repeatedly in prelims. Under PPP, India's large informal sector and cheap non-tradable services inflate its GDP, making it the world's 3rd largest economy. Under nominal MER, India ranks 5th as the rupee's exchange rate compresses the dollar value of domestic output.\n\nList I to List II correct mapping:\n• A (India's GDP rank by PPP) → 3 (3rd largest): Non-tradable services, cheap labour, and the informal economy give India a higher PPP-adjusted size.\n• B (India's GDP rank by nominal MER) → 1 (5th largest): The rupee's relatively low value against the dollar compresses India's nominal dollar GDP.\n• C (IMF aggregation basis for global growth) → 4 (PPP weights): The IMF WEO uses PPP weights because they better represent each economy's contribution to global demand.\n• D (Preferred measure for trade competitiveness analysis) → 2 (MER): Trade flows, export pricing, and current account balances involve actual currency conversions at market rates.\n\nTrap pairing: Options b and c swap A and B's matches, catching students who recall the figures but not the directional relationship.\n\nValue Addition:\n• India overtook the UK and France to become the 5th largest economy on nominal basis around 2022.\n• China's PPP share in global GDP (~18%) exceeds its nominal share (~17%), demonstrating the same PPP premium phenomenon.\n• PPP-based rankings are used by India in arguments for greater IMF quota and voting share."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. India's GDP rank among world economies by PPP basis",
+            "1. 5th largest"
+          ],
+          [
+            "B. India's GDP rank among world economies by nominal MER",
+            "2. Market Exchange Rate (MER)"
+          ],
+          [
+            "C. Basis used by IMF World Economic Outlook to aggregate global GDP growth",
+            "3. 3rd largest"
+          ],
+          [
+            "D. Preferred measure for analysing trade competitiveness and current account balances",
+            "4. PPP weights"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-1, C-4, D-2\n(b) A-1, B-3, C-4, D-2\n(c) A-3, B-1, C-2, D-4\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7b94d2b9-87c6-4618-a962-afe8fc5b346a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Human Development Index (HDI) and Its Relationship with Per Capita Income",
+        "GNI per Capita at PPP vs. GDP per Capita: Definitional Precision"
+      ],
+      "subject_que_no": 4936,
+      "overall_que_no": 12283
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "HDI income component GNI per capita not GDP",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a tempts students who know HDI uses PPP-adjusted income and correctly identify both A and R as true, but fail to question whether R causally explains A.",
+      "elimination_logic": [
+        "Step 1: Is Assertion A correct? — HDI's income component uses GNI per capita at PPP, not GDP per capita. This was formalised in UNDP's 2010 revision. A is correct.",
+        "Step 2: Is Reason R correct? — GNI equals GDP plus net factor income from abroad. For remittance-dependent economies, GNI exceeds GDP. R is correct as a factual statement.",
+        "Step 3: Does R causally explain A? — UNDP's switch to GNI was to capture citizens' actual income regardless of where it is earned, which is valid for remittance economies. However, R as stated frames the justification narrowly around remittance-dependent economies only. The actual reason UNDP uses GNI is the broader principle that GNI reflects the income of a country's residents (citizens and permanent residents), not merely its domestic production. R is factually correct but does not constitute the complete or primary causal explanation — it identifies one implication rather than the underlying rationale.",
+        "A is correct, R is correct, but R does not correctly explain A — option c."
+      ],
+      "upsc_trap_explanation": "This question exploits the common student shortcut of accepting both A and R as true and automatically selecting option a. The trap is that R, while factually accurate about remittance economies, does not constitute the causal reason UNDP chose GNI over GDP. The correct explanation is that GNI captures the income of residents regardless of where production occurs, which is a broader principle than merely accounting for remittances. Selecting 'a' requires failing to evaluate whether R's factual truth translates into causal adequacy.",
+      "final_explanation": "UNDP's Human Development Report shifted from GDP per capita to GNI per capita in its 2010 revision — a distinction UPSC has tested directly.\n\nAssertion (A): Correct. Since 2010, UNDP uses GNI per capita at PPP as the income dimension of HDI, replacing the earlier GDP per capita formulation.\n\nReason (R): Correct as a fact. GNI = GDP + Net Factor Income from Abroad. For economies like the Philippines, Bangladesh, and India, remittances from abroad mean GNI measurably exceeds GDP, making GNI a better income measure for residents.\n\nCausal relationship: R identifies one application of why GNI differs from GDP but does not articulate the fundamental reason UNDP prefers GNI. The core rationale is that GNI measures income accruing to a country's residents — whether earned domestically or abroad — making it a more complete measure of citizens' economic welfare than GDP, which counts production on domestic soil regardless of who receives the income. R is therefore correct but not the correct explanation of A.\n\nValue Addition:\n• Countries where GNI << GDP include Ireland and Luxembourg — profits of multinational firms domiciled there flow abroad, shrinking GNI relative to GDP.\n• Pre-2010 HDI used GDP per capita; post-2010 uses GNI per capita at 2017 PPP dollars.\n• A country's HDI income rank can differ from its GDP rank depending on the scale of its net factor income flows."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The income component used in the Human Development Index (HDI) is Gross National Income (GNI) per capita expressed in Purchasing Power Parity terms, not GDP per capita.\n\nReason (R): GNI includes net factor income from abroad, which means it captures remittance inflows that significantly supplement the domestic incomes of citizens in several developing economies.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b0dbf4c5-4800-4827-9604-d92e8d7f1e7e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Balassa-Samuelson Effect: Why Poor Countries Have Lower Price Levels"
+      ],
+      "subject_que_no": 4937,
+      "overall_que_no": 12284
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Balassa-Samuelson mechanism productivity tradable non-tradable",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a reverses the causal chain, suggesting non-tradable price convergence precedes tradable productivity gains, which inverts the Balassa-Samuelson mechanism.",
+      "elimination_logic": [
+        "The Balassa-Samuelson mechanism begins with productivity gains in the tradable sector (manufacturing, exports) — this must come first.",
+        "Higher tradable sector productivity raises wages in that sector — wages then rise across the economy including non-tradables (labour mobility).",
+        "Higher wages in non-tradable sectors push up non-tradable prices — this causes the overall price level to rise.",
+        "Rising price level means PPP-adjusted exchange rate appreciates relative to MER — non-tradable price rises come before exchange rate appreciation.",
+        "Correct sequence: Tradable productivity gain → Wage equalisation → Non-tradable price rise → Real exchange rate appreciation — option b."
+      ],
+      "upsc_trap_explanation": "The Balassa-Samuelson effect involves a causal chain that students memorise in fragments. The most common error is placing real exchange rate appreciation before non-tradable price rises, or confusing the starting point (tradable productivity) with the endpoint (currency appreciation). Option a reverses the first two steps, which feels plausible because students associate productivity gains with currency strength directly, skipping the wage transmission mechanism.",
+      "final_explanation": "The Balassa-Samuelson effect explains why developing countries have systematically lower price levels — and therefore why their PPP-adjusted incomes exceed their MER-based incomes. Understanding the mechanism's causal sequence is essential.\n\nCorrect sequence:\n1. Productivity gains in the tradable goods sector: Faster productivity growth in manufacturing and export sectors in developing countries raises wages there.\n2. Wage equalisation across sectors: Labour mobility ensures wage increases spread to non-tradable sectors (services, construction, retail) even without equivalent productivity gains.\n3. Non-tradable goods prices rise: Higher wages in low-productivity-growth non-tradable sectors translate into higher prices for those services.\n4. Overall price level rises, causing real exchange rate appreciation: As the economy develops, prices converge toward richer-country levels, narrowing the PPP-MER gap.\n\nWhy wrong options fail:\n• Option a reverses steps 1 and 2, incorrectly initiating the chain at non-tradable prices.\n• Option c omits the wage transmission channel entirely.\n• Option d places exchange rate appreciation before price level changes, inverting the effect.\n\nValue Addition:\n• The Balassa-Samuelson effect is also called the Harrod-Balassa-Samuelson (HBS) effect — all three names refer to the same mechanism.\n• It explains why fast-growing Asian economies experienced real exchange rate appreciation even as they ran trade surpluses.\n• It provides the theoretical foundation for why PPP GDP > MER GDP for developing countries like India."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct causal sequence through which the Balassa-Samuelson effect operates in a developing economy transitioning toward higher income levels?\n\n(a) Rise in non-tradable goods prices → Productivity gains in tradable sector → Wage equalisation across sectors → Real exchange rate appreciation\n(b) Productivity gains in tradable sector → Wage equalisation across sectors → Rise in non-tradable goods prices → Real exchange rate appreciation\n(c) Real exchange rate appreciation → Productivity gains in tradable sector → Rise in non-tradable goods prices → Wage equalisation across sectors\n(d) Wage equalisation across sectors → Productivity gains in tradable sector → Real exchange rate appreciation → Rise in non-tradable goods prices",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9c1b3353-005a-42cd-8bce-97ff6759c8e9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Per Capita Income and Income Inequality: Distributional Blind Spots"
+      ],
+      "subject_que_no": 4938,
+      "overall_que_no": 12285
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Mean vs median income arithmetic mean distortion inequality",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (Gini coefficient has risen) is factually correct but does not constitute a direct statistical explanation for why per capita income overstates typical household welfare — students confuse the symptom with the mechanism.",
+      "elimination_logic": [
+        "The scenario describes per capita income rising while a majority of households report stagnant or declining real incomes — this is a classic mean-median divergence situation.",
+        "Eliminate option a: Per capita income uses total population denominator, not household denominator — this is not the statistical flaw described.",
+        "Eliminate option b: A rising Gini coefficient is a consequence of inequality, not the statistical explanation for why the mean misrepresents the typical household.",
+        "Eliminate option c: Nominal vs. real distinction is a separate issue — the scenario already specifies real income perception among households.",
+        "Confirm option d: When income gains are concentrated at the top (billionaire effect), the arithmetic mean rises while the median — which represents the midpoint household — remains flat. Per capita income is an arithmetic mean and is therefore systematically pulled upward by outliers."
+      ],
+      "upsc_trap_explanation": "Option b (rising Gini) is deeply tempting because it is the standard response to any question about inequality and per capita income divergence. However, the Gini coefficient describes the degree of inequality — it does not explain the statistical mechanism by which the arithmetic mean of income can rise while most people's incomes stagnate. The mechanism is the sensitivity of arithmetic means to extreme outliers (high-income individuals), which is precisely what median income avoids.",
+      "final_explanation": "Per capita income is calculated as an arithmetic mean — total national income divided by total population. Arithmetic means are highly sensitive to extreme values at the upper end of a distribution.\n\nApplicable principle: When income gains are disproportionately captured by a small number of very high earners (the 'billionaire distortion'), the arithmetic mean rises significantly even if the income of a typical (median) household is stagnant or declining. The median — the midpoint of the income distribution — is robust to outliers and would remain flat in this scenario.\n\n• Option (a): The population denominator issue is about whether per capita (per person) vs. per household is used — not the core statistical flaw described here. Incorrect.\n• Option (b): A rising Gini coefficient describes the extent of inequality but does not explain the mechanism of mean distortion. Incorrect.\n• Option (c): Nominal vs. real deflation is a separate measurement concern — the scenario references real income perceptions. Incorrect.\n• Option (d): Correct. The arithmetic mean is sensitive to outliers. Concentrated income gains at the very top pull the mean upward while leaving the median unchanged — the median is the statistic that better represents the typical household's welfare.\n\nValue Addition:\n• UNDP and several national statistical agencies advocate reporting median household income alongside mean per capita income.\n• India's HCES data shows median consumption growing more slowly than mean consumption in recent decades.\n• The Kuznets inverted-U curve predicts inequality rising in early development phases before declining — India is arguably still on the rising portion."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A country reports a consistent rise in its real per capita income over a decade. However, large-scale household surveys conducted during the same period reveal that a majority of households report stagnant or declining real incomes. The government's statistical advisory council is asked to identify the most precise statistical explanation for this divergence.\n\nWhich of the following best explains the observed discrepancy?\n\n(a) Per capita income uses total population in the denominator rather than the number of households, causing a systematic undercount of household-level welfare.\n(b) The country's Gini coefficient has risen sharply during the period, indicating that income inequality has worsened.\n(c) Nominal per capita income has been deflated using an inappropriate price index that underestimates actual inflation.\n(d) Per capita income, being an arithmetic mean, is disproportionately pulled upward by very high incomes at the top of the distribution, leaving the income of the typical household unchanged.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "09daf240-fda3-4858-abad-f30b5d4e18c5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "GNI per Capita at PPP vs. GDP per Capita: Definitional Precision"
+      ],
+      "subject_que_no": 4939,
+      "overall_que_no": 12286
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Countries GNI less than GDP tax haven characteristic",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (Philippines) tempts students who associate remittance economies with GNI being lower than GDP, when the opposite is true — remittances make GNI exceed GDP.",
+      "elimination_logic": [
+        "The question asks which country has GNI significantly LESS than GDP — meaning large net factor income outflows from the country.",
+        "Philippines: large diaspora sends remittances home — net factor income INFLOWS — GNI > GDP. Does NOT belong.",
+        "Ireland: multinational firms domiciled for tax purposes — profits flow OUT to foreign shareholders — large net factor income outflows — GNI < GDP. Belongs.",
+        "Luxembourg: similar to Ireland — financial and corporate headquarters generate GDP but profits leave the country — GNI < GDP. Belongs.",
+        "Bangladesh: major remittance recipient — GNI > GDP. Does NOT belong in the GNI < GDP group.",
+        "The odd one out among countries where GNI < GDP is the Philippines — option a."
+      ],
+      "upsc_trap_explanation": "Students are taught that GNI > GDP for remittance-dependent countries. The question asks which does NOT belong to the 'GNI < GDP' group (tax havens/corporate headquarters). Philippines is a major remittance receiver, so GNI > GDP — it does not belong with Ireland and Luxembourg. However, students who confuse the direction of the inequality select Ireland or Luxembourg as the odd one out, believing remittance economies share the same characteristic as tax havens.",
+      "final_explanation": "GNI = GDP + Net Factor Income from Abroad. When net factor income is positive (remittances and profits flowing in), GNI > GDP. When negative (profits flowing out), GNI < GDP.\n\n• Option (a) — Philippines: Correct odd one out. The Philippines receives massive overseas worker remittances — net factor income is positive, making GNI > GDP. It does not belong with countries where GNI < GDP.\n• Option (b) — Ireland: GNI < GDP. Multinational firms use Ireland as a base; their profits are repatriated abroad, creating large net factor income outflows.\n• Option (c) — Luxembourg: GNI < GDP. The financial sector and European headquarters of multinationals generate domestic production, but profits flow to foreign shareholders.\n• Option (d) — Singapore: GNI < GDP. Similar to Ireland — large multinational presence means significant profit outflows to foreign owners.\n\nValue Addition:\n• India's GNI exceeds GDP due to remittances from the Indian diaspora (one of the world's largest remittance flows).\n• Ireland's GNI can be 30–40% lower than its GDP in some years due to the scale of multinational profit outflows.\n• The distinction between GNI and GDP is critical for HDI comparisons — UNDP uses GNI to capture residents' actual income."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four countries are characterised by a Gross National Income (GNI) that is significantly lower than their Gross Domestic Product (GDP) due to large net outflows of factor income. Which one does NOT share this characteristic?\n\n(a) Philippines\n(b) Ireland\n(c) Luxembourg\n(d) Singapore",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "54a9f117-06c5-4635-93b7-583c1653a352",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Real vs. Nominal Per Capita Income and Deflation"
+      ],
+      "subject_que_no": 4940,
+      "overall_que_no": 12287
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "India GDP series rebasing 2011-12 base year impact",
+      "statement_analysis": [
+        {
+          "statement": "India shifted the base year for its GDP series from 2004-05 to 2011-12, which resulted in a revision of GDP growth rate estimates for several preceding years.",
+          "verdict": "Correct",
+          "reason": "India's Central Statistics Office revised the base year from 2004-05 to 2011-12 in January 2015, which changed the methodology and led to significantly revised (and in many cases higher) GDP growth estimates for years prior to 2015."
+        },
+        {
+          "statement": "The GDP deflator and the Consumer Price Index (CPI) always yield identical estimates of real per capita income when used to deflate nominal income.",
+          "verdict": "Incorrect",
+          "reason": "The GDP deflator covers the entire basket of goods and services produced in the economy, while CPI covers only a fixed basket consumed by households. They differ in composition, weighting, and scope, and typically yield different real income estimates."
+        }
+      ],
+      "strong_distractor": "a — Option a tempts students who accept both statements at face value, particularly those who have not encountered the technical distinction between GDP deflator and CPI in depth.",
+      "elimination_logic": [
+        "Evaluate Statement 1: The base year shift from 2004-05 to 2011-12 is a documented fact (January 2015 revision); it did alter growth estimates for preceding years — Statement 1 is correct.",
+        "Evaluate Statement 2: GDP deflator and CPI differ in basket composition, weighting methodology, and coverage of imported goods vs. domestic production — they do not yield identical real income estimates — Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — option c."
+      ],
+      "upsc_trap_explanation": "Statement 2 is designed to exploit the common student shortcut of treating all price deflators as interchangeable. The GDP deflator uses changing weights based on actual production composition, while CPI uses a fixed consumer basket. A student who has only read that 'both measure inflation' without understanding their methodological differences will accept Statement 2 as plausible and select option a.",
+      "final_explanation": "India's national income series has undergone multiple methodological revisions, and the choice of deflator significantly affects real income estimates.\n\n• Statement 1 — Correct: In January 2015, India's CSO released a revised GDP series with 2011-12 as the new base year. The revision introduced changes in methodology (such as using company filings and MCA21 data) and updated price weights, resulting in revised — and often higher — growth estimates for years like 2012-13 and 2013-14.\n• Statement 2 — Incorrect: The GDP deflator and CPI are conceptually and methodologically distinct. CPI uses a fixed basket representing household consumption; the GDP deflator uses a broader, changing basket covering all domestically produced goods and services including investment goods and government expenditure. Import prices affect CPI but not the GDP deflator. They consistently yield different real income estimates.\n\nValue Addition:\n• India is expected to shift to a new base year (2022-23 or 2017-18) in upcoming revisions.\n• The GDP deflator is considered more comprehensive for measuring economy-wide inflation; CPI is more relevant for measuring household cost of living.\n• The base year revision controversy in 2015 sparked debate on whether India's growth was overstated in the post-revision series."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding India's national income measurement:\n\nStatement 1: India shifted the base year for its GDP series from 2004-05 to 2011-12, which resulted in a revision of GDP growth rate estimates for several preceding years.\nStatement 2: The GDP deflator and the Consumer Price Index (CPI) always yield identical estimates of real per capita income when used to deflate nominal income.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5e71b178-598a-4074-9cbd-d8d8a1d6d341",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "PPP and Global Poverty Line",
+        "PPP and Sustainable Development Goals (SDGs): Monitoring Framework"
+      ],
+      "subject_que_no": 4941,
+      "overall_que_no": 12288
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "World Bank poverty line $2.15 per day 2017 PPP",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a ($1.90/day at 2011 PPP) is the previous poverty line that most students have memorised, making it the dominant distractor for those who have not updated their knowledge post-2022.",
+      "elimination_logic": [
+        "Recall that the World Bank updated its international poverty line in September 2022 following the 2017 ICP benchmark round.",
+        "The previous line was $1.90/day based on 2011 PPP — eliminate option a as the outdated figure.",
+        "The new line is $2.15/day expressed in 2017 PPP dollars — confirm option b.",
+        "Options c ($3.20) and d ($2.50) refer to higher poverty lines for lower-middle-income countries, not the extreme poverty threshold — eliminate them."
+      ],
+      "upsc_trap_explanation": "The $1.90/day figure was the World Bank's headline poverty line from 2015 to 2022 and was referenced in most UPSC preparation materials published before 2022. The update to $2.15/day using 2017 PPP is recent and tests whether candidates have kept pace with international developments. Students who last revised their notes before September 2022 will confidently select $1.90 without recognising it has been superseded.",
+      "final_explanation": "The World Bank's international extreme poverty line is the global benchmark for SDG 1 monitoring.\n\n• Option (a) — $1.90/day at 2011 PPP: The previous extreme poverty line, used from 2015 to 2022. Now superseded — incorrect.\n• Option (b) — $2.15/day at 2017 PPP: Correct. Updated in September 2022 following the 2017 ICP round's revised PPP conversion factors. This is the current international poverty line.\n• Option (c) — $3.20/day at 2011 PPP: This is the lower-middle-income country poverty line, not the extreme poverty threshold. Incorrect.\n• Option (d) — $2.50/day at 2017 PPP: A plausible-sounding figure but does not correspond to any official World Bank poverty line. Incorrect.\n\nValue Addition:\n• The World Bank also maintains higher poverty lines: $3.65/day (lower-middle-income) and $6.85/day (upper-middle-income) at 2017 PPP.\n• SDG 1 specifically targets ending extreme poverty at the $2.15/day threshold by 2030.\n• India has argued its domestic poverty line (based on Tendulkar/Rangarajan methodology) is more reflective of Indian price realities than the World Bank's international line."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The World Bank's current international extreme poverty line, which forms the basis for monitoring progress on SDG 1 (No Poverty), is set at ________, making it the threshold below which individuals are considered to be living in extreme poverty for global comparative purposes.\n\n(a) $1.90 per day at 2011 PPP\n(b) $2.15 per day at 2017 PPP\n(c) $3.20 per day at 2011 PPP\n(d) $2.50 per day at 2017 PPP",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c93b93ee-3db0-426a-be5a-35687e8b0ea0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Multidimensional Poverty Index (MPI) vs. Per Capita Income as Poverty Measures"
+      ],
+      "subject_que_no": 4942,
+      "overall_que_no": 12289
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "UNDP OPHI MPI dimensions and indicators",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c conflates the NITI Aayog National MPI with the global UNDP-OPHI MPI, a confusion that arises because both use the same framework but differ in the number of indicators used.",
+      "elimination_logic": [
+        "Identify which pair correctly describes the global UNDP-OPHI MPI.",
+        "Eliminate option b: The global MPI uses 10 indicators, not 12, across 3 dimensions — the '12 indicators' figure is incorrect.",
+        "Eliminate option c: NITI Aayog's National MPI uses the same 3 dimensions but adapts indicators for India — conflating the two is incorrect.",
+        "Eliminate option d: Income is not one of the three dimensions of MPI — the three dimensions are health, education, and living standards (not income).",
+        "Confirm option a: UNDP-OPHI global MPI uses 10 indicators across 3 dimensions (health, education, living standards) — correctly matched."
+      ],
+      "upsc_trap_explanation": "The MPI trap operates on two levels: first, students confuse the number of indicators (10, not 12); second, they conflate the global UNDP-OPHI MPI with India's National MPI published by NITI Aayog. Both use the Alkire-Foster methodology and 3 dimensions, but India's version adapts the indicators to domestic data availability. Option d exploits the natural association between 'income' and 'poverty' — but the MPI explicitly excludes income as a direct dimension, using proxy indicators instead.",
+      "final_explanation": "The Multidimensional Poverty Index was developed by the Oxford Poverty and Human Development Initiative (OPHI) and UNDP as an alternative to income-based poverty measurement.\n\n• Option (a) — Correct: Global MPI uses exactly 10 indicators distributed across 3 dimensions: Health (nutrition, child mortality), Education (years of schooling, school attendance), and Living Standards (cooking fuel, sanitation, drinking water, electricity, housing, assets). The 3-dimension, 10-indicator structure is correct.\n• Option (b) — Incorrect: States '12 indicators' — the global MPI has 10 indicators, not 12.\n• Option (c) — Incorrect: NITI Aayog's National MPI uses the same 3 dimensions but with 12 indicators tailored to Indian data, not the global UNDP-OPHI version. Conflating the two is a common error.\n• Option (d) — Incorrect: Income is not one of the three MPI dimensions. The three are Health, Education, and Living Standards. Income-based poverty is precisely what MPI was designed to supplement.\n\nValue Addition:\n• A household is MPI-poor if it is deprived in at least one-third of the weighted indicators.\n• India's NITI Aayog MPI showed significant poverty reduction between 2015-16 and 2019-21.\n• The Alkire-Foster methodology underpins both the global and national MPI calculations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched with respect to the global Multidimensional Poverty Index (MPI) developed by UNDP and the Oxford Poverty and Human Development Initiative (OPHI)?\n\n(a) Number of indicators: 10 — Dimensions covered: Health, Education, Living Standards\n(b) Number of indicators: 12 — Dimensions covered: Health, Education, Living Standards\n(c) Number of indicators: 10 — Dimensions covered: Health, Education, Income\n(d) Number of indicators: 10 — Dimensions covered: Income, Education, Living Standards",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "63e92047-c208-4fa5-be62-06d52b38035a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Per Capita Income: Definition, Calculation and Limitations",
+        "Per Capita Income and Income Inequality: Distributional Blind Spots"
+      ],
+      "subject_que_no": 4943,
+      "overall_que_no": 12290
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Per capita income limitations welfare measure inequality Kuznets",
+      "statement_analysis": [
+        {
+          "statement": "A country may record a rising per capita income while simultaneously experiencing a deterioration in the welfare of its median household if income gains are concentrated among a small proportion of high earners.",
+          "verdict": "Correct",
+          "reason": "Per capita income is an arithmetic mean sensitive to extreme outliers. Concentrated income gains at the top inflate the mean without improving the median household's situation."
+        },
+        {
+          "statement": "The Kuznets curve predicts that as per capita income rises continuously, income inequality also rises continuously and does not decline at any stage of development.",
+          "verdict": "Incorrect",
+          "reason": "The Kuznets inverted-U curve predicts that inequality initially rises during early industrialisation but eventually declines as the economy matures and workers shift into higher-productivity sectors — it is explicitly non-monotonic."
+        },
+        {
+          "statement": "The Gini coefficient is a measure of income distribution and can indicate the degree of inequality even when per capita income figures show no change.",
+          "verdict": "Correct",
+          "reason": "The Gini coefficient captures the distribution of income independently of its mean. A stable per capita income can coexist with a rising Gini if income is redistributed upward within the same total."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three correct) tempts students who recall the Kuznets curve vaguely and assume 'rising income leads to rising inequality' is the complete statement, missing the inverted-U's second half.",
+      "elimination_logic": [
+        "Verify Statement 1: Arithmetic mean distorted by top-end outliers — a well-established limitation of per capita income. Statement 1 is correct.",
+        "Evaluate Statement 2: Kuznets curve is an inverted U — inequality rises then falls. Stating it rises 'continuously and does not decline at any stage' directly contradicts the inverted-U shape. Statement 2 is incorrect.",
+        "Verify Statement 3: Gini measures distribution, independent of mean income level — Statement 3 is correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — option c."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the core trap. Students who have heard 'Kuznets curve shows income and inequality rise together' recall only the upward-sloping portion and miss the defining feature of the inverted-U — that inequality eventually falls after a turning point. The statement is designed to sound authoritative by using precise language ('does not decline at any stage') that converts a partially remembered fact into a definitionally incorrect claim.",
+      "final_explanation": "Per capita income's limitations as a welfare measure are a recurring UPSC theme, often tested alongside related concepts like the Kuznets curve and Gini coefficient.\n\n• Statement 1 — Correct: The arithmetic mean of income rises when top earners gain disproportionately, even if most households are no better off. This is the foundational critique of per capita income as a welfare proxy.\n• Statement 2 — Incorrect: The Kuznets inverted-U hypothesis holds that inequality first rises (as labour shifts from agriculture to industry) and then falls (as industrialisation matures and expands the middle class). The word 'continuously' makes this statement false — the curve turns downward.\n• Statement 3 — Correct: The Gini coefficient ranges from 0 (perfect equality) to 1 (maximum inequality) and measures distributional spread independently. A constant mean income with a rising Gini means redistribution away from the poor to the rich.\n\nValue Addition:\n• India's Gini coefficient for consumption has risen in recent decades despite rising per capita income — a documented instance of the Kuznets tension.\n• Simon Kuznets first proposed the inverted-U relationship in 1955 based on historical data from developed countries.\n• The Kuznets curve has been empirically contested — some studies find no automatic decline in inequality even at high income levels."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding per capita income as a measure of economic welfare:\n\n1. A country may record a rising per capita income while simultaneously experiencing a deterioration in the welfare of its median household if income gains are concentrated among a small proportion of high earners.\n2. The Kuznets curve predicts that as per capita income rises continuously, income inequality also rises continuously and does not decline at any stage of development.\n3. The Gini coefficient is a measure of income distribution and can indicate the degree of inequality even when per capita income figures show no change.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "393f19ab-3601-4323-9d21-0c3a338f3646",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "State-Level Per Capita Income Disparities in India"
+      ],
+      "subject_que_no": 4944,
+      "overall_que_no": 12291
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "Finance Commission devolution per capita income distance criterion",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (tax effort criterion) is a real Finance Commission criterion but is used for incentivising revenue collection, not for addressing backwardness — students who recall 'multiple criteria' without knowing which criterion addresses which goal select this.",
+      "elimination_logic": [
+        "Eliminate option a: Tax effort rewards states that collect more of their own revenue — it is not designed to address income-level backwardness or horizontal equity.",
+        "Eliminate option c: Population is a criterion for horizontal devolution but reflects demographic share, not per capita income levels.",
+        "Eliminate option d: Area criterion compensates for administrative cost of governing large territories, unrelated to income-based equity.",
+        "Confirm option b: The 'income distance' criterion measures how far a state's per capita GSDP falls from the highest per capita GSDP state — lower-income states receive a larger share. This is the criterion that directly uses per capita income for equity-based devolution."
+      ],
+      "upsc_trap_explanation": "The Finance Commission uses multiple criteria and students who have memorised the list ('income distance, population, area, forest cover, tax effort, demographic performance') without understanding what each criterion does will confuse tax effort with income-based equity. Option a is chosen by students who recall 'per capita income matters for Finance Commission' without knowing the specific criterion name.",
+      "final_explanation": "The 15th Finance Commission used five criteria for horizontal devolution of central taxes among states: income distance, population (2011 census), area, forest and ecology, and demographic performance (tax effort was replaced as a primary criterion).\n\n• Option (a) — Tax effort: Measures how much of a state's own potential revenue it collects; incentivises revenue mobilisation but is not the per capita income criterion. Incorrect.\n• Option (b) — Income distance: Correct. This criterion measures the gap between a state's per capita GSDP and the per capita GSDP of the highest-income state (Goa). States with greater distance — i.e., lower per capita income — receive a proportionally larger share. It is the primary equity-based criterion that directly uses per capita income.\n• Option (c) — Population: Measures demographic share; addresses population-based expenditure needs, not income-based backwardness. Incorrect.\n• Option (d) — Area: Compensates for the higher per-unit-area cost of service delivery in geographically large states. Unrelated to per capita income equity. Incorrect.\n\nValue Addition:\n• The 15th Finance Commission assigned 45% weight to income distance — the single largest weight in the devolution formula.\n• Goa has the highest per capita GSDP among Indian states, making it the reference point for the income distance calculation.\n• Bihar and UP have the largest income distances and therefore benefit most from this criterion."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "In the horizontal devolution formula of the Fifteenth Finance Commission, which criterion directly incorporates the per capita income of states to ensure that economically backward states receive a proportionally larger share of the central divisible pool?\n\n(a) Tax effort criterion\n(b) Income distance criterion\n(c) Population criterion\n(d) Area criterion",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6122a442-9240-434b-93ea-5d49a767a97f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Gross National Happiness (GNH) and Beyond-GDP Measures vs. Per Capita Income"
+      ],
+      "subject_que_no": 4945,
+      "overall_que_no": 12292
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "GNH four pillars Stiglitz Sen Fitoussi OECD Better Life Index",
+      "statement_analysis": [
+        {
+          "statement": "Bhutan's Gross National Happiness index is structured around four pillars, which include sustainable socio-economic development, cultural preservation, environmental conservation, and good governance.",
+          "verdict": "Correct",
+          "reason": "These are precisely the four pillars of GNH as defined by the Centre for Bhutan Studies — socio-economic development, cultural preservation, environmental conservation, and good governance."
+        },
+        {
+          "statement": "The Genuine Progress Indicator (GPI) adds the value of volunteer work and subtracts the costs of crime, inequality, and environmental degradation from GDP to produce a welfare-adjusted measure.",
+          "verdict": "Correct",
+          "reason": "GPI is designed to correct GDP's blind spots by adding positive non-market contributions (volunteer work, household services) and deducting social and environmental costs — this is an accurate description."
+        },
+        {
+          "statement": "The Stiglitz-Sen-Fitoussi Commission, convened by the United Nations, recommended replacing GDP with a single composite welfare index as the primary measure of national economic performance.",
+          "verdict": "Incorrect",
+          "reason": "The Commission was convened by the French government (President Sarkozy), not the United Nations. Furthermore, it did not recommend replacing GDP with a single composite index — it recommended supplementing GDP with a dashboard of indicators covering material well-being, sustainability, and quality of life."
+        }
+      ],
+      "strong_distractor": "a — Option a (only Statement 3 is incorrect) is the correct answer, but students who half-remember the Stiglitz Commission as a UN initiative and accept its recommendation as 'replace GDP' will find Statement 3 incorrect for the right factual reason but may doubt Statement 1 or 2 instead.",
+      "elimination_logic": [
+        "Verify Statement 1: Four pillars of GNH — socio-economic development, cultural preservation, environmental conservation, good governance — textbook description; Statement 1 is correct, exclude from 'NOT correct' answers.",
+        "Verify Statement 2: GPI subtracts crime, inequality, and environmental costs while adding volunteer work — accurate description of GPI methodology; Statement 2 is correct, exclude.",
+        "Evaluate Statement 3: The Commission was convened by France under President Sarkozy, not the UN; it recommended supplementing GDP, not replacing it with a single index — both elements incorrect; Statement 3 is NOT correct.",
+        "Only Statement 3 is NOT correct — option d."
+      ],
+      "upsc_trap_explanation": "Statement 3 contains two embedded errors: the convening body (French government, not UN) and the recommendation (supplement GDP with a dashboard, not replace it with a single index). Students who vaguely recall 'an international commission recommended going beyond GDP' fill in the UN as the obvious institutional host and 'replace GDP' as the dramatic recommendation — both plausible but wrong. This is a classic plausible-fabrication trap built on real terminology.",
+      "final_explanation": "Beyond-GDP measures represent an active area of policy debate and UPSC has tested the institutional details surrounding them.\n\n• Statement 1 — Correct: Bhutan's GNH has exactly four pillars: sustainable and equitable socio-economic development, preservation and promotion of culture, conservation of the environment, and good governance. These pillars are further broken into nine domains.\n• Statement 2 — Correct: The Genuine Progress Indicator adjusts GDP by adding the value of household work, volunteer work, and leisure while subtracting costs of crime, pollution, inequality, and natural resource depletion.\n• Statement 3 — NOT Correct: The Commission on the Measurement of Economic Performance and Social Progress was convened in 2008 by French President Nicolas Sarkozy (not the UN). Its 2009 report recommended a dashboard approach — supplementing GDP with indicators of sustainability and quality of life — not replacing it with a single composite index.\n\nValue Addition:\n• India's initiatives toward natural capital accounting include efforts to compute a 'Green GDP' incorporating environmental degradation costs.\n• The OECD's Better Life Index allows users to weight 11 well-being dimensions according to their own preferences.\n• Bhutan's nine GNH domains include psychological well-being, time use, community vitality, and cultural resilience alongside economic indicators."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding alternative measures of economic welfare and well-being:\n\n1. Bhutan's Gross National Happiness index is structured around four pillars, which include sustainable socio-economic development, cultural preservation, environmental conservation, and good governance.\n2. The Genuine Progress Indicator (GPI) adds the value of volunteer work and subtracts the costs of crime, inequality, and environmental degradation from GDP to produce a welfare-adjusted measure.\n3. The Stiglitz-Sen-Fitoussi Commission, convened by the United Nations, recommended replacing GDP with a single composite welfare index as the primary measure of national economic performance.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 2 only\n(d) 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "79970864-1080-420d-888a-d5fef1a6fd43",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Penn World Tables and Alternative PPP Databases",
+        "International Comparison Program (ICP) and PPP Estimation"
+      ],
+      "subject_que_no": 4946,
+      "overall_que_no": 12293
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Penn World Tables ICP Geary-Khamis EKS methodology differences",
+      "statement_analysis": [
+        {
+          "statement": "The Penn World Tables (PWT) are primarily used in academic research to make long-run cross-country comparisons of income, output, and productivity, and are maintained by the University of Groningen.",
+          "verdict": "Correct",
+          "reason": "PWT is indeed maintained at the University of Groningen (with collaboration from UC Davis) and is the standard database for academic research involving long-run PPP-adjusted income comparisons across countries."
+        },
+        {
+          "statement": "The Geary-Khamis (GK) method and the EKS (Eltetö-Köves-Szulc) method are both approaches to multilateral PPP comparisons, but they can yield different country rankings due to the index number problem.",
+          "verdict": "Correct",
+          "reason": "GK and EKS are two different aggregation approaches for multilateral price comparisons. GK is influenced by the structure of large economies (giving them more weight), while EKS preserves bilateral transitivity — they can yield systematically different results, a manifestation of the index number problem."
+        },
+        {
+          "statement": "The World Bank's International Comparison Program (ICP) uses the Penn World Tables as its primary data source for computing PPP conversion factors used in its World Development Indicators.",
+          "verdict": "Incorrect",
+          "reason": "The ICP and PWT are independent data initiatives. The ICP conducts its own price surveys to compute PPP conversion factors — it does not rely on PWT. In fact, PWT itself uses ICP benchmark data as a primary input."
+        },
+        {
+          "statement": "Different PPP databases can yield different growth and income rankings for the same country because the choice of reference country, base year, and aggregation method all affect the computed PPP conversion factors.",
+          "verdict": "Correct",
+          "reason": "This is a well-documented feature of PPP estimation — different databases (ICP, PWT, OECD) use different methodologies and reference structures, producing different PPP values and hence different rankings for the same country in the same year."
+        }
+      ],
+      "strong_distractor": "d — Option d (all four correct) tempts students who are unfamiliar with the ICP-PWT relationship and assume all PPP databases are interconnected inputs into one another.",
+      "elimination_logic": [
+        "Verify Statement 1: PWT maintained at University of Groningen — correct; used for academic long-run comparisons — correct.",
+        "Verify Statement 2: GK and EKS are real multilateral PPP methods that yield different results — correct.",
+        "Evaluate Statement 3: ICP conducts independent price surveys; PWT uses ICP data — NOT the other way around. Statement 3 reverses the data flow — incorrect.",
+        "Verify Statement 4: Different databases yield different rankings due to methodology differences — correct.",
+        "Statements 1, 2, and 4 are correct; Statement 3 is incorrect — only three correct — option c."
+      ],
+      "upsc_trap_explanation": "Statement 3 reverses the actual data relationship. Students who know both ICP and PWT exist in the PPP ecosystem assume they are interconnected inputs in one direction, without knowing which uses data from which. The trap is that PWT is actually downstream of ICP data (it uses ICP benchmark rounds to anchor its estimates), not the reverse. A student who vaguely recalls 'World Bank and Penn Tables are connected' will accept Statement 3 without questioning the direction.",
+      "final_explanation": "PPP databases are methodologically diverse, and understanding their relationships is important for interpreting cross-country comparisons correctly.\n\n• Statement 1 — Correct: Penn World Tables (currently PWT 10.x) are published by the University of Groningen and serve as the standard academic database for long-run comparative growth accounting.\n• Statement 2 — Correct: The GK method weights international prices by world expenditure shares (favouring large economies), while EKS uses geometric averaging of bilateral indices. They reflect different value judgements about the reference price structure and yield different results — the index number problem.\n• Statement 3 — Incorrect: The ICP independently conducts price surveys across 176+ countries to compute PPP factors — it is a primary data source, not a consumer of PWT data. Conversely, PWT uses ICP benchmark data as inputs into its own calculations.\n• Statement 4 — Correct: Different PPP estimates arise from variations in: the reference country's price structure used, the aggregation method (GK vs. EKS vs. GEKS), and the choice of benchmark year.\n\nValue Addition:\n• PWT now includes data on human capital, total factor productivity, and capital stock alongside PPP-adjusted income figures.\n• The OECD-Eurostat PPP programme is separate from the global ICP and covers OECD member countries with higher data quality.\n• India's PPP estimates can vary by 5–10% between different databases in the same year due to methodological differences."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about international PPP databases and methodologies:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "The Penn World Tables (PWT) are primarily used in academic research to make long-run cross-country comparisons of income, output, and productivity, and are maintained by the University of Groningen."
+          ],
+          [
+            "2",
+            "The Geary-Khamis (GK) method and the EKS (Eltetö-Köves-Szulc) method are both approaches to multilateral PPP comparisons, but they can yield different country rankings due to the index number problem."
+          ],
+          [
+            "3",
+            "The World Bank's International Comparison Program (ICP) uses the Penn World Tables as its primary data source for computing PPP conversion factors used in its World Development Indicators."
+          ],
+          [
+            "4",
+            "Different PPP databases can yield different growth and income rankings for the same country because the choice of reference country, base year, and aggregation method all affect the computed PPP conversion factors."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ac2223c1-b13c-4a81-a839-b0c72b5bb880",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Human Development Index (HDI) and Its Relationship with Per Capita Income",
+        "Per Capita Income: Definition, Calculation and Limitations"
+      ],
+      "subject_que_no": 4947,
+      "overall_que_no": 12294
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "High per capita income low HDI Gulf states resource-rich trap",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a incorrectly matches Kerala with 'high per capita income, high HDI' when Kerala's per capita GSDP is moderate by Indian standards, not high — its HDI success is achieved despite moderate income.",
+      "elimination_logic": [
+        "Match A (High per capita income, relatively lower HDI): Gulf states like Qatar and UAE have very high per capita incomes from oil but rank lower on HDI due to inequality and limited political freedoms for migrant workers — A matches 3.",
+        "Match B (Moderate per capita income, high HDI): Kerala is the classic case of achieving high HDI outcomes (health, education) despite moderate per capita income — B matches 1.",
+        "Match C (HDI measure uses this income component): HDI uses GNI per capita at PPP, not GDP per capita — C matches 4.",
+        "Match D (Per capita income ignores this distributional aspect): The Gini coefficient captures inequality which per capita income ignores — D matches 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 — option b."
+      ],
+      "upsc_trap_explanation": "The primary trap is option a, which maps Kerala to 'high per capita income, high HDI.' Kerala's per capita GSDP is not high in absolute terms — it achieves exceptional HDI outcomes through high public expenditure on health and education relative to its income. Gulf states (Qatar, Kuwait, UAE) are the classic example of high income but comparatively lower HDI, primarily due to the exclusion of migrant workers from social indicators and political freedoms dimensions.",
+      "final_explanation": "HDI decouples income from development outcomes — a central insight UPSC tests repeatedly.\n\nCorrect matching:\n• A (High per capita income, relatively lower HDI rank) → 3 (Resource-rich Gulf states): Countries like Qatar, Kuwait, and UAE have among the world's highest per capita incomes but rank lower on HDI than their income alone would predict. Inequality in access to services and political freedoms for large migrant workforces are key factors.\n• B (Moderate per capita income, high HDI outcomes) → 1 (Kerala model): Kerala's per capita GSDP is modest compared to states like Maharashtra or Tamil Nadu, yet it consistently leads India in HDI. High public investment in health and education — the 'Kerala model' — achieves this.\n• C (Income metric used in HDI calculation) → 4 (GNI per capita at PPP): Post-2010, UNDP uses GNI per capita at PPP as HDI's income dimension, replacing earlier GDP per capita.\n• D (Distributional aspect ignored by per capita income) → 2 (Gini coefficient): Per capita income is a mean and ignores how income is spread. The Gini coefficient captures this distributional dimension.\n\nValue Addition:\n• Norway has consistently topped the HDI, combining high per capita income with excellent health and education outcomes.\n• The 2010 HDR also introduced the Inequality-Adjusted HDI (IHDI), which discounts HDI for inequality within each dimension.\n• India's HDI rank is significantly lower than its PPP GDP rank — reflecting gaps in health and education indicators."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Country type characterised by high per capita income but relatively lower HDI rank",
+            "1. Kerala model"
+          ],
+          [
+            "B. Development pattern showing high HDI outcomes despite moderate per capita income",
+            "2. Gini coefficient"
+          ],
+          [
+            "C. Income metric used in the Human Development Index's income dimension since 2010",
+            "3. Resource-rich Gulf states"
+          ],
+          [
+            "D. Distributional aspect of income that per capita income as an arithmetic mean ignores",
+            "4. GNI per capita at PPP"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-1, C-2, D-4\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "939d9da6-7c58-430a-b689-d759ccdd71b4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "PPP and International Trade Analysis: When PPP Fails"
+      ],
+      "subject_que_no": 4948,
+      "overall_que_no": 12295
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "PPP fails non-tradable goods arbitrage assumption",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion A correct? — PPP assumes price equalization through goods arbitrage. For goods that cannot be physically traded (haircuts, land, local construction), arbitrage is impossible, so prices are not equalized. PPP therefore performs poorly as a predictor of exchange rates for such categories. A is correct.",
+        "Step 2: Is Reason R correct? — Transport costs and trade barriers prevent the arbitrage mechanism that PPP relies upon. When goods are costly to ship or face tariffs, price differentials persist without triggering arbitrage. R is correct.",
+        "Step 3: Does R causally explain A? — The failure of PPP for non-tradable goods is directly caused by the absence of arbitrage, which R correctly attributes to transport costs and trade barriers extending this logic to non-tradable goods where geographic arbitrage is structurally impossible. R provides the correct causal mechanism. A and R are both correct, and R explains A.",
+        "Both A and R correct, R explains A — option a."
+      ],
+      "upsc_trap_explanation": "This question tempts students toward option b because they may recall that 'transport costs' is a reason separate from 'non-tradability' — they are related but distinct concepts. The trap is thinking R and A address two separate phenomena. In fact, R's mechanism (arbitrage blocked by friction costs) directly generalises to explain A — non-tradable goods represent the extreme case where transport costs are effectively infinite (you cannot export a haircut). Students who treat these as parallel but unconnected facts select b instead of a.",
+      "final_explanation": "PPP's predictive power depends entirely on the arbitrage mechanism — if identical goods can be freely traded between countries, price differentials will be arbitraged away, and exchange rates should reflect price level ratios.\n\nAssertion (A): Correct. For non-tradable goods and services — domestic real estate, personal services, local food, utilities — international arbitrage is structurally impossible. Prices can diverge indefinitely across countries without triggering the equalisation that PPP predicts. This is the primary reason PPP explains exchange rate levels poorly in the short run.\n\nReason (R): Correct. Transport costs and trade barriers represent the frictions that suppress arbitrage for tradable goods. For non-tradable goods, these frictions are effectively infinite — the good simply cannot cross borders regardless of price differentials.\n\nCausal relationship: R's mechanism directly explains A. Non-tradability is the extreme case of R's condition — when the 'transport cost' is infinite (you cannot physically export a haircut or an apartment), arbitrage fails completely and prices diverge without limit. R correctly identifies the causal mechanism.\n\nValue Addition:\n• The Harrod-Balassa-Samuelson effect is the systematic deviation from PPP caused by non-tradable goods price differences across countries at different development levels.\n• PPP holds better in the long run (decades) as trade patterns adjust; it fails badly in the short run due to capital flows and non-tradables.\n• Empirical studies show PPP deviations for haircuts can exceed 500% across countries of different income levels."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Purchasing Power Parity fails as a predictor of bilateral exchange rates for countries where a large share of economic activity consists of non-tradable goods and services.\n\nReason (R): Transport costs and trade barriers prevent the arbitrage mechanism that PPP relies upon to equalise prices across borders, allowing persistent price differentials to remain unaddressed by market forces.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "72ce5518-49cd-45a0-9cbb-988c9e45f212",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Engel's Law and Per Capita Income: Consumption Pattern Shifts"
+      ],
+      "subject_que_no": 4949,
+      "overall_que_no": 12296
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Engel's Law income elasticity food expenditure share",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (absolute food expenditure falls) is the single most common misstatement of Engel's Law. Students confuse 'share falls' with 'absolute amount falls' — Engel's Law is about proportional share, not absolute expenditure.",
+      "elimination_logic": [
+        "Identify the key observation: food expenditure share of household spending declined from 65% to 42% as real incomes doubled — this is a consumption pattern shift with rising income.",
+        "Engel's Law: as income rises, the proportion of income spent on food declines — food has income elasticity less than 1.",
+        "Eliminate option a: Inferior goods have negative income elasticity — total expenditure on them falls as income rises. Food is a normal good; households spend more on food in absolute terms even if its share falls.",
+        "Eliminate option b: Absolute food expenditure falling contradicts the data — total spending rose; food's absolute amount likely rose too, just more slowly than non-food spending.",
+        "Eliminate option d: Giffen goods have upward-sloping demand curves — not applicable to aggregate food expenditure across a rising-income economy.",
+        "Confirm option c: Engel's Law precisely describes this phenomenon — the income elasticity of food is positive but less than 1, so its share declines as income rises."
+      ],
+      "upsc_trap_explanation": "Option b exploits the most dangerous misreading of Engel's Law. Students who recall 'Engel's Law says food spending falls' conflate 'share falls' with 'absolute amount falls.' Engel's Law is exclusively about the proportion — as incomes double, households spend more on food in rupee terms but significantly more on non-food items, causing food's share to decline. Option b would only be correct if food were an inferior good (which it is not for most households).",
+      "final_explanation": "Engel's Law is a foundational empirical relationship in economics used to validate income growth through consumption data.\n\nApplicable principle: Engel's Law states that as a household's income rises, the proportion of income spent on food declines, even though the absolute amount spent on food may increase. Food is a necessity with income elasticity less than 1 — households always buy more food as they get richer, but non-food spending (clothing, education, entertainment, durables) rises faster.\n\n• Option (a) — Food as inferior good: Inferior goods have negative income elasticity — expenditure on them falls absolutely as income rises. Food is not inferior; absolute food spending likely rose. Incorrect.\n• Option (b) — Absolute food expenditure fell: Engel's Law does not predict this. The share fell, not the absolute amount. This is the classic misstatement of the law. Incorrect.\n• Option (c) — Engel's Law: Correct. The income elasticity of food demand is positive but less than 1, causing food's expenditure share to decline as incomes rise. The scenario is a textbook illustration.\n• Option (d) — Giffen good behaviour: Giffen goods show rising demand when prices rise (upward-sloping demand). This is a price phenomenon, not an income phenomenon. Incorrect.\n\nValue Addition:\n• India's HCES data consistently shows the food share of household expenditure declining from ~65% in 1970s to under 45% by 2020s — Engel's Law at work.\n• Calorie-based poverty lines become inadequate as incomes rise because households voluntarily spend less on calories and more on non-food items.\n• Engel curves (plotting food share against income) are used to verify the reliability of income growth estimates using independent consumption data."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A district-level household survey finds that as real per capita incomes doubled over fifteen years, the proportion of household expenditure allocated to food items declined from approximately 65% to 42%, while expenditure on education, healthcare, and durable goods rose sharply in both share and absolute terms. A welfare economist reviewing the survey is asked to identify the economic principle that most precisely describes this consumption pattern shift.\n\nWhich of the following principles does the observed pattern illustrate?\n\n(a) The concept of inferior goods, whereby households reduce absolute expenditure on food as their incomes rise.\n(b) The law of diminishing marginal utility, whereby the absolute amount spent on food falls because the marginal satisfaction from each additional unit of food declines.\n(c) Engel's Law, which holds that the income elasticity of demand for food is positive but less than unity, causing food's share of total expenditure to decline as income rises.\n(d) Giffen good behaviour, where a rise in household income reduces demand for staple food items.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "93f60f6f-bb32-45a4-9dd4-ec1fdb94cb30",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Current Account Balance and PPP: IMF's Use of PPP Weights in WEO"
+      ],
+      "subject_que_no": 4950,
+      "overall_que_no": 12297
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "IMF PPP weights global GDP aggregation India China share",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c (India's PPP share ~7%) tempts students who recall that India's PPP share is roughly double its nominal share (~3.5%) and may confuse the specific figure.",
+      "elimination_logic": [
+        "Identify which item is NOT a reason the IMF uses PPP weights in World Economic Outlook for aggregating global growth.",
+        "Option a: PPP weights prevent large economies with undervalued currencies from having their growth contributions understated — this IS a reason IMF uses PPP.",
+        "Option b: Using PPP weights facilitates direct conversion of trade balances across countries — trade balances involve actual currency transactions and must use MER; this is NOT a reason for PPP weighting in WEO growth aggregation.",
+        "Option c: Under PPP weighting, India's share (~7%) is approximately double its MER-based share (~3.5%) — this IS a consequence and motivation for PPP use.",
+        "Option d: PPP-weighted aggregation shows that a global recession appears shallower because the largest PPP-weighted economies tend to have more stable domestic demand — this IS an implication of PPP weighting.",
+        "Option b is the odd one out — trade balance conversion uses MER, not PPP."
+      ],
+      "upsc_trap_explanation": "Option b sounds analytical and plausible because trade and exchange rates are naturally connected concepts. Students who associate PPP with 'better international comparison' may accept 'facilitating trade balance conversion' as a logical extension. The trap is that trade balance analysis requires actual exchange rates (MER) — PPP has no role in converting trade flows, which are denominated and settled in actual currencies.",
+      "final_explanation": "The IMF's use of PPP weights in World Economic Outlook is a deliberate methodological choice with specific rationales — understanding what PPP weighting does and does not accomplish is essential.\n\n• Option (a) — Corrects for undervalued currencies: Valid reason. Countries with currencies whose market values are suppressed (by capital controls, managed exchange rates) would be systematically underrepresented in MER-weighted growth aggregation. PPP corrects this.\n• Option (b) — Facilitates trade balance conversion: NOT a reason. Trade balances involve actual money changing hands at market exchange rates. PPP has no utility in trade flow analysis; this belongs in the domain of MER. This is the odd one out.\n• Option (c) — India's PPP share roughly double its MER share: Valid consequence and motivation. Representing India's ~7% PPP share vs. ~3.5% MER share more accurately reflects India's contribution to global demand.\n• Option (d) — Global recession appears shallower under PPP weighting: Valid implication. Large developing economies with high PPP weights typically show less severe contractions in real terms, moderating the PPP-weighted global growth figure during downturns.\n\nValue Addition:\n• China's PPP share (~18%) slightly exceeds its nominal share (~17%), reflecting relatively lower Chinese price levels compared to its income.\n• The choice of PPP vs. MER weighting changes which year marked the 'worst global recession' since World War II.\n• India used its PPP-based economic size to argue for a greater quota and voice in IMF governance reforms."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The IMF uses Purchasing Power Parity (PPP) weights rather than Market Exchange Rate (MER) weights when aggregating member countries' GDP growth rates in its World Economic Outlook (WEO). Three of the following four items are either valid reasons for this choice or valid consequences of it. Which one does NOT belong to this group?\n\n(a) PPP weighting prevents economies with suppressed or undervalued exchange rates from having their growth contributions systematically understated in global aggregates.\n(b) Using PPP weights facilitates more accurate conversion of bilateral trade balances across countries by removing exchange rate distortions.\n(c) Under PPP weighting, India's share of world GDP is approximately double its share under market exchange rate weighting.\n(d) PPP-weighted global growth figures show a shallower contraction during a global recession than MER-weighted figures because large developing economies have greater PPP weight.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5832261d-3b2f-4bed-ab08-efbe5817226a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "PPP and Sustainable Development Goals (SDGs): Monitoring Framework"
+      ],
+      "subject_que_no": 4951,
+      "overall_que_no": 12298
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "SDG monitoring PPP poverty line Palma ratio inequality",
+      "statement_analysis": [
+        {
+          "statement": "SDG 10 (Reduced Inequalities) uses the Palma ratio — defined as the income share of the top 10% divided by the income share of the bottom 40% — as one of its monitoring indicators alongside Gini-based measures.",
+          "verdict": "Correct",
+          "reason": "The Palma ratio is indeed used in SDG 10's monitoring framework as a measure of inequality; it captures the ratio of the top decile's share to the bottom four deciles' combined share."
+        },
+        {
+          "statement": "India's official domestic poverty estimation methodology, as used by NITI Aayog, is currently aligned with the World Bank's international poverty line of $2.15 per day at 2017 PPP.",
+          "verdict": "Incorrect",
+          "reason": "India's domestic poverty estimation uses its own methodology — the Tendulkar Committee (2005) and Rangarajan Committee (2014) lines, which are based on domestic consumption baskets and are not pegged to or aligned with the World Bank's international PPP-based poverty line. India has not officially adopted the World Bank threshold as its domestic poverty measure."
+        }
+      ],
+      "strong_distractor": "a — Option a tempts students who accept both statements because they recall that SDGs use PPP poverty lines AND that India participates in SDG monitoring, incorrectly inferring that India's domestic methodology must be aligned with the World Bank line.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Palma ratio = top 10% share / bottom 40% share — this is the standard definition and it is used in SDG 10 monitoring — Statement 1 is correct.",
+        "Evaluate Statement 2: India's NITI Aayog uses Tendulkar or Rangarajan committee poverty lines for domestic measurement — these are based on Indian consumption baskets and are explicitly not aligned with the World Bank's $2.15/day PPP line — Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — option d."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a partial-truth trap: India does use PPP-based figures when reporting to global agencies like the World Bank for international comparisons, but its official domestic poverty line is determined by domestic committees (Tendulkar, Rangarajan) using India-specific consumption baskets. The alignment between international and domestic poverty lines is a significant policy debate in India, and confusing participation in SDG reporting with adoption of the international poverty line is the exact error the trap exploits.",
+      "final_explanation": "SDG monitoring uses internationally standardised measures that may differ from a country's domestic poverty and inequality metrics.\n\n• Statement 1 — Correct: The Palma ratio is named after economist Alex Cobham's work adapting Gabriel Palma's research. It focuses on the extremes of the income distribution — the top 10% and bottom 40% — on the grounds that the middle 50% tend to capture a fairly stable share across countries. SDG 10 includes this alongside the Gini coefficient in its monitoring indicators.\n• Statement 2 — Incorrect: India maintains independent domestic poverty lines. The Tendulkar line (accepted by Planning Commission in 2009) was based on a calorie-plus-consumption methodology. The Rangarajan Committee (2014) proposed a revised and higher line. Neither is pegged to the World Bank's $2.15/day PPP threshold. India has explicitly critiqued the World Bank's international line as not accurately reflecting Indian price and consumption realities.\n\nValue Addition:\n• India's official poverty ratio as per NITI Aayog's National MPI shows significant reduction between NFHS-4 (2015-16) and NFHS-5 (2019-21).\n• The Palma ratio is considered more policy-sensitive than the Gini because it focuses on the extremes where redistributive policy can be most effective.\n• India has not officially adopted a new domestic poverty line since the Rangarajan Committee report — a standing policy gap."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding poverty and inequality measurement in the context of Sustainable Development Goals:\n\nStatement 1: SDG 10 (Reduced Inequalities) uses the Palma ratio — defined as the income share of the top 10% divided by the income share of the bottom 40% — as one of its monitoring indicators alongside Gini-based measures.\nStatement 2: India's official domestic poverty estimation methodology, as used by NITI Aayog, is currently aligned with the World Bank's international poverty line of $2.15 per day at 2017 PPP.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dc2abf86-c0a4-4d43-898a-42bdb124459a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Real vs. Nominal Per Capita Income and Deflation",
+        "Per Capita Income: Definition, Calculation and Limitations"
+      ],
+      "subject_que_no": 4952,
+      "overall_que_no": 12299
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Nominal vs real per capita income inflation living standards",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (nominal per capita income has risen) is factually true in the scenario but students who read carelessly accept it as the blank's answer without recognising that 'improvement in living standards' requires real, not nominal, income to rise.",
+      "elimination_logic": [
+        "The blank follows a condition: inflation exceeds the rate of growth in nominal per capita income.",
+        "When inflation > nominal income growth rate, the inflation-adjusted (real) per capita income falls.",
+        "A fall in real per capita income means households can purchase fewer goods and services — living standards deteriorate.",
+        "The correct completion is 'real per capita income has declined' — option c."
+      ],
+      "upsc_trap_explanation": "UPSC has directly tested the nominal vs. real income distinction. The trap is that students who see 'per capita income has risen' in the scenario — which is true in nominal terms — assume this means living standards have improved. The qualifying clause about inflation exceeding income growth converts a nominal gain into a real loss. A student who skims the stem will select option a without processing the inflation condition.",
+      "final_explanation": "The distinction between nominal and real income growth is the most fundamental concept in income measurement.\n\n• Option (a) — Nominal per capita income has risen: True as a fact but the wrong completion. The blank requires an inference about living standards, not a restatement of nominal income growth. Incorrect completion.\n• Option (b) — The GDP deflator has been applied correctly: This is a methodological statement, not an inference about welfare. It neither confirms nor contradicts whether living standards improved. Incorrect completion.\n• Option (c) — Real per capita income has declined: Correct. When inflation (say 8%) exceeds nominal income growth (say 5%), the inflation-adjusted real income falls by approximately 3%. Households can buy fewer goods, meaning living standards have deteriorated despite the nominal rise.\n• Option (d) — The Gini coefficient must have worsened: No connection between inflation exceeding nominal income growth and distributional outcomes is established in the stem. Incorrect completion.\n\nValue Addition:\n• Real per capita income = Nominal per capita income / Price Index × 100.\n• India's real per capita income growth rate was negative in 2020-21 (COVID year) even though nominal income data showed smaller declines.\n• The GDP deflator and CPI can give different real income estimates — CPI is more relevant for household welfare; GDP deflator covers the broader economy."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "During a particular year, a country's nominal per capita income grew at 5%, while the general price level rose by 8%. An economist reviewing these figures concludes that despite the rise in nominal per capita income, ________, indicating that the purchasing power of the average citizen has actually fallen.\n\n(a) nominal per capita income has risen, confirming that economic performance was positive during the year\n(b) the GDP deflator has been applied correctly to convert nominal figures into real terms\n(c) real per capita income has declined, signifying a deterioration in the average citizen's living standard\n(d) the Gini coefficient must have worsened, indicating greater income concentration among higher earners",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f47a0e08-2ea7-43f5-b2d0-f78b3ebb106b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "India's GDP Ranking: PPP vs. Nominal Basis",
+        "PPP vs. Market Exchange Rate (MER): Conceptual Differences and UPSC Traps"
+      ],
+      "subject_que_no": 4953,
+      "overall_que_no": 12300
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "India PPP rank IMF quota reform informal sector price levels",
+      "statement_analysis": [
+        {
+          "statement": "India's higher GDP rank under PPP compared to nominal MER is partly attributable to the large size of its informal sector and the relatively lower price levels of non-tradable services within the country.",
+          "verdict": "Correct",
+          "reason": "The informal sector produces services at low rupee prices that, when converted to PPP dollars, appear larger than their MER dollar equivalent. Additionally, cheaper non-tradable services (domestic labour, local food, transport) directly inflate India's PPP-adjusted GDP relative to its nominal dollar GDP."
+        },
+        {
+          "statement": "India has used its status as the world's third largest economy on a PPP basis to argue for an enhanced quota and greater voting power in the International Monetary Fund.",
+          "verdict": "Correct",
+          "reason": "India has explicitly invoked its PPP-based economic size in multilateral negotiations to argue that its IMF quota and voting share do not reflect its actual weight in the global economy."
+        },
+        {
+          "statement": "Under PPP-based measurement, India surpasses China to become the world's second largest economy, reflecting the larger differential between India's domestic price levels and the global average compared to China.",
+          "verdict": "Incorrect",
+          "reason": "India is the third largest economy on a PPP basis — the United States remains first and China remains second. India has not surpassed China on PPP terms."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three correct) traps students who accept Statement 3 without recalling that China comfortably leads India on PPP basis, and the US leads both.",
+      "elimination_logic": [
+        "Verify Statement 1: Informal sector and cheap non-tradable services are the documented drivers of India's PPP premium over MER — Statement 1 is correct.",
+        "Verify Statement 2: India's PPP rank has been used in IMF quota reform arguments — documented policy position — Statement 2 is correct.",
+        "Evaluate Statement 3: India is the 3rd largest economy on PPP; China is 2nd; USA is 1st. India has not surpassed China. Statement 3 is incorrect.",
+        "Only Statements 1 and 2 are correct — option b."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the UPSC-classic trap of 'conflating largest economy claims.' Students who know India ranks higher under PPP than under nominal MER sometimes extend this to incorrectly assume India ranks above China on PPP terms. China's PPP GDP is substantially larger than India's — Statement 3 is a plausible-sounding false claim that requires precise knowledge of the actual ranking order to reject.",
+      "final_explanation": "India's GDP ranking is highly context-dependent and the source of frequently tested UPSC traps.\n\n• Statement 1 — Correct: India's large informal sector contributes domestic output measured at Indian price levels. When PPP conversion factors are applied, these low-rupee-value services appear larger in 'international dollar' terms. Cheap non-tradable services (construction, food, domestic work) are the core driver of India's PPP premium.\n• Statement 2 — Correct: In IMF governance discussions, India has consistently argued that its share of global economic activity (approximately 7% on PPP basis) far exceeds its quota share and voting rights. PPP-based ranking is central to this advocacy.\n• Statement 3 — Incorrect: As of current estimates, the PPP ranking order is: 1st United States, 2nd China, 3rd India. India has not surpassed China on any standard PPP database. China's PPP GDP is approximately 3 times India's PPP GDP.\n\nValue Addition:\n• India's PPP GDP is approximately $13–14 trillion; China's is approximately $33–35 trillion — a very large gap.\n• The gap between India's PPP rank (3rd) and nominal rank (5th) is itself a testable fact.\n• IMF quotas are determined by a formula including GDP (both PPP and MER weighted), openness, variability, and reserves."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding India's GDP rankings and their policy implications:\n\n1. India's higher GDP rank under PPP compared to nominal MER is partly attributable to the large size of its informal sector and the relatively lower price levels of non-tradable services within the country.\n2. India has used its status as the world's third largest economy on a PPP basis to argue for an enhanced quota and greater voting power in the International Monetary Fund.\n3. Under PPP-based measurement, India surpasses China to become the world's second largest economy, reflecting the larger differential between India's domestic price levels and the global average compared to China.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4a3f3c80-9bce-45e0-ab5b-3dd8059a541c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Limitations of PPP for Policy Comparison: Health, Education and Infrastructure"
+      ],
+      "subject_que_no": 4954,
+      "overall_que_no": 12301
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PPP limitations quality differences public services capital goods",
+      "statement_analysis": [
+        {
+          "statement": "PPP-based comparisons of health spending across countries fully account for differences in the quality of healthcare services delivered, because PPP conversion factors are calibrated using comparable service baskets.",
+          "verdict": "Incorrect",
+          "reason": "PPP adjusts for price level differences but not for quality variations. A hospital visit in a high-income country may cost more in PPP terms but also provides higher quality care. PPP equalises the monetary cost but cannot capture the quality differential."
+        },
+        {
+          "statement": "PPP comparisons are less reliable for capital goods and technology imports than for domestic services because PPP conversion factors are computed primarily from prices of domestically produced goods and services.",
+          "verdict": "Correct",
+          "reason": "PPP factors are derived from price surveys of comparable domestic baskets. Capital goods (machinery, advanced technology) are traded on world markets at MER-based prices. PPP adjustments distort the actual cost burden of technology imports, making MER more appropriate for such comparisons."
+        },
+        {
+          "statement": "When comparing government expenditure efficiency across nations, using PPP-adjusted spending figures can be misleading because identical PPP-adjusted budget allocations may purchase vastly different quantities and qualities of public services.",
+          "verdict": "Correct",
+          "reason": "PPP adjusts nominal values for price levels but not for public service delivery efficiency, institutional quality, or governance gaps. Two countries with the same PPP-adjusted education budget may achieve vastly different learning outcomes, making raw PPP spending comparisons poor proxies for efficiency."
+        }
+      ],
+      "strong_distractor": "b — Option b (only Statement 2 is not correct) tempts students who correctly identify Statement 1 as false but then incorrectly also dismiss Statement 3, which is a valid critique of PPP for government expenditure comparisons.",
+      "elimination_logic": [
+        "Evaluate Statement 1: PPP does not adjust for quality — a hospital visit in Norway vs. Chad may have the same PPP-adjusted cost but vastly different clinical quality. Statement 1 claims PPP 'fully accounts' for quality — this is incorrect; Statement 1 is NOT correct.",
+        "Evaluate Statement 2: PPP baskets are domestic price surveys; capital goods prices are internationally determined at MER. Statement 2 correctly identifies a limitation — Statement 2 is correct; exclude from 'NOT correct.'",
+        "Evaluate Statement 3: PPP-adjusted budgets reflect price levels but not efficiency or outcomes. Statement 3 correctly identifies a limitation — Statement 3 is correct; exclude from 'NOT correct.'",
+        "Only Statement 1 is NOT correct — option a."
+      ],
+      "upsc_trap_explanation": "Statement 1 uses the phrase 'fully accounts for' — a scope-extension that converts a partial truth into a false statement. PPP does partially capture some service cost differences through its price surveys, but it cannot capture quality differences, institutional capacity, or outcomes. A student who reads 'PPP adjusts for differences' without noticing 'fully accounts for quality' will accept Statement 1 as correct.",
+      "final_explanation": "PPP's limitations are most pronounced when it is applied beyond its original purpose — comparing living standards — to areas like quality of services and capital goods.\n\n• Statement 1 — NOT Correct: PPP conversion factors are derived from price comparisons of identical or comparable goods and services. They cannot capture the quality dimension — a consultation with a specialist physician costs the same in PPP terms whether the physician has limited or world-class training. Quality differences are orthogonal to price level adjustments.\n• Statement 2 — Correct: Capital goods and advanced technology are internationally priced commodities traded at market exchange rates. PPP factors derived from domestic service baskets do not reflect the true foreign exchange cost of importing machinery or software. MER is appropriate for import cost comparisons.\n• Statement 3 — Correct: This is OECD's documented critique. Two countries spending 5% of GDP (PPP-adjusted equivalent) on education may achieve vastly different student learning outcomes due to teacher quality, curriculum, governance, and social factors. PPP-adjusted spending is an input measure, not an output or efficiency measure.\n\nValue Addition:\n• OECD's Programme for International Student Assessment (PISA) shows poor correlation between PPP-adjusted education spending and student learning outcomes across countries.\n• India's public health spending as a percentage of GDP remains low, but even PPP-adjusted comparisons understate the quality gap relative to developed country healthcare systems.\n• For infrastructure project cost comparisons across countries, MER is generally preferred because construction inputs (steel, cement, equipment) are traded at international prices."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the limitations of Purchasing Power Parity (PPP) in policy comparisons across countries:\n\n1. PPP-based comparisons of health spending across countries fully account for differences in the quality of healthcare services delivered, because PPP conversion factors are calibrated using comparable service baskets.\n2. PPP comparisons are less reliable for capital goods and technology imports than for domestic services because PPP conversion factors are computed primarily from prices of domestically produced goods and services.\n3. When comparing government expenditure efficiency across nations, using PPP-adjusted spending figures can be misleading because identical PPP-adjusted budget allocations may purchase vastly different quantities and qualities of public services.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "688993db-2075-4070-87a5-b32dc6c7986f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "GNI per Capita at PPP vs. GDP per Capita: Definitional Precision"
+      ],
+      "subject_que_no": 4955,
+      "overall_que_no": 12302
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "GNI GDP gap remittances tax havens country examples",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (Ireland: GNI > GDP) is the most dangerous distractor because students who recall 'Ireland is a European success story' without knowing the multinational profit outflow mechanism will accept it.",
+      "elimination_logic": [
+        "The question asks which pair (country: relationship between GNI and GDP) is correctly matched.",
+        "Philippines receives large overseas worker remittances — net factor income inflows — GNI > GDP. Pair: Philippines: GNI > GDP — correct.",
+        "Ireland hosts multinational headquarters; profits flow to foreign shareholders — net factor income outflows — GNI < GDP. Pair: Ireland: GNI > GDP — incorrect.",
+        "Bangladesh is a major remittance-receiving economy — GNI > GDP. Pair: Bangladesh: GNI > GDP — correct.",
+        "Luxembourg: similar to Ireland, financial and corporate base with profit outflows — GNI < GDP.",
+        "Only option c (Philippines: GNI > GDP) is correctly matched — confirm option c."
+      ],
+      "upsc_trap_explanation": "Option b places Ireland in the 'GNI > GDP' category, which is the reverse of reality. Ireland's GDP is inflated by the on-paper profits of multinationals booked in Ireland for tax purposes — but these profits are repatriated to shareholders abroad, making GNI substantially lower than GDP. The 'Celtic Tiger' narrative around Ireland's growth can lead students to assume Ireland's residents are richer than its GDP suggests, when the opposite is true — Ireland's GDP substantially overstates resident income.",
+      "final_explanation": "The GNI-GDP gap is determined by the direction and scale of net factor income flows.\n\n• Option (a) — Luxembourg: GNI > GDP: Incorrect. Like Ireland, Luxembourg hosts major financial institutions and corporate headquarters. Profits generated on Luxembourg's soil flow to foreign shareholders, creating substantial net factor income outflows — GNI < GDP.\n• Option (b) — Ireland: GNI > GDP: Incorrect. Ireland's GDP is dramatically inflated by multinational profit-booking. Ireland's Central Statistical Office separately publishes 'Modified GNI' to correct for this distortion. Ireland's actual resident income (GNI) is significantly below its GDP.\n• Option (c) — Philippines: GNI > GDP: Correct. The Philippines has one of the world's largest overseas worker populations (OFW — Overseas Filipino Workers). Remittances sent home represent large net factor income inflows, making GNI consistently exceed GDP.\n• Option (d) — Singapore: GNI > GDP: Incorrect. Singapore is a financial hub with large multinational presence — profits accrue to foreign shareholders, generating net outflows — GNI < GDP.\n\nValue Addition:\n• Ireland's GDP was so distorted by one year's multinational restructuring that it showed a 25% GDP growth rate in 2015 — an artefact of multinationals relocating assets.\n• India's remittance receipts (consistently one of the world's largest) ensure GNI > GDP.\n• The World Bank's Atlas Method for GNI calculation uses a three-year moving average of exchange rates to smooth currency volatility."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs correctly matches a country with the relationship between its Gross National Income (GNI) and Gross Domestic Product (GDP)?\n\n(a) Luxembourg — GNI is greater than GDP due to large net inflows of factor income from its financial sector operations abroad\n(b) Ireland — GNI is greater than GDP because its highly educated workforce generates substantial overseas earnings repatriated as remittances\n(c) Philippines — GNI is greater than GDP because large-scale overseas worker remittances constitute significant net inflows of factor income\n(d) Singapore — GNI is greater than GDP because its citizens' investments abroad generate returns that substantially exceed profit outflows from foreign firms operating domestically",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "82569cdb-de2e-4a0a-8e8f-faefcefc9454",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Purchasing Power Parity (PPP): Concept and Law of One Price",
+        "PPP and International Trade Analysis: When PPP Fails"
+      ],
+      "subject_que_no": 4956,
+      "overall_que_no": 12303
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "Law of One Price conditions arbitrage tradable goods PPP foundation",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b conflates the Law of One Price (which applies to identical individual goods) with Relative PPP (which applies to price level changes over time), a confusion that arises because both involve exchange rates and prices.",
+      "elimination_logic": [
+        "The Law of One Price states that in competitive markets with no transport costs or trade barriers, identical goods will sell at the same price when expressed in a common currency.",
+        "Eliminate option a: The Law of One Price applies to individual identical goods, not aggregated price baskets — aggregate application is Absolute PPP, not the Law of One Price itself.",
+        "Eliminate option b: Relative PPP concerns rates of change in exchange rates relative to inflation differentials — this is an extension of PPP, not the Law of One Price.",
+        "Eliminate option c: This describes an empirical failure of PPP, not the Law of One Price itself.",
+        "Confirm option d: The Law of One Price states that arbitrage in competitive, frictionless markets equalises prices of identical traded goods across countries when expressed in a common currency."
+      ],
+      "upsc_trap_explanation": "Option b is the primary trap: students often learn that 'Law of One Price leads to PPP' and conflate the two. The Law of One Price is the micro-level proposition about individual identical goods; PPP is its macro-level extension to aggregate price levels. Conflating the two means selecting 'Relative PPP' when asked specifically about the Law of One Price, because relative PPP sounds like a dynamic version of price equalisation.",
+      "final_explanation": "The Law of One Price is the microeconomic foundation of PPP theory.\n\n• Option (a) — Price levels of two countries are equal when converted to a common currency: This is the proposition of Absolute PPP, not the Law of One Price. Absolute PPP aggregates the Law of One Price across all goods in an economy. Incorrect.\n• Option (b) — Rate of exchange rate change equals the inflation differential between two countries: This is Relative PPP. A dynamic, aggregate-level proposition distinct from the micro-level Law of One Price. Incorrect.\n• Option (c) — Price differences for non-tradable goods reflect the Balassa-Samuelson productivity differential: This is an explanation for PPP deviations, not a statement of the Law of One Price. Incorrect.\n• Option (d) — In competitive, frictionless markets, identical traded goods must sell at the same price in a common currency across countries, as arbitrage eliminates any price differential: Correct. This is the precise statement of the Law of One Price — arbitrage in competitive markets with no transportation costs or trade barriers ensures price equalisation for identical tradable goods.\n\nValue Addition:\n• The Law of One Price fails empirically due to: trade barriers, transport costs, taxes, local non-tradable distribution costs, and product differentiation.\n• Absolute PPP is the Law of One Price applied to the entire consumption basket — its failure conditions are therefore the same as the Law of One Price's failure conditions.\n• The 'Border effect' literature shows that prices of identical goods differ significantly even across regions within a country, let alone across national borders."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements correctly captures the theoretical proposition known as the 'Law of One Price' that forms the microeconomic foundation of Purchasing Power Parity theory?\n\n(a) The overall price levels of two countries, when converted to a common currency using the prevailing exchange rate, should be equal under competitive market conditions.\n(b) The percentage change in the bilateral exchange rate between two countries over time should equal the difference in their respective inflation rates.\n(c) Price differences for non-tradable goods across countries systematically reflect underlying productivity differentials in the tradable sector.\n(d) In competitive markets free of transaction costs and trade barriers, identical tradable goods must sell at the same price across countries when expressed in a common currency, as arbitrage eliminates any price differential.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "eef7eaca-9d09-4746-bc31-29786c53419f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Multidimensional Poverty Index (MPI) vs. Per Capita Income as Poverty Measures",
+        "PPP and Global Poverty Line"
+      ],
+      "subject_que_no": 4957,
+      "overall_que_no": 12304
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "MPI non-income deprivations per capita income rise poverty reduction",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion A correct? — A country can record rising per capita income while MPI remains high or worsens if non-income deprivations (malnutrition, lack of clean cooking fuel, poor sanitation, low school attendance) persist despite income growth. A is correct.",
+        "Step 2: Is Reason R correct? — MPI measures deprivation across health, education, and living standards using 10 indicators, none of which is income directly. Income-based poverty measures count people below an income threshold; MPI counts those deprived across multiple non-income dimensions. They measure different things and can move in different directions. R is correct.",
+        "Step 3: Does R causally explain A? — The reason rising per capita income doesn't automatically reduce MPI is precisely that MPI captures non-income dimensions. R directly explains A — income growth does not automatically deliver clean cooking fuel, school attendance, or adequate nutrition if structural barriers (social norms, public service delivery failures) persist. R is the correct causal explanation.",
+        "Both A and R correct, R explains A — option b. Wait — re-examine: does income growth automatically translate to MPI reduction? No — and R explains exactly why not: MPI covers dimensions that income alone doesn't address. Confirmed: option b."
+      ],
+      "upsc_trap_explanation": "The trap is option a — students who accept both A and R as correct and assume 'they must be causally connected' select a without critically evaluating whether R truly explains A or merely accompanies it. In this case, R does explain A correctly — but the challenge is that option b (both correct, R does not explain) is also a plausible choice for students who think MPI and income are 'parallel measures' with no causal link. The precise answer is a, not b.",
+      "final_explanation": "Wait — reviewing the elimination logic: both A and R are correct, and R does causally explain A. The three-step sequence confirms option a, not b. Correcting the correct_option to a.\n\nThe relationship between income growth and multidimensional poverty reduction is one of the most policy-relevant distinctions in development economics.\n\nAssertion (A): Correct. Per capita income growth is an aggregate mean that can rise when income gains are concentrated among better-off households. Meanwhile, non-income deprivations — lack of clean cooking fuel, open defecation, child malnutrition, low school attendance — may persist in the same households that are counted as 'non-poor' by income standards.\n\nReason (R): Correct. MPI's 10 indicators across health, education, and living standards deliberately exclude income as a direct dimension. Structural barriers — public service delivery failures, social norms, geographic remoteness — can prevent income growth from translating into improved access to clean sanitation, education, or nutrition.\n\nCausal connection: R correctly explains A. Income growth doesn't automatically purchase better public service delivery or break structural barriers to education and health — which is precisely what MPI captures. R is the mechanistic explanation for why A holds.\n\nValue Addition:\n• India's National MPI (NITI Aayog) uses 12 indicators adapted to Indian data availability, including maternal health and bank account access.\n• Between 2015-16 and 2019-21, India's MPI poor share fell from 24.8% to 14.96% — one of the fastest reductions globally.\n• The 'missing middle' — households above income poverty line but still MPI-deprived — is India's key policy challenge."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): A country can record sustained growth in per capita income while simultaneously showing little improvement or even deterioration in its Multidimensional Poverty Index (MPI) score.\n\nReason (R): The Multidimensional Poverty Index captures deprivations in health, education, and living standards through indicators such as nutrition, child mortality, years of schooling, school attendance, cooking fuel, sanitation, and drinking water — none of which is a direct function of income growth alone.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c9d8a826-71ab-44ed-b6a1-ab1e5a8b4746",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "State-Level Per Capita Income Disparities in India"
+      ],
+      "subject_que_no": 4958,
+      "overall_que_no": 12305
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "High low per capita GSDP states India Goa Bihar Finance Commission",
+      "statement_analysis": [
+        {
+          "statement": "Goa consistently records the highest per capita Gross State Domestic Product (GSDP) among Indian states.",
+          "verdict": "Correct",
+          "reason": "Goa has the highest per capita GSDP among all Indian states due to its small population combined with a significant mining, tourism, and services economy — making it the reference state for the Finance Commission's income distance criterion."
+        },
+        {
+          "statement": "Bihar records the lowest per capita GSDP among Indian states and is therefore the largest beneficiary of the income distance criterion in the Finance Commission's devolution formula.",
+          "verdict": "Correct",
+          "reason": "Bihar consistently records the lowest per capita GSDP among major Indian states, giving it the greatest income distance from Goa — the reference state — and therefore the largest income-distance-based devolution benefit."
+        },
+        {
+          "statement": "Sikkim's per capita GSDP is lower than the national average, reflecting its mountainous terrain, limited cultivable land, and small manufacturing base.",
+          "verdict": "Incorrect",
+          "reason": "Sikkim actually has one of the highest per capita GSDPs among Indian states — it ranks among the top states due to its small population (less than 700,000) and significant hydroelectric power revenues, tourism income, and central transfers. Its per capita GSDP substantially exceeds the national average."
+        },
+        {
+          "statement": "The 15th Finance Commission's income distance criterion measures the gap between each state's per capita GSDP and the state with the highest per capita GSDP, allocating higher shares to states with greater distance.",
+          "verdict": "Correct",
+          "reason": "This is the precise definition of the income distance criterion — higher-income states receive less through this criterion while lower-income states receive more, operationalising horizontal equity in devolution."
+        }
+      ],
+      "strong_distractor": "d — Option d (all four correct) traps students who accept Statement 3 based on the intuitive but incorrect assumption that Sikkim's difficult geography implies low income, without knowing its small population and hydroelectric revenues create a high per capita figure.",
+      "elimination_logic": [
+        "Verify Statement 1: Goa is the reference state for income distance — highest per capita GSDP. Correct.",
+        "Verify Statement 2: Bihar has the lowest per capita GSDP and maximum income distance. Correct.",
+        "Evaluate Statement 3: Sikkim has high per capita GSDP due to tiny population and significant hydroelectric + tourism revenues — Sikkim exceeds national average significantly; Statement 3 is incorrect.",
+        "Verify Statement 4: Income distance = gap from highest-income state; larger gap = higher devolution. Correct.",
+        "Statements 1, 2, and 4 correct; Statement 3 incorrect — only three correct — option c."
+      ],
+      "upsc_trap_explanation": "Sikkim is the geographic-swap trap. Students associate Sikkim's mountainous, remote terrain with economic backwardness and low per capita income. However, Sikkim's very small population (India's smallest state by population) combined with hydroelectric power revenues and tourism makes its per capita GSDP one of the highest in India. This is a classic UPSC geographic-precision trap — correct geography, reversed income characterisation.",
+      "final_explanation": "Per capita GSDP disparities across Indian states are extreme and frequently tested in UPSC, especially in the context of Finance Commission devolution.\n\n• Statement 1 — Correct: Goa's per capita GSDP is the highest among all Indian states — a combination of small population, established tourism industry, and mining revenues. The 15th Finance Commission uses Goa as the reference state.\n• Statement 2 — Correct: Bihar's per capita GSDP is the lowest among major Indian states. Its large population, limited industrialisation, and historical underdevelopment place it at the greatest income distance from Goa — making it the primary beneficiary of the income distance criterion.\n• Statement 3 — Incorrect: Sikkim, despite its geographical constraints, has one of India's highest per capita GSDPs. Its population of approximately 650,000 (India's smallest) means even modest total GSDP yields high per capita figures. Hydroelectric power generation and tourism contribute significantly.\n• Statement 4 — Correct: The income distance formula calculates each state's shortfall from the highest-income state (Goa), and devolution is proportional to this distance — explicitly designed to benefit backward states.\n\nValue Addition:\n• The 15th Finance Commission gave 45% weight to income distance — the highest of any criterion.\n• Telangana has seen rapid per capita GSDP growth since its formation in 2014, now ranking among the higher-income states.\n• Special Category Status, historically given to north-eastern and hill states, was partly justified on low per capita income grounds."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding per capita income disparities across Indian states:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "Goa consistently records the highest per capita Gross State Domestic Product (GSDP) among Indian states."
+          ],
+          [
+            "2",
+            "Bihar records the lowest per capita GSDP among Indian states and is therefore the largest beneficiary of the income distance criterion in the Finance Commission's devolution formula."
+          ],
+          [
+            "3",
+            "Sikkim's per capita GSDP is lower than the national average, reflecting its mountainous terrain, limited cultivable land, and small manufacturing base."
+          ],
+          [
+            "4",
+            "The 15th Finance Commission's income distance criterion measures the gap between each state's per capita GSDP and the state with the highest per capita GSDP, allocating higher shares to states with greater distance."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "91030599-834e-4eb2-a62e-bc04551b2563",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Engel's Law and Per Capita Income: Consumption Pattern Shifts",
+        "Per Capita Income and Income Inequality: Distributional Blind Spots"
+      ],
+      "subject_que_no": 4959,
+      "overall_que_no": 12306
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Kuznets curve Engel's Law historical sequence theoretical development",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b places the Kuznets curve (1955) before Engel's Law (1857) which reverses a century of intellectual history that many students have not memorised with dates.",
+      "elimination_logic": [
+        "Engel's Law was formulated by Ernst Engel in 1857 based on Belgian household budget data — earliest among the four.",
+        "The Palma ratio was developed as a policy tool based on work published around 2011 — most recent.",
+        "The Kuznets curve was proposed by Simon Kuznets in 1955 — mid-20th century.",
+        "The Gini coefficient was developed by Corrado Gini in 1912 — early 20th century, after Engel but before Kuznets.",
+        "Correct chronological order: Engel's Law (1857) → Gini coefficient (1912) → Kuznets curve (1955) → Palma ratio (2011) — option a."
+      ],
+      "upsc_trap_explanation": "The trap is option b, which places the Kuznets curve before the Gini coefficient. Students who associate Kuznets with 'early development economics' may place it earlier than the Gini, when in fact the Gini coefficient predates the Kuznets inverted-U hypothesis by more than four decades. Without knowing the specific year of the Gini coefficient (1912), students reverse these two entries.",
+      "final_explanation": "The chronological development of income and inequality measurement tools spans over 150 years of economic thought.\n\nCorrect sequence:\n1. Engel's Law (1857): Ernst Engel published his finding that food's budget share declines as income rises, based on household budget surveys in Belgium. Earliest foundational concept in income-consumption analysis.\n2. Gini coefficient (1912): Italian statistician Corrado Gini developed this measure of statistical dispersion to capture income distribution inequality — nearly two decades before the Great Depression highlighted inequality's policy relevance.\n3. Kuznets curve (1955): Simon Kuznets proposed the inverted-U relationship between per capita income and inequality in his presidential address to the American Economic Association, drawing on historical data from the US, UK, and Germany.\n4. Palma ratio (2011): Economist Alex Cobham popularised Gabriel Palma's finding that the top 10% and bottom 40% are the key groups driving inequality change, while the middle 50% capture a stable share — proposed as a more policy-actionable alternative to the Gini.\n\nWhy wrong options fail:\n• Option b reverses Gini (1912) and Kuznets (1955).\n• Option c places Engel's Law after the Gini, which contradicts a 55-year gap.\n• Option d places the Palma ratio in the middle, which is incorrect.\n\nValue Addition:\n• Kuznets was awarded the Nobel Prize in Economics in 1971 partly for his work on economic growth and inequality.\n• The Gini coefficient ranges from 0 to 1; India's consumption Gini is approximately 0.33–0.36.\n• Engel's 1857 paper on Belgian workers is considered one of the first empirical studies in what we now call development economics."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological order in which these foundational concepts related to income measurement and inequality were first formally proposed?\n\n1. Kuznets inverted-U curve relating per capita income to inequality\n2. Engel's Law on the declining food share of household expenditure with rising income\n3. Gini coefficient as a measure of income distribution\n4. Palma ratio as an inequality metric focusing on the top 10% and bottom 40% income shares\n\n(a) 2 → 3 → 1 → 4\n(b) 1 → 3 → 2 → 4\n(c) 3 → 2 → 1 → 4\n(d) 2 → 1 → 3 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6b474c0d-3923-4093-8866-d09f2c18eaee",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Human Development Index (HDI) and Its Relationship with Per Capita Income",
+        "GNI per Capita at PPP vs. GDP per Capita: Definitional Precision"
+      ],
+      "subject_que_no": 4960,
+      "overall_que_no": 12307
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "HDI GNI per capita PPP UNDP 2010 revision three dimensions",
+      "statement_analysis": [
+        {
+          "statement": "Prior to 2010, the Human Development Index used GDP per capita as its income dimension; after the 2010 revision, UNDP replaced this with GNI per capita expressed in PPP terms.",
+          "verdict": "Correct",
+          "reason": "This is the precise history of HDI's income component revision. The 2010 Human Development Report introduced GNI per capita (PPP) to better capture citizens' actual income, including remittances and overseas earnings."
+        },
+        {
+          "statement": "The three dimensions of the Human Development Index are health (measured by life expectancy at birth), education (measured by mean years of schooling and expected years of schooling), and income (measured by GNI per capita at PPP).",
+          "verdict": "Correct",
+          "reason": "These are the precise current dimensions and their indicators in the HDI framework: life expectancy for health; mean years of schooling (adults 25+) and expected years of schooling (children) for education; GNI per capita at PPP for the income dimension."
+        },
+        {
+          "statement": "A country's HDI rank will always be identical to its rank by GNI per capita at PPP, since income is the dominant dimension in the HDI calculation.",
+          "verdict": "Incorrect",
+          "reason": "HDI combines health and education dimensions with income, and countries can perform very differently across dimensions. High-income countries with poor health or education outcomes rank lower on HDI than their income alone suggests, while countries like Sri Lanka rank higher on HDI than their income rank due to strong health and education performance."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three correct) tempts students who accept Statement 3 based on a misremembering that 'income has the largest weight in HDI' — in fact, all three dimensions are equally weighted.",
+      "elimination_logic": [
+        "Verify Statement 1: Pre-2010 HDI used GDP per capita; post-2010 uses GNI per capita at PPP — correct historical fact.",
+        "Verify Statement 2: Three dimensions with correct indicators — life expectancy, years of schooling (mean and expected), GNI per capita at PPP — all correctly matched.",
+        "Evaluate Statement 3: HDI equally weights all three dimensions — income is not dominant. Sri Lanka, Cuba, and Kerala within India all show higher HDI ranks than income ranks. Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — option b. Wait — reviewing options: the correct option matching '1 and 2 only correct' must be checked against the option set. The correct answer is the option showing 1 and 2 only — confirming option b... but re-examining: option d is listed as 1, 2, and 3. Option b should be '1 and 2 only.' Confirming correct_option as b."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the common misconception that HDI is primarily an income-based index. In reality, HDI gives equal geometric-mean weight to all three dimensions. Countries like Cuba and Sri Lanka rank substantially higher on HDI than their income would predict — demonstrating that health and education achievements independently lift HDI rank. Students who recall 'income matters for HDI' without knowing the equal-weight structure select 'all three correct.'",
+      "final_explanation": "HDI is constructed as a geometric mean of three normalised dimension indices, with each dimension receiving equal weight.\n\n• Statement 1 — Correct: The 2010 Human Development Report was a landmark revision that introduced GNI per capita at PPP to replace GDP per capita, recognising that GNI better represents the income available to residents (including overseas earnings and remittances).\n• Statement 2 — Correct: Current HDI indicators — Health: life expectancy at birth; Education: mean years of schooling (for adults aged 25+) and expected years of schooling (for children entering school); Income: GNI per capita at 2017 PPP. All three components are correctly described.\n• Statement 3 — Incorrect: All three HDI dimensions are equally weighted (geometric mean). Income is not dominant. This is clearly demonstrated by: Sri Lanka's HDI rank exceeding its income rank; Qatar's HDI rank being lower than its income rank; India's HDI rank being lower than its PPP GDP rank due to health and education gaps.\n\nValue Addition:\n• HDI uses a geometric mean (not arithmetic mean) since 2010 — changes in one dimension cannot be fully compensated by another dimension.\n• The Inequality-Adjusted HDI (IHDI) discounts each dimension by its within-country inequality.\n• India's 2023 HDI rank was 134 out of 193 countries — significantly below its PPP-GDP rank of 3rd."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Human Development Index (HDI) and its income component:\n\n1. Prior to 2010, the Human Development Index used GDP per capita as its income dimension; after the 2010 revision, UNDP replaced this with GNI per capita expressed in PPP terms.\n2. The three dimensions of the Human Development Index are health (measured by life expectancy at birth), education (measured by mean years of schooling and expected years of schooling), and income (measured by GNI per capita at PPP).\n3. A country's HDI rank will always be identical to its rank by GNI per capita at PPP, since income is the dominant dimension in the HDI calculation.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "aa13e543-dcbe-4a7f-a7ed-3ec4e98fe6c6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Balassa-Samuelson Effect: Why Poor Countries Have Lower Price Levels",
+        "PPP vs. Market Exchange Rate (MER): Conceptual Differences and UPSC Traps"
+      ],
+      "subject_que_no": 4961,
+      "overall_que_no": 12308
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Balassa-Samuelson PPP MER divergence developing countries",
+      "statement_analysis": [
+        {
+          "statement": "The Balassa-Samuelson effect predicts that as a developing country's economy grows and productivity in its tradable sector converges toward developed-country levels, the gap between its PPP-adjusted income and its MER-based income will narrow over time.",
+          "verdict": "Correct",
+          "reason": "As a developing country's tradable sector productivity converges with rich countries, the wage-price transmission mechanism raises non-tradable prices, reducing the price level gap. This narrows the PPP premium over MER — the effect 'works itself out' as convergence occurs."
+        },
+        {
+          "statement": "The Balassa-Samuelson effect implies that developing countries' currencies are overvalued relative to what PPP would predict, since their domestic price levels are lower than the exchange-rate-implied purchasing power.",
+          "verdict": "Incorrect",
+          "reason": "The Balassa-Samuelson effect implies that developing countries' currencies are UNDERVALUED relative to PPP, not overvalued. Their lower domestic price levels mean PPP-adjusted income exceeds MER-based income — the currency buys more domestically than the exchange rate suggests, implying undervaluation relative to PPP."
+        }
+      ],
+      "strong_distractor": "a — Option a (both correct) tempts students who recall 'developing country currencies are undervalued' and misread Statement 2's 'overvalued' as consistent with that recollection due to the complex phrasing.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Balassa-Samuelson predicts price convergence as productivity converges — PPP-MER gap narrows with development. Statement 1 is correct.",
+        "Evaluate Statement 2: Lower domestic prices in developing countries mean the currency purchases more domestically than its exchange rate implies — this is currency UNDERVALUATION relative to PPP, not overvaluation. Statement 2 explicitly says 'overvalued' — this is the reversed direction. Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — option c."
+      ],
+      "upsc_trap_explanation": "Statement 2 uses a technically dense but subtly reversed claim. Students who know 'developing country currencies appear undervalued relative to PPP' may read Statement 2's complex phrasing and fail to catch the word 'overvalued' — especially since the second clause ('domestic price levels are lower than exchange-rate-implied purchasing power') is factually correct. The error is in the direction of valuation: lower prices = undervalued currency, not overvalued. The correct clause makes the incorrect conclusion feel credible.",
+      "final_explanation": "The Balassa-Samuelson effect has a precise directional implication for exchange rate valuation that UPSC tests through exact terminology.\n\n• Statement 1 — Correct: As a developing country's productivity in tradables converges toward rich-country levels, wage increases push up non-tradable prices, gradually closing the price level gap. This mechanically reduces the PPP premium over MER — the PPP-MER gap narrows as the economy develops. This is the convergence implication of the Balassa-Samuelson effect.\n• Statement 2 — Incorrect: The Balassa-Samuelson effect implies developing country currencies are UNDERVALUED relative to PPP. Lower domestic prices mean the currency has more purchasing power at home than its exchange rate suggests. In PPP terms, $1 buys more in India than in the USA — indicating the rupee is undervalued relative to PPP (it should be stronger if PPP held). The statement reverses the direction of valuation.\n\nValue Addition:\n• Penn effect: the empirical observation that richer countries have higher price levels — this is the cross-sectional manifestation of the Balassa-Samuelson effect.\n• China's currency has frequently been described as undervalued relative to PPP — consistent with the Balassa-Samuelson framework for a large developing economy.\n• Real exchange rate appreciation as a country develops is the exchange rate policy implication of the Balassa-Samuelson mechanism."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the Balassa-Samuelson effect and its implications for exchange rate analysis:\n\nStatement 1: The Balassa-Samuelson effect predicts that as a developing country's economy grows and productivity in its tradable sector converges toward developed-country levels, the gap between its PPP-adjusted income and its MER-based income will narrow over time.\nStatement 2: The Balassa-Samuelson effect implies that developing countries' currencies are overvalued relative to what PPP would predict, since their domestic price levels are lower than the exchange-rate-implied purchasing power.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "128fe8f9-3b2b-42ec-9439-023a2d086233",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Gross National Happiness (GNH) and Beyond-GDP Measures vs. Per Capita Income",
+        "Per Capita Income: Definition, Calculation and Limitations"
+      ],
+      "subject_que_no": 4962,
+      "overall_que_no": 12309
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Beyond GDP measures GNH GPI OECD Better Life Stiglitz Commission",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c incorrectly matches the Genuine Progress Indicator with the OECD Better Life Index, a conflation students make because both are described as 'alternatives to GDP' without distinguishing their specific mechanisms.",
+      "elimination_logic": [
+        "Match A (Bhutan's GNH): four pillars + nine domains framework — matches with 4 (four pillars and nine domains). A-4.",
+        "Match B (Genuine Progress Indicator): adjusts GDP by adding positive non-market activities and subtracting social/environmental costs — matches with 2. B-2.",
+        "Match C (OECD Better Life Index): allows users to weight 11 well-being dimensions according to personal preferences — matches with 3. C-3.",
+        "Match D (Stiglitz-Sen-Fitoussi Commission): recommended dashboard approach to supplement GDP — convened by French government — matches with 1. D-1.",
+        "Correct combination: A-4, B-2, C-3, D-1 — option b."
+      ],
+      "upsc_trap_explanation": "The trap is option c, which swaps the Genuine Progress Indicator (GPI) with the OECD Better Life Index. Both are alternatives to GDP, but GPI modifies GDP arithmetically (adding and subtracting specific items), while OECD's Better Life Index uses 11 dimensions that users can weight according to their own preferences. Conflating the two is easy because both involve 'going beyond GDP' — but their mechanisms and institutional origins are entirely different.",
+      "final_explanation": "Beyond-GDP welfare measures represent an increasingly tested area in UPSC, particularly as India develops its own natural capital accounting frameworks.\n\nCorrect matching:\n• A (Bhutan's Gross National Happiness) → 4 (Structured around four pillars and nine domains): GNH's four pillars are sustainable socio-economic development, cultural preservation, environmental conservation, and good governance. These are further operationalised through nine domains including psychological well-being, time use, and community vitality.\n• B (Genuine Progress Indicator) → 2 (Adjusts national income by adding non-market contributions and deducting social and environmental costs): GPI starts from personal consumption expenditure, adds volunteer work and household services, then deducts costs of crime, pollution, loss of leisure, and natural resource depletion.\n• C (OECD Better Life Index) → 3 (Interactive index allowing individual weighting of 11 well-being dimensions): The OECD's Better Life Index covers 11 topics including housing, income, jobs, community, education, environment, civic engagement, health, life satisfaction, safety, and work-life balance. Crucially, users can assign weights to each.\n• D (Stiglitz-Sen-Fitoussi Commission) → 1 (Recommended supplementing GDP with a dashboard of welfare and sustainability indicators, commissioned by France): The 2008 commission was convened by President Sarkozy and produced the 2009 report recommending a multi-indicator dashboard, not a single replacement index.\n\nValue Addition:\n• India's 'Wealth Accounting and Valuation of Ecosystem Services' (WAVES) initiative moves toward natural capital accounting.\n• The UK's Office for National Statistics publishes a 'Measuring National Well-being' dashboard inspired partly by the Stiglitz Commission recommendations.\n• Bhutan's GNH is periodically measured through a national GNH survey covering all nine domains."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Beyond-GDP welfare measure or initiative) with List II (its defining characteristic or institutional context):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Bhutan's Gross National Happiness Index",
+            "1. Recommended supplementing GDP with a dashboard of welfare and sustainability indicators; convened by the French government"
+          ],
+          [
+            "B. Genuine Progress Indicator (GPI)",
+            "2. Adjusts national income by adding the value of volunteer work and household services while subtracting costs of crime, inequality, and environmental degradation"
+          ],
+          [
+            "C. OECD Better Life Index",
+            "3. An interactive index covering 11 well-being dimensions that individuals can weight according to their own priorities"
+          ],
+          [
+            "D. Stiglitz-Sen-Fitoussi Commission",
+            "4. Structured around four pillars — sustainable development, cultural preservation, environmental conservation, and good governance — further elaborated into nine domains"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-4, B-3, C-2, D-1\n(b) A-4, B-2, C-3, D-1\n(c) A-4, B-3, C-1, D-2\n(d) A-1, B-2, C-3, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6e8e832c-ccd7-458b-827f-827cafefc1ad",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "PPP vs. Market Exchange Rate (MER): Conceptual Differences and UPSC Traps",
+        "India's GDP Ranking: PPP vs. Nominal Basis"
+      ],
+      "subject_que_no": 4963,
+      "overall_que_no": 12310
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "conflation",
+      "concept_anchor": "PPP vs MER choice analytical context trade debt forex",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (PPP for all three analyses) tempts students who have memorised 'IMF and World Bank prefer PPP' as a universal rule, applying it without distinguishing between domestic welfare comparisons and cross-border financial transactions.",
+      "elimination_logic": [
+        "The finance ministry needs to evaluate three distinct analytical questions: trade competitiveness, bilateral welfare comparison, and external debt servicing capacity.",
+        "Trade competitiveness involves actual export pricing and competitive positioning — these depend on real market exchange rates, not PPP. MER required for trade analysis.",
+        "Bilateral living standard comparison between two countries requires PPP adjustment to remove price level differences and reveal real purchasing power differences.",
+        "External debt servicing involves actual payment in foreign currency at market rates — PPP adjustment is irrelevant; MER required.",
+        "Correct combination: MER for trade, PPP for welfare comparison, MER for debt servicing — option b."
+      ],
+      "upsc_trap_explanation": "Option a applies PPP universally — a trap for students who have learned 'PPP is preferred by international institutions' without distinguishing the specific contexts where PPP vs. MER is appropriate. External debt servicing and trade competitiveness require actual exchange rates because real money crosses borders. PPP is appropriate only for welfare and living standard comparisons, where the goal is to eliminate price level distortions from the comparison.",
+      "final_explanation": "The choice between PPP and MER is not a general preference — it depends on the specific analytical question being answered.\n\nApplicable principles:\n1. Trade competitiveness: A country's export competitiveness depends on whether its goods are priced attractively in global markets relative to competitors — this is determined by actual exchange rates (MER). PPP adjustment would remove the price signal that makes exports more or less competitive.\n2. Bilateral welfare comparison: Comparing living standards between India and Germany requires PPP to eliminate the distortion that a low MER creates — otherwise, India's living standards appear far lower than they actually are in terms of what money buys domestically.\n3. External debt servicing: Foreign currency debt is repaid at market exchange rates. The capacity to service debt depends on export earnings and forex reserves converted at MER — PPP values are meaningless for actual payment obligations.\n\n• Option (a) — PPP for all three: Incorrect. Applying PPP to trade and debt analysis misrepresents the actual financial transactions involved.\n• Option (b) — MER for trade, PPP for welfare, MER for debt: Correct. This correctly applies each measure to its appropriate analytical domain.\n• Option (c) — PPP for all + MER for debt: Partially correct on debt but incorrectly applies PPP to trade competitiveness analysis.\n• Option (d) — MER for all three: Incorrect. Bilateral welfare comparison without PPP adjustment systematically understates the living standards of lower-price-level countries.\n\nValue Addition:\n• The IMF's Article IV consultations use both MER and PPP-based comparisons depending on the specific indicator being assessed.\n• India's debt-to-GDP ratio appears lower in PPP terms than in MER terms — but debt sustainability analysis uses MER.\n• Trade-weighted exchange rate indices (REER, NEER) are MER-based constructs used for competitiveness monitoring."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A finance ministry is preparing three separate analytical reports: (i) assessing whether the country's exports are price-competitive against regional rivals in global markets; (ii) comparing the living standards of its citizens with those of citizens in a higher-income country; and (iii) evaluating the country's capacity to service its outstanding sovereign debt denominated in US dollars. An economic adviser is asked which exchange rate basis — PPP or MER — is most appropriate for each report.\n\nWhich of the following combinations is correct?\n\n(a) MER for trade competitiveness, MER for welfare comparison, PPP for debt servicing capacity\n(b) MER for trade competitiveness, PPP for welfare comparison, MER for debt servicing capacity\n(c) PPP for trade competitiveness, PPP for welfare comparison, MER for debt servicing capacity\n(d) MER for trade competitiveness, MER for welfare comparison, MER for debt servicing capacity",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e78f12ab-3c2d-44f2-ac4a-aa3e6d414391",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "Current Account Balance and PPP: IMF's Use of PPP Weights in WEO"
+      ],
+      "subject_que_no": 4964,
+      "overall_que_no": 12311
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "India world GDP share PPP vs MER G20 narrative",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (5%) tempts students who remember India's PPP share is 'about double' its MER share but use the MER figure (3.5%) and double it to get 7%, then confuse 7% with a figure they approximate as 5%.",
+      "elimination_logic": [
+        "India's nominal MER-based share of world GDP is approximately 3.5%.",
+        "India's PPP-based share of world GDP is approximately 7% — reflecting the Balassa-Samuelson effect inflating India's PPP GDP.",
+        "Eliminate option a (3.5%): This is India's MER-based share, not its PPP share.",
+        "Eliminate option b (5%): An approximation that doesn't correspond to either the MER or PPP figure accurately.",
+        "Confirm option c (~7%): India's PPP share in global GDP is approximately 7%, roughly double its MER share.",
+        "Eliminate option d (10%): This overstates India's PPP share — consistent with no major PPP database."
+      ],
+      "upsc_trap_explanation": "This question deliberately uses approximate figures (~3.5% vs. ~7%) because UPSC frequently tests the relative order-of-magnitude knowledge. The trap is option a — students who correctly know 'India has a small share of world GDP' and recall the more frequently cited nominal figure (3.5%) select it without distinguishing PPP from MER. The 'roughly double' relationship between PPP and MER share is the key fact being tested.",
+      "final_explanation": "India's weight in global GDP varies significantly depending on whether PPP or nominal MER is used, and this distinction has geopolitical implications.\n\n• Option (a) — ~3.5% of world GDP: This is India's approximate share under Market Exchange Rate (MER) basis — not its PPP share. Incorrect in this context.\n• Option (b) — ~5% of world GDP: This figure does not correspond to either India's MER or PPP share accurately. Incorrect.\n• Option (c) — ~7% of world GDP: Correct. India's share of global GDP at PPP is approximately 7%, reflecting its position as the world's 3rd largest economy by PPP. This is roughly double its MER-based share, consistent with the Balassa-Samuelson effect for a large developing economy.\n• Option (d) — ~10% of world GDP: This significantly overstates India's PPP share and does not correspond to any standard PPP database's estimate. Incorrect.\n\nValue Addition:\n• China's PPP share of world GDP is approximately 18%, making it the world's largest economy by PPP.\n• India used its ~7% PPP share in G20 presidency (2023) to highlight its role as a representative of the Global South.\n• The IMF uses PPP weights in its WEO global growth aggregation — India's 7% weight means its growth rate meaningfully affects the global average."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "According to estimates based on Purchasing Power Parity (PPP) conversion factors, India's approximate share of world GDP — which has been cited in India's G20 leadership narrative to emphasise its role in global economic governance — is closest to which of the following?\n\n(a) Approximately 3.5% of world GDP\n(b) Approximately 5% of world GDP\n(c) Approximately 7% of world GDP\n(d) Approximately 10% of world GDP",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "352336f9-c93a-46bc-aa2a-280758e03d75",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "National Income Accounting",
+      "sub_topic": "Per capita income and purchasing power parity",
+      "concepts_used": [
+        "PPP and Global Poverty Line",
+        "International Comparison Program (ICP) and PPP Estimation"
+      ],
+      "subject_que_no": 4965,
+      "overall_que_no": 12312
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "ICP 2017 revision poverty headcount India price level estimate",
+      "statement_analysis": [
+        {
+          "statement": "One reason PPP-based poverty lines are used for international comparisons rather than nominal dollar poverty lines is that nominal dollar conversions would systematically understate the real purchasing power of poor households in low-price-level countries.",
+          "verdict": "Correct",
+          "reason": "In a country like India where domestic prices are significantly lower than in the US, converting a poor household's rupee income at the market exchange rate produces a dollar figure that understates how much that income actually buys domestically. PPP conversion captures the actual quantity of goods the income can purchase."
+        },
+        {
+          "statement": "The 2017 ICP revision led to an upward revision of India's estimated poverty headcount compared to estimates based on the earlier 2011 ICP data, because the 2017 round found Indian price levels to be higher than the 2011 estimates.",
+          "verdict": "Correct",
+          "reason": "The 2017 ICP found that India's price level relative to the global average was higher than the 2011 round had estimated. A higher price level means that a given nominal income buys less relative to the international poverty line, raising the measured poverty headcount compared to earlier estimates."
+        },
+        {
+          "statement": "India's domestic poverty lines as recommended by successive expert committees are denominated in Purchasing Power Parity dollars to maintain consistency with the World Bank's international poverty line.",
+          "verdict": "Incorrect",
+          "reason": "India's domestic poverty lines (Tendulkar, Rangarajan) are denominated in nominal Indian rupees based on domestic consumption baskets — they are not PPP-adjusted or aligned with the World Bank's dollar-denominated international poverty line."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three correct) traps students who accept Statement 3 based on the logical-sounding assumption that official Indian poverty lines should be internationally comparable and therefore PPP-denominated.",
+      "elimination_logic": [
+        "Verify Statement 1: PPP converts income into what it actually buys domestically — nominal dollar conversion would understate real purchasing power in low-price countries. Statement 1 is correct.",
+        "Verify Statement 2: 2017 ICP found India's prices higher than 2011 estimated — this reduces PPP-adjusted income and raises measured poverty. Statement 2 is correct.",
+        "Evaluate Statement 3: Tendulkar and Rangarajan lines are in nominal rupees based on Indian consumption baskets — not PPP-denominated. Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — option a."
+      ],
+      "upsc_trap_explanation": "Statement 3 is a partial-truth trap. India does use PPP-based poverty data when reporting to international agencies for SDG monitoring. However, its official domestic poverty lines are in rupees, not PPP dollars. The confusion between 'reporting in PPP dollars internationally' and 'domestic poverty lines denominated in PPP dollars' is the exact error the trap targets.",
+      "final_explanation": "The relationship between PPP, ICP revisions, and poverty measurement is a technically dense area that UPSC has increasingly tested.\n\n• Statement 1 — Correct: A household in India earning ₹100 per day can buy substantially more with that income in India than ₹100 converted to approximately $1.20 at MER would suggest in a US context. PPP conversion captures this purchasing power difference — making it the appropriate basis for international poverty comparisons.\n• Statement 2 — Correct: The 2017 ICP found India's price level was higher than estimated in 2011. Since the international poverty line is anchored to a fixed real purchasing power amount, higher Indian prices mean fewer Indian households clear the threshold — increasing the measured poverty headcount under the revised figures.\n• Statement 3 — Incorrect: The Tendulkar Committee (2009) and Rangarajan Committee (2014) poverty lines are expressed in monthly per capita expenditure in rupees, based on Indian price data and consumption surveys (NSSO/HCES). They are domestically anchored lines with no direct PPP link. India's official position has been that its domestic methodology is more appropriate than the World Bank's international PPP line for measuring domestic poverty.\n\nValue Addition:\n• The Rangarajan Committee's rural poverty line was ₹972/month and urban ₹1,407/month (2011-12 prices) — substantially higher than the Tendulkar line.\n• India has not officially adopted a new domestic poverty line since the Rangarajan Committee report of 2014.\n• Using the 2017 ICP data, the World Bank estimated India had more people below $2.15/day than earlier estimates based on 2011 PPP had suggested."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding PPP-based poverty measurement and India's experience with ICP revisions:\n\n1. One reason PPP-based poverty lines are used for international comparisons rather than nominal dollar poverty lines is that nominal dollar conversions would systematically understate the real purchasing power of poor households in low-price-level countries.\n2. The 2017 ICP revision led to an upward revision of India's estimated poverty headcount compared to estimates based on the earlier 2011 ICP data, because the 2017 round found Indian price levels to be higher than the 2011 estimates.\n3. India's domestic poverty lines as recommended by successive expert committees are denominated in Purchasing Power Parity dollars to maintain consistency with the World Bank's international poverty line.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "subject": "Environment",
+  "topic": "Pollution",
+  "sub_topic": "Air pollution — sources and pollutants",
+  "concepts": [
+    {
+      "name": "Classification of Air Pollutants: Primary vs. Secondary",
+      "key_dimensions": [
+        "Definition and distinction: directly emitted (primary) vs. formed in atmosphere through reactions (secondary)",
+        "Examples and UPSC traps: Ozone is a secondary pollutant at troposphere but primary concern at stratosphere — same molecule, different roles",
+        "Secondary pollutant formation mechanisms: photochemical reactions, NOx + VOCs → ozone, SO2 → sulfate aerosols",
+        "Policy relevance: why regulating precursors (NOx, VOCs) is more effective than targeting secondary pollutants directly"
+      ]
+    },
+    {
+      "name": "Particulate Matter (PM2.5 and PM10): Sources, Composition, and Health Impacts",
+      "key_dimensions": [
+        "Size-based classification and penetration depth: PM10 (coarse, nasal passage), PM2.5 (fine, alveoli), ultrafine PM1.0 (bloodstream)",
+        "Natural vs. anthropogenic sources: dust storms, wildfires vs. vehicular emissions, construction, crop burning",
+        "Chemical composition trap: PM2.5 contains black carbon, heavy metals, PAHs — making it more toxic per unit mass than PM10",
+        "UPSC overlap: PM2.5 as both a criteria pollutant under NAAQS and a climate forcer (short-lived climate pollutant)"
+      ]
+    },
+    {
+      "name": "Nitrogen Oxides (NOx): Sources, Atmospheric Roles, and Dual Nature",
+      "key_dimensions": [
+        "Formation mechanisms: thermal NOx (high-temperature combustion), fuel NOx, prompt NOx — relevant to emission control strategies",
+        "Dual atmospheric role: NOx as precursor to both ground-level ozone (harmful) and nitrate aerosols; also involved in acid rain",
+        "NOx vs. N2O distinction — UPSC trap: N2O is a greenhouse gas (not classified as NOx for air quality purposes) but both come from agricultural/combustion sources",
+        "Regulatory angle: BS-VI norms targeting NOx reduction; selective catalytic reduction (SCR) technology"
+      ]
+    },
+    {
+      "name": "Volatile Organic Compounds (VOCs): Sources and Role in Smog Formation",
+      "key_dimensions": [
+        "Biogenic vs. anthropogenic VOCs: isoprene from forests vs. benzene/toluene from vehicles and solvents",
+        "Role in photochemical smog formation: VOCs + NOx + sunlight → tropospheric ozone and PAN (peroxyacetyl nitrate)",
+        "Indoor air quality angle: VOCs from paints, adhesives, cleaning agents — often ignored in UPSC but increasingly tested",
+        "UPSC trap: benzene is both a VOC and a known carcinogen regulated separately under hazardous substances frameworks"
+      ]
+    },
+    {
+      "name": "Sulfur Dioxide (SO2): Sources, Atmospheric Transformation, and Acid Rain",
+      "key_dimensions": [
+        "Primary sources: coal combustion in thermal power plants, metal smelting, volcanic eruptions (natural baseline)",
+        "Atmospheric transformation: SO2 → H2SO4 (sulfuric acid) via oxidation — mechanism of acid rain formation",
+        "Acid rain chemistry trap: pH < 5.6 defines acid rain; normal rain pH is ~5.6 (not 7) due to dissolved CO2 forming carbonic acid",
+        "Policy overlap: SO2 scrubbers in thermal plants; India's delayed compliance with MoEF emission norms for TPPs (2015 norms, extended deadlines)"
+      ]
+    },
+    {
+      "name": "Carbon Monoxide (CO): Formation, Toxicity Mechanism, and Urban Sources",
+      "key_dimensions": [
+        "Formation: incomplete combustion — higher CO from older vehicles, biomass burning, and cooking stoves",
+        "Toxicity mechanism: CO binds hemoglobin with 200x affinity compared to O2, forming carboxyhemoglobin — UPSC factual trap",
+        "Indoor air quality link: CO from chulhas and kerosene stoves — overlap with HAP (household air pollution) and PM2.5 co-exposure",
+        "CO vs. CO2 distinction for exams: CO is a criteria air pollutant and immediate toxin; CO2 is a GHG but not a 'pollutant' under many definitions"
+      ]
+    },
+    {
+      "name": "Ground-Level Ozone (Tropospheric Ozone): Formation, Effects, and Climate Interaction",
+      "key_dimensions": [
+        "Formation pathway: photochemical reaction of NOx + VOCs in presence of sunlight — a secondary pollutant",
+        "UPSC trap on ozone duality: stratospheric ozone is beneficial (UV shield); tropospheric ozone is harmful (respiratory damage, crop losses)",
+        "Climate forcer angle: tropospheric ozone is a short-lived climate pollutant (SLCP) and the third most important GHG after CO2 and CH4",
+        "Agricultural impact: ozone reduces crop yields (wheat, soybean) — linkage to food security questions"
+      ]
+    },
+    {
+      "name": "Black Carbon (BC): Sources, Climate Forcing, and Co-Benefits of Reduction",
+      "key_dimensions": [
+        "Sources: diesel vehicles, biomass burning, brick kilns, crop residue burning — distinct from CO2 in being a particulate, not a gas",
+        "Climate mechanism: BC absorbs solar radiation (warming effect) and deposits on glaciers/snow, accelerating melt — Himalayan glacier linkage",
+        "SLCP classification: BC has atmospheric lifetime of days-weeks vs. CO2's centuries — faster climate benefit from reduction",
+        "UPSC trap: BC is a component of PM2.5 but has its own climate forcing role; reducing BC gives both air quality AND climate co-benefits"
+      ]
+    },
+    {
+      "name": "Photochemical Smog: Formation Conditions, Components, and Distinction from London Smog",
+      "key_dimensions": [
+        "Formation conditions: sunlight, warm temperatures, NOx, VOCs, low wind — typical of Los Angeles/Delhi summer conditions",
+        "Key components: ozone, PAN (peroxyacetyl nitrate), aldehydes, nitric acid — PAN is a lachrymatory agent and phytotoxin",
+        "London smog (classical/sulfurous smog) vs. photochemical smog comparison: London = cold + fog + SO2 + PM; photochemical = warm + sunlight + NOx + VOCs",
+        "UPSC trap: Delhi winters exhibit BOTH types simultaneously — cold inversion traps pollutants (London-type conditions) while daytime photochemistry adds ozone"
+      ]
+    },
+    {
+      "name": "Crop Residue Burning: Pollutants Released, Regional Impact, and Policy Failures",
+      "key_dimensions": [
+        "Pollutants emitted: PM2.5, PM10, CO, CO2, CH4, NOx, VOCs, black carbon — a multi-pollutant source",
+        "Geographic specificity: Punjab-Haryana stubble burning (paddy residue post-kharif) — wind transport to Delhi NCR documented by SAFAR and IMD",
+        "Policy context: PPCB orders, NGT interventions, Happy Seeder subsidy program, Supreme Court monitoring — and continued non-compliance",
+        "UPSC trap: stubble burning is both an air quality issue AND a soil health issue (destroys microbial layer) AND a GHG emission source"
+      ]
+    },
+    {
+      "name": "Vehicular Emissions: Pollutants, BS Norms Evolution, and Real-World vs. Test Cycle Gap",
+      "key_dimensions": [
+        "Pollutant profile by fuel type: diesel → NOx + PM; petrol → CO + VOCs + NOx; CNG → lower PM and NOx but methane slip",
+        "Bharat Stage (BS) norms progression: BS-IV to BS-VI leap (skipping BS-V) in 2020 — aligned with Euro-6 standards",
+        "Real-world emissions gap: vehicles passing lab tests emit far more on roads — UPSC policy angle on enforcement vs. standard-setting",
+        "EV transition overlap: reducing tailpipe emissions but introducing battery manufacturing and end-of-life pollution trade-offs"
+      ]
+    },
+    {
+      "name": "Industrial Emissions: Sector-Specific Pollutants and Regulatory Framework",
+      "key_dimensions": [
+        "Sector mapping: thermal power (SO2, NOx, fly ash/PM), cement (PM, NOx), steel (CO, SO2, VOCs), brick kilns (PM, black carbon)",
+        "Fly ash as a dual issue: air pollutant (PM) when uncontained AND a resource (cement additive, road construction) — resource vs. pollutant framing",
+        "Regulatory framework: Environment Protection Act 1986 emission standards, MoEF notifications, CPCB's 17 most polluting industries list",
+        "UPSC trap: the 2015 MoEF notification set SO2/NOx/PM standards for thermal plants — India missed 2017 and 2022 deadlines, now extended to 2026"
+      ]
+    },
+    {
+      "name": "Indoor Air Pollution (Household Air Pollution): Sources, Gender Dimensions, and Health Burden",
+      "key_dimensions": [
+        "Sources: solid biomass cooking fuels (wood, dung, crop residues), kerosene lamps, tobacco smoke, building materials (radon, asbestos)",
+        "Health burden: WHO estimates 3.2 million deaths/year globally from HAP — predominantly women and children in developing countries",
+        "Gender dimension: women's disproportionate exposure due to cooking roles — connects to UPSC gender equity themes",
+        "Policy overlap: Pradhan Mantri Ujjwala Yojana (LPG access) as HAP intervention — but 'second cylinder' adoption rates reveal affordability gap"
+      ]
+    },
+    {
+      "name": "Atmospheric Inversion and Airshed Dynamics: Why Geography Amplifies Pollution",
+      "key_dimensions": [
+        "Temperature inversion mechanism: warm air layer traps cold air + pollutants near surface — prevents vertical dispersion",
+        "Delhi-NCR geographic trap: Indo-Gangetic Plain bowl effect, Himalayas as barrier to northwesterly dispersion, winter fog combination",
+        "Airshed concept: pollution doesn't respect administrative boundaries — basis for regional action plans (GRAP for NCR, covering multiple states)",
+        "UPSC policy angle: why city-level action is insufficient and why the Commission for Air Quality Management (CAQM) was established as a multi-state body"
+      ]
+    },
+    {
+      "name": "National Ambient Air Quality Standards (NAAQS): Structure, Pollutants Covered, and Comparison with WHO Guidelines",
+      "key_dimensions": [
+        "Pollutants covered under NAAQS India (2009): PM10, PM2.5, SO2, NO2, CO, ozone, lead, ammonia, benzene, benzo(a)pyrene, arsenic, nickel",
+        "UPSC trap: India's NAAQS PM2.5 annual standard = 40 µg/m³ vs. WHO 2021 guideline = 5 µg/m³ — 8x difference highlights regulatory gap",
+        "Two categories in old NAAQS (pre-2009): Industrial, Residential, Rural vs. Ecologically Sensitive — simplified in 2009 revision",
+        "Enforcement gap: NAAQS are standards, not automatically enforceable limits — requires state action plans, CPCB/SPCB monitoring networks"
+      ]
+    },
+    {
+      "name": "National Clean Air Programme (NCAP): Targets, Mechanism, and Criticism",
+      "key_dimensions": [
+        "Launch and target: 2019, initially 20-30% PM reduction by 2024 (base year 2017); revised to 40% reduction by 2026",
+        "Coverage: 131 non-attainment cities (cities consistently exceeding NAAQS) — selection criteria is a potential UPSC factual question",
+        "Funding and implementation: City Action Plans, 15th Finance Commission linkage (clean air funding to cities), CPCB oversight",
+        "Criticism and UPSC trap: NCAP lacks legal enforceability (not under EP Act), no city-level binding targets, monitoring infrastructure gaps in smaller cities"
+      ]
+    },
+    {
+      "name": "Transboundary Air Pollution: Long-Range Transport and International Dimensions",
+      "key_dimensions": [
+        "Mechanisms: sulfur/nitrogen compounds traveling hundreds of kilometers — acid rain affecting countries beyond emission source (classic Europe example)",
+        "South Asian context: Indo-Gangetic Plain as a shared airshed; Bangladesh and Nepal receiving pollutants from Indian industrial corridors",
+        "International conventions: LRTAP Convention (1979) — Europe-focused; India not a signatory — UPSC trap on India's international commitments",
+        "Marine shipping emissions: sulfur oxides from bunker fuel — IMO 2020 sulfur cap (0.5%) as global regulation example"
+      ]
+    },
+    {
+      "name": "Ammonia (NH3) as an Air Pollutant: Agricultural Sources and Secondary Aerosol Formation",
+      "key_dimensions": [
+        "Primary sources: fertilizer application (urea hydrolysis), livestock waste, open burning — agriculture contributes ~80% of ammonia emissions globally",
+        "Secondary pollutant role: NH3 reacts with SO2 and NOx to form ammonium sulfate and ammonium nitrate — major components of PM2.5 in IGP winters",
+        "UPSC trap: ammonia itself is not a GHG but its role in forming PM2.5 makes agricultural emission reduction a dual air quality + climate strategy",
+        "Policy gap: ammonia is listed under NAAQS but lacks dedicated reduction policy in India unlike NOx/SO2 — potential exam question on regulatory blind spots"
+      ]
+    },
+    {
+      "name": "Air Quality Index (AQI): Methodology, Pollutants Tracked, and Limitations",
+      "key_dimensions": [
+        "India's AQI structure: 6 categories (Good to Severe), based on 8 pollutants (PM2.5, PM10, NO2, SO2, CO, O3, NH3, Pb) — worst sub-index determines overall AQI",
+        "Calculation trap: AQI is NOT an average of all pollutants — it takes the MAXIMUM sub-index value, so one bad pollutant drives the entire index",
+        "SAMEER app and CPCB monitoring network: real-time data, but coverage limited to ~400+ stations vs. millions of pollution sources",
+        "Limitations for UPSC: AQI doesn't capture indoor air quality, ultra-fine particles (PM1.0), or toxic metals separately — policy design implication"
+      ]
+    },
+    {
+      "name": "Graded Response Action Plan (GRAP): Structure, Triggers, and Jurisdictional Innovation",
+      "key_dimensions": [
+        "Four-stage structure: Stage I (Poor, AQI 201-300) to Stage IV (Severe+, AQI >450) with progressively stricter restrictions on vehicles, construction, industries",
+        "Jurisdictional innovation: GRAP covers entire NCR (Delhi + parts of UP, Haryana, Rajasthan) — first multi-state emergency air quality mechanism in India",
+        "Trigger and reversal controversy: Supreme Court 2024 ruling that GRAP Stage IV cannot be revoked until AQI sustainably improves — not just dips below threshold",
+        "UPSC trap: GRAP is implemented by CAQM (Commission for Air Quality Management), not CPCB — CAQM established by CAQM Act 2021, superseding Environment Pollution (Prevention & Control) Authority (EPCA)"
+      ]
+    }
+  ]
+}

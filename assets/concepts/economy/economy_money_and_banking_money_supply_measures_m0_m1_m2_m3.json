@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Money and Banking",
+  "sub_topic": "Money supply measures — M0, M1, M2, M3",
+  "concepts": [
+    {
+      "name": "Reserve Money (M0): Composition and Role as Monetary Base",
+      "key_dimensions": [
+        "Exact components: Currency in circulation + Bankers' deposits with RBI + 'Other' deposits with RBI",
+        "Why M0 is called 'High-Powered Money' and the multiplier mechanism it drives",
+        "UPSC trap: Currency in circulation includes cash with banks (vault cash) — common misconception",
+        "RBI's balance sheet liability side as the source of M0 — central bank money vs commercial bank money"
+      ]
+    },
+    {
+      "name": "Narrow Money (M1): Definition, Components and Liquidity Primacy",
+      "key_dimensions": [
+        "Exact formula: Currency with public + Demand deposits with banks + 'Other' deposits with RBI",
+        "UPSC trap: 'Other deposits with RBI' appears in both M0 and M1 — understanding why (it is held by non-bank public)",
+        "Distinction between 'currency with public' (excludes vault cash) vs 'currency in circulation' (includes vault cash)",
+        "M1 as the most liquid measure — transactional money, closest to medium of exchange function"
+      ]
+    },
+    {
+      "name": "M2: The Forgotten Intermediate Measure",
+      "key_dimensions": [
+        "Formula: M1 + Savings deposits with Post Office savings banks",
+        "Why M2 is rarely discussed in policy but appears in UPSC — its role in capturing semi-liquid savings",
+        "Post Office savings deposits vs bank savings deposits — why only Post Office deposits are added at M2 stage",
+        "UPSC trap: Bank savings deposits are NOT added at M2 stage; they appear at M3 — a frequently tested distinction"
+      ]
+    },
+    {
+      "name": "Broad Money (M3): Composition and Policy Significance",
+      "key_dimensions": [
+        "Formula: M1 + Time deposits with banks (i.e., M3 = M1 + Net Time Deposits of banks)",
+        "Why M3 is the most watched monetary aggregate by RBI for policy purposes",
+        "Relationship: M3 = M0 × Money Multiplier — linkage between base money and broad money",
+        "UPSC trap: M3 includes time deposits of ALL scheduled commercial banks, not just public sector banks"
+      ]
+    },
+    {
+      "name": "Hierarchical Liquidity Structure: M0 → M1 → M2 → M3",
+      "key_dimensions": [
+        "Each successive measure is less liquid but broader in scope — understanding the liquidity-spectrum logic",
+        "Which measure corresponds to which function of money (medium of exchange, store of value)",
+        "UPSC trap: Higher M-number does NOT mean higher policy importance — M3 is most policy-relevant despite being least liquid",
+        "Comparative ordering questions: What is added at each step and why that reflects declining liquidity"
+      ]
+    },
+    {
+      "name": "Money Multiplier: Mechanism, Formula and Determinants",
+      "key_dimensions": [
+        "Formula: Money Multiplier (m) = M3 / M0 = 1 / (CRR + excess reserves ratio + currency-deposit ratio)",
+        "How CRR, SLR, and public's currency holding behavior affect the multiplier",
+        "UPSC trap: SLR affects multiplier indirectly (by reducing lendable funds) but CRR is the direct lever",
+        "Why the multiplier is never as large as the theoretical maximum — leakages through cash drain and excess reserves"
+      ]
+    },
+    {
+      "name": "Currency with Public vs Currency in Circulation: The Vault Cash Distinction",
+      "key_dimensions": [
+        "Currency in circulation = Currency with public + Cash with banks (vault cash)",
+        "Currency with public = Currency in circulation − Vault cash of banks",
+        "Why this distinction matters for M0 vs M1 classification — a classic UPSC trap",
+        "Practical implication: When people withdraw cash, M1 composition changes but total M3 may not immediately change"
+      ]
+    },
+    {
+      "name": "Demand Deposits vs Time Deposits: The M1/M3 Dividing Line",
+      "key_dimensions": [
+        "Demand deposits: withdrawable on demand, no fixed maturity — included in M1 (high liquidity)",
+        "Time deposits: fixed maturity, penalty on premature withdrawal — included in M3 but not M1",
+        "UPSC trap: Savings bank accounts with banks — are they demand deposits or time deposits? (Treated as demand deposits for M1 in Indian classification — verify RBI methodology)",
+        "Policy implication: A shift from demand to time deposits reduces M1 without reducing M3"
+      ]
+    },
+    {
+      "name": "RBI's Monetary Aggregates vs Older RBI Measures (M1–M4 Pre-1998)",
+      "key_dimensions": [
+        "Pre-1998 RBI used M1, M2, M3, M4 with different compositions — Working Group on Money Supply (Y.V. Reddy Committee, 1998) revised them",
+        "Old M3 ≠ New M3 — the redefinition trap in UPSC questions referencing older textbooks",
+        "Introduction of the concept of 'L' measures (L1, L2, L3) for liquidity aggregates post-1998 revision",
+        "Why the revision was needed: financial innovation, growth of non-bank financial intermediaries"
+      ]
+    },
+    {
+      "name": "Liquidity Aggregates: L1, L2, L3 — Beyond M3",
+      "key_dimensions": [
+        "L1 = M3 + All deposits with Post Office savings banks (excluding NSCs)",
+        "L2 = L1 + Term deposits + Term borrowings + Certificates of deposit of select financial institutions",
+        "L3 = L2 + Public deposits of non-banking financial companies (NBFCs)",
+        "UPSC angle: Why RBI monitors L-measures alongside M-measures — shadow banking and NBFC growth relevance"
+      ]
+    },
+    {
+      "name": "Credit Money Creation by Commercial Banks: Process and Limits",
+      "key_dimensions": [
+        "Banks create money through loan disbursements — 'loans create deposits' principle",
+        "CRR as the binding constraint on credit creation; SLR as an additional drain on lendable resources",
+        "UPSC trap: RBI creates base money (M0); commercial banks create credit money — these are categorically different",
+        "Endogenous vs exogenous money creation debate — relevance to Modern Monetary Theory discussions in Mains"
+      ]
+    },
+    {
+      "name": "Cash Reserve Ratio (CRR): Definition, Legal Basis and Impact on Money Supply",
+      "key_dimensions": [
+        "CRR: mandatory fraction of Net Demand and Time Liabilities (NDTL) kept with RBI — earns NO interest",
+        "Legal basis: Section 42 of RBI Act, 1934 — RBI can vary CRR without floor/ceiling (post-2006 amendment)",
+        "UPSC trap: CRR is on NDTL, not on total deposits; NDTL excludes inter-bank liabilities",
+        "Transmission: 1% increase in CRR → reduces lendable funds → contracts M3 — quantitative impact calculation"
+      ]
+    },
+    {
+      "name": "Statutory Liquidity Ratio (SLR): Distinction from CRR in Money Supply Context",
+      "key_dimensions": [
+        "SLR: fraction of NDTL maintained in approved liquid assets (gold, govt. securities, cash) — earns returns unlike CRR",
+        "Legal basis: Section 24 of Banking Regulation Act, 1949",
+        "UPSC trap: SLR does NOT directly reduce M3 like CRR — it redirects credit from private to government sector (crowding out)",
+        "SLR reduction: financial sector reform tool — allows banks to lend more to private sector, potentially expanding M3"
+      ]
+    },
+    {
+      "name": "Velocity of Money and its Relationship with Money Supply Measures",
+      "key_dimensions": [
+        "Fisher's Quantity Theory: MV = PT — how velocity links money supply to price level",
+        "Different velocities for M1 vs M3 — narrow money circulates faster than broad money",
+        "UPSC angle: Why targeting M3 growth rate was RBI's intermediate target pre-2016 (before inflation targeting framework)",
+        "Breakdown of stable velocity assumption — why RBI moved away from monetary targeting to inflation targeting"
+      ]
+    },
+    {
+      "name": "Monetary Policy Transmission: How RBI Actions Affect M3",
+      "key_dimensions": [
+        "Repo rate changes → bank lending rates → credit demand → deposit creation → M3 change (indirect channel)",
+        "Open Market Operations (OMOs): RBI buying govt. securities injects M0 → multiplied into M3",
+        "UPSC trap: Repo rate is a price instrument; CRR/SLR are quantity instruments — both affect M3 differently",
+        "Transmission lags and leakages — why M3 growth doesn't respond immediately to policy rate changes"
+      ]
+    },
+    {
+      "name": "Net Demand and Time Liabilities (NDTL): The Base for CRR and SLR Calculation",
+      "key_dimensions": [
+        "NDTL = Demand Liabilities + Time Liabilities − Inter-bank liabilities (assets with banking system)",
+        "UPSC trap: Inter-bank deposits are NETTED OUT — only net liabilities to non-bank public count",
+        "Why NDTL matters for money supply: it determines the quantum of reserves banks must hold, constraining credit creation",
+        "Practical: Inclusion/exclusion controversies — certain innovative instruments' NDTL classification disputes"
+      ]
+    },
+    {
+      "name": "Inflation and Money Supply: Quantity Theory vs Modern Nuances",
+      "key_dimensions": [
+        "Classical view: excess M3 growth → inflation (monetarist position — Milton Friedman)",
+        "India-specific: M3 growth target was 14-15% in 1990s; abandoned post-FRBM and inflation targeting (2016)",
+        "UPSC trap: High M3 growth does NOT always cause inflation if output grows proportionally (MV=PT logic)",
+        "Supply-side inflation (cost-push) cannot be addressed by contracting money supply — policy limitation"
+      ]
+    },
+    {
+      "name": "Demonetization and Its Impact on Money Supply Measures (2016 Case Study)",
+      "key_dimensions": [
+        "Demonetization of ₹500/₹1000 notes → immediate contraction of 'currency with public' → sharp fall in M1",
+        "Simultaneously, bank deposits surged → M3 was less affected than M1 — the M1 vs M3 divergence trap",
+        "M0 impact: currency in circulation fell dramatically; RBI's balance sheet temporarily changed",
+        "Post-demonetization remonetization: M0 recovery trajectory and its policy lessons for monetary transmission"
+      ]
+    },
+    {
+      "name": "Digital Money and UPI: Implications for Traditional Money Supply Classification",
+      "key_dimensions": [
+        "UPI/IMPS transactions transfer demand deposits — they operate within M1, not outside it",
+        "UPSC contemporary angle: Does digital currency (CBDC — e₹) constitute M0 or a new category?",
+        "E-wallets (Paytm, PhonePe balances): currently classified under prepaid payment instruments — not in standard M-measures",
+        "Policy challenge: Financial innovation outpacing monetary aggregate definitions — RBI working group implications"
+      ]
+    },
+    {
+      "name": "Central Bank Digital Currency (CBDC / e₹) and Money Supply Reclassification",
+      "key_dimensions": [
+        "RBI's e₹ (retail and wholesale): digital form of sovereign currency — conceptually an extension of M0",
+        "UPSC trap: CBDC is a liability of RBI (like physical currency), NOT a liability of commercial banks — unlike bank deposits",
+        "Potential to reduce demand deposits (disintermediation risk) — contractionary effect on M3 multiplier",
+        "Global context: IMF's classification debate on whether CBDC belongs to reserve money or requires a new aggregate"
+      ]
+    }
+  ]
+}

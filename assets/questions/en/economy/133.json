@@ -1,0 +1,1598 @@
+[
+  {
+    "meta": {
+      "uuid": "ffe53269-191e-4966-b113-a4566da2bbe9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Framework: Legal Basis and Regulatory Authority"
+      ],
+      "subject_que_no": 4584,
+      "overall_que_no": 11931
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "PCA legal basis — statutory vs. supervisory tool",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because students conflate RBI's general statutory powers under the Banking Regulation Act with a mistaken belief that PCA itself is a separate statute.",
+      "elimination_logic": [
+        "Eliminate any option suggesting PCA is mandated by a standalone statute — no such law exists; PCA is an internal supervisory framework.",
+        "Identify that RBI uses Section 35A of the Banking Regulation Act, 1949 as the legal hook to direct banks, but PCA itself is an administrative tool.",
+        "Select the option that correctly identifies PCA as a regulatory/supervisory framework, not a statutory one in its own right."
+      ],
+      "upsc_trap_explanation": "The trap here exploits a common conflation: students know RBI has statutory powers and assume PCA must therefore be a statutory framework. In reality, PCA is an internal supervisory/administrative tool of the RBI. The legal authority RBI uses to issue binding directions flows from Section 35A of the Banking Regulation Act, 1949 — but PCA itself has no separate legislative backing, unlike the US FDICIA 1991 which gave statutory force to PCA. A student who confuses the enabling provision with the framework itself will select option (a).",
+      "final_explanation": "The Prompt Corrective Action framework is frequently tested in UPSC with a specific trap around its legal character. PCA is not a statute — it is a supervisory and administrative tool designed by RBI to enforce structured corrective actions on banks that breach certain financial health thresholds.\n\n• Option (a) — Incorrect: PCA is not a statutory framework enacted by Parliament. There is no separate legislation called the PCA Act.\n• Option (b) — Correct: PCA is a regulatory/supervisory tool. When RBI needs to issue binding directions to a bank under PCA, it invokes Section 35A of the Banking Regulation Act, 1949, which empowers RBI to issue directions to banks in public interest.\n• Option (c) — Incorrect: Section 45 of the Banking Regulation Act deals with moratorium and compulsory merger — not PCA invocation.\n• Option (d) — Incorrect: The RBI Act, 1934 primarily governs monetary policy functions; banking supervision flows from the Banking Regulation Act.\n\nValue Addition:\n• The US equivalent (FDICIA 1991) is a statutory PCA — India's version is purely supervisory, a critical distinction.\n• RBI's Board for Financial Supervision (BFS) provides oversight for PCA decisions.\n• PCA was first introduced by RBI in 2002 and significantly revised in 2017 and again in 2021."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly describes the legal character of the Prompt Corrective Action (PCA) framework operated by the Reserve Bank of India?\n\n(a) PCA is a statutory framework enacted by Parliament under a dedicated legislation, which mandates RBI to invoke it upon specified trigger breaches\n(b) PCA is a supervisory and administrative tool of RBI, with binding directions issued under Section 35A of the Banking Regulation Act, 1949\n(c) PCA is invoked under Section 45 of the Banking Regulation Act, 1949, which governs forced mergers and moratoriums for distressed banks\n(d) PCA derives its authority from the Reserve Bank of India Act, 1934, which governs RBI's supervisory jurisdiction over scheduled commercial banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e3d6645f-3773-4218-8ea7-a6f4212010ba",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Trigger Indicators: Capital, Asset Quality, and Leverage"
+      ],
+      "subject_que_no": 4585,
+      "overall_que_no": 11932
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "PCA trigger indicators — three primary thresholds",
+      "statement_analysis": [
+        {
+          "statement": "The Net NPA ratio, not the Gross NPA ratio, is used as the asset quality trigger under the PCA framework.",
+          "verdict": "Correct",
+          "reason": "PCA uses Net NPA (Gross NPA minus provisions) as the trigger, making provisioning behaviour directly relevant to whether a bank enters PCA."
+        },
+        {
+          "statement": "Return on Assets (RoA) continues to serve as the profitability trigger under the revised PCA framework introduced in 2021.",
+          "verdict": "Incorrect",
+          "reason": "The 2021 revision removed RoA as a trigger and replaced it with the Tier-1 Leverage Ratio to better capture structural solvency risk."
+        },
+        {
+          "statement": "Capital to Risk-Weighted Assets Ratio (CRAR) is one of the three primary risk thresholds under the PCA framework.",
+          "verdict": "Correct",
+          "reason": "CRAR is a core trigger — Threshold 1 is breached when CRAR falls below 10.25%, which incorporates the Capital Conservation Buffer requirement."
+        }
+      ],
+      "strong_distractor": "d — Option (d) claiming all three statements are correct is a strong distractor because statements 1 and 3 are accurate, tempting students who are uncertain about statement 2 to assume the entire set is correct.",
+      "elimination_logic": [
+        "Verify Statement 2: The 2021 revised PCA framework explicitly replaced RoA with the Tier-1 Leverage Ratio — Statement 2 is false.",
+        "Confirm Statement 1: PCA uses Net NPA (post-provisioning), not Gross NPA — Statement 1 is correct.",
+        "Confirm Statement 3: CRAR is indeed one of the three primary indicators — Statement 3 is correct.",
+        "Since only Statements 1 and 3 are correct, select option (c)."
+      ],
+      "upsc_trap_explanation": "The trap targets students who studied the original 2017 PCA framework and are unaware that the 2021 revision replaced Return on Assets with the Tier-1 Leverage Ratio. RoA was a familiar metric and its removal is a precise factual change that UPSC frequently exploits. A student relying on pre-2021 notes will mark Statement 2 as correct, leading them to option (d).",
+      "final_explanation": "The PCA framework uses three primary risk indicators to assess whether a bank requires structured intervention. Understanding exactly which indicators apply — and the changes made in 2021 — is critical for UPSC.\n\n• Statement 1 — Correct: Net NPA ratio is the trigger, not Gross NPA. The difference matters because Net NPA accounts for provisions already set aside, reflecting the bank's actual unprotected exposure to bad loans.\n• Statement 2 — Incorrect: RoA was removed in the 2021 revision. The Tier-1 Leverage Ratio replaced it as it better measures a bank's core capital adequacy relative to its total exposure, reducing the risk of banks gaming profitability metrics.\n• Statement 3 — Correct: CRAR remains a central trigger. The PCA threshold (10.25%) is deliberately set above the regulatory minimum CRAR (9%) to create an early-warning buffer.\n\nValue Addition:\n• The three current PCA triggers are: CRAR, Net NPA ratio, and Tier-1 Leverage Ratio.\n• India's minimum CRAR of 9% is already higher than Basel III's 8% floor.\n• Net NPA = Gross NPA minus provisions held against those NPAs — provisioning adequacy directly determines NPA trigger breach."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the trigger indicators under the Prompt Corrective Action (PCA) framework of the Reserve Bank of India, consider the following statements:\n\n1. The Net NPA ratio, not the Gross NPA ratio, is used as the asset quality trigger under the PCA framework.\n2. Return on Assets (RoA) continues to serve as the profitability trigger under the revised PCA framework introduced in 2021.\n3. Capital to Risk-Weighted Assets Ratio (CRAR) is one of the three primary risk thresholds under the PCA framework.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6eb701de-a589-42c6-9aee-5f2fc23ba7b9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Mandatory Restrictions Under PCA",
+        "Discretionary Restrictions Under PCA"
+      ],
+      "subject_que_no": 4586,
+      "overall_que_no": 11933
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Mandatory vs. discretionary PCA restrictions",
+      "statement_analysis": [
+        {
+          "statement": "Prohibition on dividend distribution to shareholders is a mandatory restriction imposed on all banks under PCA from the moment they breach any threshold.",
+          "verdict": "Correct",
+          "reason": "Prohibition on dividend distribution is indeed a mandatory restriction, not discretionary — it applies automatically upon PCA invocation."
+        },
+        {
+          "statement": "Banks placed under PCA are completely prohibited from extending any form of credit to any borrower.",
+          "verdict": "Incorrect",
+          "reason": "PCA does not impose a blanket lending prohibition. Banks under PCA face targeted lending restrictions — such as prohibition on lending to unrated borrowers or high-risk sectors — but can continue routine credit operations."
+        },
+        {
+          "statement": "Reduction in concentration of high-risk assets is a discretionary action that RBI may impose on a PCA bank, not a mandatory one.",
+          "verdict": "Correct",
+          "reason": "Reduction in concentration of high-risk assets falls within discretionary restrictions, which RBI may impose based on the specific risk profile of the bank."
+        }
+      ],
+      "strong_distractor": "a — Option (a) pointing only to Statement 2 as incorrect is a strong distractor because Statement 2 contains the most obvious factual error and students may stop evaluation there without re-examining Statement 1.",
+      "elimination_logic": [
+        "Test Statement 2 first: PCA does NOT ban all lending — it restricts risky lending categories. Statement 2 uses 'completely prohibited from extending any form of credit to any borrower' — this is false.",
+        "Test Statement 1: Dividend prohibition is indeed mandatory — Statement 1 is factually correct, not incorrect.",
+        "Test Statement 3: Reduction of high-risk asset concentration is a discretionary measure — Statement 3 is factually correct, not incorrect.",
+        "Only Statement 2 is NOT correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 2 exploits a widespread misconception that banks under PCA cannot lend at all. This makes PCA seem like a near-moratorium, which is factually wrong. PCA restricts specific risky lending — to unrated borrowers, certain high-risk sectors — but normal credit operations continue. Students who hold this misconception will incorrectly identify Statement 2 as correct, missing it as the 'not correct' answer.",
+      "final_explanation": "PCA restrictions are of two types — mandatory (applied automatically) and discretionary (applied at RBI's judgement based on risk severity). Understanding the boundary between them is a key UPSC test area.\n\n• Statement 1 — Correct (not the answer): Dividend prohibition is mandatory. Once a bank enters PCA, it cannot distribute dividends or remit capital — this is non-negotiable regardless of threshold level.\n• Statement 2 — Incorrect (this is the answer): Banks under PCA are NOT completely barred from all lending. The restriction is targeted: lending to unrated borrowers and high-risk sectors is restricted, but standard credit operations continue. A blanket lending ban does not exist under PCA.\n• Statement 3 — Correct (not the answer): Concentration reduction in high-risk assets is explicitly a discretionary action — RBI may direct it based on the bank's specific risk profile, but it is not automatic.\n\nValue Addition:\n• Other mandatory restrictions: cap on management compensation, prohibition on new lines of business, restriction on branch expansion.\n• Priority sector lending obligations of PCA banks may be affected but are not automatically waived.\n• PCA is distinct from moratorium — moratorium suspends all bank operations; PCA does not."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the restrictions imposed under the Reserve Bank of India's Prompt Corrective Action (PCA) framework:\n\n1. Prohibition on dividend distribution to shareholders is a mandatory restriction imposed on all banks under PCA from the moment they breach any threshold.\n2. Banks placed under PCA are completely prohibited from extending any form of credit to any borrower.\n3. Reduction in concentration of high-risk assets is a discretionary action that RBI may impose on a PCA bank, not a mandatory one.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 2 only\n(c) 1 and 2 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dfa5830a-5309-406a-9adc-02c1d0530aa9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Extension to NBFCs (2021): Scope and Applicability"
+      ],
+      "subject_que_no": 4587,
+      "overall_que_no": 11934
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "NBFCs covered and excluded under PCA 2021",
+      "statement_analysis": [
+        {
+          "statement": "Deposit-taking NBFCs are covered under the PCA framework extended to NBFCs in 2021.",
+          "verdict": "Correct",
+          "reason": "Deposit-taking NBFCs are explicitly included in the 2021 PCA extension for NBFCs."
+        },
+        {
+          "statement": "Housing Finance Companies regulated by the National Housing Bank are excluded from the NBFC PCA framework.",
+          "verdict": "Correct",
+          "reason": "HFCs under NHB supervision are explicitly excluded from RBI's PCA for NBFCs — they have a separate regulatory architecture."
+        },
+        {
+          "statement": "Government-owned NBFCs are covered under the PCA framework for NBFCs.",
+          "verdict": "Incorrect",
+          "reason": "Government NBFCs are explicitly excluded from the PCA framework for NBFCs, reflecting the implicit sovereign backing they carry."
+        },
+        {
+          "statement": "Primary Dealers are included in the PCA framework for NBFCs as they are systemically important non-bank entities.",
+          "verdict": "Incorrect",
+          "reason": "Primary Dealers are explicitly excluded from the NBFC PCA framework despite being systemically significant entities."
+        }
+      ],
+      "strong_distractor": "c — Option (c) 'Only three' is a strong distractor because students often correctly identify pairs 1 and 2 as accurate and then assume pair 3 (government NBFCs) is covered given the systemic importance narrative, arriving at three rather than two.",
+      "elimination_logic": [
+        "Confirm pair 1: deposit-taking NBFCs — explicitly included. Count: 1 correct.",
+        "Confirm pair 2: HFCs under NHB — explicitly excluded from RBI's NBFC PCA. Count: 2 correct.",
+        "Test pair 3: government NBFCs — explicitly excluded, not covered. Count remains 2.",
+        "Test pair 4: primary dealers — explicitly excluded. Count remains 2. Select option (b) — Only two."
+      ],
+      "upsc_trap_explanation": "The trap exploits the intuition that 'systemically important' entities must be included. Primary Dealers are indeed systemically significant but are explicitly carved out. Similarly, government NBFCs benefit from sovereign backing, making their exclusion logical but non-obvious. Students who apply a general rule ('systemic importance = PCA coverage') will incorrectly include both, arriving at four correct pairs.",
+      "final_explanation": "The 2021 extension of PCA to NBFCs was a landmark regulatory step prompted by the IL&FS and DHFL crises. However, the coverage is selective, not universal.\n\nCovered under NBFC PCA: deposit-taking NBFCs, non-deposit-taking systemically important NBFCs (ND-SI NBFCs), and Core Investment Companies (CICs).\n\nExcluded from NBFC PCA: Government-owned NBFCs (sovereign backing reduces systemic risk), Primary Dealers (regulated separately by RBI's financial markets department), Housing Finance Companies (under NHB supervision), and any NBFC not meeting the systemic importance threshold.\n\n| Entity | Coverage Status |\n|---|---|\n| Deposit-taking NBFCs | Included ✓ |\n| HFCs under NHB | Excluded ✗ |\n| Government NBFCs | Excluded ✗ |\n| Primary Dealers | Excluded ✗ |\n\nOnly pairs 1 and 2 are correctly stated — answer is 'Only two.'\n\nValue Addition:\n• The IL&FS collapse (2018) and DHFL crisis were catalysts for extending PCA to NBFCs.\n• Core Investment Companies (CICs) are a unique NBFC category that primarily hold equity in group companies.\n• The NBFC PCA trigger indicators differ from commercial bank triggers — an important nuance."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following regarding the coverage of the Prompt Corrective Action (PCA) framework as extended to Non-Banking Financial Companies (NBFCs) in 2021:",
+        "columns": [
+          "Entity / Category",
+          "Status claimed"
+        ],
+        "rows": [
+          [
+            "Deposit-taking NBFCs",
+            "Covered under the NBFC PCA framework"
+          ],
+          [
+            "Housing Finance Companies regulated by National Housing Bank",
+            "Excluded from the NBFC PCA framework"
+          ],
+          [
+            "Government-owned NBFCs",
+            "Covered under the NBFC PCA framework"
+          ],
+          [
+            "Primary Dealers",
+            "Included as systemically important non-bank entities under NBFC PCA"
+          ]
+        ],
+        "footer_text": "How many of the above pairs are correctly stated?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3a7abcda-3e8c-472c-9e80-e07fe29a1d3e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA vs. RBI's Other Supervisory Interventions: Distinguishing Overlaps",
+        "Exit from PCA: Conditions and Process"
+      ],
+      "subject_que_no": 4588,
+      "overall_que_no": 11935
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "PCA vs. moratorium vs. CAP — distinguishing supervisory tools",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because students correctly match A-2 and D-4 but then conflate moratorium (Section 45) with PCA invocation, swapping B and C.",
+      "elimination_logic": [
+        "Identify A: PCA is supervisory/administrative — matches with 3 (supervisory tool, not backed by separate statute).",
+        "Identify B: Section 45 of Banking Regulation Act authorises moratorium — matches with 1 (depositor protection suspension of operations).",
+        "Identify C: Corrective Action Plan (CAP) is used for structured resolution post-stress — matches with 4 (structured resolution plan).",
+        "Identify D: IL&FS and DHFL crises triggered extension of PCA to NBFCs in 2021 — matches with 2."
+      ],
+      "upsc_trap_explanation": "The trap conflates PCA with moratorium. Both involve RBI intervening in a distressed bank, but moratorium (Section 45) suspends all operations including deposit withdrawals, while PCA continues operations under restrictions. Students often assign Section 45 to PCA and confuse the CAP with general supervisory action, leading to wrong matching combinations.",
+      "final_explanation": "RBI possesses a layered toolkit of supervisory interventions, and distinguishing among them is a high-value UPSC skill.\n\n• A–3: PCA is correctly characterised as a regulatory/supervisory administrative tool, not backed by a separate statute. RBI uses Section 35A of the Banking Regulation Act to issue binding directions under PCA.\n• B–1: Section 45 of the Banking Regulation Act authorises the RBI to apply for a moratorium on a bank, suspending its operations including deposit withdrawals — primarily a depositor protection mechanism.\n• C–4: A Corrective Action Plan (CAP) is a structured resolution tool distinct from PCA — it involves a detailed plan to address specific deficiencies and is often used in conjunction with PCA.\n• D–2: The IL&FS collapse (2018) and DHFL crisis (2019) exposed systemic gaps in NBFC regulation, directly prompting RBI to extend PCA to systemically important NBFCs in 2021.\n\nThe trap pairing is B and C: moratorium sounds like a 'corrective action' but is actually a more extreme emergency tool under a specific statutory provision.\n\nValue Addition:\n• Section 35A: RBI issues directions; Section 45: RBI applies for moratorium — different provisions, different severity.\n• After moratorium, RBI may pursue forced merger under Section 45 of the Banking Regulation Act.\n• PCA → CAP → Moratorium/Merger represents RBI's escalating intervention continuum."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (RBI Supervisory Tool) with List II (Correct Description):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Prompt Corrective Action (PCA)",
+            "1. Mechanism under Section 45 of the Banking Regulation Act that suspends a bank's operations to protect depositors"
+          ],
+          [
+            "B. Moratorium on a bank",
+            "2. Development that triggered RBI's extension of structured bank-type oversight to systemically important non-bank lenders in 2021"
+          ],
+          [
+            "C. Corrective Action Plan (CAP)",
+            "3. Supervisory and administrative tool that imposes graduated restrictions on a bank while allowing it to continue operations"
+          ],
+          [
+            "D. IL&FS and DHFL crises",
+            "4. Structured resolution framework involving a detailed remedial plan to address specific financial deficiencies of a stressed institution"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-2, C-1, D-4\n(b) A-3, B-1, C-2, D-4\n(c) A-3, B-1, C-4, D-2\n(d) A-1, B-3, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "01d003e8-1a82-4a57-9c54-96fae5c278c2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA and Recapitalization: Interaction with Government's Indradhanush and Recap Bonds"
+      ],
+      "subject_que_no": 4589,
+      "overall_que_no": 11936
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Recapitalization does not auto-trigger PCA removal",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because both A and R are factually correct, and students assume recapitalization causing CRAR improvement must logically explain PCA removal — missing that RBI makes an independent assessment.",
+      "elimination_logic": [
+        "Step 1: Is A correct? — Government recapitalization through recap bonds does improve a bank's CRAR and Tier-1 capital ratios. A is factually correct.",
+        "Step 2: Is R correct? — RBI does assess PCA exit independently; recapitalization alone does not guarantee removal. The requirement is sustained improvement in all three indicators over at least four quarters. R is factually correct.",
+        "Step 3: Does R causally explain A? — R explains WHY PCA is not automatically removed (independent RBI assessment), which is precisely the mechanism described in A. R is the correct explanation of A.",
+        "Both A and R are correct and R explains A — correct option is (a). Wait — re-examine: A states recapitalization does NOT automatically result in PCA removal; R states RBI assesses PCA exit independently. R does causally explain A. Correct option is (a)."
+      ],
+      "upsc_trap_explanation": "The trap here targets students who assume recapitalization = automatic PCA exit. The assertion correctly states this is not the case, and the reason correctly identifies why (independent RBI assessment). Both are true and causally linked. Students who do not know the four-quarter sustained improvement requirement may doubt R's accuracy and select option (c), thinking R is fabricated.",
+      "final_explanation": "Government recapitalization of public sector banks has been a major policy tool — through recap bonds under the Indradhanush framework and subsequent capital infusions. However, a critical nuance is that recapitalization does not automatically trigger PCA removal.\n\nAssertion (A) Analysis: Factually correct. RBI evaluates PCA exit independently — the decision is based on sustained improvement in all three trigger indicators (CRAR, Net NPA ratio, Tier-1 Leverage Ratio) over a minimum of four consecutive quarters, not merely on capital infusion.\n\nReason (R) Analysis: Factually correct. RBI's Board for Financial Supervision (BFS) oversees PCA exit decisions. Even if a bank's CRAR improves post-recapitalization, if Net NPA remains elevated, the bank stays under PCA.\n\nCausal Link: R directly explains A — the reason PCA is not automatically removed upon recapitalization is precisely because RBI makes an independent holistic assessment. This is a genuine causal relationship.\n\nValue Addition:\n• Indradhanush (2015) had seven components: Appointments, Bank Board Bureau, Capitalization, De-stressing, Empowerment, Framework of accountability, Governance reforms.\n• Capital Conservation Buffer (CCB) under Basel III is 2.5% — included in the PCA CRAR threshold of 10.25%.\n• Banks like Bank of India and UCO Bank exited PCA after sustained improvement, not merely after capital infusion."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Government recapitalization of a public sector bank through recap bonds does not automatically result in the removal of that bank from the Reserve Bank of India's Prompt Corrective Action (PCA) framework.\n\nReason (R): RBI's decision to remove a bank from PCA is based on an independent assessment of sustained improvement in all the specified trigger indicators over a defined period, irrespective of capital infusion by the government.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7d0c2c0c-71c0-4199-9add-88b4aa102e14",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Exit from PCA: Conditions and Process",
+        "PCA and Its Impact on Public Sector Banks: Structural Vulnerability"
+      ],
+      "subject_que_no": 4590,
+      "overall_que_no": 11937
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Timeline of PCA developments 2002–2021",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) swapping the original PCA introduction year with the first major revision fools students who recall '2017' as associated with PCA without knowing it was a revision, not the origin.",
+      "elimination_logic": [
+        "Anchor point: PCA was first introduced by RBI in 2002 — this must come first in any correct sequence.",
+        "The Asset Quality Review (AQR) was conducted in 2015–16, leading to a surge in NPA recognition and subsequent PCA placements.",
+        "The major revision of the PCA framework occurred in 2017, not its introduction.",
+        "The extension of PCA to NBFCs and small finance banks happened in 2021 — last in the sequence. Select option (b): 1 → 3 → 2 → 4."
+      ],
+      "upsc_trap_explanation": "The temporal trap swaps 2002 (original PCA introduction) with 2017 (first major revision). Many students associate PCA primarily with the 2017 framework because it received heavy media coverage during the banking crisis period. A student who believes PCA was 'introduced' in 2017 will place event 2 before event 3, choosing option (a).",
+      "final_explanation": "Sequencing the PCA timeline correctly tests whether students understand PCA's evolution versus its media-prominent phase.\n\nCorrect sequence:\n1. RBI introduces PCA framework (2002) — Original framework; far less prominent than the revised version.\n3. Asset Quality Review (AQR) conducted by RBI (2015–16) — This compelled banks to recognise hidden NPAs, causing a sharp spike in Net NPAs and triggering PCA placements for multiple PSBs.\n2. Major revision of PCA framework (2017) — Revised triggers and thresholds introduced, coinciding with the peak NPA crisis.\n4. Extension of PCA to NBFCs and Small Finance Banks (2021) — Prompted by IL&FS/DHFL crises; significant expansion of PCA scope.\n\nWrong options:\n• Option (a) sequences 2017 before AQR, implying framework revision preceded the NPA surge — factually reversed.\n• Option (c) places NBFC extension before the 2017 revision — impossible.\n• Option (d) places AQR after the 2017 revision — reversed.\n\nValue Addition:\n• 11 PSBs were simultaneously under PCA in 2018 — peak stress period.\n• AQR was jointly conducted by RBI and bank boards to ensure transparent NPA recognition.\n• The Banking Regulation (Amendment) Act 2020 extended RBI's supervisory powers to urban cooperative banks."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following developments related to India's banking sector and the Prompt Corrective Action (PCA) framework:\n\n1. Reserve Bank of India introduces the Prompt Corrective Action framework\n2. Major revision of the PCA framework with revised thresholds and indicators\n3. Asset Quality Review (AQR) conducted by RBI leading to sharp increase in reported NPAs\n4. Extension of PCA framework to Non-Banking Financial Companies and Small Finance Banks\n\nWhich of the following represents the correct chronological order of the above developments?\n\n(a) 2 → 3 → 1 → 4\n(b) 1 → 3 → 2 → 4\n(c) 1 → 4 → 3 → 2\n(d) 3 → 1 → 2 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "71422b4b-9b4d-423f-8e8e-89170a5d0a45",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA and Lending Restrictions: Impact on Credit Flow",
+        "PCA Framework: Legal Basis and Regulatory Authority"
+      ],
+      "subject_que_no": 4591,
+      "overall_que_no": 11938
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PCA lending restrictions — targeted not blanket",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because students who believe PCA imposes a blanket lending prohibition will select it, not realising that PCA restricts only risky lending categories.",
+      "elimination_logic": [
+        "Identify that the bank is under PCA — restrictions apply, but operations have not been suspended (that would be moratorium).",
+        "Eliminate option (a): PCA does not give RBI power to reject individual loan applications directly — the bank's management continues to operate under restrictions.",
+        "Eliminate option (b): PCA does not prohibit all lending; a blanket prohibition would equate PCA with moratorium, which is incorrect.",
+        "Eliminate option (c): RBI cannot direct the government to recapitalise as a precondition for a specific transaction — that is a policy decision, not a PCA condition.",
+        "Select option (d): PCA restricts the bank from lending to unrated borrowers and high-risk sectors, but the proposed infrastructure loan to a rated borrower may proceed subject to other norms."
+      ],
+      "upsc_trap_explanation": "The scenario is crafted to activate the misconception that PCA = no lending. A superficially prepared student reads 'bank under PCA' and immediately assumes all lending is prohibited, selecting option (b). In reality, PCA restricts lending only to unrated borrowers or high-risk sectors — a rated, creditworthy borrower in a standard sector can still receive credit from a PCA bank.",
+      "final_explanation": "This scenario tests the most common PCA misconception: that PCA is a near-moratorium that halts all credit operations.\n\nApplicable principle: PCA imposes targeted lending restrictions — not blanket prohibitions. Specifically, banks under PCA cannot lend to unrated borrowers or sectors with elevated risk weighting. Standard credit operations, including lending to creditworthy, rated borrowers, can continue.\n\n• Option (a) — Incorrect: RBI does not directly veto individual loan applications under PCA. The bank's board and management retain operational authority, subject to PCA restrictions.\n• Option (b) — Incorrect: A total lending prohibition does not exist under PCA. This confuses PCA with a moratorium under Section 45, which suspends operations. PCA is a corrective, not prohibitory, framework.\n• Option (c) — Incorrect: While recapitalization helps banks exit PCA, RBI cannot condition individual lending decisions on government capital infusion — these are separate processes.\n• Option (d) — Correct: The bank under PCA can lend to rated borrowers in non-restricted sectors. The restriction applies specifically to unrated borrowers and high-risk sector concentrations.\n\nValue Addition:\n• Priority sector lending obligations are not automatically suspended under PCA.\n• Systemic risk: simultaneous PCA on 11 PSBs in 2018 severely constrained credit availability for MSMEs.\n• RBI-Government conflict in 2018 centred precisely on PCA's credit flow impact on small businesses."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A scheduled commercial bank has recently been placed under the Reserve Bank of India's Prompt Corrective Action (PCA) framework due to a breach of the Net NPA threshold. The bank's management is evaluating a loan application from a rated infrastructure company for project financing. A senior officer argues that the bank cannot process the loan at all since it is under PCA.\n\nWhich of the following correctly describes the legal and regulatory position in this situation?\n\n(a) The officer is correct, since RBI has the authority to reject all new loan proposals of a bank under PCA until the threshold breach is remedied\n(b) The officer is correct, since placement under PCA imposes a complete prohibition on new credit extension to any borrower in any sector\n(c) The officer is incorrect, but the bank can resume lending only after the government provides fresh capital infusion to improve CRAR above the PCA trigger threshold\n(d) The officer is incorrect, since PCA restricts lending to unrated borrowers and high-risk sectors but does not prohibit credit to rated borrowers in standard sectors",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d8cca320-084a-45c5-ad5a-63df35e46ee2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA and Small Finance Banks / Cooperative Banks: Applicability Boundaries"
+      ],
+      "subject_que_no": 4592,
+      "overall_que_no": 11939
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "PCA applicability boundaries — excluded categories",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) Urban Cooperative Banks is a strong distractor because students know UCBs were brought under RBI supervision only via the 2020 amendment, making their PCA inclusion seem uncertain.",
+      "elimination_logic": [
+        "Small Finance Banks — included under PCA since the 2021 revision.",
+        "Regional Rural Banks — NOT directly under PCA; they have a sponsor bank relationship and separate oversight.",
+        "Urban Cooperative Banks — brought under RBI supervisory jurisdiction via Banking Regulation (Amendment) Act 2020; now subject to RBI's supervisory tools.",
+        "Deposit-taking NBFCs — explicitly included under PCA since the 2021 extension.",
+        "The odd one out is Regional Rural Banks — select option (b)."
+      ],
+      "upsc_trap_explanation": "The trap exploits the recency of UCB inclusion (2020 amendment) — students who are unsure whether UCBs are under RBI jurisdiction may select them as the odd one out. In reality, UCBs are now under RBI's supervisory scope. RRBs, by contrast, operate through a sponsor bank relationship and are not directly covered under PCA, making them the genuine outlier.",
+      "final_explanation": "Understanding which banking entities fall under PCA coverage is a high-yield UPSC area, especially after the 2020–21 reforms.\n\n• Option (a) — Small Finance Banks: Included in the revised PCA framework (2021). They were a new addition in the 2021 revision.\n• Option (b) — Regional Rural Banks: Correct odd-one-out. RRBs are not directly covered under the PCA framework. They operate through a sponsor bank relationship and have a separate supervisory arrangement through NABARD and their sponsor commercial banks.\n• Option (c) — Urban Cooperative Banks: After the Banking Regulation (Amendment) Act 2020, RBI gained expanded supervisory powers over UCBs, bringing them within RBI's corrective action jurisdiction.\n• Option (d) — Deposit-taking NBFCs: Explicitly included in the 2021 extension of PCA to NBFCs.\n\nValue Addition:\n• Payments Banks are excluded from PCA — limited lending activity is the rationale.\n• RRBs are jointly owned by Central Government (50%), State Government (15%), and sponsor bank (35%).\n• NABARD has a supervisory role over RRBs distinct from RBI's PCA framework."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following types of financial institutions does NOT fall directly under the Prompt Corrective Action (PCA) framework of the Reserve Bank of India as currently applicable?\n\n(a) Small Finance Banks\n(b) Regional Rural Banks\n(c) Urban Cooperative Banks\n(d) Deposit-taking Non-Banking Financial Companies",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c7cd6de8-2554-4bf8-9243-a341ff7c1802",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Capital Adequacy Ratio (CRAR) as a PCA Trigger: Basel III Linkage"
+      ],
+      "subject_que_no": 4593,
+      "overall_que_no": 11940
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "PCA CRAR threshold vs. minimum regulatory CRAR — India-specific norms",
+      "statement_analysis": [
+        {
+          "statement": "Under the Basel III framework as implemented in India, the minimum Capital to Risk-Weighted Assets Ratio (CRAR) prescribed for scheduled commercial banks is 9%, which is higher than the 8% floor set by the Basel Committee.",
+          "verdict": "Correct",
+          "reason": "India has adopted a 9% minimum CRAR, one percentage point above the Basel III minimum of 8%, reflecting RBI's more conservative approach to capital adequacy."
+        },
+        {
+          "statement": "The CRAR threshold that triggers Prompt Corrective Action (Threshold 1) is set at 9%, the same as the minimum regulatory CRAR requirement for Indian banks.",
+          "verdict": "Incorrect",
+          "reason": "The PCA Threshold 1 CRAR trigger is 10.25%, which is higher than the 9% regulatory minimum. It incorporates the Capital Conservation Buffer (CCB) of 2.5%, creating an early-warning trigger above the minimum floor."
+        }
+      ],
+      "strong_distractor": "a — Option (a) claiming both statements are correct is a strong distractor because students who know India's 9% minimum often assume PCA triggers at that same level, not realising the PCA threshold is set higher at 10.25%.",
+      "elimination_logic": [
+        "Verify Statement 1: India's minimum CRAR is 9% vs. Basel III's 8% — this is a well-established India-specific norm. Statement 1 is correct.",
+        "Verify Statement 2: The PCA Threshold 1 CRAR trigger is 10.25% (9% minimum + 2.5% Capital Conservation Buffer requirement), NOT 9%. Statement 2 is incorrect.",
+        "Since Statement 1 is correct and Statement 2 is incorrect, select option (c)."
+      ],
+      "upsc_trap_explanation": "The trap is a classic UPSC technique: conflating the regulatory minimum (9%) with the PCA trigger threshold (10.25%). Students who know India's 9% CRAR norm assume PCA kicks in at that level. But PCA Threshold 1 is calibrated at 10.25% to create an early-warning intervention before the bank actually breaches the minimum requirement — the Capital Conservation Buffer of 2.5% is built into the PCA trigger.",
+      "final_explanation": "India's CRAR framework operates at two distinct levels that must not be confused.\n\n• Statement 1 — Correct: India's RBI-prescribed minimum CRAR is 9% for scheduled commercial banks, exceeding the Basel III Committee's 8% floor. This reflects India's more conservative post-crisis capital adequacy approach.\n• Statement 2 — Incorrect: The PCA CRAR trigger at Threshold 1 is 10.25%, not 9%. The 10.25% figure = 9% minimum CRAR + 1.875% of the Capital Conservation Buffer (CCB). The CCB under Basel III is 2.5% — banks must maintain a buffer above the minimum to absorb losses in stress periods. PCA kicks in before this buffer is fully depleted, not when the minimum is breached.\n\nValue Addition:\n• Capital Conservation Buffer (CCB) = 2.5% under Basel III; fully phased in by March 2020 in India.\n• CET-1 (Common Equity Tier-1) ratio must be at least 5.5% for Indian banks (Basel III: 4.5%).\n• A bank breaching PCA CRAR threshold does not yet violate the legal minimum — PCA is an early intervention."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding capital adequacy requirements and their relationship with the Prompt Corrective Action (PCA) framework in India:\n\nStatement 1: Under the Basel III framework as implemented in India, the minimum Capital to Risk-Weighted Assets Ratio (CRAR) prescribed for scheduled commercial banks is 9%, which is higher than the 8% floor set by the Basel Committee.\n\nStatement 2: The CRAR threshold that triggers Prompt Corrective Action (Threshold 1) is set at 9%, the same as the minimum regulatory CRAR requirement for Indian banks.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f45cf897-64a3-465d-806b-6aed50910475",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Non-Performing Assets (NPAs) as a PCA Trigger: Measurement and Classification"
+      ],
+      "subject_que_no": 4594,
+      "overall_que_no": 11941
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Net NPA vs. Gross NPA as PCA trigger",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) 'Gross NPA ratio' is the strongest distractor because Gross NPA is the more commonly cited figure in media and parliamentary discussions, making students incorrectly assume it is also the PCA trigger metric.",
+      "elimination_logic": [
+        "Recall that PCA uses the Net NPA ratio — which deducts provisions already held against bad loans — not the Gross NPA ratio.",
+        "Net NPA = Gross NPA minus provisions; this metric reflects the bank's unprotected exposure after provisioning.",
+        "Eliminate 'Gross NPA ratio' — commonly cited in news but not the PCA trigger.",
+        "Select 'Net NPA ratio' — option (a)."
+      ],
+      "upsc_trap_explanation": "The Gross NPA ratio dominates public discourse — RBI reports, parliamentary debates, and newspaper headlines cite Gross NPA percentages. Students absorb this usage and assume PCA also uses Gross NPA. The PCA framework deliberately uses Net NPA because it captures the residual risk after a bank has made provisions — a bank with high Gross NPA but adequate provisions may not breach the PCA trigger.",
+      "final_explanation": "The choice between Net NPA and Gross NPA is a precision test that UPSC has exploited repeatedly across paper I and paper II economics questions.\n\n• Option (a) — Correct: Net NPA ratio is the asset quality trigger under PCA. Net NPA = Gross NPA minus all provisions made against those NPAs. It reflects actual unhedged bad loan exposure.\n• Option (b) — Incorrect: Gross NPA ratio (total bad loans as a percentage of total advances) is widely reported but is NOT the PCA trigger. A bank with high provisions may have high Gross NPA but low Net NPA.\n• Option (c) — Incorrect: Stressed Asset ratio (NPA + restructured loans + written-off assets) is a broader metric used in financial stability reports, not as a PCA trigger.\n• Option (d) — Incorrect: Special Mention Account (SMA) ratio tracks early warning signals of potential NPAs, not the NPA trigger metric itself.\n\nValue Addition:\n• SMA-0, SMA-1, SMA-2 are early-stage classifications before an account becomes NPA.\n• 90-day default rule: an account becomes NPA if payment overdue for 90 days or more.\n• AQR (2015) forced banks to reclassify restructured loans as NPAs, causing Net NPA spikes that triggered PCA."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Reserve Bank of India uses ________ as the asset quality indicator to determine whether a bank has breached the trigger threshold under the Prompt Corrective Action framework, because it reflects the bank's residual exposure to bad loans after accounting for provisions already set aside.\n\n(a) Net NPA ratio\n(b) Gross NPA ratio\n(c) Stressed Asset ratio\n(d) Special Mention Account (SMA) ratio",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "556dd203-1a7e-4cda-abe3-1dd1ba4b8bfb",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Prompt Corrective Action: International Comparisons (FDIC's PCA vs. RBI's PCA)"
+      ],
+      "subject_que_no": 4595,
+      "overall_que_no": 11942
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "US PCA statutory basis — FDICIA 1991 vs. India's supervisory PCA",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because students who know PCA has three threshold levels in India may assume the US system also uses three levels, when in fact FDIC uses five capital categories.",
+      "elimination_logic": [
+        "Option (a): Basel Committee's Core Principles and PCA — PCA is indeed referenced as a best practice but the Basel Committee did not 'introduce' PCA; FDICIA 1991 did. Pair is incorrectly matched.",
+        "Option (b): India's three threshold levels vs. US five capital categories — the description is internally correct, but attributing US system's five categories to India's framework is a conflation.",
+        "Option (c): India's PCA as statutory under a dedicated legislation — factually incorrect; India's PCA is supervisory/administrative.",
+        "Option (d): FDICIA 1991 — US Federal Deposit Insurance Corporation Improvement Act introduced statutory PCA in the US following the Savings and Loan crisis — this is correctly matched."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges India's three-level system with the US five-category system. Option (b) sounds plausible because students know 'India has three levels' and may not recall that the US uses five. The key distinguishing fact — FDICIA 1991 introduced statutory PCA in the US specifically after the Savings and Loan crisis — is a precise historical anchor that separates well-prepared students.",
+      "final_explanation": "The international dimension of PCA is tested to check whether students understand the US origin and the structural difference between India's supervisory tool and the US statutory mandate.\n\n• Option (a) — Incorrectly matched: The Basel Committee's Core Principles for Effective Banking Supervision endorse early intervention frameworks including PCA as best practice, but the PCA concept was introduced in law by FDICIA 1991 in the US, not by the Basel Committee.\n• Option (b) — Incorrectly matched: India uses three threshold levels (not five). The US FDIC uses five capital categories (Well Capitalised, Adequately Capitalised, Undercapitalised, Significantly Undercapitalised, Critically Undercapitalised). Assigning five categories to India is wrong.\n• Option (c) — Incorrectly matched: India's PCA is NOT backed by a dedicated statute. It is an administrative/supervisory tool. Only the US version is statutory under FDICIA.\n• Option (d) — Correctly matched: The US Federal Deposit Insurance Corporation Improvement Act (FDICIA) of 1991 introduced PCA in the US statutory framework following the Savings and Loan (S&L) crisis of the 1980s–early 1990s.\n\nValue Addition:\n• Savings and Loan Crisis (1980s–90s): Over 1,000 US thrift institutions failed, costing taxpayers ~$130 billion.\n• India's Financial Sector Assessment Programme (FSAP) by IMF/World Bank has evaluated India's PCA alignment with Basel Core Principles.\n• Key difference summary: US PCA = statutory + mandatory; India PCA = supervisory + administrative."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched with respect to the Prompt Corrective Action (PCA) frameworks across different jurisdictions?\n\n(a) Introduction of PCA concept internationally — Basel Committee on Banking Supervision's Core Principles for Effective Banking Supervision (1997)\n(b) Number of intervention tiers in India's PCA framework — Five capital categories (Well Capitalised to Critically Undercapitalised)\n(c) Legal character of India's PCA framework — Statutory framework enacted by Parliament under a dedicated legislation\n(d) Introduction of statutory PCA in the United States — Federal Deposit Insurance Corporation Improvement Act (FDICIA), 1991, enacted following the Savings and Loan crisis",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3067ee03-8f5c-4220-949b-1f86e98a5ee3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Board for Financial Supervision (BFS): Role in PCA Oversight"
+      ],
+      "subject_que_no": 4596,
+      "overall_que_no": 11943
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "BFS composition and supervisory role in PCA",
+      "statement_analysis": [
+        {
+          "statement": "The Board for Financial Supervision (BFS) is a statutory body established under the Reserve Bank of India Act, 1934.",
+          "verdict": "Incorrect",
+          "reason": "BFS is a committee of RBI's Central Board, not a separate statutory body. It was constituted by RBI under its regulations, not established by a separate statute."
+        },
+        {
+          "statement": "The BFS is chaired by the RBI Governor and its membership includes four directors from the RBI Central Board.",
+          "verdict": "Correct",
+          "reason": "BFS composition includes the RBI Governor as Chairman and four directors co-opted from the RBI Central Board, reflecting its nature as a sub-committee of the Central Board."
+        },
+        {
+          "statement": "The supervisory jurisdiction of BFS extends to commercial banks, non-banking financial companies, and financial institutions — not limited to banks alone.",
+          "verdict": "Correct",
+          "reason": "BFS exercises oversight over the entire financial sector regulated by RBI, including commercial banks, NBFCs, urban cooperative banks, and financial institutions such as NABARD and NHB."
+        }
+      ],
+      "strong_distractor": "d — Option (d) claiming all three are correct is a strong distractor because Statements 2 and 3 are both accurate, and students who are uncertain about the statutory status of BFS may assume it is statutory given its wide-ranging supervisory mandate.",
+      "elimination_logic": [
+        "Test Statement 1: BFS is NOT a statutory body — it is a committee of RBI's Central Board constituted under RBI's internal governance. Statement 1 is false.",
+        "Test Statement 2: BFS composition — RBI Governor as Chairman + four Central Board directors. Statement 2 is correct.",
+        "Test Statement 3: BFS covers banks, NBFCs, and FIs. Statement 3 is correct.",
+        "Since only Statements 2 and 3 are correct, select option (b)."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 1 is 'statutory body established under the RBI Act'. BFS sounds like it should be statutory given its importance, but it is actually an internal governance committee. UPSC frequently tests whether students know the difference between statutory bodies (established by Parliament) and administrative committees (set up by RBI's board under its internal governance structure).",
+      "final_explanation": "The Board for Financial Supervision is RBI's internal supervisory oversight body, and its precise character is a common UPSC knowledge test.\n\n• Statement 1 — Incorrect: BFS is not a statutory body. It was constituted by RBI as a committee of its Central Board under the RBI's regulations — no separate legislation created it. Comparing: Monetary Policy Committee (MPC) IS statutory under the RBI Act (amended 2016); BFS is not.\n• Statement 2 — Correct: BFS is chaired by the RBI Governor. Four directors are co-opted from RBI's Central Board (typically non-official directors). This structure ensures BFS has board-level authority while being distinct from day-to-day management.\n• Statement 3 — Correct: BFS's supervisory mandate covers commercial banks, NBFCs, urban cooperative banks, primary dealers, and financial institutions. Its monthly meeting frequency enables regular oversight of PCA decisions and exit approvals.\n\nValue Addition:\n• BFS was constituted in November 1994 following the Narasimham Committee recommendations.\n• BFS meets at least once a month — distinct from RBI Central Board which meets quarterly.\n• MPC (statutory under RBI Act) decides monetary policy; BFS (non-statutory committee) oversees banking supervision — separate functional domains."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the Board for Financial Supervision (BFS) of the Reserve Bank of India, consider the following statements:\n\n1. The Board for Financial Supervision (BFS) is a statutory body established under the Reserve Bank of India Act, 1934.\n2. The BFS is chaired by the RBI Governor and its membership includes four directors from the RBI Central Board.\n3. The supervisory jurisdiction of BFS extends to commercial banks, non-banking financial companies, and financial institutions — not limited to banks alone.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "49a41c10-6847-4892-9715-bdba715a7ff5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Revised PCA Framework 2021: Key Changes from Original 2017 Framework"
+      ],
+      "subject_que_no": 4597,
+      "overall_que_no": 11944
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "2021 PCA revision — changes from 2017 framework",
+      "statement_analysis": [
+        {
+          "statement": "The revised PCA framework of 2021 introduced Return on Assets (RoA) as a new profitability trigger, replacing the Tier-1 Leverage Ratio used in the 2017 framework.",
+          "verdict": "Incorrect",
+          "reason": "This is factually reversed. The 2021 framework removed RoA and added the Tier-1 Leverage Ratio — not the other way around. RoA was used in the earlier framework; the 2021 version replaced it with the Tier-1 Leverage Ratio."
+        },
+        {
+          "statement": "Small Finance Banks were brought under the PCA framework for the first time through the 2021 revision.",
+          "verdict": "Correct",
+          "reason": "Small Finance Banks were a new category added to PCA coverage in 2021 — the 2017 framework did not explicitly include them."
+        },
+        {
+          "statement": "The 2021 revision was characterised uniformly as a tightening of the PCA framework across all dimensions.",
+          "verdict": "Incorrect",
+          "reason": "The 2021 revision was a mixed change — it tightened some aspects (capital adequacy benchmarks aligned with Basel III) while relaxing others (revised threshold levels in certain dimensions), making a uniform characterisation of 'tightening' inaccurate."
+        }
+      ],
+      "strong_distractor": "b — Option (b) pointing to only Statement 3 as incorrect is deceptive because Statement 3 is indeed incorrect, but students focusing on it may overlook that Statement 1 is also wrong (the RoA/Tier-1 reversal).",
+      "elimination_logic": [
+        "Test Statement 1: The 2021 framework removed RoA and added Tier-1 Leverage Ratio — Statement 1 reverses this, making it incorrect.",
+        "Test Statement 2: Small Finance Banks were newly included in 2021 — Statement 2 is correct (not an incorrect statement).",
+        "Test Statement 3: The 2021 revision was NOT uniformly a tightening — some parameters were relaxed. Statement 3 is incorrect.",
+        "Statements 1 and 3 are NOT correct — select option (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap in Statement 1 reverses the direction of change — it states RoA was 'introduced' in 2021 when in fact it was 'removed'. A student who knows only that 'RoA and Tier-1 Leverage Ratio are both associated with the 2021 change' but is fuzzy on the direction will accept Statement 1 as correct, missing the reversal.",
+      "final_explanation": "The 2021 PCA revision had specific, testable changes from the 2017 framework.\n\n• Statement 1 — Incorrect (this is one answer): The direction is reversed. RoA was the profitability trigger in the framework preceding 2021. The 2021 revision removed RoA and replaced it with the Tier-1 Leverage Ratio — the latter being a better structural solvency measure.\n• Statement 2 — Correct (not an answer): Small Finance Banks were explicitly added to PCA coverage in 2021. This was a significant expansion since SFBs had grown substantially in assets and depositor base.\n• Statement 3 — Incorrect (this is the second answer): The 2021 revision cannot be characterised as uniformly tightening. While capital adequacy benchmarks were better aligned with Basel III (tightening), some threshold levels were recalibrated (relaxing), making it a mixed revision rather than a one-directional tightening.\n\nValue Addition:\n• Tier-1 Leverage Ratio = Tier-1 Capital / Total Exposure — captures leverage independent of risk-weighting, which RoA could not.\n• Government-owned banks were already covered before 2021 — not a new inclusion.\n• 2021 revision also extended PCA to NBFCs — the most significant scope expansion."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the revisions made to the Prompt Corrective Action (PCA) framework by the Reserve Bank of India in 2021:\n\n1. The revised PCA framework of 2021 introduced Return on Assets (RoA) as a new profitability trigger, replacing the Tier-1 Leverage Ratio used in the 2017 framework.\n2. Small Finance Banks were brought under the PCA framework for the first time through the 2021 revision.\n3. The 2021 revision was characterised uniformly as a tightening of the PCA framework across all dimensions.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a0819fa7-8014-485f-9192-daac139c3438",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Risk Threshold Levels (Threshold 1, 2, 3): Gradation of Restrictions"
+      ],
+      "subject_que_no": 4598,
+      "overall_que_no": 11945
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "PCA three thresholds vs. three indicators — confusion trap",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because the coincidence of '3 levels' (thresholds) and '3 indicators' is a deliberate UPSC-style conflation trap — students who memorise numbers without attaching them to the right concept confuse the two.",
+      "elimination_logic": [
+        "Recall that PCA has three risk threshold levels — these represent severity escalations, not the number of indicators.",
+        "Recall the three trigger indicators: CRAR, Net NPA ratio, Tier-1 Leverage Ratio.",
+        "Eliminate option (b) which states five levels — the US FDIC uses five categories, not India.",
+        "The number of threshold levels (3) happens to match the number of indicators (3) but they refer to different dimensions. The question asks about the threshold levels — select option (d)."
+      ],
+      "upsc_trap_explanation": "This question directly exploits the trap annotated in the key_dimensions: the coincidence that both the number of threshold levels and the number of trigger indicators is three. Students who conflate 'levels' with 'indicators' answer correctly by accident, but the distractor options (five levels mirroring US FDIC; two levels suggesting a binary system) expose whether the student actually understands the gradation structure.",
+      "final_explanation": "The PCA framework uses a graduated three-tier threshold system to match the severity of restrictions to the severity of a bank's distress.\n\n• Option (a) — Incorrect: Two threshold levels would suggest a binary (safe/distressed) structure. PCA's gradation is intentionally three-tiered to allow proportionate intervention.\n• Option (b) — Incorrect: Five capital categories is the US FDIC system under FDICIA 1991. India deliberately adopted a simpler three-tier structure.\n• Option (c) — Incorrect: Four threshold levels do not exist in the Indian PCA framework — this is a fabricated option.\n• Option (d) — Correct: India's PCA uses three threshold levels. As a bank breaches successive thresholds, progressively more severe restrictions apply — both mandatory and discretionary — until the most extreme interventions at Threshold 3.\n\nValue Addition:\n• The number 3 appears in two distinct PCA contexts: 3 trigger indicators AND 3 threshold levels — do not conflate them.\n• Threshold 3 breach: most severe restrictions including possible recommendation for merger or license cancellation.\n• Restrictions are incremental — a bank at Threshold 2 faces all Threshold 1 restrictions plus additional ones."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Prompt Corrective Action (PCA) framework of the Reserve Bank of India uses a graduated system of intervention. How many threshold levels does the current PCA framework for scheduled commercial banks prescribe, with escalating restrictions imposed at each successive level?\n\n(a) Two threshold levels\n(b) Five threshold levels\n(c) Four threshold levels\n(d) Three threshold levels",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5de01815-3cbe-48ce-9e93-2a3492ce8f67",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Governance and Management Reforms Mandated Under PCA"
+      ],
+      "subject_que_no": 4599,
+      "overall_que_no": 11946
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Capital Restoration Plan and management reforms under PCA",
+      "statement_analysis": [
+        {
+          "statement": "Upon being placed under PCA, a bank is required to submit a Capital Restoration Plan (CRP) to the RBI, outlining steps to restore its financial health indicators.",
+          "verdict": "Correct",
+          "reason": "Submission of a Capital Restoration Plan is a governance requirement for banks entering PCA, providing RBI with a structured roadmap for recovery assessment."
+        },
+        {
+          "statement": "Under extreme PCA conditions combined with acute financial distress, the RBI has the authority to supersede a bank's board and appoint an administrator.",
+          "verdict": "Correct",
+          "reason": "RBI's powers under the Banking Regulation Act allow it to supersede boards and appoint administrators in extreme distress situations — this is distinct from routine PCA restrictions but can accompany severe PCA conditions."
+        },
+        {
+          "statement": "Appointment of an administrator by RBI under PCA conditions and imposition of a moratorium serve identical purposes under the Banking Regulation Act.",
+          "verdict": "Incorrect",
+          "reason": "They serve different purposes: an administrator manages the bank's ongoing affairs during extreme distress, while a moratorium suspends operations to protect depositors — they are distinct mechanisms with different legal basis and operational consequences."
+        }
+      ],
+      "strong_distractor": "d — Option (d) claiming all three are correct is a strong distractor because Statements 1 and 2 are both accurate, making it tempting to assume the entire set is correct without carefully evaluating Statement 3.",
+      "elimination_logic": [
+        "Test Statement 1: CRP requirement upon PCA entry is a standard governance mandate — correct.",
+        "Test Statement 2: RBI can supersede boards and appoint administrators under extreme conditions — correct.",
+        "Test Statement 3: Administrator appointment and moratorium do NOT serve identical purposes — they have different legal bases and operational scopes. Statement 3 is incorrect.",
+        "Only Statements 1 and 2 are correct — select option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the conflation between two extreme RBI interventions that both involve management replacement. Students who know both tools — administrator appointment and moratorium — but have not precisely differentiated their purposes will mark Statement 3 correct. The key difference: moratorium suspends the bank's operations for depositor protection; an administrator takes over management to run the bank as a going concern during restructuring.",
+      "final_explanation": "PCA includes governance mandates that go beyond financial restrictions, touching board and management accountability.\n\n• Statement 1 — Correct: Banks entering PCA must submit a Capital Restoration Plan (CRP). This document outlines the bank's self-identified path to restoring CRAR, reducing Net NPA, and improving the Tier-1 Leverage Ratio — it is reviewed by RBI/BFS as part of the ongoing PCA oversight.\n• Statement 2 — Correct: In extreme distress combined with PCA conditions, RBI can supersede the board and appoint an administrator. This power derives from the Banking Regulation Act and represents the most severe form of management intervention short of license cancellation.\n• Statement 3 — Incorrect: Administrator appointment and moratorium are legally and operationally distinct. An administrator manages a distressed bank as a going concern (bank operations continue). A moratorium (Section 45) suspends all operations including withdrawals — the bank ceases normal functioning. They are not 'identical.'\n\nValue Addition:\n• Yes Bank (2020): RBI imposed a moratorium AND superseded the board, then facilitated rescue by SBI — demonstrating both tools used in combination.\n• Fit and proper criteria for bank directors: RBI scrutinises credentials more closely for banks under PCA.\n• CRP is distinct from a Recovery and Resolution Plan (RRP) required of systemically important banks."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the governance and management reforms mandated under or associated with the Prompt Corrective Action (PCA) framework of the Reserve Bank of India, consider the following statements:\n\n1. Upon being placed under PCA, a bank is required to submit a Capital Restoration Plan (CRP) to the RBI, outlining steps to restore its financial health indicators.\n2. Under extreme PCA conditions combined with acute financial distress, the RBI has the authority to supersede a bank's board and appoint an administrator.\n3. Appointment of an administrator by RBI under PCA conditions and imposition of a moratorium serve identical purposes under the Banking Regulation Act.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6aecbab9-1f3c-4876-a92d-761e86c1a320",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Criticism and Limitations of the PCA Framework",
+        "PCA Framework and Financial Stability: Macroprudential Dimensions"
+      ],
+      "subject_que_no": 4600,
+      "overall_que_no": 11947
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "PCA as reactive tool — regulatory forbearance criticism",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is A correct? — RBI-Government conflict in 2018 is documented; the government argued PCA was constraining MSME credit. A is factually correct.",
+        "Step 2: Is R correct? — Regulatory forbearance (delayed NPA recognition) means banks enter PCA later than they should, reducing PCA's early-warning effectiveness. R is factually correct.",
+        "Step 3: Does R causally explain A? — The government's concern was credit restriction harming MSMEs — this is a credit flow argument, not an argument about delayed PCA trigger timing. R (regulatory forbearance causing late PCA entry) does NOT explain A (government's credit restriction concern). R is a separate critique about PCA's preventive failure, while A is about PCA's credit flow impact.",
+        "Both A and R are correct but R does NOT explain A — correct option is (b)."
+      ],
+      "upsc_trap_explanation": "The trap presents two factually correct critiques of PCA that sound related — both are 'criticisms of PCA' — but they are logically distinct. The government's 2018 argument (A) was about PCA restricting credit to productive sectors. The regulatory forbearance critique (R) is about NPA under-reporting causing delayed PCA entry — an academic/institutional critique, not the political-economic argument the government made. Connecting them as cause-effect requires fabricating a logical link that does not exist.",
+      "final_explanation": "Two major critiques of the PCA framework coexist but operate on different logical planes.\n\nAssertion (A) Analysis: Factually correct. In 2018, the RBI-Government conflict reached a peak when the government, through then Finance Ministry communications, argued that simultaneous PCA on 11 PSBs was severely restricting credit to MSMEs and infrastructure sectors, hampering economic growth.\n\nReason (R) Analysis: Factually correct. Regulatory forbearance — the tendency of banks (and sometimes regulators) to delay NPA recognition — is a well-documented critique of PCA's effectiveness. When NPAs are underreported, banks do not breach PCA triggers until stress has already become severe, making PCA reactive rather than preventive.\n\nCausal Link: R does NOT explain A. The government's credit-restriction argument (A) is a political-economic concern about PCA's current operational impact on lending. R is a structural critique about PCA's timing and early-warning failure. These are two independent critiques pointing in different directions — R does not cause or explain A.\n\nValue Addition:\n• The RBI-Government standoff in 2018 was one of the triggers for then RBI Governor Urjit Patel's resignation.\n• Regulatory forbearance was a major finding in RBI's 2015 AQR — banks had been evergreening loans.\n• PCA critics argue it protects the system but punishes depositors and borrowers of weak banks, not just management."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): In 2018, the Government of India argued that the simultaneous placement of a large number of public sector banks under the Prompt Corrective Action (PCA) framework was constraining credit availability to small businesses and the broader economy.\n\nReason (R): The practice of regulatory forbearance — whereby non-performing assets are recognised belatedly — causes banks to enter the PCA framework at a much later stage of financial distress, reducing PCA's effectiveness as an early corrective intervention.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6fbd617f-55d3-45fc-a8fd-8e4696556a19",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Exit from PCA: Conditions and Process"
+      ],
+      "subject_que_no": 4601,
+      "overall_que_no": 11948
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PCA exit conditions — all indicators, four quarters, BFS oversight",
+      "statement_analysis": [
+        {
+          "statement": "A bank can exit PCA if it demonstrates improvement in at least one of the three trigger indicators over two consecutive quarters.",
+          "verdict": "Incorrect",
+          "reason": "Exit requires sustained improvement in ALL three trigger indicators, not just one, and the improvement must be sustained over at least four quarters, not two."
+        },
+        {
+          "statement": "The decision to remove a bank from PCA is overseen by RBI's Board for Financial Supervision (BFS).",
+          "verdict": "Correct",
+          "reason": "BFS, as RBI's supervisory oversight body, reviews and approves PCA exit decisions — individual banks do not self-certify exit."
+        },
+        {
+          "statement": "UCO Bank, Bank of India, and Bank of Maharashtra were among the public sector banks that exited PCA during the period 2019–2021.",
+          "verdict": "Correct",
+          "reason": "These three banks are documented instances of PCA exit in the 2019–2021 period following improvement in their financial health indicators."
+        },
+        {
+          "statement": "Improvement in CRAR alone is sufficient for a bank to exit PCA, provided it meets the Tier-1 regulatory minimum.",
+          "verdict": "Incorrect",
+          "reason": "CRAR improvement alone does not suffice — all three trigger indicators (CRAR, Net NPA ratio, Tier-1 Leverage Ratio) must show sustained improvement. A bank with improved CRAR but persistently high Net NPA stays in PCA."
+        }
+      ],
+      "strong_distractor": "c — The correct answer is (c) 'Only two,' but 'Only three' is the strong distractor because students who correctly identify pairs 2 and 3 as accurate may then be uncertain about pair 4 and give it the benefit of the doubt, overcounting to three.",
+      "elimination_logic": [
+        "Test pair 1: Improvement in one indicator over two quarters — both conditions (one indicator; two quarters) are wrong. All three must improve over four quarters. Incorrect.",
+        "Test pair 2: BFS oversees PCA exit — correct.",
+        "Test pair 3: UCO Bank, Bank of India, Bank of Maharashtra exited PCA 2019–2021 — correct.",
+        "Test pair 4: CRAR improvement alone sufficient — incorrect; all three indicators must improve. Only two pairs correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in pairs 1 and 4 exploits partial knowledge. Students who know that CRAR improvement is a prerequisite for PCA exit may assume it is sufficient. Similarly, knowing that improvement is required, they may assume a short period (two quarters) and partial improvement (one indicator) suffice. The actual requirement — all three indicators sustained over four quarters — is more stringent than intuition suggests.",
+      "final_explanation": "PCA exit conditions are as precisely defined as entry conditions, and UPSC tests both.\n\nPair 1 — Incorrect: Exit requires improvement across all three indicators (not just one), sustained over at least four consecutive quarters (not two). Both sub-conditions in this pair are wrong.\nPair 2 — Correct: BFS reviews and approves all PCA exit decisions. This is part of BFS's supervisory mandate over banks.\nPair 3 — Correct: UCO Bank, Bank of India, and Bank of Maharashtra successfully exited PCA in the 2019–2021 period after demonstrating sustained recovery across all required indicators.\nPair 4 — Incorrect: CRAR improvement is necessary but not sufficient. If Net NPA remains above threshold or Tier-1 Leverage Ratio remains weak, the bank remains under PCA despite improved capital adequacy.\n\nOnly pairs 2 and 3 are correctly stated — answer is 'Only two.'\n\nValue Addition:\n• At peak (2018): 11 PSBs simultaneously under PCA — represented systemic credit stress.\n• Government recapitalization assisted CRAR recovery; however RBI still independently assessed all three indicators.\n• PCA entry/exit decisions are publicly announced by RBI, making them traceable in official press releases."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding the conditions for exit from the Prompt Corrective Action (PCA) framework and related factual claims:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "A bank can exit PCA if it demonstrates improvement in at least one of the three trigger indicators over two consecutive quarters."
+          ],
+          [
+            "2",
+            "The decision to remove a bank from PCA is overseen by RBI's Board for Financial Supervision (BFS)."
+          ],
+          [
+            "3",
+            "UCO Bank, Bank of India, and Bank of Maharashtra were among the public sector banks that exited PCA during the period 2019–2021."
+          ],
+          [
+            "4",
+            "Improvement in CRAR alone is sufficient for a bank to exit PCA, provided it meets the Tier-1 regulatory minimum."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dd657194-8aa7-4e72-9b41-5d61bd25f463",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA and Its Impact on Public Sector Banks: Structural Vulnerability"
+      ],
+      "subject_que_no": 4602,
+      "overall_que_no": 11949
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "PSBs and PCA — government dual role, implicit guarantee",
+      "statement_analysis": [
+        {
+          "statement": "Public sector banks were disproportionately represented among PCA-designated banks compared to private sector banks, partly because government ownership reduced the market-based incentives for PSB managements to maintain strong capital buffers.",
+          "verdict": "Correct",
+          "reason": "The implicit government guarantee behind PSBs reduces market discipline — depositors do not discipline PSBs through withdrawals as they might with private banks, weakening the management incentive to maintain prudent capital ratios. This structural factor contributed to PSBs' disproportionate PCA representation."
+        },
+        {
+          "statement": "The PCA framework is considered more effective for public sector banks than for private banks because government ownership ensures that recapitalization support is always available to remedy PCA trigger breaches within one fiscal year.",
+          "verdict": "Incorrect",
+          "reason": "This is the opposite of the empirically supported position. PCA is argued to be less effective for PSBs — not more — because the implicit sovereign guarantee reduces market discipline, and government recapitalization, while available, does not automatically resolve PCA (RBI assesses independently). There is no guarantee of remedy within one fiscal year."
+        }
+      ],
+      "strong_distractor": "a — This is the correct answer; the strong distractor drawing test-takers away is option (c), which would claim Statement 1 is correct and Statement 2 is incorrect — this IS the correct answer, making (a) the correct choice. The distractor is option (d), which reverses the assessment, tempting students who believe government recapitalization makes PSBs inherently safer.",
+      "elimination_logic": [
+        "Evaluate Statement 1: PSBs' disproportionate PCA presence linked to implicit sovereign guarantee reducing market discipline — this is a well-supported analytical claim. Statement 1 is correct.",
+        "Evaluate Statement 2: The claim that PCA is 'more effective' for PSBs due to recapitalization availability — this contradicts the established argument that implicit guarantee REDUCES PCA effectiveness. Statement 2 is incorrect.",
+        "Statement 1 correct + Statement 2 incorrect — select option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is crafted to sound logical: government ownership → recapitalization available → PCA effectiveness. This positive-sounding chain appeals to students who associate government backing with stability. But the opposite argument is empirically grounded — the same government guarantee that provides recapitalization also insulates PSB management from market discipline, making PCA's corrective pressure less potent.",
+      "final_explanation": "The relationship between PSBs and PCA has a distinctive structural dimension worth understanding for both Prelims and Mains.\n\n• Statement 1 — Correct: PSBs dominated the PCA list during 2017–2021. A key structural reason is the implicit government guarantee — depositors know the government will not allow a PSB to fail, so they do not exert market discipline through fund withdrawals. Without this market pressure, PSB managements had weaker incentives to maintain strong capital buffers, allowing NPAs and capital erosion to build gradually.\n• Statement 2 — Incorrect: The availability of government recapitalization does not make PCA more effective for PSBs — the argument is precisely the reverse. Scholars and RBI working papers have noted that implicit government backstops reduce the market discipline that PCA relies on to work effectively. Moreover, recapitalization does not automatically exit a bank from PCA — RBI makes that determination independently.\n\nValue Addition:\n• 11 PSBs under PCA simultaneously (2018): the largest cluster in any year.\n• The dual role dilemma: government as PSB owner (recapitaliser) AND as the political authority above the banking regulator creates governance tensions.\n• Indradhanush 2015 attempted to address governance of PSBs through the Banks Board Bureau — a structural reform effort."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the relationship between public sector banks (PSBs) and the Prompt Corrective Action (PCA) framework:\n\nStatement 1: Public sector banks were disproportionately represented among PCA-designated banks compared to private sector banks, partly because government ownership reduced the market-based incentives for PSB managements to maintain strong capital buffers.\n\nStatement 2: The PCA framework is considered more effective for public sector banks than for private banks because government ownership ensures that recapitalization support is always available to remedy PCA trigger breaches within one fiscal year.\n\n(a) Statement 1 is correct but Statement 2 is incorrect\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Both Statement 1 and Statement 2 are correct\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3c0da87a-923c-4d44-b395-dcd6da621d06",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Mandatory Restrictions Under PCA",
+        "PCA Risk Threshold Levels (Threshold 1, 2, 3): Gradation of Restrictions"
+      ],
+      "subject_que_no": 4603,
+      "overall_que_no": 11950
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Prohibition on new lines of business — mandatory PCA restriction",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) claiming that banks under PCA cannot open any new branches domestically or overseas is a strong distractor because branch restriction IS a mandatory PCA measure, but the qualifying word 'any' makes students uncertain — in fact the restriction is on new branch expansion, which is accurate.",
+      "elimination_logic": [
+        "Identify that all options describe 'mandatory restrictions' — the question asks which is NOT a mandatory restriction.",
+        "Dividend prohibition — mandatory. Branch expansion restriction — mandatory. Cap on management compensation — mandatory. New lines of business — mandatory.",
+        "Test option (d): Requirement to merge with a stronger bank — this is NOT a mandatory PCA restriction. Merger may happen as an extreme escalation beyond PCA, but it is not a standard mandatory PCA measure.",
+        "Select option (d) as the one that does NOT belong to the mandatory restrictions list."
+      ],
+      "upsc_trap_explanation": "The trap uses scope-extension: all four options describe things RBI can do with distressed banks, but only three are within the PCA mandatory restrictions list. Mandatory merger/amalgamation is a post-PCA escalation tool (Section 45 of the Banking Regulation Act), not a PCA-stage mandatory restriction. Students who confuse the continuum of intervention will select a PCA restriction rather than the post-PCA escalation measure.",
+      "final_explanation": "The mandatory restrictions under PCA form a defined set that UPSC tests through inclusion/exclusion questions.\n\n• Option (a) — This IS a mandatory restriction: Dividend distribution prohibition is explicitly listed as mandatory the moment a bank enters PCA. Capital remittance is also prohibited.\n• Option (b) — This IS a mandatory restriction: Restriction on branch expansion — both domestic and overseas — is mandatory under PCA. The bank cannot open new branches.\n• Option (c) — This IS a mandatory restriction: Cap on management compensation and directors' fees is mandatory. This targets the moral hazard of rewarding management in a bank under stress.\n• Option (d) — NOT a mandatory PCA restriction: Requirement to merge with a stronger bank is not part of the PCA mandatory restriction list. Merger is an escalation that may occur after PCA if a bank's situation deteriorates to the point where RBI pursues forced amalgamation under Section 45 of the Banking Regulation Act — it is post-PCA, not a PCA-stage mandatory measure.\n\nValue Addition:\n• Prohibition on entering new lines of business is also mandatory — banks cannot diversify into new products while under PCA.\n• Discretionary restrictions include: reducing high-risk asset concentration, restricting sector-specific lending, enhanced provisioning requirements.\n• Mandatory vs. discretionary: mandatory restrictions apply automatically; discretionary ones require RBI's specific direction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following is NOT among the mandatory restrictions imposed on a bank upon its placement under the Prompt Corrective Action (PCA) framework of the Reserve Bank of India?\n\n(a) Prohibition on the distribution of dividends to shareholders and remittance of capital\n(b) Restriction on opening new branches, whether domestically or overseas\n(c) Ceiling on management compensation and fees payable to directors\n(d) Requirement to merge with a stronger bank designated by the Reserve Bank of India",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a5c83e80-e0c2-4755-95ed-8748eedeabd5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Non-Performing Assets (NPAs) as a PCA Trigger: Measurement and Classification",
+        "Capital Adequacy Ratio (CRAR) as a PCA Trigger: Basel III Linkage"
+      ],
+      "subject_que_no": 4604,
+      "overall_que_no": 11951
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "PCA indicators and their specific trigger values",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because it correctly matches the minimum regulatory CRAR (9%) with a CRAR-related entry, exploiting students who confuse the minimum regulatory floor with the PCA trigger threshold.",
+      "elimination_logic": [
+        "Identify A: Net NPA ratio — the PCA Net NPA Threshold 1 is when Net NPA exceeds 6%. Matches with 3.",
+        "Identify B: CRAR — PCA Threshold 1 is triggered when CRAR falls below 10.25% (which includes Capital Conservation Buffer). Matches with 1.",
+        "Identify C: Tier-1 Leverage Ratio — added in 2021, this measures Tier-1 capital as a percentage of total exposure; its inclusion replaced RoA. Matches with 4.",
+        "Identify D: Minimum regulatory CRAR for Indian banks under Basel III — 9%, higher than Basel's 8% floor. Matches with 2. Correct combination: A-3, B-1, C-4, D-2 — option (c)."
+      ],
+      "upsc_trap_explanation": "The key trap is confusing the PCA CRAR trigger threshold (10.25%) with the minimum regulatory CRAR (9%). Both are CRAR-related figures associated with banks, but they serve different purposes. Option (a) swaps B and D — assigning 9% to B (PCA trigger) and 10.25% to D (regulatory minimum) — which is precisely backwards. A student who knows both numbers but is fuzzy on which applies where will select option (a).",
+      "final_explanation": "This question tests precise numerical knowledge of PCA indicators and their trigger values.\n\n• A–3: Net NPA ratio above 6% triggers Threshold 1 under the PCA framework. This is the asset quality trigger, using Net NPA (post-provision), not Gross NPA.\n• B–1: CRAR below 10.25% triggers PCA Threshold 1. The 10.25% incorporates the minimum 9% CRAR plus a portion of the Capital Conservation Buffer — set deliberately above the regulatory minimum to create early-warning space.\n• C–4: Tier-1 Leverage Ratio was added to the 2021 revised framework, replacing Return on Assets (RoA). It measures Tier-1 capital relative to total exposure and is specifically designed to identify over-leveraged banks.\n• D–2: India's minimum regulatory CRAR under Basel III implementation is 9%, which is one percentage point above the Basel Committee's 8% minimum requirement.\n\nThe trap pairing is B and D — they are both CRAR-related but at different values with different purposes.\n\nValue Addition:\n• Capital Conservation Buffer = 2.5%; fully phased in by March 2020 in India.\n• Tier-1 Capital = Paid-up capital + Reserves + Retained earnings (core capital).\n• The gap between PCA trigger (10.25%) and regulatory minimum (9%) = early intervention zone."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match the PCA-related indicators and thresholds in List I with their correct descriptions or values in List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Net NPA ratio threshold (Threshold 1 trigger)",
+            "1. Falls below 10.25% — incorporates Capital Conservation Buffer above the regulatory minimum"
+          ],
+          [
+            "B. CRAR threshold (Threshold 1 trigger)",
+            "2. Set at 9% for Indian banks — one percentage point above the Basel Committee's minimum requirement"
+          ],
+          [
+            "C. Tier-1 Leverage Ratio",
+            "3. Exceeds 6% — asset quality trigger using post-provision measure of bad loan exposure"
+          ],
+          [
+            "D. Minimum regulatory CRAR for Indian banks under Basel III",
+            "4. Introduced in 2021 to replace Return on Assets (RoA) as the solvency and leverage indicator in PCA"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-2, C-4, D-1\n(b) A-1, B-3, C-2, D-4\n(c) A-3, B-1, C-4, D-2\n(d) A-4, B-1, C-3, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "02d5cf55-3d2b-457c-91e9-61e92f5aa6d2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Framework and Financial Stability: Macroprudential Dimensions"
+      ],
+      "subject_que_no": 4605,
+      "overall_que_no": 11952
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "PCA as macroprudential tool — stability vs. credit growth tradeoff",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is A correct? — PCA restricts risky lending and capital distribution, preventing further deterioration of weak banks and thereby reducing systemic contagion risk. A is factually correct.",
+        "Step 2: Is R correct? — Simultaneous PCA on multiple PSBs (11 in 2018) does create a credit crunch, as the combined lending capacity of affected banks contracts simultaneously. R is factually correct.",
+        "Step 3: Does R explain A? — A states PCA acts as a macroprudential stabiliser. R states PCA causes credit contraction when applied to multiple banks simultaneously. R does NOT explain why PCA acts as a macroprudential tool — it actually describes a COST of PCA, not the mechanism by which PCA achieves financial stability. They are both correct but causally unconnected.",
+        "Both A and R correct, R does NOT explain A — correct option is (b)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "This question tests the macroprudential dimension of PCA and the ability to distinguish causal explanation from mere co-occurrence.\n\nAssertion (A) Analysis: Correct. PCA acts as a macroprudential tool by containing the risk that one or more weak banks will further deteriorate their balance sheets through aggressive (and potentially irrecoverable) lending. By restricting dividend distribution, branch expansion, and new high-risk lending, PCA prevents weak banks from amplifying systemic risk.\n\nReason (R) Analysis: Correct. Simultaneous PCA imposition on multiple PSBs in 2018 did generate a credit squeeze. 11 PSBs under PCA meant a significant reduction in system-wide credit availability, particularly for MSMEs and unrated borrowers.\n\nCausal Link: R describes a side effect of PCA, not the mechanism by which PCA achieves financial stability. The stabilising function of PCA (A) operates through restricting reckless risk-taking — this mechanism is independent of how many banks are simultaneously under PCA. R identifies a macro cost of PCA, not its macroprudential working principle.\n\nValue Addition:\n• Macroprudential policy targets systemic risk — individual bank stability tools like PCA serve double duty as macroprudential instruments when applied at scale.\n• IMF's FSAP for India has assessed PCA as broadly aligned with Basel Core Principles for supervisory early intervention.\n• Critics argue PCA is 'reactive' rather than 'preventive' — activated after stress accumulates, not before."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Prompt Corrective Action framework functions as a macroprudential instrument by containing the risk of further balance sheet deterioration in weak banks, thereby reducing the potential for systemic contagion across the financial sector.\n\nReason (R): When multiple public sector banks are simultaneously placed under PCA, the aggregate credit capacity of the banking system contracts sharply, which can adversely affect economic activity and credit availability for small borrowers.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "796be193-326e-4eeb-b0c9-0108ab868a14",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Extension to NBFCs (2021): Scope and Applicability",
+        "PCA and Small Finance Banks / Cooperative Banks: Applicability Boundaries"
+      ],
+      "subject_que_no": 4606,
+      "overall_que_no": 11953
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "PCA 2021 inclusions and exclusions — NBFCs and banks",
+      "statement_analysis": [
+        {
+          "statement": "Payments Banks are excluded from the PCA framework because their business model is restricted to accepting deposits and making payments, without significant lending activity.",
+          "verdict": "Correct",
+          "reason": "Payments Banks cannot lend — their model is limited to deposits (up to Rs. 2 lakh per customer) and remittances. The absence of credit risk exposure makes PCA's lending-restriction triggers inapplicable, justifying exclusion."
+        },
+        {
+          "statement": "Core Investment Companies (CICs) are covered under the PCA framework extended to NBFCs in 2021.",
+          "verdict": "Correct",
+          "reason": "CICs are explicitly included in the 2021 NBFC PCA framework. They hold investments in group companies and are systemically important given their role in large conglomerates."
+        },
+        {
+          "statement": "Regional Rural Banks are covered under the revised PCA framework (2021) because they are supervised directly by the Reserve Bank of India.",
+          "verdict": "Incorrect",
+          "reason": "RRBs are not directly under the PCA framework. They operate through a sponsor bank relationship and are supervised via NABARD, not directly through RBI's PCA mechanism."
+        }
+      ],
+      "strong_distractor": "d — Option (d) claiming all three correct is a strong distractor because Statements 1 and 2 are both accurate, and students who are uncertain about RRBs — knowing RBI has expanded supervisory jurisdiction recently — may assume Statement 3 is also correct.",
+      "elimination_logic": [
+        "Test Statement 1: Payments Banks cannot lend — PCA's lending restrictions would have no traction. Exclusion is logical and accurate. Statement 1 is correct.",
+        "Test Statement 2: CICs are explicitly listed as covered under NBFC PCA 2021. Statement 2 is correct.",
+        "Test Statement 3: RRBs are NOT directly supervised by RBI for PCA purposes — they use a sponsor bank channel under NABARD oversight. Statement 3 is incorrect.",
+        "Only Statements 1 and 2 are correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in Statement 3 substitutes RRBs for UCBs. RBI's supervisory jurisdiction over Urban Cooperative Banks was expanded under the 2020 amendment, which students may correctly recall. Erroneously applying this recent expansion to RRBs is the trap — RRBs have always had a different, NABARD-mediated supervisory structure and are not directly under RBI's PCA.",
+      "final_explanation": "The 2021 PCA expansion created new inclusion and exclusion boundaries that require precise recall.\n\n• Statement 1 — Correct: Payments Banks are excluded from PCA. Their regulatory design prevents them from lending — no credit book means PCA's lending restriction triggers are inapplicable. Their risk profile is fundamentally different from lending institutions.\n• Statement 2 — Correct: Core Investment Companies are included. CICs — which hold equity stakes in group companies and serve as holding structures for large conglomerates — were included because their systemic failure could destabilise entire corporate groups.\n• Statement 3 — Incorrect: RRBs are not directly under the PCA framework. They are jointly owned by the Central Government, state government, and a sponsor commercial bank. NABARD oversees RRBs; PCA applies directly only to entities under RBI's direct supervisory jurisdiction.\n\nValue Addition:\n• Payments Banks deposit ceiling: Rs. 2 lakh per individual customer; no lending permitted.\n• Sponsor bank relationship: RRBs use technology, HR practices, and brand of their sponsor bank (e.g., SBI sponsors several RRBs).\n• CICs: classified as NBFCs but do not take public deposits or lend directly — unique risk profile justifying separate PCA norms."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the scope and applicability of the Prompt Corrective Action (PCA) framework as revised in 2021, consider the following statements:\n\n1. Payments Banks are excluded from the PCA framework because their business model is restricted to accepting deposits and making payments, without significant lending activity.\n2. Core Investment Companies (CICs) are covered under the PCA framework extended to NBFCs in 2021.\n3. Regional Rural Banks are covered under the revised PCA framework (2021) because they are supervised directly by the Reserve Bank of India.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "97f8fc7f-dd7a-4926-8e1c-1332c256fc3f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA and Recapitalization: Interaction with Government's Indradhanush and Recap Bonds"
+      ],
+      "subject_que_no": 4607,
+      "overall_que_no": 11954
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Indradhanush framework — year and components",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) '2014' is a strong distractor because the BJP government came to power in May 2014 and students associate early banking reform announcements with 2014, not correctly identifying 2015 as the Indradhanush year.",
+      "elimination_logic": [
+        "Recall that Indradhanush was announced in August 2015 by the Finance Ministry — not 2014 or 2016.",
+        "Eliminate option (a): 2014 predates the framework; no such announcement occurred in 2014.",
+        "Eliminate option (b): 2016 is after the announcement; also, INSOLVENCY AND BANKRUPTCY CODE was 2016 — a different reform.",
+        "Eliminate option (d): 2018 was the peak PCA crisis year, not the Indradhanush year.",
+        "Select option (c): 2015."
+      ],
+      "upsc_trap_explanation": "The temporal trap offers 2014 as the closest and most intuitive wrong answer. Students who know Indradhanush was associated with the Modi government's early banking reforms may guess 2014 (the first year in office). The correct year is 2015 — the framework was announced in August 2015 with seven reform pillars for PSBs.",
+      "final_explanation": "Indradhanush is a UPSC-recurring reform framework for public sector banks that frequently appears in context of PCA and banking reforms.\n\n• Option (a) — Incorrect: 2014 is too early. The Indradhanush framework was announced in August 2015, not in the first year of the NDA government.\n• Option (b) — Incorrect: 2016 is the year of the Insolvency and Bankruptcy Code (IBC) and the SARFAESI amendment — not Indradhanush.\n• Option (c) — Correct: The Indradhanush framework was announced in August 2015. It comprised seven reform elements aimed at revitalising PSBs, remembered by the mnemonic A-B-C-D-E-F-G: Appointments, Bank Board Bureau, Capitalisation, De-stressing, Empowerment, Framework of accountability, Governance.\n• Option (d) — Incorrect: 2018 was the peak of the PCA crisis, not a reform announcement year.\n\nValue Addition:\n• Indradhanush's 'C' (Capitalisation) provided Rs. 70,000 crore to PSBs over four years.\n• Bank Board Bureau (later reconstituted) was set up to recommend appointments of PSB chiefs.\n• Indradhanush predates the large-scale PCA placements (2017–18) and was intended to prevent, but did not fully succeed in preventing, the banking crisis."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Government of India launched the 'Indradhanush' framework for revitalising public sector banks, which included a structured recapitalisation plan intended to improve CRAR of banks and assist eligible banks in exiting the Prompt Corrective Action (PCA) regime. This framework was announced in the year ________.\n\n(a) 2014\n(b) 2016\n(c) 2015\n(d) 2018",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "706f09ca-b63f-4a08-b9e4-d08b948c172b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Trigger Indicators: Capital, Asset Quality, and Leverage",
+        "Revised PCA Framework 2021: Key Changes from Original 2017 Framework"
+      ],
+      "subject_que_no": 4608,
+      "overall_que_no": 11955
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Tier-1 Leverage Ratio replacing RoA in 2021 PCA revision",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) 'Return on Equity (RoE)' is a strong distractor because students who know RoA was removed may substitute another return-based metric (RoE) when in fact the replacement was a leverage ratio — a structurally different metric.",
+      "elimination_logic": [
+        "Recall that the 2021 revision removed Return on Assets (RoA) as the profitability trigger.",
+        "The replacement was Tier-1 Leverage Ratio — a measure of Tier-1 capital relative to total exposure.",
+        "Eliminate option (a): Return on Equity is a profitability metric — like RoA, not a leverage/capital metric. It was not the replacement.",
+        "Eliminate option (c): Common Equity Tier-1 (CET-1) ratio is part of CRAR decomposition, already present in the framework — not the new addition.",
+        "Eliminate option (d): Stressed Asset Coverage Ratio is not a PCA trigger indicator.",
+        "Select option (b): Tier-1 Leverage Ratio."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap replaces Tier-1 Leverage Ratio (the correct answer) with Return on Equity (option a) — a plausible substitute because students recall a 'return-based metric was replaced' and may default to another common return metric. The critical knowledge is that the replacement was NOT another profitability metric but a completely different type of indicator — a leverage ratio — shifting the framework's focus from profitability to structural solvency.",
+      "final_explanation": "The 2021 PCA revision changed not just a number but the conceptual type of one trigger indicator.\n\n• Option (a) — Incorrect: Return on Equity (RoE) was never a PCA trigger indicator and was not introduced in 2021. The confusion arises because 'RoA was removed' leads students to seek a similar-sounding replacement.\n• Option (b) — Correct: The Tier-1 Leverage Ratio was added in the 2021 revision to replace RoA. It measures Tier-1 capital as a proportion of total exposure (on-balance-sheet assets plus off-balance-sheet items). The shift from a profitability metric (RoA) to a leverage metric (T1LR) reflects a regulatory preference for structural solvency signals over period-specific profit performance.\n• Option (c) — Incorrect: CET-1 ratio is a component of CRAR analysis. While it features in PCA-related capital discussions, it was not newly introduced as a standalone trigger in 2021.\n• Option (d) — Incorrect: Stressed Asset Coverage Ratio is used in financial stability analysis but is not a PCA trigger indicator.\n\nValue Addition:\n• Tier-1 Leverage Ratio = Tier-1 Capital / (Total On-balance-sheet exposure + Off-balance-sheet items).\n• RoA was removed because it could mask structural weaknesses — a bank could show positive RoA while holding toxic assets.\n• The three current PCA triggers: CRAR, Net NPA ratio, Tier-1 Leverage Ratio."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Reserve Bank of India's revised Prompt Corrective Action framework of 2021 replaced Return on Assets (RoA) as one of the trigger indicators. Which of the following was introduced as a replacement to capture structural solvency and leverage risk more effectively?\n\n(a) Return on Equity (RoE)\n(b) Tier-1 Leverage Ratio\n(c) Common Equity Tier-1 (CET-1) Ratio\n(d) Stressed Asset Coverage Ratio",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "81de8ed3-9dd9-4e29-872d-8701899bf96d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Discretionary Restrictions Under PCA",
+        "Mandatory Restrictions Under PCA"
+      ],
+      "subject_que_no": 4609,
+      "overall_que_no": 11956
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Discretionary vs mandatory restrictions — RBI's specific direction needed",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) is a strong distractor because students who know provisioning is mentioned in the PCA framework may assume it is a mandatory restriction, not recognising that enhanced provisioning beyond standard norms is discretionary.",
+      "elimination_logic": [
+        "Identify the scenario: RBI has placed Bank X under PCA and is now considering sector-specific lending restrictions — this is a discretionary measure, not automatic.",
+        "Eliminate option (b): Dividend prohibition is mandatory — it applies automatically, not through a specific separate direction after the bank is already under PCA.",
+        "Eliminate option (c): Enhanced provisioning beyond standard norms is a discretionary action — it requires RBI's specific direction, not automatic imposition. But the scenario asks which action requires a specific RBI direction to apply.",
+        "Eliminate option (d): Branch expansion restriction is mandatory — applied automatically.",
+        "Sector-specific lending restriction is discretionary — requires RBI's specific direction. Select option (a)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap makes students assume all PCA restrictions are mandatory (automatic). The scenario requires distinguishing discretionary restrictions — which RBI must actively direct — from mandatory ones. Enhanced provisioning and sector-specific credit restrictions are discretionary: they require RBI to issue a specific direction based on the bank's risk profile. Students who apply a blanket 'PCA = all restrictions automatic' rule will select wrong options.",
+      "final_explanation": "This scenario tests the operationally important distinction between mandatory (automatic upon PCA entry) and discretionary (requiring specific RBI direction) restrictions.\n\nApplicable principle: Discretionary restrictions under PCA require RBI to specifically direct the bank based on its assessed risk profile — they do not apply automatically the moment a bank enters PCA.\n\n• Option (a) — Correct: Restricting credit to specific high-risk sectors is a discretionary action. RBI must issue a specific direction tailored to the bank's risk exposures. It does not apply automatically to all PCA banks uniformly.\n• Option (b) — Incorrect: Dividend prohibition is mandatory — it applies automatically the moment a bank breaches any PCA threshold. No separate direction is needed.\n• Option (c) — Incorrect: While enhanced provisioning is discretionary and requires RBI direction, the scenario in this option implies it is automatic (not correct). More importantly, the scenario specifies sector-specific lending restrictions, which maps directly to option (a).\n• Option (d) — Incorrect: Restriction on branch expansion is mandatory — it is an automatic consequence of PCA entry, requiring no specific separate direction from RBI.\n\nValue Addition:\n• Mandatory restrictions: dividend ban, branch expansion restriction, management compensation cap, new business prohibition.\n• Discretionary restrictions: sector-specific credit limits, high-risk asset concentration reduction, enhanced provisioning.\n• The mandatory/discretionary distinction mirrors the Basel Core Principles' proportionality concept — severity matches risk profile."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Reserve Bank of India has placed Bank X under the Prompt Corrective Action (PCA) framework following a breach of the Net NPA ratio threshold. The bank's management is reviewing which restrictions apply automatically and which require a specific direction from RBI before they take effect. An internal compliance officer prepares a note distinguishing the two categories.\n\nWhich of the following correctly identifies a restriction that requires a specific direction from RBI to apply, rather than taking effect automatically upon PCA entry?\n\n(a) Restriction on extending credit to specific high-risk sectors or classes of borrowers identified by RBI based on the bank's risk profile\n(b) Prohibition on the distribution of dividends to equity shareholders\n(c) Requirement to immediately increase provisioning to the standard asset provisioning level mandated under RBI's IRACP norms\n(d) Restriction on opening new domestic or overseas branches",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6862393f-ca40-40ff-b455-5c8a6d588046",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Non-Performing Assets (NPAs) as a PCA Trigger: Measurement and Classification"
+      ],
+      "subject_que_no": 4610,
+      "overall_que_no": 11957
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "NPA recognition — 90-day default rule and AQR",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) 'Special Mention Account' is a strong distractor because SMA is the earliest classification in the credit quality continuum and students may confuse SMA-2 (overdue 61–90 days) with NPA (overdue 90+ days), thinking SMA is part of the NPA classification.",
+      "elimination_logic": [
+        "Identify what the set should have in common: the question tests classifications or concepts directly related to NPA measurement under RBI norms.",
+        "NPA (Non-Performing Asset), Net NPA, Gross NPA — all directly measure or describe the NPA category.",
+        "Special Mention Account (SMA) is a pre-NPA early warning category — it is NOT an NPA. An account becomes SMA-0, SMA-1, or SMA-2 before becoming NPA.",
+        "The odd one out is the concept that does NOT represent an actual NPA — SMA is a precursor, not an NPA. Select option (b)."
+      ],
+      "upsc_trap_explanation": "SMA and NPA sit on the same credit quality continuum — SMA is the immediately preceding category before NPA. Students who associate SMA with NPA-related frameworks (which it is) but do not precisely recall that SMA-classified accounts are NOT yet NPAs will include SMA in the NPA group. The distinction: SMA = early warning (performing or recently stressed); NPA = non-performing (90+ days overdue).",
+      "final_explanation": "NPA classification in India follows RBI's IRACP (Income Recognition, Asset Classification, and Provisioning) norms, which create distinct categories.\n\n• Option (a) — This belongs: Gross NPA is the total stock of non-performing loans before deducting provisions. It is a core NPA measurement metric.\n• Option (b) — This is the odd one out: Special Mention Account (SMA) classifications (SMA-0, SMA-1, SMA-2) flag accounts at early stress stages before they become NPAs. An SMA-2 account is overdue between 61–90 days — once it crosses 90 days without payment, it becomes NPA. SMA is NOT an NPA.\n• Option (c) — This belongs: Net NPA (Gross NPA minus provisions) is the PCA trigger metric and a core NPA measurement concept.\n• Option (d) — This belongs: 90-day default rule is the NPA recognition norm — an asset becomes NPA when overdue for 90 days or more. It is foundational to NPA classification.\n\nValue Addition:\n• SMA-0: overdue 1–30 days; SMA-1: 31–60 days; SMA-2: 61–90 days.\n• After 90 days: Sub-standard (first 12 months), then Doubtful, then Loss asset.\n• AQR (2015) forced banks to reclassify many restructured accounts as NPAs using this 90-day norm strictly."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four terms or concepts are directly associated with the classification or measurement of Non-Performing Assets (NPAs) under RBI norms. Which one does NOT belong to the same category as the other three?\n\n(a) Gross Non-Performing Asset (Gross NPA)\n(b) Special Mention Account (SMA)\n(c) Net Non-Performing Asset (Net NPA)\n(d) 90-day default recognition norm",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4560e248-646a-43ff-9cfc-6125857c7751",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Framework: Legal Basis and Regulatory Authority",
+        "Prompt Corrective Action: International Comparisons (FDIC's PCA vs. RBI's PCA)"
+      ],
+      "subject_que_no": 4611,
+      "overall_que_no": 11958
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "India PCA supervisory vs. US PCA statutory — structural difference",
+      "statement_analysis": [
+        {
+          "statement": "Unlike the United States, where PCA is mandated by statute under the Federal Deposit Insurance Corporation Improvement Act (FDICIA) of 1991, India's PCA framework is a regulatory and supervisory tool of the RBI without dedicated statutory backing.",
+          "verdict": "Correct",
+          "reason": "This is the definitive structural difference between the two frameworks. US PCA is statutory (mandatory by law); India's is administrative/supervisory (RBI's internal tool backed by general statutory powers under Section 35A)."
+        },
+        {
+          "statement": "The United States FDIC's PCA framework classifies banks into three capital categories, mirroring the three threshold levels used in India's PCA framework.",
+          "verdict": "Incorrect",
+          "reason": "The US FDIC uses five capital categories (Well Capitalised, Adequately Capitalised, Undercapitalised, Significantly Undercapitalised, Critically Undercapitalised). India uses three threshold levels. The numbers are different — five vs. three."
+        }
+      ],
+      "strong_distractor": "c — Option (c) claiming Statement 1 is correct and Statement 2 is incorrect is the correct answer (b), not (c) — wait, let me recheck. Statement 1 is correct, Statement 2 is incorrect. The option where Statement 1 is correct and Statement 2 is incorrect maps to option (c). Re-examine: options are (a) both correct, (b) both incorrect, (c) S1 correct S2 incorrect, (d) S1 incorrect S2 correct. Correct mapping is (c).",
+      "elimination_logic": [
+        "Evaluate Statement 1: US PCA is statutory under FDICIA 1991; India's is supervisory without dedicated legislation. This is the established structural comparison — Statement 1 is correct.",
+        "Evaluate Statement 2: US FDIC uses five capital categories, not three. India uses three threshold levels. Statement 2 incorrectly assigns three categories to the US framework — Statement 2 is incorrect.",
+        "Statement 1 correct + Statement 2 incorrect = option (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap in Statement 2 exploits the coincidence of the number three: India has three PCA threshold levels, and students who know this may assume the US system must also use three levels (since PCA inspired India's framework). The US actually uses five capital categories — a fundamentally different granularity. Knowing the US system has five, not three, categories is the precise knowledge point that separates prepared students.",
+      "final_explanation": "Comparative analysis of PCA frameworks tests depth beyond domestic knowledge.\n\n• Statement 1 — Correct: The India-US structural distinction is clear. FDICIA 1991 made PCA mandatory for US bank regulators — if a bank falls below a capital threshold, the FDIC must take specified actions by law. In India, PCA is RBI's administrative tool — there is no separate PCA legislation. RBI uses Section 35A of the Banking Regulation Act as the legal hook for enforcement.\n• Statement 2 — Incorrect: The US FDIC's PCA framework uses five capital categories: (1) Well Capitalised, (2) Adequately Capitalised, (3) Undercapitalised, (4) Significantly Undercapitalised, (5) Critically Undercapitalised. India's PCA has three threshold levels, not five. The statement's claim that the US uses three categories — matching India's three — is factually wrong.\n\nCorrect answer: Statement 1 correct, Statement 2 incorrect — option (c).\n\nValue Addition:\n• FDICIA was a congressional response to the 1980s Savings and Loan crisis that cost US taxpayers ~$130 billion.\n• A 'Critically Undercapitalised' US bank must be placed in receivership within 90 days — a more automatic process than India's PCA.\n• Basel Committee endorses early intervention frameworks as best practice in Core Principle 11 for effective banking supervision."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements comparing the Prompt Corrective Action frameworks of India and the United States:\n\nStatement 1: Unlike the United States, where PCA is mandated by statute under the Federal Deposit Insurance Corporation Improvement Act (FDICIA) of 1991, India's PCA framework is a regulatory and supervisory tool of the RBI without dedicated statutory backing.\n\nStatement 2: The United States FDIC's PCA framework classifies banks into three capital categories, mirroring the three threshold levels used in India's PCA framework.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "21c997f8-d973-4a81-8f80-1d3c4d4f134d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA vs. RBI's Other Supervisory Interventions: Distinguishing Overlaps"
+      ],
+      "subject_que_no": 4612,
+      "overall_que_no": 11959
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "Section 45 — moratorium distinct from PCA invocation",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because students who know Section 35A empowers RBI to issue directions may assume moratorium is also issued under the same section, not distinguishing between operational directions (35A) and moratorium/merger (Section 45).",
+      "elimination_logic": [
+        "Recall that PCA binding directions are issued under Section 35A of the Banking Regulation Act — this is the general direction-issuing power.",
+        "Moratorium involves suspending all bank operations including deposit withdrawals — a far more extreme step requiring a different legislative basis.",
+        "Section 45 of the Banking Regulation Act specifically authorises RBI to apply to the Central Government for imposing a moratorium on a bank.",
+        "Eliminate options pointing to Section 35A, Section 22 (licensing), or Section 11 — none of these govern moratorium.",
+        "Select option (c): Section 45 of the Banking Regulation Act."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges Section 35A (general direction power used in PCA) with Section 45 (moratorium power). Both sections appear in the Banking Regulation Act and both are RBI supervisory tools. Students who associate 'RBI's authority over distressed banks' uniformly with Section 35A will select option (a). The key distinction: Section 35A allows operational directions while the bank continues functioning; Section 45 enables the extreme step of suspending a bank's operations.",
+      "final_explanation": "The Banking Regulation Act provides different sections for different severity levels of RBI intervention — a hierarchy students must know precisely.\n\n• Option (a) — Incorrect: Section 35A empowers RBI to issue directions to banks in public interest — this is the provision used for PCA binding directions, restructuring requirements, and operational instructions. It does NOT authorise moratorium.\n• Option (b) — Incorrect: Section 22 deals with licensing requirements for opening banking companies and branches. It is unrelated to distressed bank intervention.\n• Option (c) — Correct: Section 45 of the Banking Regulation Act authorises RBI to apply to the Central Government for the imposition of a moratorium on a bank. During moratorium, the bank's operations — including deposit withdrawals — are suspended. This is a depositor-protection emergency measure.\n• Option (d) — Incorrect: Section 11 relates to minimum paid-up capital requirements for banks. It is a licensing/entry norm, not an intervention mechanism.\n\nValue Addition:\n• Intervention continuum: PCA (Section 35A directions) → Moratorium (Section 45) → Forced Merger (Section 45) → Licence Cancellation.\n• Yes Bank (2020): Section 45 moratorium imposed, limiting withdrawals to Rs. 50,000 per depositor per month, before SBI-led rescue.\n• Moratorium period cannot exceed six months under Section 45."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under which provision of the Banking Regulation Act, 1949, does the Reserve Bank of India have the authority to apply to the Central Government for imposing a moratorium on a banking company, thereby suspending its operations including deposit withdrawals?\n\n(a) Section 35A — Power of Reserve Bank of India to give directions\n(b) Section 22 — Licensing of banking companies\n(c) Section 45 — Power of Reserve Bank to apply to Central Government for suspension of business by a banking company\n(d) Section 11 — Requirement as to minimum paid-up capital and reserves",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3e6f6d9e-202a-4f43-b6c3-5bc27e7af8e6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Extension to NBFCs (2021): Scope and Applicability",
+        "PCA and Small Finance Banks / Cooperative Banks: Applicability Boundaries"
+      ],
+      "subject_que_no": 4613,
+      "overall_que_no": 11960
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Sequence of PCA-related regulatory expansions 2015–2021",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) places the Banking Regulation (Amendment) Act before the AQR, which students might accept if they believe the cooperative bank reforms were part of the same wave as the 2015–16 NPA clean-up.",
+      "elimination_logic": [
+        "Anchor 1: AQR was conducted in 2015–16 — this must precede the 2017 PCA revision.",
+        "Anchor 2: The revised PCA framework was announced in 2017 — after AQR, before the 2020 amendment.",
+        "Anchor 3: The Banking Regulation (Amendment) Act extending RBI powers to UCBs was enacted in 2020.",
+        "Anchor 4: PCA extension to NBFCs and Small Finance Banks occurred in 2021.",
+        "Correct order: AQR (2015–16) → Revised PCA (2017) → BR Amendment for UCBs (2020) → NBFC PCA (2021). Select option (a)."
+      ],
+      "upsc_trap_explanation": "The temporal trap attempts to swap the 2017 PCA revision with the 2020 Banking Regulation amendment — both are regulatory reforms occurring in quick succession. Students who associate banking sector reform 'waves' may cluster the 2017 revision with the 2015–16 AQR but may not recall that the UCB reform came three years later in 2020, and the NBFC extension was a year after that in 2021.",
+      "final_explanation": "Sequencing RBI's supervisory expansions tests the ability to distinguish between closely spaced reforms.\n\nCorrect sequence:\n1. AQR (2015–16): RBI compelled banks to recognise hidden NPAs, triggering PCA placements for multiple PSBs.\n2. Revised PCA framework (2017): Updated thresholds and indicators; coincided with peak NPA crisis.\n3. Banking Regulation (Amendment) Act (2020): Extended RBI supervisory jurisdiction to Urban Cooperative Banks — a significant expansion.\n4. PCA extended to NBFCs and Small Finance Banks (2021): Largest scope expansion of PCA in its history.\n\nWrong options:\n• Option (b) swaps events 1 and 2 — places UCB amendment before AQR, which reverses the causal sequence.\n• Option (c) places NBFC extension before UCB amendment — factually reversed.\n• Option (d) places 2017 revision last — contradicted by the 2020 and 2021 events which post-date it.\n\nValue Addition:\n• UCB: Urban Cooperative Banks; oversight had a regulatory gap before 2020 — multiple UCB failures (PMC Bank 2019) prompted the amendment.\n• PMC Bank crisis (2019) accelerated the push for RBI oversight of UCBs via the 2020 amendment.\n• 2021 represents the most comprehensive regulatory perimeter around PCA — covering commercial banks, SFBs, UCBs, and major NBFCs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following regulatory developments in India's banking and financial sector:\n\n1. Asset Quality Review (AQR) conducted by RBI resulting in sharply higher NPA recognition\n2. Revised PCA framework with updated trigger thresholds announced by RBI\n3. Banking Regulation (Amendment) Act extending RBI's supervisory jurisdiction to Urban Cooperative Banks\n4. Extension of PCA framework to Non-Banking Financial Companies and Small Finance Banks\n\nWhich of the following represents the correct chronological sequence of these developments?\n\n(a) 1 → 2 → 3 → 4\n(b) 3 → 1 → 2 → 4\n(c) 1 → 2 → 4 → 3\n(d) 2 → 1 → 3 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3ac86c21-b75d-4ed6-8ba5-003fcb862214",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Governance and Management Reforms Mandated Under PCA",
+        "Board for Financial Supervision (BFS): Role in PCA Oversight"
+      ],
+      "subject_que_no": 4614,
+      "overall_que_no": 11961
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "BFS composition — RBI Governor as Chairman",
+      "statement_analysis": null,
+      "strong_distractor": "d — Option (d) is a strong distractor because it describes a plausible-sounding governance body ('RBI Deputy Governor for Supervision as Chairman') that sounds more operationally logical — students may think the Deputy Governor for banking supervision would chair BFS, not the Governor.",
+      "elimination_logic": [
+        "Option (a): BFS as RBI's monetary policy committee — incorrect; MPC is a separate statutory body. BFS is a supervisory body.",
+        "Option (b): BFS chaired by Finance Secretary — incorrect; BFS is chaired by the RBI Governor, not a government official.",
+        "Option (c): BFS chaired by RBI Governor + four co-opted directors from RBI Central Board — this is the actual composition. Correct.",
+        "Option (d): Deputy Governor for Supervision as Chairman — plausible but wrong; the RBI Governor is Chairman."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap in option (d) exploits operational logic: the Deputy Governor responsible for banking supervision handles day-to-day regulatory work, making it seem natural that they would chair BFS. But BFS is a board-level supervisory oversight body, chaired by the RBI Governor personally, reflecting its status as the highest internal supervisory oversight forum. Students who rely on logical inference rather than factual recall will select option (d).",
+      "final_explanation": "BFS composition is a precise factual recall question with a plausible trap.\n\n• Option (a) — Incorrect: Describing BFS as RBI's monetary policy committee is wrong on two counts — BFS is a supervisory body, not a policy body; and the Monetary Policy Committee (MPC) is the monetary policy body, which is a separate statutory committee under the RBI Act.\n• Option (b) — Incorrect: The Finance Secretary has no role in BFS. BFS is entirely internal to the RBI. Government officials do not sit on BFS.\n• Option (c) — Correct: BFS is chaired by the RBI Governor. It includes four directors co-opted from RBI's Central Board (typically non-official directors). The Deputy Governor in charge of banking supervision serves as its Vice-Chairman. Meets at least monthly.\n• Option (d) — Incorrect: While the Deputy Governor for Supervision serves as Vice-Chairman, the Chairman is the RBI Governor — not the Deputy Governor. This is the precise trap in this question.\n\nValue Addition:\n• BFS constituted in November 1994 on the recommendation of the Narasimham Committee on Financial System.\n• BFS oversees: commercial banks, UCBs, NBFCs, FIs such as NABARD, NHB, SIDBI, EXIM Bank.\n• BFS is distinct from FSDC (Financial Stability and Development Council), which is a government-chaired inter-regulatory body."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs correctly describes the nature and composition of the Board for Financial Supervision (BFS) of the Reserve Bank of India?\n\n(a) BFS: RBI's statutory monetary policy committee — composed of RBI Governor and six external members appointed by the Central Government\n(b) BFS: Inter-regulatory supervisory body — chaired by the Finance Secretary with RBI Governor as one of its members\n(c) BFS: Supervisory committee of RBI's Central Board — chaired by the RBI Governor with four directors co-opted from the Central Board as members\n(d) BFS: Operational supervisory body — chaired by the Deputy Governor in charge of banking supervision with RBI Governor as an ex-officio member",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1910c14c-4b2d-4880-8945-0c9dd282c432",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "Criticism and Limitations of the PCA Framework",
+        "PCA and Its Impact on Public Sector Banks: Structural Vulnerability"
+      ],
+      "subject_que_no": 4615,
+      "overall_que_no": 11962
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "PCA limitations — government dual role and regulatory forbearance",
+      "statement_analysis": [
+        {
+          "statement": "A structural criticism of the PCA framework as applied to public sector banks is that the government's dual role — as bank owner providing recapitalization and as the political authority over the banking regulator — creates tensions that can dilute PCA's effectiveness.",
+          "verdict": "Correct",
+          "reason": "This is a well-documented governance tension. The government's ownership interest in PSBs creates pressure to dilute regulatory strictness, as seen in the 2018 RBI-Government standoff over PCA restrictions."
+        },
+        {
+          "statement": "Regulatory forbearance — the delayed recognition of NPAs by banks with implicit or explicit regulatory tolerance — can cause banks to enter the PCA framework only after their financial stress has become severe, reducing PCA's value as an early corrective tool.",
+          "verdict": "Correct",
+          "reason": "Regulatory forbearance is a documented limitation of PCA. Banks that evergreen loans or delay NPA classification appear healthy until suddenly stressed, entering PCA at a late stage when corrective options are limited."
+        },
+        {
+          "statement": "Empirical evidence conclusively demonstrates that the PCA framework has successfully resolved all cases of bank stress in India, eliminating the need for any bank rescue or government capital injection after PCA placement.",
+          "verdict": "Incorrect",
+          "reason": "No such conclusive evidence exists. PCA is critiqued for managing rather than fully resolving bank stress — capital injections have continued even for banks that eventually exited PCA, and some banks required multiple rounds of recapitalization."
+        }
+      ],
+      "strong_distractor": "d — Option (d) claiming all three correct is a strong distractor because Statements 1 and 2 represent credible, nuanced critiques that a well-prepared student will recognise as accurate, making it tempting to extend that accuracy to Statement 3.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Government dual role creating governance tension — this is the documented RBI-Government 2018 conflict. Statement 1 is correct.",
+        "Evaluate Statement 2: Regulatory forbearance causing delayed PCA entry — this is supported by the AQR experience showing banks had hidden NPAs for years. Statement 2 is correct.",
+        "Evaluate Statement 3: 'Conclusively demonstrates' + 'eliminating the need for any rescue' — the absolute language makes this false; PCA has managed but not fully resolved bank stress in all cases. Statement 3 is incorrect.",
+        "Only Statements 1 and 2 correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 3 uses the scope-extension technique with the words 'conclusively' and 'eliminating the need for any bank rescue or government capital injection after PCA placement.' Both qualifiers make the statement demonstrably false — banks continued to receive capital injections even while under or after PCA. Students who read quickly and only notice 'PCA has successfully resolved bank stress' (without catching 'conclusively' and 'all cases') may accept Statement 3.",
+      "final_explanation": "The limitations and criticisms of PCA constitute important UPSC Mains material that also appears in Prelims.\n\n• Statement 1 — Correct: The government's dual role is a genuine structural tension. As owner of PSBs, the government wants them to lend (especially pre-election); as the authority above the regulator, it can exert pressure to relax PCA. The 2018 standoff, which contributed to then-Governor Urjit Patel's departure, exemplifies this tension.\n• Statement 2 — Correct: Regulatory forbearance — allowing banks to roll over bad loans ('evergreening') without classifying them as NPAs — keeps banks below PCA triggers artificially. The AQR forced recognition, causing a sudden spike. This means PCA functioned as a lagged, reactive tool in the 2015–18 cycle, not an early preventive one.\n• Statement 3 — Incorrect: PCA has not 'conclusively' resolved all bank stress or eliminated capital injections. Banks like Bank of India and UCO Bank exited PCA but continued to receive government capital support. PCA manages the deterioration — it does not guarantee recovery.\n\nValue Addition:\n• 'Evergreening' of loans: rolling over a defaulting loan as a new loan to avoid NPA classification.\n• IMF FSAP noted India's PCA as reactive rather than fully preventive.\n• The 2018 RBI-Government conflict: government sought Section 7 of RBI Act consultation to override RBI on PCA relaxation — historically unprecedented."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the criticisms and limitations of the Prompt Corrective Action (PCA) framework in India:\n\n1. A structural criticism of the PCA framework as applied to public sector banks is that the government's dual role — as bank owner providing recapitalization and as the political authority over the banking regulator — creates tensions that can dilute PCA's effectiveness.\n2. Regulatory forbearance — the delayed recognition of NPAs by banks with implicit or explicit regulatory tolerance — can cause banks to enter the PCA framework only after their financial stress has become severe, reducing PCA's value as an early corrective tool.\n3. Empirical evidence conclusively demonstrates that the PCA framework has successfully resolved all cases of bank stress in India, eliminating the need for any bank rescue or government capital injection after PCA placement.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a8f21c21-b420-4c93-88e9-487746c77ea2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Framework: Legal Basis and Regulatory Authority",
+        "PCA Extension to NBFCs (2021): Scope and Applicability"
+      ],
+      "subject_que_no": 4616,
+      "overall_que_no": 11963
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "NBFC PCA — government NBFCs excluded from coverage",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because students who know NBFCs are now under PCA assume government ownership provides no exception, not realising that government NBFCs are explicitly carved out.",
+      "elimination_logic": [
+        "Identify that the entity is a government-owned NBFC — this is the key feature that determines PCA applicability.",
+        "Recall that government NBFCs are explicitly excluded from the NBFC PCA framework.",
+        "Eliminate option (a): Mandatory restrictions on dividend payment would apply if the NBFC were under PCA — but government NBFCs are excluded, so PCA does not apply.",
+        "Eliminate option (b): PCA does cover many NBFCs but government NBFCs are specifically excluded — this option ignores the government ownership carve-out.",
+        "Eliminate option (c): The Rs. 2 lakh deposit ceiling is the Payments Bank rule — irrelevant to a government NBFC.",
+        "Select option (d): Government NBFCs are explicitly excluded from the NBFC PCA framework."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap works in both directions here: students who over-generalise 'NBFCs are now under PCA' (true for most) to 'all NBFCs are under PCA' (false — government NBFCs are excluded) will select option (b). The government NBFC exclusion is logical (sovereign backing reduces systemic risk from these entities) but requires specific recall of the exclusion list.",
+      "final_explanation": "This scenario tests the specific exclusion carve-outs within the NBFC PCA framework.\n\nApplicable principle: The 2021 NBFC PCA framework explicitly excludes government-owned NBFCs from its coverage. The rationale is that implicit or explicit sovereign backing reduces the systemic risk associated with their failure — they are unlikely to require the same structured corrective intervention as market-owned NBFCs.\n\n• Option (a) — Incorrect: If the NBFC were under PCA, dividend prohibition would indeed apply. But since government NBFCs are excluded, this option is based on a false premise about PCA applicability.\n• Option (b) — Incorrect: While the statement about PCA covering NBFCs is broadly true, the scenario involves a government NBFC — which is among the specific categories excluded. Applying PCA to it would exceed the framework's stated scope.\n• Option (c) — Incorrect: The Rs. 2 lakh deposit ceiling applies to Payments Banks — completely unrelated to an NBFC's regulatory classification or PCA status.\n• Option (d) — Correct: Government-owned NBFCs are explicitly excluded from the NBFC PCA framework. The RBI circular extending PCA to NBFCs (2021) specifically carves out government NBFCs, along with Primary Dealers and Housing Finance Companies under NHB.\n\nValue Addition:\n• Government NBFC examples: NABARD (technically classified differently), Indian Infrastructure Finance Company Limited (IIFCL), Power Finance Corporation (PFC).\n• PFC and REC are government NBFCs that carry sovereign backing — their exclusion from PCA is consistent with their risk profile.\n• NHB regulates HFCs separately — that is why HFCs under NHB are also excluded from RBI's NBFC PCA."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Reserve Bank of India has been reviewing the financial health of a large non-banking financial company. The NBFC has a net NPA ratio that has crossed the prescribed threshold and its Tier-1 capital position has weakened. A financial journalist reports that the NBFC is about to be placed under PCA. However, a closer examination reveals that the NBFC in question is wholly owned by the Central Government.\n\nWhich of the following correctly identifies the applicable regulatory position?\n\n(a) The NBFC will be placed under PCA and must immediately stop all dividend distributions to the government as its owner\n(b) The NBFC will be placed under PCA since the 2021 extension of PCA to NBFCs covers all systemically important NBFCs irrespective of ownership\n(c) The NBFC falls under the Payments Bank framework and is subject to a deposit ceiling of Rs. 2 lakh per customer rather than PCA\n(d) The NBFC cannot be placed under PCA since government-owned NBFCs are explicitly excluded from the scope of the PCA framework extended to NBFCs in 2021",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0eea0b78-e9f0-47a0-b701-f1be9638cefd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA Trigger Indicators: Capital, Asset Quality, and Leverage",
+        "PCA Risk Threshold Levels (Threshold 1, 2, 3): Gradation of Restrictions"
+      ],
+      "subject_que_no": 4617,
+      "overall_que_no": 11964
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "PCA trigger thresholds — exact numerical values",
+      "statement_analysis": [
+        {
+          "statement": "A bank whose CRAR falls below 10.25% breaches PCA Threshold 1 for the capital adequacy indicator.",
+          "verdict": "Correct",
+          "reason": "10.25% is the Threshold 1 CRAR trigger under PCA — set above the 9% regulatory minimum to incorporate the Capital Conservation Buffer."
+        },
+        {
+          "statement": "A bank whose Net NPA ratio exceeds 10% has breached PCA Threshold 1 but not Threshold 2 for the asset quality indicator.",
+          "verdict": "Incorrect",
+          "reason": "Net NPA above 10% breaches Threshold 2, not just Threshold 1. Threshold 1 is Net NPA above 6%; Threshold 2 is Net NPA above 9% (approximate figures per the revised framework). A bank at 10% Net NPA is beyond Threshold 1."
+        },
+        {
+          "statement": "Multiple simultaneous threshold breaches across different indicators can escalate the severity of PCA restrictions applied to a bank.",
+          "verdict": "Correct",
+          "reason": "The PCA framework is designed so that breaching thresholds on multiple indicators simultaneously escalates the severity of interventions, reflecting the compounded risk profile."
+        },
+        {
+          "statement": "Under PCA, a bank that has breached Threshold 3 across all three indicators may be recommended for forced merger or license cancellation by the RBI.",
+          "verdict": "Correct",
+          "reason": "Threshold 3 is the most severe PCA level — at this point, RBI may escalate beyond PCA restrictions to consider forced merger under Section 45 of the Banking Regulation Act or even license cancellation."
+        }
+      ],
+      "strong_distractor": "c — 'Only three' is the strong distractor because pairs 1, 3, and 4 are all correct, making 'Only three' seem natural — students may miss that pair 2 contains a nuanced but clear error about the threshold level corresponding to Net NPA above 10%.",
+      "elimination_logic": [
+        "Pair 1: CRAR below 10.25% triggers Threshold 1 — correct.",
+        "Pair 2: Net NPA above 10% = Threshold 1 only — incorrect. Net NPA above 6% is Threshold 1; above 9% escalates to Threshold 2. A 10% Net NPA breaches Threshold 2, not merely Threshold 1.",
+        "Pair 3: Multiple simultaneous breaches escalate severity — correct.",
+        "Pair 4: Threshold 3 breach across all indicators → possible forced merger or cancellation — correct.",
+        "Three pairs correct (1, 3, 4); one incorrect (2). Select option (c) 'Only three.'"
+      ],
+      "upsc_trap_explanation": "The partial-truth trap in pair 2 exploits imprecise knowledge of threshold gradation. 'Net NPA above 10% has breached Threshold 1 but not Threshold 2' contains a half-truth: such a bank HAS breached Threshold 1 (since above 6% qualifies). But it has also breached Threshold 2 (since above 9% qualifies). The statement's claim that it is 'not Threshold 2' is false. Students who only recall 'Threshold 1 = above 6%' without knowing Threshold 2 values will accept pair 2 as correct.",
+      "final_explanation": "Precise knowledge of PCA threshold values is tested here with a partial-truth trap on gradation.\n\nPair 1 — Correct: CRAR below 10.25% triggers Threshold 1. This is the capital adequacy early-warning trigger under PCA.\nPair 2 — Incorrect: Net NPA above 10% has breached BOTH Threshold 1 (trigger: above 6%) and Threshold 2 (trigger: above 9%). The statement's claim that it is 'not Threshold 2' is wrong — a bank with 10% Net NPA has crossed both lower thresholds and sits at or near Threshold 2.\nPair 3 — Correct: Simultaneous multi-indicator breaches reflect compounded distress and escalate the severity of PCA interventions imposed.\nPair 4 — Correct: Threshold 3 is the highest severity level under PCA. At this stage, standard PCA restrictions are insufficient and RBI may recommend escalation to forced merger or license cancellation under Section 45.\n\nThree of the four pairs (1, 3, 4) are correct — answer is 'Only three.'\n\nValue Addition:\n• Threshold 1 Net NPA trigger: above 6%; Threshold 2: above 9%; Threshold 3: above 12% (approximate revised figures).\n• Threshold 3 CRAR trigger: below 6.75% (approximate — significantly below the 9% minimum, indicating near-insolvency).\n• Even at Threshold 3, PCA does not automatically terminate the bank — RBI still assesses resolution options."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding the trigger thresholds and escalation mechanism under the Prompt Corrective Action (PCA) framework:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "A bank whose CRAR falls below 10.25% breaches PCA Threshold 1 for the capital adequacy indicator."
+          ],
+          [
+            "2",
+            "A bank whose Net NPA ratio exceeds 10% has breached PCA Threshold 1 but not Threshold 2 for the asset quality indicator."
+          ],
+          [
+            "3",
+            "Multiple simultaneous threshold breaches across different indicators can escalate the severity of PCA restrictions applied to a bank."
+          ],
+          [
+            "4",
+            "Under PCA, a bank that has breached Threshold 3 across all three indicators may be recommended for forced merger or license cancellation by the RBI."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d992d3d7-2719-47f3-963c-9276e7cd1031",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "Prompt Corrective Action framework",
+      "concepts_used": [
+        "PCA and Lending Restrictions: Impact on Credit Flow",
+        "Criticism and Limitations of the PCA Framework"
+      ],
+      "subject_que_no": 4618,
+      "overall_que_no": 11965
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PCA credit flow impact — MSME, priority sector, systemic risk",
+      "statement_analysis": [
+        {
+          "statement": "The simultaneous placement of a large number of public sector banks under PCA in 2018 had a systemic effect on credit availability, particularly affecting borrowers reliant on PSB lending such as small enterprises and unrated businesses.",
+          "verdict": "Correct",
+          "reason": "11 PSBs under PCA simultaneously in 2018 contracted collective credit capacity significantly, disproportionately affecting small and unrated borrowers who relied primarily on PSB credit channels."
+        },
+        {
+          "statement": "Priority sector lending obligations of a bank are automatically waived for the entire duration that the bank remains under PCA.",
+          "verdict": "Incorrect",
+          "reason": "PCA does not automatically waive priority sector lending (PSL) obligations. PSL targets remain in force for PCA banks — though their reduced lending capacity may affect compliance and attract RIDF contributions as penalty."
+        },
+        {
+          "statement": "The government's argument during the 2018 RBI-PCA conflict was that PCA restrictions were preventing banks from adequately financing large infrastructure projects and thereby slowing GDP growth.",
+          "verdict": "Incorrect",
+          "reason": "The government's primary argument was about credit restriction to MSMEs and small borrowers, not specifically about large infrastructure projects. Large infrastructure projects typically access capital markets and development finance institutions — the MSME credit constraint was the core political concern."
+        }
+      ],
+      "strong_distractor": "a — Option (a) pointing only to Statement 2 as incorrect is a strong distractor because Statement 2 is clearly incorrect (PSL waiver), but students may not carefully read Statement 3 and assume its imprecise description of the government's argument is close enough to be correct.",
+      "elimination_logic": [
+        "Test Statement 1: Systemic credit squeeze from simultaneous PCA of 11 PSBs — well documented. Statement 1 is correct.",
+        "Test Statement 2: PSL obligations automatically waived under PCA — this is false; PSL targets remain. Statement 2 is NOT correct.",
+        "Test Statement 3: Government's 2018 argument was about MSME credit, not primarily large infrastructure. Statement 3 mischaracterises the government's argument — it is NOT correct.",
+        "Statements 2 and 3 are NOT correct — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3's trap is in the precision of the government's argument: the 2018 conflict centred on MSME credit restriction, not large infrastructure. Infrastructure projects typically access bond markets, NaBFID/DFI channels, and large private banks — not primarily PCA-bound PSBs. Students who recall 'government criticised PCA for restricting credit' without the specific MSME focus will accept Statement 3 as accurate.",
+      "final_explanation": "The credit flow dimension of PCA connects to political economy and sectoral impact — important for both Prelims and Mains.\n\n• Statement 1 — Correct: The 2018 simultaneous PCA placement of 11 PSBs was a systemic event. PSBs collectively account for 60%+ of banking system credit, and their constrained lending disproportionately affected MSMEs and unrated borrowers who cannot access capital markets or private banks as easily.\n• Statement 2 — Incorrect (this is one answer): Priority sector lending (PSL) targets — for agriculture, MSMEs, export credit, etc. — are NOT waived under PCA. Banks under PCA must still meet PSL targets. If they fall short, they contribute to RBI's Rural Infrastructure Development Fund (RIDF) or other specified funds as a penalty mechanism.\n• Statement 3 — Incorrect (this is the second answer): The government's specific concern in 2018 was about MSME credit — small and medium enterprises that depend heavily on PSB branches for working capital finance. The argument was not primarily about large infrastructure (which has its own financing channels), but about the micro-credit and MSME segment.\n\nValue Addition:\n• PSL target: 40% of adjusted net bank credit (ANBC) for domestic scheduled commercial banks.\n• RIDF contribution: mandatory for banks falling short of PSL targets — interest rate penalty.\n• The 2018 RBI-Government standoff involved invocation of Section 7 of the RBI Act — unprecedented in independent India's history."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the impact of the Prompt Corrective Action (PCA) framework on credit flow and its political economy dimensions, consider the following statements:\n\n1. The simultaneous placement of a large number of public sector banks under PCA in 2018 had a systemic effect on credit availability, particularly affecting borrowers reliant on PSB lending such as small enterprises and unrated businesses.\n2. Priority sector lending obligations of a bank are automatically waived for the entire duration that the bank remains under PCA.\n3. The government's argument during the 2018 RBI-PCA conflict was that PCA restrictions were preventing banks from adequately financing large infrastructure projects and thereby slowing GDP growth.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1 and 3 only",
+      "table_data": null
+    }
+  }
+]

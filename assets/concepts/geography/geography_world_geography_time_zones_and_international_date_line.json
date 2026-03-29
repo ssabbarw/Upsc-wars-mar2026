@@ -1,0 +1,187 @@
+{
+  "subject": "Geography",
+  "topic": "World Geography",
+  "sub_topic": "Time zones and international date line",
+  "concepts": [
+    {
+      "name": "Prime Meridian (0° Longitude): Basis and Significance",
+      "key_dimensions": [
+        "Historical establishment at Greenwich, London and the 1884 International Meridian Conference",
+        "Distinction between astronomical/geographic Prime Meridian and the IERS Reference Meridian (102m east due to GPS)",
+        "Role as the reference for calculating all world time zones (GMT/UTC)",
+        "Difference between GMT (astronomical) and UTC (atomic clock-based) — UPSC trap on interchangeable use"
+      ]
+    },
+    {
+      "name": "Structure of Standard Time Zones: 24-Zone System",
+      "key_dimensions": [
+        "Theoretical division of Earth into 24 zones of 15° longitude each (1 hour = 15°, 4 minutes = 1°)",
+        "Deviation of actual time zones from the theoretical 15° grid due to political/economic reasons",
+        "UTC offset range: UTC-12 to UTC+14 (not a symmetric ±12 — UPSC trap)",
+        "Half-hour and quarter-hour offset anomalies (India UTC+5:30, Nepal UTC+5:45, Iran UTC+3:30)"
+      ]
+    },
+    {
+      "name": "Indian Standard Time (IST): Basis and Anomalies",
+      "key_dimensions": [
+        "IST = UTC+5:30, based on 82.5°E meridian passing through Mirzapur/Naini near Allahabad",
+        "India has a single time zone despite ~30° longitudinal extent (sunrise difference of ~2 hours between east and west)",
+        "Debate on having two time zones for India — arguments for/against",
+        "IST does not observe Daylight Saving Time (DST) — implications for trade and aviation"
+      ]
+    },
+    {
+      "name": "International Date Line (IDL): Location and Definition",
+      "key_dimensions": [
+        "Approximately follows 180° meridian but deviates significantly to avoid land masses",
+        "Crossing IDL eastward: date goes back one day; westward: date advances one day",
+        "IDL is not defined by international treaty — it is a geographic convention (UPSC trap)",
+        "Distinction between 180° meridian (geographic line) and IDL (functional, irregular line)"
+      ]
+    },
+    {
+      "name": "Deviations of IDL from 180° Meridian: Geopolitical Reasons",
+      "key_dimensions": [
+        "Eastward deviation around Siberia/Chukotka (Russia) to keep Russia in one date",
+        "Westward deviation around Aleutian Islands (USA) to keep Alaska in one date",
+        "Major 2011 Samoa shift: Samoa and Tokelau moved IDL west of them to align with Australia/NZ trading partners",
+        "Kiribati's extreme eastward extension of time zone to UTC+14 to remain in one date — largest UTC offset"
+      ]
+    },
+    {
+      "name": "Coordinated Universal Time (UTC): Standard and Offset System",
+      "key_dimensions": [
+        "UTC as the global time standard based on International Atomic Time (TAI) with leap second adjustments",
+        "UTC replaced GMT as the international civil time standard (GMT is now a time zone, not a standard)",
+        "UTC+14 (Line Islands, Kiribati) is the most advanced; UTC-12 (Baker/Howland Islands, US) is the most behind",
+        "Countries spanning multiple UTC offsets: Russia (11 zones), USA (6 zones), France (12 zones including territories — UPSC trap for 'most time zones'"
+      ]
+    },
+    {
+      "name": "Daylight Saving Time (DST): Mechanism and Global Practice",
+      "key_dimensions": [
+        "Clocks advanced by 1 hour in summer to maximize daylight — observed mainly in temperate regions",
+        "Countries NOT observing DST: India, China, Japan, most of Africa, most of Southeast Asia",
+        "DST creates temporary changes in UTC offset (e.g., UK moves from UTC+0 to UTC+1 in summer)",
+        "Impact on time difference calculations between DST-observing and non-observing countries — examination trap"
+      ]
+    },
+    {
+      "name": "Countries with Single Time Zone Despite Large Longitudinal Extent",
+      "key_dimensions": [
+        "China uses a single time zone (UTC+8) despite spanning ~5 theoretical time zones — political unification rationale",
+        "India: single time zone despite ~30° span — contrast with China's approach",
+        "Consequences: extreme sunrise/sunset times in western China (Xinjiang) — social and economic impacts",
+        "Comparison: USA and Russia use multiple time zones as counter-examples"
+      ]
+    },
+    {
+      "name": "Countries/Territories with the Most Time Zones",
+      "key_dimensions": [
+        "France has the most time zones (~12) due to overseas territories — UPSC trap (not Russia or USA)",
+        "Russia has 11 time zones (largest country by area but not most time zones)",
+        "USA has 6 standard time zones (9 including territories)",
+        "Australia has 3 standard + 2 half-hour offset zones — notable for internal half-hour anomalies"
+      ]
+    },
+    {
+      "name": "Half-Hour and Quarter-Hour Offset Time Zones: Global Anomalies",
+      "key_dimensions": [
+        "Nepal (UTC+5:45) — only country with a quarter-hour offset, based on Kathmandu's longitude",
+        "India (UTC+5:30), Iran (UTC+3:30), Afghanistan (UTC+4:30), Sri Lanka (UTC+5:30)",
+        "Australia: South Australia (UTC+9:30), Lord Howe Island (UTC+10:30)",
+        "Reason for non-standard offsets: political decisions to differentiate from neighbours or geographic centrality"
+      ]
+    },
+    {
+      "name": "Relationship Between Longitude and Local Time: Calculation Principles",
+      "key_dimensions": [
+        "Earth rotates 360° in 24 hours → 15° per hour → 1° per 4 minutes",
+        "Places east of a reference meridian are ahead in time; west are behind",
+        "Calculating time at a location given its longitude and a reference time — standard exam calculation type",
+        "Difference between local mean time (based on exact longitude) and standard time (based on standard meridian)"
+      ]
+    },
+    {
+      "name": "The 1884 International Meridian Conference: Outcomes and Significance",
+      "key_dimensions": [
+        "Held in Washington D.C.; Greenwich adopted as Prime Meridian by 22 of 25 nations",
+        "France abstained (used Paris Meridian until 1911) — notable exception",
+        "Established the foundation for international time zones and standard time",
+        "Significance for navigation, telegraphy, and railways — practical drivers of standardization"
+      ]
+    },
+    {
+      "name": "Samoa Time Zone Shift (2011): Case Study in IDL Adjustment",
+      "key_dimensions": [
+        "Samoa skipped December 29, 2011 entirely to move from UTC-11 to UTC+13",
+        "Motivation: align business hours with Australia and New Zealand (major trading partners)",
+        "American Samoa (US territory) did not shift — now 25 hours behind (not 1 hour ahead as before)",
+        "Demonstrates that IDL and time zones are political/economic decisions, not just geographic ones"
+      ]
+    },
+    {
+      "name": "Kiribati and UTC+14: Easternmost Time Zone",
+      "key_dimensions": [
+        "Kiribati extended its time zone to UTC+14 in 1995 to keep all islands in the same date",
+        "Line Islands (part of Kiribati) are the first place on Earth to experience each new day/New Year",
+        "UTC+14 lies east of the IDL — demonstrating IDL and UTC are independent systems (key UPSC trap)",
+        "Caroline Island (Millennium Island) renamed in 2000 to mark being 'first' for the new millennium"
+      ]
+    },
+    {
+      "name": "Antimeridian (180° Meridian): Properties and Distinction from IDL",
+      "key_dimensions": [
+        "180° meridian is the theoretical antimeridian of Greenwich, exactly opposite the Prime Meridian",
+        "Passes through the Pacific Ocean, Fiji, Russia (Chukotka), Antarctica",
+        "IDL deviates from 180° but the 180° meridian itself has no legal or official date-change function",
+        "Fiji straddles 180° but uses a single time zone (UTC+12) — IDL placed west of Fiji"
+      ]
+    },
+    {
+      "name": "Time Zone Implications for International Aviation and Commerce",
+      "key_dimensions": [
+        "Aviation uses UTC (Zulu time) to avoid confusion across time zones",
+        "Flight duration vs. clock time difference — crossing the IDL can make arrival appear before departure by calendar",
+        "Business time overlap windows between major financial centers (New York, London, Tokyo, Mumbai)",
+        "Scheduling anomalies: flights from USA to Asia crossing IDL gain/lose a calendar day"
+      ]
+    },
+    {
+      "name": "Arctic and Antarctic Time Zones: Special Cases",
+      "key_dimensions": [
+        "At the poles, all meridians converge — no meaningful local time based on longitude",
+        "Antarctic research stations use the time of their supply country (e.g., India's Maitri uses IST)",
+        "McMurdo Station (US) uses New Zealand time for logistical convenience",
+        "North Pole has no permanent settlement — Arctic nations' time zones extend theoretically to the pole"
+      ]
+    },
+    {
+      "name": "China's UTC+8 Single Time Zone Policy: Geopolitical and Social Implications",
+      "key_dimensions": [
+        "Adopted after 1949 to promote national unity — replaced 5 pre-existing time zones",
+        "Xinjiang (westernmost) has unofficial 'Xinjiang time' (UTC+6) used locally — dual time system in practice",
+        "Solar noon in Xinjiang occurs around 3 PM official time — extreme mismatch",
+        "Comparison with India's single time zone policy — both prioritize unity over geographic accuracy"
+      ]
+    },
+    {
+      "name": "Leap Seconds and UTC: Relationship with Earth's Rotation",
+      "key_dimensions": [
+        "Earth's rotation is gradually slowing — UTC periodically adds leap seconds to stay within 0.9 seconds of UT1",
+        "27 leap seconds added since 1972 — last added in December 2016",
+        "Decision to abolish leap seconds by 2035 (ITU resolution) — implications for GPS and atomic timekeeping",
+        "Distinction: leap second (timekeeping adjustment) vs. leap year (calendar adjustment) — UPSC conceptual trap"
+      ]
+    },
+    {
+      "name": "Greenwich Mean Time (GMT) vs. UTC: Modern Distinction",
+      "key_dimensions": [
+        "GMT was the world standard until 1972 when UTC (based on atomic clocks) replaced it officially",
+        "GMT is now technically a time zone (UTC+0) used by UK in winter; UTC is the standard",
+        "In casual/legal usage, GMT and UTC are often treated as equivalent — but differ by up to 0.9 seconds",
+        "UK uses GMT in winter and BST (British Summer Time, UTC+1) in summer — common UPSC confusion point"
+      ]
+    }
+  ]
+}

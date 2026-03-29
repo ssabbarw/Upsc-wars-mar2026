@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Capital Markets and Financial System",
+  "sub_topic": "Mutual funds — types",
+  "concepts": [
+    {
+      "name": "Open-Ended vs Closed-Ended Mutual Funds: Structure and Liquidity",
+      "key_dimensions": [
+        "Open-ended funds allow continuous entry/exit at NAV; closed-ended funds have fixed maturity and fixed unit capital",
+        "Closed-ended funds are mandatorily listed on stock exchanges for liquidity — UPSC trap: listing ≠ open-ended redeemability",
+        "Interval funds as a hybrid — redemption only during specified intervals, not continuously",
+        "NFO (New Fund Offer) period: both types launch via NFO but post-NFO behavior differs fundamentally"
+      ]
+    },
+    {
+      "name": "Net Asset Value (NAV): Calculation, Frequency and Misconceptions",
+      "key_dimensions": [
+        "NAV = (Assets − Liabilities) / Number of outstanding units — not the same as market price for closed-ended funds",
+        "SEBI mandates daily NAV declaration for most funds; liquid funds declare NAV for every business day including previous day",
+        "NAV is NOT the performance metric alone — Total Returns Index (TRI) benchmark is the correct comparison",
+        "UPSC trap: Higher NAV ≠ expensive fund; lower NAV ≠ cheaper/better entry point"
+      ]
+    },
+    {
+      "name": "Equity Mutual Funds: Sub-categories and SEBI Categorization (2017)",
+      "key_dimensions": [
+        "SEBI's 2017 circular mandated one scheme per category — Large Cap (top 100), Mid Cap (101–250), Small Cap (251 onwards) by market cap",
+        "Multi-cap funds must invest minimum 25% each in large, mid, and small cap — introduced after SEBI's 2020 amendment to prevent large-cap bias",
+        "Flexi-cap funds (introduced 2020) have no minimum allocation constraint across market caps — distinct from multi-cap",
+        "ELSS (Equity Linked Savings Scheme): 3-year lock-in, tax deduction under Section 80C — only mutual fund category with tax benefit"
+      ]
+    },
+    {
+      "name": "Debt Mutual Funds: Categories Based on Duration and Credit Risk",
+      "key_dimensions": [
+        "Classification by Macaulay Duration: Overnight, Liquid, Ultra Short, Low Duration, Short Duration, Medium, Long Duration funds",
+        "Credit Risk Funds: minimum 65% in below AA-rated instruments — high yield but high default risk",
+        "Gilt Funds invest only in government securities — zero credit risk but high interest rate (duration) risk",
+        "UPSC trap: Liquid funds invest in instruments with maturity up to 91 days; NOT the same as savings accounts despite similar usage"
+      ]
+    },
+    {
+      "name": "Hybrid Mutual Funds: Balanced, Aggressive, Conservative and Arbitrage",
+      "key_dimensions": [
+        "Aggressive Hybrid: 65–80% equity, 20–35% debt — taxed as equity fund (>65% equity threshold)",
+        "Conservative Hybrid: 10–25% equity, 75–90% debt — taxed as debt fund",
+        "Balanced Advantage / Dynamic Asset Allocation Funds: no fixed equity-debt ratio, managed dynamically using models",
+        "Arbitrage Funds: exploit price differential between cash and futures markets; taxed as equity funds despite low risk — UPSC trap on taxation"
+      ]
+    },
+    {
+      "name": "Index Funds vs Actively Managed Funds: Passive Investing Concept",
+      "key_dimensions": [
+        "Index funds replicate benchmark (Nifty 50, Sensex) passively — lower expense ratio, no fund manager discretion",
+        "Tracking error: deviation of fund returns from index returns — key performance metric for index funds",
+        "SEBI allows only one index fund per index per AMC — limits proliferation",
+        "Active vs passive debate: In efficient markets, passive outperforms due to lower costs — relevance for pension fund investment policy"
+      ]
+    },
+    {
+      "name": "Exchange Traded Funds (ETFs): Structure, Trading and Government Use",
+      "key_dimensions": [
+        "ETFs trade on stock exchange like shares at real-time prices — unlike mutual funds priced at end-of-day NAV",
+        "Government of India used ETFs (CPSE ETF, Bharat 22 ETF) for PSU disinvestment — a key UPSC current affairs link",
+        "Gold ETFs: backed by physical gold, each unit = 1 gram; alternative to physical gold without storage risk",
+        "Creation/Redemption mechanism via Authorized Participants (APs) — maintains ETF price close to NAV; distinct from open-ended fund redemption"
+      ]
+    },
+    {
+      "name": "Liquid Funds and Overnight Funds: Safety, Regulation and RBI Linkage",
+      "key_dimensions": [
+        "Overnight funds invest in securities with 1-day maturity (reverse repos, overnight instruments) — lowest risk category",
+        "SEBI post-Franklin Templeton crisis (2020) tightened liquidity norms: liquid funds must hold 20% in liquid assets",
+        "Liquid funds exit load for redemption within 7 days — graded exit load introduced to prevent sudden redemptions",
+        "Used by corporates for treasury management — connects to monetary policy transmission and call money market"
+      ]
+    },
+    {
+      "name": "Fund of Funds (FoF): Domestic and International",
+      "key_dimensions": [
+        "FoF invests in units of other mutual funds, not directly in securities — additional layer of expense ratio",
+        "International FoFs provide Indian investors exposure to foreign markets — subject to RBI's Liberalized Remittance Scheme (LRS) limits indirectly",
+        "SEBI suspended fresh inflows into international FoFs when industry crossed $7 billion overseas investment limit — regulatory cap",
+        "Taxation: treated as debt funds regardless of underlying equity holdings — UPSC trap on taxation classification"
+      ]
+    },
+    {
+      "name": "Sectoral and Thematic Funds: Concentration Risk and Regulatory Definition",
+      "key_dimensions": [
+        "Sectoral funds invest minimum 80% in a specific sector (Banking, IT, Pharma) — highest concentration risk",
+        "Thematic funds are broader than sectoral (e.g., 'Make in India', ESG, Infrastructure) — minimum 80% in theme",
+        "SEBI allows only one sectoral/thematic fund per theme per AMC under categorization norms",
+        "Not recommended for retail investors — suitable for sophisticated investors with sector-specific views; connects to investor suitability framework"
+      ]
+    },
+    {
+      "name": "Solution-Oriented Funds: Retirement and Children's Funds",
+      "key_dimensions": [
+        "Retirement funds and Children's funds are SEBI-defined solution-oriented categories with mandatory 5-year lock-in or till retirement/child's majority",
+        "Not the same as NPS (National Pension System) — mutual fund retirement funds lack sovereign guarantee and tax parity",
+        "ELSS has shorter 3-year lock-in vs retirement fund's 5-year — UPSC trap on comparing lock-in periods",
+        "Returns not guaranteed — distinct from EPF/PPF which offer declared/fixed returns"
+      ]
+    },
+    {
+      "name": "Systematic Investment Plan (SIP), SWP and STP: Mechanisms and Misconceptions",
+      "key_dimensions": [
+        "SIP is an investment method, NOT a type of fund — invests fixed amount periodically into any mutual fund scheme",
+        "Rupee Cost Averaging via SIP: buys more units when NAV is low, fewer when high — reduces timing risk",
+        "SWP (Systematic Withdrawal Plan): periodic redemption — used for retirement income planning",
+        "STP (Systematic Transfer Plan): transfers from one fund to another within same AMC — used for gradual equity entry from liquid/debt fund"
+      ]
+    },
+    {
+      "name": "Growth vs Dividend (IDCW) Option: SEBI Nomenclature Change and Tax Implications",
+      "key_dimensions": [
+        "SEBI renamed 'Dividend' option to 'IDCW' (Income Distribution cum Capital Withdrawal) in 2021 — clarifies that dividends come from investor's own capital",
+        "IDCW is NOT guaranteed — declared at AMC's discretion from distributable surplus",
+        "Post-2020 Budget: IDCW taxed in investor's hands at applicable slab rate; growth option subject to capital gains tax",
+        "Dividend stripping: buying just before IDCW and selling after to book loss — SEBI/IT regulations to prevent this"
+      ]
+    },
+    {
+      "name": "Direct vs Regular Plan: Cost Structure and Distributor Ecosystem",
+      "key_dimensions": [
+        "Direct plans have no distributor commission — lower expense ratio, higher NAV than regular plan of same scheme",
+        "SEBI mandated direct plans for all schemes from January 2013 — promotes investor awareness",
+        "Difference in returns compounds significantly over long term — SEBI's push for fee-only advisors (RIA — Registered Investment Advisor)",
+        "UPSC trap: Both direct and regular plans are same underlying portfolio — difference is ONLY in cost, not in fund management or securities held"
+      ]
+    },
+    {
+      "name": "SEBI's Mutual Fund Regulatory Framework: AMFI, Trustee, AMC Structure",
+      "key_dimensions": [
+        "Three-tier structure: Sponsor → Trust (Trustee) → AMC; investor money held by Trust, managed by AMC — fiduciary separation",
+        "AMFI (Association of Mutual Funds in India): self-regulatory body, not a statutory regulator — SEBI is the statutory regulator",
+        "AMFI-registered distributors (ARN holders) — KYD (Know Your Distributor) norms parallel to KYC",
+        "UPSC trap: AMFI sets guidelines but cannot penalize — only SEBI has enforcement powers over AMCs"
+      ]
+    },
+    {
+      "name": "Total Expense Ratio (TER): SEBI Caps, Components and Investor Impact",
+      "key_dimensions": [
+        "TER includes management fees, administrative costs, distributor commission (in regular plans) — deducted daily from NAV",
+        "SEBI revised TER slabs in 2018 (lower caps for larger AUM) — larger the fund, lower the maximum TER",
+        "Equity funds have higher TER cap than debt funds; direct plans must have lower TER than regular plans by exact commission amount",
+        "Performance fee concept: SEBI allows AMCs to charge performance-linked fees above base TER under specific conditions — recent regulatory development"
+      ]
+    },
+    {
+      "name": "Credit Risk and Default in Debt Mutual Funds: Franklin Templeton Crisis as Case Study",
+      "key_dimensions": [
+        "Franklin Templeton wound up 6 debt schemes in April 2020 due to liquidity crisis in low-rated paper — systemic risk event",
+        "Side-pocketing: SEBI-permitted mechanism to segregate stressed/defaulted assets from main portfolio — protects existing investors",
+        "SEBI response: tightened liquidity norms, restricted investment in unlisted securities, enhanced stress testing requirements",
+        "Credit rating reliance risk: AAA-rated paper can default (IL&FS, DHFL cases) — questions over-reliance on ratings in fund mandates"
+      ]
+    },
+    {
+      "name": "Mutual Funds and Capital Market Development: Role in Channeling Household Savings",
+      "key_dimensions": [
+        "MF AUM crossed ₹50 lakh crore (2023) — financialization of household savings away from physical assets (gold, real estate)",
+        "SIP inflows as counter-cyclical stabilizer: domestic institutional investors (DIIs via MFs) offset FII outflows — reduces market volatility",
+        "MF participation in G-secs and corporate bonds — deepens bond market, aids in monetary policy transmission",
+        "Financial inclusion angle: Mutual Fund Sahi Hai campaign, Micro SIPs (₹100), and Jan Dhan-linked investments — connects to inclusive finance"
+      ]
+    },
+    {
+      "name": "Taxation of Mutual Funds: Equity vs Debt, LTCG, STCG and Budget 2023–24 Changes",
+      "key_dimensions": [
+        "Equity funds (>65% equity): STCG at 15% (held <1 year), LTCG at 10% above ₹1 lakh (held >1 year) — no indexation",
+        "Debt funds post-April 2023: indexation benefit removed — all gains taxed at slab rate regardless of holding period — major Budget change",
+        "Arbitrage funds taxed as equity despite low risk; FoFs taxed as debt regardless of underlying — UPSC traps",
+        "STT (Securities Transaction Tax) applicable on equity fund redemption — links mutual fund taxation to securities market regulation"
+      ]
+    },
+    {
+      "name": "Real Estate Investment Trusts (REITs) and InvITs: Mutual Fund Adjacents",
+      "key_dimensions": [
+        "REITs and InvITs are NOT mutual funds but regulated by SEBI similarly — pool investor money into real estate/infrastructure assets",
+        "Mandatory 90% distribution of net distributable cash flows — income-generating unlike growth-oriented equity MFs",
+        "Listed on exchanges like ETFs; minimum investment reduced by SEBI to increase retail participation",
+        "UPSC trap: REITs invest in completed, income-generating properties only — NOT under-construction projects; InvITs in infrastructure assets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1613 @@
+[
+  {
+    "meta": {
+      "uuid": "ae8d4bab-ce53-4720-aff7-2319d6f0e57f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "NPA Classification: Categories and Time Thresholds"
+      ],
+      "subject_que_no": 4445,
+      "overall_que_no": 11792
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "SMA classification vs. NPA classification",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because SMA-2 accounts (overdue 61–90 days) are so close to the NPA threshold that many candidates incorrectly assume they have already been classified as NPAs.",
+      "elimination_logic": [
+        "Eliminate any option equating SMA accounts with NPAs — Special Mention Accounts are early-warning categories that precede NPA classification, not NPAs themselves.",
+        "Recall that NPA classification under RBI norms is triggered only after 90 days of overdue status — SMA-2 ends at exactly 90 days, meaning it is the stage just before NPA.",
+        "Confirm that Option (b) correctly identifies SMA accounts as precursors to NPA, making it the accurate statement."
+      ],
+      "upsc_trap_explanation": "Students who have read about the 90-day NPA norm often assume that SMA-2 (overdue 61–90 days) accounts are already classified as NPAs because they appear on the cusp of the threshold. The trap exploits the scope-extension error: treating the monitoring category as equivalent to the classification itself. A well-prepared candidate knows that SMA is a supervisory early-warning tool, not an NPA category.",
+      "final_explanation": "RBI introduced the Special Mention Account (SMA) framework as an early-warning system for stress in loan accounts, distinct from NPA classification. SMA-0 covers accounts where principal or interest is overdue 1–30 days, SMA-1 covers 31–60 days, and SMA-2 covers 61–90 days. An account becomes an NPA only upon crossing 90 days of overdue status.\n\n• Option (a) — Incorrect: SMA-2 does not constitute an NPA. It is the final SMA stage immediately before an account tips into NPA territory.\n• Option (b) — Correct: SMA accounts are pre-NPA monitoring categories used by banks and RBI for early identification of credit stress.\n• Option (c) — Incorrect: SMA classification applies to both term loans and cash credit/overdraft accounts, not exclusively to term loans.\n• Option (d) — Incorrect: Banks are required to report SMA accounts to CRILC (Central Repository of Information on Large Credits), not to SEBI.\n\nValue Addition:\n• CRILC reporting is mandatory for exposures of ₹5 crore and above.\n• The out-of-order criterion applies to CC/OD accounts — not the simple overdue norm.\n• RBI's IRAC (Income Recognition and Asset Classification) norms govern NPA classification uniformly across scheduled commercial banks."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following statements correctly describes Special Mention Accounts (SMAs) in the context of RBI's asset classification framework?\n\n(a) An SMA-2 account, being overdue for 61–90 days, is classified as a Non-Performing Asset under RBI norms\n(b) SMA accounts are early-warning categories that precede NPA classification and are not themselves NPAs\n(c) The SMA framework applies exclusively to term loans and not to cash credit or overdraft accounts\n(d) Banks are required to report SMA accounts to the Securities and Exchange Board of India for systemic risk monitoring",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a422210e-36f1-4a9a-9c13-25f8cc7522b5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Provisioning Norms for NPAs"
+      ],
+      "subject_que_no": 4446,
+      "overall_que_no": 11793
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Differentiated NPA provisioning rates",
+      "statement_analysis": [
+        {
+          "statement": "For a Sub-standard asset, the prescribed provisioning rate under RBI norms is 15% irrespective of whether the exposure is secured or unsecured.",
+          "verdict": "Incorrect",
+          "reason": "Sub-standard assets carry 15% provisioning for secured exposures, but an additional 10% is required for unsecured sub-standard assets, making the effective rate 25% for unsecured exposures."
+        },
+        {
+          "statement": "Loss assets require 100% provisioning regardless of any residual security that the bank may hold against the exposure.",
+          "verdict": "Correct",
+          "reason": "Loss assets are those where no recoverable value is expected; RBI mandates 100% provisioning for loss assets irrespective of the collateral position."
+        },
+        {
+          "statement": "Counter-cyclical provisioning buffers are built up during periods of credit expansion so that banks can draw down on them during stress phases without immediate profit impact.",
+          "verdict": "Correct",
+          "reason": "This is the macroprudential logic of counter-cyclical buffers — accumulating provisions in good times moderates the pro-cyclical tightening of credit during downturns."
+        }
+      ],
+      "strong_distractor": "d — Option (d) is deceptive because many students recall the 15% sub-standard rate and incorrectly assume it applies uniformly, making a statement claiming 'all three are correct' appear plausible.",
+      "elimination_logic": [
+        "Evaluate Statement 1: the 15% rate applies to secured sub-standard exposures; unsecured sub-standard exposures attract 25% — making Statement 1 incorrect.",
+        "Evaluate Statement 2: loss asset provisioning at 100% is unconditional and well-established — Statement 2 is correct.",
+        "Evaluate Statement 3: counter-cyclical buffers are a macroprudential tool built in expansion phases — Statement 3 is correct.",
+        "Since only Statements 2 and 3 are correct, select option (c)."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 1 is the phrase 'irrespective of whether the exposure is secured or unsecured.' Many students recall the 15% figure for sub-standard assets but do not retain the secured/unsecured distinction, which adds an extra 10% for unsecured exposures. This partial-truth construction makes the statement sound almost correct to a moderately prepared candidate.",
+      "final_explanation": "RBI's provisioning norms establish differentiated rates across NPA categories, with the secured/unsecured distinction being a critical nuance often missed in examinations.\n\n• Statement 1 — Incorrect: The 15% provisioning rate applies to secured sub-standard assets. Unsecured sub-standard exposures attract a higher rate of 25%, making the blanket claim of '15% irrespective of security' false.\n• Statement 2 — Correct: Loss assets, by definition, have no recoverable value expected and must be fully provided for at 100%, regardless of any nominal collateral.\n• Statement 3 — Correct: Counter-cyclical provisioning is a macroprudential instrument. Banks accumulate buffers during benign credit cycles and are permitted to utilise them during stress, reducing pro-cyclical credit contraction.\n\nValue Addition:\n• Doubtful assets are sub-categorised: D-I (up to 1 year in doubtful category, 25%), D-II (1–3 years, 40%), D-III (beyond 3 years, 100%).\n• Excess provisioning by banks is treated as a Provision Coverage Ratio (PCR) metric — RBI mandates a minimum PCR of 70%.\n• Higher provisioning directly reduces net profits and, over time, erodes Tier-1 capital, affecting capital adequacy ratios."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding RBI's provisioning norms for Non-Performing Assets:\n\n1. For a Sub-standard asset, the prescribed provisioning rate under RBI norms is 15% irrespective of whether the exposure is secured or unsecured.\n2. Loss assets require 100% provisioning regardless of any residual security that the bank may hold against the exposure.\n3. Counter-cyclical provisioning buffers are built up during periods of credit expansion so that banks can draw down on them during stress phases without immediate profit impact.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a4f0d1bf-4050-4000-8750-7244c7dbca3b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "SARFAESI Act, 2002: Scope and Limitations"
+      ],
+      "subject_que_no": 4447,
+      "overall_que_no": 11794
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "SARFAESI Act exclusions and borrower appeal rights",
+      "statement_analysis": [
+        {
+          "statement": "Agricultural land is excluded from the purview of the SARFAESI Act, 2002, and banks cannot enforce security interest over such land under that Act.",
+          "verdict": "Correct",
+          "reason": "Agricultural land is explicitly excluded from SARFAESI's enforcement provisions — this statement is factually correct and therefore NOT the answer to 'which is incorrect.'"
+        },
+        {
+          "statement": "A borrower aggrieved by a bank's action under the SARFAESI Act must file an appeal before the Debt Recovery Tribunal within 60 days of the bank's notice.",
+          "verdict": "Incorrect",
+          "reason": "The correct appeal window under Section 17 of the SARFAESI Act is 45 days, not 60 days — the 60-day figure is a common procedural trap."
+        },
+        {
+          "statement": "SARFAESI provisions apply only where a security interest has been created over the asset — loans extended without any collateral cannot be enforced through this mechanism.",
+          "verdict": "Correct",
+          "reason": "Creation of a security interest is a precondition for SARFAESI enforcement; unsecured loans fall outside its scope and must be pursued through DRT or civil courts."
+        }
+      ],
+      "strong_distractor": "a — Students who know the agricultural land exclusion correctly assume Statement 1 is the incorrect one, confusing 'exclusion from SARFAESI' with 'incorrect statement about SARFAESI.'",
+      "elimination_logic": [
+        "Check Statement 1: agricultural land exclusion under SARFAESI is a well-established fact — Statement 1 is correct, so it does NOT qualify as 'incorrect.'",
+        "Check Statement 2: the appeal timeline to DRT under SARFAESI is 45 days, not 60 days — Statement 2 is factually incorrect.",
+        "Check Statement 3: absence of security interest does exclude a loan from SARFAESI's scope — Statement 3 is correct.",
+        "Only Statement 2 is incorrect; select option (b)."
+      ],
+      "upsc_trap_explanation": "The trap exploits procedural knowledge of appeal timelines. Many students confuse the 45-day DRT appeal window under SARFAESI with the 60-day limitation period under other recovery statutes. Since agricultural land exclusion is better known, students gravitating to Statement 1 as the 'incorrect' one are falling into the entity-swap trap without realising it.",
+      "final_explanation": "SARFAESI Act, 2002 empowers secured creditors to enforce their security interest without court intervention, but operates within defined exclusions and procedural constraints.\n\n• Statement 1 — Correct: Agricultural land is explicitly excluded under SARFAESI. Banks cannot seize or sell agricultural land using SARFAESI enforcement powers.\n• Statement 2 — Incorrect: The appeal period is 45 days (under Section 17 of SARFAESI), not 60 days. This is the single incorrect statement.\n• Statement 3 — Correct: SARFAESI enforcement requires a pre-existing security interest. Purely unsecured lending falls outside its ambit.\n\nValue Addition:\n• SARFAESI applies to loans above ₹1 lakh where the NPA is more than 20% of the principal and interest outstanding.\n• Borrowers must first receive a 60-day demand notice from the bank before enforcement action begins — this 60-day figure is often confused with the 45-day appeal window.\n• NBFCs with asset size of ₹100 crore or above were brought under SARFAESI through a 2016 amendment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the SARFAESI Act, 2002:\n\n1. Agricultural land is excluded from the purview of the SARFAESI Act, 2002, and banks cannot enforce security interest over such land under that Act.\n2. A borrower aggrieved by a bank's action under the SARFAESI Act must file an appeal before the Debt Recovery Tribunal within 60 days of the bank's notice.\n3. SARFAESI provisions apply only where a security interest has been created over the asset — loans extended without any collateral cannot be enforced through this mechanism.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a9c8fcf6-58c5-49c1-b1ed-f66c483ab50f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Debt Recovery Tribunals (DRTs) and Debt Recovery Appellate Tribunals (DRATs)"
+      ],
+      "subject_que_no": 4448,
+      "overall_que_no": 11795
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DRT jurisdiction and RDDBFI Act 1993",
+      "statement_analysis": [
+        {
+          "statement": "DRTs were established under the Recovery of Debts Due to Banks and Financial Institutions (RDDBFI) Act, 1993.",
+          "verdict": "Correct",
+          "reason": "DRTs derive their statutory basis from the RDDBFI Act, 1993, not from SARFAESI or any banking regulation act."
+        },
+        {
+          "statement": "Non-Banking Financial Companies (NBFCs) can directly approach a DRT for recovery of their dues.",
+          "verdict": "Incorrect",
+          "reason": "DRT jurisdiction under RDDBFI Act extends only to scheduled banks and specified financial institutions; NBFCs are not covered."
+        },
+        {
+          "statement": "The minimum threshold for a claim to be admitted before a DRT is ₹20 lakh.",
+          "verdict": "Correct",
+          "reason": "Claims below ₹20 lakh fall outside DRT jurisdiction and must be pursued through civil courts."
+        },
+        {
+          "statement": "Appeals from DRT orders lie before the Debt Recovery Appellate Tribunal, which must be filed within 45 days of the DRT's order.",
+          "verdict": "Correct",
+          "reason": "The RDDBFI Act prescribes a 45-day appeal window from DRT to DRAT."
+        }
+      ],
+      "strong_distractor": "b — Students who have partial knowledge of DRT jurisdiction may credit NBFCs with DRT access because some large NBFCs are treated as financial institutions in other regulatory contexts, making 'Only two' plausible.",
+      "elimination_logic": [
+        "Statement 1 is correct — RDDBFI Act 1993 is the founding statute for DRTs.",
+        "Statement 2 is incorrect — NBFCs lack DRT access under the RDDBFI Act; eliminate options requiring Statement 2 to be correct.",
+        "Statements 3 and 4 are both correct — ₹20 lakh threshold and 45-day DRAT appeal window are established procedural facts.",
+        "Three of the four statements are correct — select option (a): Only three."
+      ],
+      "upsc_trap_explanation": "The NBFC trap is a classic entity-swap. Large NBFCs such as housing finance companies are treated as financial institutions in some regulatory contexts, leading students to assume they have DRT access. In reality, RDDBFI Act restricts DRT jurisdiction to scheduled commercial banks and specified financial institutions notified under the Act — NBFCs as a class are excluded.",
+      "final_explanation": "Debt Recovery Tribunals were established to provide a specialised, expedited forum for banks and financial institutions to recover large loan dues, bypassing the slow civil court process.\n\n• Statement 1 — Correct: RDDBFI Act, 1993 is the parent statute for DRTs.\n• Statement 2 — Incorrect: DRT jurisdiction does not extend to NBFCs. They must use civil courts or, where eligible, the SARFAESI enforcement route.\n• Statement 3 — Correct: Claims below ₹20 lakh are outside DRT jurisdiction.\n• Statement 4 — Correct: DRAT appeals must be filed within 45 days of the DRT order.\n\nThree statements are correct — answer is 'Only three.'\n\nValue Addition:\n• There are 39 DRTs and 5 DRATs across India.\n• A borrower challenging a DRT order at DRAT must deposit 50% of the debt amount — a significant procedural safeguard against frivolous appeals.\n• The RDDBFI Act was amended in 2000 to enhance DRT powers and streamline proceedings.",
+      "final_explanation_word_count_note": "Within 220-word ceiling for quantitative-pairing."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about Debt Recovery Tribunals (DRTs):",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "DRTs were established under the Recovery of Debts Due to Banks and Financial Institutions (RDDBFI) Act, 1993."
+          ],
+          [
+            "2",
+            "Non-Banking Financial Companies (NBFCs) can directly approach a DRT for recovery of their dues."
+          ],
+          [
+            "3",
+            "The minimum threshold for a claim to be admitted before a DRT is ₹20 lakh."
+          ],
+          [
+            "4",
+            "Appeals from DRT orders lie before the Debt Recovery Appellate Tribunal, which must be filed within 45 days of the DRT's order."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "51d57990-4816-45c9-bbf8-23f6fa5ad959",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Insolvency and Bankruptcy Code (IBC), 2016: Corporate Insolvency Resolution Process (CIRP)",
+        "IBC: Committee of Creditors (CoC) and Voting Thresholds"
+      ],
+      "subject_que_no": 4449,
+      "overall_que_no": 11796
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "IBC thresholds and CIRP timeline milestones",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) pairs the 330-day outer limit with the Supreme Court ruling, which is partially accurate, but swaps the voting thresholds, making it the most seductive wrong answer.",
+      "elimination_logic": [
+        "Match A: ₹1 crore minimum default threshold was introduced in 2020 (raised from ₹1 lakh) — matches Item 3.",
+        "Match B: 180-day initial CIRP period with a 90-day extension is the statutory timeline — matches Item 1.",
+        "Match C: 66% CoC vote required to approve a resolution plan — matches Item 4.",
+        "Match D: Moratorium under Section 14 suspends legal proceedings and asset disposal against the corporate debtor — matches Item 2.",
+        "Correct combination is A-3, B-1, C-4, D-2 — select option (c)."
+      ],
+      "upsc_trap_explanation": "The voting threshold trap is subtle: students often recall 75% as a key IBC number (which is the liquidation threshold) and incorrectly pair it with resolution plan approval. The 66% figure for resolution approval and 75% for liquidation is an asymmetry that is frequently tested. Option (a) exploits this by presenting plausible but swapped thresholds.",
+      "final_explanation": "The IBC, 2016 created a time-bound, creditor-driven insolvency framework with precise thresholds and procedural safeguards.\n\nCorrect pairings:\n• A–3: The minimum default threshold for triggering CIRP was raised from ₹1 lakh to ₹1 crore in March 2020 by the central government — primarily to shield MSMEs during the COVID-19 period.\n• B–1: The CIRP must be completed within 180 days, extendable by 90 days with CoC approval, with the Supreme Court setting an overall outer limit of 330 days in the Essar Steel judgment.\n• C–4: A resolution plan requires approval by at least 66% of CoC voting share — a deliberate design choice to prevent any single large creditor from vetoing viable plans.\n• D–2: Section 14 moratorium prohibits institution of suits, enforcement of security interests, and transfer of assets during the CIRP period — protecting the corporate debtor as a going concern.\n\nTrap pairing: 75% is required for CoC to vote for liquidation — not for resolution plan approval. Confusing these two thresholds is the most common IBC examination error.\n\nValue Addition:\n• The 330-day limit was affirmed in Committee of Creditors of Essar Steel India Ltd. v. Satish Kumar Gupta (2019).\n• Pre-packaged insolvency for MSMEs has a compressed 120-day timeline.\n• Section 14 moratorium does not apply to criminal proceedings or guarantors' assets.",
+      "final_explanation_word_count_note": "Within 280-word ceiling for match-the-column."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (IBC provisions/thresholds) with List II (their descriptions):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Minimum default amount for triggering CIRP (post-2020)",
+            "1. Initial resolution period: 180 days + 90-day extension"
+          ],
+          [
+            "B. Statutory CIRP timeline",
+            "2. Section 14 — suspension of legal proceedings and asset transfers"
+          ],
+          [
+            "C. CoC voting threshold for resolution plan approval",
+            "3. ₹1 crore"
+          ],
+          [
+            "D. Moratorium during CIRP",
+            "4. 66% of voting share of financial creditors"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-2, D-4\n(b) A-3, B-1, C-2, D-4\n(c) A-3, B-1, C-4, D-2\n(d) A-1, B-4, C-3, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "41cc36e0-8df6-4be9-a174-3e33ad3c6cd8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBC: Committee of Creditors (CoC) and Voting Thresholds",
+        "Financial Creditors vs. Operational Creditors under IBC"
+      ],
+      "subject_que_no": 4450,
+      "overall_que_no": 11797
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Operational creditors excluded from CoC voting",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who correctly identify both A and R as true often assume R explains A without examining whether the causal link holds precisely — the correct explanation is the time-value-of-money definitional distinction, not merely priority in distribution.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. Operational creditors are excluded from CoC membership and voting under the IBC framework.",
+        "Step 2: Is Reason (R) correct? — Yes. Operational creditors hold claims arising from supply of goods or services, while financial creditors hold claims based on financial contracts involving time value of money.",
+        "Step 3: Does R causally explain A? — No. The exclusion of operational creditors from the CoC is a legislative policy choice based on the nature of their commercial relationship with the debtor, not a direct consequence of the definitional distinction between financial and operational debt. The actual rationale is that financial creditors (banks, bondholders) are better positioned to assess resolution viability and bear restructuring risks, which is a different causal chain from the definitional distinction stated in R.",
+        "A is correct, R is correct, but R does not correctly explain A — select option (b)."
+      ],
+      "upsc_trap_explanation": "This is a classic assertion-reason trap where both A and R are independently correct. The seduction lies in the apparent logical connection: because operational creditors are definitionally different from financial creditors, they are excluded. But this conflates definition with policy rationale. The IBC's exclusion of operational creditors from CoC is grounded in their commercial (not financial) relationship with the debtor and their ability to seek alternative suppliers — not in the definitional distinction per se.",
+      "final_explanation": "The Committee of Creditors structure under IBC is one of the most examined aspects of the insolvency framework.\n\nAssertion (A) is correct: Under Section 21 of IBC, the CoC is constituted solely of financial creditors. Operational creditors — suppliers, employees (beyond basic dues), utilities — have no voting rights in the CoC.\n\nReason (R) is correct: Financial debt is defined as debt disbursed against consideration for time value of money (loans, bonds, debentures). Operational debt arises from provision of goods or services.\n\nCausal link: R does NOT correctly explain A. The exclusion of operational creditors from CoC is a policy design choice: financial creditors, who have ongoing lending relationships and risk assessment capabilities, are better suited to evaluate and vote on resolution plans. The definitional distinction in R is a related fact but not the causal mechanism behind the exclusion.\n\nValue Addition:\n• Operational creditors can trigger CIRP but must send a 10-day demand notice before filing.\n• Homebuyers were recognised as financial creditors via the 2018 amendment, allowing them CoC membership.\n• Related-party financial creditors can attend CoC meetings but cannot vote — a 2021 amendment trap."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Under the Insolvency and Bankruptcy Code, 2016, operational creditors are excluded from the Committee of Creditors and have no voting rights in the resolution process.\n\nReason (R): Operational creditors hold claims that arise from the supply of goods or services, whereas financial creditors hold claims based on financial contracts involving the time value of money.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1cdda4a3-6190-41a9-b2f8-5e976ed29430",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBC Liquidation Waterfall (Priority of Claims)"
+      ],
+      "subject_que_no": 4451,
+      "overall_que_no": 11798
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "IBC liquidation waterfall statutory priority order",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who intuitively believe government dues should take priority over private creditors (reflecting the general perception of sovereign priority) select option (c), placing government dues above unsecured creditors.",
+      "elimination_logic": [
+        "Recall the IBC waterfall: IBBI/insolvency costs come first, then workmen dues (24 months), then secured creditors, then employee dues, then unsecured financial creditors, then government dues, then equity shareholders.",
+        "Government dues rank below unsecured financial creditors — this counterintuitive ordering is the key discriminator.",
+        "Eliminate option (a): placing equity holders above government dues inverts the final two positions.",
+        "Eliminate option (c): placing government dues above unsecured creditors contradicts Section 53 of IBC.",
+        "Eliminate option (d): workmen dues do not rank below secured creditors — they partially precede them.",
+        "Option (b) correctly sequences: Insolvency costs → Workmen dues → Secured creditors → Employee dues → Unsecured creditors → Government dues → Equity — select (b)."
+      ],
+      "upsc_trap_explanation": "The government-dues-below-unsecured-creditors ordering is deeply counterintuitive. Most students assume the state holds sovereign priority over private creditors, as is the case in many older recovery statutes. The IBC deliberately departs from this to encourage private resolution financing. A student relying on intuition rather than the precise Section 53 waterfall will choose an option that elevates government dues.",
+      "final_explanation": "Section 53 of IBC establishes the liquidation waterfall — the statutory order in which proceeds from liquidation are distributed. This order was a deliberate legislative departure from earlier priority regimes.\n\nCorrect sequence under IBC:\n1. Insolvency resolution process costs (IBBI costs, RP fees)\n2. Workmen dues — last 24 months\n3. Secured creditors (ranking pari passu with workmen dues beyond the 24-month window)\n4. Employee dues — other than workmen\n5. Unsecured financial creditors\n6. Government dues\n7. Remaining secured creditors (after enforcement of security)\n8. Equity shareholders\n\nThe critical insight: government dues (taxes, statutory levies) rank below unsecured financial creditors. This was a significant policy departure designed to make IBC proceedings commercially viable by assuring institutional lenders of superior recovery rights.\n\nWhy wrong options fail: Option (c) elevates government dues above unsecured creditors — the most common intuition-driven error. Option (a) misplaces equity holders. Option (d) incorrectly subordinates workmen dues.\n\nValue Addition:\n• The Essar Steel case affirmed that the CoC has discretion in distributing resolution proceeds but cannot deviate arbitrarily from the waterfall.\n• Workmen dues for the last 24 months are given pari passu status with secured creditors from the liquidation estate.\n• This waterfall applies only in liquidation — CIRP resolution plans can deviate from this order with CoC approval."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly represents the order of priority in the liquidation waterfall under Section 53 of the Insolvency and Bankruptcy Code, 2016, from highest to lowest priority?\n\n(a) Insolvency costs → Workmen dues → Secured creditors → Government dues → Unsecured creditors → Employee dues → Equity\n(b) Insolvency costs → Workmen dues → Secured creditors → Employee dues → Unsecured creditors → Government dues → Equity\n(c) Insolvency costs → Workmen dues → Secured creditors → Employee dues → Government dues → Unsecured creditors → Equity\n(d) Insolvency costs → Secured creditors → Workmen dues → Employee dues → Unsecured creditors → Government dues → Equity",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6fd05481-c628-4079-a584-882be94992fe",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Asset Reconstruction Companies (ARCs): Structure and Functioning",
+        "Bad Bank Model: NARCL and IDRCL"
+      ],
+      "subject_que_no": 4452,
+      "overall_que_no": 11799
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "conflation",
+      "concept_anchor": "NARCL-IDRCL two-entity bad bank model",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) conflates the NARCL-IDRCL model with a standard ARC structure, appealing to candidates who know what an ARC does but have not retained the specific two-entity distinction of the bad bank architecture.",
+      "elimination_logic": [
+        "The scenario describes an entity that acquires assets but hands management to a separate company — this two-entity structure is specific to the NARCL-IDRCL model, not standard ARCs.",
+        "Eliminate option (a): SARFAESI enforcement is a bank-level mechanism; no separate resolution management entity is involved.",
+        "Eliminate option (b): standard ARCs both acquire and manage stressed assets themselves — no separate management company is involved.",
+        "Eliminate option (c): DRT proceedings involve judicial adjudication, not a negotiated acquisition-management split.",
+        "The described structure — acquisition by one entity, management by another — precisely describes the NARCL (acquirer) and IDRCL (manager) architecture; select option (d)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges the standard ARC model with the NARCL-IDRCL model. Both involve acquiring stressed assets and issuing Security Receipts, but in the standard ARC model, one entity does both. The NARCL-IDRCL structure was specifically designed to separate acquisition (NARCL, a government-backed entity) from management and resolution (IDRCL, with private participation) to align incentives. Students who know only the ARC concept will select option (b).",
+      "final_explanation": "The NARCL-IDRCL 'bad bank' architecture was announced in Union Budget 2021-22 to resolve large, fully-provisioned stressed assets that conventional ARCs had failed to resolve.\n\nThe two-entity model works as follows: NARCL (National Asset Reconstruction Company Ltd), majority government-owned, acquires the stressed asset from banks using the 15:85 cash-to-SR structure. IDRCL (India Debt Resolution Company Ltd) — a private-sector dominated entity — then manages and resolves the acquired asset. This separation was designed to ensure that the acquisition entity (government-backed) provides credibility and scale, while the resolution entity (private) provides market expertise and incentive alignment.\n\nWhy each option fails:\n• Option (a): SARFAESI is a unilateral bank-level enforcement mechanism with no acquisition-management split.\n• Option (b): Standard ARCs are single-entity structures that both acquire and manage stressed assets.\n• Option (c): DRT is a court-based recovery forum, not an acquisition model.\n• Option (d): Correct — the two-entity acquisition-management split is the definitional feature of the NARCL-IDRCL model.\n\nValue Addition:\n• Government guarantee of ₹30,600 crore backs NARCL's Security Receipts — this is a contingent liability, not an immediate expenditure.\n• NARCL focuses on assets above ₹500 crore that are fully provisioned.\n• The 15:85 structure (15% cash + 85% SRs) is the same as conventional ARC norms — the differentiation is in the two-entity split."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A newly formed government-backed entity begins acquiring fully provisioned large stressed assets from multiple public sector banks using a combination of upfront cash and government-guaranteed Security Receipts. Once acquired, the stressed assets are handed over to a separate privately-dominated entity for active management and resolution. The government guarantee is contingent and is invoked only if the Security Receipts are not redeemed at face value within a specified period.\n\nWhich of the following best describes the mechanism being implemented in this scenario?\n\n(a) Enforcement of security interest by banks under the SARFAESI Act, 2002\n(b) Acquisition and resolution of stressed assets by a conventional Asset Reconstruction Company regulated under SARFAESI\n(c) Judicial recovery of dues through Debt Recovery Tribunal proceedings initiated by financial creditors\n(d) The two-entity 'bad bank' model constituted by NARCL for acquisition and IDRCL for management of stressed assets",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d3ebbafb-6503-40a1-8674-650843d9e87d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "RBI's Prompt Corrective Action (PCA) Framework"
+      ],
+      "subject_que_no": 4453,
+      "overall_que_no": 11800
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PCA trigger indicators — capital, asset quality, profitability",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'Leverage ratio' sounds like a capital-related metric and many students incorrectly include it as a PCA trigger, since it is part of Basel III monitoring.",
+      "elimination_logic": [
+        "Recall the three trigger indicators of RBI's PCA framework: Capital (CRAR), Asset Quality (Net NPA ratio), and Profitability (Return on Assets).",
+        "Eliminate options that are genuine PCA triggers: CRAR (capital), Net NPA ratio (asset quality), and RoA (profitability) are all confirmed triggers.",
+        "Identify that 'Leverage Ratio' is a Basel III metric monitored by RBI but is NOT one of the three designated PCA trigger indicators.",
+        "The odd item is Leverage Ratio — select option (c)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "RBI's PCA Framework specifies exactly three categories of trigger indicators used to place a bank under corrective action.\n\n• Option (a) Capital to Risk-weighted Assets Ratio (CRAR): This is a primary PCA trigger — a bank breaching the minimum CRAR threshold enters PCA.\n• Option (b) Return on Assets (RoA): Profitability is the third PCA trigger — negative RoA for two consecutive years triggers PCA restrictions.\n• Option (c) Leverage Ratio: This is the odd one out. While leverage ratio is a Basel III monitoring requirement, it is NOT one of the three designated PCA trigger indicators under RBI's current framework.\n• Option (d) Net NPA Ratio: Asset quality measured by the Net NPA ratio is the second PCA trigger — breaching specified thresholds initiates supervisory action.\n\nValue Addition:\n• PCA imposes restrictions on dividend distribution, branch expansion, and management remuneration — it is a supervisory tool, not a moratorium.\n• PCA is distinct from a moratorium under Section 45 of the Banking Regulation Act, 1949, which involves RBI taking over management.\n• In 2022, RBI extended the PCA framework to government-owned NBFCs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "RBI's Prompt Corrective Action (PCA) Framework specifies designated trigger indicators based on which corrective action is initiated against a bank. Which of the following is NOT one of the three designated trigger indicators under the PCA Framework?\n\n(a) Capital to Risk-weighted Assets Ratio (CRAR)\n(b) Return on Assets (RoA)\n(c) Leverage Ratio\n(d) Net NPA Ratio",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "519dfe6e-bf43-47f6-bbdc-fa22f33c34ad",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "RBI's Revised Framework for Resolution of Stressed Assets (Post-February 2018 Circular)"
+      ],
+      "subject_que_no": 4454,
+      "overall_que_no": 11801
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Supreme Court's April 2019 ruling on RBI's February 2018 circular",
+      "statement_analysis": [
+        {
+          "statement": "The Supreme Court of India struck down RBI's February 2018 circular on resolution of stressed assets in April 2019, holding that it was issued without the specific authorisation required under Section 35AA of the Banking Regulation Act.",
+          "verdict": "Correct",
+          "reason": "The Supreme Court in Dharani Sugars case ruled that Section 35AA required a specific government authorisation for each direction to banks; the February 2018 circular issued a blanket direction without such case-specific authorisation."
+        },
+        {
+          "statement": "The Inter-Creditor Agreement under RBI's June 2019 revised framework becomes binding on all lenders once it is signed by lenders holding at least 60% of the total outstanding amount by value.",
+          "verdict": "Incorrect",
+          "reason": "Under the June 2019 circular, the ICA decision is binding when approved by lenders holding 75% by value and 60% by number — not merely 60% by value."
+        }
+      ],
+      "strong_distractor": "a — Students who know both the SC ruling and the ICA mechanism may incorrectly recall the binding threshold as '60% by value' (confusing it with the '60% by number' criterion), making option (a) seem correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: the Supreme Court's April 2019 ruling on Section 35AA ultra vires grounds is a well-documented fact — Statement 1 is correct.",
+        "Evaluate Statement 2: the ICA binding threshold is 75% by value AND 60% by number — the statement specifies only 60% by value, which is incomplete and incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "The ICA threshold trap exploits the dual criterion (75% by value, 60% by number). Students who partially recall the 60% figure associate it with the value threshold rather than the number threshold. This temporal-swap/partial-truth construction makes Statement 2 sound plausible to anyone who has read only a summary of the June 2019 circular.",
+      "final_explanation": "RBI's February 2018 circular was a watershed moment in India's NPA resolution history, mandating a strict 180-day resolution timeline for large accounts and default on even one day would trigger resolution proceedings.\n\n• Statement 1 — Correct: In Dharani Sugars & Chemicals Ltd. v. Union of India (April 2019), the Supreme Court struck down the circular on the ground that Section 35AA of the Banking Regulation Act requires the central government to specifically authorise RBI before it can direct banks regarding stressed asset resolution. The circular was issued without such specific authorisation.\n• Statement 2 — Incorrect: The June 2019 revised circular specifies that once an ICA is signed, decisions are binding if supported by lenders representing 75% of the outstanding amount by value AND 60% by number of lenders — not merely 60% by value as stated.\n\nValue Addition:\n• The June 2019 circular introduced a 30-day review period before formal resolution proceedings begin.\n• Non-compliance with the ICA attracts additional provisioning requirements (up to 20% additional).\n• Divergence reporting to RBI is mandatory if a bank's NPA classification differs from the common assessment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding RBI's framework for resolution of stressed assets:\n\nStatement 1: The Supreme Court of India struck down RBI's February 2018 circular on resolution of stressed assets in April 2019, holding that it was issued without the specific authorisation required under Section 35AA of the Banking Regulation Act.\n\nStatement 2: The Inter-Creditor Agreement under RBI's June 2019 revised framework becomes binding on all lenders once it is signed by lenders holding at least 60% of the total outstanding amount by value.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5b9e1852-1b83-4ac5-846c-4d4ea8c414fd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Wilful Defaulters: Definition, Consequences, and Related Controversies",
+        "Section 29A of IBC: Ineligibility of Resolution Applicants"
+      ],
+      "subject_que_no": 4455,
+      "overall_que_no": 11802
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Section 29A IBC ineligibility for wilful defaulters",
+      "statement_analysis": null,
+      "strong_distractor": "c — Section 29A is associated with IBC in candidates' minds, but many confuse the disqualification mechanism with the SARFAESI enforcement bar, selecting SARFAESI as the source of the resolution applicant ban.",
+      "elimination_logic": [
+        "Identify the context: the blank refers to the section that disqualifies wilful defaulters from submitting resolution plans under the insolvency framework.",
+        "Section 29A of IBC is the provision that lists ineligibility criteria for resolution applicants — wilful defaulters are explicitly disqualified.",
+        "Eliminate options citing SARFAESI or DRT — these are recovery mechanisms, not resolution applicant eligibility criteria.",
+        "Select option (a): Section 29A of the Insolvency and Bankruptcy Code, 2016."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Section 29A of the Insolvency and Bankruptcy Code, 2016 lists categories of persons ineligible to submit resolution plans during CIRP. Wilful defaulters — those who have diverted funds, siphoned assets, or refused to repay despite capacity — are specifically disqualified from participating as resolution applicants.\n\n• Option (a) — Correct: Section 29A of IBC is the provision governing resolution applicant eligibility, and it explicitly bars wilful defaulters.\n• Option (b) — Incorrect: Section 35AA of the Banking Regulation Act relates to RBI's power to direct banks on stressed asset resolution — it does not govern resolution applicant eligibility.\n• Option (c) — Incorrect: The SARFAESI Act, 2002 governs enforcement of security interest; it does not disqualify persons from resolution proceedings.\n• Option (d) — Incorrect: The RDDBFI Act, 1993 governs DRT jurisdiction and proceedings — unrelated to CIRP applicant eligibility.\n\nValue Addition:\n• Section 29A also disqualifies undischarged insolvents, persons convicted of offences carrying 2+ years' imprisonment, and connected persons of any of the above.\n• The ArcelorMittal case clarified that Section 29A applies at the time of submission of the resolution plan, not just at the time of CIRP initiation.\n• Related-party promoters of the NPA account are also barred under Section 29A."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A promoter whose company has been classified as a wilful defaulter by the lending banks is explicitly disqualified from submitting a resolution plan during a Corporate Insolvency Resolution Process by ________, which lists the ineligibility criteria for resolution applicants.\n\n(a) Section 29A of the Insolvency and Bankruptcy Code, 2016\n(b) Section 35AA of the Banking Regulation Act, 1949\n(c) Section 13 of the SARFAESI Act, 2002\n(d) Section 19 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "471e6a27-3ad6-4bb1-8b91-f0bd2e0d06a1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Twin Balance Sheet Problem and its Macroeconomic Implications"
+      ],
+      "subject_que_no": 4456,
+      "overall_que_no": 11803
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "partial-truth",
+      "concept_anchor": "4R strategy for twin balance sheet resolution",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'Recognition — Disclosure of NPAs through AQR' is partially correct (Asset Quality Review did drive recognition), but pairing it with the 4R label is a conflation since the 4R framework's Recognition element is broader than just AQR.",
+      "elimination_logic": [
+        "Recall the 4R strategy: Recognition, Resolution, Recapitalisation, and Reform.",
+        "Check option (d): Recapitalisation — Infusion of capital into banks to restore lending capacity. This is an accurate and complete pairing.",
+        "Check option (a): Resolution — Recovery of stressed assets through negotiation. This is incomplete; Resolution under 4R involves formal mechanisms (IBC, SARFAESI) not merely negotiation.",
+        "Check option (b): Recognition — Disclosure of NPAs through the Asset Quality Review only. AQR was one instrument, but Recognition is broader than a single RBI review exercise.",
+        "Check option (c): Reform — Amendments to the Banking Regulation Act only. Reform encompasses structural changes including governance, IBC, SARFAESI amendments — not limited to one Act.",
+        "Option (d) is the correctly and precisely matched pair — select (d)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "The 4R strategy was articulated by the Economic Survey to comprehensively address the twin balance sheet problem affecting both banks and over-leveraged corporates.\n\n• Option (a) — Incorrect: Resolution under the 4R framework involves formal mechanisms such as IBC proceedings, SARFAESI enforcement, and ARC-based resolution — not merely negotiated recovery.\n• Option (b) — Incorrect: Recognition was the first step — compelling banks to honestly acknowledge NPAs rather than evergreen loans. While RBI's Asset Quality Review (2015-16) was a major instrument, Recognition is not limited to AQR alone.\n• Option (c) — Incorrect: Reform (the fourth R) encompasses structural reforms to banking governance, lending practices, and the legal framework — far broader than amendments to a single statute.\n• Option (d) — Correct: Recapitalisation directly refers to restoring bank capital through government infusion (recap bonds, budgetary support, market raising) so that adequately capitalised banks can resume normal credit growth.\n\nValue Addition:\n• The twin balance sheet problem was most acute in the infrastructure, steel, and power sectors — legacy of the 2008–2012 lending boom.\n• Indradhanush (2015) was the government's 7-element bank reform package, addressing governance, accountability, and capitalisation.\n• Economic Survey 2016-17 popularised the 4R terminology in the Indian policy discourse."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The '4R' strategy to resolve the twin balance sheet problem consists of Recognition, Resolution, Recapitalisation, and Reform. Which of the following pairs correctly matches one of the four elements with its primary policy instrument?\n\n(a) Resolution — Recovery of stressed assets through bilateral negotiation between banks and borrowers\n(b) Recognition — Mandatory disclosure of NPAs exclusively through RBI's Asset Quality Review exercise\n(c) Reform — Amendments to the Banking Regulation Act, 1949 as the sole structural measure\n(d) Recapitalisation — Infusion of capital into public sector banks to restore their lending capacity",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "46314cc0-59d0-43a1-922e-66c2da441880",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Bank Recapitalisation: Instruments and Fiscal Implications"
+      ],
+      "subject_que_no": 4457,
+      "overall_que_no": 11804
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Recapitalisation bonds fiscal impact mechanism",
+      "statement_analysis": [
+        {
+          "statement": "When the government issues recapitalisation bonds to public sector banks, there is no immediate cash outflow from the government's Consolidated Fund — the transaction is a simultaneous asset (government bonds) and liability (equity) exchange.",
+          "verdict": "Correct",
+          "reason": "Recap bonds involve the government issuing bonds to banks, which banks subscribe to; the same amount is then invested back in the banks as equity capital — no actual cash changes hands initially, but government debt increases."
+        },
+        {
+          "statement": "Recapitalisation bonds have no impact on India's fiscal deficit because they do not involve actual government expenditure.",
+          "verdict": "Incorrect",
+          "reason": "Recap bonds increase government borrowing (the bonds are liabilities of the government), which adds to the fiscal deficit over time as interest payments commence — the claim of 'no impact on fiscal deficit' is incorrect."
+        },
+        {
+          "statement": "The Indradhanush framework, announced in 2015, was exclusively a capital infusion programme for public sector banks with no governance or accountability components.",
+          "verdict": "Incorrect",
+          "reason": "Indradhanush was a 7-element reform package covering appointments (Bank Board Bureau), governance, capitalisation, de-stressing, empowerment, accountability, and gyan sangam — far broader than just capital infusion."
+        }
+      ],
+      "strong_distractor": "d — Students who know recap bonds avoid immediate cash outflow often extrapolate to 'no fiscal deficit impact,' which is incorrect. This makes the 'only Statement 1' answer feel counterintuitive.",
+      "elimination_logic": [
+        "Evaluate Statement 1: no immediate cash outflow is correct — the bonds and equity investment offset each other in the same transaction; Statement 1 is correct.",
+        "Evaluate Statement 2: recap bonds increase government debt and generate future interest obligations — they do affect fiscal deficit; Statement 2 is incorrect.",
+        "Evaluate Statement 3: Indradhanush had seven elements far beyond capital infusion — Statement 3 is incorrect.",
+        "Only Statement 1 is correct — select option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the primary trap. The assertion that recap bonds have 'no fiscal impact' is a scope-extension of the correct fact that there is no immediate cash outflow. In reality, the bonds increase government debt stock and trigger annual interest payments, both of which affect the fiscal position. Many students confuse 'no immediate cash outflow' with 'no fiscal impact' — a nuance that separates high-scorers from average performers.",
+      "final_explanation": "Bank recapitalisation through bonds was used extensively in 2017-18 and 2018-19 to shore up capital-depleted public sector banks.\n\n• Statement 1 — Correct: The recap bond mechanism is a balance-sheet transaction: government issues bonds → banks subscribe using existing liquidity → government reinvests the proceeds back into banks as equity. No net cash leaves the Consolidated Fund immediately. However, the government's liabilities increase by the bond amount.\n• Statement 2 — Incorrect: Recap bonds add to government debt. The interest payments on these bonds appear in subsequent budgets as revenue expenditure, widening the fiscal deficit over time. The claim of 'no fiscal deficit impact' is misleading.\n• Statement 3 — Incorrect: Indradhanush (August 2015) had seven pillars: Appointments (Bank Board Bureau), Bank Board Bureau, Capitalisation, De-stressing, Empowerment, Accountability, and Gyan Sangam. It was a comprehensive governance and reform framework, not a pure capital infusion exercise.\n\nValue Addition:\n• Basel III requires Indian banks to maintain a Minimum Capital Conservation Buffer of 2.5% above the minimum CRAR.\n• Gyan Sangam was an annual retreat of PSB leaders and government officials launched under Indradhanush.\n• The Bank Board Bureau (now Bank Investment Company concept) emerged from Indradhanush to professionalise PSB boards."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about bank recapitalisation in India:\n\n1. When the government issues recapitalisation bonds to public sector banks, there is no immediate cash outflow from the government's Consolidated Fund — the transaction is a simultaneous asset (government bonds) and liability (equity) exchange.\n2. Recapitalisation bonds have no impact on India's fiscal deficit because they do not involve actual government expenditure.\n3. The Indradhanush framework, announced in 2015, was exclusively a capital infusion programme for public sector banks with no governance or accountability components.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f2eb1db4-6c41-4a56-ac5f-debf74a86be7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "One-Time Settlement (OTS) and Compromise Settlement Schemes"
+      ],
+      "subject_que_no": 4458,
+      "overall_que_no": 11805
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "RBI 2023 compromise settlement circular — wilful defaulters",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who associate wilful defaulters with absolute prohibitions on settlement (a long-standing regulatory presumption before the 2023 circular) will select option (a), unaware of the 2023 policy reversal.",
+      "elimination_logic": [
+        "Recall that RBI's June 2023 circular was specifically notable for allowing compromise settlements even for wilful defaulters — a departure from earlier practice.",
+        "Eliminate option (a): the 2023 circular explicitly permitted settlements with wilful defaulters, subject to cooling-off and debarment conditions.",
+        "Eliminate option (b): the circular imposed post-settlement debarment conditions to address moral hazard — it was not an unconditioned permission.",
+        "Eliminate option (d): the circular applied to both wilful and non-wilful defaulters — it was not restricted to accounts below ₹10 crore.",
+        "Option (c) correctly captures the controversy: allowing settlements with wilful defaulters while attaching debarment provisions — select (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap exploits the pre-2023 regulatory presumption that wilful defaulters were categorically excluded from compromise settlements. Students who studied NPA regulations before the June 2023 circular will confidently select option (a), unaware of the policy reversal. The 2023 circular is a recent development designed to pragmatically recover value from fully-provisioned accounts while attaching post-settlement debarment safeguards.",
+      "final_explanation": "RBI's June 2023 circular on compromise settlements was a significant policy development that attracted considerable debate.\n\n• Option (a) — Incorrect: The June 2023 circular explicitly permitted banks to enter compromise settlements with wilful defaulters — overturning the prior practice of categorical exclusion. This was the most controversial aspect of the circular.\n• Option (b) — Incorrect: The circular was not unconditional. It required banks to attach cooling-off periods and post-settlement debarment from institutional credit for wilful defaulters, to reduce moral hazard.\n• Option (c) — Correct: The circular permitted compromise settlements for wilful defaulters subject to post-settlement debarment conditions — balancing pragmatic asset recovery with deterrence.\n• Option (d) — Incorrect: The circular applied to all NPA accounts eligible for settlement, not just those below ₹10 crore. There is no such monetary ceiling in the 2023 framework.\n\nValue Addition:\n• Moral hazard concern: critics argued the circular incentivises strategic default by signalling that eventual negotiated settlements are available.\n• The debarment condition prevents wilful defaulters who settle from accessing new bank credit for a specified period.\n• OTS differs from IBC resolution in that it is a bilateral bank-borrower negotiation without judicial supervision."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to RBI's June 2023 circular on compromise settlements, which one of the following statements is correct?\n\n(a) The circular categorically prohibited banks from entering compromise settlements with borrowers classified as wilful defaulters\n(b) The circular permitted compromise settlements with wilful defaulters without any conditions, on the grounds of pragmatic recovery of stressed assets\n(c) The circular allowed compromise settlements with wilful defaulters subject to post-settlement debarment conditions to limit moral hazard\n(d) The circular restricted compromise settlements exclusively to NPA accounts with outstanding dues below ₹10 crore",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7462f936-53ce-4391-9669-4ce002496bb1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Securitisation of Assets: Process and Regulatory Framework"
+      ],
+      "subject_que_no": 4459,
+      "overall_que_no": 11806
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "Pass-through vs pay-through certificates; MRR and MHP norms",
+      "statement_analysis": [
+        {
+          "statement": "In a securitisation transaction, the concept of 'true sale' ensures that assets transferred to the Special Purpose Vehicle remain on the originating bank's balance sheet for regulatory purposes.",
+          "verdict": "Incorrect",
+          "reason": "True sale means the assets are legally and beneficially transferred out of the originator's balance sheet to the SPV — they do NOT remain on the bank's books. The whole purpose of true sale is bankruptcy remoteness and off-balance-sheet treatment."
+        },
+        {
+          "statement": "Pass-through certificates distribute both principal and interest collections proportionately to certificate holders as and when received, while pay-through certificates allow the issuer to reinvest collections and make periodic payments on a fixed schedule.",
+          "verdict": "Correct",
+          "reason": "This is the standard distinction: PTCs pass cash flows through immediately on receipt, while pay-through structures allow the SPV to hold and reinvest collections before distributing on a predetermined schedule."
+        },
+        {
+          "statement": "RBI's Minimum Retention Requirement mandates that the originating bank retain a portion of each securitised pool to ensure that it has a continuing economic interest in the quality of the underlying assets.",
+          "verdict": "Correct",
+          "reason": "MRR is specifically designed to prevent the originate-to-distribute moral hazard — the originator must retain skin-in-the-game, aligning its incentives with investors in the securitised pool."
+        }
+      ],
+      "strong_distractor": "c — Students who know the true sale concept but confuse its purpose (removing assets from balance sheet) with regulatory capital treatment may select option (c), thinking some form of retention occurs.",
+      "elimination_logic": [
+        "Evaluate Statement 1: true sale removes assets from the originator's balance sheet entirely — the claim that assets 'remain on the bank's balance sheet' is the opposite of what true sale achieves; Statement 1 is incorrect.",
+        "Evaluate Statement 2: the PTC vs. pay-through distinction regarding cash flow timing is accurately described — Statement 2 is correct.",
+        "Evaluate Statement 3: MRR as a skin-in-the-game mechanism is correctly described — Statement 3 is correct.",
+        "Only Statement 1 is incorrect — select option (a)."
+      ],
+      "upsc_trap_explanation": "The conflation trap in Statement 1 merges 'true sale' (off-balance-sheet) with 'regulatory retention' (Minimum Retention Requirement). A student who has read about MRR may think the assets remain somehow connected to the bank, confusing the retention of economic interest in the pool with the assets themselves remaining on the balance sheet. True sale and MRR are separate concepts operating at different levels.",
+      "final_explanation": "Securitisation converts illiquid loan assets into tradable securities, redistributing credit risk from originating banks to capital market investors.\n\n• Statement 1 — Incorrect: True sale is the foundational legal concept that transfers assets out of the originator's balance sheet to the SPV completely. Post-transfer, the assets are bankruptcy-remote from the originator. Claiming they 'remain on the bank's balance sheet' contradicts the entire purpose of true sale.\n• Statement 2 — Correct: PTCs channel cash flows directly to certificate holders as collections arrive; pay-through structures allow reinvestment and make scheduled payments — a meaningful structural distinction affecting investor risk profiles.\n• Statement 3 — Correct: MRR ensures the originating bank retains economic exposure to the pool, preventing the originate-to-distribute problem where banks had no incentive to assess credit quality — a lesson from the 2008 global financial crisis.\n\nValue Addition:\n• Minimum Holding Period (MHP) complements MRR — loans must be held by the originator for a minimum period before securitisation to demonstrate genuine credit assessment.\n• Credit enhancement mechanisms (overcollateralisation, subordination tranches) improve the credit rating of senior PTCs.\n• RBI regulates securitisation of bank loans; SEBI regulates securitised debt instruments listed on exchanges."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about securitisation of assets by banks:\n\n1. In a securitisation transaction, the concept of 'true sale' ensures that assets transferred to the Special Purpose Vehicle remain on the originating bank's balance sheet for regulatory purposes.\n2. Pass-through certificates distribute both principal and interest collections proportionately to certificate holders as and when received, while pay-through certificates allow the issuer to reinvest collections and make periodic payments on a fixed schedule.\n3. RBI's Minimum Retention Requirement mandates that the originating bank retain a portion of each securitised pool to ensure that it has a continuing economic interest in the quality of the underlying assets.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a092c2f1-56c8-4286-8246-407be3e5e629",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBBI (Insolvency and Bankruptcy Board of India): Powers and Jurisdiction",
+        "Insolvency and Bankruptcy Code (IBC), 2016: Corporate Insolvency Resolution Process (CIRP)"
+      ],
+      "subject_que_no": 4460,
+      "overall_que_no": 11807
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "IBBI vs. NCLT vs. DRT jurisdictional boundaries",
+      "statement_analysis": [
+        {
+          "statement": "IBBI (Insolvency and Bankruptcy Board of India) serves as the adjudicating authority for corporate insolvency cases, with powers to admit or reject CIRP applications.",
+          "verdict": "Incorrect",
+          "reason": "NCLT is the adjudicating authority for corporate insolvency; IBBI is the regulatory oversight body for insolvency professionals, IPAs, and information utilities — it does not adjudicate individual CIRP cases."
+        },
+        {
+          "statement": "DRTs serve as the adjudicating authority for insolvency proceedings involving individuals and partnership firms under the IBC framework.",
+          "verdict": "Correct",
+          "reason": "Under IBC, NCLT handles corporate persons (companies, LLPs), while DRT is designated as the adjudicating authority for individuals and partnership firms."
+        },
+        {
+          "statement": "IBBI has quasi-judicial powers including the authority to conduct investigations, impose penalties, and debar insolvency professionals — functions distinct from NCLT's adjudicatory role.",
+          "verdict": "Correct",
+          "reason": "IBBI regulates the insolvency ecosystem and exercises quasi-judicial disciplinary powers over registered insolvency professionals, distinct from NCLT's case-specific adjudication role."
+        },
+        {
+          "statement": "India has adopted the UNCITRAL Model Law on Cross-Border Insolvency and operationalised it through the IBC framework.",
+          "verdict": "Incorrect",
+          "reason": "As of the current knowledge base, India has not yet fully adopted and operationalised the UNCITRAL Model Law on Cross-Border Insolvency — it remains under discussion and development within the IBC framework."
+        }
+      ],
+      "strong_distractor": "c — Students familiar with IBBI's prominence in the IBC ecosystem may assume it has both regulatory and adjudicatory functions, making 'Only three' plausible if they incorrectly credit Statement 1.",
+      "elimination_logic": [
+        "Statement 1: IBBI is a regulator, not an adjudicating authority — NCLT adjudicates CIRP applications; Statement 1 is incorrect.",
+        "Statement 2: DRT is correctly identified as the adjudicating authority for individual/partnership insolvency under IBC — Statement 2 is correct.",
+        "Statement 3: IBBI's quasi-judicial disciplinary powers over insolvency professionals are accurately described — Statement 3 is correct.",
+        "Statement 4: India has not fully adopted the UNCITRAL Model Law on Cross-Border Insolvency — Statement 4 is incorrect.",
+        "Two statements (2 and 3) are correct — select option (b): Only two."
+      ],
+      "upsc_trap_explanation": "Statement 1 is the primary entity-swap trap: students who know IBBI as the apex body for insolvency regulation often conflate its regulatory/quasi-judicial role with the adjudicatory role played by NCLT. IBBI sets rules, registers professionals, and disciplines them — it does not admit or reject CIRP applications. That power rests exclusively with NCLT.",
+      "final_explanation": "The IBC framework distributes functions across multiple institutions — IBBI (regulator), NCLT (corporate adjudicator), DRT (individual adjudicator), and Resolution Professionals (process managers).\n\n• Statement 1 — Incorrect: NCLT, not IBBI, is the adjudicating authority for CIRP. IBBI's role is regulatory — it oversees insolvency professionals, information utilities, and IPAs.\n• Statement 2 — Correct: IBC designates DRT as the adjudicating authority for insolvency of individuals and partnership firms, while NCLT handles corporate persons (companies and LLPs).\n• Statement 3 — Correct: IBBI's quasi-judicial powers include investigation and disciplinary action against registered insolvency professionals — a regulatory function independent of case adjudication.\n• Statement 4 — Incorrect: While India has been developing a cross-border insolvency framework based on the UNCITRAL Model Law, it has not yet been fully adopted into IBC through legislation.\n\nOnly Statements 2 and 3 are correct — answer is 'Only two.'\n\nValue Addition:\n• NCLT benches are located across major cities; NCLAT is the appellate authority above NCLT for IBC matters.\n• Information Utilities (IUs) maintain financial information databases — NESL (National E-Governance Services Ltd) is the first registered IU.\n• Insolvency Professional Agencies (IPAs) regulate IPs similarly to how bar councils regulate lawyers."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the institutional framework under the Insolvency and Bankruptcy Code, 2016:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "IBBI (Insolvency and Bankruptcy Board of India) serves as the adjudicating authority for corporate insolvency cases, with powers to admit or reject CIRP applications."
+          ],
+          [
+            "2",
+            "DRTs serve as the adjudicating authority for insolvency proceedings involving individuals and partnership firms under the IBC framework."
+          ],
+          [
+            "3",
+            "IBBI has quasi-judicial powers including the authority to conduct investigations, impose penalties, and debar insolvency professionals — functions distinct from NCLT's adjudicatory role."
+          ],
+          [
+            "4",
+            "India has adopted the UNCITRAL Model Law on Cross-Border Insolvency and operationalised it through the IBC framework."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "af37ff9b-1b36-4b5e-9fcc-301cd60ace0f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Pre-packaged Insolvency Resolution Process (PIRP) for MSMEs"
+      ],
+      "subject_que_no": 4461,
+      "overall_que_no": 11808
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "PIRP debtor-in-possession vs. CIRP creditor-in-control",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who correctly identify both A and R as true will assume the causal link holds, since the debtor-in-possession feature does seem related to MSME suitability. The trap is that R states a partially different rationale.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. PIRP is a debtor-in-possession model: the promoter/management retains control during the resolution process, unlike CIRP where a Resolution Professional takes over management.",
+        "Step 2: Is Reason (R) correct? — No. R states that PIRP requires CoC approval before the process is formally admitted by NCLT. In fact, the base resolution plan is submitted upfront by the debtor before CoC evaluation; NCLT admission does not require prior CoC approval — the CoC evaluates the plan after admission. R misrepresents the procedural sequence.",
+        "Step 3: Since R is incorrect, the answer must be option (c) — A is correct but R is incorrect.",
+        "Confirm: correct_option is 'c' — A correct, R incorrect."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap in R misrepresents the PIRP procedural sequence. In PIRP, the debtor submits a base resolution plan before or alongside the CIRP application to NCLT — the plan is not evaluated by CoC before NCLT admission. Students who recall that PIRP involves upfront plan submission may confuse this with 'CoC approval before NCLT admission,' which is incorrect. R sounds procedurally plausible because CoC involvement is indeed central to PIRP, but the sequence stated is wrong.",
+      "final_explanation": "PIRP was introduced in April 2021 specifically for MSMEs as a faster, less disruptive alternative to CIRP.\n\nAssertion (A) is correct: PIRP operates on a debtor-in-possession model. Unlike CIRP where the IRP/RP displaces existing management, PIRP allows promoters to remain in control while resolution proceeds. This is appropriate for MSMEs where management continuity is critical to preserving going-concern value.\n\nReason (R) is incorrect: R claims that PIRP requires CoC approval before NCLT formally admits the application. This is procedurally inaccurate. In PIRP, the debtor submits a base resolution plan to creditors before filing — but NCLT admission is not conditional on prior CoC approval. After admission, the CoC evaluates the base plan and either accepts it or subjects it to a Swiss challenge (open bidding process). The causal sequence in R is reversed.\n\nCorrect answer: (c) — A is correct but R is incorrect.\n\nValue Addition:\n• Swiss challenge mechanism: if CoC rejects the debtor's base plan, third-party applicants can submit competing plans, but must first match or better the base plan's terms.\n• PIRP's 120-day timeline is significantly shorter than CIRP's 330-day outer limit.\n• Only MSMEs (as defined under MSMED Act) with defaults up to ₹1 crore are eligible for PIRP."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Pre-packaged Insolvency Resolution Process (PIRP) for MSMEs follows a debtor-in-possession model, allowing existing promoters and management to retain control of the enterprise throughout the resolution period.\n\nReason (R): Under PIRP, the Committee of Creditors must formally approve the base resolution plan before the National Company Law Tribunal admits the application for initiation of the process.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "aa924ed1-a9d8-4401-ab05-d581c76bcb3f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Financial Creditors vs. Operational Creditors under IBC"
+      ],
+      "subject_que_no": 4462,
+      "overall_que_no": 11809
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Homebuyers as financial creditors — IBC amendment timeline",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know the Supreme Court's homebuyer judgment came before the formal amendment may select option (b), confusing the judicial recognition with the legislative amendment sequence.",
+      "elimination_logic": [
+        "Identify the sequence of key IBC amendments and judicial milestones: IBC enactment (2016) → Section 29A introduction (2017 amendment) → homebuyers recognised as financial creditors (2018 amendment) → minimum default threshold raised to ₹1 crore (2020 amendment).",
+        "Eliminate options placing the ₹1 crore threshold change before the homebuyer amendment — the 2020 amendment postdates the 2018 homebuyer amendment.",
+        "Eliminate options placing Section 29A introduction after homebuyers' recognition — Section 29A came in the 2017 amendment, before the 2018 homebuyer change.",
+        "The correct sequence is: IBC enactment (2016) → Section 29A (2017) → Homebuyers as financial creditors (2018) → ₹1 crore threshold (2020) — select option (d)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap lies in the homebuyer versus threshold sequencing. The 2018 homebuyer amendment and the 2020 threshold amendment are two distinct legislative changes separated by two years. Students who associate both with 'recent IBC amendments' may incorrectly sequence them. Additionally, confusing the Supreme Court's direction to treat homebuyers as financial creditors (prior judicial interpretation) with the formal legislative amendment creates further chronological confusion.",
+      "final_explanation": "The IBC has been amended multiple times since its enactment to address emerging issues and Supreme Court interpretations.\n\nCorrect chronological sequence:\n1. IBC enacted (May 2016) — established the foundational insolvency framework\n2. Section 29A inserted (IBC Amendment, November 2017) — introduced ineligibility criteria for resolution applicants, including wilful defaulters and promoters of NPA accounts\n3. Homebuyers recognised as financial creditors (IBC Amendment Act, August 2018) — homebuyers in real estate projects were classified as financial creditors, enabling CoC participation\n4. Minimum default threshold raised to ₹1 crore (March 2020) — raised from ₹1 lakh to provide COVID-19 relief to MSMEs and reduce NCLT burden\n\nWhy wrong options fail: Options (a) and (c) invert the Section 29A–homebuyer sequence. Option (b) places the threshold change before the homebuyer amendment — reversing two clearly distinct legislative years.\n\nValue Addition:\n• The homebuyer amendment followed the Supreme Court's direction in Pioneer Urban Land case (2019), though the legislative amendment preceded the final judgment.\n• Section 29A's lookback period for NPA accounts was clarified in the ArcelorMittal case (2018).\n• The 2021 amendment introduced PIRP for MSMEs as a fifth major IBC legislative development."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological order of key developments in India's insolvency framework under the Insolvency and Bankruptcy Code?\n\n1. Enactment of the Insolvency and Bankruptcy Code\n2. Introduction of Section 29A providing ineligibility criteria for resolution applicants\n3. Recognition of homebuyers as financial creditors through a legislative amendment\n4. Raising of the minimum default threshold for triggering CIRP to ₹1 crore\n\n(a) 1 → 3 → 2 → 4\n(b) 1 → 2 → 4 → 3\n(c) 1 → 3 → 4 → 2\n(d) 1 → 2 → 3 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "52cef41c-ec82-4d39-8558-017759ab4e5b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "NPA Classification: Categories and Time Thresholds",
+        "Provisioning Norms for NPAs"
+      ],
+      "subject_que_no": 4463,
+      "overall_que_no": 11810
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Doubtful asset classification and provisioning thresholds",
+      "statement_analysis": null,
+      "strong_distractor": "c — Candidates who correctly identify the asset as 'Doubtful' may select option (c) citing 100% provisioning, which applies to Doubtful-III (beyond 3 years in doubtful category) and Loss assets — not Doubtful-I.",
+      "elimination_logic": [
+        "Identify classification: the account has been NPA for 12 months, then sub-standard for 12 months, meaning it has now been in the doubtful category for less than 12 months — this is a Doubtful-I asset.",
+        "Eliminate option (a): Sub-standard classification applies within the first 12 months of NPA — this account has crossed that threshold.",
+        "Eliminate option (c): 100% provisioning applies to Doubtful-III (beyond 3 years in doubtful) and Loss assets — not Doubtful-I.",
+        "Eliminate option (d): Loss classification requires specific identification of unrecoverable amounts — not automatic at 24 months NPA.",
+        "Doubtful-I (up to 1 year in doubtful category) with 25% provisioning for secured exposure correctly describes this account — select option (b)."
+      ],
+      "upsc_trap_explanation": "The trap exploits partial recall of provisioning rates. Students who know 100% provisioning is associated with 'doubtful assets' (true for Doubtful-III) but miss the three-tier Doubtful sub-classification will select option (c). Doubtful-I, Doubtful-II, and Doubtful-III carry 25%, 40%, and 100% provisioning respectively for secured exposures — a three-level structure that is frequently confused in examinations.",
+      "final_explanation": "A bank's loan to a manufacturing company became an NPA 24 months ago. It was classified as Sub-standard for the first 12 months, and it has now been in the Doubtful category for approximately 12 months (just entering the Doubtful-I bracket).\n\nApplicable classification: Doubtful-I\nAn asset is classified as Doubtful once it has remained Sub-standard for 12 months. Within the Doubtful category, further sub-classification depends on the time spent in Doubtful status: D-I (up to 1 year), D-II (1–3 years), D-III (beyond 3 years).\n\nApplicable provisioning: 25% for secured, 100% for unsecured (Doubtful-I)\n\nWhy each option fails:\n• Option (a): Sub-standard classification and 15% provisioning applied in the first 12 months as NPA — that period has passed.\n• Option (b): Correct — Doubtful-I with 25% provisioning for the secured portion.\n• Option (c): 100% provisioning is required at Doubtful-III (beyond 3 years in doubtful) — not at Doubtful-I.\n• Option (d): Loss asset classification requires the bank or RBI auditors to identify the account as wholly unrecoverable — it is not automatic at any time threshold alone.\n\nValue Addition:\n• Provision Coverage Ratio (PCR) = provisioning/gross NPA; RBI minimum is 70%.\n• The asset quality review (AQR) of 2015-16 forced banks to reclassify many evergreened accounts into appropriate NPA categories.\n• Once classified as Loss, continued holding of the asset must be justified — banks are encouraged to write off Loss assets against provisions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A bank extended a secured term loan to a manufacturing company. The loan became overdue 24 months ago and was declared a Non-Performing Asset at that point. For the first 12 months as an NPA, it was classified as Sub-standard. It has since remained in the next classification stage for approximately 12 months and is backed by collateral valued above the outstanding loan amount.\n\nWhich of the following correctly identifies the current classification of this loan and the applicable provisioning requirement?\n\n(a) Sub-standard asset requiring 15% provisioning, since the account has not been NPA for more than 18 months\n(b) Doubtful-I asset requiring 25% provisioning on the secured portion of the exposure\n(c) Doubtful asset requiring 100% provisioning, since all assets classified as Doubtful require full provisioning regardless of collateral\n(d) Loss asset requiring 100% provisioning, since an account that has been NPA for 24 months must be fully written off",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "18ca9899-14af-4003-bea4-8bf979f7c07a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "SARFAESI Act, 2002: Scope and Limitations",
+        "Debt Recovery Tribunals (DRTs) and Debt Recovery Appellate Tribunals (DRATs)"
+      ],
+      "subject_que_no": 4464,
+      "overall_que_no": 11811
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "SARFAESI vs. DRT — jurisdictional interface",
+      "statement_analysis": [
+        {
+          "statement": "A borrower against whom a bank has initiated enforcement proceedings under the SARFAESI Act can approach the Debt Recovery Tribunal within 45 days to challenge the bank's action, and the DRT has the power to stay the enforcement if it finds merit in the borrower's objection.",
+          "verdict": "Correct",
+          "reason": "Section 17 of SARFAESI provides a 45-day window for borrowers to approach DRT, and DRT is empowered to examine the validity of the bank's action and grant interim relief including stay of enforcement."
+        },
+        {
+          "statement": "SARFAESI proceedings and DRT recovery proceedings are mutually exclusive — once a bank initiates action under SARFAESI, it cannot simultaneously pursue recovery through DRT for the same debt.",
+          "verdict": "Incorrect",
+          "reason": "Banks can simultaneously pursue SARFAESI enforcement and DRT proceedings; the two mechanisms are not mutually exclusive and can run in parallel for the same debt — SARFAESI typically covers the secured portion while DRT may cover the shortfall."
+        }
+      ],
+      "strong_distractor": "a — Students who know that SARFAESI and DRT both deal with NPA recovery may assume they are alternative, mutually exclusive mechanisms and incorrectly affirm Statement 2.",
+      "elimination_logic": [
+        "Evaluate Statement 1: the 45-day DRT appeal under SARFAESI Section 17 with stay powers is a well-established procedural fact — Statement 1 is correct.",
+        "Evaluate Statement 2: SARFAESI and DRT proceedings are not mutually exclusive; banks routinely use both simultaneously — Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 2 adds the word 'mutually exclusive,' converting a plausible parallel-proceedings situation into an absolute prohibition. Students who vaguely recall that SARFAESI 'bypasses' courts may extrapolate that it also displaces DRT proceedings — which is incorrect. SARFAESI was designed to complement rather than replace DRT-based recovery.",
+      "final_explanation": "SARFAESI Act and DRT proceedings are two distinct but complementary NPA recovery mechanisms that can operate simultaneously.\n\n• Statement 1 — Correct: Section 17 of SARFAESI provides the borrower a 45-day window to approach DRT to challenge the secured creditor's enforcement action. DRT can examine procedural compliance and grant stays — this is the primary judicial check on SARFAESI's otherwise summary enforcement powers.\n• Statement 2 — Incorrect: The claim of 'mutual exclusivity' has no statutory basis. In practice, banks often simultaneously enforce security under SARFAESI for the collateralised portion and pursue DRT proceedings for any unsecured balance or shortfall after security realisation. The two proceedings address different aspects of the same debt.\n\nValue Addition:\n• The 60-day demand notice sent by the bank under SARFAESI Section 13(2) must precede enforcement — the borrower can respond within 15 days, and the bank must consider the response before proceeding.\n• DRAT (Debt Recovery Appellate Tribunal) hears appeals against both DRT orders under RDDBFI Act and SARFAESI-related DRT orders.\n• Sarfaesi allows banks to take possession, sell, or manage secured assets — three distinct enforcement routes."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the interface between SARFAESI Act proceedings and Debt Recovery Tribunal proceedings:\n\nStatement 1: A borrower against whom a bank has initiated enforcement proceedings under the SARFAESI Act can approach the Debt Recovery Tribunal within 45 days to challenge the bank's action, and the DRT has the power to stay the enforcement if it finds merit in the borrower's objection.\n\nStatement 2: SARFAESI proceedings and DRT recovery proceedings are mutually exclusive — once a bank initiates action under SARFAESI, it cannot simultaneously pursue recovery through DRT for the same debt.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "15d6cc3b-e798-4a76-8ab1-b3394b97e122",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBC: Committee of Creditors (CoC) and Voting Thresholds"
+      ],
+      "subject_que_no": 4465,
+      "overall_que_no": 11812
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Related party financial creditors excluded from CoC voting",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know operational creditors are excluded from CoC voting select option (a), confusing two distinct exclusion rules: operational creditors (excluded from membership) and related-party financial creditors (excluded from voting but may attend).",
+      "elimination_logic": [
+        "The blank refers to a category that can attend CoC meetings but cannot cast votes — this rules out operational creditors (who cannot even attend as members) and Resolution Professionals (who manage the process, not vote).",
+        "Recall the 2021 IBC amendment: related-party financial creditors were restricted from voting in CoC meetings to prevent conflict-of-interest in resolution decisions.",
+        "Related-party financial creditors may attend for informational purposes but are barred from voting — this matches the blank's description precisely.",
+        "Select option (b): related-party financial creditors."
+      ],
+      "upsc_trap_explanation": "The trap exploits the distinction between two exclusion regimes: operational creditors are excluded from CoC membership entirely, while related-party financial creditors can attend CoC meetings but cannot vote. Students who recall 'exclusion from CoC' associate it with operational creditors and overlook the more nuanced related-party restriction introduced by the 2021 amendment.",
+      "final_explanation": "The IBC framework has evolved to address conflict-of-interest risks within the CoC through successive amendments.\n\n• Option (a) — Incorrect: Operational creditors are excluded from CoC membership entirely — they cannot attend or vote. The blank describes an entity that can attend but not vote, which is a different category.\n• Option (b) — Correct: Related-party financial creditors (financial creditors who are connected parties of the corporate debtor, such as promoter-affiliated lenders) were restricted from voting in CoC meetings through a 2021 IBC amendment. They may attend for informational purposes but cannot influence resolution decisions through voting.\n• Option (c) — Incorrect: Resolution Professionals manage and facilitate the CIRP process; they are not creditors and do not vote in the CoC.\n• Option (d) — Incorrect: Government bodies as unsecured creditors may have claims in insolvency but do not have CoC membership or attendance rights as a category.\n\nValue Addition:\n• The related-party restriction prevents promoters from routing funds through connected entities and then using those claims to control the CoC.\n• IBBI defines 'related party' broadly, including promoters, group companies, and persons acting in concert.\n• The 66% voting threshold for resolution plan approval is calculated on the voting share of eligible CoC members — excluding related parties."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under the Insolvency and Bankruptcy Code, 2016, as amended, ________ are permitted to attend meetings of the Committee of Creditors but are specifically prohibited from casting votes on any resolution or decision of the CoC, to prevent conflicts of interest from influencing the resolution process.\n\n(a) Operational creditors with claims above ₹1 crore\n(b) Related-party financial creditors of the corporate debtor\n(c) Resolution Professionals appointed by the CoC\n(d) Government bodies holding unsecured claims against the corporate debtor",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4017075f-9079-4f99-af08-3e05f1b255cc",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Wilful Defaulters: Definition, Consequences, and Related Controversies"
+      ],
+      "subject_que_no": 4466,
+      "overall_que_no": 11813
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Four circumstances constituting wilful default",
+      "statement_analysis": [
+        {
+          "statement": "Diversion of funds from a borrower company's accounts for purposes other than the specified end use constitutes wilful default even if the company subsequently becomes financially distressed.",
+          "verdict": "Correct",
+          "reason": "Fund diversion is one of the four defined circumstances of wilful default — the subsequent financial condition of the borrower does not extinguish the characterisation of wilful default if diversion occurred."
+        },
+        {
+          "statement": "A person classified as a wilful defaulter is automatically discharged from that status after five years, provided no criminal proceedings are pending against them.",
+          "verdict": "Incorrect",
+          "reason": "There is no automatic time-based discharge from wilful defaulter status under RBI guidelines — the classification persists until formally reviewed and removed by the lenders through prescribed processes."
+        },
+        {
+          "statement": "A wilful defaulter cannot participate as a resolution applicant in a CIRP under the Insolvency and Bankruptcy Code, regardless of whether the insolvency proceedings relate to a different entity.",
+          "verdict": "Correct",
+          "reason": "Section 29A of IBC bars wilful defaulters from being resolution applicants — the disqualification applies broadly, not just to insolvency proceedings of the defaulted entity."
+        }
+      ],
+      "strong_distractor": "d — Students may believe Statement 2 has merit because regulatory classifications in other contexts do have sunset periods, making 'all three correct' seem plausible to the partially prepared.",
+      "elimination_logic": [
+        "Evaluate Statement 1: fund diversion is explicitly the first of four wilful default circumstances — subsequent distress does not reverse it; Statement 1 is correct.",
+        "Evaluate Statement 2: RBI guidelines do not provide for automatic time-based discharge from wilful defaulter status — Statement 2 is incorrect.",
+        "Evaluate Statement 3: Section 29A's disqualification is broadly applicable — Statement 3 is correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — select option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a plausible-fabrication trap. Many regulatory frameworks include sunset clauses or periodic review mechanisms, and students may extrapolate this to wilful defaulter classifications. In reality, RBI guidelines do not provide an automatic five-year (or any time-based) discharge — the classification requires affirmative action by lenders to remove it, following specific procedural steps.",
+      "final_explanation": "RBI's Master Circular on wilful defaulters defines four circumstances constituting wilful default and attaches significant long-term consequences to such classification.\n\n• Statement 1 — Correct: The four circumstances are: (i) ability to pay but deliberate non-payment, (ii) funds diverted from specified end use, (iii) siphoning of funds from the borrower company, (iv) disposal or removal of secured assets without lender knowledge. Fund diversion (ii) applies regardless of subsequent financial condition.\n• Statement 2 — Incorrect: RBI guidelines prescribe no automatic time-based discharge from wilful defaulter status. The classification remains until lenders, through a review committee, formally remove it based on changed circumstances and settlement of dues.\n• Statement 3 — Correct: Section 29A of IBC disqualifies wilful defaulters from submitting resolution plans in any CIRP — the bar is not limited to proceedings of the defaulted entity.\n\nValue Addition:\n• Criminal proceedings under IPC Sections 403 and 415 (criminal breach of trust, cheating) can be initiated against wilful defaulters.\n• Lenders must constitute a grievance redressal committee before finalising wilful defaulter classification — due process requirement.\n• Directors of wilful defaulter companies are also individually classified, affecting their access to institutional credit."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding wilful defaulters under Indian banking regulations:\n\n1. Diversion of funds from a borrower company's accounts for purposes other than the specified end use constitutes wilful default even if the company subsequently becomes financially distressed.\n2. A person classified as a wilful defaulter is automatically discharged from that status after five years, provided no criminal proceedings are pending against them.\n3. A wilful defaulter cannot participate as a resolution applicant in a CIRP under the Insolvency and Bankruptcy Code, regardless of whether the insolvency proceedings relate to a different entity.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f339d57e-2b25-43b9-ae72-e29b010452dd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Bad Bank Model: NARCL and IDRCL",
+        "Asset Reconstruction Companies (ARCs): Structure and Functioning"
+      ],
+      "subject_que_no": 4467,
+      "overall_que_no": 11814
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "NARCL eligibility threshold ₹500 crore fully provisioned",
+      "statement_analysis": null,
+      "strong_distractor": "a — The ₹100 crore threshold appears in SARFAESI eligibility for NBFCs, making option (a) sound credible to a student who confuses ARC regulatory thresholds with NARCL eligibility.",
+      "elimination_logic": [
+        "Recall that NARCL was designed specifically for large, fully provisioned stressed assets — the threshold is ₹500 crore and above, not ₹100 crore or any other figure.",
+        "Eliminate option (a): ₹100 crore is the SARFAESI eligibility threshold for NBFCs — not the NARCL asset threshold.",
+        "Eliminate option (b): IDRCL is the management entity; NARCL is the acquisition entity — this pair is reversed.",
+        "Eliminate option (d): the government guarantee is ₹30,600 crore on Security Receipts, not on the book value of acquired assets.",
+        "Option (c) correctly pairs NARCL with the ₹500 crore minimum for fully provisioned asset eligibility — select (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges multiple regulatory thresholds associated with the NPA resolution ecosystem. The ₹100 crore figure (SARFAESI NBFC threshold), ₹500 crore (NARCL eligibility), and ₹30,600 crore (government guarantee amount) are three distinct numbers that appear in the same policy context. Students who have read about the bad bank model but not retained the specific ₹500 crore threshold will gravitate toward other plausible-sounding figures.",
+      "final_explanation": "NARCL's design parameters were specifically calibrated to address the segment of large, legacy NPAs that conventional ARCs had failed to resolve over years.\n\n• Option (a) — Incorrect: ₹100 crore is the minimum asset size threshold for NBFCs to be covered under SARFAESI — unrelated to NARCL's eligibility criteria.\n• Option (b) — Incorrect: The roles are reversed. NARCL acquires stressed assets from banks; IDRCL manages and resolves those acquired assets. Swapping their functions misrepresents the two-entity model.\n• Option (c) — Correct: NARCL is mandated to acquire fully provisioned stressed assets of ₹500 crore and above. The threshold ensures NARCL focuses on large accounts where conventional resolution has failed.\n• Option (d) — Incorrect: The government guarantee of ₹30,600 crore is specifically on the Security Receipts issued by NARCL — it is not a guarantee on the book value of assets acquired.\n\nValue Addition:\n• 'Fully provisioned' means banks have already set aside 100% of the loan amount as provisions — NARCL acquisition crystallises the loss already recognised.\n• NARCL is majority-owned by public sector banks; IDRCL is majority-owned by private sector participants.\n• The SR guarantee is invoked only if SRs are not redeemed at face value within 5 years."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched in the context of the National Asset Reconstruction Company Limited (NARCL) and India Debt Resolution Company Limited (IDRCL)?\n\n(a) NARCL eligibility threshold — stressed assets above ₹100 crore, irrespective of provisioning status\n(b) IDRCL — acquires stressed assets from banks using Security Receipts; NARCL — manages and resolves the acquired assets\n(c) NARCL eligibility — fully provisioned stressed assets of ₹500 crore and above\n(d) Government guarantee — covers the full book value of all assets acquired by NARCL up to ₹30,600 crore",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5e197f22-f070-4daf-88ca-522709c55c03",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "RBI's Prompt Corrective Action (PCA) Framework",
+        "Twin Balance Sheet Problem and its Macroeconomic Implications"
+      ],
+      "subject_que_no": 4468,
+      "overall_que_no": 11815
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "PCA framework vs. moratorium under Banking Regulation Act Section 45",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who understand that PCA is a supervisory intervention triggered by weak financial parameters may incorrectly assume that RBI's rationale for PCA (conserving capital by restricting dividends) directly explains why PCA restricts branch expansion — which is a different rationale.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. PCA restricts dividend distribution and branch expansion among other measures — these are supervisory restrictions, not a moratorium.",
+        "Step 2: Is Reason (R) correct? — Yes. PCA is indeed a supervisory framework triggered by breaches in capital, asset quality, or profitability thresholds — distinct from the moratorium under Section 45 of the Banking Regulation Act.",
+        "Step 3: Does R causally explain A? — No. A states specific restrictions (dividends, branch expansion). R explains what PCA is and its trigger basis — but R does not causally explain why those specific restrictions (dividends and branches) are imposed. The causal explanation for those restrictions is capital conservation and risk containment, not merely that PCA is a supervisory framework.",
+        "A correct + R correct + R does not explain A → select option (b)."
+      ],
+      "upsc_trap_explanation": "This is a subtle assertion-reason question where both statements are correct but the causal link is missing. R correctly characterises PCA as a supervisory framework but does not explain why dividend restrictions and branch expansion bans specifically are its chosen instruments. The actual rationale for these specific restrictions is capital conservation (limiting outflows) and risk containment (not spreading the distress) — which R does not state. Students who find both statements correct often select (a) without testing the causal adequacy of R.",
+      "final_explanation": "RBI's PCA framework is one of the most important macroprudential tools for managing systemic banking sector stress.\n\nAssertion (A) is correct: PCA imposes specific operational restrictions on weak banks including: prohibition on dividend distribution, restriction on branch expansion, cap on management compensation, and limits on credit growth. These are supervisory measures — the bank continues to function under management, unlike a moratorium.\n\nReason (R) is correct: PCA is distinct from a moratorium under Section 45 of the Banking Regulation Act, 1949. Under Section 45, RBI can supersede a bank's management and impose a moratorium, suspending its obligations to depositors temporarily. PCA does not suspend bank operations or depositor obligations.\n\nCausal link: R does NOT explain A. Knowing that PCA is a supervisory framework (not a moratorium) does not explain why its specific instruments are dividend restrictions and branch expansion bans. Those specific tools are chosen for capital conservation (dividends drain capital) and risk perimeter management (branches extend exposure) — reasons that R does not articulate.\n\nValue Addition:\n• PCA was extended to government-owned NBFCs in December 2022.\n• Banks under PCA are prohibited from entering new lines of business.\n• As of recent years, several PSBs that were under PCA (e.g., Indian Overseas Bank, UCO Bank) have been removed after improving their financial metrics."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Banks placed under RBI's Prompt Corrective Action (PCA) framework face restrictions on dividend distribution and branch expansion, but continue to operate under their existing management without suspension of obligations to depositors.\n\nReason (R): PCA is a supervisory framework activated when a bank breaches specified thresholds on capital adequacy, asset quality, or profitability, and is fundamentally distinct from the imposition of a moratorium under Section 45 of the Banking Regulation Act, 1949.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7ace7cb4-6d16-42f7-8bcf-10d52afb5370",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Insolvency and Bankruptcy Code (IBC), 2016: Corporate Insolvency Resolution Process (CIRP)"
+      ],
+      "subject_que_no": 4469,
+      "overall_que_no": 11816
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Section 14 moratorium — inclusions and exclusions",
+      "statement_analysis": [
+        {
+          "statement": "The moratorium under Section 14 of the IBC prohibits the institution of any suit or proceeding against the corporate debtor in any court or tribunal during the CIRP period.",
+          "verdict": "Correct",
+          "reason": "Section 14 expressly prohibits institution of suits and continuation of pending proceedings against the corporate debtor in any court, tribunal, or arbitration — this is a core moratorium protection."
+        },
+        {
+          "statement": "The moratorium under Section 14 of the IBC extends to personal guarantors of the corporate debtor, protecting them from recovery proceedings during the CIRP period.",
+          "verdict": "Incorrect",
+          "reason": "Section 14 moratorium applies to the corporate debtor only — it does not extend to personal guarantors, who remain exposed to recovery proceedings by lenders during the CIRP period."
+        },
+        {
+          "statement": "During the moratorium period, the corporate debtor is prohibited from paying statutory dues such as GST and provident fund contributions, as these would constitute transfers of assets.",
+          "verdict": "Incorrect",
+          "reason": "The moratorium prohibits transfer, encumbrance, or disposal of assets by the corporate debtor, but the corporate debtor is required to continue operational payments including statutory dues — regulatory compliance payments are not prohibited by Section 14."
+        }
+      ],
+      "strong_distractor": "a — Students who know the moratorium prevents 'all proceedings' may incorrectly assume it also covers guarantors, making Statement 2 appear correct when it is the incorrect one.",
+      "elimination_logic": [
+        "Evaluate Statement 1: prohibition of suits and proceedings against the corporate debtor is a core Section 14 protection — Statement 1 is correct.",
+        "Evaluate Statement 2: moratorium does not shield personal guarantors — they face separate proceedings; Statement 2 is incorrect.",
+        "Evaluate Statement 3: statutory dues payment is not barred by the moratorium; only asset transfers/encumbrances are restricted — Statement 3 is incorrect.",
+        "Statements 2 and 3 are incorrect — select option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 2 exploits the scope-extension error. The Supreme Court has explicitly held (in Lalit Kumar Jain v. Union of India, 2021) that the Section 14 moratorium does not extend to personal guarantors — lenders can pursue guarantors even while the CIRP is ongoing. Many students assume the moratorium's broad language covers all persons associated with the corporate debtor, which is incorrect.",
+      "final_explanation": "Section 14 of IBC imposes a moratorium on the corporate debtor immediately upon CIRP commencement — a critical protection to preserve the debtor as a going concern during resolution.\n\n• Statement 1 — Correct: Section 14 prohibits institution and continuation of suits, proceedings, and arbitral proceedings against the corporate debtor — this is the core of the moratorium.\n• Statement 2 — Incorrect: The moratorium protects the corporate debtor, not its personal guarantors. The Supreme Court in Lalit Kumar Jain (2021) confirmed that lenders retain the right to proceed against personal guarantors during CIRP.\n• Statement 3 — Incorrect: The moratorium bars disposal, encumbrance, or transfer of assets — it does not prohibit the corporate debtor from meeting its regular operational obligations including statutory payments (GST, PF, ESI). Suspending statutory payments would itself violate other laws.\n\nStatements 2 and 3 are NOT correct — select option (d).\n\nValue Addition:\n• Section 14 also prohibits recovery of any property by an owner or lessor where the property is occupied or in the possession of the corporate debtor.\n• The moratorium ceases on approval of a resolution plan or commencement of liquidation.\n• Supply of essential goods and services to the corporate debtor cannot be terminated during the moratorium."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the moratorium under Section 14 of the Insolvency and Bankruptcy Code, 2016:\n\n1. The moratorium under Section 14 of the IBC prohibits the institution of any suit or proceeding against the corporate debtor in any court or tribunal during the CIRP period.\n2. The moratorium under Section 14 of the IBC extends to personal guarantors of the corporate debtor, protecting them from recovery proceedings during the CIRP period.\n3. During the moratorium period, the corporate debtor is prohibited from paying statutory dues such as GST and provident fund contributions, as these would constitute transfers of assets.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1df2a11d-caf7-43b4-81b5-9ec5c269038d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Section 29A of IBC: Ineligibility of Resolution Applicants"
+      ],
+      "subject_que_no": 4470,
+      "overall_que_no": 11817
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Section 29A — promoter eligibility when NPA account resolved before CIRP bid",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know Section 29A bars promoters of NPA accounts assume the bar is absolute and select option (c), not knowing the ArcelorMittal case clarification that paying off the NPA before bid submission removes the disqualification.",
+      "elimination_logic": [
+        "Identify the applicable law: Section 29A of IBC governs resolution applicant eligibility — promoters of accounts classified as NPA for 1 year or more are prima facie disqualified.",
+        "Identify the key fact in the scenario: the promoter's related company has a separate NPA account — not the company under CIRP itself.",
+        "Recall the ArcelorMittal judgment: the Supreme Court held that if the disqualifying NPA account is paid off/regularised before the resolution plan is submitted, the disqualification under Section 29A is cured.",
+        "Eliminate option (c): the bar is not unconditional and absolute — payment of the NPA before submission cures the disqualification.",
+        "Eliminate option (a): mere disclosure does not cure the disqualification; actual payment of the NPA account does.",
+        "Eliminate option (d): Section 29A applies to corporate insolvency proceedings including CIRP — it does not exempt promoters based on the sector.",
+        "Option (b) correctly applies the ArcelorMittal principle — select (b)."
+      ],
+      "upsc_trap_explanation": "The trap exploits the common assumption that Section 29A's disqualification is absolute and permanent. The ArcelorMittal judgment introduced the nuance that a promoter disqualified due to a related NPA account can cure the disqualification by paying off that NPA account in full before submitting the resolution plan. Students who know the general disqualification but not this specific judicial gloss will select option (c).",
+      "final_explanation": "Section 29A creates a threshold-based ineligibility framework to prevent defaulting promoters from regaining control of stressed assets at discounted prices through the resolution process.\n\nScenario analysis: The promoter seeking to submit a resolution plan has a separate corporate entity with an NPA classified for over 12 months. Under Section 29A(c), such a promoter is prima facie disqualified.\n\nHowever, the ArcelorMittal and Essar Steel (2019) judgment established a critical qualification: if the resolution applicant makes payment of the outstanding amount of the NPA account (the separate entity's account) before submitting the resolution plan, the disqualification is cured. This prevents a windfall but allows genuine turnaround investors to participate.\n\nWhy each option fails:\n• Option (a): Mere disclosure does not cure Section 29A disqualification — active payment is required.\n• Option (b): Correct — if the promoter pays off the related NPA account before submitting the plan, the disqualification under Section 29A is removed.\n• Option (c): The bar is not unconditional; the ArcelorMittal ruling provides the cure mechanism.\n• Option (d): Section 29A applies across sectors — no manufacturing exemption exists.\n\nValue Addition:\n• Section 29A(j) defines 'connected person' broadly to prevent indirect circumvention via shell entities.\n• The 'lookback period' for NPA classification under Section 29A was debated extensively in ArcelorMittal — the court held it applies at the time of plan submission.\n• Section 240A of IBC exempts MSMEs from certain Section 29A restrictions to allow promoter-led resolution."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A private equity investor who controls a manufacturing company with a loan account classified as NPA for the past 18 months seeks to submit a resolution plan for an unrelated infrastructure company undergoing CIRP. The investor is otherwise financially capable and has identified a viable turnaround plan for the infrastructure company. The investor's counsel advises that the NPA classification of the manufacturing company's loan may create a statutory disqualification.\n\nWhich of the following best describes the legal position of the investor's eligibility to submit the resolution plan?\n\n(a) The investor can participate by disclosing the NPA status in the resolution plan, with the Committee of Creditors having discretion to waive the disqualification\n(b) The investor is initially disqualified under Section 29A but can cure the disqualification by paying off the NPA account of the manufacturing company before submitting the resolution plan\n(c) The investor is unconditionally and permanently barred from submitting any resolution plan as long as any connected entity holds an NPA account, regardless of payment\n(d) Section 29A disqualification does not apply to investors seeking to resolve infrastructure companies as the provision exempts cross-sector resolution applicants",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "173ed79f-701c-4a82-b119-03d2eee81aff",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "NPA Classification: Categories and Time Thresholds",
+        "Provisioning Norms for NPAs",
+        "SARFAESI Act, 2002: Scope and Limitations",
+        "Debt Recovery Tribunals (DRTs) and Debt Recovery Appellate Tribunals (DRATs)",
+        "Insolvency and Bankruptcy Code (IBC), 2016: Corporate Insolvency Resolution Process (CIRP)"
+      ],
+      "subject_que_no": 4471,
+      "overall_que_no": 11818
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Recovery mechanisms and their statutory thresholds",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) incorrectly pairs the SARFAESI loan threshold with the DRT minimum claim, which are the two most easily confused threshold figures in the NPA resolution ecosystem.",
+      "elimination_logic": [
+        "Match A (90-day overdue norm): this is the NPA classification threshold under RBI's IRAC norms — matches Item 3.",
+        "Match B (₹20 lakh minimum claim): DRTs exercise jurisdiction only over claims above ₹20 lakh under RDDBFI Act — matches Item 2.",
+        "Match C (₹1 crore minimum default): CIRP under IBC can be triggered for defaults of ₹1 crore or more (post-2020) — matches Item 4.",
+        "Match D (loan above ₹1 lakh, security interest required): SARFAESI threshold conditions — matches Item 1.",
+        "Correct combination: A-3, B-2, C-4, D-1 — select option (b)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap operates between the SARFAESI threshold (₹1 lakh) and the DRT threshold (₹20 lakh). These are two different thresholds in the same recovery ecosystem and are frequently conflated. Option (a) swaps them — presenting ₹20 lakh as the SARFAESI threshold and ₹1 lakh as the DRT minimum. Students who have not retained both figures precisely will select the swapped version.",
+      "final_explanation": "Each NPA resolution mechanism operates above a specific threshold — these figures are frequently tested in UPSC examinations.\n\nCorrect pairings:\n• A–3: The 90-day overdue norm is RBI's universal NPA classification trigger under IRAC norms. An account overdue for more than 90 days becomes an NPA.\n• B–2: DRT jurisdiction under RDDBFI Act, 1993 is exercisable only for claims of ₹20 lakh or above — claims below this go to civil courts.\n• C–4: The minimum default threshold for triggering CIRP under IBC was raised to ₹1 crore in March 2020 from the original ₹1 lakh.\n• D–1: SARFAESI applies to loans above ₹1 lakh where the outstanding NPA exceeds 20% of principal+interest and where a security interest has been created.\n\nTrap pairings to avoid: The ₹1 lakh and ₹20 lakh figures are easily swapped — SARFAESI's ₹1 lakh threshold (loan minimum) is distinct from DRT's ₹20 lakh (claim minimum).\n\nValue Addition:\n• SARFAESI's ₹1 lakh is the floor for the underlying loan, not the NPA amount — separate from the 20% NPA threshold condition.\n• The ₹1 crore CIRP threshold was introduced specifically to reduce NCLT's caseload and protect MSMEs during COVID-19.\n• For PIRP (MSME pre-pack), the maximum default threshold is ₹1 crore — it coincides with CIRP's minimum."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (threshold/criterion) with List II (the resolution/recovery mechanism to which it applies):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. 90-day overdue norm",
+            "1. SARFAESI Act, 2002 — condition for enforcement of security interest"
+          ],
+          [
+            "B. Minimum claim of ₹20 lakh",
+            "2. Debt Recovery Tribunal — jurisdictional threshold"
+          ],
+          [
+            "C. Minimum default of ₹1 crore",
+            "3. RBI's IRAC norms — NPA classification trigger"
+          ],
+          [
+            "D. Loan above ₹1 lakh with security interest",
+            "4. IBC CIRP — minimum default for initiation (post-2020)"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-2, B-1, C-4, D-3\n(b) A-3, B-2, C-4, D-1\n(c) A-3, B-4, C-2, D-1\n(d) A-1, B-3, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3a27f7ae-9103-4e2b-abd2-8c1330ba0a8c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Pre-packaged Insolvency Resolution Process (PIRP) for MSMEs",
+        "Insolvency and Bankruptcy Code (IBC), 2016: Corporate Insolvency Resolution Process (CIRP)"
+      ],
+      "subject_que_no": 4472,
+      "overall_que_no": 11819
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "PIRP vs. CIRP — debtor-in-possession, Swiss challenge, timeline",
+      "statement_analysis": [
+        {
+          "statement": "In a Pre-packaged Insolvency Resolution Process (PIRP), the existing management of the MSME retains control of business operations throughout the resolution period, unlike in CIRP where the Resolution Professional takes over management.",
+          "verdict": "Correct",
+          "reason": "PIRP is a debtor-in-possession model — existing promoters/management remain in place. This is the fundamental structural difference from CIRP's creditor-in-control model."
+        },
+        {
+          "statement": "PIRP is available to all corporate debtors regardless of their size, provided the default amount does not exceed ₹1 crore.",
+          "verdict": "Incorrect",
+          "reason": "PIRP is available only to MSMEs (as defined under the MSMED Act, 2006) — it is not available to all corporate debtors. The ₹1 crore default ceiling is correct, but the class eligibility is restricted to MSMEs."
+        },
+        {
+          "statement": "Under PIRP, if the Committee of Creditors rejects the base resolution plan submitted by the debtor, a Swiss challenge process is initiated, allowing third-party applicants to submit competing plans.",
+          "verdict": "Correct",
+          "reason": "This is the distinctive Swiss challenge mechanism of PIRP — if the CoC finds the debtor's base plan unsatisfactory, it can invite third-party bids, which must match or better the terms of the rejected base plan."
+        }
+      ],
+      "strong_distractor": "d — Students who correctly identify Statements 1 and 3 as true may include Statement 2 if they recall only the ₹1 crore ceiling without noticing the MSME-only eligibility restriction.",
+      "elimination_logic": [
+        "Evaluate Statement 1: debtor-in-possession is the defining characteristic of PIRP — Statement 1 is correct.",
+        "Evaluate Statement 2: PIRP eligibility is restricted to MSMEs — it is not available to 'all corporate debtors' — Statement 2 is incorrect.",
+        "Evaluate Statement 3: Swiss challenge upon CoC rejection of base plan is an accurate description of PIRP procedure — Statement 3 is correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 contains a scope-extension error. The ₹1 crore default ceiling is correctly recalled but the candidate who stops there misses the class restriction: PIRP is available only to MSMEs, not to all corporate debtors. A student who partially reads the provision and focuses on the monetary threshold will affirm Statement 2, leading them to select option (d) instead of option (c).",
+      "final_explanation": "PIRP was introduced to provide a faster, less disruptive insolvency pathway for MSMEs that preserves existing management relationships and reduces resolution costs.\n\n• Statement 1 — Correct: The debtor-in-possession model is PIRP's most significant structural departure from CIRP. Existing management continues to run the business while the resolution plan is negotiated — critical for MSMEs where business value is tied to the promoter's relationships and expertise.\n• Statement 2 — Incorrect: PIRP eligibility is restricted to MSMEs as defined under the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006. The ₹1 crore maximum default ceiling is correct, but the 'all corporate debtors' characterisation is wrong — large corporates are ineligible for PIRP.\n• Statement 3 — Correct: The Swiss challenge mechanism ensures that if the CoC rejects the debtor's base plan, the process does not collapse — third parties can bid, but must match or improve on the base plan terms, protecting the debtor's first-mover advantage.\n\nValue Addition:\n• PIRP's 120-day timeline is approximately one-third of CIRP's 330-day outer limit.\n• PIRP was operationalised through the IBC (Amendment) Act, 2021 and related Rules.\n• Section 240A of IBC provides MSMEs special treatment, including exemption from certain Section 29A disqualifications."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Pre-packaged Insolvency Resolution Process (PIRP) for MSMEs:\n\n1. In a Pre-packaged Insolvency Resolution Process (PIRP), the existing management of the MSME retains control of business operations throughout the resolution period, unlike in CIRP where the Resolution Professional takes over management.\n2. PIRP is available to all corporate debtors regardless of their size, provided the default amount does not exceed ₹1 crore.\n3. Under PIRP, if the Committee of Creditors rejects the base resolution plan submitted by the debtor, a Swiss challenge process is initiated, allowing third-party applicants to submit competing plans.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1e56287a-2992-4781-9aa3-f69694857800",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Bank Recapitalisation: Instruments and Fiscal Implications",
+        "Twin Balance Sheet Problem and its Macroeconomic Implications"
+      ],
+      "subject_que_no": 4473,
+      "overall_que_no": 11820
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "Indradhanush framework — seven elements",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'De-stressing PSBs' (resolving legacy NPAs) sounds like a structural reform distinct from capitalisation, but it is actually one of the seven Indradhanush pillars — making it a genuine Indradhanush element that students might mistakenly exclude.",
+      "elimination_logic": [
+        "Recall the seven pillars of Indradhanush: Appointments (Bank Board Bureau), Bank Board Bureau formalisation, Capitalisation, De-stressing, Empowerment, Accountability, and Gyan Sangam.",
+        "Option (a): Establishing the Asset Reconstruction Company Ltd with sovereign guarantee — this describes the NARCL (2021 bad bank), not an Indradhanush element. NARCL was announced 6 years after Indradhanush.",
+        "Options (b), (c), (d): De-stressing, empowerment of PSB management, and Bank Board Bureau are all confirmed Indradhanush pillars.",
+        "The odd one out is option (a) — select (a)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges two distinct government initiatives separated by six years. Indradhanush (2015) is a 7-element reform package; NARCL/bad bank (2021) is a separate NPA resolution initiative. Students familiar with multiple government banking initiatives may conflate them, especially since both address PSB stress. The mention of 'sovereign guarantee' in option (a) is the giveaway — Indradhanush had no such ARC component.",
+      "final_explanation": "Indradhanush (2015) was the government's comprehensive reform blueprint for public sector banks — named after the seven-colour rainbow symbolising its seven reform pillars.\n\n• Option (a) — Odd one out: Establishing a government-guaranteed Asset Reconstruction Company for legacy NPAs was announced in Union Budget 2021-22 as NARCL — not part of Indradhanush (2015). This is the odd element.\n• Option (b) — Part of Indradhanush: De-stressing PSBs by resolving legacy NPAs was the fourth Indradhanush pillar, focusing on reducing NPA accumulation through sector-specific remediation.\n• Option (c) — Part of Indradhanush: Empowerment of PSB management — giving boards greater operational autonomy — was the fifth pillar.\n• Option (d) — Part of Indradhanush: Bank Board Bureau (now Bank Investment Company) to professionalise PSB governance was the second pillar.\n\nValue Addition:\n• Gyan Sangam was an annual two-day banking conclave launched under Indradhanush — attended by PSB chiefs and senior government officials.\n• The Appointments pillar of Indradhanush separated the Chairman and MD & CEO roles in PSBs.\n• Indradhanush was the precursor to the larger recapitalisation announcements of ₹2.11 lakh crore in 2017."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following were components of the Indradhanush framework announced by the Government of India in 2015 for reform of public sector banks. Which one was NOT a part of the Indradhanush framework?\n\n(a) Establishing a government-guaranteed Asset Reconstruction Company to acquire legacy NPAs above ₹500 crore from public sector banks\n(b) De-stressing public sector banks by resolving legacy stressed assets in key sectors\n(c) Empowering public sector bank boards with greater management autonomy and accountability measures\n(d) Setting up the Bank Board Bureau to professionalise the appointment process for PSB leadership",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1fdc0775-600d-4806-b724-3137f0fab21f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBC Liquidation Waterfall (Priority of Claims)",
+        "Financial Creditors vs. Operational Creditors under IBC"
+      ],
+      "subject_que_no": 4474,
+      "overall_que_no": 11821
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Government dues rank below unsecured financial creditors in liquidation",
+      "statement_analysis": [
+        {
+          "statement": "Under Section 53 of the Insolvency and Bankruptcy Code, 2016, government dues (including tax arrears) rank below unsecured financial creditors in the priority order for distribution of liquidation proceeds.",
+          "verdict": "Correct",
+          "reason": "Section 53 explicitly places government dues below unsecured financial creditors in the waterfall — a deliberate departure from earlier statutory regimes that gave government preferential status."
+        },
+        {
+          "statement": "This ordering was introduced to ensure that the government, as a sovereign entity, does not bear any loss from corporate insolvency proceedings.",
+          "verdict": "Incorrect",
+          "reason": "The ordering was NOT designed to protect the government from losses — in fact, by ranking government dues lower, the government bears greater risk of non-recovery. The rationale was to incentivise institutional creditors by assuring them of superior recovery priority, making insolvency resolution commercially viable for financial system participants."
+        }
+      ],
+      "strong_distractor": "a — Students who know government dues rank below unsecured creditors (Statement 1 correct) may assume the stated rationale in Statement 2 is also the legislative intent, without critically examining whether sovereign protection is the actual purpose.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Section 53 liquidation waterfall is unambiguous — government dues rank below unsecured financial creditors; Statement 1 is correct.",
+        "Evaluate Statement 2: the claim that this order protects the government from losses is factually inverted — ranking lower means the government bears more loss risk, not less. The actual purpose is to incentivise private creditors; Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 2's reversed-causation trap is particularly effective because the causal explanation sounds superficially plausible — students may think a sovereign would only accept a lower ranking if it guaranteed them some protection. In reality, the government's lower ranking was a deliberate policy choice to make India's insolvency framework commercially attractive to institutional lenders and foreign capital, accepting greater government exposure to corporate losses in exchange for better-functioning credit markets.",
+      "final_explanation": "The positioning of government dues in the IBC liquidation waterfall was among the most debated policy choices when the Code was designed.\n\n• Statement 1 — Correct: The Section 53 waterfall places government dues (taxes, statutory levies) below unsecured financial creditors. This means in liquidation, banks and bondholders receive proceeds before the government's tax claims are satisfied.\n• Statement 2 — Incorrect: The rationale is the opposite of what is stated. By ranking below unsecured creditors, the government absorbs greater residual risk. The policy purpose was to attract institutional lending and investment into distressed assets by assuring financial creditors of priority recovery — a pro-market design choice. This contrasts with older statutes (like the Companies Act pre-IBC regime) where government dues had preferential status.\n\nValue Addition:\n• Under the pre-IBC Companies Act regime, the Crown (government) debts had preferential status over most private creditors — IBC reversed this priority.\n• The Supreme Court in Moser Baer (2019) affirmed that IBC's Section 53 waterfall overrides other statutes granting government dues priority.\n• Workmen dues for 24 months rank above secured creditors — a social protection carve-out within an otherwise market-oriented waterfall."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the priority of claims in the liquidation process under the Insolvency and Bankruptcy Code, 2016:\n\nStatement 1: Under Section 53 of the Insolvency and Bankruptcy Code, 2016, government dues (including tax arrears) rank below unsecured financial creditors in the priority order for distribution of liquidation proceeds.\n\nStatement 2: This ordering was introduced to ensure that the government, as a sovereign entity, does not bear any loss from corporate insolvency proceedings.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "41940501-0e38-4a9c-8ceb-d9fd2cd87e2a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Securitisation of Assets: Process and Regulatory Framework",
+        "Asset Reconstruction Companies (ARCs): Structure and Functioning"
+      ],
+      "subject_que_no": 4475,
+      "overall_que_no": 11822
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Security Receipts — QIB investors in ARC structure",
+      "statement_analysis": null,
+      "strong_distractor": "a — 'Retail investors through stock exchange platforms' sounds plausible in a post-digitisation era where many financial instruments are retailised, leading students unfamiliar with ARC regulations to select this option.",
+      "elimination_logic": [
+        "Recall that ARCs raise funds from investors by issuing Security Receipts — these are restricted instruments not available to retail investors.",
+        "SRs are issued to Qualified Institutional Buyers (QIBs) — a regulatory category covering banks, insurance companies, mutual funds, and pension funds.",
+        "Eliminate option (a): retail investors through stock exchanges cannot subscribe to Security Receipts.",
+        "Eliminate option (b): the government does not subscribe to SRs issued by conventional ARCs — government backing applies only to NARCL's SRs through guarantee.",
+        "Eliminate option (d): NBFCs as a general category are not the exclusive or primary SR investors — QIBs is the precise and correct category.",
+        "Select option (c): Qualified Institutional Buyers."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap replaces 'Qualified Institutional Buyers' with plausible-sounding alternatives. The QIB category is a specific regulatory classification under SEBI and RBI frameworks — it includes banks, insurance companies, mutual funds, FPIs, and similar institutional investors. Students who know SRs are investable instruments but have not retained the QIB-specific restriction will select option (a) or (d).",
+      "final_explanation": "Security Receipts (SRs) are instruments issued by Asset Reconstruction Companies to raise funds for purchasing stressed assets from banks.\n\n• Option (a) — Incorrect: SRs are not listed or traded on stock exchanges for retail investors. They are restricted instruments distributed privately to qualified institutional participants.\n• Option (b) — Incorrect: The central government does not subscribe to SRs issued by conventional ARCs. Government backing (guarantee) applies specifically to NARCL's SR issuance under the bad bank model — conventional ARCs have no such sovereign backing.\n• Option (c) — Correct: Under SARFAESI and RBI regulations, Security Receipts can only be issued to Qualified Institutional Buyers (QIBs) — a defined category including scheduled commercial banks, insurance companies, mutual funds, provident funds, and registered FPIs.\n• Option (d) — Incorrect: While some NBFCs may qualify as QIBs individually, 'all registered NBFCs' is an overbroad and inaccurate characterisation — the investor class is QIBs, not NBFCs generically.\n\nValue Addition:\n• ARCs typically use a 15:85 structure — 15% cash payment and 85% in SRs — when acquiring NPAs from banks.\n• SRs are redeemable over time as the ARC resolves the underlying assets.\n• RBI has been pushing for a higher cash component in ARC acquisitions to ensure genuine price discovery and reduce contingent liabilities on banks holding SRs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under the SARFAESI Act, 2002, when an Asset Reconstruction Company (ARC) issues Security Receipts to raise funds for acquiring stressed assets, to which category of investors can these receipts be issued?\n\n(a) Retail investors through registered stock exchange platforms upon SEBI notification\n(b) The Central Government and state governments as part of their sovereign investment portfolios\n(c) Qualified Institutional Buyers such as scheduled commercial banks, insurance companies, and mutual funds\n(d) All registered Non-Banking Financial Companies irrespective of their asset size",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "39cfeb79-6612-4cf4-860f-cf8aa02c552b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBC: Committee of Creditors (CoC) and Voting Thresholds",
+        "Pre-packaged Insolvency Resolution Process (PIRP) for MSMEs"
+      ],
+      "subject_que_no": 4476,
+      "overall_que_no": 11823
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "CoC voting thresholds — 66% resolution, 75% liquidation",
+      "statement_analysis": [
+        {
+          "statement": "A resolution plan under IBC requires approval from CoC members holding at least 66% of the voting share of financial creditors.",
+          "verdict": "Correct",
+          "reason": "Section 30(4) of IBC prescribes a 66% voting share threshold for CoC approval of a resolution plan — reduced from the original 75% by the 2019 amendment."
+        },
+        {
+          "statement": "A decision to liquidate the corporate debtor requires approval by CoC members holding at least 75% of the voting share.",
+          "verdict": "Correct",
+          "reason": "Section 33 of IBC requires 75% of CoC voting share to pass a resolution for liquidation — this asymmetry (66% for resolution, 75% for liquidation) is a deliberate design to favour resolution over liquidation."
+        },
+        {
+          "statement": "Under PIRP, the debtor's base resolution plan is approved if supported by CoC members holding 66% of the voting share, the same as in CIRP.",
+          "verdict": "Incorrect",
+          "reason": "Under PIRP, the CoC evaluates the base plan but the voting mechanics differ — specifically, if the CoC rejects the base plan with 66% votes, it triggers the Swiss challenge, not a direct liquidation. The threshold framework is not identical to CIRP for all decisions."
+        },
+        {
+          "statement": "The Resolution Professional in a CIRP can cast a tie-breaking vote in the CoC if the voting is equally split between financial creditors.",
+          "verdict": "Incorrect",
+          "reason": "The Resolution Professional facilitates and records CoC decisions but has no voting rights — the RP cannot cast a tie-breaking or any other vote in the CoC."
+        }
+      ],
+      "strong_distractor": "b — Students who correctly identify Statements 1 and 2 as correct may include Statement 3 if they assume PIRP voting thresholds are identical to CIRP thresholds, making 'Only three' seem correct.",
+      "elimination_logic": [
+        "Statement 1: 66% for resolution plan approval — correct (post-2019 amendment).",
+        "Statement 2: 75% for liquidation — correct (asymmetric design).",
+        "Statement 3: PIRP voting framework is not identical to CIRP in all respects — the statement oversimplifies; Statement 3 is incorrect.",
+        "Statement 4: RP has no voting rights in CoC — Statement 4 is incorrect.",
+        "Only Statements 1 and 2 are correct — select option (b): Only two."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap in Statement 1 is subtle: the original IBC threshold for resolution plan approval was 75%, which was reduced to 66% by the 2019 amendment. Students who studied IBC before 2019 or from outdated sources may recall 75% as the resolution threshold and mark Statement 1 incorrect while marking Statement 2 incorrect too — creating maximum confusion. The 66%/75% asymmetry (resolution vs. liquidation) is the most commonly confused CoC threshold pairing.",
+      "final_explanation": "CoC voting thresholds are among the most precisely tested IBC facts in competitive examinations.\n\n• Statement 1 — Correct: Section 30(4) requires 66% CoC voting share for resolution plan approval. The original 75% threshold was reduced to 66% by the Insolvency and Bankruptcy Code (Amendment) Act, 2019.\n• Statement 2 — Correct: Section 33 requires 75% for a liquidation decision — the asymmetry is intentional. A lower bar for resolution (66%) and a higher bar for liquidation (75%) encourages creditors to prefer viable resolution over destructive liquidation.\n• Statement 3 — Incorrect: PIRP has a distinct procedural framework. While 66% is used for plan approval in PIRP as well, the consequences of rejection (Swiss challenge initiation) and the overall framework differ from CIRP. Claiming they are identical oversimplifies.\n• Statement 4 — Incorrect: The Resolution Professional is a facilitator and process manager — they have no voting rights in the CoC. Voting is exercised only by financial creditor members.\n\nOnly two statements (1 and 2) are correct — answer is 'Only two.'\n\nValue Addition:\n• Before the 2019 amendment, resolution plan approval required 75% — the same as liquidation, creating perverse incentives.\n• CoC voting share is proportional to the financial debt owed to each creditor, not equal per creditor.\n• IRP (Interim Resolution Professional) manages the debtor until the RP is formally appointed by the CoC."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about voting thresholds in the Committee of Creditors under the Insolvency and Bankruptcy Code, 2016:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "A resolution plan under IBC requires approval from CoC members holding at least 66% of the voting share of financial creditors."
+          ],
+          [
+            "2",
+            "A decision to liquidate the corporate debtor requires approval by CoC members holding at least 75% of the voting share."
+          ],
+          [
+            "3",
+            "Under PIRP, the debtor's base resolution plan is approved if supported by CoC members holding 66% of the voting share, the same as in CIRP."
+          ],
+          [
+            "4",
+            "The Resolution Professional in a CIRP can cast a tie-breaking vote in the CoC if the voting is equally split between financial creditors."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3e32230d-44f6-408b-b33d-ca6a7a730b2d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "RBI's Revised Framework for Resolution of Stressed Assets (Post-February 2018 Circular)",
+        "SARFAESI Act, 2002: Scope and Limitations"
+      ],
+      "subject_que_no": 4477,
+      "overall_que_no": 11824
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Section 35AA ultra vires ruling — specific government authorisation requirement",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know the Supreme Court struck down the February 2018 circular may assume the Reason must be wrong because 'Section 35AA grants RBI general powers' — confusing general regulatory powers with the specific case-by-case authorisation requirement.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. The Supreme Court in April 2019 struck down RBI's February 2018 circular on resolution of stressed assets.",
+        "Step 2: Is Reason (R) correct? — Yes. Section 35AA of the Banking Regulation Act requires the central government to specifically authorise RBI for each direction it issues to banks regarding insolvency of a specific borrower. The February 2018 circular issued blanket directions without such specific authorisation — making it ultra vires.",
+        "Step 3: Does R causally explain A? — Yes. The Supreme Court's holding was precisely that Section 35AA requires a specific government direction for each instance, and the blanket circular violated this — R is the direct and accurate causal explanation for A.",
+        "A correct + R correct + R explains A → select option (a)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in option (c) tempts students who know the circulars were struck down to assume the Reason must be wrong — perhaps because they vaguely recall RBI has broad regulatory powers. The key precision is that Section 35AA specifically requires case-by-case government authorisation for directions about specific borrower insolvency — and blanket circular directions across all borrowers simultaneously violated this requirement. Students who know the outcome but not the precise Section 35AA requirement will select (c).",
+      "final_explanation": "The Supreme Court's April 2019 judgment in Dharani Sugars & Chemicals Ltd. v. Union of India was a landmark ruling that reshaped RBI's approach to stressed asset resolution.\n\nAssertion (A) is correct: RBI's February 2018 circular, which mandated resolution plans within 180 days for accounts in default, was struck down by the Supreme Court in April 2019.\n\nReason (R) is correct and is the direct causal explanation: Section 35AA of the Banking Regulation Act, 1949 empowers RBI to issue directions to banks but requires the central government to specifically authorise each such direction regarding insolvency of a specific borrower. The February 2018 circular was a generalised direction covering all large accounts simultaneously — without specific government authorisation for each account. The Supreme Court held this exceeded RBI's powers under Section 35AA, making the circular ultra vires.\n\nR correctly explains A — both A and R are correct, and R is the accurate causal explanation.\n\nCorrect answer: (a)\n\nValue Addition:\n• Following the judgment, RBI issued a revised circular in June 2019 incorporating a 30-day review period and ICA-based resolution framework.\n• Section 35AB (separate from 35AA) grants RBI general powers to issue guidelines on resolution of stressed assets — the February 2018 circular could not rely on 35AB either.\n• The ruling did not question RBI's overall regulatory authority, only the procedural compliance with Section 35AA for directions relating to specific borrower insolvency.",
+      "ar_consistency_flag": true
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Supreme Court of India struck down the Reserve Bank of India's February 2018 circular on resolution of stressed assets, holding that the directions issued therein exceeded the statutory powers available to RBI.\n\nReason (R): Section 35AA of the Banking Regulation Act, 1949 requires the Central Government to specifically authorise RBI before it can issue directions to banks regarding the insolvency of specific borrowers, and the February 2018 circular issued blanket directions across all large accounts without such specific authorisation.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "98bd8f42-f5f1-449d-8029-6fb546aca325",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "Twin Balance Sheet Problem and its Macroeconomic Implications",
+        "Bank Recapitalisation: Instruments and Fiscal Implications"
+      ],
+      "subject_que_no": 4478,
+      "overall_que_no": 11825
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Twin balance sheet — transmission to GDP and infrastructure concentration",
+      "statement_analysis": [
+        {
+          "statement": "The twin balance sheet problem in India refers to simultaneous stress on the asset quality of banks and the excessive leverage on the balance sheets of large corporate borrowers, particularly in infrastructure-linked sectors.",
+          "verdict": "Correct",
+          "reason": "The Economic Survey's characterisation of the twin balance sheet problem precisely identifies these two co-existing stresses — bank NPAs and corporate over-leverage — concentrated in infrastructure, power, steel, and related sectors post-2008."
+        },
+        {
+          "statement": "The primary transmission channel through which the twin balance sheet problem affected India's GDP growth was the contraction of private investment due to tightened credit availability from stress-impaired banks.",
+          "verdict": "Correct",
+          "reason": "Stressed banks reduced new credit disbursement to preserve capital ratios, creating a credit crunch that depressed corporate investment and contributed to GDP deceleration — this is the standard transmission mechanism documented in Economic Surveys."
+        },
+        {
+          "statement": "Recapitalisation bonds issued by the government address the 'Resolution' element of the 4R strategy, as they directly resolve the underlying NPA accounts on bank balance sheets.",
+          "verdict": "Incorrect",
+          "reason": "Recap bonds address 'Recapitalisation' — the third R — by restoring bank capital buffers. They do not directly resolve the underlying NPA accounts; NPAs remain on bank books until resolved through SARFAESI, IBC, or other mechanisms."
+        }
+      ],
+      "strong_distractor": "d — Students who know recapitalisation is part of the 4R strategy may incorrectly affirm Statement 3, confusing the capital restoration function of recap bonds with the resolution function of legal mechanisms.",
+      "elimination_logic": [
+        "Evaluate Statement 1: the twin balance sheet definition with infrastructure concentration is accurately stated — Statement 1 is correct.",
+        "Evaluate Statement 2: credit crunch → investment contraction → GDP deceleration is the documented transmission mechanism — Statement 2 is correct.",
+        "Evaluate Statement 3: recap bonds restore capital (Recapitalisation), not resolve NPAs (Resolution) — Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3 employs a partial-truth strategy: recapitalisation bonds are correctly associated with the 4R framework, but incorrectly assigned to the 'Resolution' element rather than 'Recapitalisation.' A student who correctly recalls '4R' but has not retained which R corresponds to which instrument will affirm Statement 3. The distinction between Resolution (using IBC, ARCs) and Recapitalisation (using bonds, budget) is a frequently tested conceptual boundary.",
+      "final_explanation": "The twin balance sheet problem shaped India's economic policy debates from 2015 to 2020 and generated the 4R strategic framework.\n\n• Statement 1 — Correct: Twin balance sheet stress: (i) banks — rising NPAs impairing balance sheets; (ii) large corporates — excessive debt from the 2008–12 infrastructure investment boom unable to service obligations. Infrastructure, power, telecom, steel, and real estate were the most affected sectors.\n• Statement 2 — Correct: The transmission channel ran from impaired banks → reduced credit disbursement → corporate investment contraction → GDP deceleration. This is documented in Economic Survey 2016-17 and subsequent annual reports.\n• Statement 3 — Incorrect: Recapitalisation bonds address the third R (Recapitalisation) — they restore the capital base of banks so they can resume normal lending. The 'Resolution' element (second R) encompasses IBC proceedings, SARFAESI enforcement, ARC-based resolution, and one-time settlements — not capital infusion instruments.\n\nValue Addition:\n• India's gross NPA ratio peaked at approximately 11.2% in March 2018 before declining steadily.\n• The Economic Survey 2016-17 introduced the term 'balance sheet syndrome with Indian characteristics.'\n• Evergreening (rolling over bad loans as new credit) was a major pre-AQR practice that masked the true NPA level."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about India's twin balance sheet problem and related policy responses:\n\n1. The twin balance sheet problem in India refers to simultaneous stress on the asset quality of banks and the excessive leverage on the balance sheets of large corporate borrowers, particularly in infrastructure-linked sectors.\n2. The primary transmission channel through which the twin balance sheet problem affected India's GDP growth was the contraction of private investment due to tightened credit availability from stress-impaired banks.\n3. Recapitalisation bonds issued by the government address the 'Resolution' element of the 4R strategy, as they directly resolve the underlying NPA accounts on bank balance sheets.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f192c839-b6bb-486f-aaf5-8060b4dea927",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Money and Banking",
+      "sub_topic": "NPAs and resolution mechanisms",
+      "concepts_used": [
+        "IBBI (Insolvency and Bankruptcy Board of India): Powers and Jurisdiction",
+        "Pre-packaged Insolvency Resolution Process (PIRP) for MSMEs"
+      ],
+      "subject_que_no": 4479,
+      "overall_que_no": 11826
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "NCLT as adjudicating authority; IBBI as regulator of insolvency professionals",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who associate IBBI with all IBC regulatory functions may select option (b) citing IBBI, not distinguishing between IBBI's regulatory role and NCLT's adjudicatory role.",
+      "elimination_logic": [
+        "The scenario has two distinct elements: (i) admission of a CIRP application — an adjudicatory act; (ii) complaint against the Resolution Professional — a regulatory disciplinary act.",
+        "For CIRP admission: NCLT is the adjudicating authority for corporate insolvency under IBC — not IBBI, not DRT.",
+        "For RP complaint: IBBI is the regulatory body that investigates and disciplines Insolvency Professionals — not NCLT, not RBI.",
+        "Option (d) correctly allocates: NCLT for CIRP admission, IBBI for RP misconduct — select (d)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap exploits the IBBI-NCLT confusion. Students who associate IBBI with 'overseeing everything IBC' may assign CIRP admission powers to IBBI. In fact, IBBI is a regulatory body — it cannot admit or reject insolvency applications. NCLT has exclusive adjudicatory jurisdiction for corporate CIRP. The complaint against the RP is correctly within IBBI's quasi-judicial disciplinary mandate.",
+      "final_explanation": "The IBC framework carefully separates adjudicatory and regulatory functions across different bodies.\n\nScenario analysis:\nEvent 1 — CIRP application admission: This is an adjudicatory act. NCLT is the designated adjudicating authority for corporate insolvency proceedings under IBC. NCLT benches examine CIRP applications and pass orders for admission or rejection. IBBI has no adjudicatory role in individual CIRP applications.\n\nEvent 2 — Complaint against Resolution Professional: This is a regulatory-disciplinary matter. IBBI oversees the conduct of Insolvency Professionals (IPs) and Insolvency Professional Agencies (IPAs). If an RP is accused of misconduct, IBBI has quasi-judicial powers to investigate, call for records, and impose penalties including deregistration.\n\nWhy each option fails:\n• Option (a): RBI has no role in CIRP proceedings or RP disciplinary matters.\n• Option (b): IBBI cannot admit CIRP applications — that is NCLT's exclusive jurisdiction.\n• Option (c): NCLT adjudicates CIRP matters but has no mandate to investigate and penalise RPs as a class — that is IBBI's regulatory domain.\n• Option (d): Correct division — NCLT for CIRP adjudication, IBBI for RP regulatory oversight.\n\nValue Addition:\n• NCLAT (National Company Law Appellate Tribunal) hears appeals against NCLT orders in IBC matters.\n• IBBI can refer matters to NCLT for contempt if its investigation orders are not complied with.\n• Insolvency Professional Agencies (IPAs) provide first-level oversight of IPs; IBBI is the apex regulator above IPAs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A large steel manufacturer defaults on its loan repayments. A consortium of lenders files an application to initiate Corporate Insolvency Resolution Process (CIRP). Separately, a creditor files a formal complaint that the Resolution Professional appointed in a related insolvency case has been colluding with the promoter and selectively withholding financial information from the Committee of Creditors.\n\nWhich of the following correctly identifies the authority competent to address each of the above situations?\n\n(a) Reserve Bank of India — for both the CIRP initiation and the complaint against the Resolution Professional\n(b) Insolvency and Bankruptcy Board of India — for both the CIRP initiation and the complaint against the Resolution Professional\n(c) National Company Law Tribunal — for both the CIRP initiation and the complaint against the Resolution Professional\n(d) National Company Law Tribunal — for CIRP initiation; Insolvency and Bankruptcy Board of India — for the complaint against the Resolution Professional",
+      "table_data": null
+    }
+  }
+]

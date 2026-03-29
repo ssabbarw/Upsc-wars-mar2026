@@ -1,0 +1,1615 @@
+[
+  {
+    "meta": {
+      "uuid": "aa968f1b-978d-4f29-b9bf-11ec9f19fe95",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Tectonic Causes of Earthquakes: Fault Types and Stress Mechanisms"
+      ],
+      "subject_que_no": 1153,
+      "overall_que_no": 18127
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "Convergent boundary fault types — thrust vs. megathrust",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students correctly associate convergent boundaries with compressional forces but then conflate all resulting faults into a single 'reverse fault' category, missing the distinct megathrust mechanism of subduction zones.",
+      "elimination_logic": [
+        "Eliminate (a): it partially captures convergent boundary dynamics but incorrectly equates all thrust faulting with subduction-zone megathrusts — these are structurally distinct.",
+        "Eliminate (b): strike-slip faults are characteristic of transform boundaries, not convergent zones, making this factually wrong at the boundary-type level.",
+        "Eliminate (d): normal faults are extensional features associated with divergent boundaries; labelling them as a convergent-boundary product is geologically inverted.",
+        "Retain (c): convergent boundaries produce both reverse/thrust faults (at continent-continent collision zones) AND subduction-zone megathrusts (at ocean-continent zones) — two distinct compression products of the same boundary type."
+      ],
+      "upsc_trap_explanation": "Students who memorise 'convergent = reverse fault' stop there and do not recognise that subduction-zone megathrusts are a separate, larger-scale compressional phenomenon at the same boundary type. The 2004 Indian Ocean earthquake was a megathrust event, not a simple reverse fault. UPSC exploits this by offering an option that is partially correct but misses the megathrust dimension, rewarding only those who understand the structural distinction between thrust faulting at collision zones and megathrust rupture at subduction interfaces.",
+      "final_explanation": "Convergent plate boundaries are zones of compression, but the type of faulting depends on which lithospheric plates are involved. At continent-continent collision zones (e.g., Himalayas), compressional forces produce reverse and thrust faults with no subduction. At ocean-continent or ocean-ocean convergence, the denser oceanic plate subducts, creating a subduction interface along which megathrust earthquakes — the world's most powerful — occur.\n\n• Option (a): Incorrect — states convergent boundaries produce only reverse faults; this ignores the megathrust mechanism of subduction zones entirely.\n• Option (b): Incorrect — strike-slip faults with horizontal displacement are products of transform boundaries, not convergent ones.\n• Option (c): Correct — convergent boundaries generate both reverse/thrust faults (collision) and subduction-zone megathrusts (subduction), reflecting two distinct compressional settings.\n• Option (d): Incorrect — normal faults are extensional features formed at divergent boundaries where plates pull apart.\n\nValue Addition:\n• The 2004 Sumatra–Andaman earthquake (Mw 9.1) was a megathrust event on the subduction interface between the Indo-Australian and Eurasian plates.\n• Megathrusts are capable of Mw 9.0+ earthquakes; no reverse fault at a collision zone has approached that magnitude.\n• The Himalayas have no megathrust — Himalayan seismicity is collision-type, producing shallow-focus thrust earthquakes."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements about fault types at convergent plate boundaries is correct?\n\n(a) Convergent boundaries exclusively produce reverse faults, as compressional forces act uniformly regardless of the type of converging plates\n(b) Strike-slip faults with predominantly horizontal displacement are the defining fault type at convergent plate boundaries\n(c) Convergent boundaries can produce both reverse/thrust faults at collision zones and subduction-zone megathrusts at oceanic subduction interfaces\n(d) Normal faults formed by crustal extension are the characteristic structural outcome of convergent boundary compression",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dadb64fb-3b6a-44d5-9569-0acf45010174",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Non-Tectonic Causes of Earthquakes: Volcanic, Collapse, and Reservoir-Induced Seismicity"
+      ],
+      "subject_que_no": 1154,
+      "overall_que_no": 18128
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Reservoir-Induced Seismicity mechanism and Koyna case",
+      "statement_analysis": [
+        {
+          "statement": "Reservoir-Induced Seismicity (RIS) occurs primarily because the weight of impounded water creates new fault systems where none previously existed.",
+          "verdict": "Incorrect",
+          "reason": "RIS does not create new faults; it reactivates pre-existing faults through increased pore-water pressure and lubrication, reducing frictional resistance along existing fractures."
+        },
+        {
+          "statement": "The Koyna Dam in Maharashtra is a documented case of reservoir-induced seismicity, with the region experiencing significant seismic activity following reservoir impoundment.",
+          "verdict": "Correct",
+          "reason": "Koyna is a globally cited RIS case study; seismic activity increased substantially after the dam's reservoir was filled in 1962, including a M6.5 earthquake in 1967."
+        },
+        {
+          "statement": "Collapse earthquakes in karst regions are caused by the sudden failure of underground caverns rather than fault movement along tectonic boundaries.",
+          "verdict": "Correct",
+          "reason": "Collapse earthquakes result from the implosion of subsurface voids — caves, mines, or solutional caverns — and are distinguished from tectonic earthquakes by their shallow depth and limited magnitude."
+        }
+      ],
+      "strong_distractor": "d — A student who knows that RIS is real (Statement 2 correct) but incorrectly believes RIS creates new faults (Statement 1 also marked correct) will pick option (d), thinking all three are correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: RIS works by increasing pore pressure and lubricating existing faults, not by generating new faults — Statement 1 is incorrect.",
+        "Evaluate Statement 2: Koyna Dam's association with induced seismicity is well-documented — Statement 2 is correct.",
+        "Evaluate Statement 3: Karst collapse earthquakes arise from cavern implosion, not fault rupture — Statement 3 is correct.",
+        "Only Statements 2 and 3 are correct, pointing to option (b)."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 1 is a scope-extension error — students who know RIS is caused by water loading sometimes extend this to conclude that reservoirs 'cause' new faults, when in reality RIS reactivates pre-existing, often dormant faults. This distinction is scientifically critical and policy-relevant because it means areas with old, inactive fault systems under proposed reservoir sites are high-risk even without recent seismic history.",
+      "final_explanation": "Non-tectonic earthquakes include volcanic, collapse, and reservoir-induced types. Reservoir-Induced Seismicity (RIS) is an anthropogenic cause linked to large dams: the increased pore-water pressure from the impounded reservoir reduces friction along pre-existing faults, triggering earthquakes. The key mechanism is lubrication and pressure increase, not fault creation.\n\n• Statement 1 — Incorrect: RIS does not create new faults. It reactivates dormant pre-existing faults through pore-pressure changes. Koyna's 1967 earthquake (M6.5) reactivated ancient basement faults.\n• Statement 2 — Correct: Koyna Dam (Maharashtra) is one of the most extensively studied RIS cases globally; seismicity increased post-impoundment from 1962 onward.\n• Statement 3 — Correct: Collapse earthquakes in karst (limestone dissolution) and mining regions result from sudden underground void failure — structurally distinct from fault-rupture tectonic events.\n\nValue Addition:\n• RIS is environmentally significant because large dam projects in seismically sensitive areas must undergo seismic hazard assessment.\n• The Zipingpu Dam in China is associated with the 2008 Sichuan earthquake (debate on causal link).\n• Mining-induced earthquakes (rockbursts) in deep mines are a growing occupational and hazard concern in South Africa and Eastern Europe."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding non-tectonic causes of earthquakes:\n\n1. Reservoir-Induced Seismicity (RIS) occurs primarily because the weight of impounded water creates new fault systems where none previously existed.\n2. The Koyna Dam in Maharashtra is a documented case of reservoir-induced seismicity, with the region experiencing significant seismic activity following reservoir impoundment.\n3. Collapse earthquakes in karst regions are caused by the sudden failure of underground caverns rather than fault movement along tectonic boundaries.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "708f4364-1643-4e61-986f-f15c8de4e850",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Focus (Hypocenter) vs. Epicenter: Geometry and Depth Classification"
+      ],
+      "subject_que_no": 1155,
+      "overall_que_no": 18129
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Deep-focus earthquakes restricted to subduction zones (Benioff zone)",
+      "statement_analysis": [
+        {
+          "statement": "Deep-focus earthquakes (300–700 km depth) can occur at mid-ocean ridges because these are sites of intense tectonic activity.",
+          "verdict": "Incorrect",
+          "reason": "Deep-focus earthquakes are confined to subduction zones (Benioff zones) where cold, dense oceanic slabs descend to great depths; mid-ocean ridges produce only shallow-focus earthquakes along transform faults."
+        },
+        {
+          "statement": "Shallow-focus earthquakes (depth less than 70 km) are generally more destructive than deep-focus earthquakes of similar magnitude because energy dissipates less before reaching the surface.",
+          "verdict": "Correct",
+          "reason": "The proximity of the focus to the surface means less energy attenuation through rock, resulting in stronger ground shaking — making shallow-focus events disproportionately destructive."
+        },
+        {
+          "statement": "The epicenter of an earthquake is located directly above the focus along a horizontal plane at the Earth's surface.",
+          "verdict": "Correct",
+          "reason": "The epicenter is precisely defined as the point on the Earth's surface directly above the focus (hypocenter); it is a vertical projection, not a horizontal one — though the statement's use of 'directly above' is accurate."
+        }
+      ],
+      "strong_distractor": "c — Students who correctly identify Statement 1 as false may then hesitate on Statement 3, misreading 'horizontal plane' as an error, leading them to mark both 1 and 3 as incorrect.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Mid-ocean ridges are divergent boundaries and only generate shallow-focus earthquakes — deep-focus events are exclusive to subduction zones; Statement 1 is NOT correct.",
+        "Evaluate Statement 2: Shallow-focus earthquake destructiveness is a well-established principle based on energy attenuation with distance — Statement 2 IS correct.",
+        "Evaluate Statement 3: The epicenter is the surface point directly above the focus — this definition is accurate; Statement 3 IS correct.",
+        "Only Statement 1 is NOT correct, pointing to option (a)."
+      ],
+      "upsc_trap_explanation": "The trap exploits the reasonable-sounding claim that mid-ocean ridges, being 'intensely active' tectonic sites, could host deep-focus events. In fact, mid-ocean ridges only subduct lithosphere laterally, not deeply; the oceanic crust spreading at ridges is too young and buoyant to subduct. Deep-focus earthquakes require the Benioff zone — the inclined plane of a descending slab — which only exists at subduction zones.",
+      "final_explanation": "Focus (hypocenter) depth determines earthquake classification: shallow (<70 km), intermediate (70–300 km), and deep-focus (300–700 km). This depth classification has critical implications for both damage potential and tectonic setting.\n\n• Statement 1 — NOT correct: Deep-focus earthquakes are exclusive to subduction zones (Benioff zones), where cold oceanic slabs penetrate to depths of 300–700 km. Mid-ocean ridges are divergent settings producing only shallow-focus events.\n• Statement 2 — Correct: Shallow-focus earthquakes cause greater destruction for equivalent magnitude because seismic energy travels a shorter path to the surface, experiencing less geometric spreading and attenuation.\n• Statement 3 — Correct: The epicenter is defined as the point on the Earth's surface directly above the focus; it is a vertical projection of the hypocenter.\n\nValue Addition:\n• The deepest recorded earthquakes (around 700 km) occur in subducting slabs beneath South America and the Tonga–Fiji region.\n• Continental collision zones (e.g., Himalayas) produce predominantly shallow to intermediate-focus earthquakes, not deep-focus events.\n• The 2015 Nepal earthquake (Mw 7.8) was a shallow-focus (~15 km) thrust event — explaining its catastrophic damage."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the focus and depth classification of earthquakes:\n\n1. Deep-focus earthquakes (300–700 km depth) can occur at mid-ocean ridges because these are sites of intense tectonic activity.\n2. Shallow-focus earthquakes (depth less than 70 km) are generally more destructive than deep-focus earthquakes of similar magnitude because energy dissipates less before reaching the surface.\n3. The epicenter of an earthquake is located directly above the focus along a horizontal plane at the Earth's surface.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1 and 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ae1ede0b-9966-432a-9574-ae47c3145b22",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Seismic Waves: P-waves (Primary) — Nature and Behaviour",
+        "Seismic Waves: S-waves (Secondary) — Nature and Behaviour"
+      ],
+      "subject_que_no": 1156,
+      "overall_que_no": 18130
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "P-wave and S-wave properties — travel media and motion type",
+      "statement_analysis": [
+        {
+          "statement": "P-waves are compressional waves whose particle motion is parallel to the direction of wave propagation.",
+          "verdict": "Correct",
+          "reason": "P-waves (Primary/longitudinal) compress and expand the medium in the same direction as wave travel — this is the defining characteristic of compressional waves."
+        },
+        {
+          "statement": "S-waves cannot travel through any medium other than solid rock, making their complete absence beyond 103° conclusive evidence that the entire core is solid.",
+          "verdict": "Incorrect",
+          "reason": "S-waves cannot travel through liquids, and their absence beyond 103° indicates a liquid outer core — but the inner core is solid, confirmed by PKIKP wave paths; 'entire core is solid' is factually wrong."
+        },
+        {
+          "statement": "P-waves travel through solids, liquids, and gases, making them the first seismic waves to be recorded at a seismograph station after an earthquake.",
+          "verdict": "Correct",
+          "reason": "P-waves travel through all media and are the fastest seismic waves, consistently arriving first at any recording station."
+        },
+        {
+          "statement": "S-waves produce shear motion where particle displacement is perpendicular to the direction of wave propagation.",
+          "verdict": "Correct",
+          "reason": "S-waves are transverse/shear waves by definition — particle oscillation is at right angles to the direction of travel, distinguishing them fundamentally from P-waves."
+        }
+      ],
+      "strong_distractor": "d — Students who correctly identify Statements 1, 3, and 4 as true may also accept Statement 2 because they know S-waves cannot travel through liquids, missing the trap that the conclusion ('entire core is solid') is wrong.",
+      "elimination_logic": [
+        "Evaluate Statement 1: compressional + parallel particle motion = correct P-wave definition; mark correct.",
+        "Evaluate Statement 2: S-wave absence beyond 103° proves a LIQUID outer core, not a solid one — and the entire core is not solid (inner core is solid, outer is liquid); mark incorrect.",
+        "Evaluate Statement 3: P-waves travel through all media and arrive first — correct.",
+        "Evaluate Statement 4: S-wave perpendicular/shear motion is definitionally correct.",
+        "Three of four statements are correct, pointing to option (c) — Only three."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a carefully constructed partial-truth trap. The first half ('S-waves cannot travel through liquids') is absolutely correct and well-known. The trap is in the conclusion — students who stop at the first clause accept the whole statement. The S-wave shadow zone actually proves the outer core is LIQUID, not solid. The inner core's solidity is inferred from P-wave paths (PKIKP), not from S-waves. Conflating 'S-waves absent beyond 103°' with 'entire core is solid' reverses the actual inference.",
+      "final_explanation": "P-waves and S-waves are the two categories of body waves. Their differing behaviours — especially regarding what media they can traverse — are the primary tools for inferring Earth's interior structure.\n\n• Statement 1 — Correct: P-waves are longitudinal/compressional; particle motion is parallel to propagation direction.\n• Statement 2 — Incorrect: S-wave absence beyond 103° indicates a LIQUID outer core, not a solid one. The statement's conclusion is the exact reverse of the correct inference. The inner core is solid (confirmed by P-wave PKIKP paths), but the outer core is liquid.\n• Statement 3 — Correct: P-waves travel through all three states of matter and are fastest among seismic waves, arriving first at seismograph stations.\n• Statement 4 — Correct: S-waves are transverse shear waves; particle displacement is perpendicular to propagation — the defining feature distinguishing them from P-waves.\n\nValue Addition:\n• The P-wave shadow zone (103°–142°) is caused by refraction, not total blockage — P-waves slow in the liquid outer core but continue.\n• S-waves NEVER appear beyond 103° from the epicenter — this total blockage is stronger evidence for the liquid outer core than the P-wave shadow zone.\n• PKIKP waves are P-waves that pass through the inner core, confirming its solid state."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about P-waves and S-waves:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "P-waves are compressional waves whose particle motion is parallel to the direction of wave propagation."
+          ],
+          [
+            "2",
+            "S-waves cannot travel through any medium other than solid rock, making their complete absence beyond 103° conclusive evidence that the entire core is solid."
+          ],
+          [
+            "3",
+            "P-waves travel through solids, liquids, and gases, making them the first seismic waves to be recorded at a seismograph station after an earthquake."
+          ],
+          [
+            "4",
+            "S-waves produce shear motion where particle displacement is perpendicular to the direction of wave propagation."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2df8cb29-c95b-469f-a53b-98ce1b7d23e3",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Surface Waves: Love and Rayleigh Waves — Characteristics and Damage"
+      ],
+      "subject_que_no": 1157,
+      "overall_que_no": 18131
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Love vs. Rayleigh wave motion and damage characteristics",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know Love waves are faster than Rayleigh may incorrectly assign 'elliptical retrograde motion' to Love waves because they conflate 'complex motion' with Love waves, swapping the motion descriptions of the two wave types.",
+      "elimination_logic": [
+        "Match A (Love wave): Love waves have horizontal shear motion with NO vertical component — matches description 3.",
+        "Match B (Rayleigh wave): Rayleigh waves display elliptical retrograde particle motion, creating the rolling sensation felt during earthquakes — matches description 1.",
+        "Match C (Surface waves generally): Surface waves have the lowest frequency, longest wavelength, and slowest speed among seismic wave types — matches description 4.",
+        "Match D (Surface waves vs. body waves): Surface waves are derived from body waves interacting with the surface — they are not independent wave types — matches description 2.",
+        "The complete correct matching is A-3, B-1, C-4, D-2, pointing to option (b)."
+      ],
+      "upsc_trap_explanation": "The trap targets students who confuse Love and Rayleigh wave motion types. Love waves are often described as 'more damaging to structures' because of their horizontal shear, tempting students to assign the more complex 'elliptical' motion to them. In reality, elliptical retrograde motion is Rayleigh's defining feature. Additionally, 'derived from body waves' applies to both surface wave types but is often miscategorised as applying only to Rayleigh waves, creating confusion in List II item 2.",
+      "final_explanation": "Surface waves travel along the Earth's surface and are generated when body waves (P and S) reach the surface. They are slower and have lower frequency than body waves but carry the most energy responsible for structural damage.\n\nCorrect pairings:\n• A–3: Love waves exhibit horizontal shear motion only — they have no vertical displacement component. This makes them particularly damaging to building foundations.\n• B–1: Rayleigh waves produce elliptical retrograde particle motion (like an ocean wave in reverse) — responsible for the rolling ground motion experienced during earthquakes.\n• C–4: As a category, surface waves have the lowest frequency, longest wavelength, and slowest speed among seismic wave types, yet they cause maximum structural destruction.\n• D–2: Surface waves are not independent phenomena — they are derived from body waves (P and S) interacting at the Earth's surface; they do not originate independently from the source.\n\nThe trap pairing involves A and B: students frequently swap the motion descriptions of Love and Rayleigh waves.\n\nValue Addition:\n• Love waves travel faster than Rayleigh waves among surface waves.\n• Rayleigh waves can be felt even in the absence of strong P or S shaking — they produce the characteristic 'undulation' of the ground.\n• Surface waves attenuate more slowly with distance than body waves, explaining why distant earthquakes are felt primarily through their surface wave component."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Wave Type) with List II (Characteristic) and select the correct answer using the codes given below:",
+        "columns": [
+          "List I (Wave Type)",
+          "List II (Characteristic)"
+        ],
+        "rows": [
+          [
+            "A. Love wave",
+            "1. Elliptical retrograde particle motion responsible for rolling ground movement"
+          ],
+          [
+            "B. Rayleigh wave",
+            "2. Derived from body waves interacting at the Earth's surface; not an independent source phenomenon"
+          ],
+          [
+            "C. Surface waves (as a category)",
+            "3. Horizontal shear motion with no vertical displacement component"
+          ],
+          [
+            "D. Relationship of surface waves to body waves",
+            "4. Lowest frequency, longest wavelength, and slowest propagation speed among all seismic wave types"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-2, C-1, D-4\n(d) A-1, B-2, C-3, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5b132d63-fc84-4075-86d3-3d3c5415c4e3",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Shadow Zones of Seismic Waves: Interpretation and Earth's Interior Evidence"
+      ],
+      "subject_que_no": 1158,
+      "overall_que_no": 18132
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "S-wave shadow zone as evidence for liquid outer core",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both facts (S-waves absent beyond 103° AND outer core is liquid) instinctively mark (a), failing to verify whether R correctly explains A — R explains the outer core's liquid state, but A's statement about the S-wave shadow proving the INNER core's solid state requires a different explanation (PKIKP paths).",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? A states that the inner core is solid, confirmed by detection of P-waves (PKIKP paths) within the S-wave shadow zone. This is factually correct.",
+        "Step 2 — Is Reason (R) correct? R states that S-waves cannot propagate through the liquid outer core, causing the shadow zone beyond 103°. This is also factually correct.",
+        "Step 3 — Does R explain A? R explains why S-waves are absent (liquid outer core blocks them), but A's claim is about the INNER core's solidity. The inner core's solid state is inferred from P-wave PKIKP arrivals within the shadow zone, not from S-wave absence. R explains the outer core's liquid state, not the inner core's solidity. R does NOT explain A.",
+        "Both A and R are correct but R is NOT the correct explanation of A — option (c)."
+      ],
+      "upsc_trap_explanation": "The trap is a reversed-causation-style mismatch: both A and R are individually correct geophysical facts, but they describe different inferences about the core. The S-wave shadow zone (R) is evidence for the liquid OUTER core; the solid INNER core (A) is inferred from P-wave arrivals (PKIKP) within the shadow zone. A student who treats both as 'core facts' will choose (a), but careful analysis shows R explains a different property of the core than what A claims.",
+      "final_explanation": "Earth's two-layer core model is derived from seismic wave behaviour. The S-wave shadow zone and the detection of P-waves within it provide complementary but distinct pieces of evidence.\n\nAssertion (A): The inner core is solid — this is correct, confirmed by P-waves following PKIKP paths that pass through the inner core. The velocity increase of P-waves in the inner core (compared to the liquid outer core) is consistent with a solid medium.\n\nReason (R): S-waves cannot propagate through liquids, causing the S-wave shadow zone beyond 103° from the epicenter — this is also correct and is the primary evidence for the liquid outer core.\n\nCausal relationship: R correctly explains why the outer core is liquid (S-wave blockage), but A is about the inner core's solidity. These are two separate inferences. R does not explain A; they are related facts about different parts of the core inferred from different wave phenomena. Hence, both A and R are correct, but R is NOT the correct explanation of A — answer is (c).\n\nValue Addition:\n• PKIKP = P-wave path that goes through outer core (K), inner core (I), outer core again (K), then up — this path's detection confirmed inner core solidity.\n• The outer core is ~2,200 km thick; inner core radius is ~1,220 km.\n• The transition from liquid outer to solid inner core is called the Lehmann discontinuity, named after Danish seismologist Inge Lehmann (1936)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The inner core of the Earth is inferred to be in a solid state, as evidenced by the detection of P-waves along paths that traverse the deepest interior within the S-wave shadow zone.\n\nReason (R): S-waves are shear waves incapable of propagating through liquids, which causes them to be completely absent beyond approximately 103° from the earthquake epicenter.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b927708e-6e53-4d7b-8ca7-50bb1e15bf15",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Richter Scale: Magnitude Measurement and Logarithmic Nature",
+        "Modified Mercalli Intensity Scale: Measuring Earthquake Effects"
+      ],
+      "subject_que_no": 1159,
+      "overall_que_no": 18133
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "chronology",
+      "trap_type": null,
+      "concept_anchor": "Development sequence: Richter scale, Mercalli scale, Moment Magnitude scale",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know Moment Magnitude (Mw) is 'newer' than Richter may place the Mercalli scale last because they associate 'Roman numeral' systems with older, pre-modern science, inverting the actual chronology of Mercalli and Richter.",
+      "elimination_logic": [
+        "The Modified Mercalli Intensity Scale was developed in 1931 by Harry Wood and Frank Neumann, modifying Mercalli's original 1902 scale — it is the earliest of the three in its modern form.",
+        "The Richter Scale was developed by Charles Richter in 1935 — placing it after Modified Mercalli in the sequence.",
+        "The Moment Magnitude Scale (Mw) was developed by Kanamori and Hanks in 1979 — the most recent of the three.",
+        "Correct sequence: Modified Mercalli (1931) → Richter (1935) → Moment Magnitude (1979), corresponding to option (d)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Earthquake measurement tools evolved as scientific understanding of seismic phenomena improved. Each scale addressed limitations of its predecessors.\n\nCorrect chronological order:\n1. Modified Mercalli Intensity Scale (1931) — a refinement of Giuseppe Mercalli's 1902 scale by Wood and Neumann; measures perceived shaking and damage using a Roman numeral scale (I–XII); predates instrumental magnitude measurement.\n2. Richter Scale (1935) — developed by Charles Richter; the first instrument-based magnitude scale, measuring seismic wave amplitude logarithmically; a major advance over purely observational Mercalli assessments.\n3. Moment Magnitude Scale, Mw (1979) — developed by Hiroo Kanamori and Thomas Hanks; overcomes Richter's saturation problem for large earthquakes by measuring seismic moment (rigidity × fault area × slip).\n\nWhy each wrong option fails:\n• (a) Richter → Mercalli → Mw: incorrectly places Richter before Mercalli.\n• (b) Mercalli → Mw → Richter: incorrectly places Mw before Richter.\n• (c) Richter → Mw → Mercalli: places Mercalli last, ignoring its pre-Richter origin.\n• (d) Mercalli → Richter → Mw: the only historically accurate sequence.\n\nValue Addition:\n• Richter saturates at ~Mw 8.0 — cannot meaningfully distinguish between M8.5 and M9.5 events.\n• The 2004 Indian Ocean earthquake was initially reported as M9.0 on Richter but revised to Mw 9.1–9.3 using Moment Magnitude.\n• Mercalli intensity at any location depends on local geology, distance from epicenter, and building quality — not just earthquake magnitude."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following represents the correct chronological order (earliest to most recent) in which the major earthquake measurement scales were developed?\n\n(a) Richter Scale → Modified Mercalli Intensity Scale → Moment Magnitude Scale\n(b) Modified Mercalli Intensity Scale → Moment Magnitude Scale → Richter Scale\n(c) Richter Scale → Moment Magnitude Scale → Modified Mercalli Intensity Scale\n(d) Modified Mercalli Intensity Scale → Richter Scale → Moment Magnitude Scale",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a38ec80a-3e81-4f04-beef-3e83e26e3c1b",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Seismograph and Seismogram: Instrumentation and Reading"
+      ],
+      "subject_que_no": 1160,
+      "overall_que_no": 18134
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Single seismograph gives distance not direction — three stations needed",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know the P–S time interval is used to find earthquake location assume one seismograph is sufficient, not recognising that the interval gives only distance (radius of a circle), not direction.",
+      "elimination_logic": [
+        "Eliminate (a): A single seismograph's P–S arrival interval gives the distance to the epicenter (radius of a circle centred on that station) — it does NOT give the direction, so the epicenter location cannot be uniquely determined.",
+        "Eliminate (c): The seismogram can be used to determine both the distance to the epicenter AND the relative magnitudes/arrival times of different wave types — it is not limited solely to wave-type identification.",
+        "Eliminate (d): The principle of inertia, not resonance, underlies seismograph operation — the suspended mass stays relatively still while the frame moves with the ground.",
+        "Retain (b): Triangulation using data from at least three seismograph stations is necessary to pinpoint the epicenter — each station provides a distance circle, and the intersection of three circles uniquely identifies the epicenter."
+      ],
+      "upsc_trap_explanation": "The trap exploits the common (correct) knowledge that P–S intervals determine epicentral distance. Students extend this to conclude that one station determines the epicenter's location, when in fact the P–S interval only gives a radius. The epicenter could be anywhere on a circle of that radius around the station. Three non-collinear stations produce three overlapping circles whose intersection is unique — this is triangulation. UPSC exploits this distinction to separate those who understand the geometry from those who merely recall the P–S formula.",
+      "final_explanation": "A seismologist at a remote monitoring station receives a seismogram from a recently recorded earthquake. The station's instrument, operating on the principle of a suspended mass remaining stationary while the ground frame moves, clearly shows three distinct wave arrivals. The P–S wave arrival time interval is measured as 4 minutes 20 seconds. The seismologist wants to locate the earthquake's epicenter.\n\nApplicable principle: The P–S time interval is used with travel-time curves to calculate the distance from the recording station to the epicenter. This gives a radius — the epicenter lies somewhere on a circle of that radius around the station. To uniquely locate the epicenter, data from at least three stations are required; the epicenter is at the intersection of three such distance circles (triangulation).\n\n• Option (a): Incorrect — one station's P–S interval gives only a distance, not a direction; a unique location cannot be determined.\n• Option (b): Correct — the seismologist must obtain records from at least two more stations; triangulation using three distance circles uniquely pinpoints the epicenter.\n• Option (c): Incorrect — the seismogram provides far more than wave-type identification; it gives arrival times, amplitude, and distance information.\n• Option (d): Incorrect — the working principle is inertia (the suspended mass's resistance to motion), not resonance.\n\nValue Addition:\n• The P–S interval in seconds × 8 gives approximate distance to epicenter in km (rough rule of thumb).\n• Modern global seismic networks (e.g., IRIS — Incorporated Research Institutions for Seismology) use hundreds of stations for rapid epicenter determination.\n• Seismographs can be horizontal (detecting horizontal ground motion) or vertical — a comprehensive setup uses both."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A seismologist at an isolated monitoring station records a seismogram showing three distinct wave arrival groups. Using the time interval between the first and second wave arrivals, the scientist calculates a specific distance value. The scientist now wants to identify the precise location of the earthquake's epicenter on a map. Which of the following best describes what the scientist must do next?\n\n(a) Mark the calculated distance on the map as a straight line in the direction of maximum amplitude — this gives the epicenter's location directly from one station\n(b) Obtain similar records from at least two additional stations and draw distance circles from each; the point where all three circles intersect is the epicenter\n(c) Use the seismogram's wave-type identification alone to determine both distance and direction, which is sufficient for single-station epicenter location\n(d) Apply the resonance principle of the seismograph to extract directional information from the suspended mass's oscillation pattern",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ce995f72-d468-4ca3-a922-7fecb7d63189",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Global Seismic Belts: Circum-Pacific, Alpide, and Mid-Atlantic Ridge Zones"
+      ],
+      "subject_que_no": 1161,
+      "overall_que_no": 18135
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "Alpide Belt — collision type, less volcanic; passes through India",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who associate 'Ring of Fire' characteristics (subduction + volcanism) with all major seismic belts may identify New Zealand as the odd one out because it is geographically distant from Asia, when in fact New Zealand is part of the Circum-Pacific Belt.",
+      "elimination_logic": [
+        "Identify the common characteristic: The question asks which location does NOT belong to the Alpide (Mediterranean–Himalayan) Belt.",
+        "Türkiye (Turkey): lies on the Anatolian plate within the Alpide Belt — included.",
+        "New Zealand: located on the Pacific Ring of Fire (Circum-Pacific Belt), a subduction-dominated zone — NOT part of the Alpide Belt.",
+        "Iran: lies within the Alpide Belt, bounded by the Zagros fold-and-thrust belt — included.",
+        "Pakistan (Balochistan): part of the collision zone between the Indian and Eurasian plates, within the Alpide Belt — included.",
+        "New Zealand is the odd one out — option (c)."
+      ],
+      "upsc_trap_explanation": "The geographic-swap trap works because New Zealand is a highly seismically active country, and a student who associates seismic activity with the question theme may not distinguish which belt it belongs to. New Zealand's seismicity is driven by the Circum-Pacific subduction system (Pacific plate subducting under the Australian plate), placing it firmly outside the Alpide Belt. Students who mentally map 'major earthquake zones' without distinguishing belt membership will incorrectly include New Zealand in the Alpide Belt.",
+      "final_explanation": "The Alpide Belt (also called the Mediterranean–Himalayan Belt) extends from the Atlantic through Southern Europe, the Middle East, Iran, Pakistan, India (Himalayas), and Southeast Asia. It accounts for approximately 15% of global earthquakes and is primarily a collision-type belt with limited volcanic activity.\n\n• Option (a) — Türkiye: Lies within the Alpide Belt; the North Anatolian Fault is one of its most seismically active segments.\n• Option (b) — Iran: Part of the Alpide Belt; the Zagros Mountains mark the Arabia–Eurasia collision front.\n• Option (c) — New Zealand: Does NOT belong to the Alpide Belt. New Zealand is part of the Circum-Pacific Belt ('Ring of Fire'), where the Pacific plate subducts under the Australian plate — a subduction-dominated, volcanically active setting entirely different from Alpide collision tectonics.\n• Option (d) — Balochistan (Pakistan): Lies within the Alpide Belt at the western convergence of the Indian and Eurasian plates.\n\nValue Addition:\n• The Alpide Belt passes through India via the Himalayas and continues eastward through the Andaman arc (where it transitions to subduction-type seismicity).\n• Unlike the Circum-Pacific Belt, the Alpide Belt has fewer associated volcanoes because most collisions are continent–continent, not involving oceanic subduction.\n• The 2005 Kashmir earthquake (Mw 7.6) and 2015 Nepal earthquake (Mw 7.8) are Alpide Belt events."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following locations are associated with the Alpide (Mediterranean–Himalayan) seismic belt, while one belongs to a different global seismic zone. Which one does NOT belong to the same seismic belt as the others?\n\n(a) Türkiye (Turkey)\n(b) Iran\n(c) New Zealand\n(d) Balochistan (Pakistan)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "32735b3e-e1ca-4b8d-8998-4507cf4388d7",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "India's Seismic Zonation: Zone II to Zone V Classification"
+      ],
+      "subject_que_no": 1162,
+      "overall_que_no": 18136
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Delhi seismic zone (IV not V) and Zone I status in current BIS map",
+      "statement_analysis": [
+        {
+          "statement": "Delhi is classified under Seismic Zone V in the Bureau of Indian Standards (BIS) seismic zonation map, placing it in the highest hazard category along with the entire northeastern India.",
+          "verdict": "Incorrect",
+          "reason": "Delhi falls under Seismic Zone IV (high damage risk), not Zone V. Zone V is the highest hazard category, comprising entire NE India, J&K, Himachal Pradesh, Uttarakhand, parts of Gujarat (Kutch), and Andaman & Nicobar Islands — Delhi is not included."
+        },
+        {
+          "statement": "Seismic Zone I has been eliminated from the current BIS seismic zonation map of India, meaning the lowest zone in the operative classification is now Zone II.",
+          "verdict": "Correct",
+          "reason": "The revised BIS seismic zone map (IS 1893:2016) dropped Zone I, so the current scale runs from Zone II (least hazard) to Zone V (most hazard), with Zone II being the operative lowest classification."
+        }
+      ],
+      "strong_distractor": "c — Students who know Delhi is seismically active but are uncertain of the exact zone number will consider Zone V plausible for the capital, leading them to mark Statement 1 as correct and Statement 2 as the only incorrect claim.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Delhi is in Zone IV — not Zone V. Zone V requires maximum MSK intensity VIII+ and includes NE India, parts of J&K, Uttarakhand, Kutch, and Andaman & Nicobar. Delhi's Zone IV status is a classic UPSC trap.",
+        "Evaluate Statement 2: The current BIS map (IS 1893) has no Zone I — the scale starts at Zone II. This is factually correct.",
+        "Statement 1 is incorrect; Statement 2 is correct — matching option (d)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in Statement 1 substitutes Zone V for Zone IV for Delhi. Students associate Delhi with high seismic risk (correctly) and then assign it to the highest zone (incorrectly). Delhi's Zone IV status means it faces high but not the maximum seismic hazard. The elimination of Zone I from the BIS map (Statement 2) is a less-known but frequently tested fact — students who learned the old Zone I–V scheme incorrectly mark Statement 2 as false.",
+      "final_explanation": "India's seismic zonation under the Bureau of Indian Standards (BIS) classifies regions into zones based on expected maximum seismic intensity.\n\n• Statement 1 — Incorrect: Delhi falls under Seismic Zone IV, not Zone V. Zone V (highest hazard, MSK intensity VIII and above) includes the entire northeast, J&K, Himachal Pradesh, Uttarakhand, Kutch region of Gujarat, and Andaman & Nicobar. Delhi's Zone IV status reflects high but not maximum hazard.\n• Statement 2 — Correct: The current BIS standard (IS 1893:2016) eliminated Zone I from the classification. The operative seismic zone scale now runs from Zone II (lowest hazard) to Zone V (highest hazard).\n\nOnly Statement 2 is correct — option (d).\n\nValue Addition:\n• Mumbai falls in Seismic Zone III; Chennai is in Zone II or III depending on the locality.\n• The Kutch region of Gujarat (Bhuj area) is the only part of Peninsular India in Zone V — elevated after the 2001 Bhuj earthquake.\n• Latur (Maharashtra) is in Zone III — its 1993 earthquake challenged the assumption that Deccan Plateau is seismically stable."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding India's seismic zonation:\n\nStatement 1: Delhi is classified under Seismic Zone V in the Bureau of Indian Standards (BIS) seismic zonation map, placing it in the highest hazard category along with the entire northeastern India.\n\nStatement 2: Seismic Zone I has been eliminated from the current BIS seismic zonation map of India, meaning the lowest zone in the operative classification is now Zone II.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a5f89d9b-dd42-4b55-aab1-5f6475373233",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Tsunami Generation: Seismic Trigger Conditions and Wave Characteristics"
+      ],
+      "subject_que_no": 1163,
+      "overall_que_no": 18137
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Strike-slip faults do not generate tsunamis — only dip-slip vertical faults do",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know tsunamis require large earthquakes may select 'any submarine earthquake above magnitude 7' without recognising that fault type (vertical displacement) is the critical discriminating condition.",
+      "elimination_logic": [
+        "Eliminate (b): magnitude threshold alone is insufficient — a strike-slip fault earthquake of M8+ will not generate a tsunami if there is no significant vertical seafloor displacement.",
+        "Eliminate (c): 'exclusively at mid-ocean ridges' is factually wrong — tsunamis are generated at subduction zones (e.g., Sumatra, Japan), not at mid-ocean ridges.",
+        "Eliminate (d): deep-focus earthquakes (>300 km) do NOT generate tsunamis because the seafloor displacement at such depths is negligible at the surface.",
+        "Retain (a): tsunamis require shallow-focus, high-magnitude events on dip-slip (thrust/reverse) faults — vertical seafloor displacement is the mechanism that displaces the water column."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap in option (b) is that it correctly identifies magnitude and submarine location but omits the critical condition of fault type. Strike-slip faults produce horizontal motion and cannot efficiently displace a water column vertically. The 2004 Sumatra tsunami was generated by a megathrust (dip-slip) fault — the largest dip-slip rupture in recorded history. UPSC exploits this by making magnitude-based options sound complete.",
+      "final_explanation": "Tsunamis are seismically triggered ocean waves requiring specific conditions at the earthquake source.\n\n• Option (a): Correct — tsunamis require a shallow-focus submarine earthquake with vertical (dip-slip) fault displacement. The vertical movement of the seafloor displaces the entire water column above it, generating the tsunami. Magnitude must generally exceed 7.0.\n• Option (b): Incorrect — magnitude and submarine location alone are insufficient. A strike-slip earthquake (horizontal motion) of M8+ will not generate a significant tsunami because there is no net vertical seafloor displacement.\n• Option (c): Incorrect — mid-ocean ridges produce shallow, moderate earthquakes on transform faults (strike-slip) — not the dip-slip events needed for tsunami generation.\n• Option (d): Incorrect — deep-focus earthquakes (300–700 km) cannot efficiently displace the seafloor surface; the intervening rock absorbs the displacement before it reaches the ocean floor.\n\nValue Addition:\n• In the open ocean, tsunami waves travel at ~800 km/h with wavelengths of hundreds of km and heights under 1 m — imperceptible to ships.\n• The shoaling effect near coastlines compresses wavelength and amplifies wave height dramatically — sometimes exceeding 30 m.\n• The Pacific Tsunami Warning Center (PTWC) and Indian Ocean Tsunami Warning System (IOTWS) use seismic and tide gauge data for alerts."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A tsunami is most likely to be generated when a submarine earthquake fulfils which of the following sets of conditions?\n\n(a) Shallow focus (less than 50 km depth), magnitude greater than 7, and a thrust or reverse fault producing significant vertical displacement of the seafloor\n(b) Any submarine earthquake exceeding magnitude 7, regardless of focal depth or the type of fault movement involved\n(c) Shallow-focus earthquakes occurring exclusively at mid-ocean ridge transform faults where tectonic stress is highest\n(d) Deep-focus earthquakes (greater than 300 km depth) in subduction zones, where the magnitude of energy release is greatest",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3087b3da-7a3f-497a-ba70-d336366a55af",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Liquefaction: Soil Behaviour During Earthquakes"
+      ],
+      "subject_que_no": 1164,
+      "overall_que_no": 18138
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "Liquefaction conditions — saturated sandy soils, NOT hard rock",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who associate 'liquefaction' with extreme heat or volcanic activity may mark the Deccan Plateau (basaltic hard rock) pair as correct because they conflate liquefaction with rock melting.",
+      "elimination_logic": [
+        "Eliminate (a): Liquefaction does not occur in hard crystalline rock terrain — it requires loose, saturated sandy/silty soils; pairing liquefaction with granite uplands is factually incorrect.",
+        "Evaluate (b): Coastal river delta with high water table and young unconsolidated sandy sediments — this precisely matches all three conditions for liquefaction (saturation, loose packing, sandy texture); this pair is correctly matched.",
+        "Eliminate (c): Deccan Plateau's hard basaltic rock is immune to liquefaction — rock cannot undergo pore-pressure-driven strength loss; this is the conflation trap.",
+        "Eliminate (d): Deep bedrock areas lack the saturated loose soil required for liquefaction — depth and rock type make this inappropriate for liquefaction hazard."
+      ],
+      "upsc_trap_explanation": "The conflation trap works by exploiting the word 'liquefaction' — students who know it involves soil 'acting like liquid' may extend this to volcanic melting or rock softening, associating it with igneous terrain. In reality, liquefaction is a soil mechanics phenomenon affecting loose, water-saturated sandy deposits. Hard rock areas — whether Deccan basalt or Himalayan granite — are completely immune. The Bhuj 2001 earthquake demonstrated severe liquefaction in the Rann of Kutch region's alluvial and coastal deposits, not in rocky terrain.",
+      "final_explanation": "Soil liquefaction occurs when saturated, loosely packed sandy or silty soils lose their shear strength under seismic loading. Three conditions must simultaneously be met: high groundwater table, young unconsolidated deposits, and sandy/silty texture.\n\n• Option (a): Incorrect — granite uplands are hard, crystalline, and unaffected by pore-water pressure changes; liquefaction does not occur in competent rock terrain.\n• Option (b): Correct — coastal river deltas with young alluvial sands and shallow water tables exemplify the ideal conditions for liquefaction; during seismic shaking, pore-water pressure rises rapidly, causing soil to behave like a fluid. This was observed in Bhuj 2001 in coastal Kutch.\n• Option (c): Incorrect — Deccan Plateau's basaltic rock is hard and consolidated; the conflation of 'liquefaction' with volcanic or igneous rock processes is geologically unfounded.\n• Option (d): Incorrect — deep bedrock provides no loose sediment column for liquefaction to act upon; bedrock is actually protective against liquefaction hazard.\n\nValue Addition:\n• Liquefaction can cause buildings to tilt or sink, roads to buckle, and underground utilities to float upward.\n• Japan's 1964 Niigata earthquake and the 2011 Tohoku earthquake both produced extensive liquefaction in coastal lowlands.\n• Coastal cities built on reclaimed land (e.g., parts of Mumbai, Tokyo) face elevated liquefaction risk."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following pairs — connecting a geological/geomorphic setting with its susceptibility to earthquake-induced liquefaction — is correctly matched?\n\n(a) Granite upland terrain with deep weathered crust — High liquefaction susceptibility due to accumulated moisture in saprolite layers\n(b) Coastal river delta with shallow water table and young unconsolidated sandy sediments — High liquefaction susceptibility due to saturated loose soil conditions\n(c) Deccan Plateau basaltic terrain — High liquefaction susceptibility because basaltic rock softens significantly during seismic vibration\n(d) Deep bedrock zone with minimal overlying soil cover — High liquefaction susceptibility because seismic waves concentrate energy at the rock surface",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "334b0c09-fc28-4167-99c1-a60154deef67",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Aftershocks, Foreshocks, and Earthquake Swarms: Patterns and Significance"
+      ],
+      "subject_que_no": 1165,
+      "overall_que_no": 18139
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Omori's Law, Bath's Law, and earthquake swarm characteristics",
+      "statement_analysis": [
+        {
+          "statement": "Omori's Law describes how aftershock frequency decreases over time following a mainshock, with the rate of occurrence inversely proportional to the time elapsed since the mainshock.",
+          "verdict": "Correct",
+          "reason": "Omori's Law (1894) expresses that aftershock frequency decays approximately as 1/t, where t is time after the mainshock — a well-established empirical relationship in seismology."
+        },
+        {
+          "statement": "Foreshocks are defined by their occurrence before a mainshock, and modern seismological methods can reliably identify them as foreshocks in advance, enabling accurate short-term earthquake prediction.",
+          "verdict": "Incorrect",
+          "reason": "Foreshocks can only be identified as such in retrospect, after the mainshock occurs. No reliable method exists to distinguish a foreshock from an independent small earthquake before the mainshock, making deterministic short-term prediction impossible."
+        },
+        {
+          "statement": "Earthquake swarms are characterised by a series of similarly sized earthquakes with no single clearly dominant mainshock, and they are more commonly associated with volcanic and geothermal areas than with ordinary tectonic faults.",
+          "verdict": "Correct",
+          "reason": "Earthquake swarms lack a clear mainshock–aftershock pattern and are frequently observed in regions of fluid movement, volcanic activity, or geothermal processes — distinguishing them structurally from typical mainshock sequences."
+        }
+      ],
+      "strong_distractor": "d — Students who accept Statement 2 because they know foreshocks 'have been used in some prediction attempts' conflate historical pattern recognition with reliable advance identification, marking all three statements as correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Omori's Law is a well-documented inverse time-decay relationship for aftershock frequency — correct.",
+        "Evaluate Statement 2: 'Reliably identified in advance' and 'accurate short-term prediction' are the scope-extension qualifiers; foreshock identification is only possible in hindsight — Statement 2 is incorrect.",
+        "Evaluate Statement 3: Swarms lack a dominant mainshock and are linked to volcanic/geothermal settings — correct.",
+        "Statements 1 and 3 are correct; Statement 2 is incorrect — option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension in Statement 2 converts a partial truth ('foreshocks exist and sometimes precede large earthquakes') into an overreach ('they can be reliably identified in advance'). This is a classic UPSC trap: the underlying phenomenon is real, but the claim about its predictive reliability is false. The 1975 Haicheng (China) earthquake was successfully (partly) predicted using foreshock patterns — but this remains the exception, not the rule, and was also based on multiple precursor types, not foreshocks alone.",
+      "final_explanation": "Earthquakes rarely occur in isolation. They are accompanied by foreshocks, aftershocks, or swarm sequences, each with distinct characteristics and predictive implications.\n\n• Statement 1 — Correct: Omori's Law states that aftershock frequency decreases inversely with time (n ∝ 1/t). This decay pattern is used to forecast aftershock hazard in the days to months after a mainshock.\n• Statement 2 — Incorrect: Foreshocks can only be identified retrospectively — after the mainshock reveals them as precursors. No validated real-time method exists to distinguish a foreshock from a standalone small earthquake. This fundamental limitation makes deterministic short-term earthquake prediction impossible using foreshock data alone.\n• Statement 3 — Correct: Swarms are sequences where no single event dominates; they are common in volcanic arcs, calderas, and geothermal fields (e.g., Yellowstone, Iceland) where fluid migration drives seismicity.\n\nValue Addition:\n• Bath's Law: the largest aftershock is typically about 1.2 magnitude units smaller than the mainshock (e.g., M9.0 → M7.8 largest aftershock).\n• The 2011 Tohoku (M9.0) sequence had a M7.7 aftershock — consistent with Bath's Law.\n• The Christchurch 2011 (M6.3) earthquake was technically an aftershock of the M7.1 Darfield 2010 earthquake, yet caused far more damage due to its proximity and shallow depth."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about earthquake sequences:\n\n1. Omori's Law describes how aftershock frequency decreases over time following a mainshock, with the rate of occurrence inversely proportional to the time elapsed since the mainshock.\n2. Foreshocks are defined by their occurrence before a mainshock, and modern seismological methods can reliably identify them as foreshocks in advance, enabling accurate short-term earthquake prediction.\n3. Earthquake swarms are characterised by a series of similarly sized earthquakes with no single clearly dominant mainshock, and they are more commonly associated with volcanic and geothermal areas than with ordinary tectonic faults.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "96b959b1-1251-4d96-beff-7578c6a85316",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Earthquake Prediction vs. Early Warning Systems: Distinction and Limitations"
+      ],
+      "subject_que_no": 1166,
+      "overall_que_no": 18140
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "EEW is post-earthquake alert, not prediction — Japan J-Alert example",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who encounter the term 'early warning' naturally associate it with prediction (warning before the event), not with the detection of already-occurring P-waves — a linguistic conflation trap.",
+      "elimination_logic": [
+        "Eliminate (a): 'Predicts the occurrence of an earthquake before any seismic activity begins' describes long-term probabilistic forecasting or impossible deterministic prediction — not EEW, which requires the earthquake to have already started.",
+        "Eliminate (c): EEW does not use GPS satellite signals as its primary mechanism; it uses seismograph networks detecting P-wave arrivals at nearby stations.",
+        "Eliminate (d): EEW provides seconds to tens of seconds of warning — not hours; describing it as providing 'hours of advance warning' is factually wrong and conflates EEW with tsunami warning systems.",
+        "Retain (b): EEW systems detect the P-wave of an already-initiated earthquake and broadcast alerts before the slower, more destructive S-waves and surface waves reach populated areas — the defining operational principle."
+      ],
+      "upsc_trap_explanation": "The linguistic conflation trap exploits the phrase 'early warning' — students associate 'early' with 'before the event begins.' In fact, EEW is an early warning relative to the destructive waves, not relative to the earthquake's initiation. By the time an EEW alert is sent, the earthquake has already started and P-waves are being recorded. Japan's J-Alert system epitomises this: alerts may precede destructive shaking by 10–60 seconds, not hours or days.",
+      "final_explanation": "Earthquake Early Warning (EEW) systems represent a critical distinction from earthquake prediction in both mechanism and timescale.\n\n• Option (a): Incorrect — predicting an earthquake 'before any seismic activity begins' is deterministic prediction, which current science cannot achieve. EEW requires seismic activity to have already started.\n• Option (b): Correct — EEW detects P-waves (fast, less destructive) from an earthquake that has already begun and transmits automated alerts to areas that have not yet been reached by the slower, destructive S-waves and surface waves. This provides seconds to a few tens of seconds of warning — sufficient to take protective action.\n• Option (c): Incorrect — EEW's primary sensors are dense seismograph networks, not GPS satellites. GPS-based geodesy supports tectonic monitoring, not real-time EEW.\n• Option (d): Incorrect — EEW provides seconds of warning, not hours. Tsunami warning systems may provide hours of lead time for distant coasts, but EEW for ground shaking works on a seconds-level timescale.\n\nValue Addition:\n• Japan's J-Alert (National Early Warning system) is the world's most advanced EEW network, capable of alerting Tokyo within seconds of a large offshore earthquake.\n• Mexico's SASMEX (Seismic Alert System) operates similarly — it gave ~60 seconds of warning before the 1995 Manzanillo earthquake reached Mexico City.\n• ShakeAlert is the EEW system under development for the US West Coast (California, Oregon, Washington)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following most accurately describes the operational principle of an Earthquake Early Warning (EEW) system?\n\n(a) It predicts the occurrence of an earthquake before any seismic activity begins, allowing populations to evacuate hours in advance of the event\n(b) It detects the faster but less destructive primary waves of an already-initiated earthquake and transmits alerts to enable protective action before the slower, more destructive waves arrive\n(c) It uses GPS satellite signals to identify crustal strain accumulation and forecasts the time and magnitude of future earthquakes with deterministic precision\n(d) It monitors fault-zone ground deformation and provides hours of advance warning to civil authorities once dangerous strain thresholds are crossed",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4e24ae76-5f0b-4e93-99eb-d918de3df3af",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Seismic Hazard vs. Seismic Risk: Conceptual Distinction for Disaster Management"
+      ],
+      "subject_que_no": 1167,
+      "overall_que_no": 18141
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Seismic hazard vs. risk — high hazard can coexist with low risk",
+      "statement_analysis": [
+        {
+          "statement": "A region with high seismic hazard necessarily has high seismic risk, because hazard directly determines the level of risk faced by a population.",
+          "verdict": "Incorrect",
+          "reason": "Seismic risk is a function of hazard × exposure × vulnerability. A sparsely populated, well-constructed area may have high hazard but very low risk — the Himachal Pradesh highlands versus a dense urban slum in Zone IV illustrate this distinction."
+        },
+        {
+          "statement": "Seismic hazard is expressed as the probability of experiencing ground shaking of a given intensity at a specific location within a defined time period.",
+          "verdict": "Correct",
+          "reason": "Hazard in seismology is a probabilistic physical phenomenon — it quantifies the likelihood of a specific level of ground motion occurring at a location, independent of what is exposed to that shaking."
+        },
+        {
+          "statement": "A densely populated Himalayan city with poor-quality construction located in Seismic Zone V represents a situation of high seismic risk because all three components of risk — hazard, exposure, and vulnerability — are simultaneously elevated.",
+          "verdict": "Correct",
+          "reason": "Risk = Hazard × Exposure × Vulnerability; Zone V (high hazard) + dense population (high exposure) + poor construction (high vulnerability) = extreme risk, making this a textbook high-risk scenario."
+        }
+      ],
+      "strong_distractor": "b — Students who correctly identify Statement 1 as NOT correct may then question Statement 3, thinking it is too straightforward to be included in a multi-statement question, leading them to also mark Statement 3 as incorrect.",
+      "elimination_logic": [
+        "Evaluate Statement 1: 'necessarily has high risk' is a scope-extension — high hazard is only one component; sparse population or good construction can reduce risk dramatically; Statement 1 is NOT correct.",
+        "Evaluate Statement 2: Probabilistic ground-motion likelihood at a location is the standard definition of seismic hazard — this is correct.",
+        "Evaluate Statement 3: All three risk components are elevated in the described Himalayan city scenario — this is correct.",
+        "Only Statement 1 is NOT correct — option (a)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 1 converts the correct partial relationship (hazard contributes to risk) into an absolute claim (hazard determines risk). This is a UPSC disaster management favourite: remote high-hazard areas (deserts, unpopulated mountains) have negligible risk despite extreme hazard, while moderate-hazard areas with dense, vulnerable populations (certain Indian cities) can have very high risk. The distinction between hazard and risk is foundational to the Sendai Framework for Disaster Risk Reduction.",
+      "final_explanation": "The distinction between seismic hazard and seismic risk is foundational to disaster management policy and urban planning.\n\n• Statement 1 — NOT correct: Hazard does not determine risk alone. Risk = Hazard × Exposure × Vulnerability. A remote mountain valley in Zone V with 200 inhabitants in well-built structures has high hazard but low risk. Equating hazard with risk is a policy-level error that leads to misallocation of disaster management resources.\n• Statement 2 — Correct: Hazard is expressed probabilistically — e.g., '10% probability of exceeding PGA 0.3g in 50 years' — and is a location-specific physical characteristic independent of what humans or structures are present.\n• Statement 3 — Correct: Himalayan cities in Zone V combine all three risk amplifiers — high hazard from shallow collision-type earthquakes, high exposure from dense and growing urban populations, and high vulnerability from substandard construction practices.\n\nValue Addition:\n• The Sendai Framework for Disaster Risk Reduction (2015–2030) explicitly separates hazard from risk and focuses on reducing vulnerability and exposure.\n• Urban risk hotspots in India include Guwahati, Srinagar, Dehradun, and Gangtok — all in Zone IV or V with rapid, often unregulated urban growth.\n• Risk-sensitive land-use planning requires hazard maps AND exposure/vulnerability data — hazard maps alone are insufficient."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding seismic hazard and seismic risk:\n\n1. A region with high seismic hazard necessarily has high seismic risk, because hazard directly determines the level of risk faced by a population.\n2. Seismic hazard is expressed as the probability of experiencing ground shaking of a given intensity at a specific location within a defined time period.\n3. A densely populated Himalayan city with poor-quality construction located in Seismic Zone V represents a situation of high seismic risk because all three components of risk — hazard, exposure, and vulnerability — are simultaneously elevated.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "18b44a57-c0cf-464b-9db4-c40601913eb6",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Notable Indian Earthquakes: Bhuj, Uttarkashi, Latur — Geomorphic and Policy Lessons"
+      ],
+      "subject_que_no": 1168,
+      "overall_que_no": 18142
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Bhuj, Latur, Uttarkashi — magnitude, zone, and policy outcomes",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who associate Latur with Zone V (thinking it was elevated to Zone V after 1993) and Bhuj with Zone III (confusing it with other Gujarat cities) will choose option (a), swapping the zone classifications of these two earthquakes.",
+      "elimination_logic": [
+        "Match A (Bhuj 2001): Bhuj is in Kutch, Gujarat — Seismic Zone V and was a Mw 7.7 intraplate earthquake characterised by severe liquefaction; matches description 2.",
+        "Match B (Latur 1993): Latur occurred in the Deccan Plateau, classified Zone III at the time; it challenged peninsular stability assumptions; matches description 4.",
+        "Match C (Uttarkashi 1991): A Himalayan shallow-focus collision-type earthquake; triggered extensive landslides as secondary hazards; matches description 1.",
+        "Match D (Chamoli 1999): Another Garhwal Himalaya earthquake; Himalayan collision zone, landslide secondary hazards; matches description 3.",
+        "Correct matching: A-2, B-4, C-1, D-3 — option (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap operates by confusing Latur's seismic zone classification. Students who know Latur 'led to zone revision' may incorrectly infer it was originally in Zone V (the highest), when it was actually in Zone III — a supposedly stable peninsular zone. This is precisely what made the 1993 earthquake scientifically significant: it struck in an area classified as moderate-hazard, killing ~10,000 people. Post-Latur revisions elevated some Deccan areas but Latur itself remained in Zone III, with the broader policy lesson being about building quality, not zone reclassification.",
+      "final_explanation": "India's notable earthquakes have each contributed distinct geomorphic lessons and policy responses.\n\nCorrect pairings:\n• A–2 (Bhuj 2001): Mw 7.7 intraplate earthquake in Kutch (Zone V); demonstrated severe liquefaction and lateral spreading in coastal alluvial terrain; exposed catastrophic failure of building code enforcement in rapidly growing towns.\n• B–4 (Latur 1993): Struck the Deccan Plateau in Zone III — a supposedly stable region; ~10,000 deaths; challenged the assumption of peninsular seismic stability and prompted BIS zone map revision for some areas, plus institutional impetus toward the NDMA framework.\n• C–1 (Uttarkashi 1991): Garhwal Himalaya; shallow-focus collision-type event; triggered large-scale landslides and debris flows — a classic example of earthquake-induced secondary geomorphic hazards in mountain terrain.\n• D–3 (Chamoli 1999): Also in Garhwal Himalaya; shallow focus; landslide secondary hazards similar to Uttarkashi, reinforcing the pattern of combined earthquake-landslide risk in the Higher Himalayas.\n\nTrap: Students often swap Latur's zone (III) with Bhuj's (V) or incorrectly elevate Latur to Zone V post-earthquake.\n\nValue Addition:\n• The National Disaster Management Authority (NDMA) was established under the Disaster Management Act, 2005 — the institutional response to lessons from Bhuj and Latur.\n• Bhuj 2001 remains India's deadliest peacetime earthquake in recent history (~20,000 deaths).\n• Uttarkashi district has experienced multiple significant earthquakes (1991, and earlier 1803) — making it one of India's historically most seismically active districts."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Notable Indian Earthquake) with List II (Key Characteristic or Policy Significance):",
+        "columns": [
+          "List I (Earthquake)",
+          "List II (Key Characteristic / Policy Significance)"
+        ],
+        "rows": [
+          [
+            "A. Bhuj 2001",
+            "1. Shallow-focus Himalayan collision-type event that triggered extensive landslides as secondary geomorphic hazards"
+          ],
+          [
+            "B. Latur 1993",
+            "2. Intraplate Mw 7.7 event in Seismic Zone V characterised by severe liquefaction and lateral spreading in alluvial terrain"
+          ],
+          [
+            "C. Uttarkashi 1991",
+            "3. Garhwal Himalaya earthquake reinforcing the pattern of combined seismic-landslide risk in higher mountain terrain"
+          ],
+          [
+            "D. Chamoli 1999",
+            "4. Struck a Seismic Zone III area of Peninsular India, challenging stability assumptions about the Deccan Plateau and catalysing institutional seismic policy reform"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-4, B-2, C-3, D-1\n(b) A-2, B-1, C-4, D-3\n(c) A-2, B-4, C-1, D-3\n(d) A-4, B-1, C-2, D-3"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5f154923-efd6-4d48-aeb9-4d0503f86555",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Tectonic Causes of Earthquakes: Fault Types and Stress Mechanisms",
+        "Non-Tectonic Causes of Earthquakes: Volcanic, Collapse, and Reservoir-Induced Seismicity"
+      ],
+      "subject_que_no": 1169,
+      "overall_que_no": 18143
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "Elastic rebound theory — stress accumulation and sudden release",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both facts and intuitively feel elastic rebound 'explains' why rocks can accumulate stress may select (a) without carefully examining whether R (volcanic magma movement) is the cause of elastic rebound-type stress.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? The elastic rebound theory explains tectonic earthquakes through gradual stress accumulation in rocks along fault planes until frictional resistance is overcome, causing sudden slip — this is correct.",
+        "Step 2 — Is Reason (R) correct? R states that volcanic earthquakes are caused by magma movement through conduits — this is also factually correct.",
+        "Step 3 — Does R explain A? R describes the cause of volcanic earthquakes; A describes the mechanism of tectonic earthquakes via elastic rebound. These are two different earthquake types with different mechanisms. Magma movement (R) does NOT explain elastic rebound stress accumulation (A).",
+        "Both A and R are correct, but R is NOT the correct explanation of A — option (b)... wait, re-checking: Step 3 confirms R does not explain A, so the answer is (b). But the options given are standard AR options. Correct_option is b.",
+        "Both A and R are individually correct facts from different earthquake cause categories, but R explains volcanic earthquakes, not the elastic rebound mechanism — answer is (b)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "The elastic rebound theory (H.F. Reid, 1906) explains tectonic earthquakes: rocks on either side of a fault accumulate strain energy as tectonic plates move; when stress exceeds frictional resistance, sudden slip releases this energy as seismic waves. This is distinct from volcanic earthquakes, which are caused by magma and fluid movement.\n\nAssertion (A): The elastic rebound theory correctly describes stress accumulation and sudden release at fault planes — factually accurate for tectonic earthquakes.\n\nReason (R): Volcanic earthquakes are indeed triggered by magma movement through conduits, creating pressure and fracturing rock — also factually correct as a standalone statement about non-tectonic earthquakes.\n\nCausal relationship: R describes the mechanism of volcanic earthquakes; A describes the elastic rebound mechanism of tectonic earthquakes. Magma movement has nothing to do with elastic rebound. These are two independent, correct facts from different earthquake cause categories. R does not explain A.\n\nTherefore, both A and R are correct, but R is NOT the correct explanation of A — answer is (b).\n\nValue Addition:\n• Reid developed elastic rebound theory after studying ground displacement from the 1906 San Francisco earthquake along the San Andreas Fault.\n• The 'seismic cycle' concept — inter-seismic strain accumulation, co-seismic release, post-seismic relaxation — is built on elastic rebound theory.\n• Volcanic earthquakes have characteristically different waveforms (harmonic tremor) compared to tectonic earthquakes, aiding distinction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The elastic rebound theory explains tectonic earthquakes as the result of gradual stress accumulation along fault planes, which is suddenly released when frictional resistance is overcome, causing rocks to snap back and generate seismic waves.\n\nReason (R): Volcanic earthquakes are generated by the movement of magma through underground conduits, which creates pressure and fractures surrounding rock.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "94833993-39c8-4c3b-9fda-7f94e93c25cb",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Richter Scale: Magnitude Measurement and Logarithmic Nature",
+        "Modified Mercalli Intensity Scale: Measuring Earthquake Effects"
+      ],
+      "subject_que_no": 1170,
+      "overall_que_no": 18144
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Richter scale measures magnitude not intensity; ~31.6× energy per unit",
+      "statement_analysis": [
+        {
+          "statement": "On the Richter scale, each whole-number increase corresponds to a tenfold increase in the amplitude of seismic waves recorded on a seismograph.",
+          "verdict": "Correct",
+          "reason": "The Richter scale is logarithmic to base 10 for wave amplitude; a magnitude 6 earthquake produces waves 10 times the amplitude of a magnitude 5 earthquake."
+        },
+        {
+          "statement": "A magnitude 7 earthquake releases approximately 31.6 times more energy than a magnitude 6 earthquake on the Richter scale.",
+          "verdict": "Correct",
+          "reason": "While amplitude increases by 10× per whole number, energy release increases by approximately 31.6× (10^1.5) per whole unit of magnitude — the two quantities scale differently."
+        },
+        {
+          "statement": "The Richter scale measures the intensity of shaking perceived at a specific location, which is why two observers at different distances from an epicenter report different Richter magnitudes for the same earthquake.",
+          "verdict": "Incorrect",
+          "reason": "The Richter scale measures magnitude — a single value representing energy release at the source. What varies with location is intensity (measured on the Modified Mercalli scale), not Richter magnitude."
+        }
+      ],
+      "strong_distractor": "d — Students who confuse magnitude with intensity (a classic misconception) may accept Statement 3 as correct and mark all three statements correct, choosing option (d).",
+      "elimination_logic": [
+        "Evaluate Statement 1: 10× amplitude per whole unit is the defining logarithmic property of the Richter scale — correct.",
+        "Evaluate Statement 2: 31.6× (~10^1.5) energy per unit is the standard energy-amplitude relationship — correct.",
+        "Evaluate Statement 3: 'Intensity perceived at a specific location' is the Modified Mercalli scale, not Richter. Richter gives a single source magnitude — the entity-swap here is Richter for Mercalli; Statement 3 is incorrect.",
+        "Statements 1 and 2 are correct — option (b)."
+      ],
+      "upsc_trap_explanation": "The entity-swap in Statement 3 substitutes 'Richter magnitude' for 'Mercalli intensity.' This is the most common earthquake measurement misconception: believing that magnitude varies by location. In reality, magnitude is a fixed characteristic of the earthquake source — it does not change based on where it is measured. Intensity (Mercalli) varies spatially. UPSC has historically tested this distinction, and Statement 3 is worded to sound plausible to students who have not carefully separated the two concepts.",
+      "final_explanation": "The Richter scale, developed in 1935, was the first standardised instrument-based earthquake measurement system. Understanding its logarithmic properties is essential for distinguishing it from intensity scales.\n\n• Statement 1 — Correct: Each whole-number increase in Richter magnitude = 10× increase in wave amplitude. A M7 earthquake produces 100× the wave amplitude of a M5 earthquake.\n• Statement 2 — Correct: Energy release scales as 10^1.5 ≈ 31.6× per whole magnitude unit. A M8 earthquake releases ~1,000 times (31.6²) the energy of a M6.\n• Statement 3 — Incorrect: This statement describes intensity (Modified Mercalli scale), not magnitude. The Richter magnitude is a single-valued measure of seismic energy at the source — it does not vary with observer location. What varies by distance and local conditions is the Modified Mercalli Intensity (I–XII).\n\nValue Addition:\n• Richter scale was calibrated for Southern California using Wood–Anderson seismographs — it has geographic and instrument limitations.\n• Richter saturates above ~M8: it cannot distinguish a M8.5 from a M9.2 event accurately, which is why Moment Magnitude (Mw) replaced it for large events.\n• The common phrase 'X on the Richter scale' in news reporting often actually refers to Mw in modern usage."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Richter scale and earthquake measurement:\n\n1. On the Richter scale, each whole-number increase corresponds to a tenfold increase in the amplitude of seismic waves recorded on a seismograph.\n2. A magnitude 7 earthquake releases approximately 31.6 times more energy than a magnitude 6 earthquake on the Richter scale.\n3. The Richter scale measures the intensity of shaking perceived at a specific location, which is why two observers at different distances from an epicenter report different Richter magnitudes for the same earthquake.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ae90594d-7737-4129-969d-19f77fb260c0",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Moment Magnitude Scale (Mw): Modern Standard and Comparison with Richter"
+      ],
+      "subject_que_no": 1171,
+      "overall_que_no": 18145
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Moment Magnitude — seismic moment = rigidity × fault area × average slip",
+      "statement_analysis": null,
+      "strong_distractor": "a — 'Peak ground acceleration and seismic energy frequency' sounds like a physically sophisticated modern measurement parameter, making it deceptively plausible as the basis for Mw.",
+      "elimination_logic": [
+        "Eliminate (a): Peak ground acceleration is used in engineering seismic hazard assessment but is NOT the basis of the Moment Magnitude scale.",
+        "Eliminate (b): Maximum seismic wave amplitude corrected for distance is the Richter scale's basis — Mw was developed precisely to overcome the limitations of this approach.",
+        "Retain (c): Seismic moment — the product of the rigidity of the rock, the area of fault that ruptured, and the average amount of slip — is the physical quantity underlying the Moment Magnitude scale.",
+        "Eliminate (d): Intensity of felt shaking at the epicenter describes the Mercalli scale's basis, not Mw."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap in option (a) combines real seismic terms ('peak ground acceleration,' 'frequency') into a description that sounds like a sophisticated modern scale. Students unfamiliar with the precise definition of seismic moment may gravitate toward (a) as the 'modern scientific' answer. Seismic moment is a less intuitively obvious parameter — it requires knowing the physics of fault mechanics rather than just seismogram measurements.",
+      "final_explanation": "The Moment Magnitude Scale (Mw) was developed in 1979 by Kanamori and Hanks to overcome the saturation problem of the Richter scale for large earthquakes.\n\n• Option (a): Incorrect — peak ground acceleration is an engineering parameter used in building code design, not the physical basis of Mw.\n• Option (b): Incorrect — maximum seismic wave amplitude corrected for distance is the Richter scale's measurement basis; Mw was designed to replace this approach for large events.\n• Option (c): Correct — Mw is derived from seismic moment (M₀), defined as rigidity (μ) × fault rupture area (A) × average slip (D). This physical quantity does not saturate, enabling meaningful distinction between M8.5 and M9.3 events.\n• Option (d): Incorrect — intensity of felt shaking at the epicenter is the conceptual basis of the Modified Mercalli scale, not Mw.\n\nValue Addition:\n• For moderate earthquakes (below M7), Mw and Richter give nearly identical values — continuity was deliberately maintained.\n• The 2004 Indian Ocean earthquake was initially reported as M9.0 but revised to Mw 9.1–9.3 after more precise moment calculation.\n• Seismic moment can be calculated from static fault parameters (geology) OR from seismograms — enabling retrospective estimation of ancient earthquake magnitudes."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Moment Magnitude Scale (Mw) was developed to overcome the limitations of the Richter scale for large earthquakes. Unlike the Richter scale, Mw is based on ________, which does not saturate and enables meaningful distinction between very large earthquake events.\n\n(a) Peak ground acceleration and seismic energy frequency content recorded at a standard distance from the epicenter\n(b) The maximum seismic wave amplitude corrected for the distance between the focus and the recording station\n(c) The seismic moment — a physical quantity representing the product of rock rigidity, fault rupture area, and average slip along the fault\n(d) The intensity of felt shaking at the epicenter as reported by standardised observer networks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6b0c6b71-97d4-4139-b988-433fc21fe339",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Global Seismic Belts: Circum-Pacific, Alpide, and Mid-Atlantic Ridge Zones",
+        "India's Seismic Zonation: Zone II to Zone V Classification"
+      ],
+      "subject_que_no": 1172,
+      "overall_que_no": 18146
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Himalayan earthquakes are collision-type not subduction — Alpide Belt distinction",
+      "statement_analysis": [
+        {
+          "statement": "The Circum-Pacific Belt, often called the 'Ring of Fire,' accounts for approximately 80% of the world's earthquakes and is characterised by both subduction zones and associated volcanic activity.",
+          "verdict": "Correct",
+          "reason": "The Circum-Pacific Belt is the world's most seismically and volcanically active zone, driven by subduction of oceanic plates around the Pacific margin, accounting for ~80% of global seismicity."
+        },
+        {
+          "statement": "Himalayan earthquakes generated along the Alpide Belt are subduction-type events occurring along the Benioff zone where the Indian plate descends beneath the Eurasian plate.",
+          "verdict": "Incorrect",
+          "reason": "The Himalayas are a continent-continent collision zone — both the Indian and Eurasian plates are continental, so there is no subduction or Benioff zone. Himalayan earthquakes are shallow-focus thrust/collision-type events, not subduction events."
+        },
+        {
+          "statement": "The Mid-Atlantic Ridge seismic belt produces predominantly shallow-focus, moderate earthquakes associated with transform faults offsetting ridge segments.",
+          "verdict": "Correct",
+          "reason": "Mid-ocean ridges are divergent boundaries with shallow seismicity; transform faults between ridge segments are the primary earthquake generators, producing shallow-focus events of moderate magnitude."
+        },
+        {
+          "statement": "The Andaman arc, which is part of the Alpide Belt's eastern extension, is associated with subduction-type seismicity — unlike the Himalayan segment of the same belt.",
+          "verdict": "Correct",
+          "reason": "The Andaman–Nicobar arc marks the subduction of the Indian plate under the Burma microplate — a genuine subduction zone — while the Himalayan segment is collision-type. Both are broadly within the Alpide/Indo-Australian convergence system."
+        }
+      ],
+      "strong_distractor": "d — Students who know the Indian plate is involved in subduction somewhere may apply this to the Himalayas (Statement 2), incorrectly marking all four statements correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: 80% of earthquakes + subduction + volcanic activity = Circum-Pacific Belt's defining characteristics — correct.",
+        "Evaluate Statement 2: Indian plate subducting beneath Eurasian plate at a Benioff zone is incorrect for the Himalayas — this is a continent-continent collision with no oceanic subduction; Statement 2 is incorrect.",
+        "Evaluate Statement 3: Mid-Atlantic Ridge produces shallow-focus, moderate earthquakes at transform faults — correct.",
+        "Evaluate Statement 4: Andaman arc is subduction-type (Burma microplate receiving Indian plate) versus Himalayan collision-type — correct distinction.",
+        "Three of four statements are correct — option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 exploits the common confusion between the Andaman subduction and Himalayan collision within the broader Indo-Australian plate dynamics. Both involve the Indian plate, but at different segments: the Andaman arc is a subduction interface, while the Himalayas are a collision zone. Students who know 'Indian plate is subducting somewhere' incorrectly apply this to the Himalayan segment, accepting Statement 2 as correct.",
+      "final_explanation": "Global seismic belts are distributed along plate boundaries with distinct tectonic characteristics affecting earthquake type, depth, and associated volcanism.\n\n• Statement 1 — Correct: The Circum-Pacific Belt is responsible for ~80% of global seismicity; subduction drives both earthquakes and volcanism around the Pacific rim.\n• Statement 2 — Incorrect: The Himalayas are a continent-continent collision zone; there is no Benioff zone or subduction. Both the Indian and Eurasian plates are continental. Himalayan earthquakes are shallow-focus collision thrust events.\n• Statement 3 — Correct: The Mid-Atlantic Ridge produces shallow-focus, moderate earthquakes, primarily at transform faults between ridge segments — classic divergent boundary seismicity.\n• Statement 4 — Correct: The Andaman–Nicobar arc IS a subduction zone (Indian plate under Burma microplate), producing deep-focus events and associated volcanic activity — contrasting with the Himalayan collision-type seismicity within the same broad Indo-Australian convergence system.\n\nThree statements are correct — option (c).\n\nValue Addition:\n• The 2004 Sumatra–Andaman earthquake occurred on the Andaman subduction interface — a megathrust event, not a collision event.\n• Himalayan earthquakes are locked into the MHT (Main Himalayan Thrust) — a collision-type detachment fault, not a subduction interface.\n• The Alpide Belt accounts for ~15% of global earthquakes with significantly less volcanic activity than the Circum-Pacific Belt."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about global seismic belts:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "The Circum-Pacific Belt, often called the 'Ring of Fire,' accounts for approximately 80% of the world's earthquakes and is characterised by both subduction zones and associated volcanic activity."
+          ],
+          [
+            "2",
+            "Himalayan earthquakes generated along the Alpide Belt are subduction-type events occurring along the Benioff zone where the Indian plate descends beneath the Eurasian plate."
+          ],
+          [
+            "3",
+            "The Mid-Atlantic Ridge seismic belt produces predominantly shallow-focus, moderate earthquakes associated with transform faults offsetting ridge segments."
+          ],
+          [
+            "4",
+            "The Andaman arc, which is part of the Alpide Belt's eastern extension, is associated with subduction-type seismicity — unlike the Himalayan segment of the same belt."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "53be5c60-3310-49e7-b956-2bfd71e5405e",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Seismic Waves: P-waves (Primary) — Nature and Behaviour",
+        "Shadow Zones of Seismic Waves: Interpretation and Earth's Interior Evidence"
+      ],
+      "subject_que_no": 1173,
+      "overall_que_no": 18147
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "P-waves slow in liquid outer core but do not stop — shadow zone via refraction",
+      "statement_analysis": [
+        {
+          "statement": "P-waves are completely blocked by the liquid outer core and cannot pass through it, which is why a P-wave shadow zone exists between 103° and 142° from the earthquake epicenter.",
+          "verdict": "Incorrect",
+          "reason": "P-waves are NOT blocked by the liquid outer core — they slow down and are refracted (bent) as they pass through it. The shadow zone results from this refraction causing P-waves to be deflected away from the 103°–142° zone, not from total blockage."
+        },
+        {
+          "statement": "The P-wave shadow zone between 103° and 142° is explained by the refraction of P-waves at the core-mantle boundary, which deflects them away from this angular range rather than stopping them entirely.",
+          "verdict": "Correct",
+          "reason": "P-waves change velocity at the core-mantle boundary and again entering/exiting the outer core; the geometry of this refraction creates the 103°–142° shadow zone — P-waves appear on the far side (beyond 142°) via paths that traverse the core."
+        }
+      ],
+      "strong_distractor": "a — Students who know a P-wave shadow zone exists and that it involves the outer core may confirm both statements as correct without carefully distinguishing 'blocked' (Statement 1) from 'refracted' (Statement 2).",
+      "elimination_logic": [
+        "Evaluate Statement 1: 'Completely blocked' is a scope-extension error — P-waves slow down and refract in the liquid outer core but are not stopped. P-waves do appear beyond 142° via core-traversing paths. Statement 1 is incorrect.",
+        "Evaluate Statement 2: Refraction at the core-mantle boundary causing deflection is the geophysically accurate explanation — Statement 2 is correct.",
+        "Statement 1 is incorrect, Statement 2 is correct — option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 1 converts 'refracted and deflected' into 'completely blocked.' Students who have memorised 'P-waves cannot pass through the outer core like S-waves' have confused P-wave and S-wave behaviour. S-waves cannot propagate through liquids at all (total blockage); P-waves can propagate through liquids but at a different velocity, causing refraction. The shadow zone for P-waves is a consequence of the geometry of refraction, not absorption or blockage.",
+      "final_explanation": "The P-wave shadow zone is one of the most important seismological observations for inferring Earth's interior structure, but it is frequently misunderstood.\n\n• Statement 1 — Incorrect: P-waves are NOT completely blocked by the liquid outer core. They can travel through any medium (solid, liquid, gas) but change velocity at boundaries. When P-waves enter the liquid outer core at the core-mantle boundary, they slow down and refract (bend), deflecting them away from the 103°–142° zone. P-waves are detected beyond 142° via paths that traverse the core — proving they pass through, not around, it.\n• Statement 2 — Correct: The P-wave shadow zone is geometrically created by refraction at the core-mantle boundary. The velocity change causes the wave paths to bend such that no direct P-wave arrives between 103°–142° — but this is refraction-caused deflection, not blockage.\n\nThe critical distinction: S-waves are BLOCKED by the liquid outer core (total absence beyond 103°); P-waves are REFRACTED by it (shadow zone via deflection, not blockage).\n\nValue Addition:\n• P-waves detected within the S-wave shadow zone (via core-traversing PKIKP paths) further confirm the inner core is solid.\n• The core-mantle boundary (CMB) at ~2,900 km depth is the most dramatic velocity discontinuity in Earth's interior.\n• The P-wave velocity drops from ~13.7 km/s at the base of the mantle to ~8 km/s in the liquid outer core."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the P-wave shadow zone:\n\nStatement 1: P-waves are completely blocked by the liquid outer core and cannot pass through it, which is why a P-wave shadow zone exists between 103° and 142° from the earthquake epicenter.\n\nStatement 2: The P-wave shadow zone between 103° and 142° is explained by the refraction of P-waves at the core-mantle boundary, which deflects them away from this angular range rather than stopping them entirely.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "094ab5c6-0d33-4706-b00f-2ebcda88c6a8",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Modified Mercalli Intensity Scale: Measuring Earthquake Effects",
+        "Richter Scale: Magnitude Measurement and Logarithmic Nature"
+      ],
+      "subject_que_no": 1174,
+      "overall_que_no": 18148
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": "conflation",
+      "concept_anchor": "Intensity varies spatially; high intensity ≠ high magnitude always",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who assume that if intensity (perceived damage) is high then magnitude must be high will select option (b), conflating intensity with magnitude.",
+      "elimination_logic": [
+        "Eliminate (b): Concluding 'magnitude must be high' from 'intensity is high' is the classic magnitude-intensity conflation — a shallow, moderate earthquake close to a settlement can produce Mercalli VIII intensity without a high magnitude.",
+        "Eliminate (c): The Richter scale does not measure location-specific shaking — it provides a single source magnitude. The scenario's observation of varying damage is a Mercalli Intensity observation.",
+        "Eliminate (d): Assigning the same intensity to all locations violates the fundamental principle that Mercalli intensity varies with distance, local geology, and building quality.",
+        "Retain (a): The correct interpretation is that local factors — proximity to epicenter, soil type, and building quality — explain why one neighbourhood has Mercalli VIII while a distant one has Mercalli IV; this does not imply a high source magnitude."
+      ],
+      "upsc_trap_explanation": "The conflation trap here exploits the common confusion between magnitude (single source value) and intensity (spatially variable effect). A student who sees 'severe damage in the town' and 'moderate damage in the village' may jump to the conclusion that the earthquake was high magnitude, when in fact the scenario is designed to illustrate that intensity variation is governed by proximity, geology, and construction quality — not source energy alone.",
+      "final_explanation": "A shallow-focus (15 km deep) earthquake of moderate magnitude occurs 8 km from a densely built town and 60 km from a rural village. The town reports severe structural damage (Mercalli VIII) while the village reports only minor cracks (Mercalli IV). A geologist is asked to interpret this.\n\nApplicable principle: Mercalli intensity varies spatially — it is influenced by distance from epicenter, local soil/geology, and building quality. The same earthquake produces multiple intensity values at different locations. Intensity does NOT equal magnitude.\n\n• Option (a): Correct — spatial variation in Mercalli intensity is explained by distance and local conditions. The town's Mercalli VIII reflects its proximity (8 km), possibly soft alluvial soil, and dense construction, not necessarily a high-magnitude earthquake.\n• Option (b): Incorrect — high local intensity does NOT imply high source magnitude. A M5.5 shallow earthquake can produce VIII Mercalli near the epicenter in soft soil. Conflating the two is a fundamental error.\n• Option (c): Incorrect — the Richter scale gives a single fixed source value; it does not vary by observation location. The differing damage is a Mercalli intensity observation.\n• Option (d): Incorrect — assigning identical Mercalli values to both locations contradicts the observation of different damage levels and violates the spatial variability principle.\n\nValue Addition:\n• Isoseismal maps connect points of equal Mercalli intensity — they are elliptical/irregular, not perfect circles, due to local geology.\n• The 1993 Latur earthquake (M6.2) caused massive destruction (Mercalli IX+ locally) because of shallow focus, poorly built masonry houses, and soft alluvial soil in villages.\n• Liquefaction amplifies local intensity above what would be predicted from magnitude alone."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A shallow-focus earthquake occurs 8 km from a densely built town and 60 km from a rural village. Structural surveys show that the town experienced severe damage — collapsed buildings and broken infrastructure — while the village reported only minor wall cracks. A geologist analysing these observations concludes that the damage distribution is best explained by which of the following?\n\n(a) The Modified Mercalli Intensity scale applies here: intensity varies spatially based on proximity to the epicenter, local soil conditions, and building quality — the same earthquake produces different intensity values at different locations\n(b) The magnitude of the earthquake must be high because the town experienced severe damage, and high damage always indicates a high Richter magnitude at the source\n(c) The Richter scale recorded different magnitude values at the town and village seismograph stations, explaining the difference in damage levels\n(d) Since the earthquake was a single event with one magnitude, both the town and village must have experienced identical Mercalli intensity — differences in damage are solely due to building quality",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "42325c91-045a-401d-a696-7331889d32e1",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Tectonic Causes of Earthquakes: Fault Types and Stress Mechanisms",
+        "Non-Tectonic Causes of Earthquakes: Volcanic, Collapse, and Reservoir-Induced Seismicity"
+      ],
+      "subject_que_no": 1175,
+      "overall_que_no": 18149
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Intraplate earthquakes — Koyna and Bhuj as examples, not plate boundary events",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know Koyna is associated with seismicity may pair it with tectonic plate boundary activity because they confuse 'induced seismicity' with 'natural tectonic seismicity,' swapping the cause.",
+      "elimination_logic": [
+        "Eliminate (a): The 1897 Shillong earthquake was a tectonic intraplate event on the Oldham Fault — it is NOT a subduction-zone earthquake. Assigning it to Himalayan subduction confuses the Northeast's intraplate character with Himalayan collision.",
+        "Eliminate (b): Koyna seismicity is reservoir-induced (non-tectonic), not a natural tectonic plate-boundary event — the entity swap here replaces 'reservoir-induced' with 'plate boundary.'",
+        "Eliminate (c): Strike-slip faults produce horizontal displacement and generally do NOT generate tsunamis — associating strike-slip with tsunami generation is factually incorrect.",
+        "Retain (d): The 2001 Bhuj earthquake (Mw 7.7) is correctly described as an intraplate earthquake within the Indian plate (not at a plate boundary), occurring in Seismic Zone V of the Kutch region — all elements of this pair are accurate."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in option (b) replaces 'reservoir-induced' with 'tectonic plate boundary,' exploiting the fact that students know Koyna is associated with earthquakes but may not remember the induced nature. Option (a) exploits Northeast India's complex tectonic setting — the Shillong Plateau earthquake (1897) was one of the largest intraplate events globally, NOT a subduction event, despite NE India having nearby subduction (Arakan). These two different tectonic regimes within NE India confuse students.",
+      "final_explanation": "Understanding the cause-type and tectonic setting of Indian earthquakes is essential for both geography and disaster management.\n\n• Option (a): Incorrect — the 1897 Shillong earthquake was an intraplate event on the Oldham Fault within the Shillong Plateau, not a Himalayan subduction event. NE India's seismicity is complex: the Arakan subduction is separate from the Shillong intraplate zone.\n• Option (b): Incorrect — Koyna's persistent seismicity is a textbook case of Reservoir-Induced Seismicity (RIS), an anthropogenic phenomenon triggered by dam reservoir pore-pressure changes. It is not a natural tectonic plate-boundary event.\n• Option (c): Incorrect — strike-slip (horizontal) faults do not produce the vertical seafloor displacement required to generate tsunamis. Only dip-slip (normal or thrust/reverse) faults with vertical motion can displace the water column.\n• Option (d): Correct — Bhuj 2001 (Mw 7.7) is correctly identified as an intraplate earthquake within the stable Indian plate, in Zone V of the Kutch region. It is anomalous precisely because it occurred far from any active plate boundary.\n\nValue Addition:\n• Intraplate earthquakes are particularly dangerous because they often occur in regions without recent seismic history, leading to under-prepared infrastructure.\n• The Kutch rift system is a buried ancient rift — reactivated faults within it caused the Bhuj earthquake.\n• Peninsular India's intraplate seismicity (Koyna, Latur, Bhuj) challenges the old assumption of a 'stable' Indian shield."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following pairs is correctly matched?\n\n(a) 1897 Shillong earthquake — Subduction-zone megathrust event along the Himalayan plate convergence boundary in Northeast India\n(b) Koyna seismicity (Maharashtra) — Natural tectonic plate-boundary activity along the western continental margin of the Indian plate\n(c) Strike-slip fault earthquakes — Primary generators of tsunamis due to the large horizontal displacement of the ocean floor they produce\n(d) Bhuj earthquake 2001 — Intraplate earthquake (Mw 7.7) within the Indian plate, occurring in Seismic Zone V of the Kutch region",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f437879e-a218-425f-b2bd-a551795808b2",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Focus (Hypocenter) vs. Epicenter: Geometry and Depth Classification",
+        "Seismic Waves: S-waves (Secondary) — Nature and Behaviour"
+      ],
+      "subject_que_no": 1176,
+      "overall_que_no": 18150
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "S-wave shadow zone size and deep-focus earthquake locations",
+      "statement_analysis": [
+        {
+          "statement": "S-waves do not travel through the outer core, producing a shadow zone that begins at approximately 103° from the earthquake epicenter and extends to 180°, covering the entire antipodal region.",
+          "verdict": "Correct",
+          "reason": "The S-wave shadow zone extends from 103° to 180° (the full far side) because S-waves cannot traverse the liquid outer core at all — unlike P-waves, they are completely blocked, not refracted."
+        },
+        {
+          "statement": "The S-wave shadow zone is smaller than the P-wave shadow zone because both S-waves and P-waves are refracted by the outer core, but S-waves are refracted less due to their slower travel speed.",
+          "verdict": "Incorrect",
+          "reason": "The S-wave shadow zone (103°–180°) is actually LARGER than the P-wave shadow zone (103°–142°). Moreover, S-waves are not refracted by the outer core — they are completely blocked because shear waves cannot propagate through liquids."
+        },
+        {
+          "statement": "Intermediate-focus earthquakes, which occur between 70 km and 300 km depth, are found exclusively in intraplate settings within stable cratons.",
+          "verdict": "Incorrect",
+          "reason": "Intermediate-focus earthquakes occur within subducting slabs at convergent boundaries — not in stable cratons. Cratons produce only very shallow seismicity (if any), and the conditions for intermediate-focus events (subducting cold slab) are absent in stable continental interiors."
+        }
+      ],
+      "strong_distractor": "c — Students may mark only Statement 3 as incorrect (knowing intermediate events need subduction zones) but accept Statement 2 as correct without carefully checking whether the S-wave shadow zone is actually smaller or larger than P-wave's.",
+      "elimination_logic": [
+        "Evaluate Statement 1: S-wave total absence from 103° to 180° is the correct description — Statement 1 IS correct.",
+        "Evaluate Statement 2: S-wave shadow zone covers 103°–180° (larger); P-wave shadow zone covers 103°–142° (smaller). Statement 2 claims S-wave zone is smaller — this is factually inverted. Also, S-waves are blocked, not refracted. Statement 2 is NOT correct.",
+        "Evaluate Statement 3: Intermediate-focus earthquakes require subducting slabs — they are NOT found in stable cratons. Statement 3 is NOT correct.",
+        "Statements 2 and 3 are NOT correct — option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a compound scope-extension and size-reversal trap. Students who recall 'P-waves create a shadow zone and S-waves create a shadow zone' without remembering their relative sizes will accept Statement 2 as plausible. The inverted size claim (S-wave zone is LARGER, not smaller) and the incorrect mechanism (blocked, not refracted) are two simultaneous errors that together form a very difficult-to-detect wrong statement.",
+      "final_explanation": "The shadow zones of P-waves and S-waves differ significantly in size and mechanism, and both reflect different properties of the Earth's core.\n\n• Statement 1 — Correct: S-waves are completely absent beyond 103° because they cannot propagate through the liquid outer core; their shadow zone extends from 103° all the way to 180° — encompassing the entire antipodal region.\n• Statement 2 — NOT correct: Two errors: (i) the S-wave shadow zone is LARGER (103°–180°) than the P-wave shadow zone (103°–142°), not smaller; (ii) S-waves are completely blocked by the liquid outer core, not refracted — they cannot propagate through liquids at all.\n• Statement 3 — NOT correct: Intermediate-focus earthquakes (70–300 km) occur within subducting oceanic slabs at convergent boundaries. Stable cratons (ancient crystalline shields) are seismically quiescent at depth — no subducting slab means no intermediate-focus events.\n\nValue Addition:\n• The combination of S-wave total blockage beyond 103° and P-wave partial shadow (103°–142°) together established the two-layer core model.\n• Intermediate-focus earthquakes in the Wadati-Benioff zone are important for understanding subduction dynamics — the Andaman–Java trench system hosts such events.\n• The largest S-wave shadow zone (103°–180°) covers ~30% of the Earth's surface as seen from any epicenter."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about seismic wave shadow zones and earthquake depth classification:\n\n1. S-waves do not travel through the outer core, producing a shadow zone that begins at approximately 103° from the earthquake epicenter and extends to 180°, covering the entire antipodal region.\n2. The S-wave shadow zone is smaller than the P-wave shadow zone because both S-waves and P-waves are refracted by the outer core, but S-waves are refracted less due to their slower travel speed.\n3. Intermediate-focus earthquakes, which occur between 70 km and 300 km depth, are found exclusively in intraplate settings within stable cratons.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 3 only\n(d) 1 and 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "68e3898e-2e58-4e66-be4a-84ddf62c017a",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Surface Waves: Love and Rayleigh Waves — Characteristics and Damage",
+        "Seismic Waves: P-waves (Primary) — Nature and Behaviour",
+        "Seismic Waves: S-waves (Secondary) — Nature and Behaviour"
+      ],
+      "subject_que_no": 1177,
+      "overall_que_no": 18151
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": null,
+      "concept_anchor": "Seismic wave arrival order — P, S, Love, Rayleigh at a seismograph station",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know Love waves are faster than Rayleigh waves among surface waves may incorrectly infer that S-waves arrive after Love waves because they associate both with 'shear motion,' inverting the S-wave and Love wave positions.",
+      "elimination_logic": [
+        "P-waves are fastest: they arrive first at any station — primary waves by definition.",
+        "S-waves are slower than P-waves but faster than surface waves — they arrive second.",
+        "Among surface waves, Love waves travel faster than Rayleigh waves — Love arrives third.",
+        "Rayleigh waves are the slowest seismic wave type — they arrive last.",
+        "Correct sequence: P → S → Love → Rayleigh, which corresponds to option (c)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "The sequence in which seismic waves arrive at a recording station is determined by their propagation speeds, from fastest to slowest.\n\nCorrect chronological order of arrival:\n1. P-waves (Primary/Compressional): Fastest seismic waves; travel through any medium; arrive first — their arrival initiates the seismogram record.\n2. S-waves (Secondary/Shear): Slower than P-waves; travel only through solids; arrive second — the P–S interval is used to calculate epicentral distance.\n3. Love waves: Surface waves with horizontal shear motion; faster than Rayleigh waves among surface waves — arrive third.\n4. Rayleigh waves: Surface waves with elliptical retrograde motion; slowest seismic wave type — arrive last but cause the most sustained destructive ground motion.\n\nWhy wrong options fail:\n• (a) P → Love → S → Rayleigh: incorrectly places Love before S-waves.\n• (b) P → S → Rayleigh → Love: inverts the Love–Rayleigh order.\n• (d) S → P → Love → Rayleigh: incorrectly places S before P.\n\nValue Addition:\n• The P–S time interval in seconds can estimate epicentral distance: roughly 8 km per second of interval.\n• Surface waves attenuate more slowly with distance than body waves, so distant stations register primarily surface wave energy.\n• Seismograms from three or more stations showing P and S arrival times are used to triangulate the epicenter."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Following a significant earthquake, a seismograph station records the arrival of four types of seismic waves. Which one of the following represents the correct order in which these waves arrive at the station, from first to last?\n\n(a) P-waves → Love waves → S-waves → Rayleigh waves\n(b) P-waves → S-waves → Rayleigh waves → Love waves\n(c) P-waves → S-waves → Love waves → Rayleigh waves\n(d) S-waves → P-waves → Love waves → Rayleigh waves",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "aba3d8f0-b5f6-4eb1-a52a-eb73317541eb",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Liquefaction: Soil Behaviour During Earthquakes",
+        "Notable Indian Earthquakes: Bhuj, Uttarkashi, Latur — Geomorphic and Policy Lessons"
+      ],
+      "subject_que_no": 1178,
+      "overall_que_no": 18152
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Bhuj 2001 liquefaction — saturated alluvial soil not rock melting",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who accept both A (liquefaction occurred at Bhuj) and R (Bhuj is in Zone V) as individually correct and then assume zone classification explains liquefaction will choose (a), not recognising that zone designation does not cause or explain liquefaction mechanistically.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? A states that the 2001 Bhuj earthquake induced widespread liquefaction and lateral spreading in the Kutch region — this is factually documented and correct.",
+        "Step 2 — Is Reason (R) correct? R states that the Kutch region is classified under Seismic Zone V — this is also factually correct per BIS zonation.",
+        "Step 3 — Does R explain A? Zone V classification describes the expected level of seismic hazard — it does not explain WHY liquefaction occurred. Liquefaction is explained by the presence of saturated, loosely packed sandy/silty soils with a high water table. Zone V tells us the hazard level, not the soil mechanics that caused liquefaction. R does not causally explain A.",
+        "Both A and R are correct but R is NOT the correct explanation of A — option (b)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap connects two true facts (liquefaction at Bhuj + Bhuj is Zone V) in a false causal relationship. Zone V classification is a seismic hazard designation based on expected ground motion intensity — it does not mechanistically cause or predict liquefaction. Liquefaction is caused by specific soil conditions (saturation + loose sandy texture + seismic shaking), which happen to coincide geographically with Bhuj's alluvial coastal deposits. A student who sees two correct statements involving the same event reflexively accepts the causal link.",
+      "final_explanation": "The 2001 Bhuj earthquake is one of India's most comprehensively studied intraplate seismic events, offering lessons in both geomorphic processes and disaster management.\n\nAssertion (A): Liquefaction and lateral spreading occurred extensively in the Kutch region during the Bhuj 2001 earthquake — this is correct. The coastal alluvial plains and river delta deposits of the Rann of Kutch, saturated and loosely packed, were highly susceptible.\n\nReason (R): The Kutch region is classified under Seismic Zone V in the BIS map — this is also correct. Zone V indicates the highest seismic hazard in India (MSK intensity VIII+).\n\nCausal relationship: Zone V classification tells us the region is expected to experience high ground shaking, but it does NOT explain the mechanism of liquefaction. Liquefaction is caused by pore-water pressure increase in saturated sandy soils — a soil mechanics process. The Zone V designation is based on historical seismicity and expected shaking levels, not soil type. R describes the hazard setting; A describes the soil failure mechanism. They are related in context but not causally linked. Both are correct but R does not explain A — answer is (b).\n\nValue Addition:\n• Lateral spreading is a form of liquefaction failure where a sloping or free-face terrain causes lateral movement of the liquefied layer — seen extensively in coastal Bhuj.\n• The BIS seismic zone map underwent significant revision post-Bhuj, recognising the extreme intraplate hazard of Kutch.\n• Kutch's geology includes buried ancient rift faults (Kutch Mainland Fault, Allah Bund Fault) — reactivated by tectonic stress within the Indian plate."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The 2001 Bhuj earthquake triggered widespread soil liquefaction and lateral spreading across the alluvial plains and coastal deposits of the Kutch region, causing buildings to sink and infrastructure to fail.\n\nReason (R): The Kutch region of Gujarat is classified under Seismic Zone V in the Bureau of Indian Standards seismic zonation map, representing the highest level of seismic hazard in India.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dd77d629-22c9-49d4-9613-d297331193db",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Earthquake Prediction vs. Early Warning Systems: Distinction and Limitations",
+        "Aftershocks, Foreshocks, and Earthquake Swarms: Patterns and Significance"
+      ],
+      "subject_que_no": 1179,
+      "overall_que_no": 18153
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Seismic gap theory and EEW distinction from prediction",
+      "statement_analysis": [
+        {
+          "statement": "The seismic gap theory identifies segments of active fault zones that have not experienced significant rupture for a long period as statistically more likely candidates for future large earthquakes.",
+          "verdict": "Correct",
+          "reason": "Seismic gap theory is a probabilistic long-term forecasting approach — it identifies 'locked' fault segments without recent seismic energy release as high-risk zones for future rupture, forming the basis of long-term earthquake hazard assessment."
+        },
+        {
+          "statement": "Earthquake Early Warning systems predict the time, location, and magnitude of future earthquakes hours in advance, enabling mandatory evacuation of at-risk populations before seismic waves reach them.",
+          "verdict": "Incorrect",
+          "reason": "EEW systems do NOT predict earthquakes — they detect P-waves from an already-occurring earthquake and provide seconds to tens of seconds of warning before destructive S-waves and surface waves arrive; hours-in-advance mandatory evacuation is impossible with EEW."
+        },
+        {
+          "statement": "Long-term probabilistic seismic hazard assessment can estimate the likelihood of ground shaking exceeding a specified level at a location over a defined time period, but it cannot predict the exact time and magnitude of a future earthquake.",
+          "verdict": "Correct",
+          "reason": "Probabilistic seismic hazard assessment (PSHA) provides likelihood estimates (e.g., '10% probability of exceeding 0.3g in 50 years') — this is the scientifically achievable form of earthquake forecasting, distinct from deterministic prediction of exact time/location/magnitude."
+        }
+      ],
+      "strong_distractor": "d — Students who believe EEW is a form of prediction (because of the word 'early warning') will mark Statement 2 as correct and choose option (d), accepting all three statements.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Seismic gap theory identifies high-risk fault segments probabilistically — correct.",
+        "Evaluate Statement 2: 'Predict hours in advance' and 'mandatory evacuation' are scope-extension errors; EEW provides seconds of warning after an earthquake starts, not hours before — Statement 2 is incorrect.",
+        "Evaluate Statement 3: PSHA provides probabilities over time periods, not deterministic predictions — correct.",
+        "Statements 1 and 3 are correct — option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2's scope-extension is particularly effective because 'early warning' semantically implies advance notice. The trap converts the actual EEW function (seconds of warning after initiation) into a prediction system (hours before occurrence), which would make it indistinguishable from a weather forecast. UPSC tests this distinction because EEW systems are frequently in the news (Japan, India's NDMA), and candidates who know the term but not the mechanism accept the inflated capability described in Statement 2.",
+      "final_explanation": "Earthquake forecasting exists on a spectrum from long-term probabilistic assessment to real-time early warning, each with distinct capabilities and limitations.\n\n• Statement 1 — Correct: Seismic gap theory is a probabilistic long-term tool — segments of active faults without recent rupture accumulate strain and are identified as higher-risk for future events. This underpins much of India's and Japan's long-term seismic hazard planning.\n• Statement 2 — Incorrect: EEW systems do NOT predict earthquakes. They use the faster-arriving P-waves from an already-initiated earthquake to send automated alerts before destructive S-waves and surface waves arrive — a window of seconds, not hours. Mandatory evacuation is not operationally feasible in this timeframe.\n• Statement 3 — Correct: Probabilistic Seismic Hazard Assessment (PSHA) quantifies the likelihood of ground motion exceeding a threshold over a defined exposure period — the scientifically sound form of hazard estimation, used in building codes and urban planning.\n\nValue Addition:\n• Japan's J-Alert EEW system is integrated with school PA systems, trains (auto-braking), and factory shutdowns — optimised for seconds-level response.\n• India's National Center for Seismology (NCS) is developing a national EEW system for the Himalayan region.\n• The Himalayan seismic gap around Uttarakhand–Nepal has been identified as a high-risk zone using seismic gap theory — no major rupture has occurred there since 1505."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about earthquake prediction and early warning systems:\n\n1. The seismic gap theory identifies segments of active fault zones that have not experienced significant rupture for a long period as statistically more likely candidates for future large earthquakes.\n2. Earthquake Early Warning systems predict the time, location, and magnitude of future earthquakes hours in advance, enabling mandatory evacuation of at-risk populations before seismic waves reach them.\n3. Long-term probabilistic seismic hazard assessment can estimate the likelihood of ground shaking exceeding a specified level at a location over a defined time period, but it cannot predict the exact time and magnitude of a future earthquake.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fea33a66-43a7-465e-bc3d-59afed290d2f",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Tsunami Generation: Seismic Trigger Conditions and Wave Characteristics"
+      ],
+      "subject_que_no": 1180,
+      "overall_que_no": 18154
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Tsunami wave speed, wavelength, and shoaling transformation",
+      "statement_analysis": [
+        {
+          "statement": "In the deep ocean, a tsunami travels at approximately 800 km/h, making it comparable in speed to a commercial jet aircraft.",
+          "verdict": "Correct",
+          "reason": "Tsunami speed in deep water is determined by √(g×d) where d is water depth; for average ocean depths (~4 km), this yields ~720–800 km/h, comparable to commercial aircraft cruising speed."
+        },
+        {
+          "statement": "As a tsunami approaches shallow coastal waters, its wavelength increases and wave height decreases — a process called shoaling.",
+          "verdict": "Incorrect",
+          "reason": "Shoaling produces the opposite effect: wavelength DECREASES (waves are compressed) and wave height INCREASES dramatically as the wave slows down in shallower water — energy is conserved, so reduced speed forces height increase."
+        },
+        {
+          "statement": "A tsunami in the open ocean typically has a wave height of less than 1 metre, making it imperceptible to ships in deep water.",
+          "verdict": "Correct",
+          "reason": "Despite enormous energy, the tsunami's wavelength (hundreds of km) distributes energy over a very long wave — height in the open ocean is typically under 1 m, undetectable to ships, which is why sailors historically reached port unaware a tsunami had passed beneath them."
+        },
+        {
+          "statement": "The 2004 Indian Ocean tsunami was generated by a normal (extensional) fault earthquake along the Sunda Trench, which produced the necessary horizontal seafloor displacement.",
+          "verdict": "Incorrect",
+          "reason": "The 2004 Indian Ocean tsunami was generated by a megathrust (thrust/reverse) fault event — a dip-slip (vertical displacement) rupture on the subduction interface. Normal faults and horizontal (strike-slip) motion cannot efficiently generate tsunamis."
+        }
+      ],
+      "strong_distractor": "b — Wait, the correct answer IS (b) — Only two. Let me verify: Statements 1 and 3 are correct; Statements 2 and 4 are incorrect — exactly two correct. Option (b) is correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: ~800 km/h tsunami speed in deep ocean is accurate — correct.",
+        "Evaluate Statement 2: Shoaling causes wavelength DECREASE and height INCREASE — Statement 2 reverses both effects; incorrect.",
+        "Evaluate Statement 3: Open-ocean tsunami height under 1 m despite enormous energy — correct.",
+        "Evaluate Statement 4: 2004 Indian Ocean earthquake was a megathrust (thrust/dip-slip), not a normal fault — incorrect.",
+        "Two statements (1 and 3) are correct — option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 2's partial-truth trap reverses the shoaling effect — students who have read about shoaling often remember 'waves change near the coast' but incorrectly recall the direction of change. The intuitive error is thinking waves 'spread out' near shore (increasing wavelength), when actually they are compressed. Statement 4 exploits the confusion between normal faults (extensional) and thrust faults (compressional) — students who know vertical displacement is needed may incorrectly associate it with normal faults, which can have vertical components but are not the mechanism at subduction zones.",
+      "final_explanation": "Tsunami generation and propagation involve specific physical conditions that are frequently mis-described in examination contexts.\n\n• Statement 1 — Correct: Deep-ocean tsunami speed (~800 km/h) is governed by water depth via the shallow-water wave formula; this speed makes Pacific-wide tsunami travel times measurable in hours.\n• Statement 2 — Incorrect: Shoaling causes wavelength to DECREASE and wave height to INCREASE. As depth decreases, the front of the wave slows while energy is conserved — the wave 'piles up,' producing the catastrophic coastal surge. Both effects are reversed in the statement.\n• Statement 3 — Correct: Open-ocean tsunami height is typically under 1 m because its energy is distributed across a wavelength of 100s of km. Ships feel no disturbance — historically, fishermen at sea were unaware of the tsunami that destroyed their coastal villages.\n• Statement 4 — Incorrect: The 2004 Sumatra–Andaman tsunami was caused by a megathrust rupture — a thrust/reverse dip-slip fault on the subduction interface between the Indo-Australian and Eurasian plates. Normal faults produce extensional, not compressional, deformation and are inefficient tsunami generators.\n\nValue Addition:\n• The Pacific Tsunami Warning Center (PTWC) uses a network of DART (Deep-ocean Assessment and Reporting of Tsunamis) buoys to detect open-ocean tsunamis.\n• Tsunami arrival can be preceded by a dramatic withdrawal of coastal water — a warning sign for immediate evacuation.\n• The 2004 tsunami had run-up heights exceeding 30 m in Banda Aceh, Indonesia."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about tsunami wave characteristics and the 2004 Indian Ocean tsunami:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "In the deep ocean, a tsunami travels at approximately 800 km/h, making it comparable in speed to a commercial jet aircraft."
+          ],
+          [
+            "2",
+            "As a tsunami approaches shallow coastal waters, its wavelength increases and wave height decreases — a process called shoaling."
+          ],
+          [
+            "3",
+            "A tsunami in the open ocean typically has a wave height of less than 1 metre, making it imperceptible to ships in deep water."
+          ],
+          [
+            "4",
+            "The 2004 Indian Ocean tsunami was generated by a normal (extensional) fault earthquake along the Sunda Trench, which produced the necessary horizontal seafloor displacement."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ad72d522-03ae-4300-9ea8-f9937ef0bfdf",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "India's Seismic Zonation: Zone II to Zone V Classification",
+        "Notable Indian Earthquakes: Bhuj, Uttarkashi, Latur — Geomorphic and Policy Lessons"
+      ],
+      "subject_que_no": 1181,
+      "overall_que_no": 18155
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Latur earthquake policy outcome — BIS zone revision and NDMA impetus",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know NDMA was established after major earthquake disasters may associate it directly with the Latur 1993 earthquake, when NDMA was formally established under the Disaster Management Act 2005 — following Bhuj 2001 more proximately.",
+      "elimination_logic": [
+        "Eliminate (a): The Latur 1993 earthquake did not occur in Zone V — Latur is in Zone III (Deccan Plateau), which is precisely what made it anomalous and scientifically significant.",
+        "Eliminate (b): NDMA was established under the Disaster Management Act 2005, after Bhuj 2001 — not directly and immediately after the 1993 Latur earthquake; attributing NDMA's creation solely to Latur is a temporal-swap error.",
+        "Retain (c): Latur 1993 correctly challenged the assumption that the Deccan Plateau (Peninsular India) is seismically stable, and it led to revision of the BIS seismic zonation for parts of Peninsular India — this is the documented policy-science outcome.",
+        "Eliminate (d): The Richter scale was not revised in response to Latur — this conflates measurement scale reform with seismic zonation policy reform."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap in option (b) connects Latur to NDMA's creation. Latur (1993) did catalyse disaster management thinking in India, but the formal institutional response — the NDMA under the Disaster Management Act — came in 2005, more proximately triggered by the 2001 Bhuj earthquake and the 2004 Indian Ocean tsunami. Students who study 'Latur → policy reform' in a compressed timeline may incorrectly attribute NDMA's establishment to Latur.",
+      "final_explanation": "The 1993 Latur earthquake was a watershed moment in Indian seismology and disaster policy because of where it occurred — the supposedly stable Deccan Plateau.\n\n• Option (a): Incorrect — Latur is classified under Seismic Zone III, not Zone V. The earthquake was anomalous precisely because Zone III was considered moderate-hazard. Zone V is reserved for the highest-hazard regions (NE India, Himalayas, Kutch, Andaman).\n• Option (b): Incorrect — NDMA was formally established under the Disaster Management Act, 2005, not immediately after Latur 1993. While Latur influenced disaster policy thinking, the direct institutional impetus came from Bhuj 2001 and the 2004 Indian Ocean tsunami.\n• Option (c): Correct — Latur challenged the long-held assumption that the Deccan Plateau is seismically stable, leading to BIS seismic zonation revision for parts of Peninsular India and intensified research into intraplate seismicity.\n• Option (d): Incorrect — the Richter scale is an international measurement convention developed in 1935; it has not been revised in response to any individual national earthquake event. The shift to Moment Magnitude was a global scientific development unrelated to Latur.\n\nValue Addition:\n• Latur killed approximately 10,000 people, mostly because traditional stone-and-mortar (wada) construction collapsed with no ductility.\n• Post-Latur, the Government of India established the Department of Earthquake Engineering at IIT Roorkee for applied seismic research.\n• The Killari village near Latur was the epicenter — the rural setting amplified casualties due to dense traditional housing and nighttime occurrence."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements correctly describes a consequence or significance of the 1993 Latur earthquake in Maharashtra?\n\n(a) The earthquake confirmed the seismic stability of the Deccan Plateau by demonstrating that Zone V conditions do not extend into Peninsular India\n(b) The event directly led to the establishment of the National Disaster Management Authority (NDMA) under the Disaster Management Act of the same decade\n(c) The earthquake challenged assumptions about peninsular seismic stability and prompted revision of the Bureau of Indian Standards seismic zonation for parts of Peninsular India\n(d) The event led to a revision of the Richter scale to incorporate a new category for intraplate earthquakes occurring within stable continental shields",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e574e998-1233-4960-9258-3683905845d9",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Seismic Hazard vs. Seismic Risk: Conceptual Distinction for Disaster Management",
+        "Seismic Waves: P-waves (Primary) — Nature and Behaviour"
+      ],
+      "subject_que_no": 1182,
+      "overall_que_no": 18156
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Zone V areas of India — Andaman included; Zone IV areas excluded",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who associate Delhi with 'high seismic risk' due to media reports and proximity to the Himalayan arc may place Delhi in Zone V alongside the listed regions, failing to recall that Delhi is in Zone IV.",
+      "elimination_logic": [
+        "Identify the common characteristic: all four options claim to be Seismic Zone V areas of India per BIS zonation.",
+        "Entire Northeast India (Assam, Manipur, etc.): Zone V — included.",
+        "Kutch region of Gujarat (Bhuj area): Zone V — included.",
+        "Delhi: Zone IV — NOT Zone V; this is the odd one out.",
+        "Andaman & Nicobar Islands: Zone V — included.",
+        "Delhi is the odd one out — option (c)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap places Delhi in a list of Zone V areas. Students associate Delhi with 'high seismic danger' from multiple news reports and NDMA advisories, but Delhi is specifically classified under Zone IV, not Zone V. The BIS seismic zone map clearly excludes Delhi from Zone V. This distinction is a classic UPSC trap tested to separate students who have read the specific classification from those who rely on general 'high-risk city' associations.",
+      "final_explanation": "India's BIS seismic zonation (IS 1893) classifies regions from Zone II (lowest hazard) to Zone V (highest hazard). Knowing which specific areas belong to Zone V versus Zone IV is essential.\n\n• Option (a): Entire Northeast India — Zone V. The region's seismicity is driven by the convergence of the Indian plate with the Eurasian and Burma plates; the highest hazard zones in India are here.\n• Option (b): Kutch region, Gujarat — Zone V. Elevated to Zone V after the 2001 Bhuj earthquake; driven by buried rift faults within an intraplate setting.\n• Option (c): Delhi — Zone IV, NOT Zone V. Delhi has high seismic hazard (Zone IV) due to proximity to the Himalayan seismic zone and active faults like the Delhi-Moradabad Fault, but it is not in Zone V. This is the odd one out.\n• Option (d): Andaman & Nicobar Islands — Zone V. Located on an active subduction arc (Indian plate subducting under Burma microplate), these islands face the highest seismic and tsunami hazard in India.\n\nValue Addition:\n• Other Zone V areas: Jammu & Kashmir, Himachal Pradesh, Uttarakhand.\n• Delhi's Zone IV status means design earthquakes for buildings are calibrated for MSK intensity VII–VIII, not VIII+.\n• Zone I, previously the lowest category, has been removed from the current BIS map — the operative range is now Zone II to Zone V."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following areas are classified under Seismic Zone V (highest hazard) in the Bureau of Indian Standards seismic zonation map of India, while one belongs to a different zone. Which one does NOT belong to Seismic Zone V?\n\n(a) Entire Northeast India\n(b) Kutch region of Gujarat\n(c) Delhi\n(d) Andaman & Nicobar Islands",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "935b54f1-9584-42de-bcd3-8e8f8f071ad3",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Tectonic Causes of Earthquakes: Fault Types and Stress Mechanisms",
+        "Focus (Hypocenter) vs. Epicenter: Geometry and Depth Classification"
+      ],
+      "subject_que_no": 1183,
+      "overall_que_no": 18157
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Intraplate earthquakes — anomalous; Koyna and Bhuj as examples",
+      "statement_analysis": [
+        {
+          "statement": "Intraplate earthquakes, such as those at Koyna and Bhuj, are considered anomalous because the theory of plate tectonics predicts that seismic activity should be concentrated only at active plate boundaries.",
+          "verdict": "Correct",
+          "reason": "Plate tectonic theory explains earthquakes at plate boundaries (interplate); intraplate events like Koyna (reservoir-induced) and Bhuj (reactivated ancient rift fault) challenge this model because they occur well within the interior of the Indian plate, away from active boundaries."
+        },
+        {
+          "statement": "The Bhuj 2001 earthquake was an interplate earthquake occurring on the boundary between the Indian plate and the Eurasian plate, which is why it was classified under the highest seismic zone.",
+          "verdict": "Incorrect",
+          "reason": "Bhuj 2001 was an intraplate earthquake — it occurred within the Indian plate interior on reactivated faults of the Kutch rift system, not on the Indian-Eurasian plate boundary (which is located at the Himalayas, ~800 km north of Bhuj)."
+        }
+      ],
+      "strong_distractor": "a — Students who know Bhuj is Zone V and associate Zone V with plate-boundary proximity may accept Statement 2 as correct, believing 'highest zone = plate boundary proximity.'",
+      "elimination_logic": [
+        "Evaluate Statement 1: Intraplate earthquakes occurring within stable plate interiors are anomalous within standard plate tectonics theory — this is correct.",
+        "Evaluate Statement 2: Bhuj 2001 is explicitly an INTRAplate earthquake on reactivated Kutch rift faults within the Indian plate — calling it an interplate event is factually incorrect.",
+        "Statement 1 is correct, Statement 2 is incorrect — option (b)."
+      ],
+      "upsc_trap_explanation": "The partial-truth in Statement 2 conflates 'Zone V' (highest seismic hazard designation) with 'plate-boundary location.' The Kutch region's Zone V status reflects its demonstrated seismic hazard based on historical events (including pre-2001 records and the 2001 earthquake itself), not proximity to a plate boundary. The actual Indian-Eurasian plate boundary is the Himalayan arc, hundreds of kilometres north. Bhuj's intraplate character is what makes it scientifically significant — and this is a frequently tested distinction.",
+      "final_explanation": "The distinction between interplate and intraplate seismicity is fundamental to understanding why certain earthquakes challenge our tectonic models.\n\n• Statement 1 — Correct: Standard plate tectonic theory predicts seismicity concentrated at plate boundaries (convergent, divergent, transform). Intraplate earthquakes — occurring within the stable interior of a plate — are anomalous. Koyna is reservoir-induced intraplate seismicity; Bhuj reactivated ancient buried rift faults within the Indian plate.\n• Statement 2 — Incorrect: Bhuj 2001 was not an interplate earthquake. The Indian-Eurasian plate boundary is in the Himalayan region, not Kutch. Bhuj lies ~800 km south of the Himalayan boundary — squarely within the Indian plate interior. The earthquake occurred on reactivated Kutch Mainland Fault and Allah Bund Fault — ancient rift structures within the plate. Zone V classification reflects demonstrated hazard, not plate-boundary proximity.\n\nOnly Statement 1 is correct — option (b).\n\nValue Addition:\n• Intraplate earthquakes are particularly challenging for disaster preparedness because their recurrence intervals are much longer — infrastructure in such areas is built without adequate seismic resistance.\n• The New Madrid Seismic Zone (USA) is another global example of dangerous intraplate seismicity — last major rupture in 1811–1812.\n• India's Peninsular Seismic Studies programme was intensified after Bhuj and Latur to map intraplate fault structures."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about intraplate earthquakes in India:\n\nStatement 1: Intraplate earthquakes, such as those at Koyna and Bhuj, are considered anomalous because the theory of plate tectonics predicts that seismic activity should be concentrated only at active plate boundaries.\n\nStatement 2: The Bhuj 2001 earthquake was an interplate earthquake occurring on the boundary between the Indian plate and the Eurasian plate, which is why it was classified under the highest seismic zone.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Statement 1 is correct but Statement 2 is incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Both Statement 1 and Statement 2 are incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "39f7d6d7-3b7a-47e9-bf0b-b347e9631f3b",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Seismograph and Seismogram: Instrumentation and Reading",
+        "Richter Scale: Magnitude Measurement and Logarithmic Nature"
+      ],
+      "subject_que_no": 1184,
+      "overall_que_no": 18158
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Seismograph principle of inertia — suspended mass stationary, frame moves",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'Differential GPS tracking of ground displacement' sounds like a sophisticated modern measurement method and is used in geodetic earthquake studies, making it a plausible-fabrication distractor.",
+      "elimination_logic": [
+        "Eliminate (b): Resonance frequency matching is a property of certain oscillating systems but is NOT the operational principle of seismographs — seismographs use inertia.",
+        "Eliminate (c): GPS-based differential displacement tracking is used in geodetic earthquake monitoring (InSAR, GNSS) but is not the operating principle of a seismograph.",
+        "Eliminate (d): Piezoelectric pressure sensing converts mechanical pressure to voltage — used in accelerometers and some sensors but not the foundational principle of traditional seismographs.",
+        "Retain (a): The principle of inertia — a suspended mass tends to remain stationary when its support frame is moved by ground shaking; the relative displacement between mass and frame is recorded as the seismogram."
+      ],
+      "upsc_trap_explanation": "Option (c) is a plausible-fabrication trap: differential GPS displacement tracking is a real geophysical technique used to measure coseismic surface deformation, and students who have read about modern earthquake science may confuse it with how seismographs work. The seismograph's operating principle — inertia of a suspended mass — is a classical physics concept, but the fabricated GPS option sounds more 'modern' and technologically sophisticated, attracting higher-scoring candidates who over-read.",
+      "final_explanation": "A seismograph records ground motion using a deceptively simple physical principle that has remained fundamentally unchanged since the 19th century.\n\n• Option (a): Correct — the principle of inertia underpins seismograph operation. A heavy mass is suspended from a frame on a spring or pendulum. When the ground (and frame) moves during an earthquake, the mass tends to remain stationary due to its inertia. The relative motion between the stationary mass and the moving frame is what gets recorded — either on paper (seismogram) or digitally.\n• Option (b): Incorrect — resonance frequency matching describes how tuning forks or oscillating circuits work; while some seismographs are tuned to specific frequency ranges, resonance is NOT the foundational operating principle.\n• Option (c): Incorrect — differential GPS/GNSS tracking measures static and coseismic crustal displacement at the surface and is used in geodetic earthquake research. It is not how seismographs detect seismic wave arrivals in real time.\n• Option (d): Incorrect — piezoelectric sensors convert mechanical stress to electrical signals and are used in certain strong-motion accelerometers, but this is not the traditional seismograph principle.\n\nValue Addition:\n• Modern broadband seismographs use very-long-period pendulums and digital feedback systems, but the inertia principle remains foundational.\n• Strong-motion seismographs (accelerographs) are designed specifically to record near-field, high-amplitude ground motion without clipping — different instruments for different purposes.\n• The first seismograph in India was installed in 1898 at Alipore, Kolkata."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A seismograph records ground motion during an earthquake. The fundamental physical principle on which a traditional seismograph operates is ________.\n\n(a) The principle of inertia — a suspended mass tends to remain stationary when the ground and its support frame move, and the relative displacement between the mass and frame is recorded\n(b) The resonance frequency matching principle — the seismograph's suspended system is tuned to vibrate at the same frequency as incoming seismic waves, amplifying the signal\n(c) Differential GPS displacement tracking — satellite signals measure the precise displacement of the seismograph frame relative to a fixed reference point in space\n(d) Piezoelectric pressure sensing — the mechanical pressure exerted by seismic waves on a crystal element generates a measurable electrical voltage proportional to ground acceleration",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fede24cc-080f-4c8f-8967-467d33d20122",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Surface Waves: Love and Rayleigh Waves — Characteristics and Damage",
+        "Seismic Waves: P-waves (Primary) — Nature and Behaviour",
+        "Seismic Waves: S-waves (Secondary) — Nature and Behaviour"
+      ],
+      "subject_que_no": 1185,
+      "overall_que_no": 18159
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Surface waves cause maximum destruction despite being slowest",
+      "statement_analysis": [
+        {
+          "statement": "Love waves travel faster than Rayleigh waves among surface wave types, and their motion is characterised by horizontal shearing with no vertical displacement component.",
+          "verdict": "Correct",
+          "reason": "Love waves are faster of the two surface wave types and produce horizontal shear motion only — they have no vertical component, which is their defining characteristic distinguishing them from Rayleigh waves."
+        },
+        {
+          "statement": "Surface waves cause the greatest structural damage during earthquakes despite being the slowest seismic waves, because they carry the largest energy amplitude and have the longest wavelengths.",
+          "verdict": "Correct",
+          "reason": "Surface waves combine low frequency, high amplitude, and long wavelength — they arrive after body waves but carry more energy for ground shaking at the surface, causing the most widespread structural damage, especially in soft sediment areas."
+        },
+        {
+          "statement": "Rayleigh waves are independent seismic waves generated directly at the earthquake source, similar to P-waves and S-waves, which is why they carry more energy than body waves.",
+          "verdict": "Incorrect",
+          "reason": "Surface waves (including Rayleigh) are NOT generated independently at the source — they are derived from body waves (P and S) upon reaching the Earth's surface. They do not originate at the focus; this distinction is fundamental to seismic wave classification."
+        }
+      ],
+      "strong_distractor": "d — Students who correctly identify Statements 1 and 2 as true may also accept Statement 3 because they know surface waves carry enormous energy for damage, failing to check the claim about independent origin.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Love waves are faster than Rayleigh and have only horizontal shear motion — correct.",
+        "Evaluate Statement 2: Surface waves being slowest yet most destructive due to high amplitude and long wavelength — correct.",
+        "Evaluate Statement 3: 'Generated directly at the earthquake source' is the scope-extension error — surface waves are derived from body waves reaching the surface, not independently generated at the focus; incorrect.",
+        "Statements 1 and 2 are correct — option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 3's scope-extension converts the known fact (surface waves carry great energy) into an incorrect claim about their origin (independently generated at source). Students who remember 'surface waves = most damage' accept the whole statement without checking the generation mechanism. In reality, if surface waves were generated at the focus, they would have to propagate through the Earth's interior — which they cannot, as they are specifically surface-bounded phenomena arising from body wave interaction with the surface.",
+      "final_explanation": "Surface wave classification and characteristics are tested frequently because students confuse their origin, speed hierarchy, and motion types.\n\n• Statement 1 — Correct: Love waves are the faster surface wave type. Their exclusively horizontal shear motion means they exert lateral force on building foundations without vertical lifting — particularly destructive for structures not designed for horizontal loading.\n• Statement 2 — Correct: Surface waves are slowest among seismic waves (P > S > Love > Rayleigh in speed) but carry the largest amplitude of ground motion at the surface. Their long wavelengths and low frequencies match the natural resonance periods of many large buildings, amplifying damage.\n• Statement 3 — Incorrect: Surface waves are derived waves — they are generated when P-waves and S-waves reach the Earth's surface and interact with it. They do not originate at the earthquake focus (hypocenter). This is a fundamental distinction: body waves originate at the focus; surface waves are a surface boundary phenomenon.\n\nValue Addition:\n• Love waves have no vertical motion — they cannot be recorded on vertical-component seismographs; only horizontal-component instruments detect them.\n• The destructive resonance of Rayleigh waves with tall buildings (1–10 second periods) explains why skyscrapers in distant cities sometimes sway during large remote earthquakes.\n• In engineering seismology, surface wave analysis (MASW — Multichannel Analysis of Surface Waves) is used to measure soil shear-wave velocity profiles for site characterisation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about seismic surface waves:\n\n1. Love waves travel faster than Rayleigh waves among surface wave types, and their motion is characterised by horizontal shearing with no vertical displacement component.\n2. Surface waves cause the greatest structural damage during earthquakes despite being the slowest seismic waves, because they carry the largest energy amplitude and have the longest wavelengths.\n3. Rayleigh waves are independent seismic waves generated directly at the earthquake source, similar to P-waves and S-waves, which is why they carry more energy than body waves.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1fbf2b9c-48e7-4996-b0ec-abe07a223139",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Global Seismic Belts: Circum-Pacific, Alpide, and Mid-Atlantic Ridge Zones",
+        "Seismic Hazard vs. Seismic Risk: Conceptual Distinction for Disaster Management"
+      ],
+      "subject_que_no": 1186,
+      "overall_que_no": 18160
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "High seismic hazard + low exposure = low risk — disaster management principle",
+      "statement_analysis": null,
+      "strong_distractor": "a — A planner who conflates hazard with risk will recommend the same level of intervention for both sites because 'high hazard = high risk,' without accounting for the exposure and vulnerability components.",
+      "elimination_logic": [
+        "Eliminate (a): Treating both sites as identical risk zones ignores the fundamental risk formula (Risk = Hazard × Exposure × Vulnerability); identical hazard does not mean identical risk.",
+        "Eliminate (b): Evacuating the unpopulated mountain range is resource-misallocation — zero population means near-zero exposure, hence near-zero risk despite high hazard.",
+        "Retain (c): The correct disaster management application prioritises the dense urban settlement (high hazard + high exposure + potentially high vulnerability = high risk) for structural audits and retrofitting over the unpopulated terrain (high hazard, near-zero exposure = low risk).",
+        "Eliminate (d): Declaring both zones off-limits conflates hazard (a physical property of the location) with risk (a product of hazard and human exposure); unpopulated land in Zone V need not be off-limits — no human risk arises."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in option (a) applies the correct relationship (high hazard = elevated concern) to an incorrect conclusion (identical risk = identical intervention). Risk science requires multiplying hazard by exposure AND vulnerability. A densely populated urban area in Zone V has orders of magnitude more risk than an uninhabited Zone V mountain slope. UPSC disaster management questions routinely test this hazard-risk distinction in urban planning and resource allocation contexts.",
+      "final_explanation": "A disaster management authority surveys two locations both falling within Seismic Zone V: (i) a rapidly growing city of 500,000 residents with mixed building quality, and (ii) a remote uninhabited mountain range used only for seasonal grazing.\n\nApplicable principle: Seismic Risk = Hazard × Exposure × Vulnerability. Both locations have equal seismic hazard (Zone V). However, the city has high exposure (500,000 residents + infrastructure) and potentially high vulnerability (mixed construction quality), creating very high risk. The uninhabited range has near-zero exposure and near-zero vulnerability — seismic hazard is irrelevant without people or assets at risk.\n\n• Option (a): Incorrect — identical hazard zone does not justify identical intervention. Risk differs dramatically due to exposure and vulnerability differentials.\n• Option (b): Incorrect — evacuating an uninhabited mountain range wastes resources and misapplies risk science. There is nothing to evacuate.\n• Option (c): Correct — the city represents extreme seismic risk (high hazard + high exposure + significant vulnerability) and should be prioritised for structural audit, building code enforcement, and retrofitting. The mountain range has negligible risk despite identical hazard.\n• Option (d): Incorrect — declaring Zone V land categorically off-limits ignores the exposure dimension. Zone V classification indicates elevated hazard; risk depends on what is exposed to that hazard.\n\nValue Addition:\n• The Sendai Framework for Disaster Risk Reduction (2015–2030) mandates risk-sensitive land-use planning that integrates hazard, exposure, and vulnerability data.\n• Japan has extensive Zone V equivalent areas that are densely populated; mitigation (building codes, EEW) reduces risk without eliminating hazard.\n• India's NDMA guidelines require seismic microzonation maps for major cities to identify local exposure and vulnerability variations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A state disaster management authority is planning seismic risk mitigation interventions. A survey reveals that two areas — a rapidly growing city of 500,000 residents with mixed building quality and a remote uninhabited mountain range — are both classified under Seismic Zone V. The authority must decide how to prioritise interventions. Which of the following decisions best reflects the correct application of seismic risk science?\n\n(a) Allocate equal resources to both areas since both fall under the same seismic zone — identical hazard justifies identical level of intervention\n(b) Prioritise the uninhabited mountain range because its pristine terrain is more susceptible to earthquake-triggered geomorphic hazards such as landslides and rockfalls\n(c) Concentrate structural audit, building code enforcement, and retrofitting efforts on the city, as seismic risk is a product of hazard, exposure, and vulnerability — and the city has all three elevated while the uninhabited range has negligible exposure\n(d) Declare both zones as off-limits for human settlement and infrastructure, since any area classified Zone V must be treated as uninhabitable regardless of current occupancy",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e5afa59c-0041-4b0a-966e-11ca524aa86f",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "sub_topic": "Earthquake — causes, waves, measurement",
+      "concepts_used": [
+        "Moment Magnitude Scale (Mw): Modern Standard and Comparison with Richter",
+        "Richter Scale: Magnitude Measurement and Logarithmic Nature"
+      ],
+      "subject_que_no": 1187,
+      "overall_que_no": 18161
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Richter saturates above M8; Mw and Richter agree for moderate earthquakes",
+      "statement_analysis": [
+        {
+          "statement": "The Richter scale and the Moment Magnitude Scale (Mw) yield nearly identical values for moderate earthquakes (below approximately M7), which is why Mw was designed to maintain continuity with the Richter scale in the lower magnitude range.",
+          "verdict": "Correct",
+          "reason": "Mw was deliberately calibrated to produce values consistent with the Richter scale for moderate-magnitude events; divergence becomes significant only at high magnitudes (above ~M7–8) where Richter saturates."
+        },
+        {
+          "statement": "The Richter scale becomes unreliable for earthquakes exceeding magnitude 8.0 because it saturates — it cannot distinguish between earthquakes of significantly different energies in this range, which is the primary reason Mw replaced it as the standard for large events.",
+          "verdict": "Correct",
+          "reason": "Richter saturation is a well-documented limitation: the seismograph instrument response limits accurate amplitude measurement for very large earthquakes, causing all M8+ events to appear similar on the Richter scale regardless of actual energy differences."
+        }
+      ],
+      "strong_distractor": "c — Students who believe Richter and Mw always give different values (because they are 'different scales') will mark Statement 1 as incorrect, choosing option (c).",
+      "elimination_logic": [
+        "Evaluate Statement 1: Mw values are consistent with Richter for moderate earthquakes — this was a design feature of Mw to ensure continuity with the established seismological record; Statement 1 is correct.",
+        "Evaluate Statement 2: Richter saturation above M8 is the primary technical reason Mw replaced it for large-earthquake measurement — Statement 2 is correct.",
+        "Both statements are correct — option (a)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap targets students who know Richter and Mw are 'different scales' and incorrectly conclude they always give different values. In fact, both scales were deliberately aligned for moderate earthquakes — the difference only becomes meaningful at high magnitudes. A student who memorises 'Richter ≠ Mw' without understanding the calibration design will mark Statement 1 as incorrect.",
+      "final_explanation": "The relationship between the Richter scale and Moment Magnitude (Mw) is frequently misunderstood, particularly regarding when they agree and when they diverge.\n\n• Statement 1 — Correct: Mw was calibrated by Kanamori and Hanks (1979) to produce values consistent with the Richter scale for earthquakes below approximately M7. This continuity was deliberate — it allows historical seismic records (pre-1979, in Richter values) to be meaningfully compared with modern Mw measurements without systematic offset.\n• Statement 2 — Correct: Richter saturation occurs because the Wood–Anderson seismograph (used to define Richter) reaches its amplitude measurement limit for very large earthquakes. Above M~8, all events appear similar on the Richter scale regardless of actual energy — a M8.5 and a M9.3 earthquake cannot be distinguished. Mw, based on seismic moment (fault area × slip × rigidity), does not saturate.\n\nBoth statements are correct — option (a).\n\nValue Addition:\n• The 2011 Tohoku earthquake was reported as Mw 9.0 — far larger than the M8.0–8.5 that Richter could have resolved.\n• For earthquakes below M5, local magnitude (ML, essentially Richter) and Mw are routinely used interchangeably.\n• Seismic moment can be computed from either seismograms or geological field measurements of fault rupture area and slip."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Richter scale and the Moment Magnitude Scale (Mw):\n\nStatement 1: The Richter scale and the Moment Magnitude Scale (Mw) yield nearly identical values for moderate earthquakes (below approximately M7), which is why Mw was designed to maintain continuity with the Richter scale in the lower magnitude range.\n\nStatement 2: The Richter scale becomes unreliable for earthquakes exceeding magnitude 8.0 because it saturates — it cannot distinguish between earthquakes of significantly different energies in this range, which is the primary reason Mw replaced it as the standard for large events.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "National Income Accounting",
+  "sub_topic": "GDP deflator",
+  "concepts": [
+    {
+      "name": "Definition and Core Formula of GDP Deflator",
+      "key_dimensions": [
+        "Formula: (Nominal GDP / Real GDP) × 100 — and what each component represents",
+        "Why it is expressed as an index number, not a percentage rate directly",
+        "Distinction between GDP deflator as a price index vs. an inflation measure",
+        "Common UPSC trap: confusing GDP deflator value with inflation rate"
+      ]
+    },
+    {
+      "name": "GDP Deflator vs. Consumer Price Index (CPI): Conceptual Differences",
+      "key_dimensions": [
+        "Coverage: GDP deflator covers all domestically produced goods & services; CPI covers a fixed consumer basket",
+        "Treatment of imports: CPI includes imported goods, GDP deflator excludes them",
+        "Base year fixed basket (CPI/WPI) vs. changing basket (GDP deflator — Paasche index)",
+        "Which is a better measure of economy-wide inflation and why — UPSC favourite comparison"
+      ]
+    },
+    {
+      "name": "GDP Deflator vs. Wholesale Price Index (WPI): Key Distinctions",
+      "key_dimensions": [
+        "WPI covers only goods (no services); GDP deflator covers goods and services",
+        "WPI uses a fixed base-year Laspeyres index; GDP deflator uses current-year weights (Paasche)",
+        "WPI excludes investment goods and government services; GDP deflator includes them",
+        "Practical implication: WPI and GDP deflator can move in opposite directions — UPSC trap"
+      ]
+    },
+    {
+      "name": "Paasche Price Index Nature of GDP Deflator",
+      "key_dimensions": [
+        "Definition of Paasche index: uses current-year quantities as weights",
+        "Contrast with Laspeyres index (base-year weights) used in CPI/WPI",
+        "Implication: GDP deflator tends to understate inflation (substitution bias direction opposite to CPI)",
+        "Why the basket changes every year — automatic updating without explicit revision"
+      ]
+    },
+    {
+      "name": "Nominal GDP vs. Real GDP: The Deflation Mechanism",
+      "key_dimensions": [
+        "Nominal GDP: valued at current-year prices; Real GDP: valued at base-year prices",
+        "How GDP deflator is used to convert nominal to real GDP (deflating process)",
+        "Base year selection and its policy implications in India (current base year: 2011-12)",
+        "UPSC trap: if GDP deflator > 100, real GDP < nominal GDP, and vice versa"
+      ]
+    },
+    {
+      "name": "GDP Deflator and Measurement of Inflation",
+      "key_dimensions": [
+        "GDP deflator inflation rate = % change in GDP deflator between two periods",
+        "Why RBI/government prefers CPI for monetary policy over GDP deflator",
+        "GDP deflator as a broader but less timely inflation signal",
+        "Scenario-based trap: economy with rising services prices — GDP deflator rises even if WPI is stable"
+      ]
+    },
+    {
+      "name": "Scope and Coverage: What GDP Deflator Includes and Excludes",
+      "key_dimensions": [
+        "Includes: private consumption, government expenditure, gross capital formation, net exports (production side)",
+        "Excludes: imported goods (critical UPSC distinction from CPI)",
+        "Includes investment goods (machinery, construction) — unlike CPI",
+        "Covers informal sector output if captured in GDP estimates — broader than any single price index"
+      ]
+    },
+    {
+      "name": "GDP Deflator and India's National Income Estimation (CSO/MOSPI)",
+      "key_dimensions": [
+        "Role of National Statistical Office (NSO/MOSPI) in computing GDP deflator",
+        "Data sources used: WPI, CPI, producer price indices for different sectors",
+        "Implicit vs. explicit deflators — GDP deflator is an implicit price deflator",
+        "Frequency: available only annually (quarterly with lag), unlike monthly CPI/WPI — policy limitation"
+      ]
+    },
+    {
+      "name": "Implicit Price Deflator Concept",
+      "key_dimensions": [
+        "GDP deflator is called an 'implicit' deflator because it is derived, not directly surveyed",
+        "Derived implicitly from the ratio of nominal to real GDP estimates",
+        "Contrast with explicit price indices (CPI, WPI) based on direct price surveys",
+        "UPSC trap: 'implicit' does not mean 'approximate' — it is a precise mathematical derivation"
+      ]
+    },
+    {
+      "name": "GDP Deflator and Sectoral Deflators in India",
+      "key_dimensions": [
+        "Different deflators used for different sectors: WPI for manufacturing, CPI-AL for agriculture, etc.",
+        "Composite GDP deflator is a weighted average of sectoral deflators",
+        "When sectoral composition of GDP shifts (e.g., services boom), overall deflator changes",
+        "Policy implication: a services-dominated economy may show low WPI but high GDP deflator"
+      ]
+    },
+    {
+      "name": "Base Year Revision and Its Impact on GDP Deflator",
+      "key_dimensions": [
+        "India's base year revisions: 1999-2000 → 2004-05 → 2011-12 (current)",
+        "Revision changes the reference point, altering both real GDP and deflator values",
+        "Why base year revision is necessary: structural changes in the economy",
+        "UPSC trap: after base revision, historical real GDP and deflator figures are restated — data inconsistency"
+      ]
+    },
+    {
+      "name": "GDP Deflator When Inflation is Negative (Deflation Scenario)",
+      "key_dimensions": [
+        "GDP deflator < 100 implies price levels have fallen below base year — deflation",
+        "Real GDP > Nominal GDP in deflation scenario — UPSC numerical trap",
+        "India's experience: GDP deflator has occasionally been very low (near deflation) in commodity price crash years",
+        "Policy implication: deflation raises real debt burden; GDP deflator signals this before CPI does for producers"
+      ]
+    },
+    {
+      "name": "GDP Deflator and Purchasing Power / Standard of Living Analysis",
+      "key_dimensions": [
+        "Real GDP per capita (deflated by GDP deflator) as a standard of living proxy",
+        "Why using nominal GDP per capita without deflation overstates welfare improvements",
+        "International comparisons: PPP-adjusted GDP vs. GDP deflator-adjusted real GDP — different purposes",
+        "UPSC linkage: HDI uses GNI per capita in PPP terms, not directly GDP deflator"
+      ]
+    },
+    {
+      "name": "GDP Deflator vs. GNP/GNI Deflator",
+      "key_dimensions": [
+        "GDP deflator based on domestic production; GNP deflator also accounts for net factor income from abroad",
+        "For India: GNP slightly less than GDP (net factor income is marginally negative)",
+        "Deflating GNP requires adjusting for price changes in foreign income flows",
+        "UPSC trap: GDP deflator ≠ GNP deflator — distinction matters when net factor income is significant"
+      ]
+    },
+    {
+      "name": "Relationship Between GDP Deflator and Terms of Trade",
+      "key_dimensions": [
+        "Terms of trade = export price index / import price index",
+        "Since imports are excluded from GDP deflator, a rise in import prices does NOT raise GDP deflator",
+        "But rising import prices raise CPI — causing GDP deflator and CPI to diverge",
+        "Policy trap: oil price shock raises CPI/WPI inflation but may not show up strongly in GDP deflator"
+      ]
+    },
+    {
+      "name": "GDP Deflator in the Context of Fiscal Policy Assessment",
+      "key_dimensions": [
+        "Nominal fiscal deficit vs. real fiscal deficit: GDP deflator used to assess real burden",
+        "Inflation (GDP deflator) erodes real value of government debt — 'inflation tax' concept",
+        "Real interest rate = nominal rate minus GDP deflator inflation — affects real cost of borrowing",
+        "UPSC application: assessing whether rising nominal GDP growth is real or price-driven"
+      ]
+    },
+    {
+      "name": "GDP Deflator and Economic Growth Decomposition",
+      "key_dimensions": [
+        "Nominal GDP growth = Real GDP growth + GDP deflator inflation (approximately)",
+        "Decomposing headline GDP growth into volume effect vs. price effect",
+        "UPSC trap: high nominal GDP growth with high deflator inflation may mean low real growth",
+        "India context: years of high nominal growth masking moderate real growth due to high deflation"
+      ]
+    },
+    {
+      "name": "Limitations of GDP Deflator as a Policy Tool",
+      "key_dimensions": [
+        "Not available monthly — delayed availability makes it unsuitable for real-time monetary policy",
+        "Covers only market-produced GDP — misses black economy, non-market household production",
+        "Paasche index underestimates inflation when consumers substitute away from expensive goods",
+        "Does not capture quality changes in goods and services (quality bias)"
+      ]
+    },
+    {
+      "name": "GDP Deflator in Comparing Across Countries (International Context)",
+      "key_dimensions": [
+        "Each country has its own GDP deflator; not directly comparable across nations",
+        "World Bank and IMF use country-specific GDP deflators for real growth comparisons",
+        "PPP conversion factors are conceptually different from GDP deflators — UPSC confusion point",
+        "IMF World Economic Outlook uses GDP deflator to compute real GDP growth rates for member countries"
+      ]
+    },
+    {
+      "name": "Numerical Interpretation and Exam-Oriented Calculations of GDP Deflator",
+      "key_dimensions": [
+        "Given nominal GDP and real GDP, compute deflator and interpret whether prices rose or fell",
+        "Given GDP deflator and nominal GDP, compute real GDP — standard UPSC prelims numerical",
+        "Identifying which year is the base year (deflator = 100) from a data table",
+        "UPSC trap: GDP deflator of 110 means prices rose 10% from base year, NOT 110% — common error"
+      ]
+    }
+  ]
+}

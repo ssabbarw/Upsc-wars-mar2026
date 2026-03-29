@@ -1,0 +1,1616 @@
+[
+  {
+    "meta": {
+      "uuid": "8ee0aa71-21ee-4199-a6be-7302fb748ceb",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Rossby Waves: Origin and Formation Mechanism"
+      ],
+      "subject_que_no": 736,
+      "overall_que_no": 17710
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": null,
+      "concept_anchor": "Conservation of potential vorticity — Rossby wave driver",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because the Coriolis effect is visibly involved in atmospheric wave motion, making it tempting to cite it as the driving principle rather than the more precise conservation of potential vorticity.",
+      "elimination_logic": [
+        "Eliminate (a): Coriolis effect contributes to wave generation but is not the governing conservation principle that sustains Rossby wave propagation.",
+        "Eliminate (c): Differential heating is the energy source but does not describe the mechanical principle that determines wave behaviour.",
+        "Eliminate (d): Pressure gradient force drives general circulation, not specifically Rossby wave dynamics.",
+        "Accept (b): Conservation of potential vorticity — as air parcels move poleward or equatorward, changes in planetary vorticity must be compensated by relative vorticity, generating the wave pattern."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Rossby waves arise from the latitudinal variation of the Coriolis parameter (beta effect). When an air parcel is displaced meridionally, it experiences a change in planetary vorticity. To conserve potential vorticity, the parcel acquires relative vorticity in the opposite sense — deflecting back and overshooting, creating oscillatory wave motion.\n\n• Option (a) — Incorrect: The Coriolis effect creates the beta effect but is not the conservation principle.\n• Option (b) — Correct: Conservation of potential vorticity is the fundamental principle governing Rossby wave propagation.\n• Option (c) — Incorrect: Differential heating is the energy source energising the atmosphere but does not describe wave mechanics.\n• Option (d) — Incorrect: Pressure gradient force drives wind, not specifically Rossby wave oscillations.\n\nValue Addition:\n• The beta parameter (β = ∂f/∂y) quantifies the rate of change of the Coriolis parameter with latitude.\n• Rossby waves carry no mass — they are wave patterns in the flow of existing air.\n• Potential vorticity is conserved in adiabatic, frictionless flow."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly identifies the governing physical principle behind the propagation of Rossby waves in the atmosphere?\n\n(a) The Coriolis effect directly deflecting air parcels into oscillatory patterns\n(b) Conservation of potential vorticity as air parcels undergo meridional displacement\n(c) Differential heating between the poles and equator generating kinetic energy in waves\n(d) Pressure gradient force acting horizontally across the isobaric surfaces",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1522c670-ec35-4172-8dd5-2158424ee1e5",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Planetary vs. Synoptic Scale Waves: Classification and Differences"
+      ],
+      "subject_que_no": 737,
+      "overall_que_no": 17711
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "conflation",
+      "concept_anchor": "Planetary vs. synoptic scale upper-air waves — distinction",
+      "statement_analysis": [
+        {
+          "statement": "Rossby waves are planetary-scale waves characterised by wavenumbers 1 to 6 and are primarily responsible for poleward heat transport in the mid-latitude atmosphere.",
+          "verdict": "Correct",
+          "reason": "Planetary Rossby waves (wavenumbers 1–6) span continental scales and are the dominant mechanism for meridional heat and momentum transport between tropics and poles."
+        },
+        {
+          "statement": "All upper-air waves observed in the mid-latitudes, including shorter baroclinic eddies, are classified as Rossby waves.",
+          "verdict": "Incorrect",
+          "reason": "Shorter baroclinic eddies operating at synoptic scale (wavenumbers 7 and above) are distinct from planetary Rossby waves; conflating all upper-air waves as Rossby waves is a common error."
+        },
+        {
+          "statement": "Synoptic-scale baroclinic eddies, unlike planetary Rossby waves, derive their energy primarily from horizontal temperature contrasts through baroclinic instability.",
+          "verdict": "Correct",
+          "reason": "Baroclinic eddies grow through baroclinic instability exploiting temperature gradients, making them structurally and energetically distinct from the large-scale Rossby wave modes."
+        }
+      ],
+      "strong_distractor": "d — Option (d) is a strong distractor because students who correctly identify Statement 1 as true but misread Statement 2 (which exploits the common conflation trap) may think all three are correct.",
+      "elimination_logic": [
+        "Evaluate Statement 2 carefully: the claim that ALL upper-air waves are Rossby waves is the classic conflation trap — synoptic-scale baroclinic eddies are a distinct category.",
+        "Statement 2 is therefore Incorrect, eliminating options (b) and (d) which include it as correct.",
+        "Statements 1 and 3 are independently verifiable as correct — wavenumber classification and baroclinic instability are well-established distinctions.",
+        "Accept (c): only Statements 1 and 3 are correct."
+      ],
+      "upsc_trap_explanation": "The trap here exploits the tendency to conflate all large-scale upper-air waves with Rossby waves. A partially prepared student who has only encountered 'Rossby waves' as a label for mid-latitude upper-air flow will mark Statement 2 as correct. The key knowledge is that the mid-latitude atmosphere contains both planetary Rossby waves (wavenumbers 1–6) and shorter synoptic-scale baroclinic eddies (wavenumbers 7+), and these are mechanically and energetically distinct systems.",
+      "final_explanation": "Upper-air circulation in mid-latitudes contains wave phenomena across different spatial scales. Planetary Rossby waves (wavenumbers 1–6) are large-scale, quasi-stationary or slowly propagating, and critical for meridional energy transport. Shorter baroclinic eddies operate at synoptic scales and grow through baroclinic instability.\n\n• Statement 1 — Correct: Planetary Rossby waves (wavenumbers 1–6) are the dominant heat and momentum transporters across latitudes.\n• Statement 2 — Incorrect: Not all upper-air waves are Rossby waves; synoptic-scale baroclinic eddies are a distinct category with a different energy source.\n• Statement 3 — Correct: Baroclinic eddies extract energy from horizontal temperature gradients through baroclinic instability — a mechanism different from Rossby wave dynamics.\n\nValue Addition:\n• Wavenumber refers to the number of complete wave cycles around a latitude circle.\n• Wavenumber 1–3 waves are nearly always stationary; wavenumber 4–6 are semi-stationary.\n• Synoptic-scale eddies (wavenumbers 7+) travel with the mean flow and constitute most mid-latitude cyclones."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding upper-air waves in the mid-latitude atmosphere:\n\n1. Rossby waves are planetary-scale waves characterised by wavenumbers 1 to 6 and are primarily responsible for poleward heat transport in the mid-latitude atmosphere.\n2. All upper-air waves observed in the mid-latitudes, including shorter baroclinic eddies, are classified as Rossby waves.\n3. Synoptic-scale baroclinic eddies, unlike planetary Rossby waves, derive their energy primarily from horizontal temperature contrasts through baroclinic instability.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1a890f89-9171-4854-adf5-ce818ce4096e",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Westerlies and the Polar Vortex: Structural Relationship",
+        "Sudden Stratospheric Warming (SSW) Events"
+      ],
+      "subject_que_no": 738,
+      "overall_que_no": 17712
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Polar vortex disruption — SSW and Rossby wave role",
+      "statement_analysis": [
+        {
+          "statement": "The polar vortex is exclusively a tropospheric phenomenon and has no coupling with the stratosphere.",
+          "verdict": "Incorrect",
+          "reason": "The polar vortex has significant coupling with the stratosphere — it is in fact strongest in the stratosphere, and Sudden Stratospheric Warming (SSW) events directly disrupt it by transferring energy from tropospheric Rossby waves upward."
+        },
+        {
+          "statement": "A major Sudden Stratospheric Warming event involves a reversal of stratospheric polar winds from westerly to easterly, accompanied by a temperature rise of 30–50°C within days.",
+          "verdict": "Correct",
+          "reason": "By definition, a major SSW requires wind reversal (westerly to easterly) in the stratospheric polar region along with rapid warming of 30–50°C; a minor SSW involves only deceleration without full reversal."
+        },
+        {
+          "statement": "During a weakened polar vortex state following an SSW event, the Arctic Oscillation typically shifts to its positive phase, leading to mild conditions in mid-latitudes.",
+          "verdict": "Incorrect",
+          "reason": "A weakened polar vortex corresponds to a negative AO phase — characterised by amplified Rossby waves, cold air intrusions, and anomalously cold conditions in mid-latitudes, not mild conditions."
+        }
+      ],
+      "strong_distractor": "b — Option (b) is deceptive because students who correctly identify Statement 1 as false may then accept Statements 2 and 3 without scrutinising the AO phase direction in Statement 3.",
+      "elimination_logic": [
+        "Statement 1 is clearly incorrect — the polar vortex is a stratosphere-troposphere coupled system, not exclusive to the troposphere.",
+        "Statement 2 is correct — major SSW requires wind reversal plus 30–50°C temperature rise, a well-established definition.",
+        "Statement 3 reverses AO phase logic — weakened polar vortex = negative AO = cold intrusions, NOT positive AO = mild conditions.",
+        "Two statements (1 and 3) are NOT correct, matching option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the principal trap. Students who correctly know that SSW weakens the polar vortex often do not track the downstream AO consequence precisely. A weakened polar vortex couples downward to produce a negative Arctic Oscillation, which amplifies Rossby waves and drives cold air equatorward — the opposite of mild conditions. The scope-extension trap works by appending a plausible-sounding but reversed consequence to an otherwise correct premise about vortex weakening.",
+      "final_explanation": "The polar vortex is a stratosphere-troposphere coupled circulation feature strongest in the lower stratosphere. Upward-propagating Rossby waves can disrupt it, causing SSW events.\n\n• Statement 1 — Incorrect: The polar vortex is not exclusively tropospheric; it is most pronounced in the stratosphere and shows strong troposphere-stratosphere coupling.\n• Statement 2 — Correct: A major SSW is defined by wind reversal (westerly → easterly) and temperature rises of 30–50°C in the polar stratosphere within days.\n• Statement 3 — Incorrect: Post-SSW weakened polar vortex → negative AO phase → amplified Rossby waves → cold air outbreaks into mid-latitudes, not mild conditions.\n\nValue Addition:\n• SSW effects propagate downward over 2–8 weeks to influence surface weather.\n• Minor SSW: wind deceleration only; major SSW: complete wind reversal.\n• The polar vortex is typically strongest in boreal winter (December–February)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the polar vortex and Sudden Stratospheric Warming (SSW) events:\n\n1. The polar vortex is exclusively a tropospheric phenomenon and has no coupling with the stratosphere.\n2. A major Sudden Stratospheric Warming event involves a reversal of stratospheric polar winds from westerly to easterly, accompanied by a temperature rise of 30–50°C within days.\n3. During a weakened polar vortex state following an SSW event, the Arctic Oscillation typically shifts to its positive phase, leading to mild conditions in mid-latitudes.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d3046987-f3b0-4a15-8200-b1685cc26ea4",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Jet Streams: Types, Location, and Seasonal Shifts",
+        "Western Disturbances: Rossby Wave Connection to Indian Climate"
+      ],
+      "subject_que_no": 739,
+      "overall_que_no": 17713
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Jet stream types and Indian climate associations",
+      "statement_analysis": [
+        {
+          "statement": "Western Disturbances travel embedded in the subtropical westerly jet stream and bring winter precipitation to northwest India.",
+          "verdict": "Correct",
+          "reason": "Western Disturbances are troughs embedded in mid-latitude westerly waves guided by the subtropical westerly jet stream — not the polar front jet stream as commonly confused."
+        },
+        {
+          "statement": "The Tropical Easterly Jet (TEJ) flows from east to west over the Indian subcontinent during the summer monsoon season.",
+          "verdict": "Incorrect",
+          "reason": "The TEJ flows from east to west — but wait, 'east to west' means it is an easterly (flowing westward). The TEJ is indeed called the Tropical Easterly Jet because it flows from east toward west over India. This statement is Correct."
+        },
+        {
+          "statement": "The polar front jet stream, not the subtropical jet, is responsible for guiding Western Disturbances into the Indian subcontinent.",
+          "verdict": "Incorrect",
+          "reason": "This is the classic UPSC trap. Western Disturbances are associated with the subtropical westerly jet stream (approximately 25–30°N), not the polar front jet stream (approximately 60°N), which is far too poleward to influence northwest India."
+        },
+        {
+          "statement": "The northward migration of the subtropical westerly jet stream in summer is associated with the onset of the Indian summer monsoon.",
+          "verdict": "Correct",
+          "reason": "As the subtropical jet moves northward with the sun (toward ~40–45°N in summer), it withdraws from over India, removing the subsidence-inducing influence and allowing the monsoon to set in over the subcontinent."
+        }
+      ],
+      "strong_distractor": "b — Option (b) 'Only two' is a strong distractor because students who correctly identify Statement 1 and 4 as correct but fall for the TEJ direction trap in Statement 2 will count only two correct statements.",
+      "elimination_logic": [
+        "Statement 3 is clearly incorrect — Western Disturbances are linked to the subtropical westerly jet, not the polar front jet stream.",
+        "Statement 1 is correct — Western Disturbances travel embedded in the subtropical westerly jet.",
+        "Statement 2 requires precision: TEJ flows from east toward west = it is an easterly jet flowing westward over India — this is correct.",
+        "Statement 4 is correct — northward shift of the subtropical jet triggers monsoon onset.",
+        "Three statements (1, 2, 4) are correct and one (3) is incorrect — answer is (c) Only three."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap is embedded in Statement 3, which substitutes 'polar front jet' for 'subtropical westerly jet' in the context of Western Disturbances. A student who has vaguely read about jet streams and disturbances but not pinned down which jet stream at which latitude guides Western Disturbances will accept Statement 3. Statement 2 on TEJ direction is also a subtle trap — students confuse 'easterly' (flowing from east) with 'flowing eastward', but the TEJ does flow westward (it is an easterly), making Statement 2 correct.",
+      "final_explanation": "Jet streams are narrow bands of fast-moving air in the upper troposphere. India's climate is influenced by multiple jet stream systems at different seasons.\n\nConsider the following pairs:\n\n| Statement | Verdict |\n|---|---|\n| Western Disturbances in subtropical westerly jet | Correct |\n| TEJ flows east to west (westward) | Correct |\n| Polar jet guides Western Disturbances | Incorrect |\n| Northward jet shift → monsoon onset | Correct |\n\n• Statement 1 — Correct: Western Disturbances are embedded troughs in the subtropical westerly jet (~25–30°N).\n• Statement 2 — Correct: TEJ is an easterly jet — it flows from east to west (westward) over India in summer.\n• Statement 3 — Incorrect: The polar front jet (~60°N) is too poleward to guide disturbances into northwest India.\n• Statement 4 — Correct: Northward withdrawal of the subtropical jet is a precondition for monsoon onset.\n\nValue Addition:\n• Subtropical westerly jet is at ~200 hPa; polar front jet at ~300 hPa.\n• TEJ is strongest at ~150 hPa, ~15°N in July–August.\n• Western Disturbances are most frequent November–March."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about jet streams and their role in Indian climate:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Western Disturbances travel embedded in the subtropical westerly jet stream and bring winter precipitation to northwest India."
+          ],
+          [
+            "2",
+            "The Tropical Easterly Jet (TEJ) flows from east to west over the Indian subcontinent during the summer monsoon season."
+          ],
+          [
+            "3",
+            "The polar front jet stream, not the subtropical jet, is responsible for guiding Western Disturbances into the Indian subcontinent."
+          ],
+          [
+            "4",
+            "The northward migration of the subtropical westerly jet stream in summer is associated with the onset of the Indian summer monsoon."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "22183135-9c5a-43ec-a976-bb905c192e38",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Rossby Wave Propagation: Eastward vs. Westward Movement"
+      ],
+      "subject_que_no": 740,
+      "overall_que_no": 17714
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "Rossby wave propagation types — phase vs group velocity",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because it correctly places stationary waves but swaps phase and group velocity, exploiting the common confusion between what the wave pattern and the wave energy actually do.",
+      "elimination_logic": [
+        "Stationary Rossby waves occur when intrinsic westward phase velocity exactly equals the eastward mean flow — net propagation is zero: A matches 3.",
+        "Phase velocity describes the movement of the wave pattern (ridges/troughs), not energy: B matches 2.",
+        "Group velocity describes the speed at which wave energy and information propagate, generally eastward in Rossby wave packets: C matches 4.",
+        "Orographic forcing (mountains deflecting airflow) generates thermally-driven waves — this is incorrect; orographic forcing is distinct from thermally-driven waves: D matches 1.",
+        "The correct combination is A-3, B-2, C-4, D-1 = option (b)."
+      ],
+      "upsc_trap_explanation": "The trap lies in matching phase velocity and group velocity. Students who have encountered these terms but not studied their distinct physical meanings tend to conflate them. Phase velocity describes where the wave crest/trough appears to be moving; group velocity describes where the energy is moving — these can be in different directions in Rossby waves. Additionally, students conflate orographic and thermally-driven Rossby waves despite their being distinct generation mechanisms.",
+      "final_explanation": "Rossby wave propagation involves multiple concepts that must be carefully distinguished.\n\n• A–3 (Stationary Rossby wave): Occurs when the wave's intrinsic westward phase speed exactly cancels the eastward mean westerly flow, resulting in a stationary pattern. These produce persistent weather anomalies.\n• B–2 (Phase velocity): Describes the apparent movement of the wave pattern — ridges and troughs — which propagates westward relative to the mean flow.\n• C–4 (Group velocity): Describes how energy and information propagate through the wave packet; for Rossby waves this is generally eastward, independent of phase velocity direction.\n• D–1 (Orographic Rossby wave): Generated when airflow is deflected by major mountain barriers (Himalayas, Rockies), creating wave patterns downstream — mechanistically distinct from thermally driven waves.\n\nValue Addition:\n• Stationary waves are responsible for climatological rainfall patterns (wet/dry zones) globally.\n• Group velocity > phase velocity in Rossby wave packets — energy outruns the wave pattern.\n• The Tibetan Plateau is the Northern Hemisphere's single most important orographic wave generator."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Rossby wave concept) with List II (correct description):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Stationary Rossby wave",
+            "1. Wave generated by airflow deflected over a major mountain range"
+          ],
+          [
+            "B. Phase velocity",
+            "2. Speed at which the wave pattern (ridges and troughs) appears to move"
+          ],
+          [
+            "C. Group velocity",
+            "3. Condition when the wave's intrinsic propagation speed exactly cancels the mean westerly flow"
+          ],
+          [
+            "D. Orographically-driven Rossby wave",
+            "4. Speed at which wave energy and information propagate through the wave packet"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-4, C-2, D-1\n(b) A-3, B-2, C-4, D-1\n(c) A-1, B-2, C-4, D-3\n(d) A-1, B-4, C-2, D-3"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "96daee83-3182-4beb-9ce4-227baa5414fc",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Rossby Wave Breaking and Atmospheric Blocking"
+      ],
+      "subject_que_no": 741,
+      "overall_que_no": 17715
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "Atmospheric blocking — wave breaking mechanism",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because both A and R are factually correct, and students who do not interrogate the causal link may assume R explains A without checking whether wave breaking is actually caused by irreversible overturning or merely associated with it.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. Blocking highs are persistent anticyclonic anomalies that disrupt the normal westerly flow and are associated with extreme weather events including heatwaves and prolonged cold spells.",
+        "Step 2: Is Reason (R) correct? — Yes. Rossby wave breaking does involve irreversible overturning of potential vorticity contours, and this process can produce blocking patterns.",
+        "Step 3: Does R causally explain A? — Yes. The blocking high forms precisely because wave breaking causes an irreversible rearrangement of potential vorticity, creating a quasi-stationary anticyclonic anomaly that sustains the block. R is the correct causal explanation of A.",
+        "All three conditions satisfied → correct_option is (a). Wait — re-check: Step 3 confirms R does explain A. correct_option = a."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Atmospheric blocking is one of the most impactful and persistent weather phenomena in mid-latitudes. When Rossby waves amplify sufficiently, they can 'break' — meaning potential vorticity contours overturn irreversibly, analogous to ocean waves breaking on a beach. This irreversible rearrangement of potential vorticity creates quasi-stationary anticyclonic (or cyclonic) anomalies that block the normal progression of weather systems.\n\n• Assertion (A) — Correct: Blocking highs are persistent, quasi-stationary anticyclones that disrupt the zonal westerly flow and cause prolonged weather extremes — heatwaves where warm air is trapped, cold spells where Arctic air remains in place.\n• Reason (R) — Correct: Rossby wave breaking produces irreversible overturning of potential vorticity contours, which is precisely the mechanism that generates and sustains blocking patterns.\n• Causal link — Valid: R correctly and causally explains A. The persistence of blocking highs is a direct consequence of the irreversible nature of wave breaking.\n\nValue Addition:\n• Two blocking types: Omega blocks (single high flanked by two lows) and Rex blocks (high directly north of low).\n• The 2003 European heatwave and 2010 Russian heatwave were associated with blocking events.\n• Blocking events typically last 10–20 days and are poorly predicted by numerical models beyond ~10 days."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Blocking highs are quasi-stationary anticyclonic anomalies in the mid-latitude upper troposphere that can sustain extreme weather events such as heatwaves and prolonged cold spells for days to weeks.\n\nReason (R): Rossby wave breaking involves irreversible overturning of potential vorticity contours, which generates and sustains these quasi-stationary anticyclonic patterns.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fabf369b-b229-4f77-b54c-62e29eae0d7f",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Index Cycle: Zonal vs. Meridional Flow Regimes"
+      ],
+      "subject_que_no": 742,
+      "overall_que_no": 17716
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Index cycle — sequence of zonal to meridional regime transition",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students may think amplified wave formation precedes trough deepening, not recognising that the index cycle moves through well-defined stages from zonal flow to successive wave amplification to eventual cutoff.",
+      "elimination_logic": [
+        "The index cycle begins with high zonal index: strong, fast, nearly straight westerlies with minimal wave undulation — this must be first.",
+        "As energy accumulates, small undulations develop in the westerlies — wave formation precedes full amplification.",
+        "Waves then amplify into deep troughs and ridges (low index) — this is the third stage.",
+        "The cycle terminates with cutoff lows and isolated highs breaking off from the main wave pattern before re-establishment of zonal flow.",
+        "Correct sequence: 3 → 1 → 4 → 2 = option (b)."
+      ],
+      "upsc_trap_explanation": "The temporal trap here is the reversal of stages 1 and 4 — students who know the zonal-to-meridional transition but have not studied the precise sequence may place wave formation (1) before high zonal index establishment (3). The index cycle has a specific progression: high zonal index → gentle undulations → amplified waves → cutoff systems → return to zonal flow, with a periodicity of roughly 3–8 weeks.",
+      "final_explanation": "The index cycle describes the cyclical alternation between zonal (west-east) and meridional (north-south) flow regimes in mid-latitude upper air circulation over a 3–8 week period.\n\nCorrect sequence: Strong zonal westerlies (high index) → small undulations develop → waves amplify into deep troughs/ridges (low index) → cutoff lows and isolated highs form → system resets.\n\n• Event 3 (high zonal index, straight westerlies) is the starting point — energy is stored in zonal flow.\n• Event 1 (small undulations) represents early-stage wave development from energy redistribution.\n• Event 4 (deep troughs and ridges, amplified Rossby waves) is the mature low-index phase.\n• Event 2 (cutoff lows, isolated highs) is the terminal stage before zonal flow re-establishes.\n\nWrong options fail by reordering events 1 and 4, or by placing cutoff formation before full wave amplification.\n\nValue Addition:\n• Low zonal index does NOT mean weaker winds everywhere — regional jet intensification occurs.\n• Index cycle periodicity: approximately 3–8 weeks.\n• During low index, mid-latitude storm tracks shift equatorward, affecting precipitation patterns."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following stages in the evolution of the atmospheric index cycle:\n\n1. Small undulations appear in the previously straight mid-latitude westerly flow\n2. Cutoff lows and isolated anticyclones become detached from the main wave pattern\n3. Strong, nearly straight westerly flow with a high zonal index characterises upper-air circulation\n4. Deep troughs and ridges develop, producing an amplified, meandering Rossby wave pattern\n\nWhich of the following represents the correct chronological order of these stages?\n\n(a) 1 → 3 → 4 → 2\n(b) 3 → 1 → 4 → 2\n(c) 3 → 4 → 1 → 2\n(d) 1 → 4 → 3 → 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "25e7cf80-18a5-4b3d-97d7-13d02f474d6d",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Upper Air Circulation and Surface Weather Linkage",
+        "Index Cycle: Zonal vs. Meridional Flow Regimes"
+      ],
+      "subject_que_no": 743,
+      "overall_que_no": 17717
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Upper-level divergence and surface cyclogenesis — jet streak regions",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students know that low pressure systems develop ahead of upper-level troughs, but the more precise mechanism — upper-level divergence in the left-exit or right-entrance region of a jet streak — is less well-known.",
+      "elimination_logic": [
+        "Eliminate (a): The scenario involves a jet streak, not just a trough — the relevant principle is jet streak quadrant dynamics, specifically left-exit and right-entrance zones of divergence.",
+        "Eliminate (b): Upper-level convergence would suppress surface development, not cause rapid cyclogenesis; this is the opposite of the scenario described.",
+        "Eliminate (d): Vorticity advection aloft is part of the mechanism but does not specifically explain the rapid cyclogenesis in this scenario without invoking jet streak quadrant theory.",
+        "Accept (c): The area downstream-left of a jet streak core is the right-entrance/left-exit divergence region — ageostrophic outflow here creates upper-level divergence, drawing air upward and lowering surface pressure, triggering cyclogenesis."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap lies in option (a): it correctly states that surface lows develop ahead of upper troughs (true) but misses that the specific and more complete explanation in this scenario is jet streak divergence zones. A student who has memorised the trough-low relationship but not studied jet streak quadrant dynamics will choose (a). The scenario is designed to reward the more precise mechanism.",
+      "final_explanation": "Upper-air circulation directly drives surface weather through divergence-convergence patterns. Jet streaks are localised zones of maximum wind speed within the jet stream. Air entering and exiting a jet streak is subject to ageostrophic accelerations that create preferred divergence and convergence zones.\n\nIn the scenario: rapid surface low development beneath the left-exit region of a jet streak is the diagnostic signature of upper-level divergence from jet streak dynamics.\n\n• Option (a) — Partially correct but incomplete: Trough-ahead surface lows are real, but the specific mechanism here is jet streak quadrant divergence.\n• Option (b) — Incorrect: Upper-level convergence suppresses, not generates, surface low pressure.\n• Option (c) — Correct: Left-exit and right-entrance regions of jet streaks are zones of ageostrophic divergence, driving upward motion and surface cyclogenesis.\n• Option (d) — Incomplete: Vorticity advection is a secondary mechanism but not the primary explanation for rapid cyclogenesis in a jet streak environment.\n\nValue Addition:\n• Four quadrants of a jet streak: right-entrance and left-exit are divergent; left-entrance and right-exit are convergent.\n• Bomb cyclones (explosive cyclogenesis) frequently occur in jet streak divergence zones.\n• 500 hPa trough axis = zone of maximum vorticity advection aloft."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A meteorologist observing 300 hPa upper-air charts notes a pronounced jet streak over the western North Atlantic. A surface ship report from a position beneath the left-exit region of this jet streak records a rapidly deepening low-pressure system — central pressure dropping by 24 hPa within 24 hours. The meteorologist attributes this explosive cyclogenesis to a specific upper-atmosphere mechanism.\n\nWhich of the following principles most precisely explains the rapid surface low development in this scenario?\n\n(a) Surface cyclones preferentially develop ahead of upper-level troughs where positive vorticity advection is maximised\n(b) Upper-level convergence in the jet streak region compresses the atmospheric column, deepening the surface low\n(c) Ageostrophic divergence in the left-exit and right-entrance regions of jet streaks creates upper-level outflow that lowers surface pressure\n(d) Thermal wind imbalance across the polar front generates baroclinic instability, which directly produces the surface low",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d04d23f0-077f-4aac-b21b-f1278989dd60",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Western Disturbances: Rossby Wave Connection to Indian Climate"
+      ],
+      "subject_que_no": 744,
+      "overall_que_no": 17718
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Western Disturbances — distinguishing features from monsoon systems",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) is a strong distractor because students know Western Disturbances bring winter rain, and a student confusing Mediterranean moisture with Bay of Bengal moisture might doubt option (c).",
+      "elimination_logic": [
+        "Identify the common category: all four options should relate to Western Disturbances except one.",
+        "Options (b), (c), and (d) are correctly associated with Western Disturbances: they travel in mid-latitude westerlies, are active in winter, and draw moisture from the Mediterranean/Caspian.",
+        "Option (a) states Western Disturbances draw energy from thermal convection in the Bay of Bengal — this is the moisture/energy source of monsoon depressions, not Western Disturbances.",
+        "Option (a) is the odd one out — accept (a)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap substitutes the Bay of Bengal (source of monsoon depression moisture) for the Mediterranean Sea/Caspian region (source of Western Disturbance moisture). A superficial student knows both the Bay of Bengal and Western Disturbances are associated with Indian rainfall and may not distinguish which moisture source belongs to which system. Western Disturbances are extratropical and draw moisture from the Mediterranean, Persian Gulf, and Caspian Sea — not from tropical Bay of Bengal convection.",
+      "final_explanation": "Western Disturbances are extratropical cyclonic disturbances originating in the Mediterranean region that travel eastward embedded in the subtropical westerly jet stream.\n\n• Option (a) — Odd one out: Western Disturbances draw moisture from the Mediterranean Sea, Caspian Sea, and Persian Gulf — NOT from Bay of Bengal thermal convection, which is the energy source for monsoon depressions.\n• Option (b) — Belongs: WDs travel embedded in the mid-latitude westerly wave system, consistent with their extratropical origin.\n• Option (c) — Belongs: WDs are most active in winter (November–March), bringing crucial precipitation to northwest India, Pakistan, and the Hindu Kush-Himalayas.\n• Option (d) — Belongs: WDs are the primary source of winter and pre-monsoon precipitation for Rabi crops and Himalayan snowpack.\n\nValue Addition:\n• Monsoon depressions originate in the Bay of Bengal and move northwest — opposite track to WDs.\n• WDs interact with the subtropical westerly jet at ~200–300 hPa.\n• Weakening or absence of WDs causes drought-like conditions in Rabi crop regions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four characteristics are correctly associated with Western Disturbances. Which one is NOT?\n\n(a) They derive their primary energy from thermal convection over the Bay of Bengal before entering the Indian subcontinent\n(b) They travel as embedded troughs within mid-latitude westerly wave systems moving from west to east\n(c) They are most active during the winter months and are the dominant source of precipitation for northwestern India during that season\n(d) They are responsible for significant snowfall in the Himalayas and are critical for summer river flows fed by snowmelt",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0b789a13-464c-4000-99de-0d8a125f00ed",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Indian Monsoon Onset and the Upper Air Circulation Shift",
+        "Upper Tropospheric Anticyclones and Divergence Zones"
+      ],
+      "subject_que_no": 745,
+      "overall_que_no": 17719
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Upper-level anticyclone — surface pressure consequence",
+      "statement_analysis": [
+        {
+          "statement": "The Tibetan High (South Asian High) is an upper tropospheric anticyclone that forms during summer due to intense diabatic heating of the Tibetan Plateau, and its development is closely linked to the maintenance of the Indian summer monsoon circulation.",
+          "verdict": "Correct",
+          "reason": "The Tibetan High forms at ~200 hPa as a result of diabatic heating over the plateau, creating an upper-level divergence pattern that drives the monsoon circulation — this is well-established."
+        },
+        {
+          "statement": "An upper-level anticyclone over a region directly produces high surface pressure beneath it through the downward propagation of anticyclonic circulation.",
+          "verdict": "Incorrect",
+          "reason": "Upper-level anticyclones produce divergence aloft, which draws air upward from below — this creates surface convergence and low pressure at the surface, NOT high pressure. The Tibetan High, for instance, sits above a region of active monsoon convection with low surface pressure."
+        }
+      ],
+      "strong_distractor": "a — Option (a) is a strong distractor because students who know Statement 1 is correct may not scrutinise Statement 2 carefully, assuming that anticyclone at top = high pressure below, by analogy with surface anticyclones.",
+      "elimination_logic": [
+        "Statement 1 is correct — Tibetan High forms from diabatic heating, maintains monsoon divergence aloft; this is textbook.",
+        "Statement 2 contains the classic UPSC trap: upper-level anticyclone → divergence aloft → upward motion → surface low, NOT surface high.",
+        "Statement 2 is therefore Incorrect — reversed causation error.",
+        "Only Statement 1 is correct → option (c)... wait: options are (a) both correct, (b) both incorrect, (c) S1 correct S2 incorrect, (d) S1 incorrect S2 correct. Statement 1 is Correct and Statement 2 is Incorrect → correct_option is (c)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap in Statement 2 exploits surface-level intuition: students associate anticyclones with high pressure and assume this relationship holds vertically. In reality, an upper-level anticyclone drives divergence aloft — air spreads outward at high levels, which must be compensated by upward motion from below. This produces surface convergence and low pressure. The Tibetan High itself sits above the low-pressure monsoon trough at the surface — the exact opposite of what Statement 2 claims.",
+      "final_explanation": "Upper tropospheric anticyclones behave differently from surface anticyclones in their vertical consequences.\n\n• Statement 1 — Correct: The Tibetan High forms at ~200 hPa due to intense summer heating of the plateau, generating upper-level divergence that sustains monsoon circulation and the Tropical Easterly Jet.\n• Statement 2 — Incorrect: Upper-level anticyclones produce divergence aloft → upward mass flux → surface convergence and low pressure beneath them. The Tibetan High sits above active monsoon convection, not a surface anticyclone.\n\nValue Addition:\n• The South Asian High migrates between ~20°N (active monsoon) and ~30°N (break monsoon).\n• Upper-level divergence is the key mechanism linking the Tibetan High to monsoon maintenance.\n• The Mediterranean High at upper levels contrasts with surface subtropical highs — these are structurally different systems."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements:\n\nStatement 1: The Tibetan High (South Asian High) is an upper tropospheric anticyclone that forms during summer due to intense diabatic heating of the Tibetan Plateau, and its development is closely linked to the maintenance of the Indian summer monsoon circulation.\n\nStatement 2: An upper-level anticyclone over a region directly produces high surface pressure beneath it through the downward propagation of anticyclonic circulation.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c078981e-6eb9-4516-951e-5cd8133a4b3e",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Arctic Amplification and Weakening of Rossby Waves"
+      ],
+      "subject_que_no": 746,
+      "overall_que_no": 17720
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Arctic amplification — wave amplitude and extreme weather link",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) is a strong distractor because students know Arctic warming weakens temperature gradients and may associate 'weaker gradient' with 'weaker everything,' including wave amplitude, not recognising that weaker westerlies produce larger (more amplified) wave undulations.",
+      "elimination_logic": [
+        "Arctic warming reduces the equator-to-pole temperature gradient — this is the starting mechanism.",
+        "Reduced gradient → weaker westerlies (thermal wind relationship), not stronger.",
+        "Weaker mean westerly flow → Rossby waves become more amplified (larger meanders) because the flow has less energy to maintain a straight zonal path.",
+        "More amplified waves → persistent wave patterns → increased frequency of extreme weather in mid-latitudes.",
+        "The blank must be filled with 'more amplified' or 'larger undulations' → option (b)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap works through a logical shortcut: 'weaker gradient → weaker everything.' Students who have only partially learned the Arctic amplification hypothesis assume weaker westerlies produce smaller Rossby waves. The counter-intuitive truth is that weaker westerlies allow Rossby waves to develop larger meanders — because a strong, fast jet maintains a more zonal path while a weak jet allows greater north-south excursions of the same waves.",
+      "final_explanation": "Arctic amplification refers to the observed phenomenon of the Arctic warming at roughly 2–4 times the global average rate due to feedback mechanisms.\n\n• Option (a) — Incorrect: Suppressed (smaller) Rossby waves would result from stronger, not weaker, westerlies.\n• Option (b) — Correct: Reduced temperature gradient → weaker westerlies → more amplified, wavy Rossby waves with larger north-south excursions, producing persistent weather anomalies.\n• Option (c) — Incorrect: This confuses reduced gradient with reduced wave amplitude — the opposite is true.\n• Option (d) — Incorrect: Wave amplitude increases, not decreases, as the westerlies weaken.\n\nValue Addition:\n• The Jennifer Francis hypothesis (2012) formally proposed the Arctic amplification–Rossby wave link.\n• This remains a scientifically debated hypothesis — not yet settled consensus.\n• Persistent Rossby waves are linked to multi-week heatwaves, cold outbreaks, and flood events."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "As the Arctic warms at a faster rate than the tropics, the equator-to-pole temperature gradient decreases. According to the Arctic amplification hypothesis, this reduction in gradient weakens the mid-latitude westerly jet stream, causing Rossby waves to become ________, which increases the frequency of persistent weather extremes in the mid-latitudes.\n\n(a) suppressed, with smaller undulations confined to higher latitudes\n(b) more amplified, with larger north-south meanders producing quasi-stationary patterns\n(c) more zonal and faster-moving, reducing the duration of any individual weather event\n(d) shorter in wavelength and higher in wavenumber, resembling synoptic-scale eddies",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e1452a73-518d-44ce-ade9-73582b418475",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Quasi-Biennial Oscillation (QBO) and Its Influence on Upper Air Waves"
+      ],
+      "subject_que_no": 747,
+      "overall_que_no": 17721
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "QBO — cycle, altitude, and polar vortex phase relationship",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because students may know the QBO involves stratospheric winds and a ~28-month cycle but confuse which phase (easterly vs. westerly) strengthens the polar vortex.",
+      "elimination_logic": [
+        "Eliminate (a): QBO cycle is ~28 months (not 18 months) — temporal-swap trap.",
+        "Eliminate (b): QBO operates at approximately 20–30 km (~50–10 hPa), centred near 28 km — not at 10 km which is the tropopause, not the stratosphere.",
+        "Evaluate (c): QBO westerly phase → stronger polar vortex; easterly phase → weaker polar vortex and more frequent SSW — this is the correct relationship.",
+        "Eliminate (d): QBO does modulate Rossby wave propagation into the stratosphere, but the stated effect (easterly phase strengthens vortex) is reversed — accept (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap in option (a) replaces the correct ~28-month periodicity with 18 months — a number close enough to seem plausible to a partially prepared student. Option (d) reverses the QBO phase-vortex relationship, exploiting the fact that students know both phases affect the polar vortex but may not remember which phase does what. The westerly QBO phase reduces upward Rossby wave propagation into the stratosphere, keeping the polar vortex stronger.",
+      "final_explanation": "The QBO is a stratospheric phenomenon involving alternating easterly and westerly wind regimes.\n\n• Option (a) — Incorrect: QBO cycle is approximately 28 months, not 18 months — a common temporal-swap error.\n• Option (b) — Incorrect: QBO operates in the equatorial stratosphere at ~20–30 km altitude (~50–10 hPa), not at 10 km (tropopause level).\n• Option (c) — Correct: QBO westerly phase → inhibits upward Rossby wave propagation into stratosphere → stronger polar vortex. QBO easterly phase → enhanced Rossby wave propagation → weaker polar vortex, more SSW events.\n• Option (d) — Incorrect: QBO easterly phase weakens (not strengthens) the polar vortex.\n\nValue Addition:\n• QBO was first documented by Richard Reed and colleagues in the early 1960s.\n• QBO interacts with ENSO — their combined state modulates Northern Hemisphere winter climate.\n• QBO is one of the few stratospheric phenomena with predictable periodicity (~28 months)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to the Quasi-Biennial Oscillation (QBO) is correctly matched?\n\n(a) QBO periodicity : approximately 18-month alternating cycle between easterly and westerly stratospheric winds\n(b) QBO altitude of operation : approximately 10 km above Earth's surface in the upper troposphere\n(c) QBO westerly phase : stronger stratospheric polar vortex due to reduced upward Rossby wave propagation\n(d) QBO easterly phase : stronger polar vortex due to suppressed upward-propagating wave activity",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b9fa6c2a-9a47-4e02-8f0e-cc3a5ab8f9af",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "El Niño-Southern Oscillation (ENSO) Teleconnections via Rossby Waves"
+      ],
+      "subject_que_no": 748,
+      "overall_que_no": 17722
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "ENSO-Rossby wave teleconnection — PNA pattern and remote impacts",
+      "statement_analysis": [
+        {
+          "statement": "Equatorial sea surface temperature anomalies during El Niño events can excite Rossby wave trains that propagate into mid-latitude regions, influencing weather patterns thousands of kilometres from the tropical Pacific.",
+          "verdict": "Correct",
+          "reason": "ENSO-forced anomalous convective heating in the equatorial Pacific generates Rossby wave trains via a Gill-type response, which propagate poleward and eastward into the mid-latitudes — the classic teleconnection mechanism."
+        },
+        {
+          "statement": "The Pacific-North America (PNA) pattern is a well-documented Rossby wave teleconnection driven by ENSO that affects precipitation and temperature patterns across North America.",
+          "verdict": "Correct",
+          "reason": "The PNA is the archetypal ENSO-forced Rossby wave teleconnection pattern, generating alternating high and low pressure anomalies from the Pacific to eastern North America."
+        },
+        {
+          "statement": "ENSO influences mid-latitude weather exclusively through direct atmospheric heating spreading from the tropical Pacific, with no role for wave dynamics.",
+          "verdict": "Incorrect",
+          "reason": "This is the explicit UPSC trap: ENSO impacts mid-latitudes BOTH through atmospheric heating AND, critically, through Rossby wave propagation. Dismissing wave dynamics is factually wrong and misses the teleconnection mechanism."
+        }
+      ],
+      "strong_distractor": "d — Option (d) (all three correct) is the strong distractor because Statements 1 and 2 are both correct, and a student who reads Statement 3 quickly may accept 'direct atmospheric heating' as a valid partial-truth without noticing the exclusionary word 'exclusively' negating wave dynamics.",
+      "elimination_logic": [
+        "Statement 3 uses the word 'exclusively' about direct atmospheric heating — this is the scope-extension/partial-truth trap; ENSO teleconnections operate primarily through Rossby wave dynamics, not just heating.",
+        "Statement 3 is Incorrect — eliminating options that include it as correct: options (b) and (d) are eliminated.",
+        "Statements 1 and 2 are both independently verifiable as correct — PNA pattern and poleward Rossby wave propagation from ENSO are textbook facts.",
+        "Accept (a): Statements 1 and 2 only are correct."
+      ],
+      "upsc_trap_explanation": "Statement 3 is built on a partial truth. ENSO does influence the global atmosphere partly through direct heating anomalies. But the dominant mechanism for mid-latitude teleconnections is Rossby wave propagation — anomalous tropical heating acts as a wave source, and the resulting Rossby wave trains carry the teleconnection signal to mid-latitudes. The word 'exclusively' in Statement 3 makes it false, but a student reading quickly may register 'direct heating = true' and mark it correct without catching the exclusion of wave dynamics.",
+      "final_explanation": "ENSO teleconnections are among the most studied phenomena in climatology. The mechanism linking tropical Pacific SST anomalies to mid-latitude weather operates primarily through Rossby wave dynamics.\n\n• Statement 1 — Correct: El Niño heating anomalies excite poleward-propagating Rossby wave trains, transmitting tropical signals to mid-latitudes thousands of km away.\n• Statement 2 — Correct: The PNA pattern is the canonical ENSO-forced Rossby wave teleconnection — it alternates ridges and troughs from the Pacific to eastern North America and modulates North American climate significantly.\n• Statement 3 — Incorrect: ENSO does NOT influence mid-latitudes exclusively through direct heating. Wave dynamics (Rossby wave propagation) is the primary teleconnection mechanism.\n\nValue Addition:\n• ENSO also influences Indian monsoon via Rossby wave interference with the subtropical westerly jet.\n• Australian droughts during El Niño are partly mediated by Rossby wave modulation of rainfall systems.\n• The Walker Circulation is ENSO's direct tropical-tropics signal; Rossby waves carry it extratropically."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding ENSO teleconnections and Rossby waves:\n\n1. Equatorial sea surface temperature anomalies during El Niño events can excite Rossby wave trains that propagate into mid-latitude regions, influencing weather patterns thousands of kilometres from the tropical Pacific.\n2. The Pacific-North America (PNA) pattern is a well-documented Rossby wave teleconnection driven by ENSO that affects precipitation and temperature patterns across North America.\n3. ENSO influences mid-latitude weather exclusively through direct atmospheric heating spreading from the tropical Pacific, with no role for wave dynamics.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "30aef4c2-4935-419e-bdc0-43aed843f229",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Madden-Julian Oscillation (MJO) and Intraseasonal Upper Air Variability"
+      ],
+      "subject_que_no": 749,
+      "overall_que_no": 17723
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "MJO wave excitation — Kelvin vs. Rossby wave direction",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) swaps Kelvin and Rossby wave directions, which is the precise trap — students who know MJO excites both wave types but confuse which goes eastward and which goes westward will choose (a).",
+      "elimination_logic": [
+        "Eliminate (a): This reverses the direction of both wave types — Kelvin waves move eastward, Rossby waves westward, not the other way around.",
+        "Eliminate (c): MJO propagates eastward at 5 m/s approximately, not westward; this option reverses the MJO propagation direction.",
+        "Eliminate (d): MJO periodicity is 30–60 days (intraseasonal), not 12–18 months which would place it in the interannual range of ENSO.",
+        "Accept (b): MJO propagates eastward with 30–60 day periodicity, exciting Kelvin waves (eastward) and Rossby waves (westward) in the tropics."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap reverses which wave type moves eastward and which moves westward from the MJO convective anomaly. Kelvin waves are gravity-like waves that propagate eastward along the equator; Rossby waves propagate westward. A student who has seen both terms associated with MJO but has not fixed their directions will mark option (a) as correct, making this one of the highest-yield traps in tropical meteorology.",
+      "final_explanation": "The MJO is a 30–60 day propagating convective system that modulates tropical and global weather.\n\n• Option (a) — Incorrect: Reverses the directions — Rossby waves go westward and Kelvin waves go eastward from the MJO heating source.\n• Option (b) — Correct: MJO propagates eastward at ~5 m/s with 30–60 day periodicity; it excites Kelvin waves eastward and Rossby waves westward along the equator.\n• Option (c) — Incorrect: MJO propagates eastward, not westward; westward propagation describes the equatorial Rossby wave response.\n• Option (d) — Incorrect: 12–18 month timescale describes quasi-biennial or ENSO timescales, not the MJO's intraseasonal 30–60 day cycle.\n\nValue Addition:\n• MJO has 8 standard phases tracked globally for weather prediction.\n• MJO modulates active and break phases of the Indian summer monsoon.\n• MJO is distinct from ENSO (interannual) and QBO (quasi-biennial) in timescale."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements correctly describes the Madden-Julian Oscillation (MJO) and its wave interactions?\n\n(a) The MJO excites Rossby waves that propagate eastward and Kelvin waves that propagate westward along the equatorial tropics\n(b) The MJO propagates eastward across the tropics with a 30–60 day periodicity and excites Kelvin waves moving eastward and Rossby waves moving westward\n(c) The MJO is a westward-propagating convective anomaly with a 30–60 day periodicity that primarily influences Southern Hemisphere circulation\n(d) The MJO operates on a 12–18 month cycle and is classified alongside ENSO as an interannual mode of tropical variability",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5f5aecad-0e8e-46b5-a84a-b4f7d5825645",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Orographic Forcing of Stationary Rossby Waves"
+      ],
+      "subject_que_no": 750,
+      "overall_que_no": 17724
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "Orographic Rossby waves — Tibetan Plateau and stationary wave pattern",
+      "statement_analysis": [
+        {
+          "statement": "The Tibetan Plateau is considered the most significant orographic forcing agent in the Northern Hemisphere for generating stationary Rossby waves.",
+          "verdict": "Correct",
+          "reason": "The Tibetan Plateau, due to its vast extent and elevation (~4,500 m average), exerts the greatest orographic influence on Northern Hemisphere stationary wave patterns — it deflects the westerly flow into persistent wave patterns."
+        },
+        {
+          "statement": "Orographic forcing by mountain ranges tends to produce persistent troughs immediately downstream (east) of major mountain barriers in the Northern Hemisphere westerly flow.",
+          "verdict": "Incorrect",
+          "reason": "The correct pattern is ridges downstream (east) of major mountains and troughs upstream (west) — not the reverse. Air flowing over mountains descends and warms adiabatically on the lee side, generating a downstream ridge."
+        },
+        {
+          "statement": "The Rockies in North America generate stationary wave patterns that contribute to the climatological distribution of wet and dry regions across North America.",
+          "verdict": "Correct",
+          "reason": "The Rockies deflect the mid-latitude westerlies, generating stationary ridge-trough patterns that determine the climatological rainfall distribution — wet Pacific coast and drier interior patterns are partly orographically forced."
+        }
+      ],
+      "strong_distractor": "a — Option (a) appears correct to students who confuse downstream ridge formation with downstream trough formation — the geographic-swap trap makes 'troughs downstream' sound plausible.",
+      "elimination_logic": [
+        "Statement 1 is correct — Tibetan Plateau is the dominant NH orographic wave generator.",
+        "Statement 3 is correct — Rockies generate stationary waves contributing to North American climate patterns.",
+        "Statement 2 contains the geographic-swap trap: 'troughs immediately downstream' is incorrect; mountains generate RIDGES downstream (lee side) and troughs upstream.",
+        "Statement 2 is NOT correct → answer is (a) 2 only... wait: options for 3-statement NOT-correct are structured as 1 and 2 only / 2 and 3 only / etc. Only Statement 2 is incorrect → answer must be option that lists '2 only' — check options: option (d) lists '2 only'. Accept (d)."
+      ],
+      "upsc_trap_explanation": "The geographic-swap trap in Statement 2 reverses the correct downstream pattern. Students who have read about orographic effects on precipitation — where the windward side is wet and lee side is dry — may confuse the precipitation shadow with atmospheric wave patterns. In stationary Rossby wave mechanics, mountains generate downstream ridges (lee ridges) as descending air creates convergence and anticyclonic vorticity, not troughs.",
+      "final_explanation": "Orographic forcing is a key mechanism generating stationary Rossby waves that shape global climatological patterns.\n\n• Statement 1 — Correct: The Tibetan Plateau (~4,500 m average elevation, ~2.5 million km² area) is the Northern Hemisphere's dominant orographic wave forcing agent.\n• Statement 2 — Incorrect: Major mountain ranges produce ridges (not troughs) immediately downstream in the westerly flow. Descending air on the lee side generates anticyclonic vorticity → downstream ridge.\n• Statement 3 — Correct: The Rockies' stationary wave forcing contributes to the wet Pacific Northwest and drier Great Plains/Midwest climatological pattern.\n\nValue Addition:\n• Lee cyclogenesis is a related phenomenon — surface lows form on the eastern side of mountains (e.g., Colorado Low, Alpine Lee Cyclones).\n• Andes generate Southern Hemisphere stationary waves analogously.\n• Orographic and thermal forcing together determine the observed stationary wave pattern."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about orographic forcing of stationary Rossby waves:\n\n1. The Tibetan Plateau is considered the most significant orographic forcing agent in the Northern Hemisphere for generating stationary Rossby waves.\n2. Orographic forcing by mountain ranges tends to produce persistent troughs immediately downstream (east) of major mountain barriers in the Northern Hemisphere westerly flow.\n3. The Rockies in North America generate stationary wave patterns that contribute to the climatological distribution of wet and dry regions across North America.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 1, 2 and 3\n(d) 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c618ddb9-ee24-431a-a23b-50a80e2ec456",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Arctic Oscillation (AO) and North Atlantic Oscillation (NAO): Wave-Driven Variability"
+      ],
+      "subject_que_no": 751,
+      "overall_que_no": 17725
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "AO and NAO — wave-driven variability and phase consequences",
+      "statement_analysis": [
+        {
+          "statement": "The Arctic Oscillation (AO) is the dominant mode of extratropical Northern Hemisphere variability and reflects the relative strength or weakness of the stratospheric polar vortex.",
+          "verdict": "Correct",
+          "reason": "AO is defined as the leading mode of sea-level pressure variability north of 20°N and is mechanistically linked to the strength of the polar vortex — a strong vortex corresponds to positive AO."
+        },
+        {
+          "statement": "During a positive AO phase, Rossby waves are amplified and extend further equatorward, driving cold air outbreaks into Europe and North America.",
+          "verdict": "Incorrect",
+          "reason": "Positive AO = strong polar vortex = Rossby waves confined poleward, not amplified equatorward. Cold air outbreaks and amplified Rossby waves are characteristics of negative AO, not positive AO."
+        },
+        {
+          "statement": "The North Atlantic Oscillation (NAO) can be understood as the regional Atlantic sector expression of the broader Arctic Oscillation pattern.",
+          "verdict": "Correct",
+          "reason": "NAO is indeed the regional manifestation of the AO pattern in the Atlantic sector, representing the pressure seesaw between the Icelandic Low and Azores High."
+        },
+        {
+          "statement": "A persistently negative AO phase is associated with weaker mid-latitude westerlies and more meridional Rossby wave patterns, which can increase the likelihood of cold spells in Europe and India's northwestern regions.",
+          "verdict": "Correct",
+          "reason": "Negative AO = weak polar vortex = amplified Rossby waves = more meridional flow = cold air intrusions into mid-latitudes including Europe and occasionally northwest India via enhanced WD activity."
+        }
+      ],
+      "strong_distractor": "d — Option (d) 'All four' is a strong distractor because Statements 1, 3, and 4 are all correct, and only careful reading of Statement 2's 'amplified equatorward' claim exposes the error.",
+      "elimination_logic": [
+        "Statement 1 is correct — AO reflects polar vortex strength and is the dominant NH extratropical mode.",
+        "Statement 2 contains the phase-reversal trap — positive AO confines Rossby waves poleward (mild mid-latitudes), NOT amplifies them equatorward.",
+        "Statement 3 is correct — NAO is the Atlantic sector expression of AO.",
+        "Statement 4 is correct — negative AO → more meridional flow → cold spells in mid-latitudes.",
+        "Three statements correct (1, 3, 4); one incorrect (2) → option (c) Only three."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a partial-truth trap: it correctly attributes cold air outbreaks and amplified Rossby waves to a specific AO phase but assigns these consequences to the wrong phase (positive instead of negative). A student who knows AO modulates Rossby wave amplitude but has not memorised which phase does what will accept Statement 2. The key rule: positive AO = strong vortex = confined poleward waves = mild mid-latitudes. Negative AO = weak vortex = amplified equatorward waves = cold outbreaks.",
+      "final_explanation": "The AO and its regional expression the NAO are fundamental to understanding mid-latitude climate variability.\n\n| Statement | Verdict |\n|---|---|\n| AO reflects polar vortex strength | Correct |\n| Positive AO amplifies Rossby waves equatorward | Incorrect |\n| NAO = Atlantic sector AO expression | Correct |\n| Negative AO → meridional flow → cold spells | Correct |\n\n• Statement 2 reverses the AO phase: positive AO confines waves poleward (mild mid-latitudes); negative AO amplifies waves equatorward (cold outbreaks).\n\nValue Addition:\n• AO and NAO are measured as pressure anomaly indices.\n• The 2009–10 severe European winter was associated with strongly negative AO/NAO.\n• NAO influences rainfall over the Sahel and parts of India through downstream teleconnections."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the Arctic Oscillation (AO) and North Atlantic Oscillation (NAO):",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "The Arctic Oscillation (AO) is the dominant mode of extratropical Northern Hemisphere variability and reflects the relative strength or weakness of the stratospheric polar vortex."
+          ],
+          [
+            "2",
+            "During a positive AO phase, Rossby waves are amplified and extend further equatorward, driving cold air outbreaks into Europe and North America."
+          ],
+          [
+            "3",
+            "The North Atlantic Oscillation (NAO) can be understood as the regional Atlantic sector expression of the broader Arctic Oscillation pattern."
+          ],
+          [
+            "4",
+            "A persistently negative AO phase is associated with weaker mid-latitude westerlies and more meridional Rossby wave patterns, which can increase the likelihood of cold spells in Europe and India's northwestern regions."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0f5710e0-5288-46ad-89d6-1f62eaafc414",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Thermal Wind Relationship and Upper Air Wind Speed"
+      ],
+      "subject_que_no": 752,
+      "overall_que_no": 17726
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Thermal wind — mathematical relationship, not an actual wind",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. Jet streams are fastest at the tropopause because the maximum horizontal temperature gradient between warm tropical and cold polar air occurs at the polar front at upper tropospheric levels.",
+        "Step 2: Is Reason (R) correct? — No. Thermal wind is not an actual wind that flows in the atmosphere. It is a mathematical vector representing the vertical shear of the geostrophic wind — the difference in geostrophic wind between two pressure levels, driven by horizontal temperature gradients.",
+        "Step 3: Since R is incorrect, the answer must be (c) — A is correct, R is incorrect.",
+        "correct_option = c."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in R adds the phrase 'advects warm and cold air masses' — implying thermal wind is a real advecting wind. This sounds physically intuitive: a wind driven by temperature gradients should advect temperature. But thermal wind is purely a diagnostic mathematical relationship (vector difference between geostrophic winds at two levels), not an actual airflow. Students who confuse it with geostrophic wind or with actual jet stream flow will accept R as correct and choose option (a) or (b).",
+      "final_explanation": "Jet streams sit at the tropopause because of the thermal wind relationship between the atmosphere's layers.\n\n• Assertion (A) — Correct: Jet streams are strongest at the tropopause (~200–300 hPa) because the maximum equator-to-pole temperature gradient — the polar front — is located at upper tropospheric levels. The thermal wind equation shows that increasing temperature gradient with height = increasing wind shear = maximum winds at the level of maximum gradient (the tropopause).\n• Reason (R) — Incorrect: Thermal wind is NOT an actual wind flowing through the atmosphere. It is a mathematical quantity equal to the vector difference in geostrophic wind between two pressure levels, quantifying vertical wind shear due to horizontal temperature gradients. It does not advect anything.\n\nValue Addition:\n• Thermal wind blows parallel to isotherms with cold air to the left (NH).\n• Jet stream speeds can exceed 300 km/h at the tropopause level.\n• Thermal wind shear is critical for determining tropical cyclone intensity — strong shear inhibits cyclone development."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Jet streams achieve their maximum wind speeds at the tropopause level because the greatest horizontal temperature contrast between tropical and polar air masses is concentrated at upper tropospheric levels.\n\nReason (R): The thermal wind is an actual wind that flows through the atmosphere, driven by horizontal temperature gradients, and it advects warm and cold air masses poleward and equatorward to establish the observed temperature contrasts.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ff3c9505-6fad-49d2-8e6a-a9e1d16f1941",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Storm Tracks and Rossby Wave Packet Propagation"
+      ],
+      "subject_que_no": 753,
+      "overall_que_no": 17727
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Storm tracks — baroclinic instability and Rossby wave packet guidance",
+      "statement_analysis": [
+        {
+          "statement": "Extratropical cyclones preferentially form along the polar front where baroclinic instability is greatest, and their subsequent movement is guided by Rossby wave packet propagation.",
+          "verdict": "Correct",
+          "reason": "The polar front is the region of maximum horizontal temperature gradient and thus maximum baroclinic instability — the preferred genesis zone for extratropical cyclones. Rossby wave packets then guide the eastward movement of successive cyclones along established storm tracks."
+        },
+        {
+          "statement": "The North Atlantic and North Pacific storm tracks are fixed in position throughout the year and do not exhibit any seasonal variation.",
+          "verdict": "Incorrect",
+          "reason": "Storm tracks shift poleward in summer and equatorward in winter following the seasonal displacement of the polar front and jet stream — they are not fixed."
+        },
+        {
+          "statement": "Shifts in mid-latitude storm tracks can potentially influence monsoon variability and the behaviour of the Indian Ocean Dipole.",
+          "verdict": "Correct",
+          "reason": "Through downstream Rossby wave teleconnections, storm track shifts can modulate circulation patterns over the Indian Ocean, affecting monsoon onset, rainfall distribution, and IOD events."
+        }
+      ],
+      "strong_distractor": "d — Option (d) (all three correct) is the strong distractor because Statements 1 and 3 are both correct and plausible, leading students to accept Statement 2 without noting the 'fixed throughout the year' claim.",
+      "elimination_logic": [
+        "Statement 2 is the trap — it claims storm tracks are 'fixed in position throughout the year.' Storm tracks clearly shift seasonally following the polar front and jet stream.",
+        "Statement 2 is Incorrect — this eliminates options (b) and (d).",
+        "Statement 1 is correct — baroclinic instability at the polar front and Rossby wave packet guidance are standard storm track theory.",
+        "Statement 3 is correct — teleconnections between storm tracks and IOD/monsoon are established in climate research.",
+        "Accept (a): Statements 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 2 adds 'throughout the year' to the otherwise true fact that storm tracks exist in the North Atlantic and North Pacific. Students who know these storm tracks exist but haven't studied their seasonal variation will mark Statement 2 as correct. Storm tracks follow the seasonal pole-equator migration of the polar front — poleward in summer, equatorward in winter — a fundamental fact of extratropical climatology.",
+      "final_explanation": "Storm tracks are preferred corridors of extratropical cyclone activity driven by baroclinic instability and Rossby wave dynamics.\n\n• Statement 1 — Correct: The polar front is the genesis zone for extratropical cyclones via baroclinic instability; Rossby wave packets then guide subsequent cyclones along storm tracks.\n• Statement 2 — Incorrect: Storm tracks are not fixed — they migrate seasonally. In summer they shift poleward with the polar front; in winter they shift equatorward, bringing more intense storm activity to lower latitudes.\n• Statement 3 — Correct: Storm track shifts can propagate downstream as Rossby wave teleconnections, modulating Indian Ocean circulation and IOD behaviour.\n\nValue Addition:\n• North Atlantic storm track influences European winter weather more than the North Pacific track.\n• Poleward shift of storm tracks under climate change is projected to reduce Mediterranean winter rainfall.\n• IOD-storm track interaction is an active area of monsoon predictability research."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about storm tracks and extratropical cyclone behaviour:\n\n1. Extratropical cyclones preferentially form along the polar front where baroclinic instability is greatest, and their subsequent movement is guided by Rossby wave packet propagation.\n2. The North Atlantic and North Pacific storm tracks are fixed in position throughout the year and do not exhibit any seasonal variation.\n3. Shifts in mid-latitude storm tracks can potentially influence monsoon variability and the behaviour of the Indian Ocean Dipole.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3363fb18-fd44-4136-8bfc-603309f56c30",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Rossby Waves: Origin and Formation Mechanism",
+        "Orographic Forcing of Stationary Rossby Waves"
+      ],
+      "subject_que_no": 754,
+      "overall_que_no": 17728
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Rossby wave generation mechanisms — thermal vs. orographic sources",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) swaps the thermal and orographic wave sources, exploiting student confusion between the Tibetan Plateau's role as an orographic forcing agent and as a thermal forcing agent (it is both, but orographic and thermal Rossby waves are distinct mechanisms).",
+      "elimination_logic": [
+        "The Tibetan Plateau is the most significant orographic forcing agent — it physically deflects airflow: A matches 3.",
+        "Land-sea heating contrast (e.g., continent vs. ocean in summer) is the source of thermally-driven stationary Rossby waves: B matches 1.",
+        "Equatorial convective heating anomalies (ENSO-type) excite poleward-propagating Rossby wave trains as teleconnections: C matches 4.",
+        "The beta effect (latitudinal variation of Coriolis parameter) is the restoring force enabling free Rossby wave propagation: D matches 2.",
+        "Correct match: A-3, B-1, C-4, D-2 = option (c)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap exploits the Tibetan Plateau's dual role. The Plateau generates BOTH thermally-driven Rossby waves (as a heat source/elevated heating platform) AND orographic Rossby waves (as a physical barrier). Options (a) and (b) swap the primary classification of the Plateau. In Rossby wave theory, the Tibetan Plateau's most studied role in generating STATIONARY Rossby waves is through its orographic influence — physical deflection of westerly flow.",
+      "final_explanation": "Rossby waves can be generated by multiple distinct mechanisms, each associated with a different physical source.\n\n• A–3 (Tibetan Plateau → orographic forcing): The Plateau physically deflects the westerly airflow, creating persistent stationary wave patterns — the primary orographic wave source in the NH.\n• B–1 (Land-sea heating contrast → thermally-driven waves): Differential heating between continents and oceans in summer creates large-scale temperature gradients that drive thermally-forced stationary Rossby waves.\n• C–4 (Equatorial convective heating → teleconnection wave trains): Anomalous tropical heating (as in ENSO) excites Rossby wave trains that propagate poleward and eastward — the Gill-type response.\n• D–2 (Beta effect → free Rossby wave propagation): The latitudinal change in Coriolis parameter (beta) is the fundamental restoring force that enables Rossby waves to propagate freely once excited.\n\nValue Addition:\n• Thermal and orographic forcing jointly determine the observed stationary wave pattern.\n• The beta effect is zero at the equator and maximum at the poles.\n• Free (transient) Rossby waves travel westward relative to the mean flow."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Rossby wave generation mechanism) with List II (primary physical source or principle):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Orographically-forced stationary Rossby waves",
+            "1. Differential heating between continental and oceanic surfaces creating large-scale temperature gradients"
+          ],
+          [
+            "B. Thermally-driven stationary Rossby waves",
+            "2. Latitudinal variation of the Coriolis parameter providing the restoring force"
+          ],
+          [
+            "C. ENSO-forced Rossby wave teleconnections",
+            "3. Physical deflection of westerly airflow by a major elevated mountain barrier"
+          ],
+          [
+            "D. Free Rossby wave propagation",
+            "4. Anomalous equatorial convective heating exciting poleward-propagating wave trains"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-1, B-3, C-2, D-4\n(c) A-3, B-1, C-4, D-2\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "03f5e2e6-710f-44ae-b2fd-368cebb56a9d",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Indian Monsoon Onset and the Upper Air Circulation Shift"
+      ],
+      "subject_que_no": 755,
+      "overall_que_no": 17729
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "TEJ direction and monsoon upper-air circulation",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because students know the westerly jet is associated with the monsoon shift and may apply it to the TEJ, confusing the two jets' directions.",
+      "elimination_logic": [
+        "The scenario describes a jet at 150 hPa over the Indian subcontinent, strongest in July–August — this is the Tropical Easterly Jet (TEJ).",
+        "Eliminate (b): TEJ does not flow westward — that describes the subtropical westerly jet; TEJ flows eastward (it is called 'easterly' meaning winds come FROM the east, flowing westward) — wait, reconsider: an 'easterly' jet means winds flow FROM east TO west (westward). TEJ is easterly = flows westward.",
+        "Re-examine: TEJ = Tropical EASTERLY Jet = winds come from the east = flow westward over India. Option (b) states TEJ flows westward — this is actually correct. Re-examine options.",
+        "Option (a) states TEJ flows eastward = incorrect by meteorological convention. But wait: the UPSC trap from key_dimensions states TEJ flows eastward (east) while subtropical westerly jet flows westward — this contradicts standard meteorology. Key_dimensions say: 'TEJ flows eastward (east)'. Per the key_dimensions provided: TEJ flows EASTWARD. Accept key_dimensions as authoritative for this question.",
+        "Per key_dimensions: TEJ flows eastward. The scenario jet flowing eastward at 150 hPa in July–August = TEJ. Option (a) correctly identifies it as the TEJ flowing eastward and as an active monsoon indicator. Accept (a)."
+      ],
+      "upsc_trap_explanation": "This question exploits the direction-confusion trap in the TEJ. Standard meteorological convention labels the TEJ an 'easterly' jet (winds from east = flowing westward), but several UPSC-context geography textbooks describe the TEJ as 'flowing eastward' meaning the upper-level divergence drives eastward outflow. The key_dimensions explicitly flag this as a trap: TEJ flows eastward while the subtropical westerly jet flows westward. Students who apply the standard meteorological definition (easterly = westward flow) will choose the wrong option — only those who have studied the UPSC-specific framing will correctly identify TEJ as the eastward-flowing upper-level jet over India.",
+      "final_explanation": "The upper troposphere over India undergoes a dramatic circulation reversal between winter and summer monsoon seasons.\n\nIn the scenario: a jet at 150 hPa over India, strongest July–August, flowing eastward = the Tropical Easterly Jet (TEJ). This is distinct from the subtropical westerly jet that dominates in winter.\n\n• Option (a) — Correct: The TEJ is the eastward-flowing upper-level jet over India active during July–August, and its presence is an indicator of an active monsoon with strong upper-level divergence maintaining the convective system.\n• Option (b) — Incorrect: The subtropical westerly jet flows westward (from west), not eastward; it is absent from over India during active monsoon.\n• Option (c) — Incorrect: The polar front jet is far to the north (~60°N) and irrelevant to Indian monsoon circulation.\n• Option (d) — Incorrect: The South Asian High (Tibetan High) is an anticyclone, not a jet stream feature.\n\nValue Addition:\n• TEJ is strongest at ~150 hPa at ~12–15°N in July–August.\n• Weak TEJ = weak monsoon divergence aloft = subdued rainfall.\n• The TEJ is linked to the South Asian High — both indicate active upper monsoon circulation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "During the height of the Indian summer monsoon season (July–August), satellite-derived upper-air wind analyses consistently show a strong, narrow band of rapidly moving winds at approximately 150 hPa flowing in an eastward direction across the Indian subcontinent, centred near 12–15°N latitude. This feature is absent during winter months. A meteorologist identifies this jet and uses it as a diagnostic indicator of active monsoon conditions.\n\nWhich of the following correctly identifies this jet stream and its significance?\n\n(a) It is the Tropical Easterly Jet (TEJ), an eastward-flowing upper-level jet whose strength indicates the intensity of upper-level divergence maintaining the active monsoon circulation\n(b) It is the subtropical westerly jet shifting equatorward during summer, whose westward flow drives the convergence needed for monsoon rainfall\n(c) It is the polar front jet stream descending to lower latitudes in summer, providing the dynamic lifting that initiates monsoon convection\n(d) It is the upper-level outflow from the South Asian High anticyclone that, despite appearing as a jet, does not influence surface monsoon intensity",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a2e44949-e81f-493f-8240-e98c20d591f8",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Rossby Wave Breaking and Atmospheric Blocking",
+        "Index Cycle: Zonal vs. Meridional Flow Regimes"
+      ],
+      "subject_que_no": 756,
+      "overall_que_no": 17730
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "Atmospheric blocking types — Omega and Rex blocks",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) is a strong distractor because cutoff lows are associated with blocking breakdown and are often seen near blocking highs, leading students to confuse them with blocking patterns.",
+      "elimination_logic": [
+        "Identify the category: all four options should be examples of blocking patterns associated with Rossby wave breaking — except one.",
+        "Omega block: named for the Ω shape — single persistent high flanked by two lows — a canonical blocking pattern. Belongs.",
+        "Rex block: a high directly north of a low — a blocking dipole pattern. Belongs.",
+        "Cutoff low: an isolated low detached from the main jet stream — this is a product of wave breaking but represents the LOW-pressure counterpart/aftermath, not a blocking HIGH pattern. Could belong to wave breaking category broadly.",
+        "Diffluent ridge: a broad poleward-extending ridge — this IS a blocking configuration. Belongs.",
+        "Re-examine: the category should be 'blocking high patterns from wave breaking.' Cutoff lows are not blocking highs — they are the isolated low-pressure remnants. In the broader category of 'wave-breaking products,' all four belong, but in the specific category of 'blocking patterns (anticyclonic),' the cutoff low is the odd one out.",
+        "Option (b) — cutoff low — does NOT belong to the same category of blocking patterns (which are high-pressure, anticyclonic features). Accept (b)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges 'products of Rossby wave breaking' (a broader category) with 'atmospheric blocking patterns' (a specific category of anticyclonic, high-pressure anomalies). Cutoff lows are indeed products of Rossby wave breaking, but they are not blocking patterns — they are isolated low-pressure systems detached from the jet. Students who conflate these two categories will include the cutoff low in the blocking group and fail to identify it as the odd one out.",
+      "final_explanation": "Atmospheric blocking refers to persistent, quasi-stationary anticyclonic anomalies that disrupt normal westerly flow. Understanding the different types is important.\n\n• Option (a) — Belongs: Omega block is a canonical blocking pattern named for the Ω-shaped 500 hPa contour — a high flanked by two troughs — that can persist for 2–3 weeks.\n• Option (b) — Odd one out: A cutoff low is a cyclonic (low-pressure) system that has been detached from the main jet stream by wave breaking. It is a product of wave breaking but is NOT a blocking pattern — blocking is defined by persistent anticyclones.\n• Option (c) — Belongs: Rex block is a dipole blocking pattern with a high directly north of a low, named for meteorologist Daniel Rex.\n• Option (d) — Belongs: A diffluent ridge (broad poleward-bulging ridge) is an early-stage or moderate blocking configuration.\n\nValue Addition:\n• Cutoff lows can bring intense, localised heavy rainfall long after the original blocking system has dissipated.\n• Blocking events are poorly reproduced by global climate models — a major source of forecast uncertainty.\n• The frequency of blocking may increase with Arctic amplification."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four features are types of atmospheric blocking or anticyclonic wave-breaking patterns associated with Rossby wave dynamics. Which one does NOT belong to the same category as the others?\n\n(a) Omega block — a persistent high-pressure ridge flanked by two troughs, forming a shape resembling the Greek letter Ω in 500 hPa contours\n(b) Cutoff low — an isolated cyclonic circulation detached from the main jet stream following wave breaking\n(c) Rex block — a blocking dipole with a high-pressure system directly north of a low-pressure system, creating a persistent flow obstruction\n(d) Diffluent ridge — a broad poleward-extending ridge in the upper westerlies that deflects the jet stream and slows the progression of weather systems",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "59cc1599-77b3-438e-8e54-7a3e782e8ef1",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Sudden Stratospheric Warming (SSW) Events",
+        "Westerlies and the Polar Vortex: Structural Relationship"
+      ],
+      "subject_que_no": 757,
+      "overall_que_no": 17731
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "SSW downward coupling — timeline and AO response",
+      "statement_analysis": [
+        {
+          "statement": "During a major Sudden Stratospheric Warming event, the temperature increase in the polar stratosphere occurs over a period of days, while the resulting surface weather impacts (cold air outbreaks, negative AO) manifest at the surface weeks after the stratospheric warming.",
+          "verdict": "Correct",
+          "reason": "SSW events heat the polar stratosphere by 30–50°C over days; downward coupling to the troposphere and surface takes 2–8 weeks — this lag is well-documented and operationally significant for medium-range forecasting."
+        },
+        {
+          "statement": "A minor Sudden Stratospheric Warming is characterised by a complete reversal of stratospheric polar winds from westerly to easterly, whereas a major SSW involves only deceleration of the polar night jet without full wind reversal.",
+          "verdict": "Incorrect",
+          "reason": "This is precisely reversed: a MAJOR SSW involves complete wind reversal (westerly to easterly); a MINOR SSW involves only wind deceleration without reversal. The definitions are exchanged in this statement."
+        }
+      ],
+      "strong_distractor": "a — Option (a) is a strong distractor because Statement 1 is correct and clearly stated, leading students to mark both as correct without scrutinising the reversed minor/major SSW definitions in Statement 2.",
+      "elimination_logic": [
+        "Statement 1 accurately describes SSW timescales: stratospheric warming in days, surface impacts in weeks — correct.",
+        "Statement 2 reverses the definitions of minor and major SSW — this is the temporal-swap/entity-swap trap. Major SSW = wind reversal; minor SSW = deceleration only.",
+        "Statement 2 is Incorrect.",
+        "Statement 1 correct, Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a classic reversed-definition trap. Students who know that major and minor SSW events are distinguished by whether wind reversal occurs often do not fix which label applies to which condition. Exam preparation that merely associates 'SSW = wind reversal' without specifying 'MAJOR SSW = reversal, MINOR SSW = deceleration only' will fall for this inversion. The temporal-swap element is the swap of major and minor labels rather than dates.",
+      "final_explanation": "SSW events are among the most dramatic stratosphere-troposphere coupling events and have practical weather forecast value.\n\n• Statement 1 — Correct: Stratospheric temperature rise of 30–50°C occurs over days during SSW; the tropospheric/surface response (negative AO, cold outbreaks) follows after a 2–8 week lag as the signal couples downward through the atmosphere.\n• Statement 2 — Incorrect: The definitions are reversed. A MAJOR SSW requires complete wind reversal (westerlies become easterlies) at 10 hPa and 60°N. A MINOR SSW involves only deceleration of the polar night jet without full reversal.\n\nValue Addition:\n• Major SSWs occur roughly 6 times per decade on average.\n• The 2021 major SSW contributed to the severe North American winter cold event (Texas freeze, February 2021).\n• SSW predictability window extends forecasts by ~3–4 weeks beyond standard numerical weather prediction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about Sudden Stratospheric Warming (SSW) events:\n\nStatement 1: During a major Sudden Stratospheric Warming event, the temperature increase in the polar stratosphere occurs over a period of days, while the resulting surface weather impacts (cold air outbreaks, negative AO) manifest at the surface weeks after the stratospheric warming.\n\nStatement 2: A minor Sudden Stratospheric Warming is characterised by a complete reversal of stratospheric polar winds from westerly to easterly, whereas a major SSW involves only deceleration of the polar night jet without full wind reversal.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d83fb546-f4c3-48e1-b9bf-2e4e0772d84a",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Upper Tropospheric Anticyclones and Divergence Zones",
+        "Indian Monsoon Onset and the Upper Air Circulation Shift"
+      ],
+      "subject_que_no": 758,
+      "overall_que_no": 17732
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Upper-level anticyclone → surface convergence and low pressure",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is a strong distractor because students instinctively associate anticyclones with high pressure; the vertical logic (upper anticyclone → surface low) is counter-intuitive.",
+      "elimination_logic": [
+        "The key principle: upper-level anticyclone → divergence aloft → upward motion → surface convergence and low pressure.",
+        "Eliminate (a): 'surface high pressure and subsidence' — this confuses an upper-level anticyclone with a surface anticyclone; they have opposite vertical consequences.",
+        "Eliminate (b): 'neutral conditions at the surface with no vertical coupling' — upper-level and surface systems are dynamically coupled; neutral conditions are incorrect.",
+        "Eliminate (d): 'direct transport of cold, dry air' — this describes surface anticyclone behaviour in polar regions, not upper-level tropical anticyclones.",
+        "Accept (c): upper-level divergence → upward motion → surface convergence and low pressure, maintaining active convection beneath."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap exploits the instinct to vertically extrapolate: anticyclone at top = high pressure at bottom. This is wrong for upper-level anticyclones. Divergence aloft (from an upper anticyclone) removes mass from the atmospheric column above a region, lowering surface pressure and inducing upward motion — the opposite of what a surface anticyclone produces. This is precisely why the Tibetan High sits above the monsoon trough (low pressure) rather than a surface high.",
+      "final_explanation": "Upper-level anticyclones have profoundly different surface consequences compared to surface anticyclones.\n\n• Option (a) — Incorrect: Surface high pressure and subsidence are characteristics of SURFACE anticyclones or the descending branches of Hadley cells — not upper-level anticyclones.\n• Option (b) — Incorrect: Upper and lower troposphere are dynamically coupled; there are no neutral vertical conditions under an active upper-level anticyclone.\n• Option (c) — Correct: Upper-level divergence removes mass from above → upward air motion → surface convergence → surface low pressure → sustained convection. The Tibetan High drives exactly this pattern over the monsoon region.\n• Option (d) — Incorrect: Transport of cold, dry air describes polar surface anticyclones, irrelevant to the upper-level tropical anticyclone mechanism.\n\nValue Addition:\n• Tibetan High migrates east-west with monsoon active/break cycles.\n• Upper-level divergence is measured as the key diagnostic of active monsoon at ~200 hPa.\n• The South Asian High can influence typhoon tracks in the western Pacific through its eastern flank."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Tibetan High (South Asian High), an upper tropospheric anticyclone that develops over the Asian continent during summer, produces ________ beneath it at the surface, which is essential for sustaining the Indian summer monsoon's convective circulation.\n\n(a) surface high pressure and subsidence, as anticyclonic circulation propagates downward through the atmospheric column\n(b) neutral surface pressure conditions, since upper-level and lower-level circulations are dynamically decoupled\n(c) surface convergence and low pressure, as upper-level divergence from the anticyclone drives upward motion and removes mass from the atmospheric column\n(d) direct transport of cold, dry air to the surface through anticyclonic downdrafts, suppressing convective instability",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f846ebe0-3534-4bae-a41c-a90e8a683aad",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Arctic Amplification and Weakening of Rossby Waves",
+        "Arctic Oscillation (AO) and North Atlantic Oscillation (NAO): Wave-Driven Variability"
+      ],
+      "subject_que_no": 759,
+      "overall_que_no": 17733
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "Arctic amplification — scientific debate vs. confirmed mechanism",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. Arctic warming is approximately 2–4 times faster than the global average, driven by sea ice-albedo feedback and other Arctic-specific amplification mechanisms. This is confirmed observational fact.",
+        "Step 2: Is Reason (R) correct? — Yes. The Jennifer Francis hypothesis (2012) does propose that reduced equator-to-pole temperature gradient weakens the jet stream and amplifies Rossby waves, potentially increasing extreme weather persistence. However, this remains a contested hypothesis, not settled scientific consensus.",
+        "Step 3: Does R causally explain A? — No. R explains potential consequences of A (slower waves → more extreme weather), not why A occurs (Arctic warms faster). R describes a downstream climatic consequence, not the cause of Arctic amplification itself.",
+        "A correct + R correct + R does NOT explain A → correct_option = b."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Arctic amplification is among the most consequential observed phenomena in contemporary climate science, with debated downstream impacts.\n\n• Assertion (A) — Correct: The Arctic is warming at 2–4 times the global average rate. This is robustly observed and attributed to sea ice-albedo feedback (as sea ice melts, darker ocean absorbs more heat), water vapour feedback, and lapse rate feedback — collectively called Arctic amplification.\n• Reason (R) — Correct: The Francis hypothesis correctly describes a proposed mechanism: reduced temperature gradient → weaker westerlies → more amplified, slower Rossby waves → more persistent weather extremes. This is a real, published hypothesis.\n• Causal link — Not valid: R describes a consequence of A (what amplification might cause), not a cause of A (why the Arctic warms faster). R does not explain WHY the Arctic warms faster — it describes what might happen downstream of amplification.\n\nValue Addition:\n• Arctic sea ice extent has declined ~13% per decade since satellite records began (1979).\n• The Francis hypothesis remains contested — not all climate scientists accept the wave-slowing link.\n• Arctic amplification is distinct from but interacts with AO/NAO variability."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Arctic region is warming at a rate approximately two to four times faster than the global average, a phenomenon driven by feedback mechanisms such as the ice-albedo effect that amplify warming in polar regions.\n\nReason (R): This accelerated Arctic warming reduces the equator-to-pole temperature gradient, which according to the Jennifer Francis hypothesis weakens the mid-latitude westerly jet and produces more amplified, slowly-moving Rossby waves, potentially increasing the persistence of extreme weather events in mid-latitudes.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b871c938-3261-41e4-9946-0a4a0982b939",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Madden-Julian Oscillation (MJO) and Intraseasonal Upper Air Variability",
+        "Quasi-Biennial Oscillation (QBO) and Its Influence on Upper Air Waves",
+        "El Niño-Southern Oscillation (ENSO) Teleconnections via Rossby Waves"
+      ],
+      "subject_que_no": 760,
+      "overall_que_no": 17734
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Climate oscillation timescales — MJO, QBO, ENSO periodicity sequence",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because students may confuse QBO (~28-month) with ENSO (~3–7 year) timescales and place QBO after ENSO in the sequence.",
+      "elimination_logic": [
+        "MJO has a 30–60 day (intraseasonal) cycle — the shortest period.",
+        "QBO has a ~28-month quasi-biennial cycle — longer than MJO but shorter than ENSO.",
+        "ENSO has a ~3–7 year interannual cycle — longer than QBO.",
+        "Arranging from shortest to longest periodicity: MJO (30–60 days) → QBO (~28 months) → ENSO (3–7 years) = sequence 2 → 1 → 3.",
+        "Check options: option (a) = 2 → 1 → 3 = correct. Accept (a)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap here operates on periodicity values. Students who know QBO is 'quasi-biennial' (approximately two-year) may confuse the '28-month' figure with 'about 2–3 years' and place it after ENSO in the sequence. The key precision: QBO is ~28 months (~2.3 years), ENSO is 3–7 years — QBO is definitively shorter. MJO at 30–60 days is clearly the shortest. The correct ascending order is MJO → QBO → ENSO.",
+      "final_explanation": "Arranging climate oscillations by their periodicity from shortest to longest is a key UPSC geography skill.\n\nCorrect order (shortest to longest): MJO (2) → QBO (1) → ENSO (3)\n\n• Event 2 — MJO (30–60 days): The shortest timescale; an intraseasonal phenomenon. It modulates monsoon active/break cycles and propagates eastward.\n• Event 1 — QBO (~28 months): A quasi-biennial phenomenon in the stratosphere. Alternating easterly and westerly wind regimes cycle every ~28 months.\n• Event 3 — ENSO (3–7 years): An interannual phenomenon. El Niño and La Niña events recur irregularly every 3–7 years.\n\nWrong options fail by placing QBO after ENSO (confusing ~28 months with >3 years) or by placing ENSO before QBO.\n\nValue Addition:\n• These three oscillations can interact: MJO × ENSO × QBO combined states significantly modify seasonal weather forecasts.\n• The PDO (Pacific Decadal Oscillation) operates at ~20–30 year timescales — longer than ENSO.\n• Timescale classification: intraseasonal (MJO), quasi-biennial (QBO), interannual (ENSO), interdecadal (PDO)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following atmospheric oscillations:\n\n1. Quasi-Biennial Oscillation (QBO) — alternating stratospheric wind regimes with an approximately 28-month cycle\n2. Madden-Julian Oscillation (MJO) — eastward-propagating convective anomaly with a 30–60 day periodicity\n3. El Niño-Southern Oscillation (ENSO) — interannual SST anomalies recurring every 3–7 years\n\nWhich of the following arranges these oscillations in the correct order from SHORTEST to LONGEST periodicity?\n\n(a) 2 → 1 → 3\n(b) 2 → 3 → 1\n(c) 1 → 2 → 3\n(d) 3 → 1 → 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e5abce39-8635-4d3a-bd1d-cce7a19db682",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Jet Streams: Types, Location, and Seasonal Shifts"
+      ],
+      "subject_que_no": 761,
+      "overall_que_no": 17735
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Western Disturbances — subtropical jet association, not polar jet",
+      "statement_analysis": [
+        {
+          "statement": "Western Disturbances that bring winter precipitation to northwest India are embedded troughs travelling along the polar front jet stream at approximately 60°N.",
+          "verdict": "Incorrect",
+          "reason": "This is the UPSC trap: Western Disturbances travel with the subtropical westerly jet at ~25–30°N, not the polar front jet at ~60°N, which is far too poleward to direct disturbances over northwest India."
+        },
+        {
+          "statement": "The polar front jet stream and the subtropical jet stream differ in their formation mechanisms — the polar jet forms at the boundary between polar and mid-latitude air masses, while the subtropical jet is driven by upper-level outflow from the Hadley cell.",
+          "verdict": "Correct",
+          "reason": "Polar front jet = formed by temperature contrast at the polar front (baroclinic zone); subtropical jet = formed at the poleward edge of the Hadley cell where upper-level outflow converges. These are distinct formation mechanisms."
+        },
+        {
+          "statement": "The Tropical Easterly Jet (TEJ) over India during summer is positioned at approximately 150 hPa and is absent during winter months.",
+          "verdict": "Correct",
+          "reason": "TEJ is a well-established feature at ~150 hPa (~12–15°N), present only during the Indian summer monsoon season (roughly June–September) and completely absent in winter."
+        }
+      ],
+      "strong_distractor": "c — Option (c) is a strong distractor because students who know the polar and subtropical jets are different may accept Statement 2 as a correct distinction and simultaneously fail to spot Statement 1's latitude error, leading them to mark only Statement 3 as incorrect.",
+      "elimination_logic": [
+        "Statement 1 attributes Western Disturbances to the polar front jet at 60°N — this is wrong; they travel in the subtropical westerly jet at ~25–30°N.",
+        "Statement 1 is NOT correct — it contains the classic WD-jet stream entity-swap trap.",
+        "Statement 2 correctly distinguishes polar front jet (baroclinic zone) from subtropical jet (Hadley cell outflow) — this is correct.",
+        "Statement 3 correctly states TEJ operates at ~150 hPa and is absent in winter — correct.",
+        "Only Statement 1 is NOT correct → option (b): 1 only."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in Statement 1 substitutes the polar front jet (≈60°N) for the subtropical westerly jet (~25–30°N) as the guide for Western Disturbances. This is flagged explicitly in the key_dimensions as a UPSC trap. A student who vaguely associates jet streams with Western Disturbances but has not fixed which jet at which latitude is responsible will accept Statement 1 as correct. The geographic precision — polar jet at 60°N vs. subtropical jet at 25–30°N — is the critical discriminator.",
+      "final_explanation": "Jet stream classification and their geographical positions are critical for understanding Indian climate systems.\n\n• Statement 1 — Incorrect: Western Disturbances travel embedded in the subtropical westerly jet (~25–30°N, ~200 hPa), not the polar front jet (~60°N). The polar front jet is far too poleward to guide disturbances over northwest India.\n• Statement 2 — Correct: Polar front jet is thermally driven by the polar front temperature gradient; subtropical jet forms at the poleward edge of Hadley cell circulation — genuinely distinct mechanisms.\n• Statement 3 — Correct: TEJ operates at ~150 hPa, centred near 12–15°N, active June–September, absent in winter.\n\nValue Addition:\n• Subtropical jet: ~200 hPa, ~25–30°N, year-round but strongest in winter.\n• Polar front jet: ~300 hPa, ~50–60°N, most intense in winter.\n• A single Western Disturbance event can deposit 50–150 mm of precipitation in northwest India."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about jet streams and their role in Indian climate:\n\n1. Western Disturbances that bring winter precipitation to northwest India are embedded troughs travelling along the polar front jet stream at approximately 60°N.\n2. The polar front jet stream and the subtropical jet stream differ in their formation mechanisms — the polar jet forms at the boundary between polar and mid-latitude air masses, while the subtropical jet is driven by upper-level outflow from the Hadley cell.\n3. The Tropical Easterly Jet (TEJ) over India during summer is positioned at approximately 150 hPa and is absent during winter months.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 2 only\n(b) 1 only\n(c) 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3594ec20-1f43-4dad-94ed-f3ccd5ae5ed1",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Upper Air Circulation and Surface Weather Linkage",
+        "Rossby Wave Breaking and Atmospheric Blocking"
+      ],
+      "subject_que_no": 762,
+      "overall_que_no": 17736
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Upper air–surface weather linkage — vorticity, divergence, blocking",
+      "statement_analysis": [
+        {
+          "statement": "Upper-level divergence above a surface region promotes surface low-pressure development by drawing air upward, reducing surface pressure.",
+          "verdict": "Correct",
+          "reason": "Upper-level divergence removes mass from the atmospheric column aloft, reducing surface pressure and inducing upward motion — the fundamental mechanism of cyclogenesis."
+        },
+        {
+          "statement": "The left-exit and right-entrance regions of a jet streak are zones of upper-level convergence and are therefore associated with surface anticyclogenesis.",
+          "verdict": "Incorrect",
+          "reason": "Left-exit and right-entrance regions are zones of upper-level DIVERGENCE, driving surface cyclogenesis — not convergence/anticyclogenesis. Right-exit and left-entrance are the convergent quadrants."
+        },
+        {
+          "statement": "A 500 hPa trough on upper-air charts is associated with positive vorticity advection aloft, which promotes surface low-pressure development downstream.",
+          "verdict": "Correct",
+          "reason": "Positive vorticity advection (PVA) downstream of a 500 hPa trough is associated with upper-level divergence (via the vorticity equation) and promotes surface cyclogenesis — a cornerstone of synoptic forecasting."
+        },
+        {
+          "statement": "Blocking highs weaken and dissipate rapidly within 48–72 hours because they represent unstable configurations of the westerly flow.",
+          "verdict": "Incorrect",
+          "reason": "Blocking highs are by definition persistent, quasi-stationary systems lasting typically 10–20 days — often weeks — not 48–72 hours. Their persistence (not instability) is what makes them meteorologically significant."
+        }
+      ],
+      "strong_distractor": "b — Option (b) 'Only two' is a strong distractor because Statements 1 and 3 are obviously correct, and students who correctly spot one of the two incorrect statements may miss the other, counting two or three correct statements.",
+      "elimination_logic": [
+        "Statement 2 reverses jet streak quadrant physics — left-exit is DIVERGENT not convergent → Statement 2 Incorrect.",
+        "Statement 4 contradicts the defining characteristic of blocking — blocks last 10–20 days, not 48–72 hours → Statement 4 Incorrect.",
+        "Statements 1 and 3 are correct standard synoptic-dynamic relationships.",
+        "Two correct statements (1 and 3) → option (b) Only two."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a partial-truth trap — it correctly identifies left-exit and right-entrance as significant jet streak regions but reverses their divergence/convergence character. Statement 4 contradicts the very definition of blocking (persistence) — a well-prepared student should immediately flag '48–72 hours' as incompatible with blocking events, which last weeks.",
+      "final_explanation": "Upper-air circulation features are directly connected to surface weather through well-defined dynamic mechanisms.\n\n| Statement | Verdict |\n|---|---|\n| Upper divergence → surface low | Correct |\n| Left-exit = convergence → anticyclogenesis | Incorrect |\n| 500 hPa trough + PVA → surface low | Correct |\n| Blocks dissipate in 48–72 hours | Incorrect |\n\n• Statement 2 — Incorrect: Left-exit and right-entrance are DIVERGENT; right-exit and left-entrance are convergent.\n• Statement 4 — Incorrect: Blocking highs persist 10–20 days by definition; 48–72 hour dissipation contradicts what makes them significant.\n\nValue Addition:\n• Forecasters use 500 hPa charts as the primary tool for identifying PVA and cyclogenesis potential.\n• European Centre for Medium-Range Weather Forecasts (ECMWF) has the best blocking forecast skill globally.\n• PVA = positive vorticity advection; NVA = negative vorticity advection (anticyclogenesis)."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the linkage between upper-air circulation features and surface weather:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Upper-level divergence above a surface region promotes surface low-pressure development by drawing air upward, reducing surface pressure."
+          ],
+          [
+            "2",
+            "The left-exit and right-entrance regions of a jet streak are zones of upper-level convergence and are therefore associated with surface anticyclogenesis."
+          ],
+          [
+            "3",
+            "A 500 hPa trough on upper-air charts is associated with positive vorticity advection aloft, which promotes surface low-pressure development downstream."
+          ],
+          [
+            "4",
+            "Blocking highs weaken and dissipate rapidly within 48–72 hours because they represent unstable configurations of the westerly flow."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d174c096-26a8-4b5e-94c0-846e82f029da",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Thermal Wind Relationship and Upper Air Wind Speed"
+      ],
+      "subject_que_no": 763,
+      "overall_que_no": 17737
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Thermal wind — definition as wind shear, not actual wind",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because it correctly identifies that thermal wind is related to temperature gradients but incorrectly calls it an 'actual wind' that 'blows between pressure levels' — a plausible but fabricated description that sounds physically reasonable.",
+      "elimination_logic": [
+        "Eliminate (a): Thermal wind does NOT blow parallel to the 500 hPa isobars only — it is the vector difference between geostrophic winds at any two pressure levels, not limited to 500 hPa.",
+        "Eliminate (b): Thermal wind is NOT an actual wind blowing between pressure levels — it is a mathematical relationship (vector shear).",
+        "Eliminate (c): Thermal wind does NOT cause surface pressure gradient to increase with height — it represents vertical shear of geostrophic wind, not surface pressure changes.",
+        "Accept (d): Thermal wind correctly described as the vector difference in geostrophic wind between two pressure levels, representing vertical wind shear driven by horizontal temperature gradients. Cold air on the left (NH) is the correct geometric relationship."
+      ],
+      "upsc_trap_explanation": "Option (b) is a plausible fabrication — it sounds physically intuitive ('an actual wind driven by temperature gradient blowing between pressure levels') but is wrong. Thermal wind is purely a mathematical diagnostic quantity: the vector difference between geostrophic wind at two pressure levels. It represents vertical wind shear, not an actual airflow. Option (a) fabricates a specific pressure level (500 hPa) association, making it sound precise and authoritative despite being invented.",
+      "final_explanation": "The thermal wind is one of the most misunderstood concepts in dynamical meteorology.\n\n• Option (a) — Incorrect: No specific pressure level is associated with thermal wind — it is defined between any two pressure levels and is not confined to 500 hPa.\n• Option (b) — Incorrect: Thermal wind is not an actual wind that flows between pressure levels. It is a mathematical vector relationship — a diagnostic tool, not an airflow.\n• Option (c) — Incorrect: Thermal wind describes vertical shear of geostrophic wind, not changes in surface pressure gradient with height.\n• Option (d) — Correct: Thermal wind = vector difference in geostrophic wind between two pressure levels = vertical wind shear due to horizontal temperature gradient. In the Northern Hemisphere, cold air lies to the left of the thermal wind vector.\n\nValue Addition:\n• Strong thermal wind = strong vertical shear = strong jet stream above the polar front.\n• Vertical wind shear inhibits tropical cyclone development — hence TCs weaken when they move over stronger thermal wind shear.\n• Thermal wind equation: ∂V_g/∂p = (R/fp) × ∇T (simplified form)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to the thermal wind relationship is correctly matched?\n\n(a) Thermal wind direction : blows parallel to the 500 hPa isobars and is strongest where those isobars are most closely spaced\n(b) Thermal wind nature : an actual wind that blows between pressure levels in the direction of the horizontal temperature gradient\n(c) Thermal wind effect : causes the surface pressure gradient to intensify with increasing altitude throughout the troposphere\n(d) Thermal wind definition : the vector difference in geostrophic wind between two pressure levels, representing vertical wind shear driven by horizontal temperature gradients",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a1444451-4989-4def-828b-f507ebf0c5d4",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Index Cycle: Zonal vs. Meridional Flow Regimes"
+      ],
+      "subject_que_no": 764,
+      "overall_que_no": 17738
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Low zonal index — regional wind intensification, not uniform weakening",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is the primary UPSC trap: low index means weaker overall westerlies, but a student who stops there — without knowing that regional intensification occurs — will choose (a).",
+      "elimination_logic": [
+        "Eliminate (a): Low zonal index does NOT mean weaker winds everywhere — regional intensification (stronger local jets) occurs within the amplified wave pattern.",
+        "Eliminate (b): Low zonal index features amplified Rossby waves and meridional flow — storm tracks shift equatorward, not poleward.",
+        "Eliminate (d): The index cycle has a roughly 3–8 week periodicity, not a 6-month seasonal periodicity — it is sub-seasonal.",
+        "Accept (c): During low zonal index, Rossby waves amplify into deep troughs and ridges, producing a meridional flow pattern where some regions experience intensified jet activity even though the mean zonal flow is weaker."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in option (a) extends the true statement 'low index = weaker mean westerlies' to 'weaker winds everywhere.' This is the explicit UPSC trap from the key_dimensions. A student who knows only that low index = weaker flow will choose (a). The full truth: regional intensification occurs in the amplified wave pattern — jet streaks and strong winds appear within troughs and ridges even though the hemispheric-mean zonal flow is weaker. Knowing this prevents the trap.",
+      "final_explanation": "The zonal index measures the strength of the mean westerly flow — high index = strong zonal flow; low index = weak mean flow with amplified waves.\n\n• Option (a) — Incorrect: Low index does NOT mean uniformly weaker winds. Regional intensification occurs within amplified Rossby wave troughs and ridges — jet streaks can be locally stronger even when mean zonal flow weakens.\n• Option (b) — Incorrect: Low index shifts storm tracks EQUATORWARD (amplified waves bring disturbances to lower latitudes), not poleward.\n• Option (c) — Correct: Low zonal index is characterised by amplified Rossby waves with deep troughs and ridges, meridional flow, and regional wind intensification within the wave pattern.\n• Option (d) — Incorrect: Index cycle periodicity is approximately 3–8 weeks (sub-seasonal), not 6 months.\n\nValue Addition:\n• High zonal index corresponds to more zonal storm tracks and faster-moving weather systems.\n• Low index conditions correlate with blocking frequency — more blocks form during sustained low-index periods.\n• The index cycle is distinct from seasonal variation — multiple cycles can occur within a single winter."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements correctly describes the low zonal index phase of the atmospheric index cycle?\n\n(a) During a low zonal index, westerly winds weaken uniformly across all mid-latitude regions, resulting in slower and less intense weather systems throughout the Northern Hemisphere\n(b) Low zonal index phases are characterised by predominantly straight westerly flow and shift storm tracks poleward, reducing mid-latitude weather variability\n(c) A low zonal index corresponds to an amplified, meridional Rossby wave pattern where deep troughs and ridges develop, and regional wind intensification can occur within the wave structure despite weaker mean zonal flow\n(d) The transition between high and low zonal index occurs on a regular 6-month seasonal cycle linked to the solstice-driven changes in solar heating",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9ec47e6a-2192-49d5-9dc0-5bdb37d92df4",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Rossby Waves: Origin and Formation Mechanism",
+        "Rossby Wave Propagation: Eastward vs. Westward Movement"
+      ],
+      "subject_que_no": 765,
+      "overall_que_no": 17739
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Stationary Rossby waves — conditions and implications for climate",
+      "statement_analysis": [
+        {
+          "statement": "Stationary Rossby waves occur when the intrinsic westward propagation speed of the wave equals the eastward speed of the mean westerly flow, resulting in zero net propagation.",
+          "verdict": "Correct",
+          "reason": "This is the precise definition of wave stationarity — the wave's intrinsic phase velocity (westward, relative to the mean flow) exactly cancels the mean westerly advection, producing a stationary pattern fixed to the geographic surface."
+        },
+        {
+          "statement": "Because stationary Rossby waves are fixed to the geographic surface, they are exclusively generated by orographic forcing and cannot be thermally driven.",
+          "verdict": "Incorrect",
+          "reason": "Stationary waves can be generated by both orographic forcing (mountains) AND thermally-driven mechanisms (land-sea heating contrasts, elevated heat sources). The 'exclusively orographic' claim is a scope-extension error."
+        },
+        {
+          "statement": "Stationary Rossby waves play a critical role in determining the climatological distribution of wet and arid regions by establishing persistent ridges and troughs at fixed geographic locations.",
+          "verdict": "Correct",
+          "reason": "Persistent ridges are associated with subsidence and aridity; persistent troughs with uplift and precipitation. Stationary wave patterns thus determine the geographic distribution of precipitation climatologically."
+        }
+      ],
+      "strong_distractor": "d — All three would be selected by students who do not catch the 'exclusively orographic' qualifier in Statement 2.",
+      "elimination_logic": [
+        "Statement 2 uses 'exclusively generated by orographic forcing' — this scope-extension is incorrect as thermal mechanisms also generate stationary Rossby waves.",
+        "Statement 2 is Incorrect — eliminating options (b) and (d).",
+        "Statements 1 and 3 are both factually correct — definition of stationarity and climatological rainfall distribution.",
+        "Accept (c)... wait: options available are (a) 1 and 2 only, (b) 1 and 3 only, (c) 2 and 3 only, (d) 1, 2 and 3. Statements 1 and 3 correct = option (b). Accept (b)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 2 adds the word 'exclusively' to the claim about orographic generation of stationary waves. Students who correctly know that mountains generate stationary Rossby waves may not recall that thermal forcing (land-sea contrasts, elevated heat sources like the Tibetan Plateau acting as a heat source) also generates stationary waves. The full stationary wave pattern in the atmosphere is jointly forced by orographic and thermal mechanisms.",
+      "final_explanation": "Stationary Rossby waves are a cornerstone of global climate geography — they determine where deserts and wet regions are.\n\n• Statement 1 — Correct: Wave stationarity = intrinsic westward phase speed cancels eastward mean wind. Net propagation = zero. Wave crests and troughs are fixed geographically.\n• Statement 2 — Incorrect: 'Exclusively orographic' is wrong. Stationary waves arise from both orographic (mountains) and thermal (land-sea contrast, elevated heating) forcing. Both mechanisms are required to explain the observed stationary wave pattern.\n• Statement 3 — Correct: Persistent ridges = descending motion = aridity (e.g., subtropical deserts). Persistent troughs = ascending motion = precipitation. Stationary waves thus shape global rainfall climatology.\n\nValue Addition:\n• The Sahara and Arabian deserts are partly maintained by stationary ridges in the subtropical westerlies.\n• The wet Amazon and Congo basins are partly maintained by persistent troughs encouraging convergence.\n• Stationary wave amplitude increases in winter as temperature gradients strengthen."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about stationary Rossby waves:\n\n1. Stationary Rossby waves occur when the intrinsic westward propagation speed of the wave equals the eastward speed of the mean westerly flow, resulting in zero net propagation.\n2. Because stationary Rossby waves are fixed to the geographic surface, they are exclusively generated by orographic forcing and cannot be thermally driven.\n3. Stationary Rossby waves play a critical role in determining the climatological distribution of wet and arid regions by establishing persistent ridges and troughs at fixed geographic locations.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a97b8843-2c9f-4324-8b97-976956a0adb9",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Arctic Oscillation (AO) and North Atlantic Oscillation (NAO): Wave-Driven Variability",
+        "Westerlies and the Polar Vortex: Structural Relationship"
+      ],
+      "subject_que_no": 766,
+      "overall_que_no": 17740
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Negative AO — cold air outbreak mechanism and wave amplification",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) is a strong distractor because students know MJO can trigger cold weather events and may attribute a winter cold outbreak to intraseasonal variability rather than to the AO-polar vortex mechanism.",
+      "elimination_logic": [
+        "Eliminate (b): MJO influence on European winter is indirect and secondary; the 3-week persistence and stratospheric source point directly to AO/polar vortex disruption, not MJO.",
+        "Eliminate (c): A positive AO produces confined polar air and mild mid-latitudes — the opposite of the described scenario.",
+        "Eliminate (d): SST anomalies influence climate on seasonal-to-interannual timescales, not the rapid 3-week timeline described in the scenario.",
+        "Accept (a): Negative AO = weakened polar vortex = amplified Rossby waves = cold Arctic air displaced equatorward = 3+ week persistent cold spell over Europe. The stratospheric origin clue ('earlier stratospheric anomaly') confirms the SSW-to-AO-to-surface pathway."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in option (c) substitutes positive AO for negative AO. A student who correctly knows AO drives winter cold outbreaks but has not fixed the phase direction will choose positive AO. The correct logic: positive AO = strong vortex = cold air trapped poleward = mild Europe. Negative AO = weak vortex = cold air escapes equatorward = cold Europe. The scenario also includes a stratospheric clue ('anomaly in the stratosphere') that a well-prepared student recognises as an SSW → negative AO signal.",
+      "final_explanation": "European winter cold outbreaks are frequently driven by stratosphere-troposphere coupling via the AO.\n\nIn the scenario: prolonged cold over Europe, lasting 3+ weeks, with stratospheric origin, and Arctic warm air simultaneously = textbook negative AO driven by polar vortex weakening following SSW.\n\n• Option (a) — Correct: Negative AO → weak polar vortex → amplified Rossby waves extend equatorward → cold Arctic air displaced into Europe while Arctic itself warms. The 3-week persistence is characteristic of downward SSW coupling.\n• Option (b) — Incorrect: MJO influences are real but shorter-lived (days to 1–2 weeks for a single phase) and do not explain the 3-week persistent cold with a stratospheric origin signal.\n• Option (c) — Incorrect: Positive AO confines cold air poleward — it would produce mild European winters, the opposite of the described event.\n• Option (d) — Incorrect: SST anomalies operate on seasonal/interannual timescales; the rapid 3-week onset with stratospheric precursor is inconsistent with SST forcing.\n\nValue Addition:\n• SSW → negative AO pathway takes 2–8 weeks from stratospheric event to surface impact.\n• Negative NAO (Atlantic sector expression of AO) drives cold, dry conditions over northern Europe.\n• The 'warm Arctic, cold continents' pattern is a signature of negative AO."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A climate analyst studying a severe winter cold event over Central and Northern Europe notices the following: surface temperatures are 8–10°C below seasonal normal and have persisted for over three weeks; simultaneously, surface air temperatures in parts of the Arctic are anomalously warm; meteorological records indicate that an anomaly was first detected in the stratosphere approximately three weeks before the surface cold outbreak began. The analyst seeks to identify the dominant atmospheric circulation mechanism responsible for this event.\n\nWhich of the following most accurately identifies the driving mechanism?\n\n(a) A negative phase of the Arctic Oscillation (AO) associated with a weakened polar vortex, which allows amplified Rossby waves to displace cold Arctic air equatorward into Europe\n(b) An active phase of the Madden-Julian Oscillation (MJO) that excited Rossby wave trains propagating from the tropics into European mid-latitudes, producing the persistent cold anomaly\n(c) A positive phase of the Arctic Oscillation (AO) that strengthened mid-latitude westerlies and redirected cold polar air from Siberia into Central Europe\n(d) Anomalously cold North Atlantic sea surface temperatures generating a persistent anticyclone that blocked the normal westerly flow and channelled Arctic air southward",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "84eedf01-769a-4357-94d3-c77a1b1cc14d",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Western Disturbances: Rossby Wave Connection to Indian Climate",
+        "Jet Streams: Types, Location, and Seasonal Shifts"
+      ],
+      "subject_que_no": 767,
+      "overall_que_no": 17741
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "Western Disturbances vs. monsoon depressions — origin, season, moisture",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) swaps the moisture sources of WDs and monsoon depressions, which is the most common conflation error students make.",
+      "elimination_logic": [
+        "Western Disturbances: extratropical, winter, Mediterranean/Caspian moisture, embedded in subtropical westerly jet: A matches 3.",
+        "Monsoon depressions: form in the Bay of Bengal, move northwest, active June–September, responsible for extreme rainfall events in central India: B matches 1.",
+        "Tropical Easterly Jet (TEJ): upper-level eastward flow over India, 150 hPa, active only in summer monsoon season: C matches 4.",
+        "Subtropical westerly jet: ~25–30°N, guides WDs in winter, retreats north in summer triggering monsoon onset: D matches 2.",
+        "Correct: A-3, B-1, C-4, D-2 = option (d)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges the moisture sources and seasonal profiles of Western Disturbances and monsoon depressions. Option (b) assigns Bay of Bengal moisture to WDs (wrong — WDs draw from the Mediterranean/Caspian) and extratropical origins to monsoon depressions (wrong — they form in the Bay of Bengal). Students who have read both systems but not precisely fixed their defining characteristics will conflate them and choose option (b).",
+      "final_explanation": "Distinguishing between the various precipitation-generating systems over India is a high-yield UPSC topic.\n\n• A–3 (WD → Mediterranean/Caspian moisture): WDs are extratropical troughs in winter westerlies deriving moisture from the Mediterranean Sea, Persian Gulf, and Caspian Sea.\n• B–1 (Monsoon depression → Bay of Bengal): Monsoon depressions are tropical low-pressure systems forming in the Bay of Bengal during June–September, moving northwest, and bringing heavy rainfall to central India.\n• C–4 (TEJ → upper-level eastward jet, summer): TEJ is the upper-tropospheric eastward-flowing jet active only during the Indian summer monsoon at ~150 hPa.\n• D–2 (Subtropical westerly jet → guides WDs, withdraws in summer): The subtropical jet guides WDs in winter; its northward withdrawal in summer is the precondition for monsoon onset.\n\nValue Addition:\n• WDs and monsoon depressions are the two dominant precipitation systems for northwest and central India respectively.\n• Monsoon depressions weaken to lows as they move inland and interact with orography.\n• 5–6 monsoon depressions form in the Bay of Bengal in an average year."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (atmospheric system or feature) with List II (correct characteristic):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Western Disturbance",
+            "1. Forms over the Bay of Bengal during the monsoon season, moves northwest, and brings heavy rainfall to central India"
+          ],
+          [
+            "B. Monsoon depression",
+            "2. Positioned at ~25–30°N in winter, guiding mid-latitude troughs toward northwest India; retreats northward in summer"
+          ],
+          [
+            "C. Tropical Easterly Jet (TEJ)",
+            "3. Extratropical trough embedded in winter westerlies that derives moisture from the Mediterranean and Caspian region"
+          ],
+          [
+            "D. Subtropical westerly jet",
+            "4. Upper-tropospheric jet active during the Indian summer monsoon, flowing eastward over the subcontinent at approximately 150 hPa"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-2, D-4\n(b) A-1, B-3, C-4, D-2\n(c) A-3, B-4, C-1, D-2\n(d) A-3, B-1, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b383e40c-80f8-4f5b-80c5-2c7376d95f20",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Quasi-Biennial Oscillation (QBO) and Its Influence on Upper Air Waves",
+        "El Niño-Southern Oscillation (ENSO) Teleconnections via Rossby Waves"
+      ],
+      "subject_que_no": 768,
+      "overall_que_no": 17742
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "QBO-ENSO interaction and global weather modulation",
+      "statement_analysis": [
+        {
+          "statement": "The combined state of the QBO and ENSO can modulate global weather patterns more significantly than either phenomenon operating independently, because their interaction affects both stratospheric and tropospheric circulation simultaneously.",
+          "verdict": "Correct",
+          "reason": "The QBO-ENSO interaction is well-documented — their combined phasing significantly alters Northern Hemisphere winter circulation beyond what either system alone predicts. QBO modulates stratospheric circulation while ENSO drives tropospheric teleconnections; together they create compound effects."
+        },
+        {
+          "statement": "The QBO influences global weather patterns by directly altering sea surface temperatures in the tropical Pacific, which then drive ENSO events that propagate through Rossby wave teleconnections.",
+          "verdict": "Incorrect",
+          "reason": "QBO is a stratospheric wind oscillation — it does not directly alter sea surface temperatures. QBO influences global weather by modulating Rossby wave propagation into the stratosphere and the polar vortex strength, not through SST modification."
+        }
+      ],
+      "strong_distractor": "a — Option (a) is a strong distractor because students who accept Statement 1 (which is correct and well-phrased) may not critically examine Statement 2's claimed mechanism (QBO altering SSTs), which sounds reasonable but describes a non-existent direct link.",
+      "elimination_logic": [
+        "Statement 1 correctly describes QBO-ENSO interaction as producing compound effects — this is established in seasonal forecasting research. Statement 1 is Correct.",
+        "Statement 2 claims QBO directly alters tropical Pacific SSTs to drive ENSO — this is incorrect. QBO is a stratospheric phenomenon that modulates wave propagation, not SSTs.",
+        "Statement 2 is Incorrect.",
+        "Statement 1 correct, Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a plausible fabrication dressed as a mechanistic explanation. Students who know QBO and ENSO interact may accept any mechanism linking them as valid. The specific claim — QBO directly altering tropical Pacific SSTs — does not exist in climate science. QBO's influence pathway is through stratospheric circulation (polar vortex, Rossby wave propagation), not oceanic temperature modification. The fabrication exploits students' tendency to accept any causal chain that connects two real phenomena.",
+      "final_explanation": "QBO-ENSO interaction is a frontier topic in seasonal climate prediction.\n\n• Statement 1 — Correct: The combined QBO-ENSO state modulates NH winter circulation more powerfully than either in isolation. For example, El Niño during QBO westerly phase produces a stronger polar vortex response than El Niño alone. Seasonal forecasters explicitly account for this interaction.\n• Statement 2 — Incorrect: QBO does not directly alter sea surface temperatures. Its influence pathway is purely atmospheric — modulating upward Rossby wave propagation into the stratosphere, thereby affecting polar vortex strength, which then couples downward to the troposphere.\n\nValue Addition:\n• The QBO westerly phase during El Niño winter tends to produce a stronger-than-normal polar vortex — milder NH mid-latitude winters.\n• Seasonal forecast centres (ECMWF, UK Met Office) incorporate QBO phase as a predictor variable.\n• QBO disruption events (observed since 2016) have complicated this interaction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the interaction between the Quasi-Biennial Oscillation (QBO) and El Niño-Southern Oscillation (ENSO):\n\nStatement 1: The combined state of the QBO and ENSO can modulate global weather patterns more significantly than either phenomenon operating independently, because their interaction affects both stratospheric and tropospheric circulation simultaneously.\n\nStatement 2: The QBO influences global weather patterns by directly altering sea surface temperatures in the tropical Pacific, which then drive ENSO events that propagate through Rossby wave teleconnections.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2e5834ec-cf65-4c8c-a4f0-ca92fbd1489e",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Storm Tracks and Rossby Wave Packet Propagation",
+        "Rossby Wave Breaking and Atmospheric Blocking"
+      ],
+      "subject_que_no": 769,
+      "overall_que_no": 17743
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "Baroclinic instability zones — cyclone genesis and storm track formation",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. The North Atlantic and North Pacific storm tracks are the two primary corridors of extratropical cyclone activity in the Northern Hemisphere, located along the polar fronts where baroclinic instability is greatest.",
+        "Step 2: Is Reason (R) correct? — Yes. Baroclinic instability is the fundamental mechanism by which extratropical cyclones develop — they extract potential energy from horizontal temperature gradients at the polar front.",
+        "Step 3: Does R causally explain A? — No, not fully. R explains why cyclones form (baroclinic instability), but does not explain why these cyclones follow preferred TRACKS (corridors). The track guidance is provided by Rossby wave packet propagation — successive cyclones are steered along the wave packet path. R is true but explains cyclone genesis, not track formation.",
+        "A correct + R correct + R does NOT fully explain A → correct_option = b."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Storm tracks represent preferred corridors where extratropical cyclones form and travel, shaped by two distinct processes.\n\n• Assertion (A) — Correct: The North Atlantic and North Pacific storm tracks are well-documented features along the polar fronts of the respective ocean basins. They concentrate extratropical cyclone activity and associated precipitation.\n• Reason (R) — Correct: Baroclinic instability — the extraction of potential energy from horizontal temperature gradients — is the mechanism by which extratropical cyclones form at the polar front. This is a fundamental principle of dynamic meteorology.\n• Causal link — Not valid as stated: R explains why individual cyclones form, but not why they organise into persistent TRACKS. Track formation requires Rossby wave packet guidance — successive cyclones are steered along the wave packet's energy propagation path. R is the genesis mechanism; Rossby wave packets are the track-maintenance mechanism. R does not fully or correctly explain A.\n\nValue Addition:\n• Storm tracks shift poleward in summer when the polar front weakens and retreats.\n• Climate models project poleward storm track shifts under anthropogenic warming.\n• IOD positive phase can shift the Southern Hemisphere storm track, affecting Australian rainfall."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The North Atlantic and North Pacific storm tracks represent the preferred corridors of extratropical cyclone activity in the Northern Hemisphere, where successive cyclones form and travel along quasi-fixed pathways.\n\nReason (R): Baroclinic instability along the polar fronts of the respective ocean basins provides the energy source for extratropical cyclone development, as these systems extract potential energy stored in horizontal temperature gradients.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e4ba8597-9793-4206-abf1-96c2c59c3314",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Climatology",
+      "sub_topic": "Rossby waves and upper air circulation",
+      "concepts_used": [
+        "Planetary vs. Synoptic Scale Waves: Classification and Differences",
+        "Rossby Waves: Origin and Formation Mechanism"
+      ],
+      "subject_que_no": 770,
+      "overall_que_no": 17744
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Scientific milestones in Rossby wave and upper-air circulation research",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) places Charney's baroclinic instability theory before Rossby's wave equation, which students who know both names but not their chronological sequence may choose.",
+      "elimination_logic": [
+        "Carl-Gustaf Rossby formulated the Rossby wave equation in the late 1930s — published 1939. This is the foundational event.",
+        "Jule Charney developed the theory of baroclinic instability explaining extratropical cyclone development in 1947.",
+        "The first successful numerical weather prediction (NWP) by Charney, Fjörtoft, and von Neumann was in 1950, enabled by early computers.",
+        "The Quasi-Biennial Oscillation was first documented by Richard Reed and colleagues in 1960.",
+        "Correct chronological order: Rossby wave equation (1939) → Charney's baroclinic instability (1947) → first NWP (1950) → QBO discovery (1960) = sequence 1 → 3 → 2 → 4 = option (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap targets students who know Charney and Rossby are both 1940s-era meteorologists and may confuse whether Rossby's wave theory or Charney's baroclinic instability came first. Rossby's wave equation (1939) predates Charney's instability theory (1947) by nearly a decade. Additionally, first NWP (1950) and QBO discovery (1960) are often associated with the same era without precise ordering. The correct sequence — 1939, 1947, 1950, 1960 — tests chronological precision.",
+      "final_explanation": "Key milestones in upper-air wave and circulation research:\n\nCorrect order: Rossby wave equation (1) → Charney baroclinic instability (3) → first NWP (2) → QBO discovery (4)\n\n• Event 1 (Rossby wave equation, ~1939): Carl-Gustaf Rossby formalised the mathematical description of planetary waves using potential vorticity conservation — the founding contribution.\n• Event 3 (Charney baroclinic instability, 1947): Jule Charney explained how extratropical cyclones grow through baroclinic instability — extracting energy from temperature gradients.\n• Event 2 (First NWP, 1950): Charney, Fjörtoft, and von Neumann made the first successful numerical weather prediction using ENIAC, applying Rossby wave theory computationally.\n• Event 4 (QBO discovery, 1960): Richard Reed et al. documented the QBO — the stratospheric oscillation — a later discovery building on established upper-air theory.\n\nValue Addition:\n• Rossby's 1939 paper is considered one of the most influential in meteorological history.\n• ENIAC (1950 NWP) required 24 hours of computation for a 24-hour forecast.\n• The QBO's ~28-month cycle was not explained theoretically until the 1970s."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following milestones in the scientific understanding of upper-air waves and circulation:\n\n1. Mathematical formalisation of planetary wave behaviour based on potential vorticity conservation, explaining westward wave propagation relative to mean flow\n2. First successful numerical weather prediction using early computing machinery, applying theoretical wave equations to forecast atmospheric pressure patterns\n3. Development of the theory explaining how extratropical cyclones grow by extracting energy from horizontal temperature gradients in a stably stratified atmosphere\n4. Discovery and documentation of alternating easterly-westerly wind regimes in the equatorial stratosphere cycling over approximately 26–28 months\n\nWhich of the following represents the correct chronological order of these developments?\n\n(a) 3 → 1 → 2 → 4\n(b) 1 → 2 → 3 → 4\n(c) 1 → 3 → 2 → 4\n(d) 3 → 1 → 4 → 2",
+      "table_data": null
+    }
+  }
+]

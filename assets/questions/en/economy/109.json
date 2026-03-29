@@ -1,0 +1,1640 @@
+[
+  {
+    "meta": {
+      "uuid": "fea5c2e1-2ee8-4593-b106-f0c1feb1f5f4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Structural Composition of CPI vs WPI Baskets"
+      ],
+      "subject_que_no": 3745,
+      "overall_que_no": 11092
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "WPI excludes services completely unlike CPI",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is a strong distractor because students who know WPI is wholesale-focused often assume it captures some service-sector transactions at the wholesale level, making 'partial coverage' sound plausible.",
+      "elimination_logic": [
+        "Eliminate option (a): WPI does not assign low weight to services — it excludes them entirely, so 'minimal' is incorrect.",
+        "Eliminate option (c): WPI does not partially cover services through a traded-goods proxy; services are structurally absent from its basket.",
+        "Eliminate option (d): CPI covering services does not mean WPI covers them indirectly — the two indices are independently constructed.",
+        "Retain option (b): WPI covers only goods — primary articles, fuel and power, and manufactured products — with zero representation of services."
+      ],
+      "upsc_trap_explanation": "Students who recall that WPI is a 'wholesale' index sometimes assume that wholesale transactions in service-adjacent sectors (like transport charges on goods) give WPI some service coverage. This is incorrect. The WPI basket is structurally limited to tangible goods. The trap here is the word 'minimal' in option (a), which sounds like a cautious, accurate hedge — but the correct answer is absolute exclusion, not minimal inclusion.",
+      "final_explanation": "The Wholesale Price Index (WPI) in India tracks prices at the first point of commercial transaction for goods only. Its basket is divided into three groups: primary articles, fuel and power, and manufactured products. Services — which account for over 50% of India's GDP — are entirely absent from WPI's coverage.\n\n• Option (a) — Incorrect: WPI does not assign minimal weight to services; services have zero weight.\n• Option (b) — Correct: WPI covers no services whatsoever; only goods are included across its three commodity groups.\n• Option (c) — Incorrect: There is no indirect or proxy coverage of services in WPI through traded goods.\n• Option (d) — Incorrect: CPI's inclusion of services is independent of WPI's construction; it does not create any service coverage in WPI.\n\nValue Addition:\n• Services constitute approximately 50%+ of the CPI basket, making WPI increasingly unrepresentative of modern India's inflation.\n• This structural gap is the primary reason PPI is being considered as a replacement for WPI.\n• WPI's three commodity groups are: (i) Primary Articles (~22%), (ii) Fuel and Power (~13%), (iii) Manufactured Products (~64%)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following most accurately describes the treatment of services in India's Wholesale Price Index (WPI)?\n\n(a) Services are assigned a minimal weight given their limited relevance to wholesale trade\n(b) Services are entirely excluded from the WPI basket, which covers only goods\n(c) Services are partially captured through traded-goods proxies in the manufactured products group\n(d) Services are excluded from WPI but are captured indirectly because CPI data is used to supplement WPI calculations",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e03af5eb-bc5d-47e6-83bf-f6116d403a3c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Structural Composition of CPI vs WPI Baskets",
+        "Food Inflation Measurement: Differences in Scope and Weight"
+      ],
+      "subject_que_no": 3746,
+      "overall_que_no": 11093
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Food weight asymmetry between CPI and WPI baskets",
+      "statement_analysis": [
+        {
+          "statement": "Food articles carry approximately twice the weight in CPI compared to their weight in WPI.",
+          "verdict": "Correct",
+          "reason": "Food accounts for roughly 45-46% of CPI but only about 24% of WPI, making the CPI food weight nearly double that of WPI."
+        },
+        {
+          "statement": "Manufactured products constitute the single largest component by weight in the WPI basket.",
+          "verdict": "Correct",
+          "reason": "Manufactured products account for approximately 64% of WPI — the dominant group by far, dwarfing primary articles and fuel & power."
+        },
+        {
+          "statement": "A severe drought would raise both CPI and WPI by broadly similar magnitudes because food prices at wholesale and retail levels move together.",
+          "verdict": "Incorrect",
+          "reason": "Due to the much higher food weight in CPI (~45%) versus WPI (~24%), a drought-driven food price shock raises CPI far more sharply than WPI; the magnitudes diverge significantly."
+        }
+      ],
+      "strong_distractor": "d — Option d is a strong distractor because students who know manufactured products dominate WPI and food dominates CPI may expect all three statements to be true, missing that the drought impact is asymmetric.",
+      "elimination_logic": [
+        "Verify Statement 1: Food weight ~45% in CPI vs ~24% in WPI — approximately double — Statement 1 is correct.",
+        "Verify Statement 2: Manufactured products ~64% of WPI — clearly the largest single group — Statement 2 is correct.",
+        "Reject Statement 3: The food weight differential (45% vs 24%) means drought raises CPI sharply but WPI moderately — 'broadly similar magnitudes' is false.",
+        "Only Statements 1 and 2 are correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the planted trap. Students who understand that food prices transmit from wholesale to retail often assume the inflation impact of a drought would be comparable across both indices. The trap exploits this supply-chain reasoning by ignoring the weight differential: even if the price change in food is identical at both stages, CPI amplifies it far more because food's basket share is nearly double that in WPI.",
+      "final_explanation": "The composition of CPI and WPI baskets differs fundamentally, and these compositional differences determine how external shocks transmit into each index.\n\n• Statement 1 — Correct: Food articles carry ~45-46% weight in CPI but only ~24% in WPI — approximately a 2:1 ratio, with direct policy implications for how monsoons affect each index.\n• Statement 2 — Correct: Manufactured products account for ~64% of WPI, making them the dominant category. This is why industrial input price shocks show up strongly in WPI.\n• Statement 3 — Incorrect: A drought raises food prices at both wholesale and retail levels, but because CPI assigns nearly double the weight to food, its increase is proportionally far larger than WPI's increase.\n\nValue Addition:\n• WPI's three groups: Primary Articles (~22%), Fuel & Power (~13%), Manufactured Products (~64%).\n• CPI's high food weight makes it extremely sensitive to monsoon outcomes — a key reason RBI distinguishes headline CPI from core CPI.\n• Core CPI (CPI excluding food and fuel) is used to assess demand-side pressures, insulating the reading from supply-driven food shocks."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the basket composition of India's Consumer Price Index (CPI) and Wholesale Price Index (WPI):\n\n1. Food articles carry approximately twice the weight in CPI compared to their weight in WPI.\n2. Manufactured products constitute the single largest component by weight in the WPI basket.\n3. A severe drought would raise both CPI and WPI by broadly similar magnitudes because food prices at wholesale and retail levels move together.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7492ab08-2228-4e39-8aea-2645fb3cbfee",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Compiling Agencies and Institutional Responsibility"
+      ],
+      "subject_que_no": 3747,
+      "overall_que_no": 11094
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Compiling agencies for CPI and WPI in India",
+      "statement_analysis": [
+        {
+          "statement": "The Consumer Price Index (Combined) is compiled by the Office of the Economic Adviser under the Ministry of Commerce and Industry.",
+          "verdict": "Incorrect",
+          "reason": "CPI-Combined is compiled by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI), not the Office of the Economic Adviser."
+        },
+        {
+          "statement": "The Wholesale Price Index is compiled by the Ministry of Finance through the Department of Economic Affairs.",
+          "verdict": "Incorrect",
+          "reason": "WPI is compiled by the Office of the Economic Adviser (OEA) under the Ministry of Commerce and Industry, not the Ministry of Finance."
+        },
+        {
+          "statement": "The Reserve Bank of India compiles neither CPI nor WPI but uses CPI as the nominal anchor for monetary policy under the Flexible Inflation Targeting framework.",
+          "verdict": "Correct",
+          "reason": "RBI neither compiles CPI (MoSPI) nor WPI (OEA/Commerce Ministry) but formally adopted CPI as its inflation target following the 2014 Urjit Patel Committee recommendation and the 2016 RBI Act amendment."
+        }
+      ],
+      "strong_distractor": "b — Option b is a strong distractor because students who correctly identify Statement 2 as wrong (misattributing WPI to Finance Ministry) may overlook that Statement 1 is also wrong, leading them to choose 'Statement 2 only' as incorrect.",
+      "elimination_logic": [
+        "Check Statement 1: CPI-Combined is compiled by MoSPI/NSO, not the Office of the Economic Adviser — Statement 1 is incorrect.",
+        "Check Statement 2: WPI is compiled by OEA under Commerce Ministry, not Ministry of Finance — Statement 2 is also incorrect.",
+        "Check Statement 3: RBI uses CPI as anchor but does not compile either index — Statement 3 is factually correct.",
+        "Statements 1 and 2 are both incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "The trap exploits two separate entity-swap errors. Statement 1 swaps MoSPI (correct for CPI) with the Office of the Economic Adviser (correct for WPI). Statement 2 swaps the Ministry of Commerce and Industry (correct for WPI) with the Ministry of Finance (a plausible-sounding but wrong answer). Students who catch one error may not systematically verify the other, leading to options (a) or (b) instead of (c).",
+      "final_explanation": "Knowing which institution compiles which index is a recurring UPSC theme because it connects to institutional accountability and the policy framework.\n\n• Statement 1 — Incorrect: CPI-Combined is compiled by the National Statistical Office (NSO) under MoSPI. The Office of the Economic Adviser is responsible for WPI, not CPI.\n• Statement 2 — Incorrect: WPI is compiled by the Office of the Economic Adviser (OEA) under the Ministry of Commerce and Industry. The Ministry of Finance has no direct role in either index.\n• Statement 3 — Correct: RBI is the user of inflation data, not its compiler. Since the 2016 RBI Act amendment formalised the Flexible Inflation Targeting (FIT) framework, RBI uses CPI-Combined as its official anchor.\n\nValue Addition:\n• CPI-IW (Industrial Workers) is compiled by the Labour Bureau under the Ministry of Labour and Employment — a separate variant from CPI-Combined.\n• The Urjit Patel Committee (2014) formally recommended the shift from WPI to CPI as RBI's anchor.\n• OEA also releases the Economic Survey and other trade data — it is not a statistical body but an advisory body."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the institutional framework for price index compilation in India:\n\n1. The Consumer Price Index (Combined) is compiled by the Office of the Economic Adviser under the Ministry of Commerce and Industry.\n2. The Wholesale Price Index is compiled by the Ministry of Finance through the Department of Economic Affairs.\n3. The Reserve Bank of India compiles neither CPI nor WPI but uses CPI as the nominal anchor for monetary policy under the Flexible Inflation Targeting framework.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7f1e57bd-7f2a-4b08-a074-be5d83adfc98",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined",
+        "Dearness Allowance (DA) Linkage and Wage Indexation"
+      ],
+      "subject_que_no": 3748,
+      "overall_que_no": 11095
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "CPI variant-to-purpose linkages in Indian policy",
+      "statement_analysis": [
+        {
+          "statement": "CPI-IW (Industrial Workers) — used for Dearness Allowance calculation for central government employees",
+          "verdict": "Correct",
+          "reason": "DA for central government employees and pensioners is formally linked to CPI-IW, compiled by the Labour Bureau under the Ministry of Labour and Employment."
+        },
+        {
+          "statement": "CPI-AL (Agricultural Labourers) — used as the nominal anchor for RBI's inflation targeting",
+          "verdict": "Incorrect",
+          "reason": "RBI uses CPI-Combined (all-India) as its inflation target, not CPI-AL. CPI-AL is used for minimum wage revision for agricultural workers."
+        },
+        {
+          "statement": "CPI-Combined (Urban + Rural) — used by RBI under the Flexible Inflation Targeting framework",
+          "verdict": "Correct",
+          "reason": "The 2016 RBI Act amendment and the FIT framework designate CPI-Combined (all-India) as the official inflation target variable."
+        },
+        {
+          "statement": "CPI-RL (Rural Labourers) — used for minimum wage revision for rural non-agricultural workers alongside CPI-AL",
+          "verdict": "Correct",
+          "reason": "Both CPI-AL and CPI-RL are used in the context of minimum wage revisions; CPI-RL covers rural labourers beyond agricultural work."
+        }
+      ],
+      "strong_distractor": "c — Option c ('Only three') is a strong distractor because students who confidently identify the CPI-IW and CPI-Combined pairings as correct may assume the CPI-AL pairing is also correct given its well-known policy role, making 'three correct' seem plausible.",
+      "elimination_logic": [
+        "Pairing 1 (CPI-IW → DA): Standard knowledge — this is unambiguous. Mark as correct.",
+        "Pairing 2 (CPI-AL → RBI anchor): CPI-AL is for minimum wages; RBI uses CPI-Combined — mark as incorrect.",
+        "Pairing 3 (CPI-Combined → RBI FIT): Directly correct per the 2016 RBI Act amendment — mark as correct.",
+        "Pairing 4 (CPI-RL → rural minimum wages): CPI-RL is used alongside CPI-AL for rural minimum wage revision — mark as correct.",
+        "Three pairings are correct, one is incorrect — select option (b) 'Only two... wait — three are correct' → option (c) — rechecking: Pairings 1, 3, 4 are correct = three correct = option (c)."
+      ],
+      "upsc_trap_explanation": "The trap is Pairing 2, which swaps CPI-Combined (correct RBI anchor) with CPI-AL. Students who know CPI-AL is used for agricultural wage policy but are unsure whether it has any RBI role may accept it as partially correct. The distractor is designed to make students second-guess whether 'only two' or 'only three' pairings are correct by creating uncertainty about CPI-RL's status.",
+      "final_explanation": "India has multiple CPI variants, each serving a distinct institutional purpose. Confusing them is a recurring UPSC-level error.\n\n• Pairing 1 — Correct: CPI-IW (base year 2016) compiled by Labour Bureau is the index used to revise DA for central government employees and pensioners twice a year.\n• Pairing 2 — Incorrect: CPI-AL is used for agricultural minimum wage revision, not for RBI's inflation targeting. The RBI anchor is CPI-Combined.\n• Pairing 3 — Correct: CPI-Combined is the all-India headline index (weighted average of CPI-Rural and CPI-Urban) used under the 2016 FIT framework.\n• Pairing 4 — Correct: CPI-RL covers rural labourers more broadly; it is used alongside CPI-AL in minimum wage policy for rural workers.\n\nOnly Pairing 2 is incorrectly matched → Only three are correct → option (c).\n\nValue Addition:\n• DA is revised twice yearly (January and July) based on CPI-IW changes over the preceding 12 months.\n• The 7th Pay Commission retained CPI-IW as the DA linkage mechanism.\n• CPI-IW base year was revised from 2001 to 2016 — an important update for exam purposes."
+    },
+    "correct_option": "c"
+  },
+  {
+    "meta": {
+      "uuid": "0077a6f9-85ff-4e1d-9d17-807e01ff52fe",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Inflation Targeting Framework and CPI's Legal Mandate",
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined"
+      ],
+      "subject_que_no": 3749,
+      "overall_que_no": 11096
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "CPI-Combined as statutory FIT target, not sectoral variants",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because CPI-IW is the most frequently encountered CPI variant in general knowledge, leading students to assume it is also RBI's policy benchmark.",
+      "elimination_logic": [
+        "Eliminate option (a): CPI-AL is used for agricultural minimum wage revision, not for RBI's inflation targeting — rule out.",
+        "Eliminate option (b): CPI-IW is used for DA calculation for central government employees — its institutional home is the Labour Bureau, not RBI's policy framework.",
+        "Eliminate option (c): WPI is not the target under the FIT framework; this was true pre-2014 informally, but the RBI Act amendment (2016) explicitly mandates CPI.",
+        "Retain option (d): The RBI Act amendment (2016) specifies CPI-Combined (all-India headline CPI) as the target — the scenario's description of a 'three-quarter breach' invokes the FIT accountability mechanism, which is triggered by CPI-Combined alone."
+      ],
+      "upsc_trap_explanation": "The scenario deliberately omits which CPI variant is breached, forcing the student to apply the legal provision. The trap is that CPI-IW (option b) is the most familiar CPI variant to many students — it appears in DA discussions, wage settlements, and pay commission contexts — creating a strong pull toward selecting it. Only students who know that the RBI Act amendment specifies CPI-Combined will correctly select option (d).",
+      "final_explanation": "The Flexible Inflation Targeting (FIT) framework, codified in the RBI Act through a 2016 amendment, specifies a precise accountability mechanism: if the target inflation rate is breached for three consecutive quarters, RBI must submit a remedial report to the government.\n\nThe key question is: which price index triggers this accountability clause? The answer is CPI-Combined (all-India), which is the weighted average of CPI-Rural and CPI-Urban. No sectoral variant — CPI-IW, CPI-AL, or CPI-RL — activates the formal reporting obligation.\n\n• Option (a) — Incorrect: CPI-AL governs minimum wages for agricultural labourers, not the monetary policy framework.\n• Option (b) — Incorrect: CPI-IW links to DA for central government employees — its governance sits with the Labour Bureau, entirely separate from RBI's mandate.\n• Option (c) — Incorrect: WPI was informally used pre-2014 but has no role in the statutory FIT framework.\n• Option (d) — Correct: CPI-Combined is the legally mandated target under the 2016 RBI Act amendment.\n\nValue Addition:\n• The target is 4% with a ±2% tolerance band (2%–6%).\n• Three consecutive quarters of breach trigger mandatory RBI report — not immediate rate action.\n• MPC decisions require a majority vote; the RBI Governor has a casting vote in the event of a tie."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A newspaper report states that a particular price index has breached the upper tolerance limit of the Monetary Policy Committee's target for three consecutive quarters, thereby obligating the Reserve Bank of India to submit a formal report to the Central Government explaining the reasons for failure and the proposed corrective measures. Which of the following price indices, when breached under the above conditions, triggers this statutory obligation?\n\n(a) CPI-AL (Agricultural Labourers)\n(b) CPI-IW (Industrial Workers)\n(c) Wholesale Price Index (WPI)\n(d) CPI-Combined (All-India Headline CPI)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9aa940b3-6439-4b9c-88c9-9cff2e9a04f0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Producer Price Index (PPI) as a Proposed Replacement for WPI",
+        "Impact of Taxes and Subsidies on WPI vs CPI Measurement"
+      ],
+      "subject_que_no": 3750,
+      "overall_que_no": 11097
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "PPI not yet adopted — WPI still in use; WPI includes taxes unlike PPI",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because students who know WPI is 'wholesale' may conflate it with PPI and assume both measure prices received by producers net of taxes, making WPI seem correctly placed in the same category as PPI.",
+      "elimination_logic": [
+        "Identify the common thread: options (a), (b), and (d) are characteristics that correctly describe PPI as recommended by the Abhijit Sen Working Group.",
+        "Option (a): PPI measures prices received by domestic producers — correct PPI attribute.",
+        "Option (d): PPI is aligned with UN and IMF international standards — correct PPI attribute.",
+        "Option (b): WPI does NOT measure prices net of indirect taxes — WPI includes GST and excise duties in the price. This is what distinguishes WPI from PPI.",
+        "Option (c): PPI has not been officially adopted in India as of 2024 — this is a fact about PPI's status, but let the options be re-read: option (c) states WPI excludes indirect taxes, which is FALSE — WPI includes taxes. This is the odd one out among claims about PPI."
+      ],
+      "upsc_trap_explanation": "The conflation trap here is between WPI and PPI. Students who associate both with producer-level price measurement often assume both exclude indirect taxes. In reality, WPI includes indirect taxes (GST, excise) in its prices — making it different from a pure producer price measure. PPI, by design, would exclude such taxes to isolate the price actually received by producers. This distinction is the basis for why PPI is considered superior to WPI for industrial price signalling.",
+      "final_explanation": "The Producer Price Index (PPI) has been recommended as a superior replacement for WPI on grounds of conceptual accuracy and international alignment.\n\n• Option (a) — Correctly describes PPI: PPI measures prices received by domestic producers at the point of first sale.\n• Option (b) — Correctly describes PPI: PPI excludes indirect taxes (GST, excise duties) to isolate the pure producer price signal — this is precisely what distinguishes it from WPI.\n• Option (c) — Does NOT correctly describe PPI or WPI: The statement that WPI excludes indirect taxes is false. WPI includes indirect taxes in its price measurement. This is the key structural flaw that PPI aims to fix.\n• Option (d) — Correctly describes PPI: International bodies including the UN and IMF recommend PPI over WPI for national accounts and price statistics.\n\nThe odd-one-out is option (c) because it incorrectly describes the WPI-PPI distinction.\n\nValue Addition:\n• India has NOT officially adopted PPI as of 2024 — WPI continues as the official wholesale price measure.\n• The Abhijit Sen Working Group recommended PPI adoption.\n• WPI's inclusion of taxes makes it unsuitable as a 'pure' producer price signal — a key academic criticism."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four statements correctly describe either the Producer Price Index (PPI) or a feature that distinguishes it from the Wholesale Price Index (WPI). Which one does NOT correctly describe this distinction?\n\n(a) PPI measures the prices received by domestic producers at the first point of commercial transaction\n(b) Unlike WPI, PPI is designed to exclude indirect taxes so as to isolate the price actually received by producers\n(c) Like PPI, WPI also excludes indirect taxes such as GST and excise duties from its price measurement\n(d) PPI is better aligned with international standards recommended by bodies such as the United Nations and the International Monetary Fund",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "86f42530-c8b9-4ff9-b2ca-a120660f250f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Rural vs Urban Inflation Dynamics in CPI",
+        "Structural Composition of CPI vs WPI Baskets"
+      ],
+      "subject_que_no": 3751,
+      "overall_que_no": 11098
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Rural weight higher than urban in CPI-Combined; WPI has no rural-urban split",
+      "statement_analysis": [
+        {
+          "statement": "In India's CPI-Combined, the rural sub-index carries a higher weight than the urban sub-index, reflecting the demographic composition of household consumption.",
+          "verdict": "Correct",
+          "reason": "CPI-Rural carries approximately 55% weight and CPI-Urban approximately 45% in CPI-Combined — reflecting India's larger rural population and household expenditure share."
+        },
+        {
+          "statement": "The Wholesale Price Index is published separately for rural and urban markets to capture price differentials across distribution channels.",
+          "verdict": "Incorrect",
+          "reason": "WPI is a single national wholesale price index with no rural or urban disaggregation — it measures prices at the first point of commercial transaction without any geographic segmentation."
+        }
+      ],
+      "strong_distractor": "a — Option a is a strong distractor because Statement 1 sounds counterintuitive to students who assume urban economic activity dominates the CPI basket, leading them to mark both statements as correct.",
+      "elimination_logic": [
+        "Verify Statement 1: CPI-Combined weights rural (~55%) more than urban (~45%) — this reflects India's rural population majority. Statement 1 is correct.",
+        "Verify Statement 2: WPI is a single all-India index with no rural/urban breakdown — WPI does not have separate rural and urban series. Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 1 surprises students who intuitively associate 'consumer price index' with urban markets (malls, supermarkets, urban consumption patterns). The counterintuitive truth is that rural weight dominates CPI-Combined because India's rural population and household consumption share remains substantial. Statement 2 is a plausible-fabrication trap — a rural/urban split for WPI sounds like a reasonable statistical design but does not exist.",
+      "final_explanation": "Understanding the internal architecture of CPI-Combined is important for interpreting monetary policy communications.\n\n• Statement 1 — Correct: CPI-Combined is a weighted average of CPI-Rural (weight ~55%) and CPI-Urban (weight ~45%). The higher rural weight reflects India's demographic reality where a larger share of households are rural. Rural CPI tends to be more volatile due to food price sensitivity.\n• Statement 2 — Incorrect: WPI is a single national index measuring prices at the first point of commercial transaction. It has no rural or urban breakdown — unlike CPI, it does not attempt to capture consumer-level geographic price differences.\n\nValue Addition:\n• Rural CPI typically shows higher food inflation than Urban CPI due to supply-side constraints in rural markets.\n• WPI's lack of geographic disaggregation is one of its structural limitations for granular policy analysis.\n• CPI-IW (compiled separately by Labour Bureau) also does not have a rural variant — it covers industrial centres only."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding the structural design of India's Consumer Price Index and Wholesale Price Index:\n\nStatement 1: In India's CPI-Combined, the rural sub-index carries a higher weight than the urban sub-index, reflecting the demographic composition of household consumption.\n\nStatement 2: The Wholesale Price Index is published separately for rural and urban markets to capture price differentials across distribution channels.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e1c3edcc-d9ee-4367-b3d3-2d8f20c7fa14",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Core Inflation vs Headline Inflation in CPI Context"
+      ],
+      "subject_que_no": 3752,
+      "overall_que_no": 11099
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Core CPI excludes food and fuel; no core WPI in Indian policy",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is a strong distractor because 'core WPI' sounds like a natural parallel to 'core CPI' and students who know core CPI exists may assume the concept has been extended to WPI as well.",
+      "elimination_logic": [
+        "The blank requires the index from which food and fuel are excluded to assess demand-side inflation pressures.",
+        "The concept of 'core' inflation in Indian policy discourse applies exclusively to CPI — specifically, headline CPI minus food and fuel components.",
+        "WPI has no formally defined 'core' variant used in RBI monetary policy communications — eliminate options naming core WPI.",
+        "RBI uses headline CPI for targeting but monitors core CPI for demand signals — the blank is 'Core CPI' (CPI excluding food and fuel)."
+      ],
+      "upsc_trap_explanation": "The trap is 'Core WPI' in option (c). Since WPI has three components — primary articles, fuel and power, manufactured products — a student might logically construct a 'core WPI' by excluding primary articles and fuel, leaving manufactured products. While this arithmetic is possible, no such concept exists in RBI's formal communications or Indian monetary policy framework. Core WPI is not a recognised policy tool.",
+      "final_explanation": "In monetary policy analysis, it is important to distinguish between what an index measures and how policymakers actually use it.\n\n• Option (a) — Incorrect: Headline CPI includes all components including food and fuel; excluding these gives core, not headline, inflation.\n• Option (b) — Correct: Core CPI is defined as CPI excluding food and fuel/energy components. It isolates demand-driven inflation from supply-side shocks, making it the preferred measure for assessing underlying price pressures.\n• Option (c) — Incorrect: 'Core WPI' is not a recognised concept in India's monetary policy framework. RBI's communications do not reference a core WPI measure.\n• Option (d) — Incorrect: GDP deflator is a separate, broader measure covering all goods and services in the economy — it is not derived from CPI by excluding components.\n\nValue Addition:\n• RBI formally targets headline CPI but watches core CPI closely to distinguish supply shocks from demand pressures.\n• Food and fuel are excluded from core CPI because their prices are supply-driven and often seasonal.\n• Core inflation persistence signals structural demand-side pressures that warrant monetary policy response."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "In India's monetary policy framework, the Reserve Bank of India targets headline inflation for its formal mandate but also monitors ________ as a measure of underlying demand-side price pressures — an index that excludes food and fuel components from the broader consumer price basket. No equivalent formal measure of this type is used in RBI policy communications for the Wholesale Price Index.\n\n(a) Headline CPI\n(b) Core CPI\n(c) Core WPI\n(d) GDP Deflator",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "556d2170-c82b-4263-ba35-013e27694147",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Number of Items Tracked: Coverage Breadth Comparison",
+        "Structural Composition of CPI vs WPI Baskets"
+      ],
+      "subject_que_no": 3753,
+      "overall_que_no": 11100
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "scope-extension",
+      "concept_anchor": "WPI tracks more items but CPI is superior for consumer welfare policy",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because students who know WPI is 'more comprehensive' in goods coverage may accept the claim that WPI is superior for consumer welfare measurement as well, conflating numeric breadth with policy relevance.",
+      "elimination_logic": [
+        "Evaluate option (a): WPI covers ~697 items vs CPI's ~299 — the first part is correct. But WPI is NOT considered superior for consumer welfare measurement; CPI is — this pairing is incorrect.",
+        "Evaluate option (b): CPI-Combined is not compiled by the Office of the Economic Adviser — it is compiled by MoSPI/NSO — incorrect pair.",
+        "Evaluate option (c): WPI does not cover services; the claim that it 'partially covers services through the manufactured products group' is false — incorrect pair.",
+        "Evaluate option (d): CPI tracks ~299 items including services; WPI tracks ~697 items limited to goods — both parts of this pairing are correct — retain option (d)."
+      ],
+      "upsc_trap_explanation": "Option (a) is the primary trap: it correctly states that WPI tracks more items numerically (697 vs 299) but then attaches a false conclusion — that more items means better consumer welfare measurement. The trap exploits the intuitive assumption that wider numerical coverage equates to better policy relevance, ignoring the fundamental structural gap: WPI covers no services, which account for over 50% of the modern Indian economy.",
+      "final_explanation": "The coverage breadth of CPI and WPI must be understood qualitatively, not just quantitatively.\n\n• Option (a) — Incorrectly matched: While WPI does track ~697 items vs CPI's ~299, WPI is not superior for consumer welfare measurement. CPI is considered the better measure because it includes services, which are entirely absent from WPI.\n• Option (b) — Incorrectly matched: CPI-Combined is compiled by MoSPI/NSO, not the Office of the Economic Adviser (which compiles WPI).\n• Option (c) — Incorrectly matched: WPI covers no services. Manufactured products in WPI are tangible goods — no service coverage exists even as a proxy.\n• Option (d) — Correctly matched: CPI tracks approximately 299 items including goods and services from the household consumption basket; WPI tracks approximately 697 items restricted entirely to goods (primary articles, fuel, manufactured products).\n\nValue Addition:\n• The WPI basket includes commodities like iron ore, crude petroleum, and industrial inputs — items no household directly purchases.\n• Higher item count in WPI reflects goods-market granularity, not consumer basket breadth.\n• CPI's inclusion of rent, healthcare, education, and transport makes it a far more realistic reflection of household cost-of-living."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched?\n\n(a) WPI tracks approximately 697 items across its basket — making it superior to CPI for measuring consumer welfare\n(b) CPI-Combined (all-India) — compiled by the Office of the Economic Adviser, Ministry of Commerce and Industry\n(c) WPI manufactured products group — partially covers services through traded service inputs\n(d) CPI tracks approximately 299 items including services; WPI tracks approximately 697 items covering only goods",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8e456268-62fa-4fd4-a5e0-9bb2e154fefd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Base Year Differences and Recent Revisions"
+      ],
+      "subject_que_no": 3754,
+      "overall_que_no": 11101
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "CPI base year 2012 vs WPI base year 2011-12",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because students who recall 'both were revised around the same time' assume they share the same base year, leading to selection of '2012 for both'.",
+      "elimination_logic": [
+        "Eliminate option (b): CPI and WPI do not share the same base year — this is the most common misconception.",
+        "Eliminate option (c): Reversing the base years (WPI-2012, CPI-2011-12) is a direct inversion of the correct answer.",
+        "Eliminate option (d): 2004-05 was the base year for the old WPI series, not the current one — temporal swap trap.",
+        "Retain option (a): Current CPI-Combined uses base year 2012; current WPI series uses base year 2011-12."
+      ],
+      "upsc_trap_explanation": "The trap exploits the fact that both indices were revised around similar time periods, creating the impression they share the same base year. Students who remember '2011-12' as a revision year often assign it to CPI rather than WPI, and vice versa. The correct answer requires knowing not just that both were revised, but which specific base year each was assigned.",
+      "final_explanation": "Base year selection affects measured inflation rates significantly and is a standard area of UPSC questioning.\n\n• Option (a) — Correct: CPI-Combined (all-India) uses base year 2012 (calendar year). WPI uses base year 2011-12 (financial year). These are different base years despite the revisions occurring in a similar period.\n• Option (b) — Incorrect: The two indices do not share a common base year of 2012.\n• Option (c) — Incorrect: This reverses the correct assignment — WPI is 2011-12, not 2012; CPI is 2012, not 2011-12.\n• Option (d) — Incorrect: 2004-05 was the base year for the previous WPI series, replaced by the 2011-12 revision.\n\nValue Addition:\n• CPI-IW has a separate base year: revised to 2016 from the earlier 2001.\n• Base year revisions are undertaken to update basket composition to reflect current consumption patterns.\n• A more recent base year generally reduces the measured inflation rate as newer consumption patterns are incorporated."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly states the current base years of India's Consumer Price Index (Combined) and Wholesale Price Index respectively?\n\n(a) CPI — 2012; WPI — 2011-12\n(b) CPI — 2012; WPI — 2012\n(c) CPI — 2011-12; WPI — 2012\n(d) CPI — 2012; WPI — 2004-05",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3a0a94e7-8965-4fab-8a58-cf49927f3ebd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Absence of Services in WPI — A Critical Structural Gap",
+        "Structural Composition of CPI vs WPI Baskets"
+      ],
+      "subject_que_no": 3755,
+      "overall_que_no": 11102
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "WPI completely excludes services; services dominate CPI",
+      "statement_analysis": [
+        {
+          "statement": "Services such as healthcare, education, and rent are entirely absent from India's Wholesale Price Index because WPI is restricted to goods-only coverage.",
+          "verdict": "Correct",
+          "reason": "WPI covers only three goods-based groups: primary articles, fuel and power, and manufactured products. Services are structurally excluded — not underweighted but completely absent."
+        },
+        {
+          "statement": "As India's economy has increasingly shifted towards services, WPI has progressively increased the weight assigned to service-sector output to remain representative.",
+          "verdict": "Incorrect",
+          "reason": "WPI has NOT introduced any service-sector components despite India's economic shift towards services. The index remains goods-only, making it increasingly less representative of overall inflation in a services-led economy."
+        },
+        {
+          "statement": "Services including transport, housing, and education constitute more than half of the weight in India's CPI basket, reflecting their dominance in household expenditure.",
+          "verdict": "Correct",
+          "reason": "Services account for roughly 50%+ of CPI weight. Housing, education, health, transport, and personal care are major CPI components — this is precisely why WPI understates inflation in a modern services-dominated economy."
+        }
+      ],
+      "strong_distractor": "a — Option a is a strong distractor because Statement 1 correctly identifies WPI's goods-only nature, and students who agree with Statement 1 may then uncritically accept Statement 2 (that WPI adapted to services growth) without recognising that WPI has never incorporated services.",
+      "elimination_logic": [
+        "Check Statement 1: WPI strictly covers goods — primary articles, fuel, manufactured products. Services are fully excluded. Statement 1 is correct (not incorrect).",
+        "Check Statement 2: WPI has made no structural move to incorporate services despite India's services-led growth. Statement 2 claims WPI progressively increased service weight — this is false. Statement 2 is incorrect.",
+        "Check Statement 3: Services constitute 50%+ of CPI weight — this is correct per the CPI basket composition. Statement 3 is correct (not incorrect).",
+        "Only Statement 2 is NOT correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 2 uses the phrase 'progressively increased the weight assigned to service-sector output' — this sounds like a reasonable administrative response to economic evolution and mirrors what has actually happened in periodic basket revisions for CPI. The trap is that WPI revisions have updated goods coverage but have never introduced a services component. Students who apply CPI logic (periodic revisions incorporate new items) to WPI will incorrectly mark Statement 2 as correct.",
+      "final_explanation": "WPI's structural exclusion of services is not an oversight that gets corrected through revisions — it is a defining architectural characteristic of the index.\n\n• Statement 1 — Correct: WPI covers three goods groups only. Healthcare costs rising 15%, education fees doubling, or rents spiking have zero direct impact on WPI.\n• Statement 2 — Incorrect: Despite India's transformation into a services-led economy (services contributing ~55% of GDP), WPI has not incorporated any services weight in any revision, including the 2011-12 revision. This is why economists argue WPI is structurally unfit as a comprehensive inflation measure for modern India.\n• Statement 3 — Correct: CPI's high service weight (50%+) makes it far more representative of the cost-of-living experienced by Indian households in the 21st century.\n\nValue Addition:\n• This structural gap is the primary economic argument for replacing WPI with PPI.\n• India's services sector contributes approximately 55% of GDP but 0% of WPI — an increasingly glaring mismatch.\n• In 2024, WPI remains the official wholesale price index with no services integration."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about India's Wholesale Price Index and its treatment of the services sector:\n\n1. Services such as healthcare, education, and rent are entirely absent from India's Wholesale Price Index because WPI is restricted to goods-only coverage.\n2. As India's economy has increasingly shifted towards services, WPI has progressively increased the weight assigned to service-sector output to remain representative.\n3. Services including transport, housing, and education constitute more than half of the weight in India's CPI basket, reflecting their dominance in household expenditure.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3d3f8982-50e2-4487-b6e2-81a347d6c2ea",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "WPI as a Deflator and Its Use in GDP Calculation"
+      ],
+      "subject_que_no": 3756,
+      "overall_que_no": 11103
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "conflation",
+      "concept_anchor": "GDP deflator broader than WPI; WPI not equal to GDP deflator",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because students who know WPI was historically used as a manufacturing sector deflator assume this establishes a direct, causal relationship between WPI's scope and GDP deflator's construction, leading them to mark R as a correct explanation of A.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? Verify: GDP deflator covers all goods and services produced in the economy including exports, imports, and government services — it is broader than WPI. Yes, A is correct.",
+        "Step 2 — Is Reason (R) correct? R states WPI was used as a deflator only for the agricultural sector. This is incorrect — WPI was historically used as a deflator for the manufacturing sector in GDP estimation, not agriculture. R is incorrect.",
+        "Step 3 — Since R is factually incorrect, the answer is option (c): A is correct but R is incorrect.",
+        "Final check: correct_option = c — confirmed."
+      ],
+      "upsc_trap_explanation": "The trap in R assigns WPI's historical deflator role to the 'agricultural sector' when it was actually the manufacturing sector. Students who recall 'WPI was used in GDP deflation' but are unsure of the exact sector may accept R as approximately correct, leading to option (a) or (b). The precise sectoral attribution (manufacturing, not agriculture) is the distinguishing knowledge required.",
+      "final_explanation": "The GDP deflator and WPI are frequently confused in examinations, and the distinction between them is conceptually important.\n\nAssertion (A): Correct. The GDP deflator is an implicit price deflator derived from nominal and real GDP — it covers all goods and services produced domestically, including those not in any price index basket. This makes it broader than WPI (goods only) and CPI (household consumption basket). The GDP deflator also captures price changes in investment goods, government expenditure, and net exports — none of which appear in WPI or CPI.\n\nReason (R): Incorrect. WPI was historically used as a deflator for the manufacturing sector in GDP estimation — not the agricultural sector. Agriculture typically uses its own production-based price indices and farm harvest prices for deflation purposes.\n\nSince A is correct and R is incorrect, the answer is option (c).\n\nValue Addition:\n• The shift away from WPI as a GDP deflator is ongoing; India's national accounts now increasingly use CPI and sector-specific price indices.\n• The GDP deflator cannot be used for monetary policy targeting because it is available only quarterly with a significant lag.\n• WPI, CPI, and the GDP deflator can all show different inflation readings simultaneously — each measures a different dimension of price change."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The GDP deflator is a broader measure of economy-wide price changes than the Wholesale Price Index, as it encompasses all goods and services produced in the economy including exports and government services.\n\nReason (R): The Wholesale Price Index was historically used as the price deflator for the agricultural sector in India's GDP estimation, which is why it covers a narrower range of economic activity than the GDP deflator.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0979be87-f3a8-43ba-80be-977e671858e7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Frequency and Data Release Timelines"
+      ],
+      "subject_que_no": 3757,
+      "overall_que_no": 11104
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "WPI revised twice; CPI and WPI release timelines",
+      "statement_analysis": [
+        {
+          "statement": "WPI data is released monthly, typically about two weeks after the reference month ends.",
+          "verdict": "Correct",
+          "reason": "WPI is released monthly with a shorter lag of approximately two weeks after the month end — a key feature of its publication timeline."
+        },
+        {
+          "statement": "CPI data is released monthly, typically 12-14 days after the reference month ends by MoSPI.",
+          "verdict": "Correct",
+          "reason": "MoSPI releases CPI-Combined monthly, approximately 12-14 days after the month end — comparable in timing to WPI release."
+        },
+        {
+          "statement": "WPI data goes through only one revision cycle — from provisional to final — before the numbers are confirmed.",
+          "verdict": "Incorrect",
+          "reason": "WPI data undergoes two revisions: first from provisional to first revision, then from first revision to final. This two-stage revision process is a distinguishing feature of WPI's data publication methodology."
+        },
+        {
+          "statement": "Because both WPI and CPI are released within two weeks of month-end, policymakers can use both indices simultaneously for real-time inflation assessment.",
+          "verdict": "Correct",
+          "reason": "Both indices have broadly similar release timelines (~2 weeks post-month-end), enabling contemporaneous monitoring. The statement is accurate in its factual claim about simultaneity of release."
+        }
+      ],
+      "strong_distractor": "c — Option c ('Only three') is a strong distractor; students who correctly identify Statement 3 as wrong but also incorrectly mark Statement 4 as wrong (assuming some restriction on simultaneous use) will select 'only two' instead.",
+      "elimination_logic": [
+        "Statement 1: WPI released ~2 weeks after month end — correct.",
+        "Statement 2: CPI released 12-14 days after month end — correct.",
+        "Statement 3: WPI undergoes two revisions (provisional → first revision → final), not one — incorrect as stated.",
+        "Statement 4: Both released within ~2 weeks; simultaneous monitoring is accurate — correct.",
+        "Three statements correct (1, 2, 4); one incorrect (3) — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the planted trap. The word 'only one revision cycle' is the error — WPI actually goes through two revision rounds before data is finalised. Students who recall 'WPI data gets revised' but do not know the specific number of revision cycles may mark Statement 3 as correct, arriving at 'all four' and selecting option (d). The distinction between a single-revision and double-revision process is a precise fact that separates well-prepared candidates.",
+      "final_explanation": "Data release timelines and revision procedures for WPI and CPI are testable specifics that UPSC has touched on in economy-focused questions.\n\n• Statement 1 — Correct: WPI monthly release with ~2-week lag is standard practice.\n• Statement 2 — Correct: CPI-Combined is released by MoSPI within 12-14 days after month end.\n• Statement 3 — Incorrect: WPI data undergoes two revision cycles — provisional data is first revised to the 'first revision' and then to 'final' data. A single-revision claim understates the process.\n• Statement 4 — Correct: The near-simultaneous monthly release of both indices enables concurrent inflation monitoring, though policymakers weight CPI far more heavily for formal decisions.\n\nOnly three statements are correct — option (c).\n\nValue Addition:\n• WPI's two-stage revision matters because provisional data can differ materially from final readings, affecting month-to-month comparisons.\n• CPI revision procedures are less elaborately structured than WPI's two-stage process.\n• The ~2-week lag for both indices is significantly shorter than the quarterly GDP data lag, making both useful for high-frequency economic monitoring."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the data release and revision procedures for India's CPI and WPI:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "WPI data is released monthly, typically about two weeks after the reference month ends."
+          ],
+          [
+            "2",
+            "CPI data is released monthly, typically 12-14 days after the reference month ends by MoSPI."
+          ],
+          [
+            "3",
+            "WPI data goes through only one revision cycle — from provisional to final — before the numbers are confirmed."
+          ],
+          [
+            "4",
+            "Because both WPI and CPI are released within two weeks of month-end, policymakers can use both indices simultaneously for real-time inflation assessment."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "33d2dc3d-ab7c-4132-9c36-2d4387446029",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Historical Policy Shift: From WPI to CPI as Monetary Policy Anchor"
+      ],
+      "subject_que_no": 3758,
+      "overall_que_no": 11105
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Urjit Patel Committee recommended CPI as RBI anchor, not other committees",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is a strong distractor because Narasimham Committee is strongly associated with RBI-related banking sector reforms, making it seem plausible as the body that reformed monetary policy frameworks as well.",
+      "elimination_logic": [
+        "Eliminate option (b): The Chakravarty Committee (1985) dealt with monetary targeting using money supply — a pre-liberalisation framework unrelated to the 2014 CPI targeting recommendation.",
+        "Eliminate option (c): The Narasimham Committee focused on financial sector and banking reforms (1991, 1998) — not inflation targeting or monetary policy anchors.",
+        "Eliminate option (d): The Kelkar Committee dealt with fiscal consolidation and tax reforms — unrelated to monetary policy framework design.",
+        "Retain option (a): The Urjit Patel Committee (2014) specifically recommended CPI as the nominal anchor for RBI's monetary policy, leading to the formalisation of the Flexible Inflation Targeting framework."
+      ],
+      "upsc_trap_explanation": "The Narasimham Committee is the most powerful distractor because it is strongly linked to RBI and financial sector reforms in student memory. Students who associate 'major RBI-related committee' with Narasimham will select option (c). The Chakravarty Committee also traps students who know it dealt with monetary policy but forget it predates inflation targeting by decades. Only students who specifically recall 'Urjit Patel Committee 2014 = CPI targeting' will be protected from both traps.",
+      "final_explanation": "The committee attribution for India's shift to CPI-based inflation targeting is a high-frequency UPSC fact.\n\n• Option (a) — Correct: The Urjit Patel Committee (formally, the Expert Committee to Revise and Strengthen the Monetary Policy Framework) submitted its report in January 2014 recommending CPI-Combined as the nominal anchor, a 4% target with ±2% band, and a structured Monetary Policy Committee.\n• Option (b) — Incorrect: The Chakravarty Committee (1985) recommended a monetary targeting framework using broad money (M3) — a very different approach from inflation targeting, and decades earlier.\n• Option (c) — Incorrect: The Narasimham Committee focused on banking sector reforms and financial system restructuring (1991 and 1998), not monetary policy framework design.\n• Option (d) — Incorrect: The Kelkar Committee is associated with fiscal consolidation, direct tax reform, and FRBM-related recommendations.\n\nValue Addition:\n• Urjit Patel later became RBI Governor (2016-2018), implementing the very framework his committee recommended.\n• The committee's recommendation was non-binding until the 2016 RBI Act amendment gave it statutory force.\n• Pre-2014, RBI informally watched WPI — no single committee had formalised a different anchor."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which committee's recommendations formed the basis for the Reserve Bank of India's formal adoption of CPI-Combined as the nominal anchor for monetary policy, replacing the informal practice of monitoring the Wholesale Price Index?\n\n(a) Urjit Patel Committee (2014)\n(b) Chakravarty Committee (1985)\n(c) Narasimham Committee\n(d) Kelkar Committee",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "27caedfc-8022-4fab-9a0c-e07a39d128a4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Dearness Allowance (DA) Linkage and Wage Indexation",
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined"
+      ],
+      "subject_que_no": 3759,
+      "overall_que_no": 11106
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DA uses CPI-IW; minimum wages use CPI-AL; WPI has no wage indexation role",
+      "statement_analysis": [
+        {
+          "statement": "The Dearness Allowance for central government employees is revised using CPI-Combined (all-India) because it represents the broadest consumer price measure.",
+          "verdict": "Incorrect",
+          "reason": "DA for central government employees is linked to CPI-IW (Industrial Workers), compiled by the Labour Bureau. CPI-Combined is RBI's monetary policy anchor, not the DA benchmark."
+        },
+        {
+          "statement": "Minimum wages for agricultural labourers are periodically revised with reference to CPI-AL (Agricultural Labourers), a separate price index compiled specifically for this population segment.",
+          "verdict": "Correct",
+          "reason": "CPI-AL is compiled by the Labour Bureau and is the designated index for revising minimum wages for agricultural workers in India."
+        },
+        {
+          "statement": "The Wholesale Price Index plays no direct role in wage indexation for any category of workers in India's current framework.",
+          "verdict": "Correct",
+          "reason": "WPI has no formal wage indexation role in India. All wage-linked indexation mechanisms (DA for central employees, minimum wages for agricultural/rural workers) use CPI variants, not WPI."
+        }
+      ],
+      "strong_distractor": "a — Option a is a strong distractor because students who confidently know WPI is irrelevant to wages (Statement 3) and agricultural wages use CPI-AL (Statement 2) may not carefully verify Statement 1 and miss the CPI-IW vs CPI-Combined confusion.",
+      "elimination_logic": [
+        "Statement 1: DA for central government employees uses CPI-IW, not CPI-Combined. Statement 1 is incorrect.",
+        "Statement 2: CPI-AL is specifically used for agricultural minimum wage revision — correct.",
+        "Statement 3: WPI has no wage indexation role in India's current policy framework — correct.",
+        "Statements 2 and 3 are correct — select option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 1 is the planted trap. CPI-Combined sounds like the most logical choice for DA calculation — it is the 'official', broadest, and most policy-relevant CPI. However, DA has historically been linked to CPI-IW, compiled by the Labour Bureau specifically for industrial workers. The institutional separation between MoSPI (compiles CPI-Combined for RBI) and Labour Bureau (compiles CPI-IW for DA) is the precise knowledge students must retain.",
+      "final_explanation": "India's wage indexation system is administratively segmented, with different CPI variants assigned to different worker categories.\n\n• Statement 1 — Incorrect: DA for central government employees and pensioners is linked to CPI-IW (Industrial Workers), not CPI-Combined. CPI-IW has a base year of 2016 and is compiled by the Labour Bureau. The 7th Pay Commission retained this linkage.\n• Statement 2 — Correct: CPI-AL is the designated index for agricultural minimum wage determination. It tracks prices relevant to the consumption basket of agricultural labourers.\n• Statement 3 — Correct: WPI has no wage indexation function in India. Its role is limited to measuring wholesale price trends, industrial cost monitoring, and historically as a deflator — not as a wage benchmark for any worker category.\n\nValue Addition:\n• CPI-IW base year revised from 2001 to 2016 — a significant recent update.\n• DA is revised twice a year: effective January 1 and July 1, based on CPI-IW movements over the preceding 12 months.\n• CPI-RL (Rural Labourers) is used alongside CPI-AL for rural non-agricultural minimum wage revisions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about India's wage indexation mechanisms and their linkage to price indices:\n\n1. The Dearness Allowance for central government employees is revised using CPI-Combined (all-India) because it represents the broadest consumer price measure.\n2. Minimum wages for agricultural labourers are periodically revised with reference to CPI-AL (Agricultural Labourers), a separate price index compiled specifically for this population segment.\n3. The Wholesale Price Index plays no direct role in wage indexation for any category of workers in India's current framework.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 1, 2 and 3\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3fba4762-ba0f-4a3f-9bd6-e440f585ded0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Seasonal Adjustment and Volatility Differences",
+        "Core Inflation vs Headline Inflation in CPI Context"
+      ],
+      "subject_que_no": 3760,
+      "overall_que_no": 11107
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Seasonal food CPI spikes do not automatically warrant rate hikes if core stable",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because CPI breaching the upper band sounds like an automatic trigger for rate action, and students who know the MPC mandate may assume any sustained CPI breach requires a hike.",
+      "elimination_logic": [
+        "Eliminate option (a): A seasonal spike in vegetable prices is a supply-side shock; if core CPI (ex-food, ex-fuel) is stable, this does not signal demand-side pressure warranting rate hikes.",
+        "Eliminate option (b): Immediately lowering rates when headline CPI is high (even if driven by food) contradicts the MPC's price stability mandate and is not standard RBI practice.",
+        "Eliminate option (d): WPI remaining low while CPI spikes is a common divergence; the scenario does not indicate a need to abandon the CPI target — this option misapplies the divergence concept.",
+        "Retain option (c): RBI's framework allows monitoring core CPI to distinguish supply-driven food inflation from demand-driven generalised inflation. Stable core CPI during a vegetable price spike signals no rate action is warranted — the food spike is transitory."
+      ],
+      "upsc_trap_explanation": "The scenario is designed to test whether students understand the distinction between headline CPI (policy target) and core CPI (diagnostic tool). Students who mechanically apply 'CPI high = rate hike' will select option (a). The RBI's actual analytical framework distinguishes supply-side seasonal spikes (which are transitory and do not require monetary response) from demand-driven core inflation (which does). This nuance is the applied knowledge being tested.",
+      "final_explanation": "This scenario tests the application of RBI's analytical framework for distinguishing between types of inflation.\n\nApplicable principle: RBI targets headline CPI formally, but uses core CPI (CPI excluding food and fuel) to assess whether inflation is demand-driven and persistent. A seasonal, supply-side food price spike — even if it briefly pushes headline CPI above the 6% band — does not automatically justify a rate hike if core CPI remains stable, because the pressure is transitory and monetary policy cannot address supply disruptions.\n\n• Option (a) — Incorrect: Rate hikes are appropriate for demand-driven inflation. A seasonal vegetable price spike is supply-driven and transitory — rate action would be ineffective and counterproductive.\n• Option (b) — Incorrect: Lowering rates when headline CPI is elevated contradicts the MPC's price stability mandate, regardless of the cause.\n• Option (c) — Correct: Monitoring core CPI stability during a food price spike is the standard RBI analytical approach. If core is stable, the MPC can 'look through' the spike without tightening.\n• Option (d) — Incorrect: WPI remaining subdued during a CPI food spike is a normal divergence reflecting composition differences. This does not mean the CPI target should be abandoned.\n\nValue Addition:\n• 'Looking through' supply shocks is a standard feature of flexible inflation targeting frameworks globally.\n• The MPC considers a 3-quarter sustained breach before formal reporting obligations are triggered.\n• Kharif and rabi harvest outcomes are the most significant seasonal drivers of CPI volatility in India."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Due to a delayed monsoon affecting kharif output, retail vegetable prices surge sharply in October, pushing India's headline CPI to 6.8% — above the upper tolerance band of the Flexible Inflation Targeting framework. However, core CPI (CPI excluding food and fuel) remains stable at 4.1%, and the Wholesale Price Index for the same month is at 2.3%. The Monetary Policy Committee meets to deliberate. Which of the following approaches is most consistent with the RBI's analytical framework for such situations?\n\n(a) Immediately raise the repo rate to signal commitment to the inflation target, since headline CPI has breached the upper band\n(b) Lower interest rates to stimulate agricultural supply and resolve the food price shock at its source\n(c) Monitor core CPI stability closely before deciding on rate action, recognising that the food price spike may be transitory and supply-driven rather than demand-driven\n(d) Abandon CPI as the policy target temporarily and switch to WPI, which remains within acceptable limits",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "00fe5fe2-ae77-4e11-9ec0-6111f4f7f7cb",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Impact of Taxes and Subsidies on WPI vs CPI Measurement",
+        "Producer Price Index (PPI) as a Proposed Replacement for WPI"
+      ],
+      "subject_que_no": 3761,
+      "overall_que_no": 11108
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "WPI includes indirect taxes; PPI proposed to exclude them",
+      "statement_analysis": [
+        {
+          "statement": "India's Wholesale Price Index includes indirect taxes such as GST in the prices it measures, which means WPI does not represent a pure producer price signal.",
+          "verdict": "Correct",
+          "reason": "WPI prices include indirect taxes (GST, excise duties), making WPI a measure of transaction prices at the wholesale stage rather than a pure producer price. This is why WPI is not equivalent to PPI, which by design excludes indirect taxes."
+        },
+        {
+          "statement": "As of 2024, India has formally replaced the Wholesale Price Index with the Producer Price Index as its official measure of wholesale-level inflation.",
+          "verdict": "Incorrect",
+          "reason": "India has NOT officially adopted PPI as of 2024. Despite multiple committee recommendations (including the Abhijit Sen Working Group), WPI continues to be the official index for measuring wholesale-level price changes."
+        }
+      ],
+      "strong_distractor": "a — Option a is a strong distractor because students who know PPI has been recommended and that discussions have been ongoing for years may assume the switch has been completed, marking both statements as correct.",
+      "elimination_logic": [
+        "Verify Statement 1: WPI includes indirect taxes in its price measurement — this is factually correct and distinguishes WPI from PPI.",
+        "Verify Statement 2: India has not formally adopted PPI as of 2024 — WPI remains the official wholesale price index. Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a classic UPSC plausible-fabrication trap. PPI has been recommended by multiple expert bodies and discussed extensively in economic policy circles for over a decade. Students who follow economic news casually may remember 'PPI is replacing WPI' as a headline without retaining the crucial fact that as of 2024, this replacement has not been formally implemented. The trap exploits the gap between policy recommendation and policy implementation.",
+      "final_explanation": "The distinction between WPI and PPI hinges on tax treatment and official adoption status — two distinct testable dimensions.\n\n• Statement 1 — Correct: WPI prices are transaction prices at the wholesale stage, which include indirect taxes levied on goods (GST, excise). This means WPI is not a pure measure of prices received by producers — it is inflated by tax components. This is why economists argue WPI overstates the producer price signal and PPI would be superior.\n• Statement 2 — Incorrect: India has not formally replaced WPI with PPI as of 2024. WPI remains operational and officially published by the Office of the Economic Adviser. The Abhijit Sen Working Group and other bodies have recommended PPI adoption, but no formal switchover has occurred.\n\nCorrect relationship: Statement 1 correct, Statement 2 incorrect — option (c).\n\nValue Addition:\n• PPI's design excludes indirect taxes, capturing prices actually received by producers — a conceptually cleaner signal.\n• The transition to PPI requires significant methodological and data collection infrastructure, explaining the delay.\n• IMF and UN System of National Accounts (SNA) recommend PPI over WPI for international comparability."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding India's price measurement indices:\n\nStatement 1: India's Wholesale Price Index includes indirect taxes such as GST in the prices it measures, which means WPI does not represent a pure producer price signal.\n\nStatement 2: As of 2024, India has formally replaced the Wholesale Price Index with the Producer Price Index as its official measure of wholesale-level inflation.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3a0aa182-a80f-4d0d-9973-376ed7bd0248",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Inflation Targeting Framework and CPI's Legal Mandate",
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined"
+      ],
+      "subject_que_no": 3762,
+      "overall_que_no": 11109
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "FIT target is 4% CPI with ±2% band; 3-quarter breach triggers report",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because '2% with ±1% band' mirrors the inflation targeting norms of advanced economies like the US Federal Reserve (2% target), making it sound authoritative for a student who conflates global and Indian norms.",
+      "elimination_logic": [
+        "Eliminate option (a): India's CPI target is 4%, not 2% — the US Fed's 2% target is a common cross-contamination error.",
+        "Eliminate option (b): The tolerance band is ±2% (giving a range of 2%-6%), not ±1%. A ±1% band would give 3%-5%, which is not India's framework.",
+        "Eliminate option (d): Five consecutive quarters is not the threshold — the RBI Act specifies three consecutive quarters as the trigger for mandatory reporting.",
+        "Retain option (c): India's FIT framework sets the target at 4% CPI with a ±2% tolerance band, and a breach for three consecutive quarters triggers the RBI's obligation to report to the government."
+      ],
+      "upsc_trap_explanation": "Option (a) exploits cross-contamination from awareness of the US Federal Reserve's 2% inflation target. Students who are well-read in global monetary policy but imprecise about India's specific numbers frequently make this error. The '±1% band' in option (b) similarly sounds conservative and precise — it is wrong because India's band is ±2%, which is wider and reflects the higher structural volatility of India's food-heavy CPI.",
+      "final_explanation": "The numerical specifics of India's Flexible Inflation Targeting framework are a direct UPSC-testable fact.\n\n• Option (a) — Incorrect: India's CPI target is 4%, not 2%. The 2% figure is associated with the US Federal Reserve and the European Central Bank, not India's RBI.\n• Option (b) — Incorrect: India's tolerance band is ±2%, making the operational range 2%–6%. A ±1% band (giving 3%–5%) does not apply to India.\n• Option (c) — Correct: The RBI Act (as amended in 2016) specifies 4% CPI with a ±2% band. Breach of the 6% upper limit or failure to achieve 2% lower limit for three consecutive quarters triggers a mandatory explanatory report from RBI to the government.\n• Option (d) — Incorrect: The threshold is three consecutive quarters, not five. Five quarters would substantially delay accountability and is not part of the framework.\n\nValue Addition:\n• The 2%–6% range is sometimes described as the 'comfort zone' for Indian monetary policy.\n• Lower band (2%) breach — persistent deflation — also triggers reporting obligations.\n• The MPC was constituted under Section 45ZB of the RBI Act, 1934."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under India's Flexible Inflation Targeting framework formalised through the Reserve Bank of India Act amendment, the Monetary Policy Committee is mandated to maintain CPI inflation at ________ with a tolerance band of ________, and a sustained breach of this limit for ________ consecutive quarters obligates RBI to submit an explanatory report to the Central Government.\n\n(a) 2%, ±1%, three\n(b) 4%, ±1%, three\n(c) 4%, ±2%, three\n(d) 4%, ±2%, five",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9c5b5e00-b7d4-4855-8a6e-e2bdb885b600",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Price Stage Captured: Producer vs Consumer Level",
+        "Divergence Between CPI and WPI: Causes and Implications"
+      ],
+      "subject_que_no": 3763,
+      "overall_que_no": 11110
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "WPI as leading indicator of future CPI through supply chain",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is a strong distractor because it correctly identifies WPI as measuring wholesale prices but then reverses the causal direction, claiming WPI is a lagging indicator — students who are uncertain about the lead-lag relationship may select this.",
+      "elimination_logic": [
+        "Evaluate option (a): WPI captures prices at the first commercial transaction point; wholesale price pressures transmit downstream to retail over time, making WPI a leading indicator for CPI — this is correctly stated.",
+        "Evaluate option (b): CPI captures retail consumer prices — the final stage. Claiming CPI is a leading indicator of WPI reverses the supply chain direction — incorrect.",
+        "Evaluate option (c): WPI as a lagging indicator of CPI reverses the actual causal direction — incorrect.",
+        "Evaluate option (d): The claim that supply chain margins cause CPI to always be lower than WPI is false — typically CPI > WPI due to added distribution costs and margins. Incorrect.",
+        "Only option (a) is correctly matched — select (a)."
+      ],
+      "upsc_trap_explanation": "Option (c) reverses the lead-lag relationship. Students who know that WPI and CPI diverge but are uncertain which leads the other may select option (c) — especially because in some macroeconomic contexts (like demand-pull inflation), consumer prices can rise before producers raise wholesale prices. However, in India's standard supply-chain transmission, wholesale price increases precede retail price increases, establishing WPI as the leading indicator.",
+      "final_explanation": "The price-stage sequencing of WPI and CPI has important implications for monetary policy signalling.\n\n• Option (a) — Correctly matched: WPI measures prices at the first point of commercial transaction (producer/wholesale level). Wholesale price increases typically transmit downstream through distributors, wholesalers, and retailers to final consumers over a lag — making WPI a leading indicator of future retail (CPI) inflation.\n• Option (b) — Incorrectly matched: CPI measures final consumer retail prices — the last stage of the supply chain. It cannot lead WPI in the upstream direction.\n• Option (c) — Incorrectly matched: This reverses the directional relationship. WPI is an upstream indicator; calling it 'lagging' to CPI inverts the supply-chain logic.\n• Option (d) — Incorrectly matched: Supply chain margins, taxes, and transportation costs are added between wholesale and retail stages — making CPI typically higher than WPI, not lower.\n\nValue Addition:\n• The lag between WPI and CPI transmission can range from a few weeks to several months depending on the sector.\n• For perishables, WPI-to-CPI transmission is near-instantaneous; for manufactured goods, it takes longer.\n• Monitoring WPI gives RBI an early warning signal of potential retail inflation before it appears in CPI data."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched in terms of the price-stage relationship between India's Wholesale Price Index and Consumer Price Index?\n\n(a) WPI — measures prices at the first commercial transaction point and functions as a leading indicator of future consumer price inflation\n(b) CPI — measures retail prices at the consumer stage and functions as a leading indicator of future wholesale price movements\n(c) WPI — measures wholesale prices and functions as a lagging indicator that trails consumer price movements by several months\n(d) CPI — is typically lower than WPI because supply chain margins reduce the retail price below the wholesale transaction price",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "971229cc-d008-470b-adfb-0c73b2811794",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Structural Composition of CPI vs WPI Baskets",
+        "Absence of Services in WPI — A Critical Structural Gap",
+        "Number of Items Tracked: Coverage Breadth Comparison",
+        "WPI as a Deflator and Its Use in GDP Calculation"
+      ],
+      "subject_que_no": 3764,
+      "overall_que_no": 11111
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "partial-truth",
+      "concept_anchor": "WPI three-group structure and GDP deflator breadth",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is a strong distractor because it correctly matches manufactured products with WPI (which students know) but then swaps GDP deflator and services coverage, exploiting uncertainty about whether the GDP deflator 'covers' services in the same way CPI does.",
+      "elimination_logic": [
+        "Match A (Manufactured products ~64% weight) — WPI: Manufactured products are the dominant group in WPI at ~64% — matches with 3.",
+        "Match B (Services including health, rent, education) — CPI: Services are captured only in CPI, not WPI — matches with 1.",
+        "Match C (GDP deflator) — covers all goods and services in the economy including exports and government services — matches with 4.",
+        "Match D (Primary articles and fuel & power groups) — These are the other two groups of WPI alongside manufactured products — matches with 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 — select option (b)."
+      ],
+      "upsc_trap_explanation": "The trap is in matching item C (GDP deflator). Students who know WPI was used as a deflator in GDP estimation may incorrectly pair GDP deflator with WPI-related descriptions. The GDP deflator, however, is a broader implicit price index derived from nominal and real GDP — it covers exports, imports, government services, and investment goods that appear in neither WPI nor CPI. Option (c) exploits this by correctly placing A and B but swapping the C-D matches.",
+      "final_explanation": "This question integrates basket composition knowledge with understanding of how different price measures fit into the macroeconomic framework.\n\nCorrect matches:\n• A (Manufactured products ~64% weight) — 3 (WPI): Manufactured products are the single largest group in WPI, accounting for approximately 64% of the index weight.\n• B (Services including health, rent, education) — 1 (CPI-Combined): Services constitute 50%+ of CPI weight. They have no presence in WPI.\n• C (Implicit price index covering all domestically produced goods and services) — 4 (GDP Deflator): The GDP deflator is derived from the ratio of nominal to real GDP. It covers everything in the national accounts — investment, government expenditure, exports, imports — making it broader than both WPI and CPI.\n• D (Primary articles and fuel & power groups) — 2 (WPI's remaining two groups): WPI's three groups are: (i) Primary Articles, (ii) Fuel & Power, (iii) Manufactured Products. Items A and D together describe WPI's complete structure.\n\nValue Addition:\n• GDP deflator is not published as a standalone index — it is derived from GDP data and available quarterly.\n• WPI's three-group structure has remained unchanged through revisions; only item weights and specific commodities are updated.\n• The distinction between GDP deflator and WPI is a recurring source of exam confusion."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Manufactured products with approximately 64% weight",
+            "1. CPI-Combined"
+          ],
+          [
+            "B. Services including health, rent, and education",
+            "2. The other two component groups of the same index as A"
+          ],
+          [
+            "C. Implicit price index covering all domestically produced goods and services including exports",
+            "3. WPI"
+          ],
+          [
+            "D. Primary articles and fuel & power groups",
+            "4. GDP Deflator"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-1, C-2, D-4\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-4, C-1, D-2\n(d) A-1, B-3, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "27948c87-96d6-4093-8ea5-0d33438e730e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Food Inflation Measurement: Differences in Scope and Weight",
+        "Core Inflation vs Headline Inflation in CPI Context"
+      ],
+      "subject_que_no": 3765,
+      "overall_que_no": 11112
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Core CPI excludes food and fuel; high food weight makes CPI monsoon-sensitive",
+      "statement_analysis": [
+        {
+          "statement": "A deficient monsoon affecting kharif crops would raise India's headline CPI more sharply than WPI because food articles carry a substantially higher weight in CPI than in WPI.",
+          "verdict": "Correct",
+          "reason": "Food weight in CPI (~45-46%) is nearly double that in WPI (~24%), so the same proportional food price increase feeds through to CPI headline figures far more intensely than to WPI."
+        },
+        {
+          "statement": "Core CPI, which excludes food and fuel components, is the official inflation target used by the RBI under the Flexible Inflation Targeting framework.",
+          "verdict": "Incorrect",
+          "reason": "The RBI's official FIT target is headline CPI (CPI-Combined, all items), not core CPI. Core CPI is used as a diagnostic monitoring tool to assess demand-side pressures but is not the formal target."
+        },
+        {
+          "statement": "WPI does not have a formally defined 'core' counterpart that is used in RBI's monetary policy communications or in official Indian economic discourse.",
+          "verdict": "Correct",
+          "reason": "Unlike CPI, where core CPI (ex-food, ex-fuel) is a recognised and regularly cited concept, there is no equivalent 'core WPI' measure used in RBI policy statements or official Indian inflation analysis."
+        }
+      ],
+      "strong_distractor": "d — Option d is a strong distractor because students who know core CPI is important to RBI analysis may incorrectly conclude it is the formal target, making all three statements appear correct.",
+      "elimination_logic": [
+        "Statement 1: Food weight ~45% in CPI vs ~24% in WPI — monsoon shock amplifies CPI more. Statement 1 is correct.",
+        "Statement 2: RBI's formal target under FIT is headline CPI (all items), not core CPI. Statement 2 is incorrect.",
+        "Statement 3: No 'core WPI' concept exists in RBI's official communications — correct.",
+        "Statements 1 and 3 correct; Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the trap. Core CPI is indeed important to RBI's analytical framework — it is monitored closely and referenced in MPC minutes. This importance leads students to conflate 'used by RBI' (true) with 'is the formal target' (false). The formal, statutory FIT target is headline CPI-Combined. Core CPI's role is supplementary and diagnostic, not the primary mandate variable.",
+      "final_explanation": "The distinction between RBI's formal target and its analytical tools is a nuance that UPSC-level questions frequently probe.\n\n• Statement 1 — Correct: With food at ~45-46% of CPI but only ~24% of WPI, a monsoon-driven food price spike creates disproportionately larger headline CPI movement than WPI movement. This is why CPI is described as 'monsoon-sensitive' in policy discussions.\n• Statement 2 — Incorrect: Headline CPI (all items, all-India) is the statutory target under the 2016 RBI Act amendment. Core CPI (ex-food, ex-fuel) is a monitoring variable — it helps distinguish demand-pull from supply-push inflation, but breaching the core CPI reading triggers no formal accountability obligation.\n• Statement 3 — Correct: The concept of 'core WPI' has no formal existence in Indian policy. WPI's three groups (primary articles, fuel, manufactured goods) do not yield a widely used 'core' sub-measure in official communications.\n\nValue Addition:\n• The MPC's meeting minutes regularly discuss core CPI trends even though only headline CPI is the formal target.\n• A persistently high core CPI is more worrying to the MPC than a high headline driven solely by food.\n• 'Headline vs core' distinction is also used in global central bank communication (Fed, ECB, Bank of England)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about food inflation measurement and the role of core inflation in India's monetary policy:\n\n1. A deficient monsoon affecting kharif crops would raise India's headline CPI more sharply than WPI because food articles carry a substantially higher weight in CPI than in WPI.\n2. Core CPI, which excludes food and fuel components, is the official inflation target used by the RBI under the Flexible Inflation Targeting framework.\n3. WPI does not have a formally defined 'core' counterpart that is used in RBI's monetary policy communications or in official Indian economic discourse.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7836a4e6-a8e8-4049-869b-0b6dc3131eef",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Rural vs Urban Inflation Dynamics in CPI",
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined"
+      ],
+      "subject_que_no": 3766,
+      "overall_que_no": 11113
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Rural weight ~55% in CPI-Combined; WPI has no rural-urban split",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because both the assertion (rural weight > urban in CPI) and the reason (food price sensitivity) are individually accurate, and the causal link seems obvious — leading students to select (a) without pausing to verify whether food sensitivity fully explains the weighting decision.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? CPI-Combined assigns approximately 55% weight to CPI-Rural and 45% to CPI-Urban — yes, rural weight is higher. A is correct.",
+        "Step 2 — Is R correct? Rural CPI is indeed more volatile due to food price sensitivity and supply constraints in rural distribution networks — R is correct.",
+        "Step 3 — Does R explain A? R explains a consequence of rural weighting (rural CPI being more volatile) but does not explain why the rural weight is set higher. The rural weight is determined by the population share and household consumption expenditure patterns — a demographic and expenditure survey basis, not food price volatility. R identifies an effect of rural weighting, not its cause.",
+        "Both A and R correct but R does not explain A — select option (b)."
+      ],
+      "upsc_trap_explanation": "This is a sophisticated assertion-reason trap where the reason is true but explains the wrong thing. R correctly states that rural CPI is more food-sensitive and volatile — but this is a consequence of rural weighting, not the basis for why rural gets more weight. The weight allocation is based on the National Sample Survey's household consumption expenditure data, which reflects rural India's larger population and consumption share. A student who connects 'rural = food sensitive' with 'therefore rural has higher weight' is reasoning backwards.",
+      "final_explanation": "The weighting methodology for CPI-Combined requires understanding that weights are based on consumption patterns, not price volatility characteristics.\n\nAssertion (A): Correct. CPI-Combined assigns approximately 55% weight to CPI-Rural and 45% to CPI-Urban. This higher rural weight reflects India's demographic reality — a larger rural population with correspondingly higher rural household consumption expenditure.\n\nReason (R): Correct as a standalone observation. Rural CPI is more volatile than Urban CPI, primarily because rural households spend a larger share of income on food, and food prices are subject to seasonal agricultural supply cycles. Supply infrastructure in rural areas also means price shocks are transmitted quickly.\n\nCausal relationship: R does not explain why rural CPI is assigned higher weight. The weight is determined by household consumption expenditure surveys (NSS data), not by price volatility characteristics. R describes an outcome of rural economic conditions — it is not the reason the weight was set at ~55%.\n\nAnswer: option (b).\n\nValue Addition:\n• CPI weights are periodically reviewed using National Sample Survey (NSS) Household Consumption Expenditure data.\n• Urban CPI tends to have more stable, services-driven inflation; rural CPI shows higher food-related seasonal variance.\n• WPI has no equivalent geographic disaggregation — single national wholesale price."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): In India's CPI-Combined (All-India), the rural sub-index is assigned a higher weight than the urban sub-index, making rural price movements more influential in determining overall headline inflation.\n\nReason (R): Rural CPI tends to be more volatile than Urban CPI due to greater food price sensitivity and supply-side constraints in rural distribution networks.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1cd9d542-f3c4-418d-a4f5-ea5acb17ea7f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Compiling Agencies and Institutional Responsibility",
+        "Historical Policy Shift: From WPI to CPI as Monetary Policy Anchor",
+        "Inflation Targeting Framework and CPI's Legal Mandate"
+      ],
+      "subject_que_no": 3767,
+      "overall_que_no": 11114
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Sequence: Pre-2014 WPI informal → Urjit Patel 2014 → RBI Act amendment 2016",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because students who remember '2014' as the key reform year may place the Urjit Patel Committee's report after the 2016 RBI Act amendment, assuming statutory action preceded the committee recommendation.",
+      "elimination_logic": [
+        "Pre-2014: RBI informally targeted WPI — this is the historical starting point with no formal committee recommendation for change yet.",
+        "January 2014: Urjit Patel Committee submits its report recommending CPI as the nominal anchor — the intellectual and policy foundation.",
+        "February 2015: RBI and Government sign the monetary policy framework agreement — formalising the CPI target bilaterally before statutory backing.",
+        "2016: RBI Act amendment gives statutory force to the MPC and CPI target — the last step.",
+        "Correct order: RBI informal WPI targeting → Urjit Patel Committee (2014) → RBI-Govt Agreement (2015) → RBI Act Amendment (2016) — select option (c)."
+      ],
+      "upsc_trap_explanation": "The most dangerous trap is inverting the bilateral RBI-Government agreement (2015) and the RBI Act amendment (2016). Students who remember 'the law came first' may place the statutory amendment before the bilateral agreement, reversing steps 3 and 4. In fact, the bilateral agreement (February 2015) preceded the statutory codification (2016 amendment) — the agreement operated as a policy commitment in the interim period before Parliament acted.",
+      "final_explanation": "The evolution of India's inflation targeting framework proceeded through four logically connected stages.\n\nCorrect sequence:\n1. Pre-2014 — RBI informally used WPI as monetary policy guide: A legacy of India's goods-dominated economy where wholesale prices were considered the primary inflation signal.\n2. January 2014 — Urjit Patel Committee Report: Formally recommended CPI-Combined as the nominal anchor, a 4±2% target, and a Monetary Policy Committee.\n3. February 2015 — RBI-Government of India Monetary Policy Framework Agreement: A bilateral commitment to CPI targeting, which operated as the de facto framework before statutory backing existed.\n4. 2016 — RBI Act Amendment: Parliament amended the RBI Act, 1934 to give statutory force to the MPC, define its composition, and mandate the CPI target.\n\nWrong options that reverse the 2014 committee and 2016 amendment, or place the 2015 agreement after the 2016 amendment, are the primary traps.\n\nValue Addition:\n• The bilateral agreement model (step 3) resembles inflation targeting frameworks in New Zealand and the UK, where government-central bank agreements precede formal legislation.\n• The 2016 amendment inserted Sections 45ZA to 45ZL into the RBI Act.\n• The MPC's first formal meeting under the statutory framework was in October 2016."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Arrange the following developments in India's monetary policy framework in the correct chronological order:\n\n1. RBI Act amended to give statutory backing to the Monetary Policy Committee and CPI inflation target\n2. Urjit Patel Committee submits report recommending CPI as nominal anchor for RBI\n3. RBI and Government of India sign a formal monetary policy framework agreement formalising CPI targeting\n4. RBI informally monitors WPI as the primary inflation indicator for monetary policy decisions\n\n(a) 4 → 2 → 1 → 3\n(b) 4 → 1 → 2 → 3\n(c) 4 → 2 → 3 → 1\n(d) 2 → 4 → 3 → 1",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0e3f3825-0e44-4d90-8f2c-31c1807019c1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Divergence Between CPI and WPI: Causes and Implications",
+        "Treatment of Imports and Traded Commodities in WPI vs CPI"
+      ],
+      "subject_que_no": 3768,
+      "overall_que_no": 11115
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Supply chain margins cause CPI > WPI typically; divergence signals specific conditions",
+      "statement_analysis": [
+        {
+          "statement": "Supply chain margins, transportation costs, and indirect taxes ensure that CPI is typically higher than WPI for the same commodity.",
+          "verdict": "Correct",
+          "reason": "Distribution costs, retailer margins, and taxes are layered between the wholesale and retail stages, making retail prices (CPI) structurally higher than wholesale prices (WPI) for the same goods."
+        },
+        {
+          "statement": "When WPI exceeds CPI, it invariably signals that supply chain inefficiency has broken down and consumers are benefiting from lower retail prices than wholesale prices.",
+          "verdict": "Incorrect",
+          "reason": "WPI exceeding CPI typically occurs during commodity price spikes (crude oil, metals) at the global wholesale level that have not yet passed through to retail consumers — it signals a pass-through lag or administered pricing, not a breakdown in supply chain logic where consumers benefit directly."
+        },
+        {
+          "statement": "A scenario where WPI is negative and CPI is positive can occur in practice and is indicative of either retail price stickiness or the dominance of non-traded services in the CPI basket.",
+          "verdict": "Correct",
+          "reason": "This occurred in India in 2015-16: global commodity price declines pushed WPI negative while non-traded services (which form a large share of CPI) and food prices kept CPI positive. Retail price stickiness also prevents full transmission of wholesale deflation."
+        }
+      ],
+      "strong_distractor": "b — Option b is a strong distractor because students who correctly identify Statement 2 as wrong (WPI > CPI does not mean consumers benefit) may also suspect Statement 3 as counterintuitive (WPI negative, CPI positive seems paradoxical) and mark both as incorrect.",
+      "elimination_logic": [
+        "Check Statement 1: Distribution costs and taxes layer between wholesale and retail — CPI typically exceeds WPI for the same commodity. Statement 1 is correct.",
+        "Check Statement 2: WPI exceeding CPI reflects upstream commodity shocks not yet passed to consumers — it does not mean consumers benefit or supply chains have broken down. Statement 2 is incorrect.",
+        "Check Statement 3: Negative WPI with positive CPI occurred in India in 2015-16 — this is a documented empirical event explained by service-price stickiness and non-traded components. Statement 3 is correct.",
+        "Only Statement 2 is NOT correct — select option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2 contains a reversed-causation error. When WPI > CPI, it means wholesale prices are higher than retail — which is unusual and typically signals that commodity price spikes at the global level have not yet been fully passed on to consumers (pass-through lag). The statement incorrectly characterises this as 'consumers benefiting' — in reality, it signals future CPI increases as the pass-through works its way downstream. Students who apply surface logic ('wholesale higher than retail = consumers pay less') fall for this trap.",
+      "final_explanation": "Understanding when and why WPI and CPI diverge — and what each scenario implies — is a sophisticated policy question.\n\n• Statement 1 — Correct: CPI > WPI is the normal condition for most commodities because distribution, storage, transportation, retailer margins, and taxes are all added between the two price stages.\n• Statement 2 — Incorrect: WPI exceeding CPI typically occurs when global commodity prices spike sharply (crude oil, base metals, industrial inputs) and the wholesale market immediately reflects these prices, but retail pass-through is delayed — either because of administered pricing, long-term supply contracts, or retailers absorbing the cost temporarily. Consumers are NOT benefiting; they face imminent price increases.\n• Statement 3 — Correct: Negative WPI with positive CPI is an empirically observed phenomenon in India (2015-16). Services (health, education, rent, transport) form a large non-tradeable component of CPI that is unaffected by global commodity deflation, keeping CPI positive even as goods-only WPI goes negative.\n\nValue Addition:\n• 2015-16 WPI was negative for over 12 consecutive months — a historic episode tied to crude oil collapse.\n• Pass-through lags from WPI to CPI vary by commodity: fuel (faster), food (faster), manufactured goods (slower).\n• Administered pricing of petroleum products was a major buffer preventing full WPI deflation from reaching CPI."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the relationship between CPI and WPI readings and what their divergence signals:\n\n1. Supply chain margins, transportation costs, and indirect taxes ensure that CPI is typically higher than WPI for the same commodity.\n2. When WPI exceeds CPI, it invariably signals that supply chain inefficiency has broken down and consumers are benefiting from lower retail prices than wholesale prices.\n3. A scenario where WPI is negative and CPI is positive can occur in practice and is indicative of either retail price stickiness or the dominance of non-traded services in the CPI basket.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ae41417c-72b0-4798-916f-bb6101c486e4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Producer Price Index (PPI) as a Proposed Replacement for WPI",
+        "Impact of Taxes and Subsidies on WPI vs CPI Measurement"
+      ],
+      "subject_que_no": 3769,
+      "overall_que_no": 11116
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Abhijit Sen Working Group recommended PPI; India not yet adopted PPI",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because the Y.V. Reddy Committee is associated with major RBI-related financial sector recommendations, making it sound authoritative as the body behind WPI reform.",
+      "elimination_logic": [
+        "Eliminate option (a): The Rangarajan Committee is associated with poverty estimation and rural development — not index design or WPI reform.",
+        "Eliminate option (b): The Y.V. Reddy Committee relates to financial sector regulation — not a known body for recommending PPI adoption.",
+        "Eliminate option (c): The Niti Aayog Sub-Group is a plausible-fabrication — no such specific body is documented as recommending PPI adoption for India.",
+        "Retain option (d): The Abhijit Sen Working Group is the documented expert body that formally recommended India adopt PPI in place of WPI."
+      ],
+      "upsc_trap_explanation": "This question tests knowledge of the specific institutional source of the PPI recommendation — a detail that distinguishes deep preparedness from general awareness. Options (a), (b), and (c) are all plausible committee names associated with Indian economic policy — they exploit the difficulty of attributing specific recommendations to specific committees. The Y.V. Reddy Committee is particularly deceptive because of its strong association with RBI-era economic policy.",
+      "final_explanation": "The institutional attribution of the PPI recommendation is a precise, testable fact in the CPI-WPI topic.\n\n• Option (a) — Incorrect: The Rangarajan Committee is known for poverty line estimation and agricultural credit — not price index methodology reform.\n• Option (b) — Incorrect: No documented Y.V. Reddy Committee exists that recommended PPI adoption. Y.V. Reddy is primarily associated with financial sector and RBI governorship-era banking policies.\n• Option (c) — Incorrect: The Niti Aayog Sub-Group described in this option is a plausible-fabrication. No such specifically named body is the authoritative source for the PPI recommendation.\n• Option (d) — Correct: The Abhijit Sen Working Group formally recommended that India replace WPI with PPI. The recommendation was grounded in the argument that PPI, by excluding indirect taxes, provides a cleaner signal of prices actually received by producers — a feature absent in WPI.\n\nValue Addition:\n• PPI adoption remains pending as of 2024 — methodological and data collection challenges continue to delay implementation.\n• PPI's alignment with UN System of National Accounts (SNA) standards makes it attractive for international economic comparability.\n• WPI continues to be released monthly by OEA as the official wholesale price measure."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which expert body formally recommended that India replace the Wholesale Price Index with a Producer Price Index as a more accurate measure of domestic producer-level price changes?\n\n(a) Rangarajan Committee on Agricultural Credit and Rural Development\n(b) Y.V. Reddy Committee on Financial Sector Regulation\n(c) Niti Aayog Sub-Group on Price Statistics Modernisation\n(d) Abhijit Sen Working Group",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b0e24ea2-fe38-4956-9f8f-896d8346f76c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Structural Composition of CPI vs WPI Baskets",
+        "Absence of Services in WPI — A Critical Structural Gap",
+        "Food Inflation Measurement: Differences in Scope and Weight",
+        "Rural vs Urban Inflation Dynamics in CPI"
+      ],
+      "subject_que_no": 3770,
+      "overall_que_no": 11117
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "CPI vs WPI basket composition facts accuracy check",
+      "statement_analysis": [
+        {
+          "statement": "Food articles account for approximately 45-46% of the CPI basket but only around 24% of the WPI basket.",
+          "verdict": "Correct",
+          "reason": "This is the established weight differential — food's share in CPI is nearly double that in WPI, with significant implications for how supply shocks transmit into each index."
+        },
+        {
+          "statement": "The rural component of CPI-Combined carries a weight of approximately 55%, while the urban component carries approximately 45%.",
+          "verdict": "Correct",
+          "reason": "CPI-Rural (weight ~55%) and CPI-Urban (~45%) together constitute CPI-Combined, with rural receiving the higher weight reflecting India's larger rural population and expenditure share."
+        },
+        {
+          "statement": "Services such as education, health, and housing are excluded from both CPI and WPI because they are difficult to price at a standardised level.",
+          "verdict": "Incorrect",
+          "reason": "Services are excluded from WPI (which covers only goods) but are a major component of CPI, accounting for over 50% of the CPI basket. The claim that both indices exclude services is factually wrong."
+        },
+        {
+          "statement": "Manufactured products constitute approximately 64% of WPI but have a significantly smaller share in the CPI basket.",
+          "verdict": "Correct",
+          "reason": "Manufactured products dominate WPI at ~64%. In CPI, manufactured goods are a minor share as the basket is weighted heavily towards food, services, and fuel in the household consumption context."
+        }
+      ],
+      "strong_distractor": "d — Option d ('All four') is a strong distractor because statements 1, 2, and 4 are straightforward facts that well-prepared students verify quickly, creating overconfidence that leads them to accept Statement 3 without careful checking.",
+      "elimination_logic": [
+        "Statement 1: Food ~45-46% CPI, ~24% WPI — standard established fact. Correct.",
+        "Statement 2: CPI-Rural ~55%, CPI-Urban ~45% in CPI-Combined — correct.",
+        "Statement 3: Claims both CPI and WPI exclude services — false. CPI includes services prominently; only WPI excludes them. Incorrect.",
+        "Statement 4: Manufactured products ~64% of WPI, minor share in CPI — correct.",
+        "Three statements correct (1, 2, 4); one incorrect (3) — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3 uses the phrase 'difficult to price at a standardised level' as a seemingly plausible technical justification for excluding services from both indices. This sounds like reasonable statistical methodology. The trap is that this justification — even if partially valid — only applies to WPI, not CPI. CPI's household survey methodology is specifically designed to capture service costs (rent, healthcare fees, education fees) that households actually pay, making the 'both exclude services' claim categorically false.",
+      "final_explanation": "This question bundles the most critical numerical facts about CPI and WPI basket composition into a single question requiring systematic verification.\n\n• Statement 1 — Correct: Food weight of ~45-46% in CPI versus ~24% in WPI is the foundational compositional difference explaining why CPI is far more sensitive to agricultural supply shocks.\n• Statement 2 — Correct: CPI-Combined's rural-urban weight split (~55% rural, ~45% urban) reflects household consumption expenditure surveys — rural India's larger population dominates the weights.\n• Statement 3 — Incorrect: Services are excluded only from WPI, not CPI. Services — education, healthcare, housing rent, transport, personal care — constitute over 50% of the CPI basket. The assertion that both indices exclude services is definitively wrong.\n• Statement 4 — Correct: Manufactured products at ~64% of WPI make WPI primarily an industrial goods price index, explaining its sensitivity to industrial input costs, crude oil derivatives, and global manufacturing price cycles.\n\nOnly three statements are correct → option (c).\n\nValue Addition:\n• CPI's service weight reflects the structural reality that Indian household spending has shifted significantly towards services over the past two decades.\n• WPI's manufactured products dominance makes it a useful but incomplete industrial inflation indicator.\n• The CPI-Rural vs CPI-Urban differential in food inflation is tracked carefully for rural poverty and welfare analysis."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the basket composition of India's CPI and WPI:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Food articles account for approximately 45-46% of the CPI basket but only around 24% of the WPI basket."
+          ],
+          [
+            "2",
+            "The rural component of CPI-Combined carries a weight of approximately 55%, while the urban component carries approximately 45%."
+          ],
+          [
+            "3",
+            "Services such as education, health, and housing are excluded from both CPI and WPI because they are difficult to price at a standardised level."
+          ],
+          [
+            "4",
+            "Manufactured products constitute approximately 64% of WPI but have a significantly smaller share in the CPI basket."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3b9d6fec-0440-4cec-902c-9d189a6dfd11",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Base Year Differences and Recent Revisions",
+        "Compiling Agencies and Institutional Responsibility"
+      ],
+      "subject_que_no": 3771,
+      "overall_que_no": 11118
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "WPI compiled by OEA Ministry of Commerce, not MoSPI",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because students who know that WPI uses 2011-12 as base year may find the base year itself suspicious (thinking it should be 2012 like CPI) and incorrectly mark option (b) as the odd one out.",
+      "elimination_logic": [
+        "Option (a): WPI tracks ~697 items — correct fact about WPI. Belongs.",
+        "Option (b): WPI base year is 2011-12 — correct fact about WPI. Belongs.",
+        "Option (c): WPI compiled by MoSPI — INCORRECT. WPI is compiled by Office of the Economic Adviser, Ministry of Commerce and Industry. MoSPI compiles CPI-Combined. This is the odd one out.",
+        "Option (d): WPI covers primary articles, fuel & power, and manufactured products — correct description of WPI's three groups. Belongs.",
+        "Option (c) is the statement that does NOT correctly describe WPI — select (c)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap replaces OEA/Ministry of Commerce (the correct WPI compiler) with MoSPI (the correct CPI compiler). Students who know both indices are compiled by government bodies but cannot precisely attribute which body compiles which index will find option (c) plausible. The trap is most effective on students who associate 'statistics' with MoSPI and assume all price index compilation falls under MoSPI's mandate.",
+      "final_explanation": "This question requires precise institutional knowledge — which ministry compiles which index.\n\n• Option (a) — Correctly describes WPI: WPI tracks approximately 697 commodity items across its three groups — more than CPI's ~299 items.\n• Option (b) — Correctly describes WPI: WPI's current base year is 2011-12 (financial year), distinct from CPI-Combined's base year of 2012 (calendar year).\n• Option (c) — Does NOT correctly describe WPI: WPI is compiled by the Office of the Economic Adviser (OEA) under the Ministry of Commerce and Industry. MoSPI (through NSO) compiles CPI-Combined — this is the ODD ONE OUT.\n• Option (d) — Correctly describes WPI: WPI's basket is structured around three groups — (i) Primary Articles, (ii) Fuel and Power, (iii) Manufactured Products — with no services component.\n\nValue Addition:\n• OEA also publishes the Economic Survey and other trade-related analyses alongside WPI.\n• NSO/MoSPI conducts the household consumption expenditure surveys that provide the weights for CPI.\n• The institutional separation between OEA and MoSPI is the basis of multiple past UPSC questions on index compilation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four statements correctly describe India's Wholesale Price Index. Which one does NOT correctly describe WPI?\n\n(a) WPI tracks approximately 697 commodity items across its basket\n(b) The current base year for WPI is 2011-12\n(c) WPI is compiled by the Ministry of Statistics and Programme Implementation through its National Statistical Office\n(d) WPI covers three major commodity groups: primary articles, fuel and power, and manufactured products",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "58764109-e23a-496a-bbf2-86419e8b7d1c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Inflation Targeting Framework and CPI's Legal Mandate",
+        "Compiling Agencies and Institutional Responsibility"
+      ],
+      "subject_que_no": 3772,
+      "overall_que_no": 11119
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "RBI Act 2016 amendment formalised FIT; MPC breach triggers report not automatic rate action",
+      "statement_analysis": [
+        {
+          "statement": "The Reserve Bank of India Act, 1934 was amended in 2016 to formally establish the Monetary Policy Committee and mandate CPI-Combined as the official inflation target with a 4% midpoint and ±2% tolerance band.",
+          "verdict": "Correct",
+          "reason": "The RBI Act amendment of 2016 inserted the Flexible Inflation Targeting framework into statute, specifying the MPC's composition, the CPI target of 4±2%, and the accountability mechanism for sustained breaches."
+        },
+        {
+          "statement": "Under the current framework, if the Monetary Policy Committee fails to maintain CPI inflation within the 2-6% band for three consecutive quarters, the RBI is required to automatically raise the repo rate to bring inflation back within the band.",
+          "verdict": "Incorrect",
+          "reason": "The FIT framework requires RBI to submit a report to the government explaining the failure and proposing corrective measures — it does not mandate an automatic rate hike. Rate decisions remain with the MPC based on its assessment."
+        }
+      ],
+      "strong_distractor": "a — Option a is a strong distractor because both statements sound like reasonable descriptions of a robust inflation targeting framework, and the detail about 'automatic rate hike' sounds like a logical consequence of a mandate breach.",
+      "elimination_logic": [
+        "Verify Statement 1: The 2016 RBI Act amendment did establish MPC and the 4±2% CPI target — correct.",
+        "Verify Statement 2: A three-quarter breach requires RBI to submit a report — NOT an automatic repo rate increase. The MPC retains discretion over rate decisions. Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is the phrase 'automatically raise the repo rate'. An inflation targeting mandate sounds like it should have automatic enforcement — if the target is missed, rates must go up. In reality, the FIT framework's accountability mechanism is informational and explanatory, not mechanically prescriptive. The MPC explains what went wrong and what it will do — the rate decision itself remains a judgment call. Students who apply mechanical logic to the framework fall for this trap.",
+      "final_explanation": "The FIT framework's accountability mechanism is frequently misunderstood as an automatic trigger for rate action.\n\n• Statement 1 — Correct: The RBI Act amendment of 2016 is the statutory foundation of India's inflation targeting regime. It inserted Sections 45ZA-45ZL, defined the MPC (three RBI members + three government appointees), and codified the 4% CPI target with ±2% tolerance band.\n• Statement 2 — Incorrect: The accountability mechanism upon a three-quarter CPI breach is a mandatory written report from RBI to the Government of India, explaining: (i) reasons for failure, (ii) remedial actions proposed, and (iii) estimated timeline for return to target. The repo rate is NOT automatically adjusted — rate decisions remain the MPC's discretionary call based on evolving economic conditions.\n\nCorrect relationship: Statement 1 correct, Statement 2 incorrect — option (c).\n\nValue Addition:\n• The MPC's interest rate decisions require a majority vote; the RBI Governor has a casting vote in case of a tie.\n• The three-quarter threshold is designed to distinguish sustained, structural inflation from transitory, supply-driven spikes.\n• This design allows RBI to 'look through' temporary food price surges without mechanically hiking rates."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about India's Flexible Inflation Targeting framework:\n\nStatement 1: The Reserve Bank of India Act, 1934 was amended in 2016 to formally establish the Monetary Policy Committee and mandate CPI-Combined as the official inflation target with a 4% midpoint and ±2% tolerance band.\n\nStatement 2: Under the current framework, if the Monetary Policy Committee fails to maintain CPI inflation within the 2-6% band for three consecutive quarters, the RBI is required to automatically raise the repo rate to bring inflation back within the band.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "65b1bf0e-73c0-4e6c-a3c1-29c15ed37fea",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Dearness Allowance (DA) Linkage and Wage Indexation",
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined"
+      ],
+      "subject_que_no": 3773,
+      "overall_que_no": 11120
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DA for central government employees linked to CPI-IW not CPI-Combined",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because CPI-Combined is RBI's formal inflation anchor and is the most prominently discussed CPI measure; students naturally assume the 'main' CPI is used for all government purposes including DA.",
+      "elimination_logic": [
+        "Eliminate option (a): CPI-Combined is RBI's monetary policy anchor — it is not used for DA calculation for central government employees.",
+        "Eliminate option (c): CPI-AL is used for agricultural minimum wage revision — not for DA for central government employees who are industrial/service sector workers.",
+        "Eliminate option (d): WPI has no wage indexation role in India's current framework — DA has never been linked to WPI.",
+        "Retain option (b): DA for central government employees and pensioners is formally linked to CPI-IW (Industrial Workers), compiled by the Labour Bureau with base year 2016."
+      ],
+      "upsc_trap_explanation": "The scenario tests whether students can distinguish between the 'most famous' CPI (CPI-Combined, the RBI target) and the 'operationally relevant' CPI for DA purposes (CPI-IW). Students who conflate these two fail to answer correctly. The scenario's description of 'central government employees' should trigger recall of CPI-IW — but students anchored on CPI-Combined due to its prominence in monetary policy discussions will select option (a).",
+      "final_explanation": "India's government uses different CPI variants for different policy purposes — this institutional specificity is a high-value UPSC fact.\n\nThe applicable principle: DA for central government employees and pensioners is revised twice annually (January and July) based on movements in the Consumer Price Index for Industrial Workers (CPI-IW), compiled by the Labour Bureau under the Ministry of Labour and Employment.\n\n• Option (a) — Incorrect: CPI-Combined is the RBI's monetary policy target. It is not used for DA calculation. The two series are compiled by different institutions (MoSPI vs Labour Bureau) for different purposes.\n• Option (b) — Correct: CPI-IW (base year 2016) is the designated index for computing DA for central government employees and pensioners. This linkage was retained by the 7th Pay Commission.\n• Option (c) — Incorrect: CPI-AL is used for minimum wage revision for agricultural labourers — a completely different worker category from central government employees.\n• Option (d) — Incorrect: WPI has no wage indexation role in India's current framework for any category of workers.\n\nValue Addition:\n• DA revision formula: Average CPI-IW over 12 months / Base CPI-IW × 100, compared with a DA index.\n• The shift of CPI-IW base year from 2001 to 2016 was completed in 2021.\n• Central government employees and state government employees may use different indices for DA — state-specific variations exist."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A central government employee's service record shows that the Dearness Allowance payable to her is revised every January and July based on the average change in a specific price index over the preceding 12 months. The revision mechanism has remained in use through successive Pay Commission recommendations. Which price index forms the basis of this Dearness Allowance computation?\n\n(a) CPI-Combined (All-India Headline CPI)\n(b) CPI-IW (Consumer Price Index for Industrial Workers)\n(c) CPI-AL (Consumer Price Index for Agricultural Labourers)\n(d) Wholesale Price Index (WPI)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d24ddfde-3693-4e5c-9d60-874c91b70fcd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Number of Items Tracked: Coverage Breadth Comparison",
+        "Absence of Services in WPI — A Critical Structural Gap",
+        "Producer Price Index (PPI) as a Proposed Replacement for WPI"
+      ],
+      "subject_que_no": 3774,
+      "overall_que_no": 11121
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "More WPI items does not mean better; PPI not yet adopted; services in CPI only",
+      "statement_analysis": [
+        {
+          "statement": "Although WPI tracks a larger number of commodity items than CPI, it is considered less suitable for measuring household welfare because it excludes services entirely.",
+          "verdict": "Correct",
+          "reason": "WPI's ~697 items vs CPI's ~299 items is a numerical advantage for goods coverage, but WPI's complete exclusion of services — which constitute over 50% of CPI's weight — makes it a poor measure of the cost of living experienced by households."
+        },
+        {
+          "statement": "The Producer Price Index, recommended as a replacement for WPI, would measure prices received by domestic producers after deducting all indirect taxes, unlike WPI which includes them.",
+          "verdict": "Correct",
+          "reason": "PPI's defining design feature is the exclusion of indirect taxes (GST, excise) to isolate the pure producer price signal. WPI includes these taxes, making it a hybrid measure rather than a pure producer price index."
+        },
+        {
+          "statement": "India formally adopted the Producer Price Index in 2020, aligning its price statistics framework with IMF and United Nations recommendations.",
+          "verdict": "Incorrect",
+          "reason": "India has not adopted PPI as of 2024. WPI continues as the official wholesale price index. The recommendation for PPI adoption remains unimplemented despite multiple expert committee endorsements."
+        }
+      ],
+      "strong_distractor": "d — Wait, recalculating: Statements 1 and 2 are correct, Statement 3 is incorrect. This maps to option (a) '1 and 2 only' — let the option layout be reviewed.",
+      "elimination_logic": [
+        "Statement 1: WPI tracks more items but excludes services entirely, making CPI superior for household welfare measurement — correct.",
+        "Statement 2: PPI excludes indirect taxes unlike WPI — this is the defining PPI characteristic — correct.",
+        "Statement 3: India adopted PPI in 2020 — this is false. WPI remains operational as of 2024. Statement 3 is incorrect.",
+        "Statements 1 and 2 correct; Statement 3 incorrect — select option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 3's trap is a specific false year ('2020') attached to a real policy aspiration (PPI adoption). Students who are aware of the long-standing recommendation for PPI and assume 'it must have happened by now' will accept Statement 3 as correct. The precision of '2020' makes it sound authoritative — a plausible-fabrication that exploits the gap between recommendation and implementation.",
+      "final_explanation": "Coverage breadth and index design principles must be evaluated qualitatively, not just numerically.\n\n• Statement 1 — Correct: WPI's numerical advantage (697 items) is misleading. All 697 items are goods — services, which constitute over half the modern Indian consumption basket, are absent. This makes WPI increasingly unrepresentative of actual household cost-of-living.\n• Statement 2 — Correct: PPI's conceptual superiority over WPI lies in its exclusion of indirect taxes. WPI prices include GST and excise duties, blurring the signal about what producers actually receive. PPI would strip out tax components to provide a purer producer-price reading.\n• Statement 3 — Incorrect: As of 2024, India has not adopted PPI. WPI continues to be published monthly by the OEA under the Ministry of Commerce and Industry. The transition to PPI requires significant data infrastructure development and methodology work that remains incomplete.\n\nStatements 1 and 2 correct → option (a).\n\nValue Addition:\n• IMF's Producer Price Index Manual provides the international framework that India's PPI would follow.\n• The Abhijit Sen Working Group recommended PPI transition as a medium-term goal — no specific implementation deadline was set.\n• Until PPI is adopted, WPI serves as the de facto upstream price measure despite its methodological limitations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the coverage and status of India's price indices:\n\n1. Although WPI tracks a larger number of commodity items than CPI, it is considered less suitable for measuring household welfare because it excludes services entirely.\n2. The Producer Price Index, recommended as a replacement for WPI, would measure prices received by domestic producers after deducting all indirect taxes, unlike WPI which includes them.\n3. India formally adopted the Producer Price Index in 2020, aligning its price statistics framework with IMF and United Nations recommendations.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "89b9a611-3136-4df4-ba52-2824f044e0c7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Seasonal Adjustment and Volatility Differences",
+        "Core Inflation vs Headline Inflation in CPI Context",
+        "Food Inflation Measurement: Differences in Scope and Weight"
+      ],
+      "subject_que_no": 3775,
+      "overall_que_no": 11122
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Seasonal food spikes in CPI may not warrant rate hikes if core CPI stable",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is a strong distractor because both statements are factually true and the connection between high food weight causing CPI volatility and therefore requiring seasonal adjustment sounds causally coherent.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? CPI is indeed highly seasonal due to its ~45-46% food weight — kharif and rabi harvest cycles create predictable seasonal spikes. A is correct.",
+        "Step 2 — Is R correct? RBI does use seasonally adjusted data and 3-month moving averages in its analytical work for monetary policy deliberations. R is correct.",
+        "Step 3 — Does R explain A? R describes RBI's analytical response to CPI's seasonality — it does not explain why CPI is seasonal. A's seasonality is caused by the high food weight interacting with agricultural supply cycles. R explains how the RBI deals with this seasonality, not what causes it. The causal explanation for A is the basket composition (food weight), not the RBI's response methodology.",
+        "Both A and R correct; R does not causally explain A — select option (b)."
+      ],
+      "upsc_trap_explanation": "This is a refined assertion-reason trap where R is a true response to A but not an explanation of A. Students who read 'CPI is seasonal' (A) and 'RBI uses seasonal adjustment' (R) will see an obvious connection and mark option (a). The distinction is: R describes what RBI does in response to A's characteristic — it does not explain why A has that characteristic. The 'why' is the high food weight and agricultural harvest cycles, not mentioned in R.",
+      "final_explanation": "The assertion-reason format here requires distinguishing between an explanation of a phenomenon and a response to that phenomenon.\n\nAssertion (A): Correct. CPI's high food weight (~45-46%) means that kharif and rabi harvest outcomes create predictable seasonal patterns in headline CPI. Vegetable prices, for example, typically spike in summer and ease post-harvest — creating seasonal CPI volatility unrelated to underlying demand conditions.\n\nReason (R): Correct as a standalone fact. RBI and the MPC analyse seasonally adjusted data and use moving averages to smooth out transitory seasonal noise when making monetary policy assessments. This is standard practice documented in RBI's monetary policy reports.\n\nCausal relationship: R describes RBI's analytical methodology in response to CPI's seasonal nature — it does not explain what causes CPI to be seasonal. The causal explanation for A is the basket composition (high food weight interacting with supply cycle volatility), not RBI's data processing methodology. R is a consequence-management response, not a cause.\n\nAnswer: option (b).\n\nValue Addition:\n• Core CPI (ex-food, ex-fuel) is the key tool for filtering out seasonal noise in RBI's policy analysis.\n• WPI also shows seasonality (primary articles component) but the large manufactured products component provides partial smoothing.\n• The RBI's State of the Economy articles regularly publish seasonally adjusted inflation metrics."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): India's Consumer Price Index exhibits significant seasonal volatility, with kharif and rabi harvest cycles producing predictable fluctuations in the headline inflation reading.\n\nReason (R): The Reserve Bank of India uses seasonally adjusted figures and multi-month moving averages of CPI data when assessing underlying price pressures for monetary policy decisions.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c23fb826-1e45-4720-b91f-73c6f75a17c1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "WPI as a Deflator and Its Use in GDP Calculation",
+        "Producer Price Index (PPI) as a Proposed Replacement for WPI",
+        "Divergence Between CPI and WPI: Causes and Implications"
+      ],
+      "subject_que_no": 3776,
+      "overall_que_no": 11123
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "GDP deflator broader than WPI; WPI not equivalent to PPI",
+      "statement_analysis": [
+        {
+          "statement": "The GDP deflator and the Wholesale Price Index are equivalent measures of economy-wide price changes because WPI was historically used to deflate GDP in national accounts.",
+          "verdict": "Incorrect",
+          "reason": "WPI was used as a deflator for the manufacturing sector in GDP estimation, not as an economy-wide measure. The GDP deflator is broader, covering all goods and services in national accounts including exports, government services, and investment — whereas WPI covers only traded goods."
+        },
+        {
+          "statement": "A Producer Price Index, if adopted, would serve as a more accurate substitute for WPI in national accounts deflation because PPI excludes indirect taxes and better reflects actual producer revenue.",
+          "verdict": "Correct",
+          "reason": "PPI's exclusion of indirect taxes means it captures prices actually received by producers — a conceptually superior measure for deflating the production side of national accounts compared to WPI, which includes tax components that are transfers to the government, not producer income."
+        },
+        {
+          "statement": "When WPI and CPI diverge significantly, with WPI lower than CPI, it indicates that administered pricing mechanisms are definitively preventing global commodity price declines from reaching Indian consumers.",
+          "verdict": "Incorrect",
+          "reason": "While administered pricing is one cause of WPI-CPI divergence, significant divergence can also result from supply chain margins, retailer absorption, distribution costs, and the high weight of non-traded services in CPI (which are unrelated to global commodity prices). The claim that administered pricing is 'definitively' the sole cause is an unwarranted scope-extension."
+        }
+      ],
+      "strong_distractor": "a — Option a is a strong distractor because Statement 1's conflation of GDP deflator and WPI sounds academic and plausible — students who remember 'WPI was used in GDP deflation' may accept the equivalence claim without recognising the 'equivalence' word as the error.",
+      "elimination_logic": [
+        "Check Statement 1: GDP deflator ≠ WPI. WPI covered manufacturing sector deflation only; GDP deflator covers all of national accounts including services, government, and investment. Equivalence claim is false. Statement 1 is incorrect.",
+        "Check Statement 2: PPI, by excluding indirect taxes, would capture actual producer revenue more accurately — making it a superior national accounts deflator. Statement 2 is correct.",
+        "Check Statement 3: The word 'definitively' and 'sole cause' are the errors. WPI-CPI divergence has multiple causes; administered pricing is one among several. Statement 3 is incorrect.",
+        "Statements 1 and 3 are NOT correct — select option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 1 uses the word 'equivalent' — the conflation trap. Students who remember that WPI was used in GDP deflation assume this means WPI = GDP deflator in scope and coverage. The critical distinction is that WPI covered only part of GDP (manufacturing/goods sector), while the GDP deflator covers all production in the economy. Statement 3 uses 'definitively' as a scope-extension — identifying one real cause (administered pricing) as the exclusive cause.",
+      "final_explanation": "Three distinct conceptual boundaries must be maintained: WPI ≠ GDP deflator, WPI ≠ PPI, and single-cause explanations of divergence are usually wrong.\n\n• Statement 1 — Incorrect: WPI was used as a deflator for the manufacturing sector in GDP estimation — not as an economy-wide price measure. The GDP deflator is an implicit index derived from all of national accounts (consumption, investment, government expenditure, exports, imports), making it far broader than WPI.\n• Statement 2 — Correct: PPI would be superior to WPI for national accounts deflation because it strips out indirect taxes (transfers to government) to isolate prices actually received by producers — the conceptually correct measure for production-side GDP deflation.\n• Statement 3 — Incorrect: WPI < CPI divergence can reflect supply chain margins, the large weight of non-traded services in CPI, retailer price stickiness, or distribution cost accumulation — not exclusively administered pricing. Claiming administered pricing as the 'definitive' single cause is an overreach.\n\nStatements 1 and 3 are NOT correct → option (b).\n\nValue Addition:\n• The GDP deflator is available quarterly with a significant lag — unlike WPI/CPI which are monthly.\n• India's GDP at constant prices uses sector-specific deflators for agriculture (farm prices), manufacturing (WPI-based), and services (CPI-based).\n• The shift to PPI for national accounts is part of broader statistical modernisation aligned with UN SNA 2008 standards."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the relationship between WPI, GDP deflator, PPI, and CPI in the context of price measurement and national accounts:\n\n1. The GDP deflator and the Wholesale Price Index are equivalent measures of economy-wide price changes because WPI was historically used to deflate GDP in national accounts.\n2. A Producer Price Index, if adopted, would serve as a more accurate substitute for WPI in national accounts deflation because PPI excludes indirect taxes and better reflects actual producer revenue.\n3. When WPI and CPI diverge significantly, with WPI lower than CPI, it indicates that administered pricing mechanisms are definitively preventing global commodity price declines from reaching Indian consumers.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "787eade5-a066-43df-82a4-817c4115087f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Structural Composition of CPI vs WPI Baskets",
+        "Compiling Agencies and Institutional Responsibility",
+        "Base Year Differences and Recent Revisions",
+        "CPI Variants: CPI-IW, CPI-AL, CPI-RL, and CPI-Combined"
+      ],
+      "subject_que_no": 3777,
+      "overall_que_no": 11124
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "CPI-IW base 2016, CPI-Combined base 2012, WPI base 2011-12",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is a strong distractor because it correctly matches CPI-AL with agricultural wage revision (a well-known pairing) and WPI with OEA (also known), but swaps the base years for CPI-Combined and CPI-IW.",
+      "elimination_logic": [
+        "Match A (CPI-IW base year 2016) — 3: CPI-IW's base year was revised from 2001 to 2016 — matches with 3.",
+        "Match B (CPI-AL used for) — 1: CPI-AL is used for minimum wage revision for agricultural labourers — matches with 1.",
+        "Match C (CPI-Combined base year) — 4: CPI-Combined uses base year 2012 (calendar year) — matches with 4.",
+        "Match D (WPI compiled by) — 2: WPI is compiled by the Office of the Economic Adviser, Ministry of Commerce and Industry — matches with 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 — select option (c)."
+      ],
+      "upsc_trap_explanation": "The base year trap is the primary mechanism here. CPI-IW's base year (2016) and CPI-Combined's base year (2012) are frequently confused. Students who recall '2012' as a CPI base year but do not distinguish which CPI series it belongs to may assign 2012 to CPI-IW and 2016 to CPI-Combined — the reverse of the correct answer. Option (b) exploits this by placing correct matches for B and D but swapping A and C.",
+      "final_explanation": "This question synthesises base year, compilation agency, and policy-use knowledge across multiple CPI variants.\n\nCorrect matches:\n• A (CPI-IW — current base year) — 3 (2016): CPI-IW's base year was revised from 2001 to 2016, with the revised series implemented in 2021. The 2016 base year makes it more current than CPI-Combined's 2012 base.\n• B (CPI-AL — primary policy use) — 1 (Minimum wage revision for agricultural labourers): CPI-AL is compiled by the Labour Bureau and is the designated index for agricultural labour minimum wage determination.\n• C (CPI-Combined — current base year) — 4 (2012): CPI-Combined uses a calendar year base of 2012, distinct from WPI's financial year base of 2011-12.\n• D (WPI — compiled by) — 2 (Office of the Economic Adviser, Ministry of Commerce and Industry): This is the institutional home of WPI — separate from MoSPI (CPI) and Labour Bureau (CPI-IW, CPI-AL, CPI-RL).\n\nValue Addition:\n• Three different ministries are involved in price index compilation: MoSPI (CPI-Combined), Ministry of Labour/Labour Bureau (CPI-IW, CPI-AL, CPI-RL), and Ministry of Commerce/OEA (WPI).\n• Base year revision helps align the index with current consumption patterns and relative price structures.\n• WPI's 2011-12 revision added 199 new manufacturing items and removed obsolete ones."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. CPI for Industrial Workers (CPI-IW) — current base year",
+            "1. Minimum wage revision for agricultural labourers"
+          ],
+          [
+            "B. CPI for Agricultural Labourers (CPI-AL) — primary policy use",
+            "2. Office of the Economic Adviser, Ministry of Commerce and Industry"
+          ],
+          [
+            "C. CPI-Combined (All-India) — current base year",
+            "3. 2016"
+          ],
+          [
+            "D. Wholesale Price Index — compiled by",
+            "4. 2012"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-4, B-1, C-3, D-2\n(b) A-4, B-2, C-3, D-1\n(c) A-3, B-1, C-4, D-2\n(d) A-3, B-2, C-1, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0b9d8df6-b913-46c5-bdea-1371f5160885",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Price Stage Captured: Producer vs Consumer Level",
+        "Treatment of Imports and Traded Commodities in WPI vs CPI",
+        "Structural Composition of CPI vs WPI Baskets"
+      ],
+      "subject_que_no": 3778,
+      "overall_que_no": 11125
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "WPI sensitive to global commodity cycles more than CPI",
+      "statement_analysis": null,
+      "strong_distractor": "d — Option d is a strong distractor because it correctly identifies WPI as more sensitive to global price cycles but then adds 'and this makes WPI the superior inflation target for RBI' — students who agree with the first part may not catch the incorrect policy conclusion.",
+      "elimination_logic": [
+        "Eliminate option (a): CPI being more sensitive to global commodity cycles than WPI is the reverse of the correct answer — WPI captures import prices at wholesale entry; CPI only captures what consumers eventually pay.",
+        "Eliminate option (c): WPI's greater global price sensitivity makes it useful for early warning — but WPI's exclusion of services and its wholesale (not consumer) coverage makes it less suitable for household welfare assessment, contradicting option (c)'s claim.",
+        "Eliminate option (d): Correctly identifies WPI's global sensitivity but draws the wrong policy conclusion — RBI formally uses CPI as the target precisely because CPI better reflects household welfare, not because WPI is superior.",
+        "Retain option (b): WPI is more sensitive to global commodity price cycles because it directly captures imported commodity prices at the first point of commercial transaction, giving it faster and more direct exposure to global shocks than CPI."
+      ],
+      "upsc_trap_explanation": "Option (d) is the sophisticated trap: it correctly states a fact (WPI is more sensitive to global cycles) but attaches an incorrect inference (therefore WPI is the superior RBI target). Students who know WPI is globally sensitive and also know RBI shifted from WPI to CPI for good reasons may still be confused by the combined statement in (d). Only students who firmly know the reason for the shift (CPI better reflects household welfare and services) will reject (d) unambiguously.",
+      "final_explanation": "The differential global price sensitivity of WPI and CPI has direct implications for monetary policy analysis and the choice of inflation target.\n\n• Option (a) — Incorrect: CPI is less sensitive to global commodity cycles than WPI. CPI captures prices at the retail consumer stage, where multiple distribution layers buffer the immediate impact of global price changes.\n• Option (b) — Correct: WPI directly captures imported commodity prices at the wholesale first-transaction level. A spike in global crude oil, iron ore, or copper prices is immediately visible in WPI but reaches CPI only after passing through distribution, retail, and pricing mechanisms — introducing a lag.\n• Option (c) — Incorrect: WPI's global sensitivity makes it useful as a leading indicator, but it does not make WPI superior for measuring household cost-of-living or welfare — because it excludes services and is not consumer-facing.\n• Option (d) — Incorrect: RBI shifted from WPI to CPI precisely because CPI — not WPI — better measures household welfare and service price pressures, which are the economically relevant dimensions for a consumer-welfare-focused monetary policy mandate.\n\nValue Addition:\n• WPI's role as a leading indicator of future CPI inflation through the supply chain is one of its retained analytical uses.\n• Global crude oil price shocks show up in WPI within days; CPI absorbs the impact over several weeks to months.\n• RBI monitors both indices simultaneously — WPI for upstream early warning, CPI for formal policy targeting."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following statements correctly describes the relationship between global commodity price movements and India's price indices?\n\n(a) CPI is more sensitive to global commodity price cycles than WPI because CPI captures a broader range of goods including imported items\n(b) WPI is more sensitive to global commodity price cycles than CPI because WPI directly captures imported commodity prices at the wholesale first-transaction level, whereas CPI reflects prices only at the final consumer stage\n(c) WPI's greater sensitivity to global commodity cycles makes it the superior measure for assessing household cost-of-living impacts of international price shocks\n(d) WPI's more direct exposure to global commodity price changes makes it a better inflation target for the Reserve Bank of India than CPI",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "eceb5e1b-890c-4f87-b0bb-fabb233253f8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Inflation",
+      "sub_topic": "CPI vs WPI differences",
+      "concepts_used": [
+        "Frequency and Data Release Timelines",
+        "Base Year Differences and Recent Revisions",
+        "Compiling Agencies and Institutional Responsibility"
+      ],
+      "subject_que_no": 3779,
+      "overall_que_no": 11126
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "WPI revision twice; CPI base 2012; WPI base 2011-12; OEA compiles WPI",
+      "statement_analysis": [
+        {
+          "statement": "WPI data undergoes two revisions after initial release: from provisional data to a first revision, and subsequently to a final figure.",
+          "verdict": "Correct",
+          "reason": "WPI's publication methodology involves two revision rounds — provisional → first revision → final — to incorporate more complete transaction data as it becomes available."
+        },
+        {
+          "statement": "India's CPI-Combined and WPI both use 2012 as their common base year following a simultaneous revision exercise.",
+          "verdict": "Incorrect",
+          "reason": "CPI-Combined uses base year 2012 (calendar year) while WPI uses base year 2011-12 (financial year). They have different base years and were not revised simultaneously."
+        },
+        {
+          "statement": "Both CPI and WPI are released within approximately two weeks of the reference month ending, enabling broadly contemporaneous monthly monitoring.",
+          "verdict": "Correct",
+          "reason": "CPI is released 12-14 days after month end by MoSPI, and WPI is released approximately 2 weeks after month end by OEA — the timelines are broadly comparable, enabling simultaneous tracking."
+        },
+        {
+          "statement": "The Office of the Economic Adviser compiles WPI under the Ministry of Commerce and Industry, separate from the statistical office that compiles CPI.",
+          "verdict": "Correct",
+          "reason": "OEA under Ministry of Commerce compiles WPI; NSO under MoSPI compiles CPI-Combined — two entirely separate institutions, reflecting the different purposes and constituencies of the two indices."
+        }
+      ],
+      "strong_distractor": "c — Option c ('Only three') is a strong distractor because Statement 2's error (claiming a common base year of 2012) is subtle — students who know both were revised 'around the same time' may accept the common base year claim and mark Statement 2 as correct, selecting 'all four'.",
+      "elimination_logic": [
+        "Statement 1: WPI — provisional → first revision → final (two revisions) — correct.",
+        "Statement 2: CPI base year is 2012; WPI base year is 2011-12 — different base years, NOT common. Statement 2 is incorrect.",
+        "Statement 3: Both released within ~2 weeks of month end — correct.",
+        "Statement 4: OEA (Commerce Ministry) compiles WPI; NSO (MoSPI) compiles CPI — different institutions — correct.",
+        "Three statements correct (1, 3, 4); one incorrect (2) — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is the word 'common' applied to the base year. Students who recall that both indices were revised in a similar period (around 2014-15 when base year updates were released) may assume the revisions yielded a common base year. The precise distinction — CPI-Combined uses calendar year 2012 while WPI uses financial year 2011-12 — is the knowledge that separates correct from incorrect answers here.",
+      "final_explanation": "These four statements test three distinct knowledge dimensions: revision methodology, base year precision, release timelines, and institutional attribution.\n\n• Statement 1 — Correct: WPI's two-revision process (provisional → first revision → final) is a distinctive feature of its publication methodology.\n• Statement 2 — Incorrect: CPI-Combined (base year: calendar 2012) and WPI (base year: financial year 2011-12) use different base years. Despite both being revised in a similar period, they settled on different reference years — CPI on a calendar year and WPI on a financial year.\n• Statement 3 — Correct: Both indices offer high-frequency monthly data with a ~2-week release lag, enabling contemporaneous inflation monitoring.\n• Statement 4 — Correct: The institutional separation is fundamental — OEA (Commerce Ministry) for WPI and NSO/MoSPI for CPI reflects different policy communities being served by each index.\n\nThree correct statements → option (c).\n\nValue Addition:\n• Base year expressed as a financial year (2011-12) for WPI vs a calendar year (2012) for CPI is itself an institutional design difference reflecting the different sectoral calendars these indices serve.\n• Provisional WPI data can be revised materially — a limitation for policy decisions made immediately post-release.\n• The ~2 week release lag for both indices compares favourably with GDP data which is available quarterly with a longer lag."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the data characteristics and institutional framework of India's CPI and WPI:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "WPI data undergoes two revisions after initial release: from provisional data to a first revision, and subsequently to a final figure."
+          ],
+          [
+            "2",
+            "India's CPI-Combined and WPI both use 2012 as their common base year following a simultaneous revision exercise."
+          ],
+          [
+            "3",
+            "Both CPI and WPI are released within approximately two weeks of the reference month ending, enabling broadly contemporaneous monthly monitoring."
+          ],
+          [
+            "4",
+            "The Office of the Economic Adviser compiles WPI under the Ministry of Commerce and Industry, separate from the statistical office that compiles CPI."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  }
+]

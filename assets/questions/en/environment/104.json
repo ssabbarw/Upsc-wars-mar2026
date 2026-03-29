@@ -1,0 +1,1618 @@
+[
+  {
+    "meta": {
+      "uuid": "2a20780f-ade6-4932-b7a7-373743839efe",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Point Source vs. Non-Point Source Pollution: Classification and Regulatory Implications"
+      ],
+      "subject_que_no": 3588,
+      "overall_que_no": 16732
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Stormwater as dual-classification pollution source",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students familiar with the point-source definition (a discrete, identifiable discharge point) correctly recognize that a municipal stormwater outfall pipe has a fixed outlet, making them confident it is always a point source.",
+      "elimination_logic": [
+        "Eliminate any option that treats stormwater overflow as exclusively one type — its classification depends on regulatory context and whether discharge occurs via a discrete conveyance.",
+        "Eliminate options that conflate stormwater with industrial effluent — stormwater is not inherently industrial.",
+        "Retain the option that captures the dual classification — stormwater from a pipe is point source under Clean Water Act-style regulation, but diffuse sheet-flow over land is non-point source."
+      ],
+      "upsc_trap_explanation": "Students typically memorise 'pipe = point source' and 'runoff = non-point source' as a binary rule. Stormwater violates this binary because the same precipitation event can produce both a concentrated discharge through a municipal separate storm sewer system (MS4) outlet — classifying it as a point source under permit-based regulation — and diffuse overland flow before it reaches any conveyance, which is non-point. Examiners exploit this by asking which classification applies, expecting students to default to one answer without recognising context-dependence.",
+      "final_explanation": "Point sources are discrete, identifiable conveyances (pipes, ditches, channels) discharging pollutants to a water body. Non-point sources are diffuse, lacking a single identifiable discharge point.\n\n• Option (a) — Incorrect: Stormwater is not always a point source. Before entering a pipe or channel, overland sheet-flow constitutes non-point source pollution.\n• Option (b) — Correct: Stormwater can be either, depending on context. When discharged through a municipal storm drain outlet it meets the point-source definition; when it flows as sheet-flow across agricultural or urban land, it is non-point source.\n• Option (c) — Incorrect: It is not always non-point source — discharge through a concrete outfall pipe is a point source.\n• Option (d) — Incorrect: Stormwater is explicitly recognised in pollution classification frameworks, not excluded from them.\n\nValue Addition:\n• Under the US Clean Water Act, Municipal Separate Storm Sewer Systems (MS4s) are regulated as point sources requiring NPDES permits.\n• India's Water Act 1974 does not separately define stormwater — a regulatory ambiguity that leads to enforcement gaps.\n• Best management practices (BMPs) such as retention ponds and vegetated swales address the non-point dimension of stormwater."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following most accurately describes the regulatory classification of urban stormwater overflow?\n\n(a) It is always classified as a point source of water pollution because it originates in a built environment.\n(b) It can be classified as either a point source or a non-point source depending on the specific context of its discharge pathway.\n(c) It is always classified as a non-point source because it originates from diffuse precipitation.\n(d) Stormwater overflow is not recognised as a category of water pollution under any classification framework.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "25f298d5-c084-42ca-851a-90315dc5595c",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Biochemical Oxygen Demand (BOD) and Dissolved Oxygen (DO): Indicators of Organic Pollution"
+      ],
+      "subject_que_no": 3589,
+      "overall_que_no": 16733
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "BOD–DO relationship and organic load signalling",
+      "statement_analysis": [
+        {
+          "statement": "A rising Biochemical Oxygen Demand in a water body invariably signals the presence of toxic heavy metals.",
+          "verdict": "Incorrect",
+          "reason": "BOD measures the oxygen consumed by microorganisms decomposing organic matter; a high BOD indicates elevated organic load, not the presence of toxic chemicals or heavy metals."
+        },
+        {
+          "statement": "The permissible BOD limit for bathing water under CPCB standards is higher than that for drinking water.",
+          "verdict": "Correct",
+          "reason": "CPCB/BIS standards set BOD at less than 2 mg/L for drinking water and less than 3 mg/L for bathing water — the bathing water threshold is more permissive (higher)."
+        },
+        {
+          "statement": "When Chemical Oxygen Demand significantly exceeds Biochemical Oxygen Demand in an effluent sample, it typically indicates the presence of non-biodegradable or toxic compounds.",
+          "verdict": "Correct",
+          "reason": "COD measures total chemical oxidisable matter whereas BOD measures only the biodegradable fraction; a large COD-to-BOD ratio points to recalcitrant or toxic industrial compounds that resist microbial breakdown."
+        }
+      ],
+      "strong_distractor": "d — Option (d) appears plausible because students often conflate high BOD with overall water toxicity, making 'both 2 and 3 only' seem incomplete; they include statement 1, producing the wrong answer.",
+      "elimination_logic": [
+        "Eliminate any option that includes Statement 1 — high BOD signals organic load, not toxic chemicals; this is a core BOD definition error.",
+        "Confirm Statement 2 by recalling that CPCB's bathing water BOD limit (3 mg/L) is numerically higher than the drinking water limit (2 mg/L), making it correct.",
+        "Confirm Statement 3 — when COD greatly exceeds BOD, biodegradability is low, indicating refractory industrial compounds.",
+        "Retain the option containing only Statements 2 and 3."
+      ],
+      "upsc_trap_explanation": "The most dangerous trap here is Statement 1. Students who have heard that 'high BOD = polluted water' extend this incorrectly to assume polluted means toxic chemicals including heavy metals. BOD is specifically an organic load indicator measured through microbial oxygen consumption. Heavy metals may coexist with high BOD water but are not indicated by BOD itself — they require COD testing or specific metal analysis. Examiners frequently test this distinction to penalise rote learning.",
+      "final_explanation": "BOD and DO are the twin pillars of organic water quality assessment. BOD measures the oxygen microbes consume to break down organic material; DO measures oxygen available to aquatic life. They move inversely — high BOD depletes DO.\n\n• Statement 1 — Incorrect: High BOD signals elevated organic material load only — it does not indicate toxic chemicals or heavy metals. This is the classic UPSC trap on this concept.\n• Statement 2 — Correct: CPCB standards permit BOD <2 mg/L for drinking water and <3 mg/L for bathing water; the bathing threshold is numerically higher.\n• Statement 3 — Correct: COD captures both biodegradable and non-biodegradable oxidisable compounds. A high COD:BOD ratio (>2.5 is a common reference point) signals refractory or toxic industrial effluents that resist biological treatment.\n\nValue Addition:\n• Ultimate BOD (UBODu) measures total oxygen demand if decomposition runs to completion; standard BOD tests use a 5-day incubation (BOD5).\n• A COD:BOD ratio close to 1 indicates the effluent is highly biodegradable and suitable for biological treatment.\n• Rivers classified as Class B (bathing) by CPCB must have BOD ≤3 mg/L and DO ≥5 mg/L."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to water quality indicators, consider the following statements:\n\n1. A rising Biochemical Oxygen Demand in a water body invariably signals the presence of toxic heavy metals.\n2. The permissible BOD limit for bathing water under CPCB standards is higher than that for drinking water.\n3. When Chemical Oxygen Demand significantly exceeds Biochemical Oxygen Demand in an effluent sample, it typically indicates the presence of non-biodegradable or toxic compounds.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3ae099d8-3545-4713-998c-78a14d04919e",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Eutrophication: Causes, Stages, and Ecological Consequences"
+      ],
+      "subject_que_no": 3590,
+      "overall_que_no": 16734
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Eutrophication — lentic vs. lotic systems and cultural acceleration",
+      "statement_analysis": [
+        {
+          "statement": "Eutrophication affects lentic and lotic water bodies equally because nutrient enrichment is independent of water movement.",
+          "verdict": "Incorrect",
+          "reason": "Eutrophication primarily affects lentic (still) water bodies such as lakes and ponds; in lotic (flowing) systems, water movement disperses nutrients and prevents the sustained algal bloom conditions required for eutrophication to develop."
+        },
+        {
+          "statement": "Cultural eutrophication differs from natural eutrophication only in the source of nutrients, not in the rate of ecological change it induces.",
+          "verdict": "Incorrect",
+          "reason": "Cultural eutrophication differs from natural eutrophication in both source and rate — human activities accelerate the nutrient-loading process dramatically, compressing centuries of natural aging into years or decades."
+        },
+        {
+          "statement": "Algal blooms associated with eutrophication can lead to hypoxic dead zones through increased microbial decomposition of dead algal biomass.",
+          "verdict": "Correct",
+          "reason": "When algae die, their decomposition by microbes consumes large amounts of dissolved oxygen, creating hypoxic or anoxic conditions that constitute dead zones — this is a factually accurate step in the eutrophication sequence."
+        }
+      ],
+      "strong_distractor": "c — Option (c) which would include statement 3 as incorrect is the strong distractor; students who misremember the dead-zone mechanism might doubt statement 3 and incorrectly mark it as false.",
+      "elimination_logic": [
+        "Identify Statement 1 as incorrect — eutrophication is far more pronounced in lentic systems where stagnant conditions allow nutrient accumulation and algal proliferation.",
+        "Identify Statement 2 as incorrect — cultural eutrophication differs in BOTH source AND rate; human acceleration compresses decades of natural change into years.",
+        "Confirm Statement 3 is correct — the algal bloom → decomposition → oxygen depletion → dead zone sequence is well-established ecology.",
+        "The question asks which are NOT correct; Statements 1 and 2 are incorrect, so the answer is option (b) — 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the key trap. Students who have a surface understanding know that cultural eutrophication involves human-sourced nutrients (fertilisers, sewage) while natural eutrophication occurs over geological timescales. They correctly note the source difference and assume the statement is therefore only partially wrong. But the statement specifically claims the only difference is the nutrient source and not the rate — this is the false element. Cultural eutrophication is defined precisely by its accelerated rate, compressing centuries of natural aging into years.",
+      "final_explanation": "Eutrophication is the process by which excessive nutrient enrichment of a water body stimulates algal and plant growth, eventually depleting oxygen and degrading the ecosystem. The correct sequence is: nutrient loading → algal blooms → algal die-off → microbial decomposition → oxygen depletion → hypoxic/anoxic dead zones.\n\n• Statement 1 — Incorrect: Eutrophication disproportionately affects lentic (still) bodies — lakes, ponds, reservoirs. In lotic (flowing) rivers, current disperses nutrients and prevents the bloom conditions needed for eutrophication. Chilika Lake and Hussain Sagar are Indian examples.\n• Statement 2 — Incorrect: Cultural and natural eutrophication differ in both source AND rate. Cultural eutrophication, driven by fertiliser runoff and sewage, accelerates the process dramatically — millennia of natural lake aging can occur in decades.\n• Statement 3 — Correct: Dead algal biomass is decomposed by microbes; this decomposition is heavily oxygen-demanding, creating hypoxic zones where most aquatic life cannot survive.\n\nValue Addition:\n• Phosphorus is typically the limiting nutrient in freshwater eutrophication; nitrogen limits marine eutrophication.\n• The Gulf of Mexico dead zone, fed by Mississippi River nutrient runoff, is the world's most studied coastal hypoxic zone.\n• Stripping phosphorus during sewage treatment (tertiary treatment) is one of the most effective cultural eutrophication controls."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to eutrophication of water bodies, consider the following statements:\n\n1. Eutrophication affects lentic and lotic water bodies equally because nutrient enrichment is independent of water movement.\n2. Cultural eutrophication differs from natural eutrophication only in the source of nutrients, not in the rate of ecological change it induces.\n3. Algal blooms associated with eutrophication can lead to hypoxic dead zones through increased microbial decomposition of dead algal biomass.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 3 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ce455818-8392-49af-ab7c-476a8206ab36",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Heavy Metal Contamination in Water: Sources, Bioaccumulation, and Health Effects"
+      ],
+      "subject_que_no": 3591,
+      "overall_que_no": 16735
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "conflation",
+      "concept_anchor": "Heavy metals — disease-source pairings",
+      "statement_analysis": [
+        {
+          "statement": "Mercury contamination — Minamata disease (neurological damage from methylmercury ingestion)",
+          "verdict": "Correct",
+          "reason": "Minamata disease, first identified in Minamata Bay, Japan, is caused by methylmercury discharged by a chemical plant accumulating through the food chain."
+        },
+        {
+          "statement": "Cadmium contamination — Itai-Itai disease (painful bone degeneration in Japan)",
+          "verdict": "Correct",
+          "reason": "Itai-Itai disease (meaning 'ouch-ouch') was caused by cadmium released from zinc mining operations contaminating rice paddies in Japan's Toyama Prefecture."
+        },
+        {
+          "statement": "Lead contamination — Blue Baby Syndrome (methemoglobinemia in infants)",
+          "verdict": "Incorrect",
+          "reason": "Blue Baby Syndrome (methemoglobinemia) is caused by nitrate contamination, not lead. Lead causes neurodevelopmental impairment, anaemia, and renal damage, particularly in children."
+        },
+        {
+          "statement": "Arsenic contamination — chronic skin lesions (hyperkeratosis) and increased cancer risk, prominent in West Bengal and Bangladesh",
+          "verdict": "Correct",
+          "reason": "Arsenic in groundwater from alluvial plains of the Gangetic delta causes hyperkeratosis, Bowen's disease, and elevated risks of skin, bladder, and lung cancer — a major public health crisis in West Bengal and Bangladesh."
+        }
+      ],
+      "strong_distractor": "b — 'Only two' is tempting because students who know Pairs 1 and 2 are correct but are uncertain about Pair 3 may assume it is also correct, reaching 'only three' or second-guessing themselves on Pair 4.",
+      "elimination_logic": [
+        "Confirm Pair 1 — Mercury and Minamata disease is a foundational environmental health fact; this pairing is correct.",
+        "Confirm Pair 2 — Cadmium and Itai-Itai disease is equally standard; this pairing is correct.",
+        "Examine Pair 3 carefully — Blue Baby Syndrome is caused by nitrate (methemoglobinemia), not lead; lead causes neurotoxicity. Pair 3 is incorrect.",
+        "Confirm Pair 4 — Arsenic in West Bengal/Bangladesh groundwater causing hyperkeratosis and cancer is well-documented; Pair 4 is correct.",
+        "Three pairs (1, 2, 4) are correctly matched — the answer is option (a) Only three."
+      ],
+      "upsc_trap_explanation": "Pair 3 is the designed trap. 'Blue Baby Syndrome' is a memorable clinical term that students often associate generically with heavy metal or industrial contamination. Lead poisoning is a highly prevalent topic in water pollution discourse, making the lead–Blue Baby pairing seem authoritative. In reality, methemoglobinemia results from nitrate reducing haemoglobin's oxygen-carrying capacity in infant gut bacteria — it is a nitrate disease, not a lead disease. Students who link 'infant harm + water pollution' without precision fall for this conflation.",
+      "final_explanation": "The study of heavy metal–disease associations is a high-yield UPSC topic. Each metal has a signature health impact.\n\n• Pair 1 — Correct: Methylmercury, bioaccumulated through fish consumption, caused the Minamata disaster in Japan — the origin of the Minamata Convention on Mercury (2013).\n• Pair 2 — Correct: Cadmium leaching from zinc mines contaminated irrigation water in Japan's Toyama Prefecture, causing Itai-Itai (painful bone disease).\n• Pair 3 — Incorrect: Blue Baby Syndrome (methemoglobinemia) is caused by nitrate converting haemoglobin to methaemoglobin in infants, not by lead. Lead's health effects include neurotoxicity, reduced IQ, anaemia, and renal impairment.\n• Pair 4 — Correct: Geogenic arsenic in shallow aquifers of West Bengal and Bangladesh is among the world's largest groundwater contamination crises, affecting tens of millions.\n\nValue Addition:\n• Biomagnification of methylmercury means apex predators (tuna, sharks, humans) carry far higher concentrations than ambient water levels suggest.\n• BIS permits arsenic at 0.05 mg/L in drinking water; WHO's more stringent guideline is 0.01 mg/L.\n• The Minamata Convention entered into force in 2017; India is a signatory."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following pairings of heavy metal contaminants and their associated health conditions:",
+        "columns": [
+          "Heavy Metal / Contaminant",
+          "Associated Disease / Health Condition"
+        ],
+        "rows": [
+          [
+            "1. Mercury",
+            "Minamata disease (neurological damage from methylmercury ingestion)"
+          ],
+          [
+            "2. Cadmium",
+            "Itai-Itai disease (painful bone degeneration in Japan)"
+          ],
+          [
+            "3. Lead",
+            "Blue Baby Syndrome (methemoglobinemia in infants)"
+          ],
+          [
+            "4. Arsenic",
+            "Chronic skin lesions (hyperkeratosis) and increased cancer risk — West Bengal and Bangladesh"
+          ]
+        ],
+        "footer_text": "How many of the above pairs are correctly matched?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bdac1675-578e-4499-9848-3aabc2d454b5",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Groundwater Contamination: Natural vs. Anthropogenic Sources"
+      ],
+      "subject_que_no": 3592,
+      "overall_que_no": 16736
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Fluorosis — geogenic origin misattributed to industry",
+      "statement_analysis": [
+        {
+          "statement": "Fluorosis in India is predominantly caused by geogenic fluoride leaching from hard-rock geological formations rather than industrial fluoride discharge.",
+          "verdict": "Correct",
+          "reason": "In India, fluoride contamination of groundwater occurs naturally through the weathering of fluoride-bearing minerals in hard-rock aquifers, particularly in states like Rajasthan, Andhra Pradesh, and Telangana — this is geogenic, not primarily industrial."
+        },
+        {
+          "statement": "The Water (Prevention and Control of Pollution) Act, 1974 provides a comprehensive regulatory framework for preventing anthropogenic groundwater contamination across India.",
+          "verdict": "Incorrect",
+          "reason": "The 1974 Water Act primarily covers surface water bodies ('streams' and 'wells' in a limited sense); comprehensive aquifer-level groundwater governance requires separate state-level legislation and the (yet-to-be-enacted nationwide) Model Bill for Groundwater Management."
+        },
+        {
+          "statement": "Nitrate contamination of groundwater can arise from both geological formations and over-application of nitrogen-based fertilisers.",
+          "verdict": "Correct",
+          "reason": "Nitrate occurs geogenically in certain formations and is also introduced anthropogenically through fertiliser leaching and septic tank seepage — both pathways are documented."
+        }
+      ],
+      "strong_distractor": "d — All three appears attractive to students who correctly recall fluorosis as a major Indian water problem and assume all three statements must be correct without scrutinising the regulatory claim in Statement 2.",
+      "elimination_logic": [
+        "Confirm Statement 1 — geogenic fluorosis in hard-rock regions of Rajasthan, AP, and Telangana is a well-established fact; Statement 1 is correct.",
+        "Scrutinise Statement 2 — the 1974 Act's scope is 'streams', rivers, and limited well provisions; it does not comprehensively cover deep aquifer groundwater; Statement 2 is incorrect.",
+        "Confirm Statement 3 — dual origin of nitrate (geological and fertiliser-based) is supported by groundwater science literature; Statement 3 is correct.",
+        "Retain option containing only Statements 1 and 3 — this is option (c)."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 1 exploits the common misattribution of fluorosis to aluminium smelters and phosphate fertiliser plants — both of which do release fluoride. Students who know industrial fluoride pollution exists may doubt the 'predominantly geogenic' claim. In India specifically, however, the dominant pathway is geogenic leaching in hard-rock terrain, not industrial discharge. Statement 2's trap is equally dangerous: the 1974 Act sounds comprehensive, and students who know it addresses water pollution broadly may assume it covers groundwater adequately, overlooking the documented regulatory gap for aquifers.",
+      "final_explanation": "Groundwater contamination can be geogenic (natural mineralogy of aquifer rock) or anthropogenic (human activity). Distinguishing these is critical for policy design.\n\n• Statement 1 — Correct: Fluoride is naturally leached from fluoride-bearing minerals (fluorapatite, fluorite) in hard-rock aquifers across Rajasthan, AP, Telangana, and Gujarat — the primary driver of dental and skeletal fluorosis in India is geogenic, not industrial.\n• Statement 2 — Incorrect: The Water Act 1974 governs pollution of 'streams' (rivers, watercourses) and mentions wells only partially. Comprehensive regulation of deep groundwater aquifers falls under state Groundwater Acts and the Model Bill framework — not the 1974 Act. This is a critical regulatory gap.\n• Statement 3 — Correct: Nitrate reaches groundwater both from natural geological weathering of nitrate-bearing sediments and from anthropogenic leaching of nitrogen fertilisers and septic effluents.\n\nValue Addition:\n• India lacks a central groundwater quality protection law; the Model Groundwater (Sustainable Management) Bill has been circulated to states but not uniformly enacted.\n• Fluorosis affects an estimated 66 million Indians across 20 states.\n• The Jal Jeevan Mission tests for 11 parameters including fluoride and nitrate at household tap level."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to groundwater contamination in India, consider the following statements:\n\n1. Fluorosis in India is predominantly caused by geogenic fluoride leaching from hard-rock geological formations rather than industrial fluoride discharge.\n2. The Water (Prevention and Control of Pollution) Act, 1974 provides a comprehensive regulatory framework for preventing anthropogenic groundwater contamination across India.\n3. Nitrate contamination of groundwater can arise from both geological formations and over-application of nitrogen-based fertilisers.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e355c98e-e46f-4766-bb58-d3522ba8dcb3",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Agricultural Runoff as a Water Pollutant: Pesticides, Fertilizers, and Sediments"
+      ],
+      "subject_que_no": 3593,
+      "overall_que_no": 16737
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Nitrate leaching and methemoglobinemia in infants",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know that nitrate causes Blue Baby Syndrome and that agricultural runoff contains nitrate may assume R directly explains A without questioning whether the mechanism described in R is accurate.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes: Nitrate-contaminated drinking water causes methemoglobinemia (Blue Baby Syndrome) in infants — infants lack the enzyme methemoglobin reductase to reverse the haemoglobin conversion.",
+        "Step 2 — Is R correct? No: R states that nitrate 'directly binds to haemoglobin' — this is mechanistically wrong. Gut bacteria in infants reduce nitrate to nitrite; it is nitrite that converts haemoglobin to methaemoglobin. Nitrate itself does not directly bind haemoglobin.",
+        "Step 3 — Since R is factually incorrect, select option (c): A is correct but R is incorrect.",
+        "The answer is option (c)."
+      ],
+      "upsc_trap_explanation": "This question traps students who know the factual link (nitrate → Blue Baby Syndrome) but not the precise biochemical mechanism. The Reason uses the phrase 'directly binds to haemoglobin,' which sounds plausible because carbon monoxide and cyanide are known to bind haemoglobin directly. Nitrate, however, must first be reduced to nitrite by intestinal bacteria, and it is nitrite that oxidises Fe²⁺ to Fe³⁺ in haemoglobin. Students who accept R's mechanism without scrutiny will choose option (a), not recognising that the causal chain stated in R is factually wrong.",
+      "final_explanation": "Methemoglobinemia (Blue Baby Syndrome) is a life-threatening condition in infants resulting from nitrate-contaminated water, typically from agricultural areas with high fertiliser use.\n\nAssertion (A) is correct: Infants under six months are particularly vulnerable because their gut bacteria readily reduce nitrate to nitrite, and their immature enzyme systems cannot efficiently reconvert methaemoglobin to functional haemoglobin.\n\nReason (R) is incorrect: The mechanism stated — that nitrate 'directly binds to haemoglobin' — is wrong. The actual sequence is: dietary nitrate → gut bacterial reduction → nitrite → oxidation of haemoglobin Fe²⁺ to Fe³⁺ (methaemoglobin) → reduced oxygen-carrying capacity → cyanosis. It is nitrite, not nitrate, that acts on haemoglobin, and the binding is oxidative, not a direct ligand-type bond.\n\nTherefore, A is correct but R is incorrect — option (c).\n\nValue Addition:\n• WHO and BIS set the nitrate limit in drinking water at 45 mg/L (as NO₃) and 50 mg/L respectively.\n• Adults have sufficient methemoglobin reductase to handle typical nitrate exposure; infants do not.\n• Persistent Organic Pollutants (POPs) from pesticides cause endocrine disruption — a distinct harm from nitrate's methemoglobinemia mechanism.",
+      "ar_consistency_flag": true
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Infants are at significantly greater risk than adults of developing methemoglobinemia when exposed to nitrate-contaminated drinking water from agricultural areas.\n\nReason (R): Nitrate ingested through contaminated water directly binds to haemoglobin in red blood cells, converting it to methaemoglobin and reducing the blood's oxygen-carrying capacity.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b3c23ac7-54d8-4f89-8f92-8f9f221f00d6",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Industrial Effluents: Sectoral Sources and Specific Pollutants"
+      ],
+      "subject_que_no": 3594,
+      "overall_que_no": 16738
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "CPCB Highly Polluting Industries — specific pollutant pairings",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) pairs tanneries with dioxins and pulp & paper with chromium — a plausible-sounding swap since both are industrial toxic substances and students may not have memorised industry-specific pollutant assignments.",
+      "elimination_logic": [
+        "Anchor on tanneries — chromium (hexavalent) is the signature pollutant of the tanning process used for leather; tanneries definitively go with chromium (List II item 2).",
+        "Anchor on pulp and paper industry — chlorine bleaching of wood pulp produces dioxins and furans; pulp and paper goes with dioxins (List II item 1).",
+        "Anchor on textiles — azo dyes are the dominant colorant in synthetic textile manufacturing and the major effluent concern; textiles go with azo dyes (List II item 3).",
+        "Anchor on thermal power plants — they discharge heated cooling water, a physical (thermal) change, not chemical; thermal power plants go with elevated temperature discharge (List II item 4).",
+        "This produces A-2, B-1, C-3, D-4 — option (b)."
+      ],
+      "upsc_trap_explanation": "The trap is the chromium–dioxin swap between tanneries and pulp & paper. Both produce hazardous effluents and both appear on the CPCB's 17 Highly Polluting Industries list. Students who have a surface awareness of industrial pollution may associate 'chlorine-related industry' with textiles (which do use chlorine-based bleaches) or link 'heavy industrial chemistry' to pulp mills without precision. The correct anchors — chromium from chrome tanning and dioxins from chlorine bleaching of wood pulp — require sector-specific knowledge, not just general awareness.",
+      "final_explanation": "The CPCB identifies 17 categories of Highly Polluting Industries (HPIs), each with characteristic effluent pollutants. Matching industries to their signature pollutants tests precision beyond general awareness.\n\nCorrect pairings:\n• A (Tanneries) → 2 (Chromium compounds): Chrome tanning uses chromium sulfate; hexavalent chromium in wastewater is acutely toxic and carcinogenic.\n• B (Pulp and Paper) → 1 (Dioxins and furans): Chlorine-based bleaching of wood pulp generates organochlorine compounds including dioxins — highly persistent and bioaccumulative.\n• C (Textiles) → 3 (Azo dyes): Synthetic azo dyes dominate the textile dyeing industry; many are carcinogenic and highly colour-persistent in effluents.\n• D (Thermal Power Plants) → 4 (Elevated temperature discharge): Thermal pollution from cooling water return is the defining effluent issue for power plants — no chemical addition, but oxygen depletion through temperature rise.\n\nTrap pair: Tanneries–dioxins and Pulp & paper–chromium is the planted confusion in options (a) and (c).\n\nValue Addition:\n• Zero Liquid Discharge (ZLD) is mandated for textile and tannery clusters in ecologically sensitive zones.\n• Common Effluent Treatment Plants (CETPs) pool small-scale industry wastewater for centralised treatment, addressing individual unit capacity limits.\n• The 17 HPI categories include fertilisers, petrochemicals, distilleries, and chlor-alkali plants, each with distinct pollutant profiles."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Industry) with List II (Primary Water Pollutant Associated with its Effluent):",
+        "columns": [
+          "List I — Industry",
+          "List II — Primary Water Pollutant"
+        ],
+        "rows": [
+          [
+            "A. Tanneries",
+            "1. Dioxins and furans"
+          ],
+          [
+            "B. Pulp and Paper mills",
+            "2. Hexavalent chromium compounds"
+          ],
+          [
+            "C. Textile dyeing units",
+            "3. Azo dyes"
+          ],
+          [
+            "D. Thermal power plants",
+            "4. Elevated temperature discharge (thermal load)"
+          ]
+        ],
+        "footer_text": "Select the correct matching from the options below:\n\n(a) A-1, B-2, C-3, D-4\n(b) A-2, B-1, C-3, D-4\n(c) A-2, B-3, C-1, D-4\n(d) A-1, B-3, C-2, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "06f74f78-756e-41a7-9e07-50dcabb3c40d",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Thermal Pollution: Mechanisms and Ecological Impact"
+      ],
+      "subject_que_no": 3595,
+      "overall_que_no": 16739
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Thermal pollution — beneficial applications and DO mechanism",
+      "statement_analysis": [
+        {
+          "statement": "Thermal pollution from power plant cooling water discharge reduces dissolved oxygen in receiving water bodies because oxygen solubility in water decreases as water temperature increases.",
+          "verdict": "Correct",
+          "reason": "This is physically accurate — Henry's Law dictates that gas solubility decreases with rising temperature; warmer discharge water holds less dissolved oxygen, stressing aquatic life."
+        },
+        {
+          "statement": "Thermal pollution is exclusively harmful in all aquatic contexts and has no application where its effects may be considered beneficial.",
+          "verdict": "Incorrect",
+          "reason": "In controlled contexts such as aquaculture (accelerating fish growth) and maintaining ice-free winter navigation channels, elevated water temperature from thermal discharges can be beneficial — the claim that it is 'exclusively harmful' is false."
+        }
+      ],
+      "strong_distractor": "a — Students who recall that thermal pollution causes fish kills, disrupts spawning, and reduces DO may be so primed toward its harms that they accept the 'exclusively harmful' framing in Statement 2 without critically examining the qualifier 'exclusively.'",
+      "elimination_logic": [
+        "Verify Statement 1 — the inverse relationship between water temperature and oxygen solubility is a fundamental physical chemistry principle; Statement 1 is correct.",
+        "Scrutinise Statement 2's qualifier 'exclusively harmful in all aquatic contexts' — this absolute claim fails because thermal discharge is used beneficially in aquaculture and winter navigation; Statement 2 is incorrect.",
+        "Since Statement 1 is correct and Statement 2 is incorrect, the answer is option (c)."
+      ],
+      "upsc_trap_explanation": "The word 'exclusively' in Statement 2 is the trap mechanism. Students conditioned to associate thermal pollution with ecological harm will not pause to evaluate whether any beneficial application exists. UPSC examiners test nuanced understanding precisely at these absolutes — 'only,' 'always,' 'exclusively,' 'never.' The beneficial use of thermal discharge in aquaculture (warm-water species cultivation) and for preventing harbour ice formation is documented and represents the exact nuance that separates rote learning from genuine comprehension.",
+      "final_explanation": "Thermal pollution occurs when water temperature is elevated beyond the ecological tolerance of aquatic communities, primarily through power plant cooling water returns.\n\nStatement 1 — Correct: Dissolved oxygen (DO) solubility in water is inversely proportional to temperature. As cooling water discharges raise stream temperature, DO falls — triggering fish kills and disrupting spawning cycles in thermally sensitive species like salmonids.\n\nStatement 2 — Incorrect: The claim that thermal pollution is 'exclusively harmful in all aquatic contexts' is false. In aquaculture, controlled warm water can accelerate metabolism and growth rates of fish species. In cold climates, thermal discharges have been used to keep navigation channels and harbours ice-free in winter. These are genuine beneficial applications recognised in environmental literature, making any absolute statement about thermal effects incorrect.\n\nValue Addition:\n• Cooling towers are the primary mitigation technology — they dissipate heat to the atmosphere before water is returned to the source body.\n• Thermal plume modelling is required in environmental impact assessments for power plants in India.\n• Altered spawning cycles from thermal pollution can have population-level effects on commercially important fish over multiple generations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to thermal pollution of water bodies, consider the following statements:\n\nStatement 1: Thermal pollution from power plant cooling water discharge reduces dissolved oxygen in receiving water bodies because oxygen solubility in water decreases as water temperature increases.\n\nStatement 2: Thermal pollution is exclusively harmful in all aquatic contexts and has no application where its effects may be considered beneficial.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6d770015-06d4-4f89-9fae-c0863ef8deff",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Sewage and Domestic Wastewater: Pathogen Load and Nutrient Pollution"
+      ],
+      "subject_que_no": 3596,
+      "overall_que_no": 16740
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Faecal coliform as bathing water quality indicator",
+      "statement_analysis": null,
+      "strong_distractor": "a — BOD is the most commonly discussed water quality indicator in pollution curricula, leading students who know BOD is used for 'water quality assessment' to instinctively select it even when the question context specifies bathing water pathogen monitoring.",
+      "elimination_logic": [
+        "The blank requires a biological indicator organism used specifically to assess faecal contamination in bathing water — this points to a coliform-type indicator, not a chemical parameter.",
+        "Eliminate BOD — it is a chemical/biochemical oxygen demand measurement, not a pathogen-indicating organism.",
+        "Eliminate Dissolved Oxygen — DO measures oxygen availability, not faecal contamination.",
+        "Eliminate Total Dissolved Solids — TDS measures ionic content; it has no relationship to faecal pathogen presence.",
+        "Faecal coliform (or thermotolerant coliform) is the standard biological indicator for bathing water quality — select option (b)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Bathing water quality is assessed using indicator organisms that signal faecal contamination rather than direct testing for every possible pathogen. Faecal coliform bacteria (particularly E. coli) are used because they are abundant in human and animal intestinal tracts, easy to culture and count, and their presence reliably correlates with the probable presence of enteric pathogens.\n\n• Option (a) — Incorrect: Biochemical Oxygen Demand (BOD) measures organic load through microbial oxygen consumption — it is a chemical parameter, not a pathogen indicator.\n• Option (b) — Correct: Faecal coliform count is the standard indicator for bathing water safety; CPCB Class B water (bathing use) specifies faecal coliform limits.\n• Option (c) — Incorrect: Dissolved Oxygen (DO) measures oxygen availability for aquatic life — it does not indicate faecal or pathogen contamination.\n• Option (d) — Incorrect: Total Dissolved Solids (TDS) measures dissolved ionic material; it has no correlation with faecal contamination levels.\n\nValue Addition:\n• CPCB Class B water for bathing requires faecal coliform <500 MPN/100 mL and DO ≥5 mg/L.\n• E. coli is preferred over total coliform as a faecal indicator because it is exclusively of intestinal origin.\n• India's Ganga Action Plan introduced real-time faecal coliform monitoring at select ghats under Namami Gange."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under CPCB's designated water quality classification for bathing use, the primary biological indicator organism used to assess faecal contamination is ________.\n\n(a) Biochemical Oxygen Demand (BOD)\n(b) Faecal coliform bacteria\n(c) Dissolved Oxygen (DO)\n(d) Total Dissolved Solids (TDS)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "673f6e98-ca7c-4548-af9e-969c88006da7",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "River Pollution in India: Ganga and Beyond — Policy, Data, and Gaps"
+      ],
+      "subject_que_no": 3597,
+      "overall_que_no": 16741
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "NRCP vs. Namami Gange — distinct programme scopes",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know that Namami Gange is the flagship river cleaning programme and that NRCP also addresses river pollution may assume both have identical scope, selecting the option that treats them as interchangeable.",
+      "elimination_logic": [
+        "Recall that Namami Gange is specifically a Ganga-focused integrated mission under the Ministry of Jal Shakti.",
+        "Recall that NRCP predates Namami Gange and covers rivers OTHER than the Ganga — it was launched in 1995 to extend river cleaning beyond the Ganga Action Plan.",
+        "Eliminate options that treat the two programmes as having the same geographical or functional scope.",
+        "Select the option that correctly states NRCP covers non-Ganga rivers while Namami Gange is Ganga-specific."
+      ],
+      "upsc_trap_explanation": "Both programmes address river pollution, creating conflation risk for students who know one but not the precise scope of the other. NRCP (1995) was designed as the successor/extension of the Ganga Action Plan to cover other polluted rivers. When Namami Gange (2014) was launched as an 'Integrated Ganga Conservation Mission,' many students assumed it superseded or subsumed NRCP entirely. In fact, both coexist: NRCP handles non-Ganga rivers while Namami Gange focuses exclusively on the Ganga and its tributaries. Examiners exploit this institutional overlap frequently.",
+      "final_explanation": "India has multiple river conservation programmes that students often conflate.\n\n• Option (a) — Incorrect: The two programmes do not have identical scope; treating them as interchangeable is the trap this question is designed to expose.\n• Option (b) — Incorrect: NRCP was not subsumed into Namami Gange; both operate as separate programmes under the Ministry of Jal Shakti.\n• Option (c) — Correct: NRCP (launched 1995) covers polluted stretches of rivers other than the Ganga across India. Namami Gange (launched 2014 with ₹20,000 crore outlay) is specifically an Integrated Ganga Conservation Mission covering the Ganga, its tributaries, and sub-tributaries.\n• Option (d) — Incorrect: Namami Gange is not limited to industrial effluent — it addresses domestic sewage (the largest Ganga pollution share at ~80%), industrial clusters, solid waste, and open defecation.\n\nValue Addition:\n• CPCB's 2018 report identified 351 polluted river stretches across 323 rivers in India.\n• Namami Gange uses the Hybrid Annuity Model (HAM) for STP construction — 40% upfront, 60% as annuity.\n• Real-Time Water Quality Monitoring Stations (RTWQMS) under Namami Gange transmit data on BOD, DO, pH, and conductivity continuously."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following most accurately distinguishes the National River Conservation Plan (NRCP) from the Namami Gange Programme?\n\n(a) Both programmes have identical geographical scope but differ only in the agencies responsible for implementation.\n(b) NRCP was merged into Namami Gange in 2014, and the latter now covers all polluted rivers in India.\n(c) NRCP covers polluted stretches of rivers other than the Ganga, while Namami Gange is specifically an Integrated Ganga Conservation Mission.\n(d) Namami Gange addresses only industrial effluent discharge into the Ganga, while NRCP addresses domestic sewage across all rivers.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "67103449-cc6b-49be-b1ce-0b5f3e68ebad",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Marine and Coastal Water Pollution: Oil Spills, Plastics, and Nutrient Loading"
+      ],
+      "subject_que_no": 3598,
+      "overall_que_no": 16742
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Marine pollution — land-based sources dominant share",
+      "statement_analysis": [
+        {
+          "statement": "Approximately 80% of marine pollution originates from land-based sources rather than from maritime shipping and offshore activities.",
+          "verdict": "Correct",
+          "reason": "International scientific consensus (UNEP, GESAMP) consistently estimates that ~80% of marine pollution comes from land-based sources including riverine discharge, coastal runoff, and atmospheric deposition — not from ships."
+        },
+        {
+          "statement": "The MARPOL Convention primarily regulates land-based sources of marine pollution, including industrial effluent discharge into rivers that eventually reach the sea.",
+          "verdict": "Incorrect",
+          "reason": "MARPOL (International Convention for the Prevention of Pollution from Ships) regulates ship-sourced marine pollution (oil, noxious liquids, garbage, sewage, air emissions from ships) — it does not address land-based sources, which fall under separate frameworks."
+        },
+        {
+          "statement": "Bioremediation of marine oil spills can involve hydrocarbon-degrading bacteria such as Alcanivorax species, which proliferate in oil-contaminated seawater.",
+          "verdict": "Correct",
+          "reason": "Alcanivorax bacteria are obligate hydrocarbonoclastic bacteria that become dominant in oil-contaminated marine environments and are a key agent of natural and augmented bioremediation of oil spills."
+        }
+      ],
+      "strong_distractor": "d — All three is deceptive because Statements 1 and 3 are correct, and Statement 2 uses authoritative treaty language ('MARPOL Convention') which creates confidence — students may not scrutinise whether MARPOL covers land-based sources.",
+      "elimination_logic": [
+        "Confirm Statement 1 — the 80% land-based source figure for marine pollution is a well-established international environmental statistic; Statement 1 is correct.",
+        "Scrutinise Statement 2 — MARPOL is a ship pollution convention; its title itself (Prevention of Pollution from Ships) signals it does not cover land-based industrial discharge into rivers; Statement 2 is incorrect.",
+        "Confirm Statement 3 — Alcanivorax is a documented genus of obligate hydrocarbon-degrading marine bacteria used in bioremediation; Statement 3 is correct.",
+        "Retain only option containing Statements 1 and 3 — option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the planted trap. MARPOL is a commonly referenced international convention, and students know it relates to marine pollution. The claim that it regulates 'land-based sources' is false — MARPOL exclusively covers ship-sourced pollution across six annexes. Students who associate 'MARPOL = marine pollution = comprehensive marine law' without knowing its specific scope will mark Statement 2 as correct, leading them to choose option (d). This tests treaty scope precision, a classic UPSC international law trap.",
+      "final_explanation": "Marine and coastal water pollution is a multi-source problem with a counterintuitive distribution of responsibility.\n\n• Statement 1 — Correct: Around 80% of marine pollution comes from land-based sources — urban stormwater, agricultural runoff, riverine discharge of industrial and domestic waste. This makes shipping regulation, while important, insufficient on its own.\n• Statement 2 — Incorrect: MARPOL (1973/78) regulates pollution from ships through six annexes covering oil, noxious liquids, packaged goods, sewage, garbage, and air emissions from vessels. It has no jurisdiction over land-based sources. Land-based marine pollution falls under frameworks like the Global Programme of Action (GPA) for the Protection of the Marine Environment from Land-Based Activities.\n• Statement 3 — Correct: Alcanivorax bacteria naturally proliferate in hydrocarbon-enriched seawater and degrade alkanes efficiently — a key mechanism in natural attenuation of oil spills, supplemented by nutrient addition (biostimulation) in bioremediation operations.\n\nValue Addition:\n• India is a signatory to MARPOL and enforces it through the Merchant Shipping Act.\n• The Gulf of Mannar is a region of concern for coastal eutrophication from river-borne nutrients.\n• Microplastics entering the marine environment overwhelmingly come from land-based mismanaged plastic waste, consistent with the 80% land-source rule."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to marine and coastal water pollution, consider the following statements:\n\n1. Approximately 80% of marine pollution originates from land-based sources rather than from maritime shipping and offshore activities.\n2. The MARPOL Convention primarily regulates land-based sources of marine pollution, including industrial effluent discharge into rivers that eventually reach the sea.\n3. Bioremediation of marine oil spills can involve hydrocarbon-degrading bacteria such as Alcanivorax species, which proliferate in oil-contaminated seawater.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "cac41048-5a2e-4117-a324-14d3c0ed5b22",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Microplastics in Water: Sources, Pathways, and Emerging Regulatory Responses"
+      ],
+      "subject_que_no": 3599,
+      "overall_que_no": 16743
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Primary vs. secondary microplastics — source classification",
+      "statement_analysis": null,
+      "strong_distractor": "c — Microbeads in cosmetics appear to be a clearly identifiable, manufactured product, and some students may believe that because they are 'so obviously plastic' they might be classified differently — or they may confuse microbeads with a natural exfoliant. The real trap is the inclusion of a clearly secondary microplastic source among three primary ones.",
+      "elimination_logic": [
+        "Identify which items are PRIMARY microplastics — those manufactured at micro-size for industrial or consumer use: nurdles (resin pellets), microbeads in personal care products, and synthetic textile fibres shed during manufacturing.",
+        "Identify which item is a SECONDARY microplastic — formed by the fragmentation of larger plastics: fragments from degrading plastic bottles are secondary microplastics.",
+        "The question asks for the odd one out — the one that does NOT belong with the others; the odd category here is secondary microplastics.",
+        "Option (b) — fragments from degrading plastic bottles — is the only secondary microplastic; all others are primary."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Microplastics are classified by their mode of origin: primary microplastics are manufactured intentionally at micro-scale; secondary microplastics form through environmental degradation of larger plastic items.\n\n• Option (a) — Nurdles (pre-production resin pellets): Primary microplastics, the raw material for plastic manufacturing, lost during transport and production.\n• Option (b) — Fragments from degrading plastic bottles: Secondary microplastics — formed when UV radiation, mechanical action, and weathering break macroplastics into progressively smaller pieces. This is the ODD ONE OUT.\n• Option (c) — Microbeads in exfoliating cosmetic products: Primary microplastics, intentionally manufactured at <5 mm for personal care applications.\n• Option (d) — Synthetic textile fibres released during industrial fabric production: Primary microplastics, shed from polyester/nylon fabrics during manufacturing (also during washing — a secondary release pathway, but the fibres themselves are primary).\n\nValue Addition:\n• STPs cannot effectively remove microplastics — they pass through conventional filtration and enter receiving water bodies.\n• India banned microbeads in cosmetics under the Plastic Waste Management Rules.\n• Microplastics have been detected in Arctic sea ice, deep ocean sediments, and human blood — indicating global ubiquity."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following are examples of PRIMARY microplastics, while one is a SECONDARY microplastic. Which one does NOT belong to the same category as the others?\n\n(a) Nurdles (pre-production plastic resin pellets) spilled during industrial transport\n(b) Fragments generated by the physical and UV-induced degradation of discarded plastic bottles in aquatic environments\n(c) Microbeads incorporated into exfoliating face-wash products\n(d) Synthetic textile fibres released from polyester fabrics during industrial manufacturing",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "49ae7164-9126-42cc-a8f9-2266ffba262b",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Water (Prevention and Control of Pollution) Act, 1974: Key Provisions and Institutional Framework"
+      ],
+      "subject_que_no": 3600,
+      "overall_que_no": 16744
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Water Act 1974 — constitutional basis Article 252",
+      "statement_analysis": null,
+      "strong_distractor": "b — Article 253 (Parliament legislating to fulfil international treaty obligations) is a plausible distractor because students know India signed international environmental agreements, and Parliament's environmental legislation is sometimes justified on this basis; without knowing the specific legislative history, option (b) seems reasonable.",
+      "elimination_logic": [
+        "Identify the constitutional question — under which Article did Parliament legislate on a State List subject (Water — Entry 17, State List)?",
+        "Eliminate Article 249 — this allows Parliament to legislate on a State List subject when the Rajya Sabha passes a resolution of national importance; no such resolution preceded the 1974 Act.",
+        "Eliminate Article 253 — this enables Parliament to legislate to give effect to international treaties; while India was influenced by the 1972 Stockholm Conference, the 1974 Act's constitutional basis is specifically Article 252.",
+        "Eliminate Article 246(3) — this is the residual provision for State List subjects going to state legislatures, not Parliament.",
+        "Article 252 allows Parliament to legislate on a State List subject when two or more state legislatures pass resolutions requesting Parliament to do so — this is the constitutional basis for the Water Act 1974."
+      ],
+      "upsc_trap_explanation": "Students who know that Parliament normally cannot legislate on Entry 17 (Water) of the State List often reach for Article 249 (national importance resolution) or Article 253 (international treaty implementation — referencing Stockholm 1972) as the enabling provision. The correct answer, Article 252, is less intuitively recalled because it requires students to know that state legislatures requested Parliament to legislate — a procedural detail that distinguishes this Act from others. The 2024 Amendment context in the scenario adds a contemporary layer, making students second-guess foundational provisions.",
+      "final_explanation": "The Water (Prevention and Control of Pollution) Act, 1974 presents a constitutional law puzzle — how could Parliament legislate on 'Water,' a State List subject?\n\nThe applicable principle is Article 252: when two or more state legislatures pass resolutions empowering Parliament to legislate on a State List subject, Parliament may do so for those states. Other states may subsequently adopt the legislation. This was the mechanism used for the Water Act 1974.\n\n• Option (a) — Article 249: Allows Parliament to legislate on State List matters if the Rajya Sabha passes a resolution by two-thirds majority declaring it expedient in the national interest. This was NOT the basis for the 1974 Act.\n• Option (b) — Article 253: Enables Parliament to legislate to implement international treaties. While Stockholm Conference (1972) inspired the Act, Article 252 — not 253 — is its stated constitutional basis.\n• Option (c) — Article 246(3): This provision identifies State Legislature's exclusive domain over State List subjects — it is not an enabling provision for Parliamentary legislation.\n• Option (d) — Article 252: Correct. The Water Act 1974 was enacted under Article 252 following resolutions by state legislatures.\n\nValue Addition:\n• The Environment Protection Act, 1986 uses a different basis — Article 253 (Stockholm/Rio commitments).\n• The 2024 Amendment to the Water Act decriminalised minor violations and introduced adjudicatory officers.\n• CPCB (central) sets standards; SPCBs enforce through 'Consent to Establish' and 'Consent to Operate' mechanisms."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A parliamentary committee is reviewing the constitutional validity of recent amendments to India's primary water pollution control legislation. A member argues that Parliament could not have originally enacted this law because 'Water' figures in the State List of the Seventh Schedule. The committee's legal counsel responds that Parliament used a specific constitutional provision that allows it to legislate on State List subjects upon request by state legislatures.\n\nThe constitutional provision the legal counsel is referring to is:\n\n(a) Article 249 — Parliament legislates on State List subjects when the Rajya Sabha resolves it is in the national interest\n(b) Article 253 — Parliament legislates to give effect to international treaties and conventions\n(c) Article 246(3) — Residual legislative power over State List subjects rests with state legislatures\n(d) Article 252 — Parliament may legislate on a State List subject when two or more state legislatures request it to do so",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c413c523-4739-436f-9ffc-e44162c5cc68",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Biological Indicators of Water Quality: Biotic Indices and Indicator Species"
+      ],
+      "subject_que_no": 3601,
+      "overall_que_no": 16745
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": null,
+      "concept_anchor": "Saprobic system — pollution zones from clean to heavily polluted",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who remember 'alpha/beta mesosaprobic' as an intermediate category may place it before oligosaprobic or after polysaprobic, confused by the 'meso' prefix suggesting it is a transitional middle zone they might position incorrectly in the sequence.",
+      "elimination_logic": [
+        "Recall that the saprobic system classifies water quality zones from cleanest to most polluted.",
+        "Oligosaprobic = cleanest water, high DO, low organic load — this is the starting point.",
+        "Beta-mesosaprobic = slightly polluted; alpha-mesosaprobic = moderately polluted — both are intermediate.",
+        "Polysaprobic = most polluted, very low DO, high organic load, dominated by tubifex worms — this is the end point.",
+        "Correct order from least to most polluted: Oligosaprobic → Beta-mesosaprobic → Alpha-mesosaprobic → Polysaprobic — matching option (c)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "The saprobic system classifies water body zones based on their organic pollution load and the biological community present, moving from the cleanest to the most degraded:\n\nCorrect sequence (clean to polluted):\nOligosaprobic → Beta-mesosaprobic → Alpha-mesosaprobic → Polysaprobic\n\n• Oligosaprobic: High DO, low organic matter, clean-water indicator species like mayfly (Ephemeroptera) larvae and stonefly larvae predominate.\n• Beta-mesosaprobic: Slightly elevated organic load; diverse community still present but sensitive species declining.\n• Alpha-mesosaprobic: Moderate to heavy organic pollution; tolerant species dominant; DO beginning to fall significantly.\n• Polysaprobic: Severe organic enrichment, near-zero DO, dominated by highly pollution-tolerant tubifex worms and Chironomus (bloodworm) larvae.\n\nWrong options exploit confusion between the two mesosaprobic subdivisions or misplacement of polysaprobic.\n\nValue Addition:\n• Tubifex worms are classical indicators of polysaprobic zones; their presence in a river signals severe organic pollution.\n• Mayfly (Ephemeroptera) larvae indicate clean, oligosaprobic water — their absence is an early warning of deteriorating quality.\n• Biotic indices such as the Biological Monitoring Working Party (BMWP) score assign sensitivity scores to invertebrate taxa to derive a composite water quality index."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under the saprobic system of biological water quality classification, which of the following represents the correct sequence of zones from the least polluted (cleanest) to the most heavily polluted?\n\n(a) Polysaprobic → Alpha-mesosaprobic → Beta-mesosaprobic → Oligosaprobic\n(b) Oligosaprobic → Alpha-mesosaprobic → Beta-mesosaprobic → Polysaprobic\n(c) Oligosaprobic → Beta-mesosaprobic → Alpha-mesosaprobic → Polysaprobic\n(d) Beta-mesosaprobic → Oligosaprobic → Alpha-mesosaprobic → Polysaprobic",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bd7f384c-02a6-46d6-acca-89c8506e6820",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Acid Mine Drainage (AMD): Formation, Effects, and Remediation"
+      ],
+      "subject_que_no": 3602,
+      "overall_que_no": 16746
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "AMD — legacy pollution persists after mining ceases",
+      "statement_analysis": [
+        {
+          "statement": "Acid Mine Drainage is formed when iron sulfide minerals in exposed rock are oxidised by air and water, producing sulfuric acid and solubilising heavy metals into drainage water.",
+          "verdict": "Correct",
+          "reason": "AMD formation involves the oxidation of pyrite (FeS₂) and other iron sulfide minerals exposed during mining, producing sulfuric acid which then mobilises iron, manganese, arsenic, lead, and other metals from surrounding rock into water bodies."
+        },
+        {
+          "statement": "Acid Mine Drainage ceases to be an environmental concern once active mining operations at a site are permanently halted.",
+          "verdict": "Incorrect",
+          "reason": "AMD is a legacy pollution problem — the chemical reactions continue for decades or centuries after mining stops because exposed sulfide minerals and residual spoil heaps continue to oxidise; abandoned mines are among the most persistent AMD sources globally."
+        }
+      ],
+      "strong_distractor": "a — Students who correctly verify Statement 1 may not rigorously examine Statement 2's implicit assumption that AMD is tied to active mining operations, and assume both statements must be correct.",
+      "elimination_logic": [
+        "Verify Statement 1 — pyrite oxidation producing H₂SO₄ and heavy metal mobilisation is the standard AMD formation chemistry; Statement 1 is correct.",
+        "Critically examine Statement 2's claim — 'ceases to be an environmental concern once mining halts' — this contradicts the well-documented legacy nature of AMD from abandoned mines; Statement 2 is incorrect.",
+        "Since Statement 1 is correct and Statement 2 is incorrect, the answer is option (c) — except the options here are structured differently; the correct option matching 'Statement 1 correct, Statement 2 incorrect' is option (b) under the two-statement format: 'Statement 1 is correct but Statement 2 is incorrect'."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 2 targets students who understand AMD as a product of active mining operations (blasting, excavation, and water pumping during mining). The critical knowledge point is that AMD is a geochemical process driven by exposure of sulfide minerals to oxygen and water — a condition that persists indefinitely in abandoned open-cast mines, spoil heaps, and underground workings long after the last worker leaves. India's coal mining legacy in Jharkhand, Odisha, and Chhattisgarh includes numerous abandoned sites with ongoing AMD, representing a persistent and underregulated environmental liability.",
+      "final_explanation": "Acid Mine Drainage (AMD) is one of the most chemically persistent forms of water pollution because it is geochemically self-sustaining.\n\nStatement 1 — Correct: When iron sulfide minerals (pyrite, marcasite) are exposed to oxygen and water during mining, they oxidise to produce ferrous sulfate and sulfuric acid. The acid then leaches additional heavy metals (arsenic, lead, manganese, cadmium) from surrounding geology into surface and groundwater. The characteristic orange-red coloration of AMD-affected streams ('yellow boy') comes from ferric hydroxide precipitation.\n\nStatement 2 — Incorrect: AMD is fundamentally a legacy pollution issue. Once sulfide minerals are exposed, the oxidation reactions are thermodynamically spontaneous and continue independent of active mining. Abandoned mines are globally among the worst AMD sources because pumping ceases, water tables rise, and acid-laden water resurfaces uncontrolled. India's abandoned coal mines in Jharkhand and Odisha represent precisely this problem.\n\nValue Addition:\n• AMD can lower stream pH to below 4, effectively eliminating most aquatic life.\n• Passive treatment using constructed wetlands and limestone channels is a lower-cost remediation approach for abandoned mine sites.\n• The Mines and Minerals (Development and Regulation) Act in India requires mining companies to set aside funds for post-closure environmental restoration."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to Acid Mine Drainage (AMD) from coal mining regions, consider the following statements:\n\nStatement 1: Acid Mine Drainage is formed when iron sulfide minerals in exposed rock are oxidised by air and water, producing sulfuric acid and solubilising heavy metals into drainage water.\n\nStatement 2: Acid Mine Drainage ceases to be an environmental concern once active mining operations at a site are permanently halted.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Statement 1 is correct but Statement 2 is incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Both Statement 1 and Statement 2 are incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "813e4a23-53b6-4be8-a421-b896b17be5ea",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Endocrine Disrupting Chemicals (EDCs) in Water: Sources, Mechanism, and Regulatory Status"
+      ],
+      "subject_que_no": 3603,
+      "overall_que_no": 16747
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "EDCs — regulatory gap and ecological feminisation effects",
+      "statement_analysis": [
+        {
+          "statement": "Endocrine disrupting chemicals such as synthetic estrogens exert hormonal effects only at high concentrations comparable to conventional industrial pollutants.",
+          "verdict": "Incorrect",
+          "reason": "EDCs are biologically active at extremely low concentrations — often in the nanogram per litre (ng/L) range — far below the thresholds at which conventional pollutants cause harm; this low-dose effect is a defining feature that makes standard risk assessment frameworks inadequate."
+        },
+        {
+          "statement": "Feminisation of fish populations and intersex fish documented downstream of sewage treatment plants have been attributed to synthetic estrogens (such as ethinylestradiol) that conventional STPs do not effectively remove.",
+          "verdict": "Correct",
+          "reason": "This is scientifically established — ethinylestradiol (EE2) from excreted oral contraceptives is not effectively removed by conventional biological STP processes and has been documented to cause intersex (feminised) fish populations in rivers receiving STP effluent."
+        },
+        {
+          "statement": "Endocrine disrupting chemicals are comprehensively regulated under India's existing drinking water quality standards, which specify maximum permissible concentrations for all major EDCs.",
+          "verdict": "Incorrect",
+          "reason": "EDCs represent a regulatory gap in India — standard drinking water norms (BIS IS 10500:2012) do not include specific limits for EDCs such as BPA, phthalates, or synthetic estrogens; this is a well-documented policy deficiency."
+        }
+      ],
+      "strong_distractor": "c — Both 2 and 3 is tempting because students who are unsure about Statement 2's technical detail (intersex fish) may doubt it and incorrectly mark it as incorrect alongside Statement 3, choosing 'both 2 and 3' as the not-correct pair.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — it claims EDCs act 'only at high concentrations comparable to conventional pollutants.' This contradicts the defining characteristic of EDCs: activity at nanogram levels. Statement 1 is NOT correct.",
+        "Evaluate Statement 2 — feminisation of fish downstream of STPs due to EE2 is documented in peer-reviewed literature; this is factually accurate. Statement 2 IS correct.",
+        "Evaluate Statement 3 — BIS IS 10500:2012 does not include EDC-specific limits; this is a documented regulatory gap. Statement 3 is NOT correct.",
+        "The question asks which are NOT correct; Statements 1 and 3 are incorrect — option (a): 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the primary trap. Regulatory coverage appears comprehensive at first glance — BIS sets standards for dozens of parameters. Students who know that India has drinking water standards may assume major pollutant categories including EDCs are covered. The critical and testable fact is that EDCs fall into the regulatory gap — they are not listed in BIS IS 10500:2012 or the CPCB's standard parameters. This is precisely the kind of 'absence of regulation' detail that UPSC uses to test whether students understand the limits of existing frameworks, not just their existence.",
+      "final_explanation": "Endocrine Disrupting Chemicals (EDCs) are among the most concerning emerging water pollutants because their mechanism and regulatory status differ fundamentally from conventional pollutants.\n\n• Statement 1 — Incorrect: EDCs are active at extraordinarily low concentrations — nanograms per litre — far below levels where conventional risk assessment identifies harm. This low-dose non-linear dose-response relationship is what makes EDCs a unique regulatory challenge.\n• Statement 2 — Correct: Synthetic estrogen EE2 (ethinylestradiol from contraceptive pills), excreted in urine and incompletely removed by STPs, has been causally linked to feminisation and intersex conditions in fish populations receiving STP effluent — documented in UK rivers and raised as a concern for Indian water bodies.\n• Statement 3 — Incorrect: India's BIS IS 10500:2012 drinking water standards do not include specific limits for EDCs. This regulatory gap means that water compliant with Indian standards may still contain biologically active levels of BPA, phthalates, or synthetic estrogens.\n\nValue Addition:\n• Atrazine (herbicide) is an EDC that causes feminisation in frogs even at 0.1 ppb — below US EPA limits.\n• The EU's Water Framework Directive has begun including some EDCs in priority substance lists — an approach India has not yet adopted.\n• Hospital effluents are a concentrated source of pharmaceutical EDCs and require source-level treatment before entering municipal STPs."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to endocrine disrupting chemicals (EDCs) as water pollutants, consider the following statements:\n\n1. Endocrine disrupting chemicals such as synthetic estrogens exert hormonal effects only at high concentrations comparable to conventional industrial pollutants.\n2. Feminisation of fish populations and intersex fish documented downstream of sewage treatment plants have been attributed to synthetic estrogens that conventional STPs do not effectively remove.\n3. Endocrine disrupting chemicals are comprehensively regulated under India's existing drinking water quality standards, which specify maximum permissible concentrations for all major EDCs.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 only\n(d) 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2b371e4d-564d-45c4-9663-46641fc440c0",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Radioactive Contamination of Water: Sources, Risks, and Standards"
+      ],
+      "subject_que_no": 3604,
+      "overall_que_no": 16748
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Radon — geogenic natural radioactive contaminant in groundwater",
+      "statement_analysis": null,
+      "strong_distractor": "b — Jadugoda-uranium pairing is factually real and well-publicised, making students highly confident in selecting it — but the question asks for correct matching across all four pairs, and the trap lies in a different option.",
+      "elimination_logic": [
+        "Evaluate option (a) — radon is a geogenic radioactive gas formed by natural decay of uranium and thorium in granite-rich rock; it dissolves in groundwater naturally, not exclusively from nuclear industry activity. This pairing is correct.",
+        "Evaluate option (b) — Jadugoda in Jharkhand is India's oldest uranium mine and is associated with radioactive contamination concerns among local communities. This pairing is correct.",
+        "Evaluate option (c) — WHO's indicative dose guideline for radioactivity in drinking water is a total indicative dose of less than 0.1 mSv per year, NOT 1.0 mSv. This pairing is incorrect — the question asks for 'correctly matched,' so this is the answer for 'NOT correctly matched'; but the question format asks which IS correctly matched.",
+        "Evaluate option (d) — internal radiation exposure from ingesting radioactive water (alpha/beta emitters) through drinking is the correct pathway for health effects; this pairing is correct.",
+        "Only option (c) has an incorrect value (1.0 mSv stated vs. actual 0.1 mSv); the correctly matched pair from those listed that is an unambiguous correct match (when question asks which is correctly matched) is option (a)."
+      ],
+      "upsc_trap_explanation": "The trap is the WHO dose guideline figure. Students who know there is a WHO radioactivity guideline for drinking water may remember the general principle but not the exact value. The options contrast 0.01 mSv, 0.1 mSv, and 1.0 mSv — numbers that look similar. The correct WHO total indicative dose guideline is 0.1 mSv/year. Option (c) states 1.0 mSv/year, a ten-fold exaggeration. Students who misremember the figure or confuse it with occupational dose limits (which are in the mSv-to-mSv range) will incorrectly validate option (c).",
+      "final_explanation": "Radioactive water contamination spans both anthropogenic and natural (geogenic) sources.\n\n• Option (a) — Correctly matched: Radon (Rn-222) is a naturally occurring radioactive gas produced by uranium and thorium decay chains in granite and other igneous rocks. It dissolves readily in groundwater percolating through such formations and is a geogenic contaminant, not exclusively a nuclear-industry product.\n• Option (b) — Correctly matched: Jadugoda, Jharkhand, hosts India's oldest uranium mine (operated by UCIL); radioactive contamination of local streams and health concerns in surrounding communities have been raised by civil society groups.\n• Option (c) — Incorrectly matched: The WHO guideline for radioactivity in drinking water is a total indicative dose of <0.1 mSv/year — NOT 1.0 mSv/year. The option overstates the permissible dose by a factor of ten.\n• Option (d) — Correctly matched: Internal radiation exposure from consuming radioactive water is the primary health pathway — alpha and beta emitters irradiate the gut lining and, once absorbed, internal organs, increasing cancer and genetic mutation risk.\n\nValue Addition:\n• Naturally occurring radioactive materials (NORM) in groundwater — including radium and uranium — are a significant geogenic concern in parts of Rajasthan and Bihar.\n• Alpha radiation, while blocked by skin, is highly damaging when ingested — making drinking water the critical exposure route.\n• India's Atomic Energy Regulatory Board (AERB) sets radiation dose limits; drinking water radioactivity is also addressed in BIS IS 10500."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to radioactive contamination of water, which of the following pairs is NOT correctly matched?\n\n(a) Radon in groundwater — Geogenic origin from natural uranium and thorium decay in granite-rich geological formations\n(b) Jadugoda, Jharkhand — Site of India's uranium mining with associated radioactive contamination concerns\n(c) WHO guideline for radioactivity in drinking water — Total indicative dose of less than 1.0 mSv per year\n(d) Health risk from radioactive drinking water — Internal exposure through ingestion causing cancer and genetic mutations",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a333cc10-b99a-47fb-afa3-883206a60838",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Pharmaceutical and Personal Care Products (PPCPs) as Emerging Water Pollutants"
+      ],
+      "subject_que_no": 3605,
+      "overall_que_no": 16749
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "PPCPs — conventional WTP/STP treatment gap for emerging contaminants",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know that PPCPs cause AMR and that STPs fail to remove them may assume A (AMR link) and R (STP failure) are both correct and that R explains A — missing that the causal chain runs from PPCP-contaminated water to environmental AMR selection pressure, not from inadequate STP removal to resistance gene formation.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes: Water bodies receiving pharmaceutical industry and hospital effluents — such as streams near the Patancheru cluster in Hyderabad — have been documented to harbour antibiotic resistance genes and resistant bacteria, contributing to the AMR crisis.",
+        "Step 2 — Is R correct? Yes: Conventional STPs and WTPs are designed to remove suspended solids, BOD, and pathogens; they are not equipped to degrade pharmaceutical molecules, which typically require advanced oxidation, ozonation, or activated carbon treatment.",
+        "Step 3 — Does R causally explain A? No: R explains why PPCPs persist in water bodies (STP failure to remove them), but A is about the AMR crisis — the causal chain from persistent PPCPs to AMR involves sub-lethal antibiotic concentrations selecting for resistant bacteria, which is a different mechanism than STP treatment failure. R describes a pathway condition, not the AMR mechanism itself. Both A and R are correct, but R does not correctly explain A.",
+        "The answer is option (b)."
+      ],
+      "upsc_trap_explanation": "This is a classic 'both correct, wrong explanation' trap. A student who verifies A (PPCPs → AMR link) and R (STPs don't remove PPCPs) independently will find both true and instinctively choose option (a). The precise test is whether R explains A. R explains why PPCPs persist in water — it does not explain how AMR develops. The AMR mechanism requires that sub-therapeutic antibiotic concentrations create selection pressure favouring resistant microbial strains. This is a biochemical/evolutionary mechanism, not a treatment technology failure. R describes persistence; A describes its evolutionary consequence. The causal bridge between them is not stated in R.",
+      "final_explanation": "Pharmaceuticals and Personal Care Products (PPCPs) represent a rapidly growing category of water pollutants with unique regulatory and treatment challenges.\n\nAssertion (A) is correct: PPCP contamination — particularly antibiotic residues at sub-lethal concentrations — in water bodies creates selection pressure that promotes antimicrobial resistance. Streams near pharmaceutical clusters like Patancheru (Hyderabad) have recorded ciprofloxacin levels among the highest ever measured globally, making them hotspots for AMR gene proliferation.\n\nReason (R) is correct: Conventional STPs and Water Treatment Plants use physical settling, biological treatment, and chlorination — processes designed for suspended solids, BOD, and pathogens. Pharmaceutical molecules with complex ring structures resist biological degradation. Removal requires advanced oxidation processes (AOP), ozonation, or activated carbon filtration, none of which are standard in Indian STPs.\n\nHowever, R does NOT explain A: R explains why pharmaceutical pollutants persist in treated water — a pathway issue. The AMR mechanism described in A requires an additional step: sub-lethal concentrations selecting for resistance genes through evolutionary pressure. R describes persistence, not the resistance-selection mechanism.\n\nAnswer: option (b).\n\nValue Addition:\n• Patancheru near Hyderabad was flagged in studies for having some of the world's highest ciprofloxacin levels in local water bodies.\n• Advanced Oxidation Processes (AOPs) using UV/H₂O₂ or ozone can degrade PPCPs but are energy-intensive and costly.\n• The WHO Global Action Plan on Antimicrobial Resistance identifies environmental contamination (including water) as a key AMR transmission pathway.",
+      "ar_consistency_flag": true
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Water bodies receiving effluents from pharmaceutical manufacturing clusters and hospitals have been identified as significant contributors to the antimicrobial resistance (AMR) crisis through the proliferation of antibiotic resistance genes in aquatic environments.\n\nReason (R): Conventional sewage treatment plants and water treatment facilities are not designed to remove pharmaceutical compounds and therefore fail to degrade antibiotic residues before treated water is discharged or distributed.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6ba145ae-4b4d-41c6-98d4-27515d0151d5",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Transboundary Water Pollution: International Law and India's Obligations"
+      ],
+      "subject_que_no": 3606,
+      "overall_que_no": 16750
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "India not party to 1997 UN Watercourses Convention; Helsinki/Berlin Rules non-binding",
+      "statement_analysis": [
+        {
+          "statement": "India is not a party to the United Nations Convention on the Law of Non-Navigational Uses of International Watercourses, 1997.",
+          "verdict": "Correct",
+          "reason": "India abstained from voting on the 1997 Convention and has not ratified it — this is a well-documented position reflecting India's concerns about the balance between 'equitable utilisation' and 'no significant harm' principles in the context of its shared rivers."
+        },
+        {
+          "statement": "The Helsinki Rules on the Uses of the Waters of International Rivers and the Berlin Rules on Water Resources are binding treaties under international law.",
+          "verdict": "Incorrect",
+          "reason": "Both the Helsinki Rules (1966) and the Berlin Rules (2004) are guidelines adopted by the International Law Association (ILA), a non-governmental body — they are non-binding academic instruments, not legally binding treaties negotiated between states."
+        },
+        {
+          "statement": "The Indus Waters Treaty between India and Pakistan does not contain specific provisions addressing cross-boundary water pollution.",
+          "verdict": "Correct",
+          "reason": "The Indus Waters Treaty (1960), brokered by the World Bank, allocates river flows between the two countries but is silent on water quality and pollution — a recognised gap in the treaty framework."
+        }
+      ],
+      "strong_distractor": "d — All three appears attractive to students who correctly verify Statements 1 and 3 and mistakenly assume 'Helsinki Rules' and 'Berlin Rules' carry binding force because they are named as formal 'Rules' — the naming convention implies a degree of legal authority.",
+      "elimination_logic": [
+        "Confirm Statement 1 — India's non-party status to the 1997 UN Watercourses Convention is a standard international environmental law fact tested in UPSC; Statement 1 is correct.",
+        "Scrutinise Statement 2 — Helsinki Rules and Berlin Rules sound authoritative, but the ILA is an NGO, not an intergovernmental body; its outputs are scholarly guidelines, not binding treaties; Statement 2 is incorrect.",
+        "Confirm Statement 3 — the Indus Waters Treaty is exclusively a water-sharing arrangement; pollution is not addressed anywhere in its text; Statement 3 is correct.",
+        "Retain option containing only Statements 1 and 3 — option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the designed trap using terminology confusion. 'Rules' in international environmental law — Helsinki Rules, Berlin Rules — sound like formal legal instruments. Students may not know that the International Law Association (ILA) is a non-governmental scholarly body, not the UN or an intergovernmental organisation. Only conventions negotiated under UN auspices or through diplomatic conferences and ratified by states become binding international law. ILA Rules are influential on state practice and judicial decisions but carry no binding legal force. This distinction — binding vs. non-binding, treaty vs. guideline — is a recurring UPSC trap in international environmental law questions.",
+      "final_explanation": "Transboundary water pollution sits at the intersection of international water law and environmental diplomacy. Precision about which instruments are binding is essential.\n\n• Statement 1 — Correct: India did not sign and has not ratified the 1997 UN Convention on Non-Navigational Uses of International Watercourses. India's concern centres on the 'no significant harm' principle potentially constraining upstream development activities.\n• Statement 2 — Incorrect: The Helsinki Rules (1966) and Berlin Rules (2004) are scholarly codifications by the International Law Association — a private international law NGO. They are influential guidance documents but not binding international treaties. Only conventions ratified through state diplomatic processes carry binding force.\n• Statement 3 — Correct: The Indus Waters Treaty (1960) allocates the six Indus system rivers between India (eastern rivers) and Pakistan (western rivers) but is entirely silent on water quality and pollution — a gap of increasing significance as agricultural and industrial contamination in the basin grows.\n\nValue Addition:\n• The 1997 Convention entered into force in 2014 after securing its 35th ratification (China and India opposed it).\n• 'Equitable utilisation' (benefit-sharing) and 'no significant harm' are the two foundational but often conflicting principles of international water law.\n• India shares river basins with Bangladesh, Nepal, Bhutan, Pakistan, and China — making transboundary water law highly relevant to India's diplomatic challenges."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to international law governing transboundary water pollution and shared river basins, consider the following statements:\n\n1. India is not a party to the United Nations Convention on the Law of Non-Navigational Uses of International Watercourses, 1997.\n2. The Helsinki Rules on the Uses of the Waters of International Rivers and the Berlin Rules on Water Resources are binding treaties under international law.\n3. The Indus Waters Treaty between India and Pakistan does not contain specific provisions addressing cross-boundary water pollution.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fbe76b55-2f6f-4948-9efb-dbd57ba2563e",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Water Quality Standards in India: BIS, CPCB, and WHO — Hierarchy and Gaps"
+      ],
+      "subject_que_no": 3607,
+      "overall_que_no": 16751
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "BIS drinking water standards — voluntary, not legally enforceable",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know that BIS is the statutory standards body of India and that IS 10500:2012 is the official drinking water standard may assume standards published by a statutory body are automatically legally enforceable — conflating the standard's existence with its legal enforceability.",
+      "elimination_logic": [
+        "Eliminate option (a) — BIS publishes IS 10500 as a voluntary standard; for it to become mandatory, it must be adopted by a specific regulation or notification under a relevant law.",
+        "Eliminate option (b) — CPCB's classification applies to ambient water body quality (Class A to E), not to drinking water quality at point-of-supply; BIS IS 10500 governs drinking water.",
+        "Eliminate option (d) — BIS standards are not superseded by WHO guidelines in domestic law; both are reference documents in India, but neither automatically overrides the other in enforcement.",
+        "Retain option (c) — BIS IS 10500:2012 is a voluntary standard unless specifically adopted into regulation, representing a documented enforcement gap."
+      ],
+      "upsc_trap_explanation": "The trap exploits the institutional authority of BIS. Students know BIS as India's apex standardisation body (statutory body under BIS Act 2016), and 'IS 10500:2012' as the official drinking water quality standard. The leap from 'official standard' to 'legally enforceable' is intuitive but incorrect. In India, BIS standards are voluntary by default. They become mandatory only when a specific Act, Rule, or Government notification adopts them — for example, the Bureau of Indian Standards Act can mandate specific standards in certain product categories through mandatory certification schemes. As of the current position, IS 10500:2012 for drinking water is not uniformly mandatory across all water supply contexts in India — a significant policy gap.",
+      "final_explanation": "Water quality standards in India operate within a complex hierarchy of BIS, CPCB, and WHO frameworks.\n\n• Option (a) — Incorrect: BIS IS 10500:2012 is NOT automatically legally enforceable across India. BIS publishes it as a voluntary standard. Legal enforceability requires specific adoption through regulation — an enforcement gap that allows water compliant with looser operational parameters to be supplied.\n• Option (b) — Incorrect: CPCB's designated best-use classification (Class A through E) applies to ambient water body quality, not to treated drinking water at point-of-supply. Class A bodies (drinking without treatment) must meet different criteria than the treated water standards in IS 10500.\n• Option (c) — Correct: BIS IS 10500:2012 is a voluntary standard. Its parameters become legally mandatory only when adopted through specific regulatory notification — a gap that has policy implications for safe drinking water access.\n• Option (d) — Incorrect: WHO guidelines are international reference values; BIS standards govern Indian domestic regulatory context. Neither automatically overrides the other in Indian domestic law.\n\nValue Addition:\n• BIS arsenic limit (0.05 mg/L) is five times more permissive than WHO's guideline (0.01 mg/L) — a disparity with major public health implications in arsenic-affected states.\n• CPCB's National Water Quality Monitoring Programme (NWMP) covers 4,000+ monitoring stations across India.\n• The Jal Jeevan Mission mandates testing for 11 parameters at household taps — the closest to mandatory enforcement of drinking water quality standards at the domestic level."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following statements about water quality standards in India is correct?\n\n(a) BIS IS 10500:2012 is a legally enforceable standard across India, and water supply authorities are legally bound to comply with all its parameters.\n(b) CPCB's designated best-use water body classification directly regulates drinking water quality at the point of supply to consumers.\n(c) BIS drinking water standards are voluntary unless specifically adopted into regulation, creating an enforcement gap in drinking water quality governance.\n(d) WHO drinking water quality guidelines supersede BIS standards whenever they specify more stringent limits for any parameter.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "45b0eec0-3ad0-42af-9bd3-9a36c32123e9",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Heavy Metal Contamination in Water: Sources, Bioaccumulation, and Health Effects",
+        "Agricultural Runoff as a Water Pollutant: Pesticides, Fertilizers, and Sediments"
+      ],
+      "subject_que_no": 3608,
+      "overall_que_no": 16752
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "Bioaccumulation vs. biomagnification — intra-organism vs. trophic-level distinction",
+      "statement_analysis": [
+        {
+          "statement": "Bioaccumulation refers to the progressive increase in pollutant concentration across successive trophic levels in a food chain, whereas biomagnification refers to the accumulation of a pollutant within a single organism over its lifetime.",
+          "verdict": "Incorrect",
+          "reason": "The definitions are reversed. Bioaccumulation is the build-up of a substance within a single organism faster than it is eliminated; biomagnification is the increase in pollutant concentration across trophic levels — small organisms have lower concentrations; apex predators have the highest."
+        },
+        {
+          "statement": "Persistent Organic Pollutants from agricultural pesticides are of particular concern for biomagnification because they are lipophilic (fat-soluble), resist metabolic breakdown, and accumulate in fatty tissues.",
+          "verdict": "Correct",
+          "reason": "POPs such as DDT and its metabolites are highly lipophilic and resistant to biodegradation, allowing them to accumulate in fat stores and magnify in concentration through each trophic level — this is why apex predators like eagles and dolphins carry the highest tissue burdens."
+        }
+      ],
+      "strong_distractor": "a — Students who know both terms exist and recognise that Statement 2 sounds correct may not carefully re-read Statement 1's definition reversal, defaulting to 'both correct' since the overall topic area is familiar.",
+      "elimination_logic": [
+        "Read Statement 1 carefully — it defines bioaccumulation as cross-trophic-level increase and biomagnification as within-organism accumulation. These definitions are explicitly reversed; Statement 1 is incorrect.",
+        "Evaluate Statement 2 — lipophilicity, metabolic resistance, and fatty-tissue accumulation are the exact properties that make POPs prone to biomagnification; Statement 2 is correct.",
+        "Since Statement 1 is incorrect and Statement 2 is correct, the answer is option (d) — except the two-statement-relationship options map this to 'Statement 1 is incorrect but Statement 2 is correct,' which is option (d)."
+      ],
+      "upsc_trap_explanation": "The reversal of bioaccumulation and biomagnification definitions in Statement 1 is the trap. Students who know both terms often use them interchangeably, or they recall the definition of one and apply it to the other. The terms are frequently conflated in media coverage and even some textbook descriptions. The precise distinction — bioaccumulation is within one organism, biomagnification is across trophic levels — is a classic UPSC precision-testing point. Students in a hurry will see 'bioaccumulation... biomagnification' and assume the statement correctly differentiates them without reading the direction of each definition.",
+      "final_explanation": "The bioaccumulation–biomagnification distinction is one of the most commonly confused pairings in environmental science.\n\nStatement 1 — Incorrect: The definitions are reversed. Bioaccumulation = a pollutant accumulates within a single organism (intake rate exceeds elimination rate). Biomagnification = pollutant concentration increases progressively across trophic levels — organisms at higher trophic levels have far greater tissue concentrations than those at lower levels or ambient water.\n\nStatement 2 — Correct: POPs like DDT, aldrin, and endosulfan are lipophilic — they dissolve in fat rather than water. This means they are stored in fatty tissues rather than excreted. As a predator consumes many prey organisms, it ingests and retains the POP burden of all of them, producing concentration amplification at each trophic step. Apex predators (bald eagles, killer whales, humans eating large fish) carry concentrations millions of times above ambient water levels.\n\nValue Addition:\n• DDT biomagnification was the central finding of Rachel Carson's Silent Spring (1962) — which catalysed the modern environmental movement.\n• India banned DDT for agricultural use in 1989 but continues to permit its use for malaria vector control — a documented source of environmental POP persistence.\n• Mercury (methylmercury) biomagnifies through aquatic food chains similarly to POPs, explaining why large predatory fish like tuna carry higher mercury burdens."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about pollutant behaviour in aquatic food chains:\n\nStatement 1: Bioaccumulation refers to the progressive increase in pollutant concentration across successive trophic levels in a food chain, whereas biomagnification refers to the accumulation of a pollutant within a single organism over its lifetime.\n\nStatement 2: Persistent Organic Pollutants from agricultural pesticides are of particular concern for biomagnification because they are lipophilic, resist metabolic breakdown, and accumulate in fatty tissues.\n\nWhich one of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b097470b-af12-4bca-9a56-8980781b9284",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Sewage and Domestic Wastewater: Pathogen Load and Nutrient Pollution",
+        "River Pollution in India: Ganga and Beyond — Policy, Data, and Gaps"
+      ],
+      "subject_que_no": 3609,
+      "overall_que_no": 16753
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "STP vs. ETP regulatory distinction and Ganga pollution source shares",
+      "statement_analysis": [
+        {
+          "statement": "Sewage Treatment Plants (STPs) are regulated primarily by State Pollution Control Boards under the Water Act, 1974, while Effluent Treatment Plants (ETPs) are mandated for industrial units under the same Act.",
+          "verdict": "Incorrect",
+          "reason": "This conflates the regulatory oversight. STPs serving urban areas fall primarily under Urban Local Bodies (ULBs)/municipal corporations, not directly the SPCB's consent mechanism under the Water Act — which is focused on industrial consent. Industrial ETPs require SPCB consent to establish and operate. The regulatory frameworks are distinct and different authorities are primarily responsible."
+        },
+        {
+          "statement": "Domestic sewage constitutes the largest single source of pollution in the Ganga river, accounting for approximately 80% of the total pollution load.",
+          "verdict": "Correct",
+          "reason": "CPCB and National Mission for Clean Ganga data consistently identify domestic sewage as the dominant contributor (~80%) to Ganga's BOD load, far exceeding industrial effluent, solid waste, and other sources."
+        },
+        {
+          "statement": "More than 70% of India's total sewage is discharged without adequate treatment due to the gap between installed STP capacity and actual sewage generation.",
+          "verdict": "Correct",
+          "reason": "CPCB's assessments have repeatedly shown that installed STP capacity falls well short of actual sewage generation, and that a significant proportion of installed capacity is not fully operational — resulting in over 70% of sewage being discharged inadequately treated."
+        },
+        {
+          "statement": "Faecal coliform bacteria serve as indicator organisms for sewage contamination because they are directly pathogenic and cause waterborne diseases in humans.",
+          "verdict": "Incorrect",
+          "reason": "Faecal coliforms are indicator organisms — they signal the probable presence of pathogens, not because they are themselves pathogenic in the same way as cholera or typhoid bacilli. E. coli (the key faecal coliform) is largely non-pathogenic in its environmental form; its presence indicates faecal contamination that may harbour actual pathogens."
+        }
+      ],
+      "strong_distractor": "c — 'Only three' is tempting for students who confidently know Statements 2 and 3 are correct and mistakenly accept Statement 4's claim about faecal coliforms being 'directly pathogenic' because they associate coliforms with illness from contaminated water.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — STPs fall primarily under urban local bodies, not SPCB consent mechanism; the statement conflates two separate regulatory tracks; Statement 1 is incorrect.",
+        "Evaluate Statement 2 — domestic sewage as ~80% of Ganga pollution is well-established NMCG/CPCB data; Statement 2 is correct.",
+        "Evaluate Statement 3 — >70% untreated sewage discharge is consistent with CPCB's documented treatment gap; Statement 3 is correct.",
+        "Evaluate Statement 4 — faecal coliforms are indicator organisms (proxy for faecal contamination), not directly pathogenic themselves; Statement 4 is incorrect.",
+        "Only Statements 2 and 3 are correct — 'Only two' — option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 4 contains a precise trap: the word 'directly pathogenic.' Students know that faecal coliform detection correlates with waterborne disease outbreaks and conclude the organisms are pathogenic. The distinction is critical — faecal coliforms (including most E. coli strains) are non-pathogenic themselves in typical environmental concentrations; they are used as proxies because they accompany true enteric pathogens (Vibrio cholerae, Salmonella typhi, Hepatitis A virus) in faecal-contaminated water. Using them as indicators does not make them the causative agents of disease.",
+      "final_explanation": "Sewage treatment governance and Ganga pollution data are high-frequency UPSC topics requiring precision.\n\n• Statement 1 — Incorrect: STP regulation is primarily through Urban Local Bodies and state urban development departments — not through the SPCB 'consent to establish/operate' mechanism (which targets industries). The Water Act's consent mechanism applies to industrial units discharging to water bodies.\n• Statement 2 — Correct: NMCG and CPCB data identify domestic sewage as responsible for approximately 80% of the Ganga's pollution load by BOD — making STP capacity the most critical intervention target.\n• Statement 3 — Correct: India generates far more sewage than its installed (and operational) STP capacity can treat. The CPCB's 2021 assessment documented this treatment deficit, with over 70% of generated sewage inadequately treated.\n• Statement 4 — Incorrect: Faecal coliforms are biological indicators — proxies signalling faecal contamination — not themselves the primary causative agents of waterborne disease. Their value is precisely that they are easy to detect and their presence reliably predicts the probable co-occurrence of true pathogens.\n\nValue Addition:\n• Namami Gange's Hybrid Annuity Model (HAM) for STPs attempts to bridge the STP construction and operation funding gap.\n• Real-Time Water Quality Monitoring Stations (RTWQMS) on the Ganga transmit DO, BOD, pH, and conductivity data continuously.\n• Only about 28% of India's Class-I cities have functional STP capacity matching their sewage generation, per CPCB estimates."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about sewage treatment and domestic wastewater pollution in India:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Sewage Treatment Plants (STPs) are regulated primarily by State Pollution Control Boards under the Water Act, 1974, while Effluent Treatment Plants (ETPs) are mandated for industrial units under the same Act."
+          ],
+          [
+            "2",
+            "Domestic sewage constitutes the largest single source of pollution in the Ganga river, accounting for approximately 80% of the total pollution load."
+          ],
+          [
+            "3",
+            "More than 70% of India's total sewage is discharged without adequate treatment due to the gap between installed STP capacity and actual sewage generation."
+          ],
+          [
+            "4",
+            "Faecal coliform bacteria serve as indicator organisms for sewage contamination because they are directly pathogenic and cause waterborne diseases in humans."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0032fceb-c9f7-4090-9f87-f1e3aa24f34c",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Point Source vs. Non-Point Source Pollution: Classification and Regulatory Implications",
+        "Agricultural Runoff as a Water Pollutant: Pesticides, Fertilizers, and Sediments"
+      ],
+      "subject_que_no": 3610,
+      "overall_que_no": 16754
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Agricultural runoff — largest global non-point source water pollution contributor",
+      "statement_analysis": null,
+      "strong_distractor": "c — Municipal stormwater is a commonly discussed non-point source, and students who have studied urban water pollution and stormwater management may instinctively select it as the 'largest non-point source,' especially since urban expansion and impervious surfaces are widely highlighted in environmental coverage.",
+      "elimination_logic": [
+        "Identify which non-point source is globally quantified as the largest contributor to water pollution.",
+        "Eliminate industrial discharges — these are typically point sources (pipes, outfalls), not non-point sources.",
+        "Eliminate municipal stormwater — while significant, it is quantitatively less than agricultural runoff globally.",
+        "Eliminate construction site erosion — important locally but not the globally dominant non-point source.",
+        "Agricultural runoff (fertilisers, pesticides, sediment) is internationally recognised as the largest non-point source water pollutant globally — select option (b)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Non-point source pollution lacks a discrete, identifiable discharge point — it enters water bodies through diffuse pathways such as sheet flow, groundwater seepage, and atmospheric deposition.\n\n• Option (a) — Incorrect: Industrial discharges are predominantly point sources — they occur through identifiable pipes and outfalls subject to permit-based regulation. They are not the largest non-point source category.\n• Option (b) — Correct: Agricultural runoff is globally recognised as the single largest contributor to non-point source water pollution. It carries nitrogen and phosphorus from fertilisers, pesticide residues, sediment from tilled fields, and pathogens from animal waste — impacting both surface water and groundwater.\n• Option (c) — Incorrect: Municipal stormwater is a significant non-point source in urban contexts, but its global volume and pollutant load are substantially smaller than agricultural runoff, which covers enormous land areas worldwide.\n• Option (d) — Incorrect: Construction site erosion is a localised, temporary non-point source. While it contributes to turbidity and sediment loading, it is not the globally dominant category.\n\nValue Addition:\n• Nutrient runoff from agriculture is the primary driver of coastal and freshwater eutrophication globally, including India's lakes and estuaries.\n• Best Management Practices (BMPs) — buffer strips, cover crops, precision fertilisation — are the primary policy tools for agricultural non-point source control.\n• The concept of 'diffuse pollution' is used interchangeably with non-point source pollution in European regulatory contexts."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "At the global scale, the single largest contributor to non-point source water pollution, responsible for delivering nutrients, pesticide residues, pathogens, and sediment to water bodies through diffuse land-surface pathways, is ________.\n\n(a) Industrial discharges from manufacturing facilities\n(b) Agricultural runoff from croplands and livestock operations\n(c) Municipal stormwater from urban and suburban areas\n(d) Construction site erosion during infrastructure development",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "12998337-de9f-4e3e-b971-ef8ca38b0d2c",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Eutrophication: Causes, Stages, and Ecological Consequences",
+        "Microplastics in Water: Sources, Pathways, and Emerging Regulatory Responses"
+      ],
+      "subject_que_no": 3611,
+      "overall_que_no": 16755
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "odd-one-out",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Microplastics — ubiquity including groundwater and Arctic ice",
+      "statement_analysis": null,
+      "strong_distractor": "d — Arctic sea ice containing microplastics sounds counterintuitive and exotic enough that students may doubt it, marking it as the odd one out — in fact, microplastics have been confirmed in Arctic ice cores, sea ice, and deep ocean sediment, making this a correct factual statement about microplastic ubiquity.",
+      "elimination_logic": [
+        "The question tests knowledge of where microplastics have been confirmed to occur — all correct occurrences form one group; the incorrect or misattributed location is the odd one out.",
+        "Microplastics in deep ocean sediments — confirmed; abyssal plain sediments show high microplastic concentrations.",
+        "Microplastics in Arctic sea ice — confirmed; multiple studies document microplastics trapped in polar ice cores.",
+        "Microplastics in human blood — confirmed by 2022 Dutch study; microplastics detected in circulating human blood.",
+        "Microplastics occurring only in tropical and subtropical surface waters — incorrect; microplastics are globally distributed, including polar regions and deep ocean — the 'only tropical' claim is false and is the odd one out."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "A defining characteristic of microplastic pollution is its extraordinary geographic and environmental ubiquity — it is found far beyond visible surface water in tropical regions.\n\n• Option (a) — Odd one out: The claim that microplastics are found 'only in tropical and subtropical surface waters' is false. Microplastics are documented globally — in Arctic and Antarctic ice, deep ocean trenches, freshwater groundwater, mountain streams, and human blood.\n• Option (b) — Correctly listed: Deep ocean sediments have been identified as a major sink for microplastics; sediment cores from abyssal depths show significant microplastic accumulation.\n• Option (c) — Correctly listed: Arctic sea ice contains microplastics at concentrations higher than some surface ocean waters, having incorporated them through freezing processes over time.\n• Option (d) — Correctly listed: A landmark 2022 study published in the journal Environment International confirmed the presence of microplastics in human blood samples, demonstrating systemic human exposure.\n\nValue Addition:\n• STPs are ineffective at removing microplastics — they pass through conventional treatment and enter receiving water bodies or concentrate in sewage sludge spread on agricultural land.\n• Microplastics serve as vectors for adsorbed pollutants (POPs, heavy metals) which can transfer to organisms upon ingestion.\n• India's Plastic Waste Management Rules (amended 2022) banned single-use plastics — a measure that addresses the macro-source of secondary microplastics."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following are confirmed environmental or biological settings in which microplastics have been scientifically detected, while one contains a false claim about their distribution. Which option contains the INCORRECT statement about microplastic occurrence?\n\n(a) Microplastics are found only in tropical and subtropical surface waters, as cold temperatures and ice prevent their presence in polar regions.\n(b) Microplastics have been detected in deep ocean sediments, including in abyssal zones far from continental coastlines.\n(c) Microplastics have been found embedded in Arctic sea ice, demonstrating their presence in polar environments.\n(d) Microplastics have been detected in human blood, indicating systemic exposure beyond the digestive tract.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6922e95c-5af3-45cb-a7d9-022861e809cc",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Industrial Effluents: Sectoral Sources and Specific Pollutants",
+        "Thermal Pollution: Mechanisms and Ecological Impact"
+      ],
+      "subject_que_no": 3612,
+      "overall_que_no": 16756
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Thermal pollution — no chemical addition but causes DO depletion",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who correctly know that thermal pollution reduces DO and that this is the mechanism by which it harms aquatic life may assume R (DO reduction) correctly explains A (fish kills) and select option (a), not recognising that R misstates the cause of DO reduction.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes: Thermal pollution from power plant cooling water returns does cause fish kills and biodiversity disruption, even without introducing chemical pollutants.",
+        "Step 2 — Is R correct? No: R states that thermal pollution reduces DO by 'introducing oxygen-depleting chemicals.' Thermal pollution from power plants does NOT introduce chemicals — the reduction in DO is purely physical, caused by the decrease in gas solubility at higher temperatures. R's mechanism is factually incorrect.",
+        "Step 3 — Since R is factually incorrect, the answer is option (c): A is correct but R is incorrect.",
+        "The answer is option (c)."
+      ],
+      "upsc_trap_explanation": "R's false element is precise and subtle: 'oxygen-depleting chemicals.' Students who know that thermal pollution reduces DO will find R partially true (DO does decline) and not scrutinise the causal mechanism stated. The actual mechanism is physical — Henry's Law dictates that gas solubility decreases with rising temperature; no chemicals are added. Power plant cooling water discharge is chemically inert with respect to oxygen depletion. Adding 'oxygen-depleting chemicals' transforms a physically accurate outcome into a mechanistically false explanation — a hallmark UPSC trap.",
+      "final_explanation": "Thermal pollution from nuclear and conventional thermal power plant cooling water discharge is a distinct form of industrial water pollution because it operates through a physical mechanism, not chemical addition.\n\nAssertion (A) is correct: Elevated water temperature from thermal discharge disrupts spawning cycles, alters metabolic rates of ectothermic species, causes species migration away from affected zones, and in acute cases produces fish kills — all without any chemical being added to the water.\n\nReason (R) is incorrect: R states the mechanism of DO reduction as 'introducing oxygen-depleting chemicals.' This is factually wrong. Thermal pollution reduces DO through a purely physical mechanism: as water temperature rises, its capacity to dissolve gases (including O₂) decreases — described by Henry's Law. No chemicals are involved. Power plant cooling water is typically returned after heat exchange with no chemical change to the water composition.\n\nAnswer: option (c) — A is correct but R is incorrect.\n\nValue Addition:\n• The temperature increase threshold for significant aquatic ecological impact is approximately 3°C above ambient — the basis for thermal discharge regulations in many countries.\n• Cooling towers address thermal pollution by dissipating heat to the atmosphere before water return, reducing the temperature of discharge.\n• Some fish species are more thermally sensitive than others: salmonids (trout, salmon) have narrow tolerance ranges and are early indicators of thermal pollution stress."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Thermal discharges from power plant cooling systems can cause fish kills and disrupt aquatic ecosystems even when the discharged water contains no chemical pollutants.\n\nReason (R): Thermal pollution reduces dissolved oxygen in receiving water bodies by introducing oxygen-depleting chemicals that react with available dissolved oxygen in the water column.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b97fd7aa-b619-492c-baa4-733e1b68c704",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Water (Prevention and Control of Pollution) Act, 1974: Key Provisions and Institutional Framework",
+        "Groundwater Contamination: Natural vs. Anthropogenic Sources"
+      ],
+      "subject_que_no": 3613,
+      "overall_que_no": 16757
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Water Act 1974 — legislative timeline and 2024 amendment",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know the Environment Protection Act followed the Water Act and that the Ganga Action Plan was early may place the 2024 Amendment before the Environment Protection Act, confusing the recent amendment with the sequence of foundational legislation.",
+      "elimination_logic": [
+        "Anchor the Water Act, 1974 — India's first dedicated water pollution law, enacted under Article 252 following state legislature resolutions.",
+        "The Ganga Action Plan (Phase I) was launched in 1985 — after the Water Act but before the Environment Protection Act.",
+        "The Environment Protection Act was enacted in 1986 — following the Bhopal gas tragedy of 1984, as an umbrella environmental law.",
+        "The 2024 Amendment to the Water Act is the most recent event — it introduced adjudicatory officers and decriminalised certain violations.",
+        "Correct chronological order: Water Act 1974 → Ganga Action Plan 1985 → Environment Protection Act 1986 → Water Act Amendment 2024 — option (b)."
+      ],
+      "upsc_trap_explanation": "The subtle trap is the one-year gap between the Ganga Action Plan (1985) and the Environment Protection Act (1986). Students who know both dates but confuse them, or who believe EPA preceded GAP (since EPA is the 'framework law'), may reverse these two. The Ganga Action Plan was launched as a government programme, not an Act, making its placement relative to the EPA a genuine knowledge test. The 2024 Amendment as the final event anchors the sequence but its precise year may also cause confusion for students who recall it as 'recent' without having the year fixed.",
+      "final_explanation": "Understanding the legislative chronology of India's water pollution governance reveals how the framework evolved:\n\nCorrect order: Water (Prevention and Control of Pollution) Act, 1974 → Ganga Action Plan, 1985 → Environment (Protection) Act, 1986 → Water Act Amendment, 2024\n\n• Water Act, 1974: India's first dedicated water pollution control law — established CPCB and SPCBs with consent mechanisms.\n• Ganga Action Plan, 1985: First major river-specific government programme, launched during Rajiv Gandhi's government — focused on STP construction along the Ganga.\n• Environment Protection Act, 1986: Enacted in response to the Bhopal gas tragedy (1984) — an umbrella law giving the central government overarching powers for environmental protection; enacted under Article 253 (international treaty basis — Stockholm 1972).\n• Water Act Amendment, 2024: Introduced adjudicatory officers for civil penalty enforcement and decriminalised minor violations — a significant structural shift from the criminal to regulatory penalty model.\n\nValue Addition:\n• The Environment Protection Act (1986) is the parent legislation under which many environment-specific rules (Hazardous Waste Rules, EIA Notification) are framed.\n• The National Ganga Rights Act has been proposed but not yet enacted — it would give the Ganga legal personhood.\n• CPCB was established under the Water Act 1974 before the EPA — its mandate was later expanded under the Air Act (1981) and EPA (1986)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of legislative and policy milestones in India's water pollution governance?\n\n1. Enactment of the Water (Prevention and Control of Pollution) Act\n2. Launch of the Ganga Action Plan (Phase I)\n3. Enactment of the Environment (Protection) Act\n4. Amendment to the Water (Prevention and Control of Pollution) Act introducing adjudicatory officers\n\n(a) 1 → 3 → 2 → 4\n(b) 1 → 2 → 3 → 4\n(c) 2 → 1 → 4 → 3\n(d) 3 → 1 → 2 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a14db2bd-b384-4154-84da-548902de270f",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Biological Indicators of Water Quality: Biotic Indices and Indicator Species"
+      ],
+      "subject_que_no": 3614,
+      "overall_que_no": 16758
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Indicator organism absence — does not conclusively prove pollution",
+      "statement_analysis": [
+        {
+          "statement": "The presence of mayfly (Ephemeroptera) larvae in a water body is a reliable indicator of good water quality because these organisms are highly sensitive to organic pollution and low dissolved oxygen.",
+          "verdict": "Correct",
+          "reason": "Mayfly larvae are classical clean-water indicator organisms; they cannot tolerate high BOD or low DO conditions and their presence reliably signals oligosaprobic to beta-mesosaprobic water quality."
+        },
+        {
+          "statement": "The absence of indicator species from a water body conclusively establishes that the water body is severely polluted.",
+          "verdict": "Incorrect",
+          "reason": "Absence of an indicator species does not conclusively prove pollution — habitat destruction, seasonal temperature variations, substrate availability, and geographic barriers can also explain species absence in an otherwise clean water body."
+        },
+        {
+          "statement": "Biological monitoring using indicator organisms has advantages over point-in-time chemical monitoring because organisms integrate water quality conditions over time and provide a cumulative picture of ecological health.",
+          "verdict": "Correct",
+          "reason": "This is a well-established advantage of biomonitoring — biotic indices reflect conditions over an organism's lifecycle rather than at a single measurement point, making them less susceptible to the variability of instantaneous chemical readings."
+        }
+      ],
+      "strong_distractor": "d — All three appeals to students who instinctively feel that the absence of sensitive species must mean pollution — Statement 2 sounds like basic ecological reasoning, and many students will not identify the confounding factors (habitat, temperature, season) that make the 'conclusive' claim false.",
+      "elimination_logic": [
+        "Confirm Statement 1 — mayfly larvae as clean-water indicators is foundational biotic index knowledge; Statement 1 is correct.",
+        "Scrutinise Statement 2 — the word 'conclusively' is the trap; habitat destruction, substrate, temperature, and season independently explain species absence without any pollution; Statement 2 is incorrect.",
+        "Confirm Statement 3 — temporal integration is the primary advantage of biomonitoring over chemical snap-shot monitoring; Statement 3 is correct.",
+        "Retain option containing only Statements 1 and 3 — option (c)."
+      ],
+      "upsc_trap_explanation": "The word 'conclusively' in Statement 2 is the precision trap. Ecologically aware students know that sensitive organisms disappear from polluted waters, so they accept the logic of 'absence = pollution.' But the scientific position is that absence is never conclusive proof of a single cause — other stressors (habitat loss, temperature, hydrological alteration, disease) can independently reduce or eliminate a species. UPSC examiners repeatedly test whether students can identify absolute qualifier failures — 'conclusively,' 'exclusively,' 'always' — that transform a directionally correct claim into a factually false one.",
+      "final_explanation": "Biological monitoring of water quality supplements chemical analysis by providing time-integrated, ecosystem-level evidence of water health.\n\n• Statement 1 — Correct: Ephemeroptera (mayfly) larvae are highly sensitive to dissolved oxygen depletion and organic loading. Their presence is a reliable proxy for clean, well-oxygenated water — making them classical positive indicators in biotic index frameworks.\n• Statement 2 — Incorrect: Absence of indicator species does NOT conclusively establish pollution. Multiple non-pollution factors — physical habitat modification, seasonal temperature extremes, substrate type (absence of suitable gravel for mayfly oviposition), upstream barriers to recolonisation — can explain species absence in clean water. The absence is informative but not conclusive.\n• Statement 3 — Correct: Chemical monitoring provides a snapshot at one point in time; a pollutant discharged the day before or after sampling may be missed. Biological communities reflect cumulative, long-term exposure — a sustained pollution event that has since been reduced will still be visible in a depleted biotic community.\n\nValue Addition:\n• The BMWP (Biological Monitoring Working Party) score assigns tolerance scores to macroinvertebrate families; higher scores indicate cleaner water.\n• Tubifex worms (Family Tubificidae) are polysaprobic indicators — their dominance signals severe oxygen depletion and organic enrichment.\n• India's CPCB has explored macroinvertebrate-based biomonitoring for Ganga tributaries as a complement to chemical monitoring."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to biological indicators of water quality, consider the following statements:\n\n1. The presence of mayfly (Ephemeroptera) larvae in a water body is a reliable indicator of good water quality because these organisms are highly sensitive to organic pollution and low dissolved oxygen.\n2. The absence of indicator species from a water body conclusively establishes that the water body is severely polluted.\n3. Biological monitoring using indicator organisms has advantages over point-in-time chemical monitoring because organisms integrate water quality conditions over time and provide a cumulative picture of ecological health.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fae75bf7-1bfc-411b-b06e-045f3250ef37",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Acid Mine Drainage (AMD): Formation, Effects, and Remediation",
+        "Industrial Effluents: Sectoral Sources and Specific Pollutants"
+      ],
+      "subject_que_no": 3615,
+      "overall_que_no": 16759
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "AMD — India's coal mining belt states and legacy pollution",
+      "statement_analysis": null,
+      "strong_distractor": "b — The Singrauli pairing with AMD sounds credible because Singrauli is a major coal mining and thermal power hub in Madhya Pradesh/Uttar Pradesh border area, associated with severe environmental degradation — students may accept this pairing without verifying that AMD specifically relates to coal sulfide oxidation in eastern India's mining belt.",
+      "elimination_logic": [
+        "Evaluate option (a) — Jharkhand has significant coal mines (Jharia coalfield, Bokaro) where pyrite-rich coal seams exposed during mining generate AMD; this is a well-documented environmental issue. Option (a) is correctly matched.",
+        "Evaluate option (b) — Singrauli is primarily associated with flyash pollution from thermal power plants and land acquisition disputes, not specifically AMD from sulfide mineral oxidation; AMD is more specific to eastern coalfield belts in Jharkhand, Odisha, and Chhattisgarh. Option (b) is questionable.",
+        "Evaluate option (c) — Odisha has coal mining regions (Ib-valley) where AMD is a documented concern; this pairing is correct.",
+        "Evaluate option (d) — Kerala does not have coal mining and is not associated with AMD; Kerala's water pollution concerns centre on pesticide runoff, laterite soil erosion, and coastal pollution — not AMD from sulfide mineral mining.",
+        "Option (d) is the incorrectly matched pair — Kerala is not an AMD region."
+      ],
+      "upsc_trap_explanation": "Kerala is a geographically specific trap. Students who recall that AMD affects 'Indian states with mining activity' may have a mental list that focuses on Jharkhand, Odisha, and Chhattisgarh, and immediately question option (d). But the trap relies on students who do not confidently know Kerala's geology — Kerala has no significant coal reserves or sulfide-mineral mining, making AMD irrelevant there. Some students may hesitate because Kerala does have mining (sand, granite, laterite) — but none of these produce AMD. The correct elimination requires knowing both what AMD requires (sulfide minerals) and that Kerala lacks those mining activities.",
+      "final_explanation": "Acid Mine Drainage is a geographically specific phenomenon linked to sulfide mineral mining, particularly coal and metal ore extraction.\n\n• Option (a) — Correctly matched: Jharkhand hosts the Jharia coalfield — India's largest and highest-quality coking coal deposit. Pyrite in coal seams generates AMD in surface drainage from active and abandoned mines. Mine fires in Jharia compound the environmental crisis.\n• Option (b) — Correctly matched: Odisha's Ib-valley coalfields and metal ore mining (iron, bauxite, chromite) regions generate AMD — documented in surface streams in Sundargarh and Jharsuguda districts.\n• Option (c) — Correctly matched: Chhattisgarh's Korba coal belt is among the country's most productive coal-producing regions; AMD from mining disturbs local drainage quality.\n• Option (d) — NOT correctly matched (the answer): Kerala has no coal mining and does not have sulfide-mineral mining at scales that generate AMD. Kerala's environmental water challenges relate to agricultural pesticide runoff, groundwater depletion, and coastal pollution — entirely different from AMD.\n\nValue Addition:\n• The Mines and Minerals (Development and Regulation) Act mandates environmental restoration funds for abandoned mines — designed partly to address AMD legacy costs.\n• The 'orange boy' / 'yellow boy' coloration from ferric hydroxide precipitation is a visual field indicator of AMD in streams.\n• AMD remediation includes active treatment (lime neutralisation) and passive treatment (constructed wetlands, anoxic limestone drains)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is NOT correctly matched with respect to Acid Mine Drainage (AMD) as an environmental water pollution concern?\n\n(a) Jharkhand — AMD from coal mining regions including the Jharia coalfield affecting local surface water drainage\n(b) Odisha — AMD from coal and metal ore mining operations in coalfield and mineral belt regions\n(c) Chhattisgarh — AMD generated in coal mining areas of the Korba belt affecting local water bodies\n(d) Kerala — AMD from coal mining affecting drinking water aquifers in the Western Ghats region",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d62af0fd-b258-49c9-9bb0-d0130dad4d5c",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Biochemical Oxygen Demand (BOD) and Dissolved Oxygen (DO): Indicators of Organic Pollution",
+        "Water Quality Standards in India: BIS, CPCB, and WHO — Hierarchy and Gaps"
+      ],
+      "subject_que_no": 3616,
+      "overall_que_no": 16760
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "CPCB water class designations — Class A to E criteria",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) swaps Class B and Class C, which are adjacent in the classification hierarchy and both involve 'outdoor contact' activities or source water treatment — students who know the general sequence but not the precise criteria for each class may conflate bathing and protected water supply.",
+      "elimination_logic": [
+        "Anchor Class A — 'drinking water source without conventional treatment but after disinfection' — the cleanest category, BOD ≤2 mg/L, DO ≥6 mg/L, coliform ≤50 MPN/100 mL. Matches with '1. Drinking water source without conventional treatment'.",
+        "Anchor Class D — 'Wildlife and fisheries' — this class maintains water quality for aquatic life support. Matches with '4. Wildlife and fisheries'.",
+        "Class B = outdoor bathing (organised); Class C = drinking water source with conventional treatment — these two are the trap pair.",
+        "Bathing (organised) = Class B; conventional treatment water supply = Class C. This gives A-1, B-3, C-2, D-4 — option (a)."
+      ],
+      "upsc_trap_explanation": "Classes B and C in CPCB's designated best-use classification are the designed confusion pair. Class B (outdoor bathing/organised) and Class C (drinking water source with conventional treatment) are sequentially adjacent and both involve human use of water — students who have a general awareness of the classification but not the precise criteria for each class frequently swap B and C. The distinction matters: bathing water (Class B) requires lower quality than treated drinking water source (Class C) — a counterintuitive ordering that examiners exploit.",
+      "final_explanation": "CPCB's designated best-use classification assigns water bodies to classes A through E based on permissible use and associated quality criteria.\n\nCorrect matching:\n• A (Class A) → 1 (Drinking water without conventional treatment, only disinfection): The cleanest class. DO ≥6 mg/L, BOD ≤2 mg/L, total coliform ≤50 MPN/100 mL.\n• B (Class B) → 3 (Outdoor bathing — organised): Outdoor contact use. DO ≥5 mg/L, BOD ≤3 mg/L, faecal coliform ≤500 MPN/100 mL.\n• C (Class C) → 2 (Drinking water source with conventional treatment): Requires full treatment (coagulation, flocculation, disinfection) before distribution. DO ≥4 mg/L, BOD ≤3 mg/L.\n• D (Class D) → 4 (Propagation of wildlife and fisheries): Maintains aquatic biodiversity. DO ≥4 mg/L.\n\nTrap pair: B and C are adjacent and both involve water use — the distinction is bathing vs. treated drinking water source. Class E covers irrigation and industrial cooling water.\n\nValue Addition:\n• CPCB's National Water Quality Monitoring Programme evaluates water bodies against these class criteria.\n• Ganga's target water quality under Namami Gange is Class B (bathing quality) at all points.\n• Class A water bodies in India are increasingly rare — most rivers that once qualified have been downgraded due to pollution."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match CPCB's designated best-use water body classification (List I) with the corresponding primary use (List II):",
+        "columns": [
+          "List I — Water Body Class",
+          "List II — Primary Designated Use"
+        ],
+        "rows": [
+          [
+            "A. Class A",
+            "1. Drinking water source without conventional treatment, requiring only disinfection"
+          ],
+          [
+            "B. Class B",
+            "2. Drinking water source with conventional treatment before supply"
+          ],
+          [
+            "C. Class C",
+            "3. Outdoor bathing (organised)"
+          ],
+          [
+            "D. Class D",
+            "4. Propagation of wildlife and fisheries"
+          ]
+        ],
+        "footer_text": "Select the correct matching:\n\n(a) A-1, B-3, C-2, D-4\n(b) A-2, B-1, C-3, D-4\n(c) A-1, B-2, C-3, D-4\n(d) A-3, B-1, C-2, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1c358205-9966-4749-b412-a076158d040b",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Pharmaceutical and Personal Care Products (PPCPs) as Emerging Water Pollutants",
+        "Endocrine Disrupting Chemicals (EDCs) in Water: Sources, Mechanism, and Regulatory Status"
+      ],
+      "subject_que_no": 3617,
+      "overall_que_no": 16761
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "PPCPs and EDCs — conventional WTP removal failure for emerging contaminants",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'Bioaccumulation potential' sounds like the correct regulatory trigger because PPCPs and EDCs do bioaccumulate, and students who know bioaccumulation standards exist for persistent pollutants (like POPs) may apply that framework here — not knowing that PPCPs/EDCs fall outside standard Indian monitoring parameters.",
+      "elimination_logic": [
+        "The scenario describes a pharmaceutical cluster discharging effluent, with residues detected downstream in water used for drinking supply — and the WTP is shown to be ineffective at removing these compounds.",
+        "Eliminate option (a) — 'Biochemical Oxygen Demand threshold exceedance' — pharmaceutical compounds may not raise BOD significantly; the problem is about molecular persistence, not organic load.",
+        "Eliminate option (c) — 'bioaccumulation classification triggering priority substance listing' — this sounds plausible but India does not have an operational Priority Substance List for PPCPs analogous to the EU WFD; this is a plausible-fabrication option.",
+        "Eliminate option (d) — 'thermal discharge regulations' — completely irrelevant to pharmaceutical chemical contamination.",
+        "Retain option (b) — the scenario illustrates the 'treatment gap' for emerging contaminants: conventional WTPs cannot remove PPCPs, which are not covered by standard BIS/CPCB drinking water parameters — highlighting the regulatory and technological gap."
+      ],
+      "upsc_trap_explanation": "Option (c) references 'bioaccumulation classification triggering Priority Substance Listing under the National Water Quality Framework' — this sounds like a real regulatory mechanism analogous to the EU's Water Framework Directive priority substances list. India does not have an equivalent operational framework for PPCPs. Students who know the EU's system and assume India has an analogous mechanism will select (c) confidently. This is a plausible-fabrication distractor — it describes a regulatory instrument that does not exist in the Indian legal framework.",
+      "final_explanation": "This scenario illustrates the emerging contaminant problem — a class of pollutants that conventional water infrastructure and regulatory frameworks were not designed to address.\n\nApplicable principle: PPCPs represent a 'treatment gap' — neither conventional STPs (designed for BOD, suspended solids, pathogens) nor conventional WTPs (designed for turbidity, microbial safety, basic chemical parameters) effectively remove pharmaceutical molecules with complex ring structures. These compounds are also absent from BIS IS 10500 and CPCB standard monitoring parameters — a dual regulatory and technological gap.\n\n• Option (a) — Incorrect: BOD threshold exceedance governs organic load; pharmaceutical compounds may be present at ecologically harmful concentrations without significantly elevating BOD. The problem is molecular persistence and hormonal activity, not oxygen demand.\n• Option (b) — Correct: The scenario directly illustrates the PPCP treatment gap — WTPs cannot remove these emerging contaminants, and they are not regulated under standard drinking water parameters. This is the conceptual anchor of the PPCP concept.\n• Option (c) — Incorrect: India does not have an operational Priority Substance List for PPCPs equivalent to the EU Water Framework Directive. This option describes a non-existent Indian regulatory mechanism.\n• Option (d) — Incorrect: Thermal discharge regulations govern temperature of cooling water returns — entirely irrelevant to pharmaceutical chemical persistence in water supply.\n\nValue Addition:\n• Advanced Oxidation Processes (UV/H₂O₂, ozonation) can degrade many PPCPs but are costly and energy-intensive.\n• Patancheru (Hyderabad) was globally flagged for ciprofloxacin levels orders of magnitude above therapeutic concentrations in local streams.\n• Hospital effluents, which concentrate PPCPs, require source-level treatment before entering municipal sewer systems."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A downstream water utility serving a mid-sized Indian city draws its raw water from a river that receives treated effluent from a pharmaceutical manufacturing cluster located 15 km upstream. Water quality testing reveals trace concentrations of antibiotic compounds and synthetic hormones in the treated drinking water distributed to consumers, even after the water utility has run the raw water through its full conventional treatment sequence of coagulation, sedimentation, sand filtration, and chlorination. None of the detected compounds exceed any parameter listed in BIS IS 10500:2012.\n\nThis scenario most directly illustrates which of the following problems in water pollution governance?\n\n(a) Exceedance of Biochemical Oxygen Demand thresholds in industrial effluent, requiring mandatory upgradation of the pharmaceutical cluster's Effluent Treatment Plant.\n(b) A regulatory and technological treatment gap for emerging pharmaceutical contaminants, which conventional Water Treatment Plants cannot remove and which fall outside standard drinking water quality parameters.\n(c) The triggering of bioaccumulation classification procedures under India's National Water Quality Framework, which mandates Priority Substance Listing for persistent compounds detected in drinking water.\n(d) A violation of thermal discharge regulations because pharmaceutical manufacturing generates process heat that elevates the temperature of river water above permissible limits.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7a7fc7ab-039c-4bad-9928-ded70547793a",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Eutrophication: Causes, Stages, and Ecological Consequences",
+        "Marine and Coastal Water Pollution: Oil Spills, Plastics, and Nutrient Loading"
+      ],
+      "subject_que_no": 3618,
+      "overall_que_no": 16762
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Eutrophication limiting nutrients — phosphorus freshwater, nitrogen marine",
+      "statement_analysis": [
+        {
+          "statement": "Phosphorus is the primary limiting nutrient in marine coastal eutrophication, while nitrogen is the limiting nutrient in most freshwater lake eutrophication.",
+          "verdict": "Incorrect",
+          "reason": "The relationship is reversed. In most freshwater systems, phosphorus is the limiting nutrient — controlling phosphorus inputs is the primary management lever. In marine and coastal systems, nitrogen is typically the limiting nutrient for algal growth. The statement inverts these well-established limnological and oceanographic principles."
+        },
+        {
+          "statement": "Hypoxic dead zones in coastal marine environments are formed when algal bloom decomposition by aerobic bacteria consumes dissolved oxygen faster than it can be replenished from the atmosphere or through mixing.",
+          "verdict": "Correct",
+          "reason": "This accurately describes the mechanism — algal bloom senescence leads to massive bacterial decomposition, which depletes oxygen. Stratification prevents re-oxygenation from surface waters, creating bottom hypoxic/anoxic zones where most marine life cannot survive."
+        },
+        {
+          "statement": "Natural eutrophication of lakes occurs at a rate comparable to cultural eutrophication driven by human agricultural and urban activities.",
+          "verdict": "Incorrect",
+          "reason": "Cultural eutrophication proceeds dramatically faster than natural eutrophication — natural lake aging through nutrient accumulation occurs over centuries to millennia; cultural eutrophication can achieve the same degree of enrichment in years to decades through fertiliser runoff and sewage discharge."
+        }
+      ],
+      "strong_distractor": "b — Statements 1 and 3 only is the designed answer, but students who correctly identify Statement 1 as wrong but are unsure about Statement 3 may settle for '1 only' (option a) or doubt their identification of Statement 1's reversal and select '3 only.'",
+      "elimination_logic": [
+        "Examine Statement 1 — it states phosphorus limits marine eutrophication and nitrogen limits freshwater eutrophication. This is the reverse of established science (phosphorus limits freshwater; nitrogen limits marine); Statement 1 is NOT correct.",
+        "Examine Statement 2 — the mechanism described (algal decomposition → oxygen consumption → hypoxia, worsened by stratification) is scientifically accurate; Statement 2 IS correct.",
+        "Examine Statement 3 — cultural eutrophication is dramatically faster than natural eutrophication; equating their rates is factually false; Statement 3 is NOT correct.",
+        "The question asks which are NOT correct; Statements 1 and 3 are incorrect — option (c): 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 1's nutrient reversal is the primary trap. Students who know 'phosphorus and nitrogen cause eutrophication' may not have memorised WHICH nutrient is limiting in WHICH system. The fact that phosphorus limits freshwater eutrophication while nitrogen limits marine eutrophication is a limnological distinction that requires precise knowledge. The reversal in Statement 1 sounds plausible because both nutrients are genuinely involved in both systems — students who lack the freshwater/marine distinction will mark Statement 1 as correct, reaching the wrong final answer.",
+      "final_explanation": "Eutrophication's nutrient dynamics differ between freshwater and marine systems — a precision detail examiners test.\n\n• Statement 1 — Incorrect: The limiting nutrients are reversed. In freshwater lakes, phosphorus is typically the limiting nutrient — algal growth is constrained by phosphorus availability, making phosphorus control (e.g., tertiary STP treatment removing phosphate) the primary management tool. In marine and coastal systems, nitrogen is typically limiting. Chilika Lake's eutrophication is driven by phosphorus loading; coastal hypoxic zones like the Gulf of Mexico are driven by nitrogen from Mississippi River agricultural runoff.\n• Statement 2 — Correct: When algae die, aerobic decomposition by bacteria consumes oxygen rapidly. Thermal stratification of water prevents mixing of oxygen-rich surface water with oxygen-depleted bottom water, creating persistent hypoxic or anoxic zones — 'dead zones' devoid of most higher aquatic life.\n• Statement 3 — Incorrect: Cultural eutrophication occurs orders of magnitude faster than natural lake aging. What takes nature centuries to millennia (gradual nutrient build-up from watershed weathering) can be replicated by agricultural runoff and sewage in decades.\n\nValue Addition:\n• Liebig's Law of the Minimum — organisms are limited by the scarcest essential nutrient; this principle underlies the concept of limiting nutrients in eutrophication management.\n• Stripping phosphorus during wastewater treatment (chemical precipitation with alum or biological phosphorus removal) is the most cost-effective intervention for freshwater eutrophication.\n• Gulf of Mannar on India's southeastern coast is a documented concern for coastal nutrient loading."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to eutrophication and coastal hypoxia, consider the following statements:\n\n1. Phosphorus is the primary limiting nutrient in marine coastal eutrophication, while nitrogen is the limiting nutrient in most freshwater lake eutrophication.\n2. Hypoxic dead zones in coastal marine environments are formed when algal bloom decomposition by aerobic bacteria consumes dissolved oxygen faster than it can be replenished from the atmosphere or through mixing.\n3. Natural eutrophication of lakes occurs at a rate comparable to cultural eutrophication driven by human agricultural and urban activities.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8c77ca5d-45d1-4a8a-a4f6-54437b498073",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Transboundary Water Pollution: International Law and India's Obligations",
+        "Marine and Coastal Water Pollution: Oil Spills, Plastics, and Nutrient Loading"
+      ],
+      "subject_que_no": 3619,
+      "overall_que_no": 16763
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "MARPOL Convention — ship-based marine pollution regulation",
+      "statement_analysis": null,
+      "strong_distractor": "b — The Basel Convention is associated with hazardous waste and is sometimes conflated with marine pollution by students who know it involves transboundary movement of pollutants; some students who cannot precisely identify MARPOL's scope may select Basel as the marine pollution treaty.",
+      "elimination_logic": [
+        "The question asks which international convention specifically regulates pollution from ships, including oil discharge, garbage, and sewage from vessels.",
+        "Eliminate the London Convention (on dumping at sea) — it regulates intentional dumping of waste at sea from land-based sources and vessels, not the full range of operational ship-based discharges.",
+        "Eliminate the Basel Convention — it governs transboundary movement of hazardous waste; not specific to marine vessel-sourced pollution.",
+        "Eliminate UNCLOS as a specific answer — UNCLOS provides the framework for all ocean uses but does not itself regulate specific ship pollution standards (it references MARPOL for this).",
+        "MARPOL 73/78 (International Convention for the Prevention of Pollution from Ships) is the specific convention governing oil, noxious liquids, packaged goods, sewage, garbage, and air emissions from ships."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Marine pollution from ships is governed by a specific international convention separate from the broader ocean law framework.\n\n• Option (a) — Incorrect: The London Convention (1972) regulates deliberate disposal of waste at sea (ocean dumping) — a narrower scope covering intentional dumping from vessels and platforms, not the full range of operational ship pollution.\n• Option (b) — Incorrect: The Basel Convention (1989) governs the transboundary movement and disposal of hazardous waste between countries — it operates on land and does not address ship-operational marine pollution.\n• Option (c) — Incorrect: UNCLOS (1982) is the overarching framework for all ocean law including navigation, resource rights, and marine environmental protection. It provides the legal framework but defers to specific conventions like MARPOL for technical ship pollution standards.\n• Option (d) — Correct: MARPOL 73/78 (International Convention for the Prevention of Pollution from Ships, 1973 as modified by the 1978 Protocol) is the principal international instrument regulating ship-sourced marine pollution through six annexes: Annex I (oil), II (noxious liquid substances), III (packaged goods), IV (sewage), V (garbage), and VI (air pollution from ships).\n\nValue Addition:\n• India enforces MARPOL obligations through the Merchant Shipping Act, 1958 and related notifications.\n• Annex V of MARPOL prohibits discharge of plastics anywhere at sea — a key provision for marine plastic pollution control.\n• The International Maritime Organization (IMO) administers MARPOL and sets international shipping pollution standards."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following international conventions specifically governs the prevention of pollution from ships, covering operational discharges of oil, noxious liquid substances, sewage, and garbage from vessels?\n\n(a) The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter\n(b) The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes\n(c) The United Nations Convention on the Law of the Sea (UNCLOS)\n(d) The International Convention for the Prevention of Pollution from Ships (MARPOL 73/78)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7306bc81-0753-42f7-8148-b297c76408e2",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Microplastics in Water: Sources, Pathways, and Emerging Regulatory Responses",
+        "Pharmaceutical and Personal Care Products (PPCPs) as Emerging Water Pollutants"
+      ],
+      "subject_que_no": 3620,
+      "overall_que_no": 16764
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "STPs — ineffective removal of microplastics and PPCPs",
+      "statement_analysis": [
+        {
+          "statement": "Conventional Sewage Treatment Plants (STPs) are effective in removing microplastics from wastewater because their sand filtration stage captures particles of all sizes.",
+          "verdict": "Incorrect",
+          "reason": "Conventional STPs are not effective at removing microplastics — especially nanoplastics and fibres smaller than the filtration mesh; a significant fraction passes through treatment and enters receiving water bodies, while retained microplastics concentrate in sewage sludge (which may then be applied to agricultural land)."
+        },
+        {
+          "statement": "Antibiotic resistance genes (ARGs) in water bodies can originate from pharmaceutical effluents and represent an indirect link between PPCP pollution and the antimicrobial resistance crisis.",
+          "verdict": "Correct",
+          "reason": "Sub-lethal concentrations of antibiotics in pharmaceutical effluent create selection pressure for resistant bacterial strains; these bacteria carry ARGs that can be transferred horizontally to other microorganisms in water bodies, connecting pharmaceutical water pollution to the AMR crisis."
+        },
+        {
+          "statement": "Microplastics can act as vectors for Persistent Organic Pollutants and heavy metals, adsorbing these contaminants on their surfaces and potentially transferring them to organisms upon ingestion.",
+          "verdict": "Correct",
+          "reason": "The hydrophobic surface chemistry of plastics makes them effective adsorbents for lipophilic POPs (DDT, PCBs) and heavy metals; ingestion by aquatic organisms releases adsorbed contaminants into biological tissue, compounding toxicity beyond the physical microplastic effect alone."
+        },
+        {
+          "statement": "Atmospheric deposition is a recognised pathway for microplastics to enter water bodies, including remote water bodies far from direct anthropogenic discharge.",
+          "verdict": "Correct",
+          "reason": "Studies have documented microplastic deposition in rainfall and dry fallout even in remote mountain lakes and oceanic surfaces far from terrestrial sources, confirming atmospheric transport as a pathway for microplastic distribution."
+        }
+      ],
+      "strong_distractor": "c — 'Only three' is the strong distractor for students who correctly identify Statements 2, 3, and 4 as correct but incorrectly believe Statement 1 is also correct because 'STPs have filtration stages' — conflating the presence of filtration with effective microplastic removal.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — STPs with sand filtration remove larger particles but NOT all microplastics, especially fibres and nanoplastics; the claim of effectiveness 'for particles of all sizes' is false; Statement 1 is incorrect.",
+        "Evaluate Statement 2 — ARGs from pharmaceutical effluents contributing to AMR is scientifically established and documented; Statement 2 is correct.",
+        "Evaluate Statement 3 — microplastics as vectors for POPs and heavy metals is documented surface chemistry; Statement 3 is correct.",
+        "Evaluate Statement 4 — atmospheric deposition of microplastics in remote areas (Pyrenees mountains, Arctic) has been measured in peer-reviewed studies; Statement 4 is correct.",
+        "Three statements (2, 3, 4) are correct — 'Only three' — option (a)."
+      ],
+      "upsc_trap_explanation": "Statement 1 uses the phrase 'sand filtration stage captures particles of all sizes' — students who know that STPs include filtration steps may assume this means microplastics are removed. The trap is the phrase 'all sizes.' Sand filtration removes large particles efficiently but smaller microplastics and nanoplastics pass through. Additionally, retained microplastics in sludge re-enter the environment through sludge land-application. The 'treatment gap' for microplastics is a well-established emerging contaminant challenge, and 'STP as ineffective barrier' is a frequently tested UPSC concept in recent years.",
+      "final_explanation": "The intersection of microplastics and PPCPs as emerging water pollutants tests understanding of treatment limitations and contaminant pathway complexity.\n\n• Statement 1 — Incorrect: STPs remove some larger microplastics but are not effective for all size fractions. Microplastic fibres and particles below the filtration threshold pass through. Retained microplastics in sewage sludge may re-enter agricultural soils when sludge is used as fertiliser.\n• Statement 2 — Correct: Pharmaceutical effluents containing sub-lethal antibiotic concentrations drive selection for antibiotic-resistant bacteria. These bacteria and their resistance genes (ARGs) enter water bodies, where horizontal gene transfer spreads resistance to other microbial populations — a documented pathway in the global AMR crisis.\n• Statement 3 — Correct: Microplastic surfaces are hydrophobic and adsorb lipophilic POPs (PCBs, DDT) and heavy metals at concentrations many times higher than ambient water. Upon ingestion by fish or invertebrates, stomach acids may desorb these contaminants into intestinal tissue — a 'Trojan horse' toxicology mechanism.\n• Statement 4 — Correct: Atmospheric microplastic deposition has been measured in the Pyrenees (France/Spain), Arctic sea ice, and remote Pacific islands — demonstrating global aerial transport pathways for microplastics far beyond their emission sources.\n\nValue Addition:\n• Advanced membrane bioreactors (MBRs) in upgraded STPs can remove more microplastics than conventional treatment but at significantly higher cost.\n• India's ban on single-use plastics (2022) targets the primary source of secondary microplastics.\n• The WHO's 2019 report on microplastics in drinking water called for more research on health effects while noting evidence of harm remains preliminary."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about microplastics and pharmaceutical contaminants as emerging water pollutants:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Conventional Sewage Treatment Plants (STPs) are effective in removing microplastics from wastewater because their sand filtration stage captures particles of all sizes."
+          ],
+          [
+            "2",
+            "Antibiotic resistance genes (ARGs) in water bodies can originate from pharmaceutical effluents and represent an indirect link between PPCP pollution and the antimicrobial resistance crisis."
+          ],
+          [
+            "3",
+            "Microplastics can act as vectors for Persistent Organic Pollutants and heavy metals, adsorbing these contaminants on their surfaces and potentially transferring them to organisms upon ingestion."
+          ],
+          [
+            "4",
+            "Atmospheric deposition is a recognised pathway for microplastics to enter water bodies, including remote water bodies far from direct anthropogenic discharge."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3f2ae034-dafe-4c5c-9bd4-bb79ca3bd7f2",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Radioactive Contamination of Water: Sources, Risks, and Standards",
+        "Groundwater Contamination: Natural vs. Anthropogenic Sources"
+      ],
+      "subject_que_no": 3621,
+      "overall_que_no": 16765
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Radon in groundwater — geogenic origin in granite regions, not nuclear industry",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know radon is radioactive, that it dissolves in groundwater, and that granite contains uranium (the parent of radon) may find both A and R correct and assume R explains A — but they must also verify the causal chain, which in this case is intact.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes: Radon-222 is a naturally occurring radioactive gas formed by the radioactive decay of uranium (and radium) present in granite and other uranium-bearing geological formations; it dissolves in groundwater percolating through these rocks, creating geogenic radioactive groundwater contamination.",
+        "Step 2 — Is R correct? Yes: Granite rock does contain uranium-238, which decays through a series of steps to produce radium-226 and then radon-222 gas; this is the geochemical mechanism by which radon enters groundwater in granite-rich terrain.",
+        "Step 3 — Does R causally explain A? Yes: The presence of uranium in granite (R) is the direct causal mechanism behind the generation and accumulation of radon in groundwater overlying granite formations (A). R correctly and completely explains A.",
+        "Both A and R are correct and R explains A — option (a)."
+      ],
+      "upsc_trap_explanation": "The trap this question is designed to test is whether students know radon is a NATURAL geogenic contaminant, not an exclusively nuclear-industry product. Many students associate all radioactive water contamination with nuclear power plants or weapons testing — an entity-swap. The assertion directly tests this knowledge by stating radon occurs in granite regions without any nuclear industry connection. Students who believe radioactive groundwater is exclusively anthropogenic will find Assertion (A) suspect and may choose option (d). The question rewards students who know radon's place in the natural radioactive decay chain.",
+      "final_explanation": "Radioactive groundwater contamination has both natural (geogenic) and anthropogenic sources — a distinction examiners test.\n\nAssertion (A) is correct: Radon-222 is a colourless, odourless, chemically inert radioactive gas formed naturally through the radioactive decay of uranium-238 in the Earth's crust. Granite, being rich in uranium-bearing minerals, generates radon continuously. This radon dissolves in groundwater in contact with granite, creating naturally radioactive drinking water sources in granite-rich regions — entirely independent of nuclear industry activity.\n\nReason (R) is correct: Uranium-238 is indeed present in granite as a natural mineralogical constituent. Its decay chain produces radium-226 and then radon-222 gas — the geochemical basis for geogenic radon in groundwater. This is well-established geology.\n\nR correctly and causally explains A: The uranium content of granite (R) is the direct mechanistic basis for radon generation and dissolution in groundwater (A). The causal chain is complete and accurate.\n\nAnswer: option (a).\n\nValue Addition:\n• Radon in indoor air (seeping from groundwater or soil into buildings) is a leading cause of lung cancer globally — a different exposure pathway from drinking water ingestion.\n• WHO's guideline for radon in drinking water is 100 Bq/L (Becquerels per litre) — a separate guidance from the total indicative dose limit.\n• Atomic Energy Regulatory Board (AERB) in India oversees radioactivity-related standards including for nuclear power plant discharges; geogenic radioactivity in groundwater falls under a less clearly defined regulatory jurisdiction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Radon dissolved in groundwater can constitute a source of radioactive contamination in regions with granite-rich geological formations, even in the complete absence of any nuclear power or industrial radioactive activity in the vicinity.\n\nReason (R): Granite rock contains naturally occurring uranium, which undergoes radioactive decay through a series of daughter isotopes, ultimately producing radon gas that dissolves in groundwater percolating through such formations.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "70d52033-592a-475a-81e6-5ac480562072",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Pollution",
+      "sub_topic": "Water pollution — sources and effects",
+      "concepts_used": [
+        "Water (Prevention and Control of Pollution) Act, 1974: Key Provisions and Institutional Framework",
+        "Water Quality Standards in India: BIS, CPCB, and WHO — Hierarchy and Gaps"
+      ],
+      "subject_que_no": 3622,
+      "overall_que_no": 16766
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "CPCB standard-setting vs. SPCB consent enforcement roles",
+      "statement_analysis": [
+        {
+          "statement": "Under the Water (Prevention and Control of Pollution) Act, 1974, the Central Pollution Control Board sets national water quality standards while State Pollution Control Boards enforce them through consent mechanisms for industrial units.",
+          "verdict": "Correct",
+          "reason": "This accurately describes the two-tier structure: CPCB establishes national minimum standards and guidelines; SPCBs issue 'Consent to Establish' and 'Consent to Operate' to industrial units, enforcing these standards at the state level."
+        },
+        {
+          "statement": "The 2024 Amendment to the Water (Prevention and Control of Pollution) Act retained the criminal prosecution framework as the primary mechanism for addressing environmental violations, while adding adjudicatory officers as an additional layer.",
+          "verdict": "Incorrect",
+          "reason": "The 2024 Amendment represents a structural shift — it decriminalised certain violations and introduced adjudicatory officers as an alternative to criminal courts, moving from criminal penalties to civil/regulatory penalties for specified offences; criminal prosecution is no longer the primary mechanism for those specified violations."
+        },
+        {
+          "statement": "The Water (Prevention and Control of Pollution) Act, 1974 was enacted by Parliament by invoking its power under Article 252 of the Constitution, following resolutions by state legislatures.",
+          "verdict": "Correct",
+          "reason": "Article 252 allows Parliament to legislate on State List subjects (Water — Entry 17) when two or more state legislatures pass resolutions requesting such legislation — this is the constitutional basis for the 1974 Act."
+        }
+      ],
+      "strong_distractor": "d — All three is the strong distractor because Statement 2 uses careful qualifying language ('retained as primary mechanism') and mentions 'adjudicatory officers' which students know are introduced — they may not carefully read 'retained as primary' as the false element, marking all three as correct.",
+      "elimination_logic": [
+        "Confirm Statement 1 — CPCB standard-setting versus SPCB enforcement through consent is the foundational two-tier structure of the Water Act; Statement 1 is correct.",
+        "Examine Statement 2 carefully — 'retained criminal prosecution as primary mechanism' is the false element. The 2024 Amendment specifically shifted AWAY from criminal prosecution as the primary tool for specified violations, introducing civil adjudicatory penalties as the primary mechanism for those cases; Statement 2 is incorrect.",
+        "Confirm Statement 3 — Article 252 as the constitutional basis for the 1974 Act is a well-established constitutional law fact; Statement 3 is correct.",
+        "Retain option containing only Statements 1 and 3 — this is option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is crafted to be deceptive through partial truth. Students who know that the 2024 Amendment introduced adjudicatory officers — which is correct — will read Statement 2 and find the 'adjudicatory officers' detail accurate, not scrutinising the false framing of 'retained criminal prosecution as primary mechanism.' The amendment's entire thrust was to shift away from criminal prosecution for specified violations; describing it as 'retaining criminal prosecution as primary' while adding adjudicatory officers fundamentally misrepresents the reform's direction.",
+      "final_explanation": "The 1974 Water Act's institutional architecture and the 2024 Amendment are key regulatory knowledge points.\n\n• Statement 1 — Correct: The Water Act creates a two-tier regulatory structure. CPCB functions as the apex standard-setting authority — prescribing national standards for effluent discharge and ambient water quality. SPCBs function as enforcement authorities — they grant 'Consent to Establish' (before construction of a facility) and 'Consent to Operate' (before commencement of operations) to industrial units, with conditions aligned to CPCB standards.\n• Statement 2 — Incorrect: The 2024 Amendment's defining feature was the DECRIMINALISATION of certain violations under the Act. It introduced adjudicatory officers as an alternative to criminal courts — making civil/regulatory penalties (fines) the primary mechanism for specified violations. Criminal prosecution, while retained for serious violations, is no longer the default first-recourse mechanism the Amendment targets.\n• Statement 3 — Correct: 'Water' (Entry 17, State List) is ordinarily a state subject. Parliament used Article 252 — whereby state legislatures passed resolutions inviting Parliament to legislate — to enact the Water Act, 1974.\n\nValue Addition:\n• The Air (Prevention and Control of Pollution) Act, 1981 followed the same Article 252 route.\n• The Environment Protection Act, 1986 used Article 253 (international treaty implementation) instead.\n• CPCB publishes the 'National Water Quality Standards' and 'ADSORBS' (acceptable standards for effluent discharge)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the Water (Prevention and Control of Pollution) Act, 1974 and its institutional framework, consider the following statements:\n\n1. Under this Act, the Central Pollution Control Board sets national water quality standards while State Pollution Control Boards enforce them through consent mechanisms for industrial units.\n2. The 2024 Amendment to this Act retained criminal prosecution as the primary mechanism for addressing environmental violations while adding adjudicatory officers as an additional layer.\n3. This Act was enacted by Parliament by invoking its power under Article 252 of the Constitution, following resolutions by state legislatures.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1 and 3 only",
+      "table_data": null
+    }
+  }
+]

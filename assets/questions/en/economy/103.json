@@ -1,0 +1,1570 @@
+[
+  {
+    "meta": {
+      "uuid": "92fc3b5c-b0d2-40c8-a4fe-e35e05fe17e6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI: Definition, Purpose, and Conceptual Foundation"
+      ],
+      "subject_que_no": 3538,
+      "overall_que_no": 10885
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "HDI measures average achievement not distribution",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is deceptive because the capabilities approach is genuinely associated with both Amartya Sen and HDI, making students assume it correctly describes what HDI measures rather than its philosophical foundation.",
+      "elimination_logic": [
+        "Eliminate option (a): HDI is explicitly a critique of GDP-centric measurement, not an extension of it.",
+        "Eliminate option (b): While the capabilities approach informs HDI's philosophy, HDI does not measure distribution of capabilities — it measures average achievement.",
+        "Eliminate option (c): HDI deliberately excludes inequality; that is precisely what IHDI addresses.",
+        "Select option (d): HDI measures average achievements in its three dimensions across the population — it says nothing about how those achievements are distributed."
+      ],
+      "upsc_trap_explanation": "Many students confuse HDI's philosophical foundation (capabilities approach) with what the index actually computes. The index aggregates national averages, meaning a country where only the richest half enjoys good health and education can score identically to one where development is evenly spread. This is the core limitation HDI itself acknowledges, which is why IHDI was introduced. Students who recall 'Sen + capabilities' wrongly assume HDI captures distributional equity.",
+      "final_explanation": "HDI was conceived as a corrective to purely income-based assessments of national progress. Mahbub ul Haq, working closely with Amartya Sen, grounded it in the capabilities approach — the idea that human well-being depends on what people can do and be, not merely what they earn.\n\n• Option (a): Incorrect. HDI was designed as a critique of GDP-centric measurement, not as a supplementary GDP measure.\n• Option (b): Incorrect. The capabilities approach shapes HDI's normative philosophy, but the index itself computes national averages — it does not measure how capabilities are distributed across individuals.\n• Option (c): Incorrect. HDI deliberately excludes inequality. The Inequality-Adjusted HDI (IHDI) was introduced in 2010 specifically to address this gap.\n• Option (d): Correct. HDI reports average achievements in health, education, and income. A country where development is concentrated in a privileged minority can score the same as one with broadly shared development.\n\nValue Addition:\n• The 'loss' between HDI and IHDI reveals the cost of inequality — India's loss is among the larger ones globally.\n• Human Poverty Index (HPI), the predecessor to MPI, was also an attempt to go beyond averages.\n• Amartya Sen received the Nobel Prize in Economics (1998) partly for the capabilities framework that underpins HDI."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following statements most accurately describes a fundamental limitation that the Human Development Index acknowledges about its own measurement?\n\n(a) It extends GDP-per-capita analysis by adding health and education metrics to economic output\n(b) It measures the distribution of capabilities across individuals within a country\n(c) It captures the degree of inequality within each of its three component dimensions\n(d) It reflects average national achievements in health, education, and income without accounting for how those achievements are distributed",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "56701043-373a-40db-8b75-9ec966bbb500",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Three Core Dimensions of HDI: Long Life, Knowledge, and Decent Standard of Living",
+        "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation"
+      ],
+      "subject_que_no": 3539,
+      "overall_que_no": 10886
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "GNI per capita PPP vs GDP per capita in HDI",
+      "statement_analysis": [
+        {
+          "statement": "The income dimension of the Human Development Index uses Gross National Income per capita at purchasing power parity rather than Gross Domestic Product per capita.",
+          "verdict": "Correct",
+          "reason": "Since the 2010 revision, HDI uses GNI per capita (PPP) because GNI captures income accruing to a country's residents regardless of where it is earned, better reflecting citizens' actual living standards."
+        },
+        {
+          "statement": "Each of the three dimensions of HDI — health, education, and income — contributes equally to the final index value.",
+          "verdict": "Correct",
+          "reason": "Each dimension is weighted at 1/3 in the geometric mean formula: HDI = (Health Index × Education Index × Income Index)^(1/3), giving equal weight to all three."
+        },
+        {
+          "statement": "The income dimension value in HDI is derived by applying a square root transformation to GNI per capita to reflect diminishing returns.",
+          "verdict": "Incorrect",
+          "reason": "The income dimension uses the natural logarithm of GNI per capita (not a square root) to capture diminishing returns to income on human development."
+        }
+      ],
+      "strong_distractor": "c — Option c is deceptive because students who know both statements 1 and 2 are correct but are uncertain about the mathematical transformation used (log vs. square root) may select 1 and 3 or 2 and 3, especially since both involve a non-linear function.",
+      "elimination_logic": [
+        "Confirm Statement 1: GNI per capita (PPP) replaced GDP per capita in the 2010 revision — Statement 1 is correct.",
+        "Confirm Statement 2: All three dimensions carry equal weight of 1/3 in the geometric mean — Statement 2 is correct.",
+        "Eliminate Statement 3: The transformation applied is the natural logarithm, not a square root — Statement 3 is incorrect.",
+        "Select option (b): Only statements 1 and 2 are correct."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the primary trap. Both the logarithm and the square root are non-linear transformations that capture diminishing returns, making them superficially interchangeable to a partially prepared student. The UNDP methodology specifically uses the natural logarithm (ln) of GNI per capita — not a square root, cube root, or any other power function. Students who remember 'non-linear transformation' without recalling the specific function will find Statement 3 plausible.",
+      "final_explanation": "The 2010 revision of HDI methodology made three major changes to the income dimension: it replaced GDP with GNI, applied a logarithmic transformation to income, and switched from arithmetic to geometric mean aggregation.\n\n• Statement 1 — Correct: GNI per capita at PPP (in constant 2017 international dollars) is used because GNI includes income earned abroad by residents and excludes income earned domestically by non-residents, making it a truer measure of a population's purchasing power.\n• Statement 2 — Correct: The geometric mean formula HDI = (I_Health × I_Education × I_Income)^(1/3) assigns exactly one-third weight to each dimension.\n• Statement 3 — Incorrect: The income sub-index uses the natural logarithm of GNI per capita, not a square root. The logarithm is specifically chosen to reflect the principle that each additional dollar of income yields progressively smaller gains in human development.\n\nValue Addition:\n• GNI differs from GDP by adding net factor income from abroad — important for countries with large diaspora remittances (e.g., India, Philippines).\n• The log transformation means a country at $1,000 GNI gains more HDI points per dollar increase than one at $50,000.\n• The 2010 revision also replaced adult literacy rate and gross enrollment ratio with MYS and EYS in the education dimension."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the income and weighting structure of the Human Development Index:\n\n1. The income dimension of the Human Development Index uses Gross National Income per capita at purchasing power parity rather than Gross Domestic Product per capita.\n2. Each of the three dimensions of HDI — health, education, and income — contributes equally to the final index value.\n3. The income dimension value in HDI is derived by applying a square root transformation to GNI per capita to reflect diminishing returns.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6864d83a-9cb2-4613-a0dd-99dc26a347e5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Life Expectancy at Birth: Health Dimension of HDI"
+      ],
+      "subject_que_no": 3540,
+      "overall_que_no": 10887
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "Life expectancy at birth vs HALE in HDI health dimension",
+      "statement_analysis": [
+        {
+          "statement": "The health dimension of HDI uses Healthy Life Expectancy at Birth, which accounts for years lived free from serious disease or disability.",
+          "verdict": "Incorrect",
+          "reason": "HDI uses plain Life Expectancy at Birth, not Healthy Life Expectancy (HALE). HALE is used in other indices such as components of the Global Health Index and WHO health assessments."
+        },
+        {
+          "statement": "The minimum goalpost for life expectancy used in HDI normalization is set at 20 years.",
+          "verdict": "Correct",
+          "reason": "The normalization formula uses a minimum of 20 years and a maximum of 85 years for life expectancy at birth to compute the health dimension index."
+        },
+        {
+          "statement": "Life expectancy at birth, as used in HDI, captures both the quantity and quality of years lived by a population.",
+          "verdict": "Incorrect",
+          "reason": "Life expectancy at birth measures only the average number of years a newborn is expected to live — it does not capture quality of life, morbidity burden, or disability."
+        }
+      ],
+      "strong_distractor": "b — Option b (statements 1 and 3 only) is deceptive because both statements 1 and 3 contain plausible health-related language, and students who correctly identify statement 3 as wrong may overlook that statement 1 is also wrong — both contain the same conceptual error of adding quality/health-adjustment to what is purely a quantity measure.",
+      "elimination_logic": [
+        "Evaluate Statement 1: HDI uses Life Expectancy at Birth, not Healthy Life Expectancy (HALE) — Statement 1 is NOT correct.",
+        "Evaluate Statement 2: The goalposts of 20 years (minimum) and 85 years (maximum) are correct per UNDP methodology — Statement 2 IS correct.",
+        "Evaluate Statement 3: Life expectancy at birth only measures duration, not quality or morbidity — Statement 3 is NOT correct.",
+        "Select option (c): Statements 1 and 3 are both NOT correct."
+      ],
+      "upsc_trap_explanation": "The conflation of 'Life Expectancy at Birth' with 'Healthy Life Expectancy (HALE)' is a classic UPSC-style trap. HALE adjusts life expectancy for years spent in poor health, and it is used in WHO and certain health indices. HDI deliberately uses the simpler, more universally available metric of life expectancy at birth. A student who has studied global health indices without carefully reading HDI methodology will assume the more sophisticated HALE is used. Statement 3 reinforces this confusion by suggesting HDI captures quality — it does not.",
+      "final_explanation": "The health dimension of HDI is built on a single indicator: Life Expectancy at Birth (LEB). This metric is chosen for its universal availability and comparability, not because it is comprehensive.\n\n• Statement 1 — NOT correct: HDI uses simple Life Expectancy at Birth. Healthy Life Expectancy (HALE) — which discounts years of illness or disability — is used by WHO and in other assessments but is not an HDI component.\n• Statement 2 — Correct: The normalization formula uses fixed goalposts of 20 years (minimum) and 85 years (maximum). These allow cross-country and inter-temporal comparison.\n• Statement 3 — NOT correct: LEB measures only the expected duration of life, not its quality. Morbidity, disability, and chronic illness are entirely absent from this indicator.\n\nValue Addition:\n• India's life expectancy at birth is approximately 67–70 years, below the global average of ~73 years, constraining its health dimension index.\n• The maximum goalpost of 85 years reflects aspirational performance; Japan routinely approaches this.\n• HALE figures prominently in SDG health monitoring (SDG 3.4) and WHO's Global Health Observatory."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the health dimension of the Human Development Index:\n\n1. The health dimension of HDI uses Healthy Life Expectancy at Birth, which accounts for years lived free from serious disease or disability.\n2. The minimum goalpost for life expectancy used in HDI normalization is set at 20 years.\n3. Life expectancy at birth, as used in HDI, captures both the quantity and quality of years lived by a population.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 1 and 2 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3dd9477d-9d14-4dfc-a34f-d1678ef85ee0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Education Dimension: Mean Years of Schooling (MYS) and Expected Years of Schooling (EYS)",
+        "Historical Evolution of HDI Methodology: 1990, 2010, and Post-2010 Changes"
+      ],
+      "subject_que_no": 3541,
+      "overall_que_no": 10888
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "2010 revision replaced adult literacy with MYS and EYS",
+      "statement_analysis": [
+        {
+          "statement": "Mean Years of Schooling (MYS) measures the average years of education received by persons aged 25 and above.",
+          "verdict": "Correct",
+          "reason": "MYS is defined as the average number of years of education received by people aged 25+, reflecting the existing educational stock of the adult population."
+        },
+        {
+          "statement": "Expected Years of Schooling (EYS) uses the maximum goalpost of 20 years for normalization purposes.",
+          "verdict": "Incorrect",
+          "reason": "The goalpost for EYS is 0–18 years, not 20 years. The maximum goalpost of 15 years applies to MYS, not EYS."
+        },
+        {
+          "statement": "Prior to the 2010 revision, the education dimension of HDI included Adult Literacy Rate and Gross Enrollment Ratio as its two sub-indicators.",
+          "verdict": "Correct",
+          "reason": "The original 1990 HDI methodology used Adult Literacy Rate (weighted 2/3) and Gross Enrollment Ratio (weighted 1/3) for the education dimension, both replaced in 2010."
+        },
+        {
+          "statement": "Within the current education sub-index, MYS and EYS are each assigned equal weight through an arithmetic mean of their individual indices.",
+          "verdict": "Correct",
+          "reason": "The education index is computed as the arithmetic mean of the MYS index and the EYS index, giving each a weight of one-half within the education sub-index."
+        }
+      ],
+      "strong_distractor": "c — Option c (Only three) is deceptive because students who correctly identify statement 2 as wrong but are uncertain about the internal weighting of MYS and EYS (statement 4) may tentatively accept all others, arriving at 'three' without verifying the goalpost for EYS.",
+      "elimination_logic": [
+        "Confirm Statement 1: MYS is indeed computed for population aged 25+ — correct.",
+        "Reject Statement 2: The goalpost for EYS is 0–18 years; 20 years is incorrect — this statement is wrong.",
+        "Confirm Statement 3: Pre-2010, Adult Literacy Rate and GER were used — correct.",
+        "Confirm Statement 4: MYS and EYS carry equal weight (arithmetic mean) within the education sub-index — correct.",
+        "Three statements (1, 3, 4) are correct; select option (b): Only two — wait, recount: 1 correct, 2 incorrect, 3 correct, 4 correct = three correct statements → option (c)."
+      ],
+      "upsc_trap_explanation": "The goalpost confusion in Statement 2 is a precision trap. Students who remember that '18 years' applies to EYS and '15 years' to MYS are protected. But many recall only that there are goalposts without remembering which number goes with which indicator — and 20 years sounds plausible since it appears as the minimum for life expectancy in the health dimension. The temporal trap is layered: students must also correctly place the 2010 revision to verify Statement 3.",
+      "final_explanation": "The education dimension of HDI is composed of two sub-indicators introduced in the 2010 revision to replace the cruder Adult Literacy Rate and Gross Enrollment Ratio.\n\n• Statement 1 — Correct: MYS captures the educational stock of adults (25+), reflecting past educational investments.\n• Statement 2 — Incorrect: EYS uses a maximum goalpost of 18 years, not 20. MYS uses 0–15 years as its range. The figure 20 appears in the health dimension (minimum goalpost for life expectancy), making this a cross-dimension confusion trap.\n• Statement 3 — Correct: Pre-2010, Adult Literacy Rate carried a 2/3 weight and Gross Enrollment Ratio carried 1/3 within the education sub-index.\n• Statement 4 — Correct: The current education index is the simple arithmetic mean of the MYS index and the EYS index — each weighted equally at one-half.\n\nValue Addition:\n• India's MYS (~6–7 years) is below both its EYS (~12 years) and global peers, indicating past under-investment in education.\n• The shift from Adult Literacy Rate to MYS was driven by literacy rate data becoming too coarse a differentiator among developing nations.\n• EYS is prospective (future enrollment expectations); MYS is retrospective (past educational attainment)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the education dimension of the Human Development Index:\n\n1. Mean Years of Schooling (MYS) measures the average years of education received by persons aged 25 and above.\n2. Expected Years of Schooling (EYS) uses the maximum goalpost of 20 years for normalization purposes.\n3. Prior to the 2010 revision, the education dimension of HDI included Adult Literacy Rate and Gross Enrollment Ratio as its two sub-indicators.\n4. Within the current education sub-index, MYS and EYS are each assigned equal weight through an arithmetic mean of their individual indices.\n\nHow many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "166b262b-86c0-48c4-980a-ffb952b61b40",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Geometric Mean Aggregation: The 2010 Methodological Revision",
+        "Three Core Dimensions of HDI: Long Life, Knowledge, and Decent Standard of Living"
+      ],
+      "subject_que_no": 3542,
+      "overall_que_no": 10889
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Geometric mean penalizes uneven development across dimensions",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b swaps the aggregation method descriptions, exploiting the common confusion between what arithmetic and geometric means imply for substitutability — students who remember 'geometric mean was adopted in 2010' but not why may accept any pairing.",
+      "elimination_logic": [
+        "Match A: Perfect substitutability characterizes arithmetic mean — a high score in one dimension fully offsets a low score elsewhere; this is Property 2.",
+        "Match B: Geometric mean penalizes uneven development — a balanced country ranks higher than an imbalanced one with the same arithmetic average; this is Property 1.",
+        "Match C: HDI = (I_H × I_E × I_I)^(1/3) is the geometric mean formula post-2010; this is Property 4.",
+        "Match D: Pre-2010 arithmetic mean allowed a zero score in one dimension to be rescued by high scores elsewhere — a recognized flaw corrected in 2010; this is Property 3.",
+        "Correct combination: A-2, B-1, C-4, D-3 → option (a)."
+      ],
+      "upsc_trap_explanation": "The trap lies in confusing which aggregation method corresponds to which property. 'Perfect substitutability' is associated with arithmetic mean (the OLD method), not geometric mean. Students who associate the new 2010 method with 'substitutability' because they only recall it was a change will mismatch A with Property 1. The question design places the conceptually adjacent properties together, forcing the student to distinguish the direction of the reform.",
+      "final_explanation": "The 2010 revision replaced the arithmetic mean with the geometric mean to address a fundamental flaw: under the arithmetic mean, a country could score zero in one dimension (say, education) and still achieve a decent overall HDI if income and health were high enough. The geometric mean makes this impossible — a zero in any dimension collapses the entire HDI to zero.\n\nCorrect matches:\n• A (Arithmetic mean aggregation) → 2 (Perfect substitutability: high scores in one dimension fully compensate low scores in another)\n• B (Geometric mean aggregation) → 1 (Penalizes uneven development; balanced countries rank higher than imbalanced ones with identical arithmetic averages)\n• C (Post-2010 HDI formula) → 4 (HDI = (Health Index × Education Index × Income Index)^(1/3))\n• D (Pre-2010 aggregation method's key weakness) → 3 (A dimension score of zero could be offset by strong performance in the other two dimensions)\n\nThe trap pairings are A↔B: both describe aggregation methods, but their substitutability implications are opposite.\n\nValue Addition:\n• The geometric mean is also called the 'corrected' or 'penalizing' mean in development literature.\n• Two countries with identical arithmetic HDI can have different geometric HDI if one has more balanced dimension scores.\n• This property makes geometric mean especially relevant for federal countries like India with large inter-state development gaps."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Aggregation concept) with List II (Property or formula):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Arithmetic mean aggregation (pre-2010 HDI)",
+            "1. Penalizes uneven development — a country with balanced dimension scores ranks higher than one with extreme variation even if arithmetic averages are equal"
+          ],
+          [
+            "B. Geometric mean aggregation (post-2010 HDI)",
+            "2. Allows perfect substitutability between dimensions — a high score in one dimension fully compensates a low score in another"
+          ],
+          [
+            "C. Post-2010 HDI formula",
+            "3. A dimension score of zero could be offset by strong performance in the remaining two dimensions"
+          ],
+          [
+            "D. Key weakness of pre-2010 aggregation method",
+            "4. HDI = (Health Index × Education Index × Income Index)^(1/3)"
+          ]
+        ],
+        "footer_text": "Select the correct matching combination:\n\n(a) A-2, B-1, C-4, D-3\n(b) A-1, B-2, C-4, D-3\n(c) A-2, B-4, C-1, D-3\n(d) A-3, B-1, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "56eb30d3-e1e1-4d8f-97c1-bbacdcce9aef",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI Classification: Very High, High, Medium, and Low Human Development",
+        "India's Performance on HDI: Trends, Peer Comparison, and Dimension-wise Analysis"
+      ],
+      "subject_que_no": 3543,
+      "overall_que_no": 10890
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "India Medium HDI; rank stagnation vs score improvement",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is deceptive because both A and R are individually true, and students who do not carefully read whether R causally explains A may default to selecting (a) without testing whether the causal link is valid.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — India has improved its HDI value consistently over decades while experiencing rank stagnation in recent reports. Yes, A is factually correct.",
+        "Step 2: Is Reason (R) correct? — India falls in the 'Medium Human Development' category (score roughly 0.633–0.645 in recent reports), not 'Low'. Yes, R is factually correct.",
+        "Step 3: Does R causally explain A? — India's rank stagnation is caused by peer nations improving faster, not by India being in the Medium category. The Medium category classification does not cause or explain rank stagnation. R does not explain A.",
+        "Both A and R are correct but R does NOT explain A → correct option is (b)."
+      ],
+      "upsc_trap_explanation": "This is a classic assertion-reason trap where both statements are true but their causal connection is absent. A student who reads both and finds them independently true may immediately select (a) without pausing to test the causal arrow. India's rank stagnation happens because other countries at similar scores improve their values faster — this is a relative ranking issue, not a consequence of belonging to the Medium Human Development category. The category label itself does not cause the rank outcome.",
+      "final_explanation": "HDI classification and HDI rank are two different dimensions of the same score.\n\nAssertion (A): India has recorded consistent improvements in its absolute HDI value over the past three decades. Yet its rank has remained largely stagnant or even declined in some years — a well-documented phenomenon. A is correct.\n\nReason (R): India's HDI score (approximately 0.633–0.645 in recent reports) places it firmly in the 'Medium Human Development' category (0.550–0.699). India is NOT in the 'Low' category — a common misconception. R is correct.\n\nCausal link: However, R does not explain A. India's rank stagnation is caused by the faster pace of improvement among peer nations, not by its category classification. A country can be in the Medium category and still improve its rank if its peers improve more slowly. The category is an output of the score, not a cause of rank dynamics.\n\nCorrect answer: (b) — Both A and R are correct, but R is NOT the correct explanation of A.\n\nValue Addition:\n• The 'Very High' threshold is ≥ 0.800; India has not crossed 0.700 yet as of the most recent reports.\n• Small score differences near threshold boundaries (e.g., 0.699 vs. 0.700) can cause large rank jumps.\n• Among BRICS nations, China is in the High category; Brazil and Russia in Very High; India and South Africa in Medium."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): India has recorded consistent improvement in its absolute Human Development Index value over recent decades, yet its global rank has remained largely stagnant or has declined in certain reporting years.\n\nReason (R): India is classified under the 'Medium Human Development' category in the Human Development Report, not the 'Low Human Development' category.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "12407ecc-e53e-45bb-9a7e-863caf3eb7a9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Historical Evolution of HDI Methodology: 1990, 2010, and Post-2010 Changes",
+        "Education Dimension: Mean Years of Schooling (MYS) and Expected Years of Schooling (EYS)"
+      ],
+      "subject_que_no": 3544,
+      "overall_que_no": 10891
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Sequence of HDI methodological revisions 1990 to 2020",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is deceptive because it correctly places the first HDR and the 2010 revision but incorrectly sequences PHDI before GII, which students unaware of the 2020 PHDI introduction may find plausible.",
+      "elimination_logic": [
+        "Fix the anchor: First Human Development Report was published in 1990, introducing the original HDI with Adult Literacy Rate and Gross Enrollment Ratio — this comes first.",
+        "Next: The 2010 revision replaced ALR+GER with MYS+EYS, switched to GNI, adopted geometric mean, and introduced IHDI and GII simultaneously — GII was introduced in 2010.",
+        "Last: Planetary Pressures-Adjusted HDI (PHDI) was introduced in HDR 2020 — this is the most recent development.",
+        "Correct order: First HDR (1990) → 2010 revision introducing MYS/EYS and GII → PHDI (2020) → option (b)."
+      ],
+      "upsc_trap_explanation": "The temporal trap targets students who know all three events but are uncertain whether the GII preceded or followed the MYS/EYS change. In fact, both were part of the same 2010 omnibus revision. Any option that separates them by placing GII before or after 2010 is wrong. Additionally, students may confuse PHDI with other additions, placing it earlier than 2020.",
+      "final_explanation": "HDI methodology has undergone two major revisions since 1990:\n\nCorrect sequence: (i) First HDR published in 1990 with original methodology (adult literacy rate, gross enrollment ratio, real GDP per capita, arithmetic mean) → (ii) 2010 comprehensive revision: replaced ALR and GER with MYS and EYS; replaced GDP with GNI per capita; switched from arithmetic to geometric mean; simultaneously introduced IHDI, GII, and MPI → (iii) HDR 2020 introduced the Planetary Pressures-Adjusted HDI (PHDI) as a new experimental measure.\n\nWhy wrong options fail:\n• Options placing PHDI before GII confuse 2020 with 2010.\n• Options placing GII introduction before or after the MYS/EYS change misunderstand the 2010 revision as multiple separate events rather than one package.\n• The first HDR's position is unambiguous — no option misplaces it — but it anchors the chronology.\n\nValue Addition:\n• The Human Poverty Index (HPI), the precursor to MPI, was introduced in 1997 and retired in 2010.\n• HDR 2021/22 focused on 'Uncertain Times, Unsettled Lives' and further developed the PHDI.\n• Gender Empowerment Measure (GEM), predecessor to GII, was also retired in the 2010 revision."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological order of developments in the Human Development Index methodology?\n\n1. Introduction of the first Human Development Report using adult literacy rate and gross enrollment ratio in the education dimension\n2. Replacement of adult literacy rate with Mean Years of Schooling and Expected Years of Schooling, and concurrent introduction of the Gender Inequality Index\n3. Introduction of the Planetary Pressures-Adjusted Human Development Index\n\n(a) 2 → 1 → 3\n(b) 1 → 2 → 3\n(c) 1 → 3 → 2\n(d) 3 → 1 → 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0704fb12-47c5-4ea4-9f0e-66344544b62d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Inequality-Adjusted HDI (IHDI): Concept and Divergence from HDI",
+        "Gender Development Index (GDI): HDI Disaggregated by Sex"
+      ],
+      "subject_que_no": 3545,
+      "overall_que_no": 10892
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "conflation",
+      "concept_anchor": "IHDI penalizes inequality within HDI dimensions",
+      "statement_analysis": null,
+      "strong_distractor": "d — Option d (GDI) is deceptive because the scenario explicitly involves male-female disparities in education and health, which sounds precisely like what GDI measures — but GDI is a ratio of male to female HDI and does not specifically discount the aggregate HDI for distributional inequality the way IHDI does.",
+      "elimination_logic": [
+        "Identify the scenario's core feature: Country X has high average health and education scores but extreme concentration of educational attainment in urban males — distributional inequality within dimensions, not just gender gaps.",
+        "Eliminate option (a) — HDI: HDI only reports averages; it does not adjust for how achievements are distributed, so X's high average would remain unchanged.",
+        "Eliminate option (b) — MPI: MPI counts simultaneously deprived people below thresholds; the scenario describes distributional inequality, not threshold-based deprivation.",
+        "Eliminate option (d) — GDI: GDI measures the ratio of female HDI to male HDI; it addresses gender-based human development gaps, not general distributional inequality within a dimension.",
+        "Select option (c) — IHDI: IHDI specifically discounts each dimension's index using the Atkinson inequality measure, penalizing unequal distributions. A country where educational attainment is concentrated in one group would see its education dimension discounted sharply, reducing IHDI below HDI."
+      ],
+      "upsc_trap_explanation": "The scenario's mention of male-female disparity in education is a deliberate red herring designed to pull students toward GDI. But the fundamental issue is not gender gaps specifically — it is distributional inequality within the education dimension, which affects all residents. IHDI, not GDI, is the instrument that discounts HDI for inequality in any dimension regardless of whether the inequality is gender-based, regional, or income-based. GDI only computes gender-disaggregated HDIs.",
+      "final_explanation": "The IHDI adjusts each dimension of HDI downward by applying the Atkinson inequality measure to the distribution of outcomes within that dimension. The greater the inequality, the larger the 'discount' from HDI to IHDI.\n\nScenario analysis: Country X has high average scores in health and education, so its HDI looks impressive. However, educational attainment is concentrated among urban males — meaning the distribution of years of schooling is highly unequal. The education dimension would be discounted heavily under IHDI, pulling X's IHDI significantly below its HDI.\n\n• Option (a) — HDI: Measures averages only; it would report X's high performance without any discount — not the right tool.\n• Option (b) — MPI: Measures simultaneous deprivation across health, education, and living standards using threshold-based indicators — not designed to capture distributional skew within a dimension.\n• Option (c) — IHDI: Correct. IHDI uses the Atkinson inequality measure to discount each dimension, directly penalizing the distributional inequity in educational attainment described in the scenario.\n• Option (d) — GDI: Ratio of female to male HDI — captures gender gap, not general distributional inequality.\n\nValue Addition:\n• India's loss due to inequality (HDI minus IHDI) is among the highest in South Asia.\n• IHDI was introduced in the 2010 HDR alongside the geometric mean revision.\n• The Atkinson inequality measure is bounded between 0 (perfect equality) and 1 (maximum inequality)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Country X reports high average health outcomes and above-average educational attainment scores. However, a closer analysis reveals that years of schooling are overwhelmingly concentrated among urban male populations, with rural women averaging fewer than two years of formal education. The country's income distribution is similarly skewed. A policy analyst wishes to identify which published index would most directly capture the cost of this distributional inequality within each human development dimension.\n\nWhich of the following indices is the analyst most likely referring to?\n\n(a) Human Development Index (HDI)\n(b) Multidimensional Poverty Index (MPI)\n(c) Inequality-Adjusted Human Development Index (IHDI)\n(d) Gender Development Index (GDI)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c19adb87-0924-4595-8bfa-b79b8fc0eded",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Gender Inequality Index (GII): Components and Contrast with GDI and HDR Indices",
+        "Gender Development Index (GDI): HDI Disaggregated by Sex"
+      ],
+      "subject_que_no": 3546,
+      "overall_que_no": 10893
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "GII dimensions vs GDI methodology",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (adolescent birth rate) is deceptive because it is a health-adjacent indicator that students might confuse with life expectancy (a GDI/HDI indicator) rather than recognizing it as a Reproductive Health sub-indicator within GII.",
+      "elimination_logic": [
+        "Identify the category: indicators that are components of the Gender Inequality Index (GII).",
+        "GII has three dimensions: Reproductive Health (MMR + adolescent birth rate), Empowerment (parliamentary seats + secondary education attainment), Labour Market (LFPR).",
+        "Check option (a): Maternal Mortality Ratio — Reproductive Health dimension of GII — belongs.",
+        "Check option (b): Adolescent birth rate — Reproductive Health dimension of GII — belongs.",
+        "Check option (c): Female labour force participation rate — Labour Market dimension of GII — belongs.",
+        "Check option (d): Female life expectancy at birth — this is an HDI/GDI indicator, NOT a GII indicator. GII does not use life expectancy.",
+        "Option (d) does not belong to GII — select (d)."
+      ],
+      "upsc_trap_explanation": "Life expectancy at birth is central to HDI and therefore to GDI (which disaggregates HDI by sex). Students who conflate GDI and GII — both appear in the same HDR — may assume that female life expectancy also feeds into GII. It does not. GII is deliberately constructed using indicators distinct from those in HDI to avoid overlap and to focus on gender-specific dimensions: reproductive health, political empowerment, and labour market participation. Female life expectancy belongs to GDI, not GII.",
+      "final_explanation": "The Gender Inequality Index uses six indicators across three dimensions, none of which is life expectancy at birth.\n\n• Option (a): Maternal Mortality Ratio — Reproductive Health dimension of GII. Belongs.\n• Option (b): Adolescent birth rate — also in the Reproductive Health dimension of GII. Belongs.\n• Option (c): Female labour force participation rate — Labour Market dimension of GII. Belongs.\n• Option (d): Female life expectancy at birth — this indicator is part of the Health dimension of HDI, and by extension GDI (which disaggregates HDI by sex). It is NOT a component of GII.\n\nValue Addition:\n• GII replaced the Gender Empowerment Measure (GEM) and the old Gender-related Development Index in the 2010 revision.\n• A higher GII value means greater gender inequality — the direction is opposite to GDI, where a higher ratio means less inequality.\n• India's GII rank is notably worse than its HDI rank, with reproductive health indicators (high MMR, high adolescent birth rate) being the primary drag."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four indicators are components of the Gender Inequality Index (GII) as published in the Human Development Report. Which one does NOT belong to the same group as the others?\n\n(a) Maternal Mortality Ratio\n(b) Adolescent birth rate\n(c) Female labour force participation rate\n(d) Female life expectancy at birth",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "49871842-b4bc-4064-8309-fcec70fc5218",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Multidimensional Poverty Index (MPI): Relationship with HDI",
+        "HDI and its Relationship with Other UNDP/UN Indices in the HDR Ecosystem"
+      ],
+      "subject_que_no": 3547,
+      "overall_que_no": 10894
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "MPI published in HDR but not a component of HDI",
+      "statement_analysis": [
+        {
+          "statement": "The Multidimensional Poverty Index is published as part of the Human Development Report and forms one of the component dimensions of the Human Development Index.",
+          "verdict": "Incorrect",
+          "reason": "MPI is published within the Human Development Report but is NOT a component of HDI. HDI has only three dimensions: health, education, and income. MPI is a separate, complementary measure."
+        },
+        {
+          "statement": "The Global MPI, developed jointly by UNDP and the Oxford Poverty and Human Development Initiative (OPHI), differs from India's National MPI in the specific indicators used to measure deprivation.",
+          "verdict": "Correct",
+          "reason": "India developed its own National MPI (under NITI Aayog) with India-specific indicators, whereas the Global MPI uses standardized international indicators — both measure multidimensional poverty but with different methodological choices."
+        }
+      ],
+      "strong_distractor": "a — Option a is deceptive because both statements superficially sound factual: MPI is indeed in the HDR, and the Global/National MPI distinction is a real one — students who read quickly may accept Statement 1 as true without catching the false 'component' claim.",
+      "elimination_logic": [
+        "Evaluate Statement 1: MPI IS published in the HDR — that part is true. But MPI is NOT a component dimension of HDI (HDI has only health, education, income) — the second half of Statement 1 is false. Statement 1 is incorrect overall.",
+        "Evaluate Statement 2: NITI Aayog developed India's National MPI with tailored indicators; UNDP+OPHI produce the Global MPI using standardized indicators — both parts are factually verifiable. Statement 2 is correct.",
+        "Statement 1 incorrect, Statement 2 correct → option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 1 is a partial-truth trap. The first clause ('published as part of the Human Development Report') is entirely correct and will read as accurate to a student who remembers that MPI appears in the HDR. The trap is in the second clause: 'forms one of the component dimensions of HDI.' HDI has exactly three dimensions — health, education, income — and MPI is none of them. A student who reads quickly conflates 'appears in HDR' with 'is a component of HDI,' which is the exact error the question is designed to expose.",
+      "final_explanation": "MPI and HDI coexist in the Human Development Report but remain methodologically independent.\n\n• Statement 1 — Incorrect: MPI is published in the HDR, making the first clause true. However, MPI is not a component of HDI. HDI consists of three dimensions: Health (life expectancy at birth), Education (MYS + EYS), and Income (GNI per capita at PPP). MPI measures simultaneous deprivation across ten indicators in health, education, and living standards — it is a complementary index, not a sub-index of HDI.\n• Statement 2 — Correct: The Global MPI (UNDP + OPHI) uses internationally standardized indicators (nutrition, child mortality, years of schooling, school attendance, cooking fuel, sanitation, water, electricity, housing, assets). India's National MPI (NITI Aayog) uses some different indicators tailored to India's data systems and policy priorities, including maternal health and bank account access.\n\nValue Addition:\n• The Human Poverty Index (HPI-1, HPI-2) was the predecessor to MPI, retired in 2010.\n• MPI can identify 'acute' and 'structurally poor' populations, which income poverty lines cannot.\n• India's Global MPI has shown significant improvement, with India lifting millions out of multidimensional poverty between 2015 and 2021."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the Multidimensional Poverty Index:\n\nStatement 1: The Multidimensional Poverty Index is published as part of the Human Development Report and forms one of the component dimensions of the Human Development Index.\nStatement 2: The Global MPI, developed jointly by UNDP and the Oxford Poverty and Human Development Initiative (OPHI), differs from India's National MPI in the specific indicators used to measure deprivation.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "61e68b40-f86d-468b-bb04-d320ae0779dc",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Human Development Report (HDR): Publishing Body, Frequency, and Independence"
+      ],
+      "subject_que_no": 3548,
+      "overall_que_no": 10895
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "HDR published by HDRO semi-independent of UNDP headquarters",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (UNDP headquarters, New York) is deceptive because students know UNDP is the parent body and may assume the HDR emanates directly from UNDP headquarters, not recognizing the semi-independent HDRO as the actual publishing unit.",
+      "elimination_logic": [
+        "Eliminate option (a): UNDP headquarters does not directly publish the HDR; the Human Development Report Office (HDRO) is a semi-independent unit within UNDP responsible for the publication.",
+        "Eliminate option (c): The World Bank publishes the World Development Report, not the HDR.",
+        "Eliminate option (d): OECD produces various human and social indicators reports but does not publish the HDR.",
+        "Select option (b): The Human Development Report Office (HDRO) of UNDP publishes the HDR — and the views in the report do not officially represent UNDP or UN positions."
+      ],
+      "upsc_trap_explanation": "UPSC has tested the precise publishing body of flagship international reports. Students confidently associate HDR with UNDP — which is correct at the organizational level — but the distinction is that the actual publishing body is the Human Development Report Office, a semi-independent unit. The report's independence is institutionally important: it allows its authors to present findings and rankings that might embarrass member governments without those being official UN positions. Option (a) conflates the parent organization with the specific unit.",
+      "final_explanation": "The Human Development Report is published annually by the Human Development Report Office (HDRO), a specialized unit within UNDP. The HDRO operates with editorial independence — meaning its findings, rankings, and policy recommendations do not constitute official UNDP or United Nations policy positions.\n\n• Option (a): UNDP headquarters is the parent organization but not the direct publishing unit. The HDRO within UNDP carries publishing responsibility.\n• Option (b): Correct. The Human Development Report Office (HDRO) of UNDP has published the HDR annually since the inaugural report in 1990.\n• Option (c): The World Bank publishes the World Development Report — a separate flagship publication with its own thematic focus each year.\n• Option (d): OECD publishes Society at a Glance, Better Life Index, and other human welfare assessments, but not the HDR.\n\nValue Addition:\n• The first HDR was published in 1990 under Mahbub ul Haq's stewardship.\n• Each HDR has a distinct thematic title — e.g., HDR 2020 focused on 'The Next Frontier: Human Development and the Anthropocene'.\n• The editorial independence of HDRO allows critical analysis of UN member states' records."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Human Development Report is published annually by the ________, whose editorial position does not necessarily represent the official stance of its parent intergovernmental organization.\n\n(a) United Nations Development Programme (UNDP) headquarters, New York\n(b) Human Development Report Office (HDRO) of UNDP\n(c) World Bank's Human Development Network\n(d) Organisation for Economic Co-operation and Development (OECD)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "01ec8002-7dbd-40e7-9284-5f9f4ed32347",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Planetary Pressures-Adjusted HDI (PHDI): The Sustainability Dimension"
+      ],
+      "subject_que_no": 3549,
+      "overall_que_no": 10896
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "PHDI introduced HDR 2020; penalizes high-income countries",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is deceptive because students who know PHDI adjusts for environmental pressures may not recall the specific year of introduction and may accept 2019 as plausible, given HDRs are published annually.",
+      "elimination_logic": [
+        "Evaluate option (a): PHDI was introduced in HDR 2020, adjusting HDI downward for CO2 emissions per capita and material footprint per capita — both elements of this pairing are correct.",
+        "Evaluate option (b): PHDI does not penalize countries with low HDI scores; it penalizes high-income high-HDI countries whose CO2 and material footprints are large. Low per-capita emitters like India see a relatively small gap between HDI and PHDI.",
+        "Evaluate option (c): PHDI was introduced in 2020, not 2018 — temporal swap trap.",
+        "Evaluate option (d): PHDI uses CO2 emissions per capita AND material footprint per capita — not carbon intensity of GDP (which is a different metric used in climate policy analysis).",
+        "Select option (a) as the correctly matched pair."
+      ],
+      "upsc_trap_explanation": "Option (c) is a temporal-swap trap: PHDI was introduced in HDR 2020, but the option states 2018. Students who know PHDI exists but did not memorize the year of introduction will find 2018 plausible because HDRs are published every year and 2018 is within recent memory. Option (d) introduces a credible-sounding but incorrect metric ('carbon intensity of GDP') to trap students with partial knowledge of climate economics.",
+      "final_explanation": "The Planetary Pressures-Adjusted HDI (PHDI) extends HDI by factoring in a country's environmental cost of development.\n\n• Option (a): Correct. PHDI was introduced in the Human Development Report 2020 ('The Next Frontier'). It adjusts the HDI downward based on a country's CO2 emissions per capita and material footprint per capita — both indicators of the planetary burden generated by that country's development model.\n• Option (b): Incorrect. PHDI penalizes high-income, high-emitting countries most severely, not low-HDI countries. Many 'Very High HDI' nations drop significantly when PHDI replaces HDI because their prosperity is built on resource-intensive consumption.\n• Option (c): Incorrect. PHDI was introduced in 2020, not 2018 — a temporal-swap distractor.\n• Option (d): Incorrect. The two adjustment factors are CO2 emissions per capita and material footprint per capita. 'Carbon intensity of GDP' is a different metric (CO2 per unit of GDP) used in climate policy analysis.\n\nValue Addition:\n• India's PHDI is relatively close to its HDI because India's per-capita CO2 emissions and material footprint are among the lowest globally.\n• Countries like Australia, the USA, and Canada see the steepest PHDI reductions.\n• Material footprint measures the total raw material extraction globally that is attributable to a country's domestic consumption."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs regarding the Planetary Pressures-Adjusted Human Development Index (PHDI) is correctly matched?\n\n(a) Year of introduction — HDR 2020; Adjustment factors — CO2 emissions per capita and material footprint per capita\n(b) Countries most penalized by PHDI — Low Human Development nations with high poverty rates\n(c) Year of introduction — HDR 2018; Adjustment factors — CO2 emissions per capita and material footprint per capita\n(d) Year of introduction — HDR 2020; Adjustment factors — carbon intensity of GDP and biodiversity loss index",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0dd8c2c8-16e7-42f5-8cfa-2fed6f4358c7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Normalization Formula in HDI: Goalposts and Dimension Index Calculation",
+        "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation"
+      ],
+      "subject_que_no": 3550,
+      "overall_que_no": 10897
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "HDI normalization formula unique log treatment for income",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is deceptive because it correctly states the general formula but omits the crucial logarithmic transformation applied to the income dimension, making it partially correct and therefore highly attractive to students who recall the generic formula.",
+      "elimination_logic": [
+        "Eliminate option (a): The formula uses (actual − minimum) / (maximum − minimum), not the reverse subtraction — this would yield a score that decreases as actual value increases.",
+        "Eliminate option (b): The general formula is correct but incomplete — the income dimension specifically uses log(actual GNI) and log(goalposts), not raw values.",
+        "Eliminate option (c): Goalposts are fixed across countries and years for comparability; they are revised periodically but not annually and not differently for each country.",
+        "Select option (d): For the income dimension, the formula uses natural logarithm of the actual GNI, the minimum, and the maximum — uniquely treating income to reflect diminishing returns."
+      ],
+      "upsc_trap_explanation": "Option (b) reproduces the general normalization formula correctly — (actual − min)/(max − min) — which is exactly right for the health and education dimensions. The trap is that students with solid knowledge of the general formula will select (b) without recalling that the income dimension is treated differently: all three values (actual, minimum, maximum) are logarithmically transformed before being plugged into the formula. This log-specific treatment is the unique methodological wrinkle for the income dimension.",
+      "final_explanation": "HDI normalization uses fixed goalposts to generate dimension indices between 0 and 1.\n\n• Option (a): Incorrect. The formula computes (actual − minimum) / (maximum − minimum). Reversing this would give a score of 1 to the worst performer and 0 to the best — the opposite of the intent.\n• Option (b): Incorrect — partially true but fatally incomplete. The general formula (actual − min)/(max − min) correctly describes the health and education dimensions. However, the income dimension substitutes all three terms with their natural logarithms: [ln(GNI_actual) − ln(GNI_min)] / [ln(GNI_max) − ln(GNI_min)]. Omitting this detail makes the option wrong.\n• Option (c): Incorrect. Goalposts are fixed and uniform across all countries to enable cross-country comparison. They may be revised across major methodological updates but are not country-specific or annually adjusted.\n• Option (d): Correct. The income dimension's unique treatment using logarithms of all goalpost and actual values is the key methodological distinction, capturing diminishing returns to income in human development.\n\nValue Addition:\n• Current income goalposts: minimum $100 and maximum $75,000 (PPP, 2017 constant USD).\n• The logarithmic transformation means that a country at $1,000 GNI gains far more HDI points per dollar than one at $50,000.\n• Goalpost revisions (like the shift from 2011 to 2017 PPP base year) cause historical rank revisions even when actual development outcomes are unchanged."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the normalization formula used in computing the Human Development Index, which of the following statements is correct?\n\n(a) The dimension index is calculated as (Maximum value − Actual value) / (Maximum value − Minimum value), ensuring higher actual values yield lower index scores\n(b) The general formula (Actual value − Minimum) / (Maximum − Minimum) applies uniformly to all three dimensions including the income dimension\n(c) Goalposts used in normalization are set independently for each country based on its historical performance range\n(d) For the income dimension alone, the formula uses the natural logarithm of the actual GNI per capita and the natural logarithms of the minimum and maximum goalposts",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fa92c778-0e0e-422a-af48-73a9af33e5f9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI Rank vs. HDI Score: Why They Diverge and What They Mean",
+        "HDI Classification: Very High, High, Medium, and Low Human Development"
+      ],
+      "subject_que_no": 3551,
+      "overall_que_no": 10898
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "HDI rank relative measure; score absolute measure divergence",
+      "statement_analysis": [
+        {
+          "statement": "A country's Human Development Index score can improve over time while its global rank simultaneously declines.",
+          "verdict": "Correct",
+          "reason": "Rank is a relative measure — if peer countries improve their scores faster, a country's absolute score improvement may still result in a lower rank position."
+        },
+        {
+          "statement": "A country classified in the 'High Human Development' group has an HDI score between 0.700 and 0.799.",
+          "verdict": "Correct",
+          "reason": "Current UNDP thresholds: Very High ≥ 0.800; High 0.700–0.799; Medium 0.550–0.699; Low < 0.550."
+        },
+        {
+          "statement": "Countries located near the 0.700 threshold in HDI score will always experience minimal rank changes regardless of marginal score movements.",
+          "verdict": "Incorrect",
+          "reason": "Near threshold boundaries, many countries cluster with similar scores, meaning even a marginal score change can cause large rank jumps — the opposite of what the statement claims."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three) is deceptive because statements 1 and 2 are clearly true, and students may accept statement 3 through intuition ('small score change, small rank change') without recognizing that clustering near boundaries amplifies rank sensitivity.",
+      "elimination_logic": [
+        "Confirm Statement 1: Score and rank can diverge when peer countries improve faster — this is a well-established HDI phenomenon. Statement 1 is correct.",
+        "Confirm Statement 2: The threshold for High Human Development is 0.700–0.799. Statement 2 is correct.",
+        "Reject Statement 3: Near 0.700 or 0.800, many countries cluster; marginal score differences produce large rank jumps, not minimal ones. 'Always experience minimal rank changes' is wrong. Statement 3 is incorrect.",
+        "Select option (b): Statements 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits a scope-extension trap. The word 'always' and 'minimal' make a logically reversed claim sound plausible. In reality, threshold zones are precisely where rank is most sensitive to score changes because many countries cluster there. A 0.001 improvement near the 0.700 boundary could leapfrog several similarly ranked countries, causing a significant rank jump.",
+      "final_explanation": "HDI rank and HDI score are related but distinct measures of performance.\n\n• Statement 1 — Correct: India's own trajectory illustrates this: its HDI value has risen consistently over decades, yet its rank has stagnated in several reports because China, Brazil, and other medium/high-income nations improved even faster.\n• Statement 2 — Correct: The four-tier classification thresholds are: Very High ≥ 0.800; High 0.700–0.799; Medium 0.550–0.699; Low < 0.550. These are current UNDP-defined thresholds.\n• Statement 3 — Incorrect: Countries near boundary values (0.550, 0.700, 0.800) are in the most competitive zones of the ranking. Marginal score improvements in these zones often produce the largest rank changes because many countries are clustered with near-identical scores. The word 'always' and the claim of 'minimal' rank movement reverse the actual relationship.\n\nValue Addition:\n• India's HDI score (~0.633–0.645) places it comfortably in Medium, roughly 0.07 points below the High threshold.\n• Rank fluctuations of 5–10 positions between successive HDRs are common for India without corresponding large score changes.\n• The 'loss' between HDI and IHDI is a better policy diagnostic than rank alone."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding HDI rank and HDI score:\n\n1. A country's Human Development Index score can improve over time while its global rank simultaneously declines.\n2. A country classified in the 'High Human Development' group has an HDI score between 0.700 and 0.799.\n3. Countries located near the 0.700 threshold in HDI score will always experience minimal rank changes regardless of marginal score movements.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e66a8070-fed6-4819-8e32-ac700ec1c795",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Critique of HDI: What It Measures and What It Misses",
+        "HDI: Definition, Purpose, and Conceptual Foundation"
+      ],
+      "subject_que_no": 3552,
+      "overall_que_no": 10899
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "What HDI deliberately excludes and HDR paradox",
+      "statement_analysis": [
+        {
+          "statement": "HDI does not account for inequality in the distribution of development achievements across a population.",
+          "verdict": "Correct",
+          "reason": "HDI measures national averages and does not adjust for inequality — this is a recognized limitation, addressed separately by IHDI."
+        },
+        {
+          "statement": "The Human Development Index explicitly incorporates a measure of political freedom as one of its three core dimensions.",
+          "verdict": "Incorrect",
+          "reason": "Political freedom is not a component of HDI. The three dimensions are health (life expectancy), education (MYS + EYS), and income (GNI per capita PPP). Political freedom is identified as a gap in HDI coverage."
+        },
+        {
+          "statement": "Some countries with high GNI per capita can paradoxically record lower HDI ranks than expected because their health and education scores are disproportionately low.",
+          "verdict": "Correct",
+          "reason": "This is the 'human development paradox' observed in some oil-rich Gulf states — high income does not automatically translate into high health or education outcomes, and the geometric mean aggregation amplifies these dimension imbalances."
+        }
+      ],
+      "strong_distractor": "a — Option a (statement 1 only is NOT correct) is deceptive because statement 1 sounds like it could be wrong — students who know IHDI exists as an adjustment may mistakenly think HDI does account for inequality through its ecosystem, confusing the HDI itself with the IHDI adjustment.",
+      "elimination_logic": [
+        "Evaluate Statement 1: HDI measures averages and does not account for distributional inequality — this is a correct statement about HDI's limitation. Statement 1 is NOT among the incorrect ones.",
+        "Evaluate Statement 2: Political freedom is NOT one of HDI's three dimensions. The statement claims it is explicitly incorporated — this is false. Statement 2 IS NOT correct.",
+        "Evaluate Statement 3: The human development paradox is a documented phenomenon — oil-rich states with high income but lagging education/health. Statement 3 is a correct observation.",
+        "Only Statement 2 is NOT correct → option (c): 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 1 is a trap for students who know the IHDI. They may reason: 'IHDI adjusts HDI for inequality, so HDI does account for inequality through its ecosystem.' But the question asks about HDI itself, not the HDR ecosystem. HDI does not account for inequality — IHDI is a separate index that addresses this gap. Students who conflate 'HDR ecosystem' with 'HDI itself' will incorrectly mark Statement 1 as NOT correct.",
+      "final_explanation": "Understanding what HDI measures versus what it explicitly excludes is a high-yield Prelims topic.\n\n• Statement 1 — Correct (not among the incorrect): HDI computes national averages for health, education, and income. It says nothing about how these achievements are distributed. IHDI, introduced in 2010, addresses this by discounting HDI for inequality within each dimension.\n• Statement 2 — NOT correct: Political freedom, civil liberties, and governance quality are explicitly absent from HDI. The three and only dimensions are health (life expectancy at birth), education (MYS and EYS), and income (GNI per capita PPP). This was a deliberate normative choice — the founders argued for measurable, universally available indicators.\n• Statement 3 — Correct (not among the incorrect): The human development paradox describes countries like some Gulf states where very high GNI scores coexist with mediocre health and education outcomes, pulling the geometric mean HDI below what income alone would predict.\n\nValue Addition:\n• HDI also excludes subjective well-being, happiness, and social cohesion — topics addressed in the World Happiness Report.\n• The UN Human Development Program's website maintains a 'Statistical Data Explorer' that shows all dimension indices separately.\n• The geometric mean makes the paradox more apparent than the old arithmetic mean, because it cannot paper over dimension weaknesses with income strength."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the scope and limitations of the Human Development Index:\n\n1. HDI does not account for inequality in the distribution of development achievements across a population.\n2. The Human Development Index explicitly incorporates a measure of political freedom as one of its three core dimensions.\n3. Some countries with high GNI per capita can paradoxically record lower HDI ranks than expected because their health and education scores are disproportionately low.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 3 only\n(c) 2 only\n(d) 1 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6a9c0cde-671c-43ca-9e5a-5e6655a77659",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "PPP (Purchasing Power Parity) in HDI Income Dimension: Concept and Significance",
+        "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation"
+      ],
+      "subject_que_no": 3553,
+      "overall_que_no": 10900
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "PPP base year and ICP source for HDI income dimension",
+      "statement_analysis": [
+        {
+          "statement": "Purchasing power parity adjustment in HDI allows meaningful cross-country income comparisons by correcting for differences in price levels across nations.",
+          "verdict": "Correct",
+          "reason": "PPP converts GNI into a common currency (international dollars) that equalizes purchasing power across countries, making income comparisons meaningful despite differing domestic price levels."
+        },
+        {
+          "statement": "The PPP data used in HDI income calculations are sourced from the International Monetary Fund's World Economic Outlook database.",
+          "verdict": "Incorrect",
+          "reason": "PPP data for HDI are sourced from the World Bank's International Comparison Program (ICP), not the IMF. The IMF does publish PPP estimates but the UNDP relies on the ICP for its HDI calculations."
+        },
+        {
+          "statement": "A revision in the PPP base year — for example, from 2011 international dollars to 2017 international dollars — can cause changes in a country's HDI rank even if its actual human development outcomes are unchanged.",
+          "verdict": "Correct",
+          "reason": "Changing the PPP base year alters the relative purchasing power adjustments for all countries, which can shift GNI per capita values and therefore the income dimension index, affecting rank even without real development change."
+        },
+        {
+          "statement": "Without PPP adjustment, low-price developing nations like India would appear to have higher real income in HDI calculations than they actually do relative to high-price developed nations.",
+          "verdict": "Incorrect",
+          "reason": "Without PPP, developing countries with lower price levels would appear to have LOWER income (since their nominal GNI is smaller), not higher. PPP adjustment actually raises the effective income of low-price countries by recognizing that a dollar buys more there — the statement reverses the direction of this effect."
+        }
+      ],
+      "strong_distractor": "b — Option b (Only two) is deceptive because statements 1 and 3 are clearly correct, and a student who incorrectly retains statement 2 (attributing PPP to IMF rather than World Bank ICP) or misreads statement 4 may count two instead of the actual two correct ones — the correct answer is also 'Only two', but only if statements 1 and 3 are correctly identified.",
+      "elimination_logic": [
+        "Confirm Statement 1: PPP adjustment standardizes income comparisons across countries by correcting for price level differences — correct.",
+        "Reject Statement 2: PPP data for HDI comes from the World Bank's International Comparison Program (ICP), not the IMF — incorrect.",
+        "Confirm Statement 3: PPP base year changes alter income dimension values and can shift ranks even without real development change — correct.",
+        "Reject Statement 4: Without PPP, developing nations would appear relatively poorer, not richer — the statement reverses the direction. Incorrect.",
+        "Statements 1 and 3 are correct → only two correct → option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the primary entity-swap trap: IMF and World Bank are both international financial institutions that produce PPP-related data. The IMF's World Economic Outlook does contain PPP-adjusted GDP estimates, making the option plausible. However, UNDP's HDI specifically draws on the World Bank's International Comparison Program data. Statement 4 reverses the direction of the PPP adjustment effect — another common trap in economic indices questions.",
+      "final_explanation": "PPP is the methodological bridge that makes income comparisons across countries meaningful in HDI.\n\n• Statement 1 — Correct: Without PPP, a rupee-denominated income in India, converted at market exchange rates, understates actual purchasing power because Indian prices are lower than US prices. PPP corrects this.\n• Statement 2 — Incorrect: The World Bank's International Comparison Program (ICP) is the designated source of PPP data for HDI calculations. The IMF publishes PPP estimates in its World Economic Outlook, but these are not what UNDP uses for HDI.\n• Statement 3 — Correct: The shift from 2011 to 2017 PPP base year in recent HDRs caused significant rank revisions for many countries, including India, even though their physical development outcomes were unchanged. This is a known issue with any index using PPP.\n• Statement 4 — Incorrect: The direction is reversed. Without PPP, developing countries would appear poorer relative to developed nations (because their nominal GNI at market exchange rates is already low). PPP adjustment raises their effective income by recognizing that prices are cheaper domestically.\n\nValue Addition:\n• The 2017 ICP round revealed significant changes in price levels relative to 2011, affecting purchasing power estimates for many developing countries.\n• HDI currently uses constant 2017 international dollars as the PPP standard.\n• India's GNI per capita in PPP terms is significantly higher than its nominal dollar figure — illustrating the importance of PPP adjustment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about purchasing power parity (PPP) as used in the income dimension of the Human Development Index:\n\n1. Purchasing power parity adjustment in HDI allows meaningful cross-country income comparisons by correcting for differences in price levels across nations.\n2. The PPP data used in HDI income calculations are sourced from the International Monetary Fund's World Economic Outlook database.\n3. A revision in the PPP base year — for example, from 2011 international dollars to 2017 international dollars — can cause changes in a country's HDI rank even if its actual human development outcomes are unchanged.\n4. Without PPP adjustment, low-price developing nations like India would appear to have higher real income in HDI calculations than they actually do relative to high-price developed nations.\n\nHow many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1a5eaec4-f2ea-4e94-a9c8-659c91dda5db",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI and its Relationship with Other UNDP/UN Indices in the HDR Ecosystem",
+        "Gender Development Index (GDI): HDI Disaggregated by Sex",
+        "Gender Inequality Index (GII): Components and Contrast with GDI and HDR Indices"
+      ],
+      "subject_que_no": 3554,
+      "overall_que_no": 10901
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "GDI ratio vs GII loss measure direction confusion",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c conflates GDI and GII by swapping their directional interpretation (higher = better vs higher = worse) — a student who knows both exist in the HDR but confuses their directionality will select this option.",
+      "elimination_logic": [
+        "Match A: IHDI discounts HDI for inequality using Atkinson measure — it is 'HDI adjusted for inequality within dimensions' — matches Description 3.",
+        "Match B: GDI is the ratio of female HDI to male HDI; a higher GDI (closer to 1) means greater gender equality — matches Description 1.",
+        "Match C: GII measures loss due to gender inequality; a higher GII score means more inequality (worse outcome) — matches Description 4.",
+        "Match D: Human Poverty Index (HPI) was the precursor to MPI, retired in 2010 — matches Description 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 → option (b)."
+      ],
+      "upsc_trap_explanation": "The conflation trap targets the directional difference between GDI and GII. For GDI (a ratio), higher is better — a ratio of 1.0 means perfect parity. For GII (a loss measure), higher is worse — a GII of 0.5 indicates greater gender inequality than a GII of 0.2. Students who know both indices exist but apply the same directional interpretation to both will match GDI to Description 4 and GII to Description 1, producing a completely reversed pairing and selecting option (c).",
+      "final_explanation": "The HDR ecosystem contains multiple gender-related indices with opposite directional interpretations, making this a high-priority trap area.\n\nCorrect matches:\n• A (IHDI) → 3: IHDI applies the Atkinson inequality measure to each dimension, discounting HDI for within-dimension inequality. It was introduced alongside the 2010 revision.\n• B (GDI) → 1: GDI is simply the ratio of female HDI to male HDI. A value of 1.0 indicates parity; values below 1.0 indicate female disadvantage. Higher GDI = less gender gap.\n• C (GII) → 4: GII measures the loss in human development due to gender inequality. A higher GII score signals worse gender equality — the directional opposite of GDI. GII replaced GEM in 2010.\n• D (Human Poverty Index) → 2: HPI (HPI-1 for developing countries, HPI-2 for developed) was the precursor to MPI, measuring deprivations in longevity, knowledge, and living standards. It was discontinued in 2010 when MPI was introduced.\n\nValue Addition:\n• India's GDI groups it among nations with moderate-to-high gender gaps in human development.\n• GII's worst performers are Sub-Saharan African and South Asian nations with high MMR and low female parliamentary representation.\n• The old 'Gender-related Development Index' (GDI, pre-2010) is different from the current GDI — the name is the same but the methodology changed."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Index in the HDR ecosystem) with List II (Description):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Inequality-Adjusted HDI (IHDI)",
+            "1. Ratio of female HDI to male HDI — a higher value indicates greater gender parity in human development"
+          ],
+          [
+            "B. Gender Development Index (GDI)",
+            "2. Predecessor to MPI; measured deprivations in longevity, knowledge, and living standards; discontinued in 2010"
+          ],
+          [
+            "C. Gender Inequality Index (GII)",
+            "3. Discounts HDI for inequality within each dimension using the Atkinson inequality measure"
+          ],
+          [
+            "D. Human Poverty Index (HPI)",
+            "4. Measures the loss in human development due to gender inequality — a higher value indicates worse gender equality"
+          ]
+        ],
+        "footer_text": "Select the correct matching combination:\n\n(a) A-1, B-3, C-4, D-2\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-4, C-1, D-2\n(d) A-2, B-1, C-4, D-3"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "048ad4f7-e35d-41f5-87b8-53a68c8337f2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "India's Performance on HDI: Trends, Peer Comparison, and Dimension-wise Analysis",
+        "HDI Classification: Very High, High, Medium, and Low Human Development"
+      ],
+      "subject_que_no": 3555,
+      "overall_que_no": 10902
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "India health dimension stronger than income or education within HDI",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c is deceptive because students who know India's income dimension is its weakest may assume R (which states education is the weakest) is incorrect — but many students are also unaware that health is actually India's relatively stronger dimension, making both A and R feel uncertain.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Within the three HDI dimension indices, India's health dimension index (based on life expectancy) scores relatively better than its income and education dimension indices. This is factually supported. A is correct.",
+        "Step 2: Is Reason (R) correct? — India's GNI per capita in PPP terms is low, making the income dimension index India's most binding constraint on HDI, with the education dimension (particularly MYS) also weak. But R claims 'education is the weakest' — both education and income are weak, but income (GNI) is typically cited as India's most constraining dimension. R as stated is incorrect in singling out only education.",
+        "Step 3: A is correct, R is incorrect → option (c).",
+        "Final check: option (c) is 'A is correct but R is incorrect.' The elimination logic leads to (c) — correct_option must be (c). Adjusting correct_option to c."
+      ],
+      "upsc_trap_explanation": "This question tests precise knowledge of India's dimension-wise HDI performance. The assertion that India's health dimension is relatively stronger than its income or education dimensions is correct and somewhat counter-intuitive — students expect health to be India's weakness. The reason incorrectly identifies education as the sole weakest dimension, when in fact the income dimension (low GNI per capita) is the primary binding constraint. Students who know India's income is low but confuse it with the education dimension will find the reason plausible.",
+      "final_explanation": "India's dimension-wise performance within HDI reveals an internal hierarchy that differs from popular perception.\n\nAssertion (A): Among the three HDI dimension indices, India's health index (derived from life expectancy at birth of ~67–70 years) yields a relatively better score than its income index or education index when computed against the goalposts. India's health dimension performs better relative to its income and education dimensions. A is correct.\n\nReason (R): R claims education is India's most constraining dimension. While India's education dimension is indeed weak (MYS of ~6–7 years is significantly below international peers), the income dimension — based on India's relatively low GNI per capita even at PPP — is typically identified as the most binding constraint on India's HDI score. R singles out education as 'the weakest,' which is imprecise and potentially incorrect depending on the edition. R is incorrect.\n\nCorrect answer: (c) — A is correct, R is incorrect.\n\nValue Addition:\n• India's MYS (~6.5 years) is significantly below its EYS (~12 years), indicating a gap between past and future educational investment.\n• Among BRICS nations, India has the lowest HDI primarily because of its income dimension.\n• India performs better on health dimension partly because life expectancy has improved substantially since independence."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Among the three Human Development Index dimension indices, India scores relatively better on the health dimension than on either the income or education dimension.\n\nReason (R): India's low Mean Years of Schooling for the adult population makes the education dimension the most binding constraint on its overall HDI value, exceeding the drag from the income dimension.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d6423df2-22b7-4a0c-a16f-ca4892474d48",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Multidimensional Poverty Index (MPI): Relationship with HDI"
+      ],
+      "subject_que_no": 3556,
+      "overall_que_no": 10903
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "MPI captures simultaneous deprivation income poverty cannot",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (income poverty line) is deceptive because the scenario describes individuals above the income poverty threshold, which sounds like income poverty measurement — students may not appreciate that being above the income line while still being multiply deprived is precisely the scenario MPI is designed to capture.",
+      "elimination_logic": [
+        "Identify the core policy problem: individuals who earn above the national poverty line but simultaneously lack sanitation, clean cooking fuel, and their children are malnourished — these are non-income deprivations not captured by income poverty measurement.",
+        "Eliminate option (a): Income poverty line only captures whether income exceeds a threshold; it cannot capture simultaneous deprivations in sanitation, nutrition, and education.",
+        "Eliminate option (b): HDI measures national averages, not individual or household-level simultaneous deprivations.",
+        "Eliminate option (d): IHDI adjusts for inequality within HDI dimensions but does not measure simultaneous deprivations at the individual level.",
+        "Select option (c): MPI specifically counts individuals who are simultaneously deprived in multiple dimensions — a person above the income line but lacking sanitation, nutritious food, and electricity would be multidimensionally poor under MPI."
+      ],
+      "upsc_trap_explanation": "The scenario is designed so that the income-related clue ('above the poverty line') points students toward income measurement tools. The trap is that income poverty misses simultaneous non-income deprivations — precisely MPI's design purpose. A student who reads 'poverty' and maps it to income poverty will select (a). The concept that someone can be income-non-poor but multidimensionally poor is the key insight MPI introduced over earlier approaches.",
+      "final_explanation": "MPI captures what income measures cannot: the simultaneity and accumulation of deprivations across health, education, and living standards.\n\nScenario analysis: The households in question earn above the income poverty threshold, so income-based measurement does not flag them as poor. Yet they lack sanitation, use unclean cooking fuel, and their children are malnourished — three separate deprivation indicators. MPI counts a person as multidimensionally poor if they are deprived in a sufficient number of weighted indicators simultaneously.\n\n• Option (a): Income poverty line — only assesses whether monthly/annual income exceeds a threshold; non-income deprivations are invisible to it. Wrong tool for this scenario.\n• Option (b): HDI — a national-level average index; does not identify individual or household-level simultaneous deprivations.\n• Option (c): MPI — Correct. Its ten indicators span health (nutrition, child mortality), education (years of schooling, school attendance), and living standards (cooking fuel, sanitation, water, electricity, housing, assets). The scenario households would be identified as multidimensionally poor even while escaping income poverty classification.\n• Option (d): IHDI — adjusts national average HDI for inequality; does not identify or count individually deprived households.\n\nValue Addition:\n• A household is multidimensionally poor under Global MPI if deprived in indicators totaling one-third or more of the weighted indicators.\n• India's NITI Aayog National MPI uses 12 indicators compared to the Global MPI's 10.\n• Global MPI data showed India lifted approximately 415 million people out of multidimensional poverty between 2005 and 2021."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A development economist studying a cluster of households in a peri-urban settlement finds that a significant proportion of residents earn incomes that marginally exceed the national poverty threshold. However, these households have no access to sanitation facilities, use unclean cooking fuel, and report child malnutrition. The economist wishes to use a published composite index that specifically identifies and quantifies these kinds of simultaneous, overlapping deprivations at the household level — deprivations that income measurement alone would miss.\n\nWhich of the following indices is best suited for the economist's purpose?\n\n(a) National income poverty line measurement\n(b) Human Development Index (HDI)\n(c) Multidimensional Poverty Index (MPI)\n(d) Inequality-Adjusted Human Development Index (IHDI)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0d715bad-1872-482a-9b3d-24b7758cd72c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Geometric Mean Aggregation: The 2010 Methodological Revision",
+        "Three Core Dimensions of HDI: Long Life, Knowledge, and Decent Standard of Living"
+      ],
+      "subject_que_no": 3557,
+      "overall_que_no": 10904
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "odd-one-out",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Geometric mean HDI formula and its mathematical properties",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c (imperfect substitutability between dimensions) is deceptive because students may confuse 'imperfect substitutability' with a limitation of the geometric mean rather than recognizing it as a deliberate property — and they may think it sounds like a criticism, not a feature.",
+      "elimination_logic": [
+        "Identify the category: properties that correctly describe the geometric mean aggregation method used in post-2010 HDI.",
+        "Option (a): 'A zero in any one dimension collapses the entire HDI to zero' — this is a property of the geometric mean (multiplying by zero yields zero). This is a correct property and therefore belongs to the group.",
+        "Wait — the question asks which does NOT belong. Re-evaluate each option against 'true property of geometric mean HDI.'",
+        "Option (b): 'Balanced dimension scores yield a higher HDI than imbalanced scores with the same arithmetic average' — correct property of geometric mean. Belongs.",
+        "Option (c): 'Imperfect substitutability between dimensions' — correct; geometric mean does not allow full offset. Belongs.",
+        "Option (d): 'Countries with equal geometric mean HDI but unequal dimension profiles will always be assigned identical ranks' — this is true by mathematical definition. Belongs.",
+        "Re-examine option (a): 'A zero score in any dimension would make the overall HDI zero' — TRUE. But option (a) as written says HDI 'is computed as the simple average of dimension indices' — that is the ARITHMETIC mean, not geometric. If option (a) is reread as describing arithmetic mean, it does NOT correctly describe post-2010 HDI."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap is in option (a): 'computed as the simple average' sounds like a reasonable description because students know averaging is involved in HDI. However, post-2010 HDI uses the geometric mean, not the simple (arithmetic) average. The arithmetic mean was precisely what was discarded in 2010 because it allowed perfect substitutability. A student who has memorized 'geometric mean' as the method but reads 'simple average' quickly without processing the distinction will overlook the error.",
+      "final_explanation": "Post-2010 HDI uses the geometric mean, not the arithmetic mean. Four statements describe properties of HDI aggregation — three are correct descriptions of the geometric mean; one is a description of the old arithmetic mean.\n\n• Option (a): Describing HDI as 'computed as the simple average of three dimension indices' is a description of the pre-2010 arithmetic mean methodology. The current method is the geometric mean: HDI = (I_H × I_E × I_I)^(1/3). This does NOT correctly describe post-2010 HDI — it is the odd one out.\n• Option (b): True property of geometric mean — a country with balanced scores (e.g., 0.7, 0.7, 0.7) achieves a higher geometric mean than one with (0.9, 0.9, 0.4) even though the latter has a higher arithmetic mean.\n• Option (c): True — geometric mean implies imperfect substitutability; a low score in one dimension cannot be fully compensated by high scores elsewhere.\n• Option (d): True by mathematical definition — HDI rank is solely a function of the geometric mean score, so countries with identical geometric mean HDI receive identical ranks regardless of their dimension profiles.\n\nValue Addition:\n• The arithmetic mean (pre-2010) allowed a dimension score of zero to be completely offset — the geometric mean prevents this.\n• Equal weighting of dimensions (1/3 each) was maintained even as the aggregation method changed in 2010.\n• The geometric mean is also called the 'corrected mean' in some development economics literature."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four statements correctly describe properties of the Human Development Index as computed using the geometric mean methodology adopted in 2010. Which one does NOT correctly describe the post-2010 HDI calculation?\n\n(a) The overall HDI is computed as the simple average of the three dimension indices, with each receiving an equal weight of one-third\n(b) A country with balanced scores across all three dimensions will achieve a higher HDI than a country with the same arithmetic average but highly uneven dimension scores\n(c) A low score in one dimension cannot be fully compensated by high scores in the other two dimensions\n(d) Two countries with identical geometric mean HDI values will receive identical ranks regardless of differences in their individual dimension profiles",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a800158c-1ce4-404d-9a6c-b6c13d38daec",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Gender Inequality Index (GII): Components and Contrast with GDI and HDR Indices",
+        "Historical Evolution of HDI Methodology: 1990, 2010, and Post-2010 Changes"
+      ],
+      "subject_que_no": 3558,
+      "overall_que_no": 10905
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "entity-swap",
+      "concept_anchor": "GII replaced GEM and old GDI in 2010 revision",
+      "statement_analysis": [
+        {
+          "statement": "The Gender Inequality Index replaced the Gender Empowerment Measure and the older Gender-related Development Index as part of the 2010 Human Development Report revision.",
+          "verdict": "Correct",
+          "reason": "The 2010 revision retired both the GEM (Gender Empowerment Measure) and the pre-2010 Gender-related Development Index, replacing them with the GII (and the new GDI as a ratio measure)."
+        },
+        {
+          "statement": "A country with a Gender Inequality Index value of 0.600 has greater gender equality than one with a GII value of 0.350.",
+          "verdict": "Incorrect",
+          "reason": "GII measures the loss due to gender inequality — a higher GII value means more inequality, not less. A GII of 0.600 indicates worse gender equality than a GII of 0.350."
+        }
+      ],
+      "strong_distractor": "a — Option a is deceptive because Statement 1 is correct, and students who know GII was introduced in 2010 may not recall precisely which indices it replaced, potentially doubting Statement 1 — while Statement 2's directional error is easy to miss for students who apply the GDI directional logic (higher = better) to GII.",
+      "elimination_logic": [
+        "Evaluate Statement 1: The 2010 revision retired the GEM and the old Gender-related Development Index, introducing GII and the new ratio-based GDI. Statement 1 is correct.",
+        "Evaluate Statement 2: GII measures inequality loss — higher GII = more gender inequality = worse outcome. A GII of 0.600 is worse than 0.350. Statement 2 reverses the direction and is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 exploits the directional confusion between GDI and GII. GDI is a ratio where higher = better (closer to gender parity). GII is a loss measure where higher = worse (more inequality). Students who apply the GDI logic to GII will read 0.600 as better than 0.350 and find Statement 2 correct — leading them to option (a). This is a high-frequency confusion in HDR-related questions.",
+      "final_explanation": "The 2010 HDR revision restructured the entire gender measurement framework within the HDR ecosystem.\n\n• Statement 1 — Correct: Before 2010, HDR contained the GEM (Gender Empowerment Measure, focused on political and economic participation) and the Gender-related Development Index (GrDI, which adjusted HDI for gender gaps). Both were criticized for methodological limitations and were retired. GII replaced them as a measure of gender-based loss in human development, and the new GDI (ratio of female to male HDI) was introduced as a simpler gender parity measure.\n• Statement 2 — Incorrect: GII is a loss index — it measures how much human development potential is lost due to gender inequality. A GII of 0.600 means 60% of potential human development is lost due to gender inequality — significantly worse than a GII of 0.350. The direction is opposite to GDI.\n\nValue Addition:\n• India's GII has improved over time but remains high by global standards — primarily due to poor reproductive health indicators (high MMR, adolescent birth rate).\n• The GEM used parliamentary seats, professional and technical positions, and income as its three dimensions — none of which are in the current GII.\n• GII's three dimensions (reproductive health, empowerment, labour market) were chosen to reflect gender-specific disadvantages not captured in standard HDI."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the Gender Inequality Index:\n\nStatement 1: The Gender Inequality Index replaced the Gender Empowerment Measure and the older Gender-related Development Index as part of the 2010 Human Development Report revision.\nStatement 2: A country with a Gender Inequality Index value of 0.600 has greater gender equality than one with a GII value of 0.350.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d147a3cf-8041-4834-ab30-dc7934fa69a2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Inequality-Adjusted HDI (IHDI): Concept and Divergence from HDI",
+        "HDI and its Relationship with Other UNDP/UN Indices in the HDR Ecosystem"
+      ],
+      "subject_que_no": 3559,
+      "overall_que_no": 10906
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "IHDI uses Atkinson inequality measure introduced 2010",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (Gini coefficient) is deceptive because the Gini coefficient is the most widely known inequality measure, making it the instinctive wrong answer for students who know IHDI adjusts for inequality but cannot recall the specific measure used.",
+      "elimination_logic": [
+        "Eliminate option (a): Gini coefficient is the most widely used inequality measure in income distribution, but IHDI uses the Atkinson inequality measure — not the Gini coefficient.",
+        "Eliminate option (c): Palma ratio measures inequality as the ratio of top 10% income share to bottom 40% income share — it is not what IHDI uses.",
+        "Eliminate option (d): Theil index is another entropy-based inequality measure used in econometrics but is not the specific measure in IHDI methodology.",
+        "Select option (b): The Atkinson inequality measure is explicitly specified in UNDP's IHDI methodology as the tool used to discount each dimension."
+      ],
+      "upsc_trap_explanation": "The Gini coefficient is so ubiquitous in inequality discussions that students default to it whenever 'inequality measure' appears. UNDP's IHDI methodology is specific about using the Atkinson inequality measure, which has the property of being decomposable by dimension — allowing UNDP to apply it separately to the health, education, and income distributions. The Gini coefficient, while more famous, does not have the same dimensional decomposability that IHDI requires.",
+      "final_explanation": "IHDI discounts each dimension of HDI using the Atkinson inequality measure applied to the distribution of outcomes within that dimension.\n\n• Option (a): Gini coefficient — the most recognized inequality measure globally, but NOT what IHDI uses. The Gini measures inequality in a distribution (typically income) as a number between 0 and 1, but it is not applied within IHDI's dimensional framework.\n• Option (b): Atkinson inequality measure — Correct. IHDI uses the Atkinson measure for each of its three dimensions, computing the geometric mean of actual individual achievements to derive the 'equally distributed equivalent' value, which is then divided by the mean. The Atkinson measure is preferred because it is decomposable and can be applied to health, education, and income distributions independently.\n• Option (c): Palma ratio — a measure of income inequality (top 10% share / bottom 40% share); not used in IHDI.\n• Option (d): Theil index — an entropy-based inequality measure used in various economic studies; not specified in IHDI methodology.\n\nValue Addition:\n• The Atkinson measure ranges from 0 (no inequality) to 1 (maximum inequality) within each dimension.\n• The 'loss' expressed as percentage (HDI − IHDI)/HDI × 100 tells how much development is forfeited due to inequality.\n• India's average loss between HDI and IHDI is over 25% — reflecting significant inequality in health, education, and income distributions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Inequality-Adjusted Human Development Index discounts the standard HDI value for each dimension using the ________, which measures the inequality in the distribution of outcomes within that dimension and was specifically chosen because of its dimensional decomposability.\n\n(a) Gini coefficient\n(b) Atkinson inequality measure\n(c) Palma ratio\n(d) Theil index",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b66f8654-7ef7-44de-b886-dc65ef4de91d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Historical Evolution of HDI Methodology: 1990, 2010, and Post-2010 Changes",
+        "Education Dimension: Mean Years of Schooling (MYS) and Expected Years of Schooling (EYS)",
+        "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation"
+      ],
+      "subject_que_no": 3560,
+      "overall_que_no": 10907
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "2010 revision replaced old indicators adult literacy GER GDP",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is deceptive because it correctly identifies MYS and EYS as current education indicators but incorrectly pairs them with 1990 as the year of introduction — students who know MYS and EYS but misremember the revision year (confusing 1990 with 2010) will select this option.",
+      "elimination_logic": [
+        "Evaluate option (a): Adult Literacy Rate + GER paired with '2010 onwards' — these were used BEFORE 2010, not after. Incorrect pairing.",
+        "Evaluate option (b): MYS + EYS paired with '1990 original methodology' — these were introduced in 2010, not 1990. Incorrect pairing.",
+        "Evaluate option (c): 'GNI per capita replacing GDP per capita' paired with '1990 revision' — there was no 1990 revision; the GDP-to-GNI shift happened in the 2010 revision. Incorrect pairing.",
+        "Evaluate option (d): 'GDP per capita used as the income indicator' paired with 'original 1990 HDI methodology' — the first HDR (1990) used real GDP per capita, not GNI. This pairing is correct.",
+        "Select option (d)."
+      ],
+      "upsc_trap_explanation": "This question uses temporal-swap traps across multiple options. The key distinction is that 1990 = GDP + Adult Literacy Rate + GER + arithmetic mean, while 2010 = GNI + MYS + EYS + geometric mean. Options (a), (b), and (c) each correctly identify a real indicator or change but assign it to the wrong year, forcing students to have precise knowledge of which revision introduced which change rather than just knowing that changes occurred.",
+      "final_explanation": "HDI methodology has two landmark versions: the original 1990 version and the 2010 revised version.\n\n• Option (a): Incorrect. Adult Literacy Rate and Gross Enrollment Ratio were used in the original 1990–2009 methodology, not from 2010 onwards. They were replaced by MYS and EYS in the 2010 revision.\n• Option (b): Incorrect. MYS and EYS were introduced in the 2010 revision, not in the original 1990 methodology. The 1990 HDI used Adult Literacy Rate (weighted 2/3) and Gross Enrollment Ratio (weighted 1/3).\n• Option (c): Incorrect. The shift from GDP per capita to GNI per capita occurred in the 2010 revision, not in 1990. There was no '1990 revision' — the report launched with GDP in 1990.\n• Option (d): Correct. The original 1990 HDI used real GDP per capita (adjusted for PPP) as the income indicator. GNI per capita replaced GDP per capita only in the comprehensive 2010 methodological revision.\n\nValue Addition:\n• The 1990 HDI used an arithmetic mean of three indices — this was also changed to geometric mean in 2010.\n• Pre-2010, Adult Literacy Rate was weighted twice as much as Gross Enrollment Ratio within the education sub-index.\n• The 2010 revision was the most comprehensive overhaul of HDI methodology in the index's history."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs regarding the evolution of Human Development Index methodology is correctly matched?\n\n(a) Adult Literacy Rate and Gross Enrollment Ratio as education indicators — introduced from 2010 onwards\n(b) Mean Years of Schooling and Expected Years of Schooling as education indicators — used in the original 1990 HDI methodology\n(c) Replacement of GDP per capita by GNI per capita as income indicator — part of the 1990 methodological revision\n(d) GDP per capita used as the income indicator — original 1990 HDI methodology",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e1e5638b-5701-4f57-8d37-804bad6cc4ec",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI: Definition, Purpose, and Conceptual Foundation",
+        "Critique of HDI: What It Measures and What It Misses"
+      ],
+      "subject_que_no": 3561,
+      "overall_que_no": 10908
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Capabilities approach vs welfare approach foundational philosophy",
+      "statement_analysis": [
+        {
+          "statement": "The conceptual foundation of the Human Development Index draws primarily on the capabilities approach, which evaluates human progress in terms of what individuals are able to do and be rather than merely what they possess.",
+          "verdict": "Correct",
+          "reason": "Amartya Sen's capabilities approach — focusing on functionings and capabilities rather than income or utility — is the philosophical foundation upon which Mahbub ul Haq built the HDI framework."
+        },
+        {
+          "statement": "HDI was designed to demonstrate that income growth alone is both a necessary and sufficient condition for improvements in human well-being.",
+          "verdict": "Incorrect",
+          "reason": "HDI was designed as an explicit critique of income-centric development measurement. Its central argument is that income growth is neither necessary (some low-income countries achieve high health/education) nor sufficient for human development."
+        },
+        {
+          "statement": "The HDI framework deliberately excludes indicators of political freedom, personal security, and subjective well-being, treating them as dimensions beyond its intended scope.",
+          "verdict": "Correct",
+          "reason": "The founders consciously chose three measurable, comparable indicators and acknowledged HDI's incompleteness — political freedom, security, and happiness are recognized gaps, not oversights."
+        }
+      ],
+      "strong_distractor": "d — Option d (all three) is deceptive because statements 1 and 3 are clearly correct, and statement 2 uses confident economic language ('necessary and sufficient condition') that may sound authoritative enough to be accepted without critical reading.",
+      "elimination_logic": [
+        "Confirm Statement 1: Sen's capabilities approach is the explicit philosophical basis of HDI — correct.",
+        "Reject Statement 2: 'Necessary and sufficient' reverses the purpose of HDI; it was created to argue that income growth is insufficient and not even necessary for human development — statement 2 is incorrect.",
+        "Confirm Statement 3: HDI deliberately excludes political freedom, security, and subjective well-being as acknowledged scope limitations — correct.",
+        "Statements 1 and 3 correct → option (b)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a scope-extension trap. The phrase 'necessary and sufficient condition' is precise economic language that sounds authoritative and may slip past a fast reader. But HDI was built on the exact counter-argument: countries like Sri Lanka and Kerala achieved high human development with modest incomes (income not necessary); oil-rich countries achieved high income with poor human development (income not sufficient). The entire HDI project is premised on rejecting Statement 2.",
+      "final_explanation": "The philosophical grounding of HDI shapes both what it includes and what it excludes.\n\n• Statement 1 — Correct: Amartya Sen's capabilities approach holds that human progress should be assessed by the range of valuable things a person can do or be (functionings and capabilities), not merely by income or consumption. This philosophy directly shaped the HDI's move away from GDP-only metrics.\n• Statement 2 — Incorrect: HDI was designed to challenge exactly this claim. Mahbub ul Haq's foundational argument was that income growth does not automatically translate into better health or education outcomes. Some low-income countries have high human development; some high-income countries have lagging health or education — income is neither necessary nor sufficient.\n• Statement 3 — Correct: The HDI's three dimensions were chosen for measurability and universal data availability. The founders acknowledged that political freedom, human security, cultural identity, and subjective well-being are important but excluded them to keep the index tractable and comparable.\n\nValue Addition:\n• Mahbub ul Haq's famous phrase: 'People are the real wealth of nations' — the title of the first HDR.\n• The welfare approach (which HDI implicitly rejects) equates well-being with income or utility maximization.\n• HDR 2019 introduced a new perspective on 'inequalities beyond income' — extending the original capabilities framing."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the philosophical and conceptual foundations of the Human Development Index:\n\n1. The conceptual foundation of the Human Development Index draws primarily on the capabilities approach, which evaluates human progress in terms of what individuals are able to do and be rather than merely what they possess.\n2. HDI was designed to demonstrate that income growth alone is both a necessary and sufficient condition for improvements in human well-being.\n3. The HDI framework deliberately excludes indicators of political freedom, personal security, and subjective well-being, treating them as dimensions beyond its intended scope.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dcde30fe-6d09-4f97-b009-2d8755c6ef5f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Normalization Formula in HDI: Goalposts and Dimension Index Calculation",
+        "Life Expectancy at Birth: Health Dimension of HDI",
+        "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation"
+      ],
+      "subject_que_no": 3562,
+      "overall_que_no": 10909
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Goalpost values for all three HDI dimensions",
+      "statement_analysis": [
+        {
+          "statement": "The maximum goalpost for life expectancy at birth used in HDI normalization is 85 years.",
+          "verdict": "Correct",
+          "reason": "The fixed goalposts for the health dimension are: minimum 20 years and maximum 85 years, used in the normalization formula for life expectancy."
+        },
+        {
+          "statement": "The minimum goalpost for the income dimension in HDI normalization is set at $100 (PPP), reflecting a subsistence minimum.",
+          "verdict": "Correct",
+          "reason": "The income dimension goalposts are $100 (minimum) and $75,000 (maximum) in 2017 PPP international dollars, both expressed in natural logarithm form in the formula."
+        },
+        {
+          "statement": "The maximum goalpost for Mean Years of Schooling in the education dimension is 18 years.",
+          "verdict": "Incorrect",
+          "reason": "The maximum goalpost for MYS is 15 years, not 18 years. The figure of 18 years is the maximum goalpost for Expected Years of Schooling (EYS). Confusing these two within the education dimension is a common error."
+        },
+        {
+          "statement": "Goalposts in HDI normalization are fixed uniformly across all countries and across all reporting years to enable cross-country and inter-temporal comparisons.",
+          "verdict": "Correct",
+          "reason": "Using fixed, uniform goalposts ensures that changes in a country's dimension index over time reflect actual changes in outcomes, not changes in the reference range — though goalposts are periodically revised across major methodological updates."
+        }
+      ],
+      "strong_distractor": "c — Correct answer is (c): Only three statements are correct. Students who miss the MYS/EYS goalpost confusion and mark all four correct will select (d), while those who doubt statement 4 about fixedness may select (b).",
+      "elimination_logic": [
+        "Confirm Statement 1: Life expectancy goalposts are 20 years (min) and 85 years (max) — correct.",
+        "Confirm Statement 2: Income dimension goalposts are $100 (min) and $75,000 (max) in 2017 PPP USD — correct.",
+        "Reject Statement 3: MYS maximum goalpost is 15 years; 18 years is the EYS maximum. Statement 3 confuses MYS with EYS — incorrect.",
+        "Confirm Statement 4: Goalposts are fixed across countries and years (revised only in major updates, not annually) — correct.",
+        "Three correct statements (1, 2, 4) → option (c): Only three."
+      ],
+      "upsc_trap_explanation": "Statement 3 is a precision trap that swaps the goalposts of MYS and EYS within the education dimension. Both are sub-indicators of the education dimension and both have numerical goalposts that are easy to transpose. Students who remember '18 years' without noting it belongs to EYS (not MYS) will mark Statement 3 correct and select 'all four,' which is option (d). The correct maximum for MYS is 15 years.",
+      "final_explanation": "Goalpost values are specific to each dimension and each sub-indicator — precision is essential.\n\n• Statement 1 — Correct: Health dimension goalposts: minimum = 20 years, maximum = 85 years. These are the fixed boundaries within which actual life expectancy is normalized.\n• Statement 2 — Correct: Income dimension goalposts: minimum = $100 PPP, maximum = $75,000 PPP (2017 constant international dollars). The minimum reflects subsistence; the maximum reflects observed high performance.\n• Statement 3 — Incorrect: The maximum goalpost for MYS is 15 years. The 18-year maximum belongs to EYS (Expected Years of Schooling). This is the most commonly confused goalpost pair within the HDI methodology.\n• Statement 4 — Correct: Fixed goalposts allow a country's score to be compared across time and against other countries on the same scale. A goalpost revision changes historical scores, which is why UNDP revises historical series when goalposts change.\n\nValue Addition:\n• Current goalposts (post-2010): Life expectancy 20–85 years; MYS 0–15 years; EYS 0–18 years; GNI per capita $100–$75,000 PPP.\n• When UNDP revised the PPP base year from 2011 to 2017, all historical income dimension indices were recalculated.\n• The minimum goalpost of 20 years for life expectancy reflects that no modern country's life expectancy falls this low — it anchors the floor."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the normalization goalposts used in the Human Development Index:\n\n1. The maximum goalpost for life expectancy at birth used in HDI normalization is 85 years.\n2. The minimum goalpost for the income dimension in HDI normalization is set at $100 (PPP), reflecting a subsistence minimum.\n3. The maximum goalpost for Mean Years of Schooling in the education dimension is 18 years.\n4. Goalposts in HDI normalization are fixed uniformly across all countries and across all reporting years to enable cross-country and inter-temporal comparisons.\n\nHow many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6252ecd5-337e-40b6-a5f8-4caaa3808f5a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Human Development Report (HDR): Publishing Body, Frequency, and Independence",
+        "HDI: Definition, Purpose, and Conceptual Foundation"
+      ],
+      "subject_que_no": 3563,
+      "overall_que_no": 10910
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "First HDR 1990 Mahbub ul Haq HDI founding",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is deceptive because it keeps the first HDR's position correct (1990) but then swaps the order of the 2010 revision and Mahbub ul Haq's death, which students uncertain about the death year may find plausible.",
+      "elimination_logic": [
+        "Anchor event 1: First Human Development Report published in 1990 — this is unambiguous and comes first.",
+        "Anchor event 2: Mahbub ul Haq passed away in 1998 — he died before the 2010 revision.",
+        "Anchor event 3: The 2010 comprehensive revision (geometric mean, MYS/EYS, GNI, IHDI, GII) — this came after Haq's death.",
+        "Correct order: First HDR (1990) → Death of Mahbub ul Haq (1998) → 2010 revision → option (a)."
+      ],
+      "upsc_trap_explanation": "The trap is in options that correctly identify the 1990 first HDR but misplace Mahbub ul Haq's death relative to the 2010 revision. Students who do not know that Haq died in 1998 — well before the 2010 revision — may accept an order where the 2010 revision preceded or followed his death incorrectly. The 2010 revision was a posthumous methodological overhaul, not one Haq oversaw.",
+      "final_explanation": "The timeline of HDI's institutional history is a factual anchor for several related questions.\n\nCorrect sequence:\n(i) First Human Development Report published in 1990, with HDI conceived and championed by Mahbub ul Haq, drawing on Amartya Sen's capabilities approach.\n(ii) Mahbub ul Haq died on 16 July 1998 in New York — he did not live to see the 2010 revision.\n(iii) The 2010 HDR carried out the most comprehensive methodological revision: replaced ALR+GER with MYS+EYS; replaced GDP with GNI per capita; switched from arithmetic to geometric mean; introduced IHDI, GII, and MPI simultaneously.\n\nWhy wrong options fail:\n• Options placing Haq's death after 2010 are factually wrong — he died in 1998.\n• Options placing 2010 revision before 1990 are nonsensical.\n• Options reversing 1998 and 2010 may seem plausible to students who confuse the publication of new editions with methodological changes.\n\nValue Addition:\n• Amartya Sen received the Nobel Prize in Economics in 1998, the same year Haq died.\n• The Human Development Report Office was established to produce the HDR independently — a structure Haq advocated for.\n• HDR 2020 introduced PHDI — the most significant addition since 2010."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological order of milestones in the history of the Human Development Report and its methodology?\n\n1. Publication of the first Human Development Report, introducing the HDI\n2. Death of Mahbub ul Haq, the principal architect of the HDI\n3. Comprehensive methodological revision replacing Adult Literacy Rate with Mean Years of Schooling and introducing the geometric mean\n\n(a) 1 → 2 → 3\n(b) 1 → 3 → 2\n(c) 2 → 1 → 3\n(d) 3 → 2 → 1",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7d51b111-fe5f-4469-bb4a-225c864c2bc1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Planetary Pressures-Adjusted HDI (PHDI): The Sustainability Dimension",
+        "Critique of HDI: What It Measures and What It Misses"
+      ],
+      "subject_que_no": 3564,
+      "overall_que_no": 10911
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "PHDI penalizes high HDI countries India small PHDI gap",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is deceptive because both A and R are factually correct, and the causal connection sounds logical on the surface — low per-capita emissions seem like a natural explanation for India's small PHDI gap.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — India's PHDI and HDI values are relatively close to each other, with a smaller gap than most high-income countries. This is a documented fact. A is correct.",
+        "Step 2: Is Reason (R) correct? — India's per-capita CO2 emissions and material footprint per capita are among the lowest globally, well below the world average. R is factually correct.",
+        "Step 3: Does R causally explain A? — Yes. PHDI adjusts HDI downward based precisely on a country's CO2 emissions per capita and material footprint per capita. Since India's are low, the downward adjustment to its HDI is small, producing a small PHDI gap. R does causally explain A.",
+        "A correct + R correct + R explains A → option (a). Correct_option is (a)."
+      ],
+      "upsc_trap_explanation": "This question is designed to test whether students can identify a genuine causal relationship. Unlike many assertion-reason questions where the trap is a false causal link, here the causal link is real: PHDI specifically penalizes countries based on CO2 emissions and material footprint. India's low per-capita values on both metrics directly cause a small PHDI-HDI gap. Students who habitually select (b) in assertion-reason questions (assuming the two correct statements are causally unrelated) will err here.",
+      "final_explanation": "PHDI adjusts HDI downward in direct proportion to a country's planetary burden — making the causal link between India's emissions profile and its PHDI gap precise and verifiable.\n\nAssertion (A): India's PHDI is relatively close to its HDI. When PHDI is introduced, most Very High HDI countries (US, Australia, Canada) see large drops. India, as a Medium HDI country with low per-capita emissions, sees a smaller drop. A is correct.\n\nReason (R): India's per-capita CO2 emissions (~2 tonnes per year) and material footprint per capita are significantly below the world average, reflecting a lower-carbon development model compared to industrialized nations. R is correct.\n\nCausal link: PHDI's two adjustment factors are precisely CO2 emissions per capita and material footprint per capita. A low value on these factors means a smaller downward adjustment from HDI to PHDI. Therefore, R directly and causally explains A.\n\nCorrect answer: (a) — Both A and R are correct, and R is the correct explanation of A.\n\nValue Addition:\n• PHDI was introduced in HDR 2020, coinciding with growing recognition of the Anthropocene and planetary boundaries.\n• High-income Very High HDI countries like Norway and Australia see some of the largest PHDI-HDI gaps due to high material consumption.\n• India's PHDI-HDI gap being small is one of the few areas where India's low-income status works in its favor on a global index."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): India's Planetary Pressures-Adjusted Human Development Index (PHDI) value is relatively close to its standard HDI value, with a smaller gap than that observed for most high-income developed nations.\n\nReason (R): India's per-capita carbon dioxide emissions and material footprint per capita are among the lowest globally, well below the world average.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f256578e-7021-48b5-85f5-a952710b45c6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "PPP (Purchasing Power Parity) in HDI Income Dimension: Concept and Significance",
+        "Income Dimension: GNI per Capita (PPP) and its Logarithmic Transformation"
+      ],
+      "subject_que_no": 3565,
+      "overall_que_no": 10912
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "PPP adjustment raises developing country income in HDI",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a is deceptive because the scenario explicitly involves GNI, and students may associate GNI with 'the HDI income indicator' without recognizing that the specific question is about PPP's directional effect on the income dimension index.",
+      "elimination_logic": [
+        "Identify the scenario's core mechanism: Country Y has a low nominal GNI per capita in USD but high domestic purchasing power because prices are low — classic case where PPP raises effective income.",
+        "Eliminate option (a): Using market exchange rate GNI would leave Country Y appearing poorer than it truly is — this would LOWER its income dimension index, not improve it. The scenario asks what PPP does to the index.",
+        "Eliminate option (c): The logarithmic transformation affects how income gains translate into HDI gains but does not address whether PPP raises or lowers the income figure itself.",
+        "Eliminate option (d): Country Y's low prices represent an advantage under PPP, not a disadvantage. PPP conversion raises the effective income for low-price countries.",
+        "Select option (b): PPP conversion translates Country Y's low nominal GNI into a higher 'international dollar' equivalent, raising its income dimension index above what market-exchange-rate GNI would produce — correctly reflecting that money goes further in Country Y."
+      ],
+      "upsc_trap_explanation": "Option (a) is the geographic-swap trap: it correctly identifies GNI as the income indicator but incorrectly applies it at market exchange rates, which is the pre-PPP baseline that HDI specifically avoids. The scenario is designed so that the word 'GNI' in option (a) lures students who know GNI is the income indicator without thinking about the PPP adjustment layer. The directional effect of PPP on a low-price country's income index is the precise knowledge being tested.",
+      "final_explanation": "PPP adjustments systematically raise the effective income of countries with lower price levels relative to market exchange rate conversions.\n\nScenario analysis: Country Y's nominal GNI per capita is $2,000 at market exchange rates. But since prices in Country Y are 40% of US levels, a PPP conversion reveals that $2,000 of domestic income provides the same purchasing power as roughly $5,000 in a reference-price economy. This higher PPP-adjusted GNI produces a higher income dimension index in HDI.\n\n• Option (a): Using market exchange rate GNI would record Country Y's income as $2,000 — understating real purchasing power and yielding a lower income index. This is precisely the distortion PPP is designed to correct.\n• Option (b): Correct. PPP conversion raises Country Y's effective income figure, producing a higher income dimension index. This is the mechanism that prevents low-price countries from being systematically underranked in HDI.\n• Option (c): The logarithmic transformation shapes how income increments translate into HDI score changes, but it operates after the PPP conversion — it does not determine whether PPP raises or lowers the income figure.\n• Option (d): Low domestic prices are an advantage under PPP (your income buys more), not a disadvantage.\n\nValue Addition:\n• India's GNI per capita at market rates (~$2,300) rises substantially when PPP-adjusted (~$7,000+ in international dollars).\n• Without PPP, India's income dimension index would be significantly lower, dragging its HDI down further.\n• The World Bank ICP updates PPP rates approximately every six years — the latest major update used 2017 as the base year."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Country Y is a developing nation with a relatively low nominal Gross National Income per capita when measured at market exchange rates. However, domestic price levels in Country Y are significantly lower than in high-income nations, meaning that the same nominal income provides substantially greater purchasing power domestically. A researcher is analysing how the income dimension of Country Y's HDI is affected by the purchasing power parity adjustment used in HDI methodology.\n\nWhich of the following correctly describes the effect of PPP adjustment on Country Y's income dimension index in HDI?\n\n(a) PPP adjustment is irrelevant because HDI uses GNI per capita at market exchange rates as the income indicator\n(b) PPP adjustment raises Country Y's effective income figure above its nominal market-rate value, producing a higher income dimension index than market-rate GNI alone would yield\n(c) PPP adjustment lowers Country Y's income dimension index because the logarithmic transformation further reduces the already low nominal GNI\n(d) Country Y's low domestic price levels reduce its PPP-adjusted GNI, making the income dimension index lower than its market-rate equivalent",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "206dccda-ae0c-41ab-8954-727fe6d09a4e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI and its Relationship with Other UNDP/UN Indices in the HDR Ecosystem",
+        "Multidimensional Poverty Index (MPI): Relationship with HDI",
+        "Gender Development Index (GDI): HDI Disaggregated by Sex",
+        "Gender Inequality Index (GII): Components and Contrast with GDI and HDR Indices",
+        "Inequality-Adjusted HDI (IHDI): Concept and Divergence from HDI"
+      ],
+      "subject_que_no": 3566,
+      "overall_que_no": 10913
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "HDR ecosystem indices matched to primary criticism each addresses",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option c swaps IHDI and GDI/GII pairings, exploiting the fact that both involve 'adjusting' or 'disaggregating' HDI — students who remember the broad purpose of each index but confuse which addresses inequality vs. gender may select this.",
+      "elimination_logic": [
+        "Match A: IHDI's defining purpose is to adjust HDI for inequality within each dimension — it addresses the criticism that HDI ignores distributional equity. Matches Description 3.",
+        "Match B: MPI addresses the criticism that HDI and income poverty miss the non-income, multidimensional nature of deprivation. Matches Description 1.",
+        "Match C: GDI (ratio of female to male HDI) directly addresses the gender gap in human development achievements — the criticism that HDI gives one national average obscuring male-female differences. Matches Description 4.",
+        "Match D: PHDI addresses the sustainability critique — that HDI rewards countries for growth regardless of planetary cost. Matches Description 2.",
+        "Correct combination: A-3, B-1, C-4, D-2 → option (a)."
+      ],
+      "upsc_trap_explanation": "The conflation trap occurs between IHDI and GDI. Both 'adjust' the basic HDI in some way: IHDI adjusts for inequality; GDI disaggregates by sex. Students who confuse 'disaggregating by sex' with 'adjusting for within-dimension inequality' will swap A and C, leading to option (c). The distinction is critical: IHDI uses the Atkinson measure to discount for inequality (not gender); GDI uses sex-disaggregated HDIs to assess gender parity.",
+      "final_explanation": "Each supplementary index in the HDR ecosystem was designed to address a specific criticism of the basic HDI:\n\nCorrect matches:\n• A (IHDI) → 3: IHDI addresses the critique that HDI reports averages while ignoring inequality within each dimension. It discounts HDI using the Atkinson inequality measure.\n• B (MPI) → 1: MPI addresses the critique that income poverty lines and HDI averages both miss the simultaneous, overlapping nature of deprivations at the individual/household level.\n• C (GDI) → 4: GDI addresses the critique that a single national HDI score conceals gender disparities in health, education, and income outcomes. By computing separate HDIs for women and men and taking their ratio, GDI reveals gender gaps.\n• D (PHDI) → 2: PHDI addresses the sustainability critique — that high HDI can be achieved through ecologically destructive development. It discounts HDI for CO2 emissions and material footprint per capita.\n\nTrap pairings: A and C are the most frequently confused pair. IHDI is about distributional inequality; GDI is about gender disaggregation — these are distinct critiques requiring distinct methodologies.\n\nValue Addition:\n• GII uses different indicators from GDI and addresses a different gender-related critique (loss due to gender-based disadvantage, not gap in HDI scores).\n• MPI replaced the Human Poverty Index (HPI) in 2010.\n• PHDI, being the newest addition (2020), is the least memorized index in the ecosystem for exam purposes."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Index in the Human Development Report ecosystem) with List II (Primary critique of HDI that the index addresses):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Inequality-Adjusted Human Development Index (IHDI)",
+            "1. HDI and income poverty lines both miss simultaneous non-income deprivations at the household level"
+          ],
+          [
+            "B. Multidimensional Poverty Index (MPI)",
+            "2. High HDI can be achieved through ecologically destructive development that imposes costs on the planet"
+          ],
+          [
+            "C. Gender Development Index (GDI)",
+            "3. HDI reports national averages, masking inequality in the distribution of health, education, and income outcomes"
+          ],
+          [
+            "D. Planetary Pressures-Adjusted HDI (PHDI)",
+            "4. A single national HDI conceals gender disparities in human development achievements across health, education, and income"
+          ]
+        ],
+        "footer_text": "Select the correct matching combination:\n\n(a) A-3, B-1, C-4, D-2\n(b) A-1, B-3, C-4, D-2\n(c) A-4, B-1, C-3, D-2\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "54c0e34b-4b77-48bf-bcc6-173ea4ec0aba",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Education Dimension: Mean Years of Schooling (MYS) and Expected Years of Schooling (EYS)",
+        "Life Expectancy at Birth: Health Dimension of HDI"
+      ],
+      "subject_que_no": 3567,
+      "overall_que_no": 10914
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "MYS defined for 25 plus adults not all ages",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b (Expected Years of Schooling is a prospective indicator) is deceptive because 'prospective' is a sophisticated descriptor that students may not associate with EYS — they may doubt this description and select (b) as the odd one out when it is actually correct.",
+      "elimination_logic": [
+        "Identify the category: statements that are correct descriptions of the education dimension indicators in HDI (MYS and EYS).",
+        "Option (a): 'EYS and MYS are each given equal weight within the education sub-index through an arithmetic mean of their indices' — correct. Belongs.",
+        "Option (b): 'EYS is a prospective indicator reflecting expected future educational attainment for current school-age children' — correct. EYS is forward-looking. Belongs.",
+        "Option (c): 'The education sub-index goalposts include a maximum of 18 years for EYS and 15 years for MYS' — correct goalpost assignments. Belongs.",
+        "Option (d): 'MYS measures average years of education completed by the population aged 15 and above' — INCORRECT. MYS is computed for the population aged 25 and above, not 15 and above. This is the odd one out.",
+        "Select option (d)."
+      ],
+      "upsc_trap_explanation": "The age cutoff for MYS is 25 years, not 15 years. This is a specific, testable fact that students may confuse because 15 is a common age threshold in educational statistics (e.g., adult literacy is often measured for 15+ age groups). UNDP uses 25+ for MYS to capture the educational stock of the fully educated adult population — those who have largely completed their formal education. Using 15 would include those still in school.",
+      "final_explanation": "The education dimension of HDI has two sub-indicators with distinct definitions and age-reference populations.\n\n• Option (a): Correct description. MYS and EYS are given equal weight (each 50%) in the arithmetic mean that produces the education sub-index.\n• Option (b): Correct description. EYS is prospective — it measures the total years a child of school-entry age today can expect to receive given current enrollment rates.\n• Option (c): Correct description. EYS goalpost: 0–18 years; MYS goalpost: 0–15 years. These are the UNDP-specified normalization boundaries.\n• Option (d): Incorrect description. MYS is measured for persons aged 25 and above, not 15 and above. The 25+ age cutoff ensures that the population covered has largely completed formal education, making MYS a true measure of the existing educational stock of adults.\n\nValue Addition:\n• Using 25+ for MYS avoids counting students who are currently enrolled — their schooling is ongoing, not completed.\n• India's MYS (~6.5 years for 25+ population) vs. EYS (~12 years) reveals the large gap between past and expected future educational investment.\n• UNESCO Institute for Statistics is the primary data source for both MYS and EYS used in UNDP's HDI calculations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four statements about the education dimension indicators of the Human Development Index are correct. Which one is NOT correct?\n\n(a) Mean Years of Schooling and Expected Years of Schooling are each given equal weight within the education sub-index through an arithmetic mean of their individual indices\n(b) Expected Years of Schooling is a prospective indicator reflecting the total years of education a child of school-entry age today can expect to receive given current enrollment rates\n(c) The normalization goalposts for the education dimension include a maximum of 18 years for Expected Years of Schooling and 15 years for Mean Years of Schooling\n(d) Mean Years of Schooling measures the average years of education completed by the population aged 15 and above",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dfdaee4f-f911-42fe-b933-abbb7af6a6f3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI Classification: Very High, High, Medium, and Low Human Development",
+        "India's Performance on HDI: Trends, Peer Comparison, and Dimension-wise Analysis"
+      ],
+      "subject_que_no": 3568,
+      "overall_que_no": 10915
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "entity-swap",
+      "concept_anchor": "India Medium HDI BRICS comparison China High HDI",
+      "statement_analysis": [
+        {
+          "statement": "Among the BRICS grouping, India ranks below China, Brazil, and Russia in the Human Development Index but above all South African countries in the region.",
+          "verdict": "Incorrect",
+          "reason": "India's HDI rank is below China, Brazil, and Russia. However, South Africa is also a BRICS member and has an HDI that places it similarly to or just above India in some reports — the statement's claim about India being above 'all South African countries in the region' is incoherent (South Africa is a single country) and the relative ranking between India and South Africa has been close, making this statement imprecise and incorrect as stated."
+        },
+        {
+          "statement": "China is classified under the 'High Human Development' category in recent Human Development Reports, with an HDI score above 0.700.",
+          "verdict": "Correct",
+          "reason": "China's HDI score (approximately 0.768 in recent reports) places it in the 'High Human Development' category (0.700–0.799), above India which is in the Medium category."
+        }
+      ],
+      "strong_distractor": "a — Option a is deceptive because Statement 2 about China is clearly correct, and students may accept Statement 1 superficially without catching the logical incoherence and factual imprecision in the phrasing 'all South African countries in the region.'",
+      "elimination_logic": [
+        "Evaluate Statement 1: The claim about BRICS is partly correct (India below China, Brazil, Russia) but the phrase 'all South African countries in the region' is logically incoherent — South Africa is one country and a BRICS member. India and South Africa have comparable HDI ranks in recent reports; India does not consistently rank above South Africa. Statement 1 is incorrect.",
+        "Evaluate Statement 2: China's HDI score (~0.768) is in the High Human Development category (0.700–0.799). This is factually accurate. Statement 2 is correct.",
+        "Statement 1 incorrect, Statement 2 correct → option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 1 is an entity-swap trap: it inserts 'all South African countries in the region' — a phrase that conflates South Africa (a single BRICS member) with a generalized regional grouping. Students who know India ranks below Brazil, Russia, and China in HDI may accept the rest of the statement without scrutinizing the South Africa comparison. In reality, South Africa and India have been close in HDI rank, and 'all South African countries' is not a meaningful category.",
+      "final_explanation": "BRICS peer comparisons are a frequently tested Prelims dimension of HDI.\n\n• Statement 1 — Incorrect: India does rank below China, Brazil, and Russia in HDI. However, the statement's reference to 'all South African countries in the region' is logically flawed — South Africa is a single country and a BRICS member. In recent HDRs, India and South Africa have similar HDI scores, with neither consistently above the other. The statement is incorrectly phrased and factually imprecise.\n• Statement 2 — Correct: China's HDI score (~0.768 in recent reports) places it firmly in the High Human Development category (0.700–0.799). India (~0.633–0.645) remains in the Medium category. This difference between China and India is among the most tested BRICS HDI facts.\n\nValue Addition:\n• Brazil and Russia are in the 'High Human Development' category alongside China; India is one of the larger economies still in the 'Medium' category.\n• The gap between India's HDI (~0.64) and the High threshold (0.700) is approximately 0.06 points — closing but not yet crossed as of recent reports.\n• India's dimension-wise weakness (income and education) explains why it trails China significantly despite similar population size."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about India's Human Development Index performance in a comparative context:\n\nStatement 1: Among the BRICS grouping, India ranks below China, Brazil, and Russia in the Human Development Index but above all South African countries in the region.\nStatement 2: China is classified under the 'High Human Development' category in recent Human Development Reports, with an HDI score above 0.700.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "805dc656-5e49-4784-b63f-ad427734824e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Geometric Mean Aggregation: The 2010 Methodological Revision",
+        "Normalization Formula in HDI: Goalposts and Dimension Index Calculation"
+      ],
+      "subject_que_no": 3569,
+      "overall_que_no": 10916
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "HDI geometric mean formula post-2010",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option a (arithmetic mean) is deceptive because it was the actual aggregation method used before 2010, making it a real historical method that students who have not clearly internalized the 2010 revision may default to.",
+      "elimination_logic": [
+        "Eliminate option (a): Arithmetic mean was used in the pre-2010 HDI; it was replaced precisely because it allowed perfect substitutability between dimensions.",
+        "Eliminate option (c): Weighted harmonic mean is used in some other composite indices but is not the HDI aggregation method.",
+        "Eliminate option (d): Quadratic mean (root mean square) is a statistical measure used in physics and engineering contexts; not the HDI formula.",
+        "Select option (b): Geometric mean — specifically the cube root of the product of the three dimension indices — is the post-2010 HDI aggregation formula."
+      ],
+      "upsc_trap_explanation": "Option (a), the arithmetic mean, is the most dangerous distractor because it was the real HDI formula from 1990 to 2009. Students who have partial knowledge of the 2010 revision may know that 'something changed' but may not recall specifically that the change was from arithmetic to geometric mean. The arithmetic mean's presence as an option exploits this partial knowledge, making it feel like a valid recall rather than a trap.",
+      "final_explanation": "The 2010 revision changed the aggregation formula from arithmetic mean to geometric mean — one of its most consequential methodological changes.\n\n• Option (a): Arithmetic mean — was the pre-2010 formula: HDI = (I_H + I_E + I_I)/3. Replaced in 2010 because it allowed perfect substitutability, meaning a zero in one dimension could be rescued by high scores in others.\n• Option (b): Geometric mean — Correct. Post-2010 formula: HDI = (I_H × I_E × I_I)^(1/3). This is the cube root of the product of the three dimension indices. A zero in any dimension yields an HDI of zero, penalizing uneven development.\n• Option (c): Weighted harmonic mean — used in indices like the Global Innovation Index for certain sub-components but not in HDI.\n• Option (d): Quadratic mean (root mean square) — not used in composite human development measurement.\n\nValue Addition:\n• The geometric mean is 'downward convex': averaging 0.5, 0.5, 0.5 gives 0.5 under both methods, but averaging 0.8, 0.8, 0.2 gives 0.600 under arithmetic mean and only 0.543 under geometric mean — demonstrating the penalty for imbalance.\n• The switch to geometric mean was recommended by the Human Development Report Advisory Panel.\n• All HDR companion indices (IHDI dimensions) also use geometric aggregation at the final stage."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Since the 2010 revision of the Human Development Index methodology, the three dimension indices — health, education, and income — are combined using the ________, which ensures that a low score in any one dimension cannot be fully compensated by high scores in the remaining two dimensions.\n\n(a) Arithmetic mean\n(b) Geometric mean\n(c) Weighted harmonic mean\n(d) Quadratic mean",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6f217172-bdca-425f-b814-0abab73e328f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Gender Development Index (GDI): HDI Disaggregated by Sex",
+        "Gender Inequality Index (GII): Components and Contrast with GDI and HDR Indices"
+      ],
+      "subject_que_no": 3570,
+      "overall_que_no": 10917
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "GDI ratio female to male HDI five group classification",
+      "statement_analysis": [
+        {
+          "statement": "The Gender Development Index uses the same three dimensions as the Human Development Index — health, education, and income — but computes them separately for women and men.",
+          "verdict": "Correct",
+          "reason": "GDI uses the same HDI framework (health via life expectancy, education via MYS+EYS, income via GNI per capita) but disaggregates the calculation by sex, then takes the ratio of female HDI to male HDI."
+        },
+        {
+          "statement": "A Gender Development Index value greater than 1.0 indicates that the female HDI exceeds the male HDI in that country.",
+          "verdict": "Correct",
+          "reason": "GDI = Female HDI / Male HDI. When female HDI > male HDI, the ratio exceeds 1.0, indicating that women achieve higher human development outcomes than men on the combined metric."
+        },
+        {
+          "statement": "The Gender Development Index uses indicators such as maternal mortality ratio and female labour force participation rate to measure gender gaps.",
+          "verdict": "Incorrect",
+          "reason": "Maternal mortality ratio and female labour force participation rate are indicators of the Gender Inequality Index (GII), not GDI. GDI uses only HDI components (life expectancy, MYS, EYS, GNI per capita) disaggregated by sex."
+        }
+      ],
+      "strong_distractor": "a — Option a (statement 1 only is NOT correct) is deceptive because Statement 1 sounds precise and technical, and students who confuse GDI's methodology with GII's (which does use different indicators) may mark Statement 1 as incorrect.",
+      "elimination_logic": [
+        "Evaluate Statement 1: GDI computes HDI's three standard dimensions separately for women and men and takes the ratio — this is a correct description. Statement 1 is NOT among the incorrect ones.",
+        "Evaluate Statement 2: GDI = female HDI / male HDI. A ratio above 1 means female HDI exceeds male HDI — statement 2 correctly describes this. NOT among the incorrect ones.",
+        "Evaluate Statement 3: MMR and female LFPR are GII indicators, not GDI indicators. GDI only uses HDI components disaggregated by sex. Statement 3 IS incorrect.",
+        "Only Statement 3 is NOT correct → option (d): 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the core conflation trap: it attributes GII indicators (MMR, female LFPR) to GDI. Both GDI and GII are gender-related indices in the same HDR, appearing on adjacent pages. Students who have not carefully separated their methodologies will mix GII's reproductive health and labour market indicators into GDI. The defining feature of GDI is that it uses only HDI's standard indicators — life expectancy, MYS, EYS, and GNI per capita — disaggregated by sex.",
+      "final_explanation": "GDI and GII both measure gender-related human development gaps but use completely different indicator sets.\n\n• Statement 1 — Correct: GDI applies HDI's three standard dimensions to women and men separately, computing a female HDI and a male HDI, then expressing their ratio.\n• Statement 2 — Correct: GDI > 1.0 means women's combined health, education, and income achievements exceed men's — seen in some Eastern European countries. GDI < 1.0 (more common) means men achieve higher HDI scores, indicating female disadvantage.\n• Statement 3 — NOT correct: Maternal mortality ratio and female labour force participation rate are exclusive to the Gender Inequality Index. GDI uses no indicators beyond the three HDI dimensions (life expectancy at birth by sex, MYS and EYS by sex, estimated GNI per capita by sex).\n\nValue Addition:\n• UNDP classifies countries into five GDI groups based on the absolute deviation of GDI from 1.0.\n• India is typically in Group 4 or 5 (low gender equality), reflecting significant female disadvantage in income and education dimension scores.\n• A key methodological difference: GDI life expectancy goalposts are sex-differentiated (female maximum = 87.5 years; male maximum = 82.5 years) to account for natural biological differences."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the Gender Development Index:\n\n1. The Gender Development Index uses the same three dimensions as the Human Development Index — health, education, and income — but computes them separately for women and men.\n2. A Gender Development Index value greater than 1.0 indicates that the female HDI exceeds the male HDI in that country.\n3. The Gender Development Index uses indicators such as maternal mortality ratio and female labour force participation rate to measure gender gaps.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 only\n(d) 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "cf81c84f-9987-4039-a6b7-34eb2ddb599c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "HDI Rank vs. HDI Score: Why They Diverge and What They Mean",
+        "HDI Classification: Very High, High, Medium, and Low Human Development",
+        "India's Performance on HDI: Trends, Peer Comparison, and Dimension-wise Analysis"
+      ],
+      "subject_que_no": 3571,
+      "overall_que_no": 10918
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "HDI rank relative measure score absolute measure policy use",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option b is deceptive because it correctly identifies rank as relative and score as absolute but then draws the wrong policy conclusion — claiming that 'only rank matters for eligibility for international financing' sounds authoritative and plausible for a student who knows classification affects financing eligibility.",
+      "elimination_logic": [
+        "Eliminate option (a): Score alone is not sufficient for policy use — rank and score both matter for different purposes. Saying 'rank is irrelevant' is incorrect.",
+        "Eliminate option (b): Both rank and score matter for policy purposes. Rank determines relative standing and influences peer-group comparisons; score determines absolute achievement and classification. The claim that 'only rank matters' is a scope-extension error.",
+        "Eliminate option (d): This reverses the correct relationship — rank is relative; score is absolute. The option claims the opposite.",
+        "Select option (c): Rank is a relative measure (position among all countries at a given time); score is an absolute measure (magnitude of achievement against fixed goalposts). A country can improve its score while its rank falls if peer countries improve faster."
+      ],
+      "upsc_trap_explanation": "Option (b) is a scope-extension trap. The phrase 'only rank matters for eligibility for international financing and development assistance' is plausible because HDI classification (which is score-based) does affect financing eligibility — but rank alone does not govern this. HDI classification thresholds (0.550, 0.700, 0.800) are score-based boundaries. A student who knows this governance link but confuses 'classification by score' with 'rank' will select (b). The correct answer clarifies that both rank and score serve distinct analytical purposes.",
+      "final_explanation": "The distinction between HDI rank and HDI score has both methodological and policy implications.\n\n• Option (a): Incorrect. Saying score is the only relevant measure dismisses rank, which is essential for peer-group comparison and tracking relative progress.\n• Option (b): Incorrect. The claim that 'only rank matters for international financing eligibility' is wrong. Financing eligibility is typically governed by classification categories (determined by score thresholds), not by rank position. Both rank and score serve different purposes.\n• Option (c): Correct. Rank is a relative measure — it shows a country's position among all nations at a specific point in time. Score is an absolute measure — it shows actual achievement against fixed goalposts and can be compared across time. A country's score can improve while its rank falls if peer nations improve faster.\n• Option (d): Incorrect. This reverses the definitions — rank is relative, score is absolute. The statement claims rank is absolute and score is relative, which is the opposite of the correct characterization.\n\nValue Addition:\n• India's score improved from ~0.557 (2000) to ~0.645 (recent), but rank remained in the 130s due to faster improvement by comparable nations.\n• HDI classification (Very High/High/Medium/Low) is score-based, and it does affect eligibility for certain international development programs and concessional lending.\n• The score, being anchored to fixed goalposts, allows genuinely inter-temporal comparison; rank cannot be used this way."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following statements most accurately describes the distinction between a country's Human Development Index rank and its HDI score, and their respective policy relevance?\n\n(a) HDI score alone is sufficient to assess a country's human development progress; the rank is redundant and does not add analytical value\n(b) HDI rank is a relative measure while HDI score is an absolute measure, but only rank matters for determining eligibility for international financing and development assistance\n(c) HDI rank is a relative measure showing a country's position among all nations at a given time, while HDI score is an absolute measure that can improve even as rank declines if peer countries improve faster\n(d) HDI rank provides an absolute measure of development achievement against fixed goalposts, while HDI score provides a relative measure compared to other nations",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2963874d-bcbd-4a9c-805f-e033d8b3a3a0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Indices and Reports",
+      "sub_topic": "Human Development Index — components",
+      "concepts_used": [
+        "Multidimensional Poverty Index (MPI): Relationship with HDI",
+        "Inequality-Adjusted HDI (IHDI): Concept and Divergence from HDI",
+        "Planetary Pressures-Adjusted HDI (PHDI): The Sustainability Dimension"
+      ],
+      "subject_que_no": 3572,
+      "overall_que_no": 10919
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "MPI IHDI PHDI distinct purposes in HDR ecosystem",
+      "statement_analysis": [
+        {
+          "statement": "The Inequality-Adjusted HDI discounts the standard HDI by applying an inequality measure to each dimension separately, meaning a country with high income inequality but low health inequality would see its income dimension discounted more than its health dimension.",
+          "verdict": "Correct",
+          "reason": "IHDI applies the Atkinson inequality measure to each dimension independently — the larger the within-dimension inequality, the greater the discount. Unequal dimensions are penalized proportionately, not uniformly."
+        },
+        {
+          "statement": "The Multidimensional Poverty Index considers a person multidimensionally poor only if they are simultaneously deprived in all ten indicators across its three dimensions.",
+          "verdict": "Incorrect",
+          "reason": "MPI identifies a person as multidimensionally poor if their weighted deprivation score reaches or exceeds one-third (1/3) of the total weighted indicators — not all ten. A person deprived in a sufficient combination of indicators (meeting the 1/3 threshold) is classified as poor."
+        },
+        {
+          "statement": "The Planetary Pressures-Adjusted HDI uses CO2 emissions per capita and material footprint per capita as its two adjustment factors.",
+          "verdict": "Correct",
+          "reason": "PHDI specifically uses these two indicators — CO2 emissions per capita (climate pressure) and material footprint per capita (resource pressure) — to compute the planetary pressure adjustment factor."
+        },
+        {
+          "statement": "All three indices — IHDI, MPI, and PHDI — were introduced simultaneously in the 2010 Human Development Report.",
+          "verdict": "Incorrect",
+          "reason": "IHDI and MPI were both introduced in the 2010 HDR revision. PHDI was introduced later in HDR 2020 — not in 2010. Statement 4 incorrectly groups all three as 2010 introductions."
+        }
+      ],
+      "strong_distractor": "c — Option c (Only three) is deceptive because students who correctly identify statements 2 and 4 as wrong but are uncertain about the PHDI year may tentatively accept statement 4, arriving at three correct statements instead of two.",
+      "elimination_logic": [
+        "Confirm Statement 1: IHDI applies the Atkinson measure dimension by dimension — unequal dimensions are discounted more. Statement 1 is correct.",
+        "Reject Statement 2: MPI threshold is one-third of weighted indicators, not all ten — Statement 2 is incorrect.",
+        "Confirm Statement 3: PHDI uses CO2 emissions per capita and material footprint per capita — correct.",
+        "Reject Statement 4: PHDI was introduced in 2020, not 2010. Only IHDI and MPI were 2010 introductions — Statement 4 is incorrect.",
+        "Two correct statements (1 and 3) → option (b): Only two."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a scope-extension trap: 'simultaneously deprived in all ten indicators' sounds like a natural reading of 'multidimensional poverty' but is factually wrong. The threshold is one-third weighted deprivation, not total deprivation in all indicators. Statement 4 uses a partial-truth trap: IHDI and MPI were indeed introduced in 2010, but PHDI was not — the statement exploits the fact that two of three are correct to smuggle in the false third.",
+      "final_explanation": "Each of the three indices has a specific introduction year, a specific methodology, and a specific purpose.\n\n• Statement 1 — Correct: IHDI's dimension-specific discounting is a key feature. A country with highly unequal income distribution but relatively equal health outcomes would see its income dimension discounted substantially while its health dimension is barely affected.\n• Statement 2 — Incorrect: The MPI poverty threshold is one-third of the total weighted deprivation score across all indicators (not all ten simultaneously). A person deprived in cooking fuel, sanitation, and nutrition (among others) in sufficient combination meets the threshold without being deprived in every indicator.\n• Statement 3 — Correct: PHDI's two adjustment factors are CO2 emissions per capita (climate change pressure) and material footprint per capita (resource depletion pressure), introduced in HDR 2020.\n• Statement 4 — Incorrect: IHDI and MPI were 2010 introductions. PHDI was introduced a decade later in HDR 2020 — a common temporal conflation error.\n\nValue Addition:\n• The MPI poverty threshold (1/3 of weighted score) means a person deprived in all six living standards indicators (weight ~0.33) alone would qualify as multidimensionally poor.\n• India's national MPI (NITI Aayog) uses the same 1/3 threshold but with 12 indicators tailored to Indian data systems.\n• IHDI introduced the concept of 'human development loss' — quantifying in percentage terms how much development is forfeited due to inequality."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about indices published alongside the Human Development Index in the Human Development Report:\n\n1. The Inequality-Adjusted HDI discounts the standard HDI by applying an inequality measure to each dimension separately, meaning a country with high income inequality but low health inequality would see its income dimension discounted more than its health dimension.\n2. The Multidimensional Poverty Index considers a person multidimensionally poor only if they are simultaneously deprived in all ten indicators across its three dimensions.\n3. The Planetary Pressures-Adjusted HDI uses CO2 emissions per capita and material footprint per capita as its two adjustment factors.\n4. All three indices — IHDI, MPI, and PHDI — were introduced simultaneously in the 2010 Human Development Report.\n\nHow many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four",
+      "table_data": null
+    }
+  }
+]

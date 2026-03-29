@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "National Income Accounting",
+  "sub_topic": "GNP vs GDP vs NNP",
+  "concepts": [
+    {
+      "name": "GDP: Definition, Scope and Territorial Boundary",
+      "key_dimensions": [
+        "Distinction between 'domestic territory' vs 'geographic territory' (embassies, ships, military bases)",
+        "Inclusion of output by foreign residents within borders vs exclusion of output by nationals abroad",
+        "Why GDP is a 'flow' concept measured over a period, not a stock",
+        "UPSC trap: whether embassy of India in USA is part of India's domestic territory"
+      ]
+    },
+    {
+      "name": "GNP: Nationality Principle and Net Factor Income from Abroad (NFIA)",
+      "key_dimensions": [
+        "Formula: GNP = GDP + NFIA (can be positive or negative)",
+        "Components of NFIA: wages of residents working abroad, profits of MNCs repatriated, interest on foreign loans",
+        "Why GNP > GDP for capital-exporting countries (USA) and GNP < GDP for capital-importing countries (India historically)",
+        "UPSC trap: distinguishing 'factor income' from 'transfer payments' (remittances are NOT factor income in strict sense)"
+      ]
+    },
+    {
+      "name": "NNP: Role of Depreciation (Capital Consumption Allowance)",
+      "key_dimensions": [
+        "Formula: NNP = GNP − Depreciation; NNP reflects true net addition to national wealth",
+        "Why NNP is considered a better welfare measure than GNP/GDP",
+        "Depreciation vs amortization vs obsolescence: what is included in national income accounting",
+        "UPSC trap: NNP at Market Price vs NNP at Factor Cost (= National Income) — the indirect tax/subsidy adjustment"
+      ]
+    },
+    {
+      "name": "National Income (NI) at Factor Cost vs Market Price",
+      "key_dimensions": [
+        "Formula: NI (FC) = NNP (MP) − Indirect Taxes + Subsidies",
+        "Why factor cost reflects actual returns to factors of production, stripping out government distortions",
+        "Recent India shift: CSO moved from GDP at Factor Cost to GVA at Basic Prices as primary measure (2015 revision)",
+        "UPSC trap: 'Basic Price' is NOT the same as 'Factor Cost' — basic price includes production taxes/subsidies but excludes product taxes"
+      ]
+    },
+    {
+      "name": "GVA at Basic Prices: India's Current Methodology",
+      "key_dimensions": [
+        "GVA (Basic Price) = GVA (FC) + Production taxes − Production subsidies",
+        "GDP (MP) = Sum of GVA (Basic Prices) + Product taxes − Product subsidies",
+        "Why India shifted from GDP at Factor Cost to GVA at Basic Prices in 2015 base year revision",
+        "UPSC trap: GVA ≠ GDP; GDP = GVA + Net Product Taxes — students often conflate the two"
+      ]
+    },
+    {
+      "name": "Expenditure Method of GDP Calculation",
+      "key_dimensions": [
+        "Formula: GDP = C + I + G + (X − M); each component defined precisely",
+        "What counts as 'Investment' (I): fixed capital formation + change in inventories, NOT financial investment",
+        "Government expenditure (G): only current expenditure on goods/services, NOT transfer payments",
+        "UPSC trap: net exports can be negative (import-heavy economies); transfer payments like pensions are NOT included"
+      ]
+    },
+    {
+      "name": "Income Method of GDP Calculation",
+      "key_dimensions": [
+        "Components: compensation of employees + gross operating surplus + gross mixed income + net taxes on production",
+        "Distinction between 'compensation of employees' (wages + social contributions) vs self-employment income",
+        "Why transfer payments (unemployment benefits, pensions) are excluded from income method",
+        "UPSC trap: imputed rent of owner-occupied houses IS included; illegal activities are excluded"
+      ]
+    },
+    {
+      "name": "Output/Value Added Method and Avoiding Double Counting",
+      "key_dimensions": [
+        "Value Added = Value of Output − Value of Intermediate Consumption at each stage",
+        "Why final goods approach and value-added approach give identical results",
+        "Three sectors: primary, secondary, tertiary — boundary issues (e.g., is software a good or service?)",
+        "UPSC trap: sale of second-hand goods is NOT included (no new production); only broker's commission is counted"
+      ]
+    },
+    {
+      "name": "Transfer Payments: Exclusion Logic and Boundary Cases",
+      "key_dimensions": [
+        "Definition: one-way payment with no corresponding production (pensions, scholarships, remittances, doles)",
+        "Why transfer payments are excluded from GDP but included in personal income calculations",
+        "Boundary case: are government subsidies transfer payments? (production subsidies vs consumption subsidies)",
+        "UPSC trap: foreign remittances by Indian diaspora — excluded from GDP/GNP factor income but affect personal disposable income"
+      ]
+    },
+    {
+      "name": "Personal Income (PI) and Personal Disposable Income (PDI)",
+      "key_dimensions": [
+        "Formula: PI = NI − Corporate taxes − Retained earnings − Social security contributions + Transfer payments",
+        "PDI = PI − Personal direct taxes",
+        "Why PI can exceed NI (due to transfer payments) — UPSC frequently tests this counterintuitive point",
+        "Distinction: PDI is the actual spending/saving power, most relevant for consumption function in Keynesian economics"
+      ]
+    },
+    {
+      "name": "GDP vs GNP: Which is a Better Measure for India?",
+      "key_dimensions": [
+        "For capital-importing developing nations, GDP > GNP historically (profits repatriated by MNCs exceed remittances in some periods)",
+        "Post-2000s India: large remittance inflows (world's largest recipient) mean NFIA has turned more complex",
+        "Policy relevance: GDP for domestic production tracking; GNP for national welfare and standard of living",
+        "UPSC trap: Ireland's GDP >> GNP due to massive MNC profit repatriation — classic example of divergence"
+      ]
+    },
+    {
+      "name": "Real vs Nominal GDP: GDP Deflator",
+      "key_dimensions": [
+        "Nominal GDP: at current prices; Real GDP: at constant (base year) prices — removes inflation effect",
+        "GDP Deflator = (Nominal GDP / Real GDP) × 100; differs from CPI/WPI in coverage",
+        "GDP Deflator covers ALL goods/services in economy; CPI covers consumer basket only",
+        "UPSC trap: GDP Deflator can differ significantly from CPI — e.g., if capital goods prices rise but consumer prices stable"
+      ]
+    },
+    {
+      "name": "Base Year Revision in National Income Accounting (India: 2011-12)",
+      "key_dimensions": [
+        "India's current base year is 2011-12 (revised from 2004-05); captures structural changes in economy",
+        "Key changes: introduction of MCA-21 database for corporate sector, better coverage of unorganized sector",
+        "Shift from GDP at Factor Cost → GVA at Basic Prices as headline measure",
+        "UPSC trap: base year revision often leads to upward revision of GDP growth rates — 2015 controversy when India's growth appeared to exceed China's"
+      ]
+    },
+    {
+      "name": "Green GDP / Environmentally Adjusted Net National Product",
+      "key_dimensions": [
+        "Green GDP = GDP − Cost of environmental degradation − Depletion of natural resources",
+        "Rationale: traditional GDP rewards pollution cleanup as positive (Broken Window Fallacy applied to environment)",
+        "India's attempts: ENRAP (Environment and Natural Resource Accounting Project); challenges in monetizing ecosystem services",
+        "UPSC trap: Green GDP is lower than conventional GDP; a country with high GDP growth but resource depletion may have low/negative Green GDP"
+      ]
+    },
+    {
+      "name": "GDP and Welfare: Limitations as a Measure of Well-being",
+      "key_dimensions": [
+        "GDP ignores: income distribution (Gini coefficient), unpaid household work, leisure, environmental quality",
+        "Simon Kuznets (GDP's architect) himself warned it should not be used as a welfare measure",
+        "Alternatives: HDI, GNH (Gross National Happiness — Bhutan), Genuine Progress Indicator (GPI)",
+        "UPSC trap: higher GDP per capita does NOT necessarily mean higher welfare — Kerala paradox (lower GDP, higher HDI than many richer states)"
+      ]
+    },
+    {
+      "name": "Gross Fixed Capital Formation (GFCF) vs Gross Capital Formation (GCF)",
+      "key_dimensions": [
+        "GFCF = investment in fixed assets (machinery, buildings, infrastructure) — excludes inventory changes",
+        "GCF = GFCF + Change in inventories + Net acquisition of valuables",
+        "GFCF as % of GDP is a key indicator of productive capacity building; India's GFCF declining trend post-2012 is a concern",
+        "UPSC trap: financial investments (buying stocks/bonds) are NOT part of GFCF — only physical/real capital creation counts"
+      ]
+    },
+    {
+      "name": "Purchasing Power Parity (PPP) vs Market Exchange Rate for GDP Comparison",
+      "key_dimensions": [
+        "PPP adjusts for price level differences across countries; market rate reflects currency market forces",
+        "India's GDP rank: ~5th by market exchange rate but ~3rd by PPP (IMF data) — reflects lower price levels in India",
+        "Big Mac Index as a simplified PPP illustration; ICP (International Comparison Program) for official PPP",
+        "UPSC trap: PPP comparison is better for welfare/standard of living comparison; market rate better for international trade/debt analysis"
+      ]
+    },
+    {
+      "name": "Informal/Unorganized Sector Estimation Challenges in GDP",
+      "key_dimensions": [
+        "India's informal sector ~45-50% of GDP but poorly measured; relies on extrapolation from periodic surveys (NSS)",
+        "Demonetization 2016: debates on whether GDP captured informal sector contraction accurately",
+        "NSSO surveys (now NSO) vs ASI (Annual Survey of Industries) — different coverage and frequency",
+        "UPSC trap: MCA-21 data used for organized corporate sector may overestimate overall GDP if informal sector shrinks; leading to GDP paradox during slowdowns"
+      ]
+    },
+    {
+      "name": "Savings, Investment Identity and GDP: Macroeconomic Balance",
+      "key_dimensions": [
+        "Closed economy: S = I; Open economy: S − I = X − M (current account balance)",
+        "National Savings = Private Savings + Government Savings (fiscal surplus/deficit affects national savings)",
+        "India's high household savings rate historically financed investment; declining household savings post-2020 is a concern",
+        "UPSC trap: fiscal deficit 'crowds out' private investment through higher interest rates — but in developing economies with surplus savings, this may not hold"
+      ]
+    },
+    {
+      "name": "Chain-Linking Method vs Fixed Base Year in GDP Calculation",
+      "key_dimensions": [
+        "Fixed base year: simple but becomes outdated as economic structure changes; requires periodic revision",
+        "Chain-linking: updates weights every year using Fisher's ideal index — used by USA, UK; more accurate but complex",
+        "India still uses fixed base year method — limitation acknowledged by CSO/NSO",
+        "UPSC trap: with fixed base year, sectors that grew rapidly (IT services post-1991) were underweighted in old base year, leading to underestimation of growth"
+      ]
+    }
+  ]
+}

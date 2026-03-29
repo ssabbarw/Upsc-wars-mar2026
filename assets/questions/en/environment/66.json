@@ -1,0 +1,1612 @@
+[
+  {
+    "meta": {
+      "uuid": "0e9bf707-b2ab-4fad-89ba-e9a69989d91b",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Definition of Forest Cover: FSI Criteria and Canopy Density Threshold"
+      ],
+      "subject_que_no": 2260,
+      "overall_que_no": 15404
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "FSI forest cover minimum area and canopy threshold",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because a higher threshold like 25% feels more ecologically rigorous, leading students to assume FSI would adopt a stricter standard.",
+      "elimination_logic": [
+        "Eliminate options specifying thresholds above 10% — FSI uses the internationally comparable 10% canopy density floor.",
+        "Eliminate options requiring more than 1 hectare — the minimum area for forest cover classification is exactly 1 hectare.",
+        "Confirm that orchards and bamboo groves meeting both criteria qualify — the satellite sensor does not distinguish by land use, only by canopy density and area."
+      ],
+      "upsc_trap_explanation": "Students often assume FSI's forest cover excludes commercial plantations and orchards, believing 'forest' implies natural vegetation. The trap here is scope-extension: the 10% canopy criterion applies regardless of species type or land use. Orchards covering more than 1 hectare with sufficient canopy are captured as forest cover in satellite assessment, which is why India's reported forest cover figures are sometimes criticized for including non-natural patches.",
+      "final_explanation": "The Forest Survey of India (FSI) defines forest cover using two physical criteria: a minimum patch size of 1 hectare and a minimum canopy density of 10%. This biophysical definition is derived from satellite imagery and does not reference legal status or species composition.\n\n• Option (a) — 25% canopy threshold: Incorrect. FSI uses 10%, not 25%. A 25% threshold would exclude large swaths of open forests.\n• Option (b) — 0.5 hectare minimum: Incorrect. FAO uses 0.5 ha for its global definition; India's FSI standard is 1 hectare.\n• Option (c) — 1 hectare, ≥10% canopy, includes orchards: Correct. FSI's definition is purely physical — orchards and bamboo plantations satisfying both criteria are counted.\n• Option (d) — Excludes plantations explicitly: Incorrect. No such exclusion exists in FSI's assessment methodology.\n\nValue Addition:\n• FAO's global forest definition uses 0.5 ha, 10% canopy, and 5m height potential — different from India's FSI standard.\n• The 10% threshold is why India has a large 'Open Forest' category (10–40% canopy).\n• FSI uses LISS-III satellite with 23.5m resolution for these assessments."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following most accurately describes the Forest Survey of India's (FSI) criteria for classifying land as 'forest cover'?\n\n(a) Any land parcel of at least 1 hectare with canopy density of 25% or more, excluding commercial plantations\n(b) Any land parcel of at least 0.5 hectare with canopy density of 10% or more, irrespective of ownership\n(c) Any land parcel of at least 1 hectare with canopy density of 10% or more, including orchards and bamboo groves if criteria are met\n(d) Any land parcel of at least 1 hectare with canopy density of 10% or more, excluding monoculture plantations and agroforestry patches",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a60152fe-ee33-4806-804a-c5baff3c0ff1",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Definition of Tree Cover: Patches Outside Recorded Forest Area",
+        "Definition of Forest Cover: FSI Criteria and Canopy Density Threshold"
+      ],
+      "subject_que_no": 2261,
+      "overall_que_no": 15405
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "conflation",
+      "concept_anchor": "Tree cover definition and total green cover composition",
+      "statement_analysis": [
+        {
+          "statement": "Tree cover, as assessed by FSI, refers to tree patches on land parcels smaller than 1 hectare lying outside the forest cover boundary.",
+          "verdict": "Correct",
+          "reason": "FSI defines tree cover precisely as trees on land parcels less than 1 hectare outside the forest cover boundary — this is the definitional distinction from forest cover."
+        },
+        {
+          "statement": "India's 'total green cover' as reported in ISFR is obtained by adding forest cover and tree cover figures.",
+          "verdict": "Correct",
+          "reason": "Total green cover = Forest cover + Tree cover; FSI reports both categories separately and their sum constitutes total green cover."
+        },
+        {
+          "statement": "Trees growing along roadsides and in urban homesteads are classified as forest cover in ISFR statistics if they meet the canopy density threshold.",
+          "verdict": "Incorrect",
+          "reason": "Roadside and homestead trees typically occur on parcels smaller than 1 hectare and are therefore classified as tree cover, not forest cover, regardless of canopy density."
+        }
+      ],
+      "strong_distractor": "d — A student might choose 'all three correct' believing canopy density alone determines classification, overlooking the area criterion that separates tree cover from forest cover.",
+      "elimination_logic": [
+        "Confirm Statement 1: tree cover is definitionally confined to sub-1-hectare parcels outside forest cover — this is the FSI standard.",
+        "Confirm Statement 2: ISFR does report forest cover and tree cover separately, and their aggregate is total green cover.",
+        "Reject Statement 3: roadside and homestead trees fall in sub-1-hectare parcels and therefore enter the 'tree cover' column, not forest cover — eliminate options that mark Statement 3 as correct.",
+        "Only options including Statements 1 and 2 but excluding Statement 3 are valid — that is option (b)."
+      ],
+      "upsc_trap_explanation": "The conflation trap here merges 'tree cover' and 'forest cover' into a single concept. Students who equate any tree canopy with 'forest cover' will incorrectly accept Statement 3. The precise separator is the 1-hectare area criterion and the spatial boundary (inside vs outside forest cover boundary) — not canopy density alone.",
+      "final_explanation": "FSI's forest assessment framework draws a hard boundary between forest cover and tree cover using area (1 hectare threshold) and location (inside vs outside forest cover boundary). Tree cover captures the dispersed, sub-hectare tree presence across the landscape.\n\n• Statement 1 — Correct: FSI explicitly defines tree cover as trees on parcels below 1 hectare outside the forest cover area — the definition is size and location-based.\n• Statement 2 — Correct: ISFR reports the two categories separately; their sum is total green cover, which is the figure used when comparing against policy targets.\n• Statement 3 — Incorrect: Roadside and homestead trees, regardless of local canopy density, fall below the 1-hectare threshold and are counted as tree cover, not forest cover.\n\nValue Addition:\n• Tree cover includes trees in urban parks, agricultural bunds, and avenue plantings — ecologically important but not legally 'forest.'\n• National Forest Policy 1988's 33% target refers to combined forest cover + tree cover, not forest cover alone.\n• Conflating the two is a common error in interpreting ISFR press releases."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding 'tree cover' as assessed by the Forest Survey of India (FSI):\n\n1. Tree cover refers to tree patches on land parcels smaller than 1 hectare lying outside the forest cover boundary.\n2. India's total green cover in ISFR is obtained by adding forest cover and tree cover figures.\n3. Trees growing along roadsides and in urban homesteads are classified as forest cover if they meet the minimum canopy density threshold.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "42a08fbb-4405-41a2-a7aa-38d160e54024",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "India State of Forest Report (ISFR): Structure, Periodicity, and Reporting Agency"
+      ],
+      "subject_que_no": 2262,
+      "overall_que_no": 15406
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "entity-swap",
+      "concept_anchor": "ISFR periodicity, reporting agency, and classification parameters",
+      "statement_analysis": [
+        {
+          "statement": "The India State of Forest Report (ISFR) is published annually by the Forest Survey of India under the Ministry of Environment, Forest and Climate Change.",
+          "verdict": "Incorrect",
+          "reason": "ISFR is published biennially (every two years), not annually — the publishing agency and ministry are correctly identified, but the frequency is wrong."
+        },
+        {
+          "statement": "ISFR aggregates forest cover and tree cover into a single 'green cover' figure as its primary reported statistic.",
+          "verdict": "Incorrect",
+          "reason": "ISFR reports forest cover and tree cover separately as distinct categories; they are not aggregated by default in its primary statistics."
+        }
+      ],
+      "strong_distractor": "c — Students aware that ISFR is published by FSI under MoEFCC may accept Statement 1 as fully correct, missing the biennial vs annual error.",
+      "elimination_logic": [
+        "Check Statement 1's frequency claim: ISFR is biennial, not annual — Statement 1 is incorrect.",
+        "Check Statement 2's aggregation claim: ISFR reports forest cover and tree cover as separate figures — Statement 2 is also incorrect.",
+        "Since both statements are incorrect, the answer is option (a) — both are NOT correct."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap replaces 'biennial' with 'annual' — a temporal precision error that well-prepared students may overlook if they focus on the correctly stated agency and ministry. Statement 2 exploits the common misconception that ISFR's headline number is a combined green cover total.",
+      "final_explanation": "ISFR is a biennial publication — issued every two years — by the Forest Survey of India (FSI), which functions under the Ministry of Environment, Forest and Climate Change (MoEFCC). Its reporting structure maintains forest cover and tree cover as separate, independently quantified categories.\n\n• Statement 1 — Incorrect: The agency and ministry are correctly named, but 'annually' is wrong. ISFR has been biennial since its inception.\n• Statement 2 — Incorrect: ISFR presents forest cover and tree cover as distinct data columns. A combined total can be computed, but it is not the primary reported statistic.\n\nValue Addition:\n• ISFR categorises forest cover into Very Dense Forest, Moderately Dense Forest, and Open Forest — each reported separately.\n• Bamboo and mangrove cover receive separate sections within ISFR.\n• FSI was established in 1981, headquartered in Dehradun, and has been producing ISFR since 1987."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the India State of Forest Report (ISFR):\n\n1. ISFR is published annually by the Forest Survey of India under the Ministry of Environment, Forest and Climate Change.\n2. ISFR aggregates forest cover and tree cover into a single 'green cover' figure as its primary reported statistic.\n\nWhich of the above statements is/are NOT correct?\n\n(a) Both 1 and 2\n(b) 1 only\n(c) 2 only\n(d) Neither 1 nor 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "018bace7-029a-4555-9f6e-59ffca6f1498",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Canopy Density Classes: VDF, MDF, Open Forest, and Scrub"
+      ],
+      "subject_que_no": 2263,
+      "overall_que_no": 15407
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Canopy density thresholds for VDF, MDF, Open Forest, Scrub",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students may place Scrub in forest cover assuming any vegetated land with some tree presence counts, and may also confuse the MDF lower boundary as 50% rather than 40%.",
+      "elimination_logic": [
+        "Anchor on VDF: >70% canopy — this is the most precisely remembered figure; confirms the matching for A.",
+        "Open Forest is 10–40% canopy — this is the largest category by area in India; match B-3.",
+        "MDF sits between VDF and Open Forest: 40–70% canopy — match C-2.",
+        "Scrub is below 10% canopy and explicitly excluded from forest cover — match D-4; eliminate any option placing Scrub within forest cover categories."
+      ],
+      "upsc_trap_explanation": "The trap lies in the MDF lower boundary. Students who remember '50%' as the Open Forest upper limit (instead of 40%) will incorrectly set MDF as 50–70%, shifting the entire boundary system. The Scrub category is the second trap: students sometimes assume any vegetated land is counted in forest cover, not realising Scrub's sub-10% density excludes it entirely.",
+      "final_explanation": "FSI uses canopy density to classify forest cover into three counted categories and one excluded category. The density thresholds are precise and form a common UPSC testing point.\n\nCorrect matches:\n• A — Very Dense Forest: >70% canopy density. The ecologically richest category, concentrated in northeast India and Western Ghats.\n• B — Open Forest: 10–40% canopy density. The largest category by area in India — covers vast tracts of central and peninsular India.\n• C — Moderately Dense Forest: 40–70% canopy density. Sits between VDF and Open Forest.\n• D — Scrub: <10% canopy density. Explicitly excluded from forest cover statistics — the degradation endpoint of the VDF→MDF→Open Forest→Scrub trajectory.\n\nThe trap pairings swap MDF and Open Forest boundaries (confusing 40% with 50%) and misplace Scrub within counted categories.\n\nValue Addition:\n• Scrub has ecological value for dry-land wildlife but receives no recognition in ISFR forest cover tallies.\n• Degradation from VDF to Scrub is a key policy concern in ISFR analysis.\n• Open Forest's dominance in area statistics is why India's 'average' forest quality is lower than the headline area figure suggests."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Forest Category) with List II (Canopy Density Range) as classified by the Forest Survey of India:",
+        "columns": [
+          "List I — Forest Category",
+          "List II — Canopy Density"
+        ],
+        "rows": [
+          [
+            "A. Very Dense Forest",
+            "1. 40–70%"
+          ],
+          [
+            "B. Open Forest",
+            "2. 40–70% (MDF duplicate removed — see below)"
+          ],
+          [
+            "C. Moderately Dense Forest",
+            "3. 10–40%"
+          ],
+          [
+            "D. Scrub",
+            "4. Below 10% (excluded from forest cover)"
+          ]
+        ],
+        "footer_text": "Match List I with List II:\n\nList I → List II pairings:\nA = Very Dense Forest → canopy >70%\nB = Open Forest → canopy 10–40%\nC = Moderately Dense Forest → canopy 40–70%\nD = Scrub → canopy below 10%\n\n(a) A-3, B-1, C-4, D-2\n(b) A-4 (>70%), B-3 (10–40%), C-1 (40–70%), D-2 (<10%)\n(c) A-1, B-3, C-4, D-2\n(d) A-4, B-2, C-3, D-1"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "83b994bd-6a99-409d-af77-5b8c1682d1d4",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Canopy Density Classes: VDF, MDF, Open Forest, and Scrub"
+      ],
+      "subject_que_no": 2264,
+      "overall_que_no": 15408
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Canopy density class boundaries and Scrub exclusion from forest cover",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) swaps Open Forest and MDF boundaries, which is the most common boundary confusion for students who recall 50% as a threshold rather than 40%.",
+      "elimination_logic": [
+        "Anchor on VDF (>70%): matches A with 4 — only option (b) places A at >70%.",
+        "Confirm Open Forest as 10–40% — matches B with 3.",
+        "MDF must then be 40–70% — matches C with 1.",
+        "Scrub at <10% matches D with 2 — and note it is excluded from forest cover count, eliminating any option that implies it is counted."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap operates on the MDF–Open Forest boundary. Students who extend Open Forest's upper limit to 50% (instead of 40%) will misplace both MDF and Open Forest. Additionally, Scrub being excluded from forest cover is a frequently missed fact — students extending forest cover to include all vegetated land will misidentify Scrub's status.",
+      "final_explanation": "FSI's canopy density classification is a core UPSC data point. The four categories and their thresholds must be memorised precisely.\n\nCorrect pairings:\n• A (Very Dense Forest) — 4 (>70% canopy): Highest density; found predominantly in northeast India and Andaman & Nicobar Islands.\n• B (Open Forest) — 3 (10–40% canopy): India's largest forest category by area; spans dry and semi-arid zones.\n• C (Moderately Dense Forest) — 1 (40–70% canopy): Intermediate category between VDF and Open Forest.\n• D (Scrub) — 2 (<10% canopy): Falls below the minimum forest cover threshold and is not counted in forest cover statistics.\n\nThe trap options reverse MDF and Open Forest density ranges or include Scrub within counted categories.\n\nValue Addition:\n• The VDF→MDF→Open Forest→Scrub trajectory represents progressive degradation — a central policy concern.\n• Northeast India accounts for the bulk of India's VDF category.\n• Scrubland can be legally diverted for non-forest use if it falls outside Recorded Forest Area."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Forest Density Category) with List II (Canopy Density Specification) as used by the Forest Survey of India:",
+        "columns": [
+          "List I — Category",
+          "List II — Canopy Density"
+        ],
+        "rows": [
+          [
+            "A. Very Dense Forest",
+            "1. 40% to 70%"
+          ],
+          [
+            "B. Open Forest",
+            "2. Less than 10% (excluded from forest cover)"
+          ],
+          [
+            "C. Moderately Dense Forest",
+            "3. 10% to 40%"
+          ],
+          [
+            "D. Scrub",
+            "4. More than 70%"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-4, B-3, C-1, D-2\n(c) A-4, B-1, C-3, D-2\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f3ecda11-df00-4a9d-8516-0c3ee77f116f",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Recorded Forest Area (RFA) vs Forest Cover: The Critical Overlap Problem"
+      ],
+      "subject_que_no": 2265,
+      "overall_que_no": 15409
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "RFA vs forest cover — legal vs biophysical non-overlap",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who understand both statements to be true may assume the legal definition causally produces the satellite cover assessment, reversing the actual independence of the two systems.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? Yes. Land inside Recorded Forest Area can be legally 'forest' even when stripped of vegetation — legal status is independent of biophysical condition.",
+        "Step 2 — Is Reason (R) correct? No. Forest cover is assessed through satellite-based remote sensing of canopy density, not through legal or administrative forest records — the statement that forest cover is determined by legal records is factually wrong.",
+        "Step 3 — Since R is incorrect, the answer must be (c) — A is correct but R is incorrect."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap makes students assume that because RFA and forest cover are related, one determines the other. In reality, RFA is determined by legal/administrative records (land settlement, notification) while forest cover is determined purely by satellite-detected canopy density. The Reason statement falsely claims forest cover derives from legal records — a reversal of the actual methodology.",
+      "final_explanation": "RFA and forest cover are parallel classification systems with different methodological bases and they do not fully overlap — this is one of the most important conceptual distinctions in Indian forest policy.\n\nAssertion (A): Correct. Deforested land inside an RFA retains its legal 'forest' status because RFA is an administrative category defined by notification under forest laws, not by vegetation status. Conversely, densely wooded private land outside RFA does not automatically acquire legal forest status.\n\nReason (R): Incorrect. Forest cover is determined by FSI's satellite-based assessment of canopy density — it is a biophysical measure. It is not derived from legal or administrative records. Legal records determine RFA; satellite imagery determines forest cover. These are independent systems.\n\nSince A is correct and R is incorrect, the answer is (c).\n\nValue Addition:\n• 'Deemed forests' (from the Godavarman judgment) partially bridge this gap by extending FCA protection beyond strict RFA boundaries.\n• India has approximately 7.67 lakh sq km of RFA but forest cover of ~7.1 lakh sq km — the figures differ precisely because of this non-overlap.\n• Policy implications: Deforested RFA still requires FCA clearance for diversion; tree-covered non-RFA land may not."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): A tract of land inside a legally designated Reserved Forest that has been completely cleared of vegetation still retains its status as 'forest' under Indian administrative law, even though it would not be counted in forest cover statistics.\n\nReason (R): Forest cover in India is determined by cross-referencing government legal records of forest land with field-verified vegetation surveys, making the legal and biophysical assessments inherently linked.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e571cee7-9ccc-4018-9452-99419cac6c05",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Bamboo as Forest Cover: Classification Controversy and Legal Amendment"
+      ],
+      "subject_que_no": 2266,
+      "overall_que_no": 15410
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Bamboo reclassification from tree to grass — 2017 amendment",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who remember bamboo reform happening 'around 2014–2015' due to the National Agroforestry Policy may misplace the amendment, selecting an option that places the reclassification before the Agroforestry Policy.",
+      "elimination_logic": [
+        "Anchor on the Forest Conservation Act 1980 — this is the oldest event and must come first in any valid sequence.",
+        "National Agroforestry Policy 2014 comes next — a well-known policy year.",
+        "Indian Forest (Amendment) Act 2017 is the bamboo reclassification event — must come after both FCA 1980 and Agroforestry Policy 2014.",
+        "Eliminate any option placing the 2017 amendment before 2014 or reversing FCA 1980's position — only option (d) preserves the correct sequence."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap exploits uncertainty about whether bamboo reform happened in 2014 (alongside the Agroforestry Policy) or 2017. Students who conflate the two policy initiatives will missequence the amendment. The Forest Conservation Act 1980 is the anchor — its position is rarely confused, but options are designed so that misplacing the 2017 amendment leads to a plausible-looking wrong sequence.",
+      "final_explanation": "Three legislative and policy milestones define bamboo's regulatory journey in India, and their sequence is a classic UPSC chronology question.\n\nCorrect sequence:\n1. Forest Conservation Act 1980 — the governing law for diversion of forest land; bamboo inside forests remained regulated under this.\n2. National Agroforestry Policy 2014 — promoted tree and bamboo cultivation on agricultural land but did not change bamboo's legal classification.\n3. Indian Forest (Amendment) Act 2017 — reclassified bamboo growing outside recorded forest area from 'tree' to 'grass,' removing the transit permit requirement and incentivising commercial cultivation.\n\nWrong options place the 2017 amendment before 2014 or reverse the FCA 1980 anchor.\n\nValue Addition:\n• Bamboo inside recorded forest areas remains governed by both the Forest Conservation Act 1980 and the Indian Forest Act 1927 — the 2017 amendment applies only outside forests.\n• The reclassification was intended to boost India's bamboo economy and reduce import dependence.\n• Bamboo-dominant forests in northeast India periodically shift classification status in ISFR due to mass flowering and die-off cycles."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological order of policy and legislative milestones related to bamboo's regulatory classification in India?\n\n1. Forest Conservation Act enacted\n2. National Agroforestry Policy announced\n3. Indian Forest (Amendment) Act reclassified bamboo outside forests as 'grass'\n\n(a) 2 → 1 → 3\n(b) 1 → 3 → 2\n(c) 3 → 1 → 2\n(d) 1 → 2 → 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "666e95d4-715e-4b95-bb4c-5c6e0057fc0a",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Agroforestry and Orchards: Counted in Forest Cover or Tree Cover?",
+        "Definition of Forest Cover: FSI Criteria and Canopy Density Threshold"
+      ],
+      "subject_que_no": 2267,
+      "overall_que_no": 15411
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Orchards >1 ha with ≥10% canopy counted as forest cover",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who believe 'forest cover' requires natural vegetation or government-notified land will choose the tree cover option, not recognising that FSI's physical criteria capture orchards.",
+      "elimination_logic": [
+        "The orchard covers 3 hectares — above the 1-hectare minimum for forest cover classification.",
+        "Canopy density is described as providing good shade — inferring ≥10% canopy density threshold is met.",
+        "FSI's satellite sensor captures canopy density, not land use type — orchards are not excluded.",
+        "Eliminate option (b): tree cover applies to patches below 1 hectare; this orchard is 3 hectares, so it qualifies for forest cover, not tree cover."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap: Option (b) is half-correct in noting that orchard trees are not 'natural forest,' but it incorrectly concludes they would be classified as tree cover. FSI's physical criteria do not discriminate by species or land use — a 3-hectare mango orchard with adequate canopy reads as forest cover in satellite assessment. Students who correctly identify orchards as non-natural forests but misapply the area criterion fall into this trap.",
+      "final_explanation": "FSI's remote sensing methodology assesses canopy density and patch area — it cannot distinguish mango trees from sal trees on satellite imagery. Therefore, any patch meeting the twin criteria (≥1 hectare, ≥10% canopy) is captured as forest cover, irrespective of species or commercial intent.\n\nScenario application: The 3-hectare mango orchard with dense enough canopy meets both criteria — it would appear as forest cover in ISFR statistics.\n\n• Option (a) — Forest cover: Correct. Area >1 ha and canopy ≥10% — both conditions satisfied; FSI methodology makes no land-use exclusion.\n• Option (b) — Tree cover: Incorrect. Tree cover applies to sub-1-hectare patches; this orchard at 3 hectares crosses the forest cover threshold.\n• Option (c) — Not counted: Incorrect. The orchard meets both FSI criteria and would be detected by satellite.\n• Option (d) — Recorded Forest Area: Incorrect. RFA is a legal category determined by government notification, not by vegetation type or area.\n\nValue Addition:\n• This is the basis of criticism that India's rising forest cover masks natural forest degradation.\n• National Agroforestry Policy 2014 explicitly promotes such plantations, knowing they will count in cover statistics.\n• ISFR does not publish a separate 'natural forest vs plantation' breakdown in its primary area statistics."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A farmer in Uttar Pradesh has converted 3 hectares of agricultural land into a dense mango orchard. The orchard's canopy provides sufficient shade throughout the year. During its biennial assessment, FSI's satellite imagery captures this patch clearly. Under FSI's forest assessment framework, how would this orchard most likely be classified?\n\n(a) As forest cover, since the patch exceeds 1 hectare and meets the canopy density threshold\n(b) As tree cover, since mango orchards are commercial plantations and not natural forest vegetation\n(c) As neither forest cover nor tree cover, since agricultural land cannot be reclassified under forest assessment\n(d) As part of Recorded Forest Area if the state government issues a notification for it",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5ee2838e-6b66-49cc-b205-cbee3d331436",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Mangrove Cover: Separate Reporting within Forest Cover Framework"
+      ],
+      "subject_que_no": 2268,
+      "overall_que_no": 15412
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Mangrove reporting within forest cover framework and CRZ protection",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students may identify CRZ as the odd one out, thinking it is purely a coastal regulation with no connection to forest cover — they overlook that mangroves are actually counted in forest cover, making 'tree cover' the correct odd item.",
+      "elimination_logic": [
+        "Identify what the three correct items have in common: all relate to how mangroves are classified and reported within FSI's forest cover framework.",
+        "FSI reports mangrove cover using VDF, MDF, and Open Forest density categories — these three are all within the forest cover counting system.",
+        "Mangroves are reported as part of forest cover, not tree cover — 'tree cover' is the category that excludes mangroves.",
+        "CRZ provides a separate legal protection layer but mangroves still fall within forest cover statistics — CRZ is not the odd one out; 'tree cover' is the category mangroves do NOT belong to."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap extends 'tree cover' to include mangroves by implying that coastal wetland trees might be separately classified from inland forests. Students who know mangroves are 'special' may assume they go into a different category like tree cover. The correct fact is that mangroves are sub-classified within forest cover (with their own density tiers) and are explicitly not reported as tree cover.",
+      "final_explanation": "Mangroves occupy a distinct position in ISFR: they are counted within forest cover (not tree cover) and receive a dedicated section in the report. Their density follows the same VDF/MDF/Open Forest classification used for other forest types.\n\n• Option (a) — Very Dense Mangrove: Part of the forest cover framework; FSI uses the same density tiers for mangroves.\n• Option (b) — Tree Cover: The odd one out. Mangroves are not reported as tree cover — they are counted within forest cover statistics.\n• Option (c) — Coastal Regulation Zone notification: Provides a separate legal protection layer for mangroves, distinct from but compatible with their forest cover classification.\n• Option (d) — Moderately Dense Mangrove: Another density sub-category within the forest cover framework for mangroves.\n\nValue Addition:\n• India's mangrove cover is reported separately within ISFR — states like West Bengal, Gujarat, and Andaman & Nicobar Islands have the largest shares.\n• CRZ-I areas include mangroves as the most ecologically sensitive coastal zone.\n• An increase in mangrove area may not increase reported 'forest cover' if the new growth is low-density (Open category)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four items relate to how mangroves are classified and protected within India's official forest assessment and regulatory framework. Which one does NOT belong to the same classification context as the other three?\n\n(a) Very Dense Mangrove sub-category in ISFR\n(b) Tree cover category in Forest Survey of India reporting\n(c) Coastal Regulation Zone notification protection\n(d) Moderately Dense Mangrove sub-category in ISFR",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a73f9513-7545-42ef-ae54-eade11a7129a",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Carbon Stock vs Forest Cover: Why the Two Can Diverge"
+      ],
+      "subject_que_no": 2269,
+      "overall_que_no": 15413
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "Carbon stock vs forest cover area — divergence in quality and quantity",
+      "statement_analysis": [
+        {
+          "statement": "Two patches of forest with identical canopy density can differ substantially in carbon stock if one is a monoculture plantation and the other is a native multi-layered forest.",
+          "verdict": "Correct",
+          "reason": "Carbon stock depends on biomass density, species diversity, understory layers, and soil organic carbon — not canopy density alone. Native multi-layered forests store far more carbon per hectare than same-density monoculture plantations."
+        },
+        {
+          "statement": "India's Nationally Determined Contribution (NDC) carbon sink target is fully achievable by maximising forest cover area alone, regardless of forest quality or species composition.",
+          "verdict": "Incorrect",
+          "reason": "India's NDC links carbon sink targets to carbon stock, not merely forest area. Open forests and monoculture plantations counted in forest cover contribute far less carbon per hectare than dense natural forests — quality matters as much as area."
+        }
+      ],
+      "strong_distractor": "a — Students who associate forest cover area with carbon storage in a direct linear relationship will accept both statements, missing the quality-vs-quantity distinction that breaks the equivalence.",
+      "elimination_logic": [
+        "Statement 1: Carbon stock is determined by biomass, not just canopy density — two forests with equal canopy can differ greatly in carbon; Statement 1 is correct.",
+        "Statement 2: NDC targets are carbon-stock based, not area-based — monocultures of equal area cannot substitute for native forests in meeting carbon targets; Statement 2 is incorrect.",
+        "The combination of one correct and one incorrect statement points to option (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges forest cover area with carbon sequestration capacity. Students who equate more forest area with more carbon storage will validate Statement 2. The key insight is that India's NDC commits to creating an additional carbon sink — which depends on forest quality (carbon density per hectare), not just the number of hectares in the ISFR forest cover count.",
+      "final_explanation": "Forest cover (area metric) and carbon stock (biomass/quality metric) are related but divergent measures. Maximising one does not guarantee progress on the other.\n\n• Statement 1 — Correct: Canopy density is a geometric measure of overhead cover. Carbon stock depends on total biomass including trunks, roots, soil, and understory. A teak monoculture and a sal-dominated mixed forest may show identical satellite canopy but store very different quantities of carbon.\n• Statement 2 — Incorrect: India's NDC commits to creating an additional carbon sink of 2.5–3 billion tonnes of CO₂ equivalent through forests and trees by 2030. This target requires high-carbon-density forests — simply adding open-canopy plantation area counted in forest cover does not deliver equivalent carbon benefits.\n\nValue Addition:\n• ISFR now includes a separate chapter on carbon stock estimates to supplement the area-based forest cover data.\n• Afforestation drives replacing native scrubland with monocultures can increase forest cover while reducing total carbon stock.\n• India's NDC uses carbon sink language, not forest cover language — an important nuance for essay and GS III."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding the relationship between forest cover and carbon stock in India:\n\nStatement 1: Two patches of forest with identical canopy density can differ substantially in carbon stock if one is a monoculture plantation and the other is a native multi-layered forest.\n\nStatement 2: India's Nationally Determined Contribution (NDC) carbon sink target is fully achievable by maximising forest cover area alone, regardless of forest quality or species composition.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "182d7d5e-00f1-40f5-a409-79d7aee1da06",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Forest Cover Change vs Net Change: Gross Loss vs Gross Gain Distinction"
+      ],
+      "subject_que_no": 2270,
+      "overall_que_no": 15414
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Net vs gross forest cover change — FSI vs Global Forest Watch methodology",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'Gross gain' sounds like the correct answer because ISFR is associated with positive afforestation narratives; students may assume ISFR reports the gain figure, overlooking that it reports the net figure.",
+      "elimination_logic": [
+        "FSI/ISFR methodology: the reported change figure is net (afforestation gains minus deforestation losses) — not separately published as gross gain or gross loss.",
+        "Global Forest Watch explicitly uses gross metrics — gross tree cover loss and gross tree cover gain are its headline outputs.",
+        "The blank requires the term for what FSI reports: 'net change' — a single number that can mask simultaneous large losses and large gains.",
+        "Eliminate 'gross gain' and 'gross loss' — these are Global Forest Watch terminology; eliminate 'carbon stock change' — a different metric entirely."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap assigns Global Forest Watch's methodology (gross metrics) to FSI/ISFR, or vice versa. Students who know that GFW and FSI often produce conflicting numbers for the same geography but cannot identify the methodological reason (gross vs net) will swap the entities and choose the wrong term for the blank.",
+      "final_explanation": "The distinction between gross and net forest cover change is methodologically critical and explains why FSI and Global Forest Watch often report conflicting narratives for the same country.\n\n• Option (a) — Gross loss: Incorrect. FSI does not separately publish gross deforestation figures as its primary output.\n• Option (b) — Net change: Correct. ISFR reports the net change in forest cover — a single figure that subtracts losses from gains. This can show an increase even when significant deforestation is occurring in some regions, if plantation gains elsewhere are larger.\n• Option (c) — Gross gain: Incorrect. Gross gain is not FSI's headline metric; this is closer to GFW's gain layer output.\n• Option (d) — Carbon stock change: Incorrect. Carbon stock is a separate chapter in ISFR and is not the same as forest cover change.\n\nValue Addition:\n• Northeast India simultaneously shows high gross loss (jhum cultivation) and the national ISFR may show net gain — the net figure masks this regional reality.\n• Global Forest Watch uses Landsat 30m data; FSI uses LISS-III 23.5m data — resolution differences also contribute to differing numbers.\n• Reporting net change is criticized for enabling 'green accounting tricks' where plantation gains offset natural forest losses."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The India State of Forest Report (ISFR) publishes forest cover change as a ________ figure, which means that simultaneous large-scale deforestation in one region and plantation expansion in another can cancel each other out in the headline statistic — a methodological difference from Global Forest Watch, which publishes gross metrics separately.\n\n(a) Gross loss\n(b) Net change\n(c) Gross gain\n(d) Carbon stock change",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d42e193d-7ec7-4fbf-80a9-35ce6166d47e",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Forest Cover in Northeastern India: High Cover, High Loss, and Data Interpretation"
+      ],
+      "subject_que_no": 2271,
+      "overall_que_no": 15415
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Northeast India forest cover — proportion, jhum cultivation, and ISFR snapshot limitation",
+      "statement_analysis": [
+        {
+          "statement": "Northeast India holds approximately one-quarter of India's total forest cover despite occupying roughly one-twelfth of the country's land area.",
+          "verdict": "Correct",
+          "reason": "Northeast India (~8% of land area) accounts for approximately 25% of India's forest cover — a significant concentration reflecting the region's ecological richness."
+        },
+        {
+          "statement": "A single ISFR showing reduced forest cover in northeast India definitively establishes that permanent deforestation has occurred in the region.",
+          "verdict": "Incorrect",
+          "reason": "Jhum (shifting) cultivation cycles cause periodic forest clearing and regrowth — a single ISFR snapshot may capture a clearing phase and show reduced cover without any permanent deforestation having occurred."
+        },
+        {
+          "statement": "Bamboo-dominant forests in northeast India may shift between 'forest' and 'non-forest' classification in successive ISFRs due to mass flowering and die-off events.",
+          "verdict": "Correct",
+          "reason": "Bamboo species undergo mass flowering followed by die-off (mast seeding cycles), temporarily reducing canopy density below the forest cover threshold — this creates genuine classification shifts between successive ISFRs."
+        }
+      ],
+      "strong_distractor": "d — Students familiar with northeast India's forest cover may accept all three statements, missing the qualifier 'definitively' in Statement 2 that makes it incorrect by overstating the interpretive conclusion.",
+      "elimination_logic": [
+        "Confirm Statement 1: ~25% of forest cover in ~8% of land area is the standard FSI statistic for northeast India — correct.",
+        "Scrutinise Statement 2: the word 'definitively' is the trap — jhum cycles mean a single ISFR snapshot cannot definitively establish permanent deforestation; Statement 2 is incorrect.",
+        "Confirm Statement 3: bamboo mass flowering (gregarious flowering) causes canopy collapse — well-documented in Mizoram and Manipur; Statement 3 is correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — matches option (a)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap inserts 'definitively' into Statement 2, transforming a partially true observation (cover did decrease) into an overreach (permanent deforestation confirmed). Students who focus on the overall narrative — northeast India is losing forests — will accept Statement 2 without parsing the epistemological overreach. The jhum cycle caveat is the precise knowledge required to reject it.",
+      "final_explanation": "Northeast India presents the most complex forest cover interpretation challenge in ISFR analysis due to the interplay of jhum cultivation cycles, bamboo die-off events, and the snapshot nature of biennial satellite assessment.\n\n• Statement 1 — Correct: Northeast India's forest concentration is a widely cited ISFR statistic — approximately 25% of national forest cover from ~8% of land area.\n• Statement 2 — Incorrect: The qualifier 'definitively' fails this statement. Jhum cultivation involves cyclical clearing and fallow — ISFR captures a point in time. A decline in one report may reflect a clearing phase, not permanent loss. Interpreting such data requires multi-year trend analysis.\n• Statement 3 — Correct: Bamboo gregarious flowering (mast seeding) followed by mass die-off collapses the canopy of entire bamboo-dominant stands, potentially pushing canopy density below 10% and temporarily removing these areas from the forest cover count.\n\nValue Addition:\n• Mizoram and Manipur are most affected by bamboo mast-seeding classification shifts.\n• Jhum cultivation is legally practiced by Scheduled Tribes under their customary rights.\n• Multi-year trend analysis (across 3–4 ISFRs) is recommended for meaningful northeast forest cover interpretation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding forest cover in northeastern India as reported in ISFR:\n\n1. Northeast India holds approximately one-quarter of India's total forest cover despite occupying roughly one-twelfth of the country's land area.\n2. A single ISFR showing reduced forest cover in northeast India definitively establishes that permanent deforestation has occurred in the region.\n3. Bamboo-dominant forests in northeast India may shift between 'forest' and 'non-forest' classification in successive ISFRs due to mass flowering and die-off events.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "81a30478-85cd-4221-a821-d75818bc7ff3",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Urban Tree Cover: Measurement, Significance, and Policy Gaps"
+      ],
+      "subject_que_no": 2272,
+      "overall_que_no": 15416
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Urban trees classified as tree cover, not forest cover; FCA non-applicability",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'Urban forests provide ecosystem services and are protected under the Forest Conservation Act 1980' sounds like a logical pairing — students who assume FCA applies wherever trees exist will accept this.",
+      "elimination_logic": [
+        "Eliminate option (b): Urban trees/parks are classified as tree cover, not forest cover, and the Forest Conservation Act 1980 generally does not protect tree cover outside RFA — this pairing is incorrect.",
+        "Eliminate option (a): There is no dedicated national legislation for urban tree cover protection — this pair falsely attributes such a law.",
+        "Eliminate option (c): Urban trees are counted under tree cover by FSI — saying they are excluded entirely from FSI assessment is wrong.",
+        "Confirm option (d): Urban trees → classified as tree cover by FSI, and there is no dedicated national law protecting urban tree cover — both elements of this pair are correct."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap in option (a) invents a 'National Urban Forestry Act' — a law that does not exist but sounds plausible given India's legislative naming conventions. Option (b) extends FCA 1980's protection to urban trees, which are generally outside RFA and therefore not covered by FCA. Students must know the policy vacuum in urban tree governance to identify the correct pair.",
+      "final_explanation": "Urban tree cover sits in a regulatory grey zone: FSI measures it under 'tree cover,' it provides significant ecosystem services, but it lacks the protection framework available to forest cover within RFAs.\n\n• Option (a) — Incorrect: No dedicated national legislation exists for urban tree cover protection. Some states have tree preservation orders, but there is no central law.\n• Option (b) — Incorrect: Urban parks and avenue trees are tree cover, not forest cover. FCA 1980 applies to forest land (RFA and deemed forests), not to urban tree cover patches.\n• Option (c) — Incorrect: FSI does count urban trees — they appear in tree cover statistics, not as excluded from assessment.\n• Option (d) — Correct: Urban trees are classified as tree cover by FSI (not forest cover), and there is a recognised policy vacuum — no dedicated national law protects urban tree cover.\n\nValue Addition:\n• Urban Heat Island mitigation through tree planting is a key climate adaptation strategy — governed locally, not nationally.\n• Municipal tree preservation orders vary widely across states — Delhi, Mumbai, and Bengaluru have their own bylaws.\n• Green Area Ratio and similar urban planning metrics are emerging concepts but not yet statutory in most Indian cities."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched in the context of urban tree cover in India?\n\n(a) Urban tree cover — Protected under a dedicated National Urban Forestry Act enacted by Parliament\n(b) Urban parks and avenue trees — Classified as forest cover and protected under the Forest Conservation Act 1980\n(c) Trees in urban areas — Excluded entirely from FSI's forest assessment and not counted in any category\n(d) Urban tree cover — Classified as tree cover by FSI and currently lacking a dedicated national protection law",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bd3ae072-d78d-4131-8529-2f8207104230",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Forest Conservation Act 1980: Applicability to Forest Cover vs RFA",
+        "Godavarman Judgment (1996): Expanding 'Forest' Beyond Legal Boundaries"
+      ],
+      "subject_que_no": 2273,
+      "overall_que_no": 15417
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Godavarman 1996 expanded forest definition beyond RFA; FCA applicability",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both the Godavarman judgment and FCA 1980 are correct facts may assume the judgment is the reason FCA applies to RFA, missing that FCA already applied to RFA before the judgment — the judgment extended coverage beyond RFA.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? Yes. The Godavarman judgment (1996) directed that 'forest' includes all areas in government records as forest regardless of ownership, and also areas conforming to the dictionary meaning — expanding beyond strict RFA boundaries.",
+        "Step 2 — Is Reason (R) correct? Yes. FCA 1980 does apply to forest land — this is factually accurate.",
+        "Step 3 — Does R causally explain A? No. FCA 1980's applicability to forest land is not the reason the Godavarman judgment expanded the definition — the judgment expanded the definition to bring areas outside strict RFA under protection precisely because FCA alone (applied only to notified forest land) left many forested areas unprotected. R is correct but is not the causal explanation for A.",
+        "A correct + R correct + R does NOT explain A → option (b)."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap: R is factually true (FCA applies to forest land) but it reverses or misrepresents the causal logic. The Godavarman judgment expanded the definition of 'forest' because FCA's narrow application to notified land left many forests legally exposed — the judgment was a judicial remedy for FCA's limitation, not a consequence of FCA's scope. Students who see both A and R as true facts quickly choose (a) without examining whether R explains A.",
+      "final_explanation": "The Godavarman case (T.N. Godavarman Thirumulpad v. Union of India, 1996) is a landmark in Indian environmental jurisprudence that expanded FCA's effective reach without amending the statute.\n\nAssertion (A): Correct. The Supreme Court held that 'forest' should be understood in its widest sense — including all areas recorded as forest in government records irrespective of ownership, and also areas meeting the dictionary meaning of forest. This judicially extended FCA's protection beyond the narrow category of notified forest land.\n\nReason (R): Correct but not explanatory. FCA 1980 does apply to forest land — this is true. However, R does not explain why the Godavarman judgment was needed. The judgment was issued precisely because FCA alone, applied narrowly to notified land, left large forested areas unprotected. R describes FCA's normal operation, not the reason the Court intervened to expand the definition.\n\nSince both A and R are correct but R does not causally explain A, the answer is (b).\n\nValue Addition:\n• The Godavarman case has generated over 1,000 orders and remains an ongoing matter — the Supreme Court's Central Empowered Committee emerged from it.\n• 'Deemed forests' — areas meeting the dictionary meaning of forest — is the practical output of this judgment.\n• Van (Protection) Act 2023 replaced FCA 1980 and altered some applicability criteria, creating controversy over whether Godavarman protections are diluted."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Supreme Court's direction in the Godavarman case (1996) extended protection under forest laws to areas beyond formally notified Recorded Forest Areas, including areas that conform to the dictionary meaning of 'forest' and areas recorded as forest in government records regardless of ownership.\n\nReason (R): The Forest Conservation Act 1980 applies to forest land and requires prior approval of the Central Government for any non-forest use of such land.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "13a9dec4-9a07-4b06-a038-34f08f4f75bf",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "National Forest Policy 1988: Forest Cover Target and Its Basis"
+      ],
+      "subject_que_no": 2274,
+      "overall_que_no": 15418
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "NFP 1988 — 33% target covers forest and tree cover combined, not forest cover alone",
+      "statement_analysis": [
+        {
+          "statement": "The National Forest Policy 1988 sets a target of bringing 33% of India's geographical area under forest cover alone, excluding tree cover from this computation.",
+          "verdict": "Incorrect",
+          "reason": "The 33% target under NFP 1988 applies to forest and tree cover combined — tree cover is explicitly included in the target computation, which is why the 33% figure is compared against the combined green cover figure."
+        },
+        {
+          "statement": "NFP 1988 prescribes a higher forest and tree cover target of 66% for hilly and mountainous states as compared to the national 33% target.",
+          "verdict": "Correct",
+          "reason": "NFP 1988 does set a differentiated 66% target for hill and mountain states, recognising their higher ecological and watershed protection role."
+        },
+        {
+          "statement": "India has already achieved the 33% target set under NFP 1988 when forest cover and tree cover are combined.",
+          "verdict": "Incorrect",
+          "reason": "The combined forest cover (~21.7%) and tree cover (~2.9%) currently stands at approximately 24.6% of geographical area — well short of the 33% target."
+        }
+      ],
+      "strong_distractor": "b — Students may eliminate Statement 1 as incorrect (correctly) but accept Statement 3, believing India has achieved the 33% target because they conflate forest cover with total green cover or recall an outdated figure.",
+      "elimination_logic": [
+        "Statement 1: The 33% target covers forest AND tree cover combined — excluding tree cover from the target is factually wrong; Statement 1 is NOT correct.",
+        "Statement 2: The 66% target for hill states is a genuine NFP 1988 provision — Statement 2 IS correct, so it should NOT be selected as incorrect.",
+        "Statement 3: Combined forest cover + tree cover is approximately 24.6% — India has not achieved 33%; Statement 3 is NOT correct.",
+        "Statements 1 and 3 are NOT correct — matches option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 1 restricts the 33% target to 'forest cover alone,' dropping the tree cover component. This is the single most common misquotation of NFP 1988 in UPSC preparation. Statement 3 traps students who recall media headlines about India's improving forest cover and extrapolate to a target achievement, when in fact the gap to 33% remains substantial.",
+      "final_explanation": "NFP 1988's targets are frequently misquoted, making this a high-yield testing area for UPSC.\n\n• Statement 1 — NOT correct: NFP 1988 mandates 33% of geographical area under forest AND tree cover combined. Restricting the target to forest cover alone is a scope-extension error.\n• Statement 2 — Correct: Hill and mountain states have a differentiated 66% target under the same policy — recognising the critical watershed and ecological stabilisation role of forests in these regions.\n• Statement 3 — NOT correct: India's current combined green cover (forest + tree) stands at approximately 24.6% — about 8 percentage points below the 33% target. The goal has not been achieved.\n\nStatements 1 and 3 are NOT correct → option (c).\n\nValue Addition:\n• NFP 1988 remains India's governing forest policy document — no new national forest policy has replaced it.\n• The 33% benchmark is why India's NDC and Green India Mission both track combined forest and tree cover.\n• Plains states typically have far lower tree cover percentages than hill states, widening the national gap."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the National Forest Policy 1988 and India's forest cover targets:\n\n1. The National Forest Policy 1988 sets a target of bringing 33% of India's geographical area under forest cover alone, excluding tree cover from this computation.\n2. NFP 1988 prescribes a higher forest and tree cover target of 66% for hilly and mountainous states compared to the national 33% target.\n3. India has already achieved the 33% target set under NFP 1988 when forest cover and tree cover are combined.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9b561254-13c2-43e0-b49e-fdff49453558",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "CAMPA Funds and Compensatory Afforestation: Forest Cover or Tree Cover Creation?"
+      ],
+      "subject_que_no": 2275,
+      "overall_que_no": 15419
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "CAMPA plantations counted in forest cover — biodiversity criticism",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'CAMPA plantations are counted as tree cover, not forest cover, because they are on non-forest land' sounds logical and represents the misconception that non-forest origin land precludes forest cover classification.",
+      "elimination_logic": [
+        "FSI's forest cover classification is purely physical — area ≥1 ha and canopy ≥10%; land origin (forest vs non-forest) is irrelevant to the satellite assessment.",
+        "CAMPA-funded plantations on non-forest land, once they mature to meet both FSI criteria, are captured as forest cover.",
+        "Eliminate option (c): land origin does not determine FSI classification category — satellite reads canopy, not legal history.",
+        "Confirm option (a): the central criticism of CAMPA's statistical contribution is exactly this — inflated forest cover figures that include monoculture plantations."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap in option (c) invents a rule that non-forest origin land creates only tree cover, not forest cover. This sounds logical because CAMPA involves diversion of forest land compensated on non-forest land — students assume the non-forest origin is preserved in the classification. The FSI satellite does not record land provenance; it reads biophysical canopy density and patch area alone.",
+      "final_explanation": "CAMPA (Compensatory Afforestation Management and Planning Authority) manages funds collected when forest land is diverted for non-forest use and uses them to create plantations on non-forest degraded land.\n\n• Option (a) — Correct: Once CAMPA-funded plantations on non-forest land mature to meet FSI's twin criteria (≥1 ha, ≥10% canopy), they appear as forest cover in satellite assessment. This inflates the forest cover statistic while the underlying biodiversity value of the original diverted forest is irreplaceable.\n• Option (b) — Incorrect: CAMPA plantations are not necessarily classified as tree cover — patch size determines this, not land origin.\n• Option (c) — Incorrect: There is no FSI rule linking non-forest land origin to tree cover classification. The satellite assessment is agnostic about legal history.\n• Option (d) — Incorrect: CAMPA plantations are not excluded from ISFR — they are captured when they meet physical criteria.\n\nValue Addition:\n• CAMPA Act 2016 created the statutory authority and funds; the preceding CAF Board had operated through a Supreme Court order since 2002.\n• Critics argue CAMPA-created plantations replace biodiverse natural forests with monocultures of species like eucalyptus or teak.\n• Net Positive Area requirement under FCA mandates compensatory afforestation at a minimum 1:2 ratio (degraded land) or 1:1 (equivalent land)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A central criticism of how CAMPA (Compensatory Afforestation Management and Planning Authority) plantations affect India's forest cover statistics relates to which of the following?\n\n(a) Plantations created on non-forest land under CAMPA, once they meet FSI's physical criteria, are counted as forest cover, potentially inflating the headline statistic while masking loss of natural forest biodiversity\n(b) CAMPA plantations are consistently classified as tree cover rather than forest cover because they originate on non-forest land, artificially depressing forest cover figures\n(c) CAMPA plantations on non-forest land are classified as tree cover by FSI because satellite sensors distinguish between plantations on legally notified forest land and those on other land types\n(d) CAMPA plantation areas are excluded from both forest cover and tree cover in ISFR, as they are not spontaneous natural vegetation",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "88a87f68-f660-4024-8a1c-f286e4c15a3b",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Remote Sensing Technology in Forest Cover Assessment: Limitations and Accuracy"
+      ],
+      "subject_que_no": 2276,
+      "overall_que_no": 15420
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "FSI LISS-III resolution vs GFW Landsat resolution — remote sensing limitations",
+      "statement_analysis": [
+        {
+          "statement": "FSI uses LISS-III satellite sensor with a spatial resolution of 23.5 metres for forest cover assessment.",
+          "verdict": "Correct",
+          "reason": "LISS-III (Linear Imaging Self Scanner III) with 23.5m resolution is the primary satellite data source used by FSI for ISFR forest cover mapping."
+        },
+        {
+          "statement": "Global Forest Watch uses Landsat imagery with a 30-metre spatial resolution, which is coarser than FSI's LISS-III sensor.",
+          "verdict": "Incorrect",
+          "reason": "Landsat has 30m resolution while LISS-III has 23.5m resolution — LISS-III is actually finer (more detailed) than Landsat, not coarser. GFW's Landsat data is the coarser of the two."
+        },
+        {
+          "statement": "Cloud cover over the Western Ghats and northeast India can affect the accuracy of satellite-based forest cover data in specific reporting cycles.",
+          "verdict": "Correct",
+          "reason": "High cloud cover in humid regions like the Western Ghats and northeast India periodically limits the usable satellite imagery in those regions, affecting ISFR accuracy."
+        },
+        {
+          "statement": "FSI's satellite sensor can distinguish between a natural mixed forest and a monoculture teak plantation with identical canopy density.",
+          "verdict": "Incorrect",
+          "reason": "Satellite sensors detect canopy density and spectral reflectance — they cannot reliably distinguish species composition or structural complexity of forests with similar canopy density profiles."
+        }
+      ],
+      "strong_distractor": "c — Students may consider three statements correct by accepting Statement 2's 'coarser' descriptor without verifying the actual resolution numbers, combined with accepting Statements 1, 3, and 4 incorrectly.",
+      "elimination_logic": [
+        "Statement 1: LISS-III at 23.5m is the standard FSI sensor — correct.",
+        "Statement 2: LISS-III (23.5m) is finer than Landsat (30m) — calling LISS-III 'coarser' is the entity-swap error; Statement 2 is incorrect.",
+        "Statement 3: Cloud cover limitation in humid regions is a documented challenge in ISFR methodology — correct.",
+        "Statement 4: Satellite sensors cannot distinguish species composition or structural complexity from identical canopy density — Statement 4 is incorrect.",
+        "Only Statements 1 and 3 are correct — 'Only two' is option (b)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in Statement 2 reverses the resolution comparison — swapping which sensor is finer and which is coarser. Students who know both sensors' names without their precise resolution values will accept 'coarser' applied to LISS-III without challenge. Statement 4 is a common misconception — many students assume modern satellites can identify species from canopy imagery.",
+      "final_explanation": "Remote sensing technology is central to FSI's methodology and its limitations explain many of the controversies around India's forest cover reporting.\n\n• Statement 1 — Correct: FSI's LISS-III operates at 23.5m spatial resolution, making it capable of detecting patches above that dimension.\n• Statement 2 — Incorrect: LISS-III (23.5m) is actually finer resolution than Landsat (30m). Saying LISS-III is 'coarser' is a reversal. GFW's Landsat data captures slightly larger minimum detectable units than FSI's sensor.\n• Statement 3 — Correct: Cloud cover in the Western Ghats and northeast — both high-rainfall, often cloud-covered regions — is a documented limitation. FSI uses multi-date compositing to reduce this effect, but residual inaccuracy exists.\n• Statement 4 — Incorrect: Satellites detect spectral signatures of canopy but cannot reliably distinguish a monoculture teak plantation from a mixed natural forest with identical canopy density — this is a fundamental limitation cited in the debate about plantation vs natural forest quality.\n\nOnly Statements 1 and 3 are correct — option (b).\n\nValue Addition:\n• FSI uses multi-temporal imagery compositing to reduce cloud interference.\n• GFW and FSI producing different numbers for India's forest loss is partly a resolution artifact.\n• Hyperspectral imaging (future technology) may allow species-level identification from satellite data."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the remote sensing methodology used in India's forest cover assessment:",
+        "columns": [
+          "Statement",
+          "Description"
+        ],
+        "rows": [
+          [
+            "1",
+            "FSI uses LISS-III satellite sensor with a spatial resolution of 23.5 metres for forest cover assessment."
+          ],
+          [
+            "2",
+            "Global Forest Watch uses Landsat imagery with a 30-metre spatial resolution, which is coarser than FSI's LISS-III sensor."
+          ],
+          [
+            "3",
+            "Cloud cover over the Western Ghats and northeast India can affect the accuracy of satellite-based forest cover data in specific reporting cycles."
+          ],
+          [
+            "4",
+            "FSI's satellite sensor can distinguish between a natural mixed forest and a monoculture teak plantation with identical canopy density."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4b464837-bea4-4138-80cf-c00d2c77f112",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Scrub Land: The Missing Category Between Forest Cover and Tree Cover"
+      ],
+      "subject_que_no": 2277,
+      "overall_que_no": 15421
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Scrub exclusion from forest cover and FCA diversion implications",
+      "statement_analysis": [
+        {
+          "statement": "Scrubland, with canopy density below 10%, is excluded from forest cover statistics in ISFR but is nevertheless counted under the 'tree cover' category.",
+          "verdict": "Incorrect",
+          "reason": "Scrubland is excluded from both forest cover (canopy <10% falls below minimum threshold) AND tree cover (tree cover applies to sub-1-ha patches outside forest cover boundary, not to scrubland defined by canopy density). Scrub is a separate, uncounted category."
+        },
+        {
+          "statement": "Degraded scrublands that fall outside Recorded Forest Area can potentially be converted to plantations without requiring Forest Conservation Act clearance.",
+          "verdict": "Correct",
+          "reason": "FCA 1980 applies to 'forest land' — land within RFA or deemed forests. Scrubland outside RFA is not protected under FCA and can be converted without central government clearance under that act."
+        }
+      ],
+      "strong_distractor": "a — Students who know scrubland is excluded from forest cover may assume it defaults to tree cover (the other FSI category), making both statements appear correct.",
+      "elimination_logic": [
+        "Statement 1: Scrubland is excluded from forest cover — correct. But it is NOT counted as tree cover — tree cover is a sub-1-ha area category, not a low-density-canopy category. Statement 1 is incorrect.",
+        "Statement 2: FCA applies to RFA and deemed forests. Scrubland outside RFA lacks this protection — conversion requires no FCA clearance. Statement 2 is correct.",
+        "One incorrect, one correct — matches option (d) only if Statement 2 were in position 1. Here Statement 1 is incorrect and Statement 2 is correct — option (d) says 'Statement 1 incorrect, Statement 2 correct' → option (d)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap extends 'tree cover' to include scrubland by reasoning that both are excluded from forest cover and therefore must fall in the tree cover bucket. This is incorrect — tree cover and scrubland are defined by different criteria (area size vs canopy density). Scrubland occupies neither the forest cover nor tree cover category in ISFR — it is a distinct, unprotected landscape category.",
+      "final_explanation": "Scrubland is the 'missing' category in India's forest governance — excluded from forest cover (insufficient canopy), not counted as tree cover (different definitional basis), and often unprotected by FCA.\n\n• Statement 1 — Incorrect: Scrubland's exclusion from forest cover is correct, but the claim that it is counted under tree cover is wrong. Tree cover is defined by patch size (<1 ha) and location (outside forest boundary), not by canopy density. Scrubland is a distinct category in ISFR that is neither forest cover nor tree cover.\n• Statement 2 — Correct: FCA 1980 protection attaches to 'forest land' — RFA and deemed forests. Scrubland outside these legal boundaries is not covered by FCA, making it eligible for conversion to plantations or other uses without central clearance. This is precisely the policy concern about scrubland being a conversion target for CAMPA plantations.\n\nValue Addition:\n• Scrubland provides habitat for dry-ecosystem-dependent wildlife — Great Indian Bustard habitat in Rajasthan includes scrubland.\n• Conversion of scrubland to eucalyptus plantations may create 'forest cover' while eliminating the native dry ecosystem.\n• Van (Protection) Act 2023 brought some definitional changes — applicability to scrubland is a contested interpretation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about scrubland in the context of India's forest governance:\n\nStatement 1: Scrubland, with canopy density below 10%, is excluded from forest cover statistics in ISFR but is nevertheless counted under the 'tree cover' category.\n\nStatement 2: Degraded scrublands that fall outside Recorded Forest Area can potentially be converted to plantations without requiring Forest Conservation Act clearance.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b1c1658f-a788-41ba-9fc1-27afd1b1b515",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Green India Mission (GIM): Targets Spanning Both Forest Cover and Tree Cover"
+      ],
+      "subject_que_no": 2278,
+      "overall_que_no": 15422
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "GIM targets — 5 million ha new cover plus 5 million ha quality improvement",
+      "statement_analysis": [
+        {
+          "statement": "The Green India Mission aims to increase forest and tree cover by 5 million hectares and improve the quality of an additional 5 million hectares of existing forest.",
+          "verdict": "Correct",
+          "reason": "GIM has a dual target: 5 million hectares of new forest/tree cover creation and quality enhancement of another 5 million hectares — explicitly addressing both area and density dimensions."
+        },
+        {
+          "statement": "GIM's quality improvement component, which focuses on increasing canopy density in existing forests, will show up as an increase in forest area in successive ISFRs.",
+          "verdict": "Incorrect",
+          "reason": "Quality improvement (density enhancement) does not create new forest area — it improves existing forests. Unless a patch transitions from one density class to another or from below-threshold to above-threshold, it does not add to the area count in ISFR."
+        },
+        {
+          "statement": "Green India Mission is implemented under India's National Action Plan on Climate Change and its forest-related outcomes are linked to climate adaptation objectives.",
+          "verdict": "Correct",
+          "reason": "GIM is one of the eight missions under NAPCC and is explicitly linked to climate adaptation through forest ecosystem services."
+        }
+      ],
+      "strong_distractor": "d — Students who associate GIM with positive forest cover headlines may accept Statement 2, thinking quality improvement necessarily reflects as area growth, leading them to select all three as correct.",
+      "elimination_logic": [
+        "Confirm Statement 1: GIM's dual 5+5 million hectare target is its defining feature — correct.",
+        "Scrutinise Statement 2: quality improvement in existing forests means density enhancement, not new area — this does not appear as area increase in ISFR unless the patch crosses a classification threshold; Statement 2 is incorrect.",
+        "Confirm Statement 3: GIM is part of NAPCC, specifically linked to adaptation — correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 2 extends 'quality improvement' to mean 'area increase' — conflating density enhancement with spatial expansion. GIM's quality component is precisely about upgrading existing Open Forests to Moderately Dense or Very Dense status, which is invisible in area statistics unless the patch was previously below the 10% threshold and now crosses it.",
+      "final_explanation": "GIM is the most comprehensive mission addressing both forest cover expansion and quality improvement, but students must carefully distinguish between its two components.\n\n• Statement 1 — Correct: GIM targets 5 million ha of new forest/tree cover creation + quality improvement of 5 million ha of existing forests. The dual structure is GIM's defining feature.\n• Statement 2 — Incorrect: The quality improvement component involves density enhancement — converting Open Forest to MDF or MDF to VDF. This does not add to the headline area count in ISFR unless a previously sub-threshold patch crosses 10% canopy. Density improvements within existing forest cover are invisible in ISFR's area statistics.\n• Statement 3 — Correct: GIM is one of eight missions under NAPCC. Its climate linkage is through adaptation — forests moderate rainfall, prevent soil erosion, and provide livelihood buffers for climate-vulnerable communities.\n\nValue Addition:\n• GIM is funded through the National Adaptation Fund, not the CAMPA corpus.\n• The '5+5 million hectare' framing distinguishes GIM from NFP 1988's area-only approach.\n• GIM explicitly covers both forest cover and tree cover — a deliberate design choice reflecting NFP 1988's combined 33% target."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Green India Mission (GIM):\n\n1. The Green India Mission aims to increase forest and tree cover by 5 million hectares and improve the quality of an additional 5 million hectares of existing forest.\n2. GIM's quality improvement component, which focuses on increasing canopy density in existing forests, will show up as an increase in forest area in successive ISFRs.\n3. Green India Mission is implemented under India's National Action Plan on Climate Change and its forest-related outcomes are linked to climate adaptation objectives.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8ff35638-5049-4769-8b5b-7e40e679a366",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Private Forests and Tree Cover on Private Land: Regulatory Ambiguity"
+      ],
+      "subject_que_no": 2279,
+      "overall_que_no": 15423
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Private agricultural trees regulated by state orders; felling disincentive on farm trees",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'FCA 1980 clearance is required since the trees are old-growth and ecologically significant' sounds legally rigorous and environmentally protective — students who conflate ecological significance with FCA applicability will choose this.",
+      "elimination_logic": [
+        "FCA 1980 applies to forest land (RFA and deemed forests) — private agricultural land is neither, so FCA does not apply to the farmer's trees.",
+        "The Godavarman expansion covers areas conforming to dictionary meaning of forest — a scattered farm boundary plantation does not meet this threshold.",
+        "State tree preservation orders regulate tree felling on private agricultural land — these are state-level instruments, not central FCA.",
+        "Eliminate option (b): FCA does not apply to private agricultural land; eliminate option (a): no central law protects farm trees; confirm option (d): state tree preservation orders are the applicable regulatory instrument."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap in option (b) correctly identifies FCA 1980 as a forest protection law but incorrectly applies it to private agricultural land. FCA's jurisdiction is 'forest land' — legally notified RFA and deemed forests. A farmer's boundary trees on agricultural land do not fall within this jurisdiction. The applicable instrument is the state government's tree preservation order, which varies significantly across states.",
+      "final_explanation": "Trees on private agricultural land occupy a complex regulatory space: counted as tree cover by FSI but not protected by the central FCA 1980, they fall under state-level tree preservation orders whose stringency varies widely.\n\nScenario application: The farmer's land is private agricultural land — outside RFA and Godavarman's deemed forest coverage. FCA 1980 does not apply.\n\n• Option (a) — Incorrect: The state government does not need to acquire the land for the trees to be regulated. Tree preservation orders restrict felling on private land without acquisition.\n• Option (b) — Incorrect: FCA 1980 applies only to forest land (RFA and deemed forests). Ecological significance is not a trigger for FCA applicability on private agricultural land.\n• Option (c) — Incorrect: The farmer cannot fell freely — state tree preservation orders typically require permission even for trees on private land.\n• Option (d) — Correct: State tree preservation orders regulate the felling of trees on private agricultural land. The farmer must obtain permission from the relevant state authority. This regulatory framework is why farmers in many states are disincentivised from planting trees on agricultural land.\n\nValue Addition:\n• The policy contradiction between promoting agroforestry (National Agroforestry Policy 2014) and state felling restrictions is a recognised governance gap.\n• Reform recommendations include allowing free transit and felling of farm-grown trees to boost voluntary planting.\n• Trees on private agricultural land contribute to FSI's tree cover statistics but lack central law protection."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A farmer in Karnataka has maintained a boundary plantation of old teak trees on his agricultural land for decades. The trees are large, ecologically significant, and provide canopy cover to surrounding fields. The farmer now wishes to fell some trees to meet a financial need. The land is not part of any Recorded Forest Area and has not been notified under any forest law. Which of the following correctly describes the regulatory position?\n\n(a) The state government must first acquire the land before the trees can be regulated, as private agricultural land cannot be directly restricted under forest law\n(b) The farmer must obtain prior clearance under the Forest Conservation Act 1980 since the trees are ecologically significant old-growth specimens\n(c) The farmer can freely fell the trees since private agricultural land is outside the scope of all forest regulations\n(d) The farmer would typically require permission under the state government's tree preservation orders, which regulate felling of trees on private land including agricultural holdings",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3d40a513-dea3-40ab-a5a9-dfdb5bca00c9",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Bamboo as Forest Cover: Classification Controversy and Legal Amendment"
+      ],
+      "subject_que_no": 2280,
+      "overall_que_no": 15424
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Bamboo 2017 amendment — inside vs outside forest applicability",
+      "statement_analysis": [
+        {
+          "statement": "The Indian Forest (Amendment) Act 2017 reclassified bamboo growing both inside and outside recorded forest areas from 'tree' to 'grass,' removing all transit permit requirements uniformly.",
+          "verdict": "Incorrect",
+          "reason": "The 2017 amendment reclassified bamboo as 'grass' only outside recorded forest areas. Bamboo inside recorded forest areas remains classified under the Indian Forest Act 1927 framework and still requires transit permits."
+        },
+        {
+          "statement": "Prior to the 2017 amendment, bamboo was classified as a 'tree' under the Indian Forest Act 1927, requiring transit permits for its movement even when grown on private agricultural land.",
+          "verdict": "Correct",
+          "reason": "Bamboo's classification as a 'tree' under IFA 1927 meant transit permits were mandatory for its movement regardless of where it was grown — this disincentivised bamboo cultivation on private land."
+        },
+        {
+          "statement": "The 2017 amendment's primary intended effect was to incentivise bamboo cultivation on private and agricultural land by removing bureaucratic barriers to its commercial use outside forests.",
+          "verdict": "Correct",
+          "reason": "The explicit policy objective of the 2017 reclassification was to make bamboo cultivation economically attractive for farmers by allowing free movement of bamboo grown outside recorded forest areas."
+        }
+      ],
+      "strong_distractor": "d — Students who recall the 2017 amendment removing transit permit requirements may accept Statement 1 as correct, missing the crucial 'inside vs outside forest' distinction.",
+      "elimination_logic": [
+        "Statement 1: The 2017 amendment applies only outside recorded forest areas — applying it uniformly to areas inside forests is a scope-extension error. Statement 1 is NOT correct.",
+        "Statement 2: Pre-2017, bamboo classified as 'tree' meant transit permits applied everywhere — this is factually correct, so Statement 2 should NOT be selected as incorrect.",
+        "Statement 3: The incentivisation of private bamboo cultivation was the stated policy goal — factually correct, so Statement 3 should NOT be selected.",
+        "Only Statement 1 is NOT correct — matches option (a) [1 only]."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 1 extends the 2017 amendment's reclassification to include bamboo inside recorded forest areas — precisely the area where the amendment does not apply. Bamboo inside forests remains governed by the old framework. Students who recall 'bamboo reclassified as grass' without the inside/outside forest qualifier will accept Statement 1 as correct.",
+      "final_explanation": "The Indian Forest (Amendment) Act 2017 is a surgical reclassification — its scope is deliberately limited to bamboo outside recorded forest areas to avoid undermining FCA 1980 protections for forest land.\n\n• Statement 1 — NOT correct: The reclassification applies only outside recorded forest areas. Bamboo inside forests continues to be treated as a tree species under IFA 1927 and remains subject to transit permit requirements and FCA regulation.\n• Statement 2 — Correct: Pre-2017, bamboo's 'tree' status under IFA 1927 required transit permits everywhere, making bamboo farming commercially burdensome for private landowners.\n• Statement 3 — Correct: The amendment's explicitly stated purpose was to make bamboo cultivation attractive on agricultural and private land, boost India's bamboo economy, and reduce import dependence — a rural livelihood and climate-smart agriculture initiative.\n\nOnly Statement 1 is NOT correct → option (a).\n\nValue Addition:\n• India is the world's second-largest bamboo producer — the 2017 amendment aimed to unlock this potential.\n• Bamboo sequesters carbon rapidly and is used in construction, textiles, and handicrafts.\n• Northeast India, which has vast bamboo forests inside recorded forest areas, is not freed from transit permits by the 2017 amendment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the Indian Forest (Amendment) Act 2017 and bamboo classification:\n\n1. The Indian Forest (Amendment) Act 2017 reclassified bamboo growing both inside and outside recorded forest areas from 'tree' to 'grass,' removing all transit permit requirements uniformly.\n2. Prior to the 2017 amendment, bamboo was classified as a 'tree' under the Indian Forest Act 1927, requiring transit permits for its movement even when grown on private agricultural land.\n3. The 2017 amendment's primary intended effect was to incentivise bamboo cultivation on private and agricultural land by removing bureaucratic barriers to its commercial use outside forests.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4d80c790-aa84-4d46-a02a-87dbe987a6eb",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Agroforestry and Orchards: Counted in Forest Cover or Tree Cover?",
+        "Carbon Stock vs Forest Cover: Why the Two Can Diverge"
+      ],
+      "subject_que_no": 2281,
+      "overall_que_no": 15425
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Plantation-driven forest cover increase masks biodiversity loss and carbon quality",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who correctly identify both A and R as true facts but assume they are connected by correlation rather than causation will choose (b), missing that R is actually the correct causal mechanism explaining A.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? Yes. India's forest cover statistics have shown increases partly driven by expansion of commercial plantations and agroforestry patches that meet FSI's physical criteria.",
+        "Step 2 — Is Reason (R) correct? Yes. FSI's satellite sensor cannot distinguish between a dense monoculture plantation and a biologically rich natural forest of the same canopy density — both appear identically in the satellite data.",
+        "Step 3 — Does R causally explain A? Yes. It is precisely because FSI's methodology captures canopy density rather than species diversity or ecological richness that commercial plantations inflate the forest cover figure — R is the mechanistic explanation for why A occurs.",
+        "A correct + R correct + R explains A → option (a)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap tries to make students doubt whether R truly causes A — they might think the increase in forest cover happens for other reasons (genuine afforestation) and R is merely a coincidental fact. The key insight is that R is not just coincidentally true — it is the specific mechanism (satellite inability to distinguish plantation from natural forest) that allows plantation expansion to be recorded as forest cover increase, directly causing the pattern described in A.",
+      "final_explanation": "The connection between plantation-driven forest cover gains and biodiversity/carbon quality loss is one of the most policy-relevant concepts in India's forest governance debate.\n\nAssertion (A): Correct. India's ISFR has shown periods of forest cover increase that critics attribute partly to commercial plantation expansion (teak, eucalyptus, rubber, mango orchards) rather than natural forest recovery. Since FSI counts any patch meeting the physical criteria, commercial plantations that cross 1 ha and 10% canopy threshold are counted.\n\nReason (R): Correct. FSI's LISS-III satellite sensor reads spectral reflectance and canopy density — it cannot differentiate a biodiverse sal forest from a monoculture eucalyptus plantation of identical canopy density. This is an acknowledged limitation of the remote sensing methodology.\n\nCausal relationship: R directly causes A — the satellite's inability to distinguish by species composition is precisely the mechanism that allows plantation-driven gains to be reported as equivalent to natural forest recovery in ISFR statistics.\n\nAnswer: (a)\n\nValue Addition:\n• ISFR has begun publishing data on carbon stock separately to partially address this quality-quantity gap.\n• Eucalyptus and rubber monocultures score high on canopy density but low on biodiversity and water retention.\n• Calls for a 'natural forest vs plantation' breakdown in ISFR primary statistics are growing among conservation scientists."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): India's reported forest cover figures have, on some occasions, shown increases that conservation scientists argue partly reflect expansion of commercial monoculture plantations rather than recovery of natural forests, masking actual biodiversity and ecological quality loss.\n\nReason (R): The satellite-based remote sensing methodology used by FSI for forest cover assessment detects canopy density but cannot distinguish between a biodiverse native forest and a monoculture commercial plantation of identical canopy density.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9580d78d-6ecc-4c69-ab53-d78d9a374e5d",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Recorded Forest Area (RFA) vs Forest Cover: The Critical Overlap Problem",
+        "Forest Conservation Act 1980: Applicability to Forest Cover vs RFA"
+      ],
+      "subject_que_no": 2282,
+      "overall_que_no": 15426
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "FCA 1980, Godavarman 1996, Van Protection Act 2023 — chronological sequence",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know Godavarman and FCA 1980 are both pre-2000 may misplace them relative to each other, selecting an option where Godavarman precedes FCA.",
+      "elimination_logic": [
+        "FCA 1980 is a legislated Act — year is precise and well-known; must come first.",
+        "Godavarman judgment is 1996 — Supreme Court case after FCA 1980; second in sequence.",
+        "Van (Protection) Act 2023 replaced FCA 1980 — the most recent event; must come last.",
+        "Only option (c) places them in the sequence FCA 1980 → Godavarman 1996 → Van Act 2023."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap reverses FCA 1980 and Godavarman 1996. Students who know Godavarman expanded forest definition may wonder if it preceded FCA — in fact, the Godavarman petition was filed in 1995 and the pivotal order came in 1996, sixteen years after FCA was enacted. Options are designed so that reversing any two events creates a plausible-looking but wrong sequence.",
+      "final_explanation": "Three milestones define the evolution of India's legal framework for forest protection, and their sequence tests precise chronological knowledge.\n\nCorrect sequence:\n1. Forest Conservation Act 1980 — enacted by Parliament; required central government approval for diversion of forest land; the foundational statute.\n2. Godavarman Judgment 1996 — Supreme Court expanded the definition of 'forest' to include deemed forests and areas in government records, judicially extending FCA's protective reach.\n3. Van (Protection) Act 2023 — replaced FCA 1980; introduced definitional changes and exclusions that generated controversy over whether some Godavarman protections were diluted.\n\nWrong options place Godavarman before FCA 1980 or misplace the 2023 Act.\n\nValue Addition:\n• FCA 1980 required only two approvals (state + centre) — the process was streamlined over decades.\n• Godavarman (1996) created the Central Empowered Committee to advise the Supreme Court on forest diversion cases.\n• Van (Protection) Act 2023 exempted certain strategic infrastructure projects from prior clearance — a key controversy."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological order of legislative and judicial developments related to India's forest protection framework?\n\n1. Enactment of the Forest Conservation Act\n2. Supreme Court's Godavarman judgment expanding the definition of 'forest'\n3. Enactment of the Van (Protection) Act replacing the earlier forest conservation legislation\n\n(a) 2 → 1 → 3\n(b) 2 → 3 → 1\n(c) 1 → 2 → 3\n(d) 1 → 3 → 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f1202717-1264-4d4a-9bc7-6c334f25a177",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Definition of Forest Cover: FSI Criteria and Canopy Density Threshold",
+        "Definition of Tree Cover: Patches Outside Recorded Forest Area"
+      ],
+      "subject_que_no": 2283,
+      "overall_que_no": 15427
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "FAO vs FSI forest definition — minimum area criterion difference",
+      "statement_analysis": null,
+      "strong_distractor": "a — 'FSI: minimum area 0.5 ha, canopy ≥10%' exploits the FAO standard and applies it to FSI — students who remember '0.5 ha' from global forest definition context will choose this.",
+      "elimination_logic": [
+        "FSI uses 1 hectare minimum, not 0.5 ha — eliminate option (a) which assigns 0.5 ha to FSI.",
+        "FAO uses 0.5 ha minimum, 10% canopy, and 5m height potential — confirm option (b) as correct pairing for FAO.",
+        "Option (c) assigns 25% canopy to FSI — FSI uses 10%; eliminate.",
+        "Option (d) assigns 5-year rotation criterion to FSI — no such criterion exists in FSI's definition; eliminate."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges FSI's and FAO's forest definitions. FAO uses 0.5 ha minimum; FSI uses 1 ha. Students who recall the 10% canopy threshold (common to both) but confuse the area criterion will apply FAO's 0.5 ha standard to FSI. The pair in option (a) is a precise entity-swap of the area criterion between the two organisations.",
+      "final_explanation": "Both FSI and FAO use a 10% canopy density threshold but differ in minimum area and additional criteria — a comparison frequently tested in UPSC.\n\n• Option (a) — Incorrect: FSI uses 1 hectare minimum, not 0.5 ha. The 0.5 ha criterion belongs to FAO's global definition.\n• Option (b) — Correct: FAO's global forest definition specifies 0.5 ha minimum area, 10% canopy cover, and a height potential of 5 metres. This is the internationally used benchmark for global deforestation statistics.\n• Option (c) — Incorrect: FSI's canopy threshold is 10%, not 25%. A 25% threshold would exclude all Open Forests from the count.\n• Option (d) — Incorrect: FSI's definition has no rotation or harvest cycle criterion — it is a purely physical biophysical assessment.\n\nValue Addition:\n• The FAO Global Forest Resources Assessment uses the 0.5 ha / 10% / 5m standard for international comparisons.\n• India's ISFR figures are not directly comparable to FAO figures because of the differing minimum area criterion.\n• FAO also excludes land predominantly used for agriculture — a distinction FSI does not make."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched in the context of forest cover definitions used by different organisations?\n\n(a) Forest Survey of India (FSI) — Minimum area of 0.5 hectare with canopy density of 10% or more\n(b) Food and Agriculture Organization (FAO) — Minimum area of 0.5 hectare with canopy density of 10% or more and height potential of 5 metres\n(c) Forest Survey of India (FSI) — Minimum area of 1 hectare with canopy density of 25% or more\n(d) Forest Survey of India (FSI) — Minimum area of 1 hectare with canopy density of 10% or more and a maximum rotation cycle of 50 years",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7a2b6ee8-1eff-4177-928f-058c220f95de",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Mangrove Cover: Separate Reporting within Forest Cover Framework",
+        "Canopy Density Classes: VDF, MDF, Open Forest, and Scrub"
+      ],
+      "subject_que_no": 2284,
+      "overall_que_no": 15428
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Mangrove density classification within forest cover framework",
+      "statement_analysis": [
+        {
+          "statement": "Mangrove cover in India is reported separately within the forest cover section of ISFR, not under the tree cover category.",
+          "verdict": "Correct",
+          "reason": "FSI explicitly reports mangrove cover as a sub-component of forest cover with its own density classification — it is not counted as tree cover."
+        },
+        {
+          "statement": "Mangroves can be classified as Very Dense, Moderately Dense, or Open — using the same canopy density thresholds applied to other forest types.",
+          "verdict": "Correct",
+          "reason": "ISFR uses the identical canopy density classification (>70% VDF, 40–70% MDF, 10–40% Open) for mangroves, with the same thresholds as for inland forests."
+        },
+        {
+          "statement": "An increase in mangrove area always reflects an increase in India's total forest cover, regardless of the density category of the new growth.",
+          "verdict": "Incorrect",
+          "reason": "An increase in mangrove area in the Open density category (10–40% canopy) does increase forest cover area, but 'always reflects an increase' is too absolute — and more importantly, low-density growth contributes minimally to ecological quality even as it adds to area count. However, the critical error is the word 'always' — new mangrove growth below 10% canopy would be classified as Scrub and not add to forest cover."
+        },
+        {
+          "statement": "The Coastal Regulation Zone (CRZ) notification provides legal protection for mangroves that is independent of whether they are classified as Very Dense, Moderately Dense, or Open.",
+          "verdict": "Correct",
+          "reason": "CRZ notification designates mangroves as CRZ-I (most ecologically sensitive) regardless of their density class — legal protection under CRZ is not conditional on reaching a particular canopy density threshold."
+        }
+      ],
+      "strong_distractor": "c — Students may reject Statement 3 but also incorrectly doubt Statement 4, thinking CRZ protection applies only to dense mangroves, leading them to count only two correct statements.",
+      "elimination_logic": [
+        "Statement 1: Mangroves are in forest cover, not tree cover — correct.",
+        "Statement 2: Same VDF/MDF/Open thresholds apply to mangroves — correct.",
+        "Statement 3: The qualifier 'always' fails for mangrove growth at <10% canopy (Scrub), which does not add to forest cover area — Statement 3 is incorrect.",
+        "Statement 4: CRZ-I designation covers all mangroves irrespective of density — correct.",
+        "Three statements correct (1, 2, 4) — 'Only three' is option (c)."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 3 uses 'always' to make an otherwise partially true statement false. New mangrove growth at sub-10% canopy density enters the Scrub category, not forest cover — so area increases in mangroves do not always translate to forest cover increases. Students focused on the general truth (mangroves are in forest cover) miss this density-dependent exception.",
+      "final_explanation": "Mangroves receive special treatment in ISFR — separately reported within forest cover — but follow the same density classification rules as other forest types.\n\n• Statement 1 — Correct: ISFR contains a dedicated mangrove chapter within the forest cover section. Mangrove area is not subsumed into the generic forest cover figure without acknowledgment, nor is it placed in tree cover.\n• Statement 2 — Correct: The VDF (>70%), MDF (40–70%), and Open (10–40%) thresholds apply uniformly to mangroves.\n• Statement 3 — Incorrect: 'Always' is the error. New mangrove growth that remains below 10% canopy density would be classified as Scrub and excluded from forest cover area. Growth below this threshold does not add to the forest cover area count.\n• Statement 4 — Correct: CRZ notification designates mangrove areas as CRZ-I regardless of density. Legal protection under environmental law is not conditional on ecological density class.\n\nThree statements correct (1, 2, 4) → option (c).\n\nValue Addition:\n• India's total mangrove cover is approximately 4,992 sq km (ISFR 2021) — West Bengal leads with Sundarbans.\n• Mangroves are among the most carbon-dense ecosystems per unit area — 'blue carbon' storage.\n• CRZ-I areas cannot be developed — strongest coastal protection category."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding mangrove cover and its classification in India's forest assessment framework:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Mangrove cover in India is reported separately within the forest cover section of ISFR, not under the tree cover category."
+          ],
+          [
+            "2",
+            "Mangroves can be classified as Very Dense, Moderately Dense, or Open — using the same canopy density thresholds applied to other forest types."
+          ],
+          [
+            "3",
+            "An increase in mangrove area always reflects an increase in India's total forest cover, regardless of the density category of the new growth."
+          ],
+          [
+            "4",
+            "The Coastal Regulation Zone (CRZ) notification provides legal protection for mangroves that is independent of whether they are classified as Very Dense, Moderately Dense, or Open."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "651b7cd2-0cd6-4838-a975-35f9e281309b",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Forest Cover Change vs Net Change: Gross Loss vs Gross Gain Distinction",
+        "Forest Cover in Northeastern India: High Cover, High Loss, and Data Interpretation"
+      ],
+      "subject_que_no": 2285,
+      "overall_que_no": 15429
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Net ISFR figure masking regional gross deforestation in northeast India",
+      "statement_analysis": null,
+      "strong_distractor": "a — 'India's forest cover has genuinely increased and northeast India specifically has gained' sounds like the headline narrative from positive ISFR press releases — students who accept ISFR net figures at face value choose this.",
+      "elimination_logic": [
+        "ISFR reports net change — a positive national net figure is compatible with significant gross losses in specific regions.",
+        "Northeast India simultaneously shows high gross loss (jhum, encroachment) and plantation states show gross gains — the net can be positive nationally while northeast suffers net loss.",
+        "Global Forest Watch using gross metrics would capture this regional loss even if national ISFR shows net gain.",
+        "Option (c) — net national figure positive while specific regions experience gross loss — is the correct interpretation principle."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap in option (a) takes the positive ISFR national headline and incorrectly extends it to claim northeast India also gained. The ISFR net methodology can produce a positive national number even while a specific region is experiencing net or gross forest loss — plantation gains in states like Andhra Pradesh or Telangana can numerically offset northeast losses in the national net figure.",
+      "final_explanation": "The net reporting methodology of ISFR is designed for national-level tracking but can obscure regional realities — particularly in ecologically critical northeastern states.\n\nScenario application: A positive national net forest cover figure from ISFR is compatible with significant gross deforestation in northeast India. Plantation expansion in southern or central states can numerically offset northeastern losses in the national net calculation.\n\n• Option (a) — Incorrect: A positive national net figure does not imply northeast India also gained. Regional disaggregation in ISFR often shows northeastern states declining even when the national figure improves.\n• Option (b) — Incorrect: ISFR cannot capture sub-annual dynamics. Jhum cycles cause multi-year fluctuations, not within-year measurement errors — and cloud cover affects data quality, not the fundamental net methodology.\n• Option (c) — Correct: This is the precise limitation of net reporting. High gross loss in northeast (jhum, encroachment) can be masked by high gross gain in plantation states. The net national figure is positive, but the ecological loss in northeast is real and substantial.\n• Option (d) — Incorrect: ISFR's canopy density threshold (10%) does not exclude jhum-cycle forests systematically — jhum fallow areas temporarily below 10% may be captured as scrub, not as open forest, but this is a classification effect, not a deliberate exclusion.\n\nValue Addition:\n• Global Forest Watch's gross loss data for northeast India routinely shows higher loss figures than ISFR's net approach suggests.\n• Mizoram, Nagaland, and Manipur have shown declining forest cover in multiple consecutive ISFRs.\n• Policy response: India's ISFR now includes state-wise disaggregated data to improve regional accountability."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The India State of Forest Report for a particular year shows a net increase of 1,500 square kilometres in India's total forest cover compared to the previous report. Simultaneously, environmental researchers using Global Forest Watch data report significant forest loss in northeast India during the same period. A policymaker asks for the most accurate interpretation of these apparently contradictory findings. Which of the following best explains the apparent contradiction?\n\n(a) Both reports are correct — India's forest cover increased and northeast India specifically gained forest cover; the apparent contradiction arises from different baseline years used by the two platforms\n(b) FSI's satellite cannot capture the rapid jhum cultivation cycles within a biennial reporting period, causing ISFR to undercount northeastern forest loss while GFW captures it in near-real time\n(c) ISFR reports net change nationally — large plantation-driven gains in other regions can offset substantial gross deforestation in northeast India, producing a positive national net figure while the northeast experiences real forest loss\n(d) ISFR's 10% canopy density threshold systematically excludes jhum-cycle forests from the forest cover count, while GFW counts all vegetated land irrespective of canopy density",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "17601c23-fc7f-4190-acb4-e685962a2141",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Godavarman Judgment (1996): Expanding 'Forest' Beyond Legal Boundaries",
+        "Definition of Tree Cover: Patches Outside Recorded Forest Area"
+      ],
+      "subject_que_no": 2286,
+      "overall_que_no": 15430
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Godavarman judgment expanded forest definition to include deemed forests",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'Van (Protection) Act 2023' sounds like the most recent and therefore the most expansive instrument — students who associate the newer law with broader coverage will choose this.",
+      "elimination_logic": [
+        "The blank requires a judicial/legal instrument that extended forest protection beyond formally notified RFA to include areas conforming to the dictionary meaning of 'forest.'",
+        "This description precisely matches the Godavarman judgment (1996) — the Supreme Court's expansive interpretation.",
+        "Van (Protection) Act 2023 replaced FCA 1980 but is criticized for potentially narrowing, not expanding, Godavarman protections.",
+        "Forest Conservation Act 1980 applies to notified forest land — it preceded and was the subject of Godavarman's expansion; it did not itself create the deemed forest concept."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap assigns the Godavarman judgment's effect to another instrument — either FCA 1980 (which predated and was actually limited in scope compared to Godavarman) or Van Act 2023 (which succeeded it). Students who remember 'a Supreme Court case expanded forest protection' without recalling the specific case name may select a legislative alternative.",
+      "final_explanation": "The Godavarman judgment created the 'deemed forest' concept in Indian environmental law — forests that are legally protected not because of formal notification but because they meet either the government records criterion or the dictionary meaning criterion.\n\n• Option (a) — Correct: The T.N. Godavarman Thirumulpad judgment (1996) directed that forest protection extends to all areas in government records as forest and to areas conforming to the dictionary meaning — creating the 'deemed forest' concept that partially blurs the line between forest cover and tree cover.\n• Option (b) — Incorrect: Forest Conservation Act 1980 applies to notified forest land; it did not originate the deemed forest concept — that was Godavarman's judicial contribution.\n• Option (c) — Incorrect: Van (Protection) Act 2023 replaced FCA 1980 and has been criticized for potentially narrowing some Godavarman protections through definitional changes.\n• Option (d) — Incorrect: The Wildlife Protection Act 1972 protects wildlife and their habitats within Protected Areas — it does not define or expand the concept of 'forest' for FCA purposes.\n\nValue Addition:\n• Godavarman is an ongoing writ petition — one of the longest-running environmental cases in Indian judicial history.\n• 'Deemed forests' identified under Godavarman are mapped by state governments and expert committees.\n• Tree cover areas on private land could theoretically become 'deemed forests' under a broad Godavarman interpretation — a contested legal question."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The legal instrument that extended the protective ambit of Indian forest law beyond formally notified Recorded Forest Areas to include areas conforming to the dictionary meaning of 'forest' and areas recorded as forest in government records, regardless of ownership, was the ________.\n\n(a) T.N. Godavarman Thirumulpad judgment of the Supreme Court (1996)\n(b) Forest Conservation Act 1980, through its Section 2 applicability clause\n(c) Van (Protection) Act 2023, which broadened forest definitions upon replacing the Forest Conservation Act\n(d) Wildlife Protection Act 1972, through its provisions on critical wildlife habitats",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d51d59c0-86e9-4ea1-bf61-58231d2a9a90",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "CAMPA Funds and Compensatory Afforestation: Forest Cover or Tree Cover Creation?",
+        "National Forest Policy 1988: Forest Cover Target and Its Basis"
+      ],
+      "subject_que_no": 2287,
+      "overall_que_no": 15431
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "CAMPA scope and funding mechanism — what it funds vs what it does not",
+      "statement_analysis": null,
+      "strong_distractor": "a — 'Compensatory plantations on degraded non-forest land' sounds like it could be an exception to CAMPA's scope — students unsure of CAMPA's exact mandate may incorrectly flag this as the odd one out.",
+      "elimination_logic": [
+        "Identify what three options have in common: all are legitimate activities funded or governed by CAMPA.",
+        "Compensatory plantations on non-forest land, wildlife management in affected areas, and infrastructure for forest protection are all CAMPA-eligible expenditures.",
+        "Option (d) — 'Direct payment of compensation to displaced forest communities as a right under CAMPA' — CAMPA funds are not for direct cash compensation to displaced people; that is governed by the Forest Rights Act and state rehabilitation policies.",
+        "Option (d) is the odd one out — it describes an activity outside CAMPA's mandate."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap in option (d) invents a CAMPA mandate that does not exist — direct cash compensation to displaced forest communities. Students who confuse CAMPA's environmental fund with rehabilitation entitlements under the Forest Rights Act 2006 will not identify this as the odd one out. CAMPA funds are restricted to afforestation, forest management, and related ecosystem activities.",
+      "final_explanation": "CAMPA (established under the CAMPA Act 2016) is specifically a fund for forest-related environmental restoration activities — its mandate is ecological, not social welfare.\n\n• Option (a) — Part of CAMPA's mandate: Compensatory plantations on degraded non-forest land are CAMPA's primary deployment activity — net present value funds are used for this purpose.\n• Option (b) — Part of CAMPA's mandate: Wildlife protection measures and habitat management in areas affected by forest diversion are eligible CAMPA expenditures.\n• Option (c) — Part of CAMPA's mandate: Infrastructure for forest protection (fire lines, patrolling equipment, nurseries) is an eligible category under CAMPA guidelines.\n• Option (d) — NOT part of CAMPA's mandate: Direct monetary compensation to displaced forest-dependent communities is governed by the Forest Rights Act 2006 and state rehabilitation policies — not by CAMPA. This is the odd one out.\n\nValue Addition:\n• CAMPA funds are collected from project proponents as 'net present value' of diverted forest — a market-based conservation finance mechanism.\n• State governments receive CAMPA funds but must use them per approved plans — central oversight is maintained.\n• Critics argue CAMPA effectively allows rich project developers to 'buy' forest diversion approvals."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four activities fall within the legitimate mandate of the Compensatory Afforestation Management and Planning Authority (CAMPA) as established under the CAMPA Act 2016. Which one does NOT belong?\n\n(a) Funding compensatory plantations on degraded non-forest land to offset forest area diverted for development projects\n(b) Supporting wildlife management and habitat protection measures in areas ecologically affected by forest diversion\n(c) Creating forest protection infrastructure such as fire management systems, nurseries, and patrolling equipment\n(d) Providing direct monetary compensation to forest-dwelling communities displaced by forest diversion as a statutory right under CAMPA",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1723e46f-cf3c-42f0-99c2-e0f9255ccc5b",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Green India Mission (GIM): Targets Spanning Both Forest Cover and Tree Cover",
+        "National Forest Policy 1988: Forest Cover Target and Its Basis"
+      ],
+      "subject_que_no": 2288,
+      "overall_que_no": 15432
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "Policy instruments and their specific forest targets — GIM vs NFP 1988 vs CAMPA vs ISFR",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students may correctly match GIM's 5+5 million hectare target but conflate the 33% target with GIM rather than NFP 1988, leading to an incorrect combination.",
+      "elimination_logic": [
+        "Anchor on NFP 1988: the 33% combined forest and tree cover target is NFP 1988's defining provision — matches A with 3.",
+        "GIM's defining feature: 5 million ha new + 5 million ha quality improvement — matches B with 1.",
+        "ISFR's defining feature: biennial publication by FSI tracking forest cover and tree cover separately — matches C with 4.",
+        "CAMPA's defining feature: compensatory afforestation funded by NPV collected from forest land diversion — matches D with 2; confirm option (b)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges GIM and NFP 1988 targets. Students who know GIM addresses forest cover expansion may assign the 33% target to GIM — in fact, 33% is NFP 1988's target, while GIM's target is expressed in absolute hectares (5+5 million). The options are designed so that this single swap cascades into an entirely wrong matching combination.",
+      "final_explanation": "India's forest governance landscape involves multiple policy instruments with distinct targets — matching them correctly tests whether students have disaggregated their knowledge.\n\nCorrect pairings:\n• A (National Forest Policy 1988) — 3 (33% of geographical area under forest and tree cover): NFP 1988's headline target, applied to the combined forest + tree cover figure.\n• B (Green India Mission) — 1 (5 million ha new cover + 5 million ha quality enhancement): GIM's dual target — both quantitative expansion and qualitative improvement.\n• C (India State of Forest Report) — 4 (Biennial publication reporting forest cover and tree cover separately): ISFR's defining characteristics — periodicity and separate reporting structure.\n• D (CAMPA) — 2 (Compensatory afforestation funded by NPV from forest land diversion): CAMPA's defining mechanism — economic instrument for ecological replacement.\n\nTrap pairings swap GIM and NFP 1988 targets or assign CAMPA's mechanism to ISFR.\n\nValue Addition:\n• NFP 1988 is the only forest policy to specify the 66% hill-state target.\n• GIM is funded separately from CAMPA — through the National Adaptation Fund.\n• ISFR has been published since 1987 — the 2021 edition was the 17th report."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Policy Instrument / Report) with List II (Key Feature or Target):",
+        "columns": [
+          "List I — Policy Instrument",
+          "List II — Key Feature / Target"
+        ],
+        "rows": [
+          [
+            "A. National Forest Policy 1988",
+            "1. Target: increase forest/tree cover by 5 million ha and improve quality of another 5 million ha"
+          ],
+          [
+            "B. Green India Mission",
+            "2. Compensatory afforestation funded by Net Present Value collected from diversion of forest land"
+          ],
+          [
+            "C. India State of Forest Report (ISFR)",
+            "3. Target: 33% of India's geographical area under combined forest and tree cover"
+          ],
+          [
+            "D. CAMPA",
+            "4. Biennial publication by FSI reporting forest cover and tree cover as separate categories"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-2, C-4, D-1\n(d) A-1, B-2, C-3, D-4"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "052f149d-cd38-4d59-afe7-dc306742c63d",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Private Forests and Tree Cover on Private Land: Regulatory Ambiguity",
+        "Agroforestry and Orchards: Counted in Forest Cover or Tree Cover?"
+      ],
+      "subject_que_no": 2289,
+      "overall_que_no": 15433
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Policy contradiction — agroforestry promotion vs tree felling restrictions on private land",
+      "statement_analysis": [
+        {
+          "statement": "Under current Indian policy, trees grown by farmers on their agricultural land cannot be felled or transported without permission from state authorities, which discourages voluntary tree planting.",
+          "verdict": "Correct",
+          "reason": "State tree preservation orders regulate felling on private agricultural land — in many states, even farm-grown trees require cutting and transit permits, creating a disincentive for voluntary agroforestry."
+        },
+        {
+          "statement": "The National Agroforestry Policy 2014 explicitly resolved the regulatory contradiction between promoting tree planting on private land and restricting the felling of such trees by granting farmers unrestricted rights to fell and sell trees on their own agricultural holdings.",
+          "verdict": "Incorrect",
+          "reason": "National Agroforestry Policy 2014 promoted agroforestry expansion but did not grant unrestricted felling rights — the felling restriction under state tree preservation orders was not uniformly removed by this policy."
+        },
+        {
+          "statement": "Agroforestry patches on private land covering more than 1 hectare with adequate canopy density can be counted as forest cover in FSI's biennial assessment.",
+          "verdict": "Correct",
+          "reason": "FSI's physical criteria (≥1 ha, ≥10% canopy) apply regardless of land tenure or agricultural designation — qualifying agroforestry patches are captured as forest cover."
+        }
+      ],
+      "strong_distractor": "d — Students may accept all three statements, believing the National Agroforestry Policy 2014 fully resolved the felling restriction contradiction since that is the policy's stated intent.",
+      "elimination_logic": [
+        "Statement 1: State felling restrictions creating a planting disincentive is a documented policy critique — correct.",
+        "Statement 2: National Agroforestry Policy 2014 promoted agroforestry but did not grant unrestricted felling rights uniformly — 'explicitly resolved' and 'unrestricted rights' make this incorrect.",
+        "Statement 3: Agroforestry patches meeting FSI's physical criteria are counted as forest cover — correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — option (c)."
+      ],
+      "upsc_trap_explanation": "The partial-truth trap in Statement 2 takes a real policy (Agroforestry Policy 2014) and overstates its effect — claiming it 'explicitly resolved' the contradiction and granted 'unrestricted' rights. In reality, the policy provided incentives and a framework but did not override state tree preservation orders. Students who know the policy exists and associate it with removing agroforestry barriers will accept Statement 2.",
+      "final_explanation": "The agroforestry-felling restriction contradiction is a well-documented governance gap that affects voluntary tree cover expansion on private land.\n\n• Statement 1 — Correct: Many Indian states require transit permits and cutting permissions even for trees grown by farmers on their own agricultural land. This creates a rational disincentive — why plant trees if you cannot sell them freely?\n• Statement 2 — Incorrect: National Agroforestry Policy 2014 provided a framework for promoting agroforestry through extension support, subsidies, and market linkages, but it did not legislatively override state tree preservation orders. The felling restriction contradiction persists in most states.\n• Statement 3 — Correct: FSI's satellite cannot distinguish legal land tenure. An agroforestry patch on private land that crosses the 1-hectare and 10% canopy thresholds is recorded as forest cover — a key source of criticism that forest cover statistics overstate natural forest health.\n\nValue Addition:\n• Reform recommendation: Allow farmers to fell and transport self-grown trees freely to incentivise voluntary afforestation — an ongoing policy debate.\n• Some states (Haryana, UP) have relaxed felling rules for specific species like poplar and eucalyptus on agricultural land.\n• Agroforestry-as-forest-cover is one reason India's ISFR figures differ from measures of 'natural forest cover.'"
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about tree cover on private agricultural land in India:\n\n1. Under current Indian policy, trees grown by farmers on their agricultural land cannot be felled or transported without permission from state authorities, which discourages voluntary tree planting.\n2. The National Agroforestry Policy 2014 explicitly resolved the regulatory contradiction between promoting tree planting on private land and restricting the felling of such trees by granting farmers unrestricted rights to fell and sell trees on their own agricultural holdings.\n3. Agroforestry patches on private land covering more than 1 hectare with adequate canopy density can be counted as forest cover in FSI's biennial assessment.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d4ae3427-53da-44c1-85ad-44afd1a49d99",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "India State of Forest Report (ISFR): Structure, Periodicity, and Reporting Agency",
+        "Canopy Density Classes: VDF, MDF, Open Forest, and Scrub"
+      ],
+      "subject_que_no": 2290,
+      "overall_que_no": 15434
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "ISFR classification categories — what is included and excluded from forest cover",
+      "statement_analysis": [
+        {
+          "statement": "Open Forest (10–40% canopy density) is the most extensive forest cover category by area in India.",
+          "verdict": "Correct",
+          "reason": "Open Forest spans vast areas of central, peninsular, and dry zone India — it is consistently the largest single density class by area in ISFR."
+        },
+        {
+          "statement": "Scrub areas are included within forest cover statistics in ISFR under a separate sub-category distinct from Very Dense, Moderately Dense, and Open Forest.",
+          "verdict": "Incorrect",
+          "reason": "Scrub (canopy <10%) is explicitly excluded from forest cover in ISFR — it is recorded separately but does not contribute to the forest cover area total."
+        },
+        {
+          "statement": "ISFR reports bamboo-bearing areas and mangrove areas as separate categories within its overall forest cover framework.",
+          "verdict": "Correct",
+          "reason": "ISFR provides dedicated sections for both bamboo-bearing areas and mangrove cover within the forest cover assessment — both receive explicit sub-reporting."
+        },
+        {
+          "statement": "Very Dense Forest (canopy >70%) is the least extensive forest cover category by area in India.",
+          "verdict": "Correct",
+          "reason": "VDF is concentrated in a few ecologically rich regions (northeast, Andaman, Western Ghats) and is the smallest of the three counted density classes by total area."
+        }
+      ],
+      "strong_distractor": "b — Students may think two statements are correct, incorrectly accepting Statement 2 (Scrub is a separate included sub-category) while correctly accepting Statements 1 and 3 or 1 and 4.",
+      "elimination_logic": [
+        "Statement 1: Open Forest as the largest category by area — well-established ISFR pattern; correct.",
+        "Statement 2: Scrub is NOT included in forest cover — it is excluded; Statement 2 is incorrect.",
+        "Statement 3: Bamboo and mangrove receive separate ISFR sub-reporting within forest cover — correct.",
+        "Statement 4: VDF is the least extensive by area — concentrated in a few regions; correct.",
+        "Three statements correct (1, 3, 4) — 'Only three' is option (c)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in Statement 2 misassigns Scrub into the forest cover category as a 'separate sub-category.' Students who know ISFR mentions Scrub extensively may assume it is included in the forest cover total — in fact, Scrub data is presented in ISFR but as an excluded category below the forest cover threshold. Accepting Statement 2 leads to overcounting correct statements.",
+      "final_explanation": "ISFR's structure and what it includes/excludes in the forest cover total are frequently tested details.\n\n• Statement 1 — Correct: Open Forest (10–40% canopy) is India's most extensive forest density class — it dominates central India, dry peninsular zones, and significant portions of the Himalayan foothills.\n• Statement 2 — Incorrect: Scrub (<10% canopy) is recorded and mentioned in ISFR but is explicitly excluded from the forest cover area total. It is not a 'sub-category' of forest cover — it is below the classification threshold.\n• Statement 3 — Correct: ISFR dedicates separate sections to bamboo-bearing areas (by state) and mangrove cover — both are sub-reported within the forest cover framework.\n• Statement 4 — Correct: VDF is the most ecologically rich but geographically smallest density class — primarily found in northeast India, Andaman & Nicobar Islands, and parts of the Western Ghats.\n\nThree statements correct (1, 3, 4) → option (c).\n\nValue Addition:\n• VDF in northeast India is under the greatest threat from encroachment and jhum — protecting it is a national ecological priority.\n• The VDF→MDF→Open Forest→Scrub degradation trajectory is a key analytical lens in ISFR's policy recommendations.\n• ISFR's bamboo area data is used to track the impact of the 2017 reclassification on cultivation trends."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding the structure and content of India State of Forest Reports (ISFR):",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Open Forest (10–40% canopy density) is the most extensive forest cover category by area in India."
+          ],
+          [
+            "2",
+            "Scrub areas are included within forest cover statistics in ISFR under a separate sub-category distinct from Very Dense, Moderately Dense, and Open Forest."
+          ],
+          [
+            "3",
+            "ISFR reports bamboo-bearing areas and mangrove areas as separate categories within its overall forest cover framework."
+          ],
+          [
+            "4",
+            "Very Dense Forest (canopy >70%) is the least extensive forest cover category by area in India."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b8fa95df-f6b2-4841-99d0-dd20a6993ad7",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Forest Conservation Act 1980: Applicability to Forest Cover vs RFA",
+        "Van (Protection) Act 2023"
+      ],
+      "subject_que_no": 2291,
+      "overall_que_no": 15435
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Van Protection Act 2023 replacing FCA 1980 — continuity and controversy",
+      "statement_analysis": [
+        {
+          "statement": "The Van (Protection) Act 2023 was enacted by Parliament to replace the Forest Conservation Act 1980, and it introduced changes to the applicability criteria for prior approval requirements for forest land diversion.",
+          "verdict": "Correct",
+          "reason": "Van (Protection) Act 2023 is the successor legislation to FCA 1980, enacted in 2023. It retained the core prior approval framework but modified applicability criteria, creating controversy over whether certain categories of forest land lost protection."
+        },
+        {
+          "statement": "The Van (Protection) Act 2023 expanded the definition of 'forest' to include all lands that conform to the dictionary meaning of forest, thereby codifying the Godavarman judgment's expansion into statute.",
+          "verdict": "Incorrect",
+          "reason": "Van (Protection) Act 2023 is widely criticised for potentially narrowing protections relative to the Godavarman interpretation — particularly by restricting applicability to 'forests recorded in government records on or after October 25, 1980,' which critics argue excludes some deemed forests identified under Godavarman."
+        }
+      ],
+      "strong_distractor": "a — Students who associate new legislation with progressive expansion of protections will assume the 2023 Act codified and strengthened Godavarman's expansive interpretation, accepting both statements.",
+      "elimination_logic": [
+        "Statement 1: Van (Protection) Act 2023 did replace FCA 1980 and did change applicability criteria — this is documented legislative history; Statement 1 is correct.",
+        "Statement 2: The 2023 Act did not codify Godavarman's dictionary-meaning expansion — it is criticised for potentially restricting protection by linking applicability to government records from October 25, 1980 onwards, excluding some areas covered under Godavarman; Statement 2 is incorrect.",
+        "One correct, one incorrect — option (c) says Statement 1 correct, Statement 2 incorrect → option (c)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap makes students assume that a newer law must be more progressive than its predecessor. Van (Protection) Act 2023 is associated in UPSC preparation with environmental protection — students assume it strengthened the Godavarman interpretation. In fact, the controversy surrounding the 2023 Act centres precisely on whether it narrowed, not expanded, protections by restricting applicability based on a specific date-linked recording criterion.",
+      "final_explanation": "Van (Protection) Act 2023's relationship with the Godavarman judgment is a contentious and contemporary UPSC topic.\n\n• Statement 1 — Correct: The Van (Protection) Act 2023 replaced the Forest Conservation Act 1980. It maintained the requirement of prior central government approval for diversion of forest land but introduced revised applicability criteria — notably linking coverage to lands recorded in government records on or after October 25, 1980.\n• Statement 2 — Incorrect: Rather than codifying Godavarman's expansive 'dictionary meaning' interpretation, the 2023 Act's date-linked criterion is seen by environmental lawyers and conservationists as potentially excluding areas that the Godavarman judgment had brought under protection but that may not be in pre-1980 government records. The Act did not expand the definition — critics argue it contracted it.\n\nStatement 1 correct, Statement 2 incorrect → option (c).\n\nValue Addition:\n• Van (Protection) Act 2023 also exempted certain strategic and border infrastructure projects from the prior approval requirement — a significant change from FCA 1980.\n• The October 25, 1980 reference date in the Act is the date FCA 1980 came into force — making the applicability boundary coterminous with the original FCA's commencement.\n• Supreme Court review of Van (Protection) Act 2023 provisions is ongoing — a dynamic legal development."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the Van (Protection) Act 2023 and its relationship to earlier forest protection frameworks:\n\nStatement 1: The Van (Protection) Act 2023 was enacted by Parliament to replace the Forest Conservation Act 1980, and it introduced changes to the applicability criteria for prior approval requirements for forest land diversion.\n\nStatement 2: The Van (Protection) Act 2023 expanded the definition of 'forest' to include all lands conforming to the dictionary meaning of forest, thereby codifying the Godavarman judgment's expansive interpretation into statute.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b82c2277-82e2-42b0-bdf9-984b0a9307eb",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Remote Sensing Technology in Forest Cover Assessment: Limitations and Accuracy",
+        "Carbon Stock vs Forest Cover: Why the Two Can Diverge"
+      ],
+      "subject_que_no": 2292,
+      "overall_que_no": 15436
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Satellite cannot distinguish plantation from natural forest — carbon stock divergence",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know the satellite limitation (A correct) but doubt whether carbon stock and canopy density are related at all may mark R as incorrect, choosing (c) rather than recognising that R is factually correct.",
+      "elimination_logic": [
+        "Step 1 — Is Assertion (A) correct? Yes. India's afforestation programmes have expanded forest cover area, but the carbon stock per hectare of monoculture plantations is substantially lower than that of native forests — so overall carbon stock can lag behind area gains.",
+        "Step 2 — Is Reason (R) correct? Yes. Dense natural forests have multiple canopy layers, large biomass in trunks and roots, and high soil organic carbon — monocultures of identical canopy density lack this structural complexity and store less carbon per hectare.",
+        "Step 3 — Does R causally explain A? Yes. It is precisely because identical canopy density can correspond to vastly different carbon stocks (depending on species composition and structural complexity) that afforestation-driven forest cover area gains do not translate proportionally to carbon stock gains. R is the mechanistic explanation.",
+        "A correct + R correct + R explains A → option (a)."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap makes students doubt whether R explains A or merely coincides with it. The key is recognising that R (structural complexity determines carbon stock, not just canopy density) is exactly why A is true — when FSI-counted plantations and natural forests have the same canopy density but different structural complexity, the carbon benefit of area expansion is diluted. R is not a coincidental fact; it is the causal mechanism.",
+      "final_explanation": "The divergence between forest cover area and carbon stock is a central concern for India's NDC commitments and is rooted in the ecological difference between plantation and natural forest structure.\n\nAssertion (A): Correct. India's afforestation under GIM, CAMPA, and state programmes has expanded the counted forest cover area. However, carbon stock has not grown proportionally because the new plantations are often monocultures — lower in biomass density, structural complexity, and soil organic carbon compared to the natural forests they sometimes replace.\n\nReason (R): Correct. Dense natural forests have a multi-tiered canopy, large accumulated biomass in old-growth trees, extensive root systems, and rich soil organic carbon. A monoculture plantation can achieve identical satellite-detected canopy density with a fraction of this carbon mass. Biomass per unit area — the driver of carbon stock — depends on species, age structure, and vertical complexity, not canopy density alone.\n\nCausal relationship: R explains A — the ecological reality described in R is the reason why forest cover expansion (measured by canopy density from satellite) does not guarantee carbon stock expansion. → Option (a).\n\nValue Addition:\n• India's NDC carbon sink target requires quality forest cover — ISFR's carbon stock chapter is more relevant to NDC tracking than the area chapter.\n• Old-growth forests store disproportionately more carbon — protecting existing VDF is more carbon-efficient than creating new plantations.\n• Soil organic carbon (SOC) in natural forests can equal or exceed above-ground carbon — monocultures are poorer in SOC.",
+      "ar_consistency_flag": true
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Large-scale afforestation programmes that expand the area counted as forest cover may not produce proportional increases in India's total forest carbon stock, particularly when the plantations created are monocultures replacing or adding to Open Forest categories.\n\nReason (R): Dense natural forests with multi-tiered canopy structure, old-growth biomass, and rich soil organic carbon store substantially more carbon per hectare than monoculture plantations of identical canopy density, because carbon stock depends on structural complexity and species composition rather than canopy density alone.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5c85ab20-d218-498e-8d58-3e05eff4f68f",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Definition of Forest Cover: FSI Criteria and Canopy Density Threshold",
+        "Definition of Tree Cover: Patches Outside Recorded Forest Area",
+        "Scrub Land: The Missing Category Between Forest Cover and Tree Cover"
+      ],
+      "subject_que_no": 2293,
+      "overall_que_no": 15437
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "conflation",
+      "concept_anchor": "Three-way classification — forest cover, tree cover, scrub — with precise boundary conditions",
+      "statement_analysis": [
+        {
+          "statement": "A patch of vegetation 2 hectares in size with 15% canopy density, located on private land outside any Recorded Forest Area, would be classified as forest cover by FSI.",
+          "verdict": "Correct",
+          "reason": "The patch exceeds the 1-hectare minimum and meets the ≥10% canopy density threshold — FSI's physical criteria are satisfied regardless of land tenure or location outside RFA."
+        },
+        {
+          "statement": "A clump of trees 0.5 hectares in size with 60% canopy density, located in an urban park outside any Recorded Forest Area, would be classified as tree cover by FSI.",
+          "verdict": "Correct",
+          "reason": "Despite high canopy density, the patch is below the 1-hectare minimum for forest cover — it therefore falls into the tree cover category (sub-1-ha patches outside forest cover boundary)."
+        },
+        {
+          "statement": "A degraded patch of vegetation 3 hectares in size with 8% canopy density, located outside any Recorded Forest Area, would be classified as Open Forest by FSI since it is above 1 hectare.",
+          "verdict": "Incorrect",
+          "reason": "Open Forest requires canopy density of 10–40%. A patch with only 8% canopy density falls below the forest cover threshold — it would be classified as Scrub and excluded from forest cover statistics regardless of its size."
+        }
+      ],
+      "strong_distractor": "d — Students who focus on the 1-hectare area criterion in Statement 3 (3 ha > 1 ha) may ignore the canopy density failure (8% < 10%) and incorrectly accept Statement 3, selecting all three as correct.",
+      "elimination_logic": [
+        "Statement 1: 2 ha, 15% canopy, outside RFA — both physical criteria met; classified as forest cover regardless of private land status. Correct.",
+        "Statement 2: 0.5 ha, 60% canopy, outside RFA — area criterion (1 ha minimum) fails; classified as tree cover. Correct.",
+        "Statement 3: 3 ha, 8% canopy — area criterion met but canopy criterion fails (8% < 10% minimum); classified as Scrub, not Open Forest. Incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — option (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap in Statement 3 merges the area criterion with the Open Forest classification, ignoring the canopy density condition. Students who remember that Open Forest is the category for 'low density' forests may accept 8% as qualifying — not realising that 8% is below the 10% floor and falls into the excluded Scrub category. The '3 hectares' figure is deliberately large to distract from the canopy density failure.",
+      "final_explanation": "Applying the three classification criteria (area, canopy density, location) simultaneously to real scenarios is the UPSC's preferred testing method for this topic.\n\n• Statement 1 — Correct: 2 ha (>1 ha minimum) + 15% canopy (>10% threshold) = forest cover. Land tenure (private) and location (outside RFA) are irrelevant to FSI's physical assessment. This patch would appear as Open Forest in the satellite assessment.\n• Statement 2 — Correct: 0.5 ha (<1 ha minimum) + 60% canopy (high) = tree cover. The area criterion is the decisive factor — regardless of canopy quality, patches below 1 ha enter the tree cover category, not forest cover.\n• Statement 3 — Incorrect: 3 ha (>1 ha) but 8% canopy (<10% minimum) = Scrub, not Open Forest. The Open Forest category requires 10–40% canopy density. A patch failing the canopy criterion is excluded from forest cover regardless of its size.\n\nValue Addition:\n• The two-condition test (area AND canopy density both must be met) is the definitional foundation of FSI's forest cover.\n• Scrub's exclusion from both forest cover and tree cover creates a policy vacuum for ecological protection.\n• High-canopy urban patches (like Statement 2) contribute to ecosystem services but lack FCA protection — the urban governance gap."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following scenarios regarding vegetation patches assessed by the Forest Survey of India:\n\n1. A patch of vegetation 2 hectares in size with 15% canopy density, located on private land outside any Recorded Forest Area, would be classified as forest cover by FSI.\n2. A clump of trees 0.5 hectares in size with 60% canopy density, located in an urban park outside any Recorded Forest Area, would be classified as tree cover by FSI.\n3. A degraded patch of vegetation 3 hectares in size with 8% canopy density, located outside any Recorded Forest Area, would be classified as Open Forest by FSI since it exceeds 1 hectare.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a0bbd937-4283-4550-a5b0-f08c40a91097",
+      "language": "en",
+      "subject": "Environment",
+      "topic": "Forest Types Classification",
+      "sub_topic": "Forest cover vs tree cover — distinction",
+      "concepts_used": [
+        "Urban Tree Cover: Measurement, Significance, and Policy Gaps",
+        "Green India Mission (GIM): Targets Spanning Both Forest Cover and Tree Cover"
+      ],
+      "subject_que_no": 2294,
+      "overall_que_no": 15438
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Urban tree cover governance — separate from FCA, no dedicated national law",
+      "statement_analysis": null,
+      "strong_distractor": "b — 'Urban trees are protected under the Forest Conservation Act 1980 if the canopy density meets the Open Forest threshold' sounds rigorous and technically precise, exploiting the canopy density knowledge to misapply FCA's jurisdictional scope.",
+      "elimination_logic": [
+        "FCA 1980 applies to forest land — RFA and deemed forests; urban parks do not qualify unless specifically notified.",
+        "No dedicated central legislation protects urban tree cover — only municipal bylaws and state tree preservation orders.",
+        "Green India Mission addresses both forest cover and tree cover but does not provide legal protection for urban trees.",
+        "Option (a) correctly identifies state/local tree preservation orders as the applicable regulatory instrument — confirm."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in option (b) extends FCA 1980's canopy density criterion into urban governance — as if meeting the Open Forest threshold triggers FCA protection for urban parks. FCA's jurisdictional basis is land status (RFA/deemed forest), not canopy density in any location. A 15% canopy density urban park is no more protected under FCA than a barren urban lot.",
+      "final_explanation": "Urban tree cover occupies a regulatory gap in India's forest governance architecture — measured by FSI but governed by a patchwork of local rules.\n\n• Option (a) — Correct: Urban trees and parks are regulated through municipal bylaws and state government tree preservation orders. These vary significantly by state and city — some are stringent (Mumbai, Delhi) while others are minimal. No dedicated central statute exists for urban tree cover protection.\n• Option (b) — Incorrect: FCA 1980 (and its successor Van Protection Act 2023) applies to forest land — legally notified areas. Urban parks are not RFA and do not automatically qualify as deemed forests. Canopy density is irrelevant to FCA's jurisdictional trigger.\n• Option (c) — Incorrect: Green India Mission promotes forest and tree cover expansion but does not provide a legal protection framework for existing urban trees. GIM's mandate is area expansion and quality enhancement, not tree felling regulation.\n• Option (d) — Incorrect: There is no central 'Urban Forestry Act' in India — this is a plausible-sounding but non-existent law.\n\nValue Addition:\n• Delhi's Tree Preservation Order (Delhi Preservation of Trees Act 1994) is one of the stronger state-level instruments.\n• Urban Heat Island mitigation is increasingly cited as justification for stronger urban tree protection laws.\n• FSI's tree cover data for cities is now published separately in ISFR — enabling evidence-based urban forestry policy."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following accurately describes the legal and regulatory position governing trees in urban parks and along urban roadsides in India?\n\n(a) Urban trees are primarily regulated through municipal bylaws and state government tree preservation orders, with no dedicated central legislation specifically protecting urban tree cover\n(b) Urban trees are protected under the Forest Conservation Act 1980 wherever the local canopy density meets the threshold for Open Forest classification, irrespective of whether the land is part of a Recorded Forest Area\n(c) The Green India Mission provides a statutory protection framework for urban trees by designating qualifying urban parks as 'mission forests' under the National Action Plan on Climate Change\n(d) Urban tree cover is protected under a dedicated Urban Forestry (Preservation and Development) Act enacted by Parliament, which supersedes state-level tree preservation orders",
+      "table_data": null
+    }
+  }
+]

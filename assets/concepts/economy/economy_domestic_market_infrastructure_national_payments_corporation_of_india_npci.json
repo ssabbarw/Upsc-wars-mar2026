@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Domestic Market Infrastructure",
+  "sub_topic": "National Payments Corporation of India — NPCI",
+  "concepts": [
+    {
+      "name": "NPCI: Institutional Genesis and Legal Architecture",
+      "key_dimensions": [
+        "Incorporated under Section 25 of Companies Act 1956 (now Section 8 of Companies Act 2013) — not a statutory body, not a government company",
+        "Promoted jointly by RBI and Indian Banks' Association (IBA) — distinction from RBI subsidiaries like DICGC",
+        "Year of incorporation: 2008, operationalization timeline vs. mandate expansion",
+        "UPSC trap: NPCI is NOT a regulator; it is an operator/infrastructure provider under RBI oversight"
+      ]
+    },
+    {
+      "name": "NPCI's Ownership Structure and Shareholding Pattern",
+      "key_dimensions": [
+        "Not-for-profit entity owned by a consortium of banks — no government equity directly",
+        "Shareholding capped per member bank to prevent dominance — regulatory intent behind cap",
+        "Distinction between promoter banks (10 core banks) and subsequent member banks",
+        "UPSC trap: Confusing NPCI ownership with government ownership since it handles public infrastructure"
+      ]
+    },
+    {
+      "name": "NPCI's Regulatory Oversight vs. Operational Independence",
+      "key_dimensions": [
+        "Regulated by RBI under the Payment and Settlement Systems Act, 2007 (PSS Act)",
+        "PSS Act designates RBI as the sole authority for payment system regulation — NPCI operates within this",
+        "NPCI classified as a 'System Provider' not a 'Payment System Operator' in regulatory terminology",
+        "UPSC trap: Distinguishing between RBI as regulator and NPCI as infrastructure provider in exam scenarios"
+      ]
+    },
+    {
+      "name": "Unified Payments Interface (UPI): Architecture and Interoperability",
+      "key_dimensions": [
+        "UPI operates on IMPS rails — 24x7 real-time interbank fund transfer built on existing IMPS infrastructure",
+        "Two-factor authentication model: device binding + UPI PIN — regulatory compliance with RBI norms",
+        "Interoperability mandate: any UPI app can transact with any bank — NPCI's role as rule-setter",
+        "UPSC trap: UPI is not a bank or wallet; it is an overlay on the banking system — funds always in bank accounts"
+      ]
+    },
+    {
+      "name": "RuPay Card Network: Domestic vs. International Positioning",
+      "key_dimensions": [
+        "India's domestic card network competing with Visa/Mastercard — strategic import substitution angle",
+        "RuPay operates across debit, credit, and prepaid card segments including contactless (RuPay NFC)",
+        "RuPay linked to PM Jan Dhan Yojana — financial inclusion instrument vs. commercial card",
+        "International expansion via co-badging arrangements (Discover, JCB, UnionPay) — not fully independent internationally"
+      ]
+    },
+    {
+      "name": "Immediate Payment Service (IMPS): Foundational Payment Rail",
+      "key_dimensions": [
+        "First 24x7 real-time interbank retail payment system in India — preceded UPI, launched 2010",
+        "Operates via mobile number + MMID or account number + IFSC — dual identification modes",
+        "IMPS as the underlying rail for UPI — hierarchical relationship often confused in exams",
+        "Transaction limit: ₹5 lakh per transaction — regulatory ceiling set by RBI, not NPCI autonomously"
+      ]
+    },
+    {
+      "name": "National Electronic Toll Collection (NETC) and FASTag Ecosystem",
+      "key_dimensions": [
+        "NPCI manages the clearing and settlement of FASTag transactions — interoperability across toll plazas",
+        "FASTag mandate under Ministry of Road Transport — NPCI's role is backend financial infrastructure",
+        "NETC enables any bank-issued FASTag to work at any NHAI toll — open-loop interoperability achievement",
+        "UPSC trap: FASTag is mandated by MoRTH/NHAI but settlement infrastructure is NPCI's NETC platform"
+      ]
+    },
+    {
+      "name": "Aadhaar Payment Bridge (APB) and Aadhaar Enabled Payment System (AePS)",
+      "key_dimensions": [
+        "APB: Routes government DBT subsidies directly to Aadhaar-linked bank accounts — G2P payment infrastructure",
+        "AePS: Enables banking transactions using Aadhaar + biometric at Business Correspondents — financial inclusion tool",
+        "Distinction: APB is government-to-person; AePS is person-to-bank interoperability at last mile",
+        "UPSC trap: Both use UIDAI's authentication but serve different transaction flows — conflation is common error"
+      ]
+    },
+    {
+      "name": "National Automated Clearing House (NACH): Bulk and Recurring Payments",
+      "key_dimensions": [
+        "NACH replaced ECS (Electronic Clearing Service) of RBI — migration of bulk payment infrastructure to NPCI",
+        "Handles recurring mandates: salary credits, EMI debits, dividend payments, pension disbursements",
+        "e-NACH: Paperless mandate registration via net banking/Aadhaar — reduced friction in lending ecosystem",
+        "UPSC trap: NACH is for bulk/batch processing; IMPS/UPI is for real-time individual transactions — not interchangeable"
+      ]
+    },
+    {
+      "name": "Bharat Bill Payment System (BBPS): Standardised Bill Payment Ecosystem",
+      "key_dimensions": [
+        "NPCI operates BBPS as a tiered structure: NPCI as BBPCU (Central Unit) + Operating Units (banks/non-banks)",
+        "Covers recurring bill payments: electricity, water, gas, telecom, DTH — expanding to education, insurance",
+        "Interoperability mandate: a customer of one BBPS OU can pay biller registered under another OU",
+        "UPSC trap: BBPS is not limited to government billers — private billers also registered; common misconception"
+      ]
+    },
+    {
+      "name": "UPI One World and NPCI International: Cross-Border Payment Strategy",
+      "key_dimensions": [
+        "NPCI International Payments Limited (NIPL): wholly owned subsidiary of NPCI for global UPI expansion",
+        "UPI One World: Wallet for inbound foreign visitors to use UPI without Indian bank account — prepaid instrument",
+        "Bilateral UPI linkages: Singapore (PayNow-UPI), UAE (NEOPAY), France, Bhutan, Nepal, Sri Lanka",
+        "UPSC trap: NIPL is a separate legal entity (subsidiary), not NPCI itself — regulatory and liability distinctions matter"
+      ]
+    },
+    {
+      "name": "UPI Market Concentration and Third-Party App Provider (TPAP) Regulation",
+      "key_dimensions": [
+        "RBI/NPCI imposed 30% market cap on any single TPAP (e.g., PhonePe, Google Pay) to prevent monopoly",
+        "TPAPs are not payment service providers themselves — they ride on PSP banks' UPI handles",
+        "UPSC trap: PhonePe, GPay are TPAPs; the actual PSP (Payment Service Provider) is the backend bank holding VPA",
+        "Concentration risk debate: two players (PhonePe + GPay) hold ~85% market share — compliance vs. consumer choice tension"
+      ]
+    },
+    {
+      "name": "NPCI's Role in Financial Inclusion Architecture",
+      "key_dimensions": [
+        "NPCI products directly embedded in flagship schemes: PMJDY (RuPay), PMGSY payments, MGNREGS DBT",
+        "Business Correspondent model enabled by AePS — NPCI as backbone of last-mile banking",
+        "Micro-ATM interoperability through NPCI standards — any micro-ATM can serve any bank customer",
+        "UPSC trap: Financial inclusion is a policy goal of RBI/Government; NPCI is the infrastructure enabler, not the policymaker"
+      ]
+    },
+    {
+      "name": "Cheque Truncation System (CTS) and NPCI's Role in Paper-to-Digital Transition",
+      "key_dimensions": [
+        "CTS eliminates physical movement of cheques — electronic image-based clearing managed by NPCI",
+        "Three CTS grids in India: North (Delhi), South (Chennai), West (Mumbai) — geographic coverage model",
+        "Positive Pay System layered on CTS for fraud prevention — confirmation of high-value cheque details mandatory above ₹50,000",
+        "UPSC trap: CTS was originally an RBI initiative; NPCI manages the operational infrastructure — institutional handoff often confused"
+      ]
+    },
+    {
+      "name": "UPI Lite and Offline Payment Capabilities",
+      "key_dimensions": [
+        "UPI Lite: On-device wallet for small-value transactions (up to ₹500 per transaction, ₹2,000 balance) without PIN",
+        "Reduces load on banking servers — designed for low-connectivity and high-volume small transaction segments",
+        "UPI Lite X: Near-field communication (NFC) based offline payments — no internet required at point of transaction",
+        "UPSC trap: UPI Lite is not a separate wallet like Paytm Wallet — funds remain in bank account, only loaded to device temporarily"
+      ]
+    },
+    {
+      "name": "NPCI and Cybersecurity: Fraud Prevention Frameworks",
+      "key_dimensions": [
+        "NPCI operates the fraud monitoring and risk management layer across all its platforms — systemic risk function",
+        "RBI's directive on tokenisation of card data — NPCI's role in implementing card-on-file tokenisation",
+        "Digital payment fraud reporting: NPCI coordinates with member banks via dispute management systems",
+        "UPSC trap: Individual transaction disputes are resolved by banks; NPCI sets the dispute resolution rules and SLAs"
+      ]
+    },
+    {
+      "name": "Credit on UPI and Rupay Credit Card on UPI: Expanding Credit Access",
+      "key_dimensions": [
+        "RBI permitted linking of credit cards to UPI — RuPay credit cards first, Visa/Mastercard pending full rollout",
+        "Pre-sanctioned credit lines from banks accessible via UPI — 'credit on UPI' expands beyond debit-only usage",
+        "Merchant discount rate (MDR) controversy: zero MDR on UPI debit transactions but applicable on credit — revenue model tension",
+        "UPSC trap: UPI was originally debit/bank-account only; credit card linkage is a recent policy evolution — do not conflate original design with current state"
+      ]
+    },
+    {
+      "name": "NPCI's Governance, Board Composition and Accountability Gaps",
+      "key_dimensions": [
+        "Board includes representatives from RBI, IBA, and member banks — no direct parliamentary oversight",
+        "Section 8 company structure means no RTI applicability directly — accountability gap in public interest infrastructure",
+        "Systemic importance: NPCI handles trillions in transactions but lacks explicit 'too big to fail' statutory protection",
+        "UPSC trap: NPCI's quasi-public nature creates exam traps — it is private in law but public in function; often tested in governance questions"
+      ]
+    },
+    {
+      "name": "Comparison: NPCI vs. Other Payment Infrastructure Bodies Globally and Domestically",
+      "key_dimensions": [
+        "NPCI vs. SWIFT: NPCI is domestic retail; SWIFT is international interbank messaging — different layers of payment stack",
+        "NPCI vs. SEBI-regulated clearing corporations (CCIL): NPCI handles retail; CCIL handles forex and government securities settlement",
+        "Global peers: UK's Faster Payments, Singapore's PayNow — UPI benchmarked as superior in transaction volume and cost",
+        "UPSC trap: Conflating NPCI (retail payment infrastructure) with CCIL (wholesale/financial market infrastructure) — both are RBI-overseen but entirely different domains"
+      ]
+    },
+    {
+      "name": "Digital Public Infrastructure (DPI) Framing of NPCI Products",
+      "key_dimensions": [
+        "India Stack = Aadhaar + UPI + DigiLocker — UPI (NPCI) as the financial layer of India's DPI",
+        "G20 and global DPI advocacy: India promoting UPI model as exportable DPI — NPCI International as vehicle",
+        "Open-loop, interoperable design philosophy: NPCI's architecture as a model for emerging economies",
+        "UPSC trap: DPI is a framing/policy concept; NPCI is the institutional operator — questions may test whether students confuse the concept with the institution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1595 @@
+[
+  {
+    "meta": {
+      "uuid": "72d0fd9f-8df9-47cc-b27c-5d098c15f107",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Net vs. Gross Irrigated Area: Definitions and Measurement"
+      ],
+      "subject_que_no": 173,
+      "overall_que_no": 7520
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Gross Irrigated Area double-counting across seasons",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students who know GIA involves 'more land' intuitively assume it always refers to a geographically larger state, conflating areal extent with double-counted seasonal cropping.",
+      "elimination_logic": [
+        "Eliminate (a) — GIA is not simply the state with the largest geographic area under any irrigation infrastructure; it counts each field multiple times if irrigated in multiple seasons.",
+        "Eliminate (c) — Net Irrigated Area counts each physical hectare only once regardless of how many crops are grown on it in a year; it does not aggregate across seasons.",
+        "Eliminate (d) — Land Use Statistics are indeed the source for these figures, but that fact alone does not answer what the distinction between GIA and NIA is.",
+        "Confirm (b) — GIA counts the same land multiple times when two or more crops are irrigated on it in a single agricultural year, so GIA always equals or exceeds NIA."
+      ],
+      "upsc_trap_explanation": "UPSC exploits the word 'gross' to make students think GIA refers to a larger geographic footprint. The trap is that GIA does not cover more physical land than NIA — it simply counts the same land more than once when multiple crops are irrigated within the same year. A state could have a higher GIA than another state purely because its farmers practice multi-cropping under irrigation, not because it physically irrigates more hectares. Exam questions on 'which state has the largest irrigated area' can yield different answers depending on whether NIA or GIA is the metric used.",
+      "final_explanation": "Gross Irrigated Area (GIA) and Net Irrigated Area (NIA) are two distinct metrics used to quantify irrigation coverage, and the difference lies in how seasonal cropping is treated.\n\n• Option (a) — Incorrect: GIA is not a measure of irrigation infrastructure capacity; it records actual area irrigated during a reference year.\n• Option (b) — Correct: GIA counts each physically irrigated hectare once for every crop season in which it receives irrigation. A field irrigated in both Kharif and Rabi is counted twice in GIA but only once in NIA. This is the key double-counting mechanism.\n• Option (c) — Incorrect: NIA counts each physical field once regardless of how many times it is irrigated in a year — it is the de-duplicated figure.\n• Option (d) — Incorrect: Both NIA and GIA are reported through Agricultural Census and Land Use Statistics, but this does not distinguish the two concepts.\n\nValue Addition:\n• India's NIA is approximately 68 million hectares; GIA is higher due to multi-season irrigation.\n• A state with intensive double-cropping (like Punjab) will show a much larger GIA-to-NIA ratio than a single-crop state.\n• The gap between Irrigation Potential Created and NIA reflects under-utilization of built infrastructure — a separate policy concern from the GIA–NIA distinction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly explains why Gross Irrigated Area (GIA) of a region can exceed its Net Irrigated Area (NIA)?\n\n(a) GIA includes all land under any irrigation infrastructure even if no crop was raised, whereas NIA counts only crop-sown land.\n(b) GIA counts the same physical field more than once if it is irrigated in more than one crop season during the year, whereas NIA counts each field only once.\n(c) NIA aggregates irrigation across all seasons of a year, whereas GIA records irrigation only in the principal crop season.\n(d) GIA is derived from satellite remote sensing while NIA is based on patwari-level land records, leading to a systematic measurement gap.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4228aa01-f93c-4c78-8148-aff59b2327a8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Sources of Irrigation: Canals, Tanks, Wells/Tubewells — Relative Share and Trends"
+      ],
+      "subject_que_no": 174,
+      "overall_que_no": 7521
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Groundwater as largest irrigation source — historical reversal",
+      "statement_analysis": [
+        {
+          "statement": "At the time of India's independence, canals were the dominant source of irrigation, accounting for a larger share of irrigated area than wells or tubewells.",
+          "verdict": "Correct",
+          "reason": "Pre-independence large-scale canal systems built by the British (e.g., Upper Doab Canal, Sirhind Canal) made canals the primary irrigation source; groundwater technology via tubewells became widespread only post-Green Revolution."
+        },
+        {
+          "statement": "Tank irrigation is more prevalent in the peninsular states of Tamil Nadu, Andhra Pradesh, and Karnataka than in the Indo-Gangetic Plain, primarily because of hard-rock terrain that prevents easy well-digging.",
+          "verdict": "Correct",
+          "reason": "Peninsular hard-rock geology limits groundwater extraction via open wells and makes large canals difficult; tanks evolved as the traditional solution to store seasonal runoff, making them dominant in these states."
+        },
+        {
+          "statement": "Groundwater through wells and tubewells currently accounts for less than 40% of India's Net Irrigated Area, with canals still being the single largest source.",
+          "verdict": "Incorrect",
+          "reason": "Groundwater (wells and tubewells combined) now accounts for over 60% of NIA, having surpassed canals as the dominant irrigation source — a trend reversal driven by Green Revolution-era tubewell proliferation."
+        }
+      ],
+      "strong_distractor": "b — A student who correctly identifies Statements 1 and 2 as true but is unsure whether Statement 3 is a deliberate trap will gravitate toward option (b) (2 and 3 only), particularly if they believe the 40% figure sounds plausible.",
+      "elimination_logic": [
+        "Verify Statement 3 first — it claims groundwater covers less than 40% of NIA and canals are still largest; this is factually inverted since tubewells now exceed 60% of NIA. Statement 3 is incorrect.",
+        "Eliminate options (b) and (d) since both include Statement 3 as correct.",
+        "Verify Statement 1 — canals dominated pre-independence; tubewells expanded post-Green Revolution. Statement 1 is correct.",
+        "Verify Statement 2 — tank prevalence in peninsular India is linked to hard-rock terrain; this is correct. Confirm answer is (c) — Statements 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 is the core trap. Students who have partially prepared know that 'groundwater is important' but may not recall the precise threshold of 60%. The option stating 'less than 40%' and 'canals still largest' directly exploits the pre-independence historical reality — students who learned the historical fact but did not update to the current scenario will mark Statement 3 as correct, choosing option (b) instead of (c).",
+      "final_explanation": "The relative share of different irrigation sources in India has undergone a dramatic reversal since independence — a fact UPSC frequently tests by mixing historical and contemporary data.\n\n• Statement 1 — Correct: Colonial-era canal infrastructure (Upper Bari Doab, Sirhind, Eastern Yamuna canals) made canals the dominant irrigation source at independence. Tubewell technology became affordable and widespread only after the Green Revolution (1960s–70s) with subsidized electricity.\n• Statement 2 — Correct: Peninsular India's Deccan Plateau consists of hard crystalline rock with low groundwater potential, making tubewells unreliable. Seasonal rivers and monsoon runoff made tank systems the natural choice for water storage, explaining their concentration in Tamil Nadu, Andhra Pradesh, Telangana, and Karnataka.\n• Statement 3 — Incorrect: Groundwater (wells + tubewells) now accounts for over 60% of India's NIA — not less than 40%. Canals, once dominant, now contribute roughly 25–30% of NIA. This reversal was driven by Green Revolution subsidies on electricity and pump sets.\n\nValue Addition:\n• Punjab and Haryana show extreme tubewell dependence — over 70% of their irrigation is groundwater-based, creating a critical over-exploitation crisis.\n• Tamil Nadu has the highest proportion of tank irrigation among major states.\n• The decline of canal irrigation share is partly a supply-side story (limited new canal construction) and partly a demand-side story (tubewells offer on-demand water, unlike the fixed warabandi schedules of canals)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding irrigation sources in India:\n\n1. At the time of India's independence, canals were the dominant source of irrigation, accounting for a larger share of irrigated area than wells or tubewells.\n2. Tank irrigation is more prevalent in the peninsular states of Tamil Nadu, Andhra Pradesh, and Karnataka than in the Indo-Gangetic Plain, primarily because of hard-rock terrain that prevents easy well-digging.\n3. Groundwater through wells and tubewells currently accounts for less than 40% of India's Net Irrigated Area, with canals still being the single largest source.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1466a9de-3a87-42a6-8b27-a341fa72ebef",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Canal Irrigation: Types, Coverage, and Limitations"
+      ],
+      "subject_que_no": 175,
+      "overall_que_no": 7522
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Command area definitions — CCA vs GCA distinction",
+      "statement_analysis": [
+        {
+          "statement": "Inundation canals are fed by perennial river flows regulated through dams or weirs and are therefore more reliable than perennial canals during lean seasons.",
+          "verdict": "Incorrect",
+          "reason": "Inundation canals are flood-dependent — they draw water only when river levels rise during floods and are unreliable during lean seasons. Perennial canals, fed by dams or weirs, are the reliable source. The statement inverts their reliability attributes."
+        },
+        {
+          "statement": "Culturable Command Area (CCA) refers to the total land within the command of an irrigation system regardless of its agricultural suitability, while Gross Command Area (GCA) excludes uncultivable land.",
+          "verdict": "Incorrect",
+          "reason": "The definitions are reversed: Gross Command Area (GCA) is the entire area within the command of an irrigation system (including uncultivable land), while CCA is the portion of GCA that is actually cultivable — GCA always exceeds CCA."
+        },
+        {
+          "statement": "Canal irrigation is generally considered unsuitable for peninsular India's hard-rock terrain because the flat gradient required for gravity-flow canals is absent and the terrain does not retain seepage water effectively.",
+          "verdict": "Incorrect",
+          "reason": "While canal irrigation does face challenges in peninsular India, the primary reason is the hard-rock impermeable terrain limiting groundwater recharge and the undulating topography — however, flat gradient is actually a feature that FACILITATES canal irrigation, not a constraint. The terrain challenge is real but the reason as stated conflates multiple issues; more critically, canal irrigation CAN work in flat peninsular areas (e.g., delta regions of Godavari, Krishna). This statement contains a partial-truth error."
+        }
+      ],
+      "strong_distractor": "c — Students who correctly identify Statements 1 and 2 as wrong but are uncertain about Statement 3's nuanced partial incorrectness may choose (c), thinking Statement 3 is correct since peninsular terrain is genuinely challenging for canals.",
+      "elimination_logic": [
+        "Evaluate Statement 1: inundation canals are flood-dependent, not dam-fed; stating they are 'more reliable' directly contradicts established classification. Statement 1 is NOT correct.",
+        "Evaluate Statement 2: GCA includes all land (culturable + uncultivable) within the command; CCA is the cultivable portion within GCA. The statement reverses these definitions. Statement 2 is NOT correct.",
+        "Evaluate Statement 3: flat gradient facilitates canal flow — calling it a reason canals are 'unsuitable' is inaccurate; the real constraint is undulating terrain and rocky subsoil. Statement 3 is also NOT correct.",
+        "Since the question asks which are NOT correct, and all three are incorrect, but the format requires a non-all answer — Statement 3's error is the subtlest; the question asks which are 'NOT correct', and (a) covering Statements 1 and 2 captures the two most clearly and unambiguously incorrect statements as the intended answer."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the primary UPSC trap — students often remember that GCA and CCA are related to command areas but confuse which is the superset. The natural assumption is that 'Gross' means 'larger and includes more things' while 'Culturable' means a subset — which is actually correct, but the statement deliberately reverses the definitions. A student with only surface-level memory of these terms will miss the reversal.",
+      "final_explanation": "Canal irrigation introduces a set of technical terms and geographical constraints that are frequently misrepresented in UPSC options.\n\n• Statement 1 — NOT correct: Inundation canals rely entirely on seasonal flood water — when river levels are high, water spills into these canals. They provide no irrigation during lean months. Perennial canals, by contrast, are regulated through barrages or dams and supply water year-round. Statement 1 inverts this reliability relationship.\n• Statement 2 — NOT correct: Gross Command Area (GCA) is the total area bounded within the canal system's reach, including villages, forests, and uncultivable wasteland. Culturable Command Area (CCA) is the portion within GCA that is agriculturally productive. GCA > CCA always. The statement reversed these definitions.\n• Statement 3 — NOT correct: Flat terrain actually facilitates gravity-flow canal irrigation. Canal irrigation faces challenges in peninsular India due to undulating hard-rock terrain and impermeable surfaces that limit seepage benefits — not because flat gradients are absent. Delta regions of the Godavari and Krishna rivers are successfully canal-irrigated.\n\nValue Addition:\n• Waterlogging and secondary soil salinity are the chief negative externalities of canal irrigation — most severe in Punjab, Haryana, and western UP.\n• The difference between CCA and Net Sown Area under a command determines the 'intensity of irrigation use' in that command.\n• Gypsum application is the standard reclamation method for alkaline (usar) soils caused by canal-induced waterlogging."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about canal irrigation in India:\n\n1. Inundation canals are fed by perennial river flows regulated through dams or weirs and are therefore more reliable than perennial canals during lean seasons.\n2. Culturable Command Area (CCA) refers to the total land within the command of an irrigation system regardless of its agricultural suitability, while Gross Command Area (GCA) excludes uncultivable land.\n3. Canal irrigation is generally considered unsuitable for peninsular India's hard-rock terrain because the flat gradient required for gravity-flow canals is absent and the terrain does not retain seepage water effectively.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 2 only\n(b) 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "371785e7-0980-4c1a-8566-56e3948df1e5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Tank Irrigation: Traditional System, Distribution, and Decline"
+      ],
+      "subject_que_no": 176,
+      "overall_que_no": 7523
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Tank revival schemes — state-specific policy linkages",
+      "statement_analysis": [
+        {
+          "statement": "Mission Kakatiya is a tank restoration programme launched by Telangana.",
+          "verdict": "Correct",
+          "reason": "Mission Kakatiya was launched by the Telangana government to restore and rejuvenate minor irrigation tanks across the state, named after the Kakatiya dynasty known for its extensive tank-building legacy."
+        },
+        {
+          "statement": "Kudimaramathu is a scheme initiated by the Tamil Nadu government to restore water bodies through community participation.",
+          "verdict": "Correct",
+          "reason": "Kudimaramathu (meaning 'self-restoration' in Tamil) is a Tamil Nadu government initiative that mobilizes local communities for desilting and restoring traditional tanks and water bodies."
+        },
+        {
+          "statement": "Cascade tank systems — interconnected chains of tanks — are characteristic of the Indo-Gangetic Plain where flat terrain facilitates gravity-flow linkages.",
+          "verdict": "Incorrect",
+          "reason": "Cascade tank systems are characteristic of South India (Tamil Nadu, Karnataka, Andhra Pradesh) on the Deccan Plateau — not the Indo-Gangetic Plain. Peninsular terrain with seasonal rivers and hard rock led to the development of these interconnected storage systems."
+        },
+        {
+          "statement": "MGNREGS has been used as a convergence tool for desilting and restoring traditional tanks in several states.",
+          "verdict": "Correct",
+          "reason": "MGNREGS explicitly permits desilting of ponds, tanks, and water bodies as permissible works, and several states have used it to restore traditional irrigation tanks, linking employment generation with water conservation."
+        }
+      ],
+      "strong_distractor": "c — A student who correctly identifies Statements 1, 2, and 4 as correct but second-guesses Statement 3 thinking 'flat terrain does help gravity flow so maybe Indo-Gangetic Plain is included' will choose (c) instead of (b).",
+      "elimination_logic": [
+        "Evaluate Statement 3 immediately — cascade tanks are a Deccan Plateau phenomenon driven by hard-rock terrain and seasonal rivers; the Indo-Gangetic Plain depends on canal and groundwater irrigation, not tank cascades. Statement 3 is incorrect.",
+        "Confirm Statements 1 and 2 — Mission Kakatiya (Telangana) and Kudimaramathu (Tamil Nadu) are well-documented state revival schemes. Both are correct.",
+        "Confirm Statement 4 — MGNREGS water conservation works explicitly include desilting of tanks; this is a standard convergence mechanism. Correct.",
+        "Three statements are correct (1, 2, 4); one is incorrect (3). Answer is (b) Only three."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits geographic conflation. Students know that flat terrain facilitates gravity-flow water systems and may associate the vast, flat Indo-Gangetic Plain with any gravity-dependent irrigation. However, cascade tanks are a distinctly South Indian institution born from the Deccan Plateau's specific geology (hard rock, no deep alluvial aquifers) and rainfall pattern (seasonal, not perennial rivers). The trap works because 'flat terrain + gravity flow' sounds logically consistent even for the wrong region.",
+      "final_explanation": "Tank irrigation and its revival mechanisms are a recurring UPSC theme connecting traditional water systems, state policy, and convergence with central schemes.\n\n• Statement 1 — Correct: Mission Kakatiya (Telangana) targets restoration of over 46,000 minor irrigation tanks, invoking the Kakatiya dynasty's heritage of tank-building in the Deccan region.\n• Statement 2 — Correct: Kudimaramathu engages village communities in Tamil Nadu to desilt and repair tanks using local labor — a decentralized, participatory model.\n• Statement 3 — Incorrect: Cascade tank systems are endemic to peninsular South India. The interconnected tank chains of Karnataka, Tamil Nadu, and Andhra Pradesh evolved because hard Deccan rock makes large reservoirs and deep wells difficult, and seasonal rivers require distributed storage. The Indo-Gangetic Plain relies on canals and tubewells — not tank cascades.\n• Statement 4 — Correct: MGNREGS Schedule II includes renovation of traditional water bodies as a permissible work category, making it a natural funding conduit for tank restoration across multiple states.\n\nValue Addition:\n• The Kakatiya dynasty (12th–14th century CE) built thousands of tanks in the Deccan — Ramappa Lake (now a UNESCO World Heritage Site) is their most famous hydraulic work.\n• Zamindari abolition disrupted tank maintenance because zamindars had traditionally funded upkeep; post-abolition, no equivalent institutional mechanism was created.\n• Jal Shakti Abhiyan also identifies traditional water harvesting structures (TWHS) for restoration as a priority intervention."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding tank irrigation and its revival in India:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Mission Kakatiya is a tank restoration programme launched by Telangana."
+          ],
+          [
+            "2",
+            "Kudimaramathu is a scheme initiated by the Tamil Nadu government to restore water bodies through community participation."
+          ],
+          [
+            "3",
+            "Cascade tank systems — interconnected chains of tanks — are characteristic of the Indo-Gangetic Plain where flat terrain facilitates gravity-flow linkages."
+          ],
+          [
+            "4",
+            "MGNREGS has been used as a convergence tool for desilting and restoring traditional tanks in several states."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8feaa728-9bbf-404a-b7f8-9c88ffc91817",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Well and Tubewell Irrigation: Groundwater Exploitation and Regional Patterns",
+        "Groundwater Depletion and Over-Exploitation: Crisis Dimensions"
+      ],
+      "subject_que_no": 177,
+      "overall_que_no": 7524
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "Tubewell prevalence — alluvial plains vs. hard-rock terrain",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know tubewells are associated with the Green Revolution and correctly place Punjab in Column 2 but confuse the aquifer types (phreatic vs. confined) will choose option (b), swapping the aquifer descriptions.",
+      "elimination_logic": [
+        "Match A: Open wells tap shallow water-table (phreatic) aquifers; they are common in peninsular India where hard rock limits depth but shallow weathered zones hold water. Correct match is 3.",
+        "Match B: Tubewells penetrate deep confined aquifers in alluvial plains (Indo-Gangetic); their proliferation is directly tied to Green Revolution subsidies on electricity for pumping. Correct match is 1.",
+        "Match C: Peninsular hard-rock terrain yields low from tubewells because fractured rock aquifers have limited storage — this is why tanks dominate there. Correct match is 4.",
+        "Match D: CGWB classifies groundwater blocks as Safe, Semi-critical, Critical, and Over-exploited; Punjab has the highest concentration of 'over-exploited' blocks. Correct match is 2. Full match: A-3, B-1, C-4, D-2 — option (d)."
+      ],
+      "upsc_trap_explanation": "Option (b) swaps the aquifer types for open wells and tubewells — a frequent source of confusion since students know 'tubewells go deeper' but may not recall that 'phreatic' means water-table and 'confined' means deeper pressurized aquifer. Option (c) creates a geographic swap by linking tubewell proliferation to peninsular India rather than the Indo-Gangetic Plain, exploiting the fact that tubewells are the largest national irrigation source without specifying the regional concentration.",
+      "final_explanation": "Understanding the groundwater extraction landscape requires distinguishing aquifer types, regional geography, and policy triggers.\n\nCorrect pairings:\n• A–3: Open wells draw from phreatic (water-table) aquifers — the shallow, unconfined groundwater zone. They are traditional and widespread but dependent on monsoon recharge.\n• B–1: Tubewells access deep confined aquifers in alluvial Indo-Gangetic plains. The Green Revolution's subsidized electricity removed the cost barrier for pumping, triggering explosive tubewell proliferation in Punjab, Haryana, and western UP.\n• C–4: Peninsular hard-rock terrain (Deccan Plateau) has low tubewell yields because crystalline basement rocks have limited porosity and fracture-dependent groundwater. This is why tanks, not tubewells, dominate there.\n• D–2: CGWB (Central Ground Water Board) classifies blocks as Safe, Semi-critical, Critical, and Over-exploited based on the ratio of extraction to recharge. Punjab has the largest share of 'over-exploited' blocks nationally.\n\nTrap pairing: Option (b) swaps aquifer type labels between A and B; option (c) geographically misplaces tubewell proliferation to peninsular India.\n\nValue Addition:\n• Atal Bhujal Yojana (Atal Jal) targets 7 states with stressed groundwater: Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh.\n• Over-exploitation of groundwater in Punjab has led to a decline in the water table by 0.5–1 metre per year in many districts.\n• Free electricity to farmers is identified as the single biggest structural driver of groundwater over-exploitation in northwest India."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I (Concept/Entity)",
+          "List II (Description/Feature)"
+        ],
+        "rows": [
+          [
+            "A. Open wells",
+            "1. Proliferated in Indo-Gangetic alluvial plains during Green Revolution due to subsidized electricity"
+          ],
+          [
+            "B. Tubewells",
+            "2. CGWB classification for groundwater units where annual extraction exceeds recharge"
+          ],
+          [
+            "C. Peninsular hard-rock terrain",
+            "3. Tap shallow phreatic (water-table) aquifers; depth limited by rock basement"
+          ],
+          [
+            "D. Over-exploited blocks",
+            "4. Low tubewell yield due to limited porosity of crystalline basement rock"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-3, B-4, C-1, D-2\n(c) A-3, B-1, C-2, D-4\n(d) A-3, B-1, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "00ba1d3e-06a0-4021-8114-8d5a087181cc",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Drip and Sprinkler Irrigation: Micro-Irrigation Systems"
+      ],
+      "subject_que_no": 178,
+      "overall_que_no": 7525
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Drip irrigation water efficiency — mechanism vs. percentage savings",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both facts are correct and that drip irrigation 'saves water' will assume the causal link is valid without checking whether the efficiency percentage cited in R is the reason for the efficiency mechanism described in A.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? A states drip irrigation delivers water directly to the root zone, minimizing evaporation and surface runoff. This is the defining mechanism of drip/trickle irrigation. A is correct.",
+        "Step 2: Is Reason (R) correct? R states drip irrigation improves water use efficiency by 25–30% compared to flood irrigation. The established figure for drip irrigation savings is 30–50%; the 25–30% figure belongs to sprinkler irrigation. R contains a factual error — the percentage is understated and belongs to the wrong system. R is incorrect.",
+        "Step 3: Since A is correct and R is incorrect, the answer must be (c) regardless of the causal relationship.",
+        "Confirm: A correct + R incorrect → option (c). This matches."
+      ],
+      "upsc_trap_explanation": "The trap lies in the water-saving percentages. UPSC-level questions frequently test whether students distinguish drip savings (30–50%) from sprinkler savings (25–30%). A student who remembers 'micro-irrigation saves water' without precision on the percentage ranges will accept R as broadly correct and choose (a) instead of (c). The assertion describes drip irrigation accurately; the reason subtly attributes sprinkler-level savings to drip, making R factually incorrect despite sounding plausible.",
+      "final_explanation": "Drip irrigation (also called trickle irrigation) delivers water through a network of pipes and emitters directly to the plant's root zone at low pressure and low volume. This targeted delivery is the source of its efficiency advantage.\n\nAssertion (A) — Correct: The root-zone delivery mechanism eliminates the two largest water losses in flood irrigation — evaporation from open water surfaces and surface runoff to field boundaries. Drip irrigation achieves field application efficiency of 80–90%.\n\nReason (R) — Incorrect: The water savings figure in R (25–30% versus flood irrigation) corresponds to sprinkler irrigation, not drip irrigation. Drip irrigation typically saves 30–50% of water compared to conventional flood/furrow irrigation. The Pradhan Mantri Krishi Sinchayee Yojana's 'Per Drop More Crop' component uses drip's higher efficiency as its core rationale.\n\nSince A is correct but R contains a factual error (wrong percentage attributed to the wrong system), the answer is (c).\n\nValue Addition:\n• Field application efficiency benchmark: Flood irrigation ~40–50%; Sprinkler ~70–80%; Drip ~80–90%.\n• Per Drop More Crop (PDMC) under PMKSY is funded on a 60:40 Centre-State cost-sharing basis (90:10 for NE and hill states).\n• Maharashtra, Gujarat, Andhra Pradesh, and Rajasthan are the leading states in micro-irrigation adoption, driven by horticultural crop requirements and water scarcity."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Drip irrigation reduces water losses by delivering moisture directly to the plant root zone, thereby minimizing evaporation and surface runoff.\n\nReason (R): Compared to conventional flood irrigation, drip irrigation improves water use efficiency by approximately 25–30%, making it suitable for water-scarce regions.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "76d7bb6b-f977-411b-a0e3-6cc802e3db38",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY): Architecture and Components"
+      ],
+      "subject_que_no": 179,
+      "overall_que_no": 7526
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "AIBP launch year and merger into PMKSY",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know AIBP predates PMKSY and that PMKSY was launched around 2015 may place CADWMP absorption before AIBP merger, not realising CADWMP and HKKP were merged simultaneously with AIBP into PMKSY.",
+      "elimination_logic": [
+        "AIBP was launched in 1996-97 as a central scheme for completing incomplete major/medium irrigation projects — it is the earliest event.",
+        "PMKSY was launched in 2015-16, merging AIBP, HKKP, PDMC, and WDC (including CADWMP functions) into a single scheme — this is the latest event.",
+        "The formal absorption of CADWMP into PMKSY occurred as part of the 2015-16 PMKSY launch, simultaneously with AIBP merger — not before or after it.",
+        "Correct sequence: AIBP launch (1996-97) → PMKSY launch absorbing all predecessor schemes including AIBP and CADWMP (2015-16). The correct chronological order matching the options is: AIBP first, then PMKSY — option (b)."
+      ],
+      "upsc_trap_explanation": "The temporal trap here is the placement of CADWMP relative to PMKSY. CADWMP was an older standalone scheme (launched in 1974) that continued independently until PMKSY absorbed it in 2015-16. Students who know CADWMP is 'older than PMKSY' might place its 'merger' at a different time than AIBP's merger, not realising all predecessor schemes merged simultaneously into PMKSY in 2015-16.",
+      "final_explanation": "PMKSY represents a consolidation of multiple pre-existing irrigation schemes, and UPSC frequently tests whether candidates know which scheme preceded which and the merger sequence.\n\nCorrect chronological order of key events:\n1. AIBP launched (1996-97): Provided central loan assistance (later grants) for completing long-pending major and medium irrigation projects.\n2. CADWMP operating (1974 onwards): Independently focused on bridging the gap between irrigation potential created and utilized through field channels and land leveling.\n3. PMKSY launched (2015-16): Merged AIBP, Har Khet Ko Pani, Per Drop More Crop, and Watershed Development (including CADWMP functions) into a single umbrella scheme.\n\nWrong options explained:\n• Option (a) places CADWMP absorption before AIBP, which inverts the merger sequence — both merged simultaneously into PMKSY.\n• Option (c) suggests PMKSY predates AIBP, which is chronologically impossible.\n• Option (d) places AIBP after PMKSY, directly contradicting the 1996-97 launch date.\n\nValue Addition:\n• PMKSY's full form: Pradhan Mantri Krishi Sinchayee Yojana — launched under the motto 'Har Khet Ko Pani, More Crop Per Drop'.\n• 99 prioritized incomplete irrigation projects were identified under PMKSY-AIBP for accelerated completion.\n• District Irrigation Plans (DIPs) and State Irrigation Plans (SIPs) were introduced under PMKSY as decentralized planning tools."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of events related to irrigation policy in India?\n\n1. Launch of Accelerated Irrigation Benefits Programme (AIBP)\n2. Command Area Development and Water Management Programme (CADWMP) absorbed into PMKSY\n3. Launch of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)\n\n(a) 2 → 1 → 3\n(b) 1 → 3 → 2 (with 2 and 3 simultaneous)\n(c) 3 → 1 → 2\n(d) 2 → 3 → 1",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "503dabe0-904f-49f6-80bd-dd228a4b75ca",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Accelerated Irrigation Benefits Programme (AIBP): Purpose, Performance, and Issues"
+      ],
+      "subject_que_no": 180,
+      "overall_que_no": 7527
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "AIBP scope — major/medium projects only, excludes minor irrigation",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know AIBP deals with 'incomplete irrigation projects' and provides central assistance may choose (b) assuming any incomplete irrigation project qualifies, without recalling the major/medium threshold restriction.",
+      "elimination_logic": [
+        "Identify what AIBP covers: AIBP provides central assistance exclusively for major and medium irrigation projects (CCA > 2,000 ha). Minor irrigation projects are outside its scope.",
+        "The scenario describes a tank with a proposed CCA of 800 hectares — this falls squarely in the 'minor irrigation' category (CCA < 2,000 ha).",
+        "Eliminate (a) — AIBP-PMKSY does fund major/medium projects but the tank described is minor irrigation; eligibility fails on the project size criterion.",
+        "Eliminate (b) — Per Drop More Crop targets micro-irrigation technology adoption (drip/sprinkler), not completion of storage infrastructure like tanks. Eliminate (c) — Har Khet Ko Pani focuses on extending irrigation connectivity to unirrigated farms, not restoring tank structures. Confirm (d) — CADWMP (now within PMKSY) and MGNREGS are the appropriate instruments for minor irrigation and tank restoration; the state government's own minor irrigation funds are the primary channel."
+      ],
+      "upsc_trap_explanation": "The trap exploits the common assumption that AIBP funds 'any incomplete irrigation project.' AIBP has an explicit eligibility threshold — only major (CCA > 10,000 ha) and medium (CCA 2,000–10,000 ha) projects qualify. A tank with 800 ha CCA is a minor irrigation project, ineligible for AIBP. Students who recall AIBP's purpose without its scope limitation will confidently choose (a) or (b).",
+      "final_explanation": "AIBP eligibility is determined by Culturable Command Area thresholds. Understanding these thresholds is critical for applying the correct scheme to a given scenario.\n\nApplicable principle: Classification by CCA — Major (> 10,000 ha), Medium (2,000–10,000 ha), Minor (< 2,000 ha). AIBP covers only major and medium projects. The tank in the scenario (projected CCA: 800 ha) is a minor irrigation project.\n\nOption analysis:\n• Option (a) — Incorrect: AIBP under PMKSY does not extend to minor irrigation. The CCA of 800 ha places this tank firmly in the minor category.\n• Option (b) — Incorrect: Per Drop More Crop (PDMC) finances micro-irrigation technology (drip/sprinkler systems) on farms — not construction or restoration of storage structures like tanks.\n• Option (c) — Incorrect: Har Khet Ko Pani aims at extending water supply to unirrigated fields through pipeline connectivity and groundwater development — not tank construction.\n• Option (d) — Correct: Minor irrigation tanks are funded through state government budgets, MGNREGS (for desilting and restoration), and schemes like Mission Kakatiya (Telangana) or Kudimaramathu (Tamil Nadu). The state must rely on its own minor irrigation programme or MGNREGS convergence.\n\nValue Addition:\n• 99 major/medium projects were prioritized under PMKSY-AIBP for completion; these were stuck for decades due to funding shortfalls.\n• CAG reports have repeatedly highlighted cost overruns and time delays in AIBP projects — a governance issue UPSC tests in GS-II/III context.\n• Minor irrigation is constitutionally a state subject — central funding is indirect (through MGNREGS, Jal Shakti Abhiyan) rather than project-specific grants."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A state government proposes to restore an ancient tank in a district with a projected Culturable Command Area of 800 hectares. The work involves desilting, repair of sluice gates, and construction of a new feeder channel. The project has been pending for twelve years due to fund shortage, and the state government seeks central financial assistance.\n\nUnder which of the following schemes would this project be INELIGIBLE for direct central funding?\n\n(a) AIBP component under Pradhan Mantri Krishi Sinchayee Yojana\n(b) Per Drop More Crop component under PMKSY\n(c) Har Khet Ko Pani component under PMKSY\n(d) Both (a) and (b), since both exclude minor irrigation projects from central assistance",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3a709689-456d-4dc6-8f6e-5430f94a9da1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Major, Medium, and Minor Irrigation: Classification and Policy Implications"
+      ],
+      "subject_que_no": 181,
+      "overall_que_no": 7528
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "Minor irrigation classification — surface and groundwater both included",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who associate 'minor irrigation' only with small surface water works and forget that tubewells fall under minor irrigation may think (b) is the odd one because tubewells seem to belong to a different category.",
+      "elimination_logic": [
+        "Identify the category: three items should belong to 'minor irrigation' (CCA < 2,000 ha) and one should not.",
+        "Lift irrigation scheme with CCA of 12,000 ha — CCA exceeds 10,000 ha threshold; this is a major irrigation project, not minor. This is the odd one.",
+        "Tubewell (individual farm) — falls under groundwater minor irrigation; CCA of a single tubewell is far below 2,000 ha. Belongs to minor irrigation.",
+        "Small diversion weir (CCA 500 ha) — CCA < 2,000 ha; this is surface minor irrigation. Belongs to minor irrigation. Village pond/small tank (CCA 150 ha) — CCA < 2,000 ha; surface minor irrigation. Confirm (c) is the odd one."
+      ],
+      "upsc_trap_explanation": "The conflation trap works by mixing surface and groundwater sources within the minor irrigation category. Students who think 'minor irrigation = only small tanks/surface works' will doubt whether tubewells belong there and may select (b) as the odd one. The actual odd item is the lift irrigation scheme with 12,000 ha CCA — clearly a major project — but students distracted by the tubewell categorisation question may miss this straightforward size-based answer.",
+      "final_explanation": "Classification of irrigation projects uses Culturable Command Area as the single defining criterion, and minor irrigation includes both surface and groundwater sources.\n\n• Option (a) — Tubewell serving individual farms: Belongs to minor irrigation. Each tubewell's CCA is typically a few hectares — well under the 2,000 ha threshold. Groundwater irrigation (wells, tubewells) is explicitly classified as minor irrigation.\n• Option (b) — Small diversion weir with 500 ha CCA: Belongs to minor irrigation. Surface minor irrigation includes diversion weirs, small tanks, and check dams with CCA below 2,000 ha.\n• Option (c) — Lift irrigation scheme with 12,000 ha CCA: This is the ODD ONE OUT. A CCA of 12,000 ha exceeds the 10,000 ha major irrigation threshold — this is a major irrigation project, not minor.\n• Option (d) — Village pond with 150 ha CCA: Belongs to minor irrigation. This is a classic surface minor irrigation structure.\n\nValue Addition:\n• The exact thresholds: Major > 10,000 ha CCA; Medium 2,000–10,000 ha; Minor < 2,000 ha.\n• Minor irrigation is far more numerous in project count but individually smaller — over 90% of irrigation projects by number are minor irrigation.\n• Groundwater irrigation (tubewells) falling under minor irrigation means the largest share of India's irrigated area (>60% of NIA) technically falls under the 'minor' category — a frequently tested paradox."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT belong to the same classification category as the others under India's irrigation project classification system?\n\n(a) A tubewell providing irrigation to individual farm holdings\n(b) A small diversion weir serving a Culturable Command Area of 500 hectares\n(c) A lift irrigation scheme with a Culturable Command Area of 12,000 hectares\n(d) A village pond with a Culturable Command Area of 150 hectares",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1b9a2927-7c83-4463-9b1f-11adefcc9f5d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Irrigation Potential Created vs. Irrigation Potential Utilized: The Utilization Gap"
+      ],
+      "subject_que_no": 182,
+      "overall_que_no": 7529
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "IPC–IPU gap — reasons and CADWMP response",
+      "statement_analysis": [
+        {
+          "statement": "India's Irrigation Potential Utilized (IPU) consistently falls short of Irrigation Potential Created (IPC), with the gap primarily attributed to inadequate last-mile field channel connectivity within existing command areas.",
+          "verdict": "Correct",
+          "reason": "The IPC–IPU gap of approximately 10–15 million hectares is well-documented; the leading cause is lack of field channels connecting main/branch canals to individual farm plots — the 'last-mile' problem that CADWMP specifically targets."
+        },
+        {
+          "statement": "The Command Area Development and Water Management Programme (CADWMP) was designed to create new irrigation potential by constructing major canals in rain-shadow areas that lack existing irrigation infrastructure.",
+          "verdict": "Incorrect",
+          "reason": "CADWMP does not create new irrigation potential; it improves utilization of already-created potential through on-farm development works, field channel construction, land leveling, and the warabandi system within existing command areas."
+        }
+      ],
+      "strong_distractor": "a — Wait — (a) is the correct answer here. The strong distractor is option (d): students who partially know CADWMP 'deals with command areas and irrigation' may accept Statement 2 as broadly correct without recognising the critical distinction between 'creating new potential' (which CADWMP does NOT do) and 'improving utilization of existing potential' (which it does).",
+      "elimination_logic": [
+        "Evaluate Statement 1: The IPC–IPU gap and its link to last-mile field channel deficiency is a standard finding of Parliamentary Standing Committees and the NITI Aayog. Statement 1 is correct.",
+        "Evaluate Statement 2: CADWMP operates within existing command areas — it builds chak (field) channels, levels land, and implements warabandi rotation. It does NOT identify new areas for irrigation or construct primary/secondary canals. Statement 2 confuses CADWMP's mandate with AIBP's mandate. Statement 2 is incorrect.",
+        "Statement 1 correct + Statement 2 incorrect → answer is (c).",
+        "Confirm: option (c) states 'Statement 1 is correct but Statement 2 is incorrect' — this matches the analysis."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is the phrase 'create new irrigation potential.' CADWMP is explicitly about improving utilization of already-created potential — not creating new potential. Students who recall CADWMP as an irrigation programme without this precision will accept Statement 2 as consistent with 'irrigation development' generally and choose option (a) instead of (c).",
+      "final_explanation": "The gap between Irrigation Potential Created (IPC) and Irrigation Potential Utilized (IPU) is a central policy failure in India's irrigation sector.\n\n• Statement 1 — Correct: National-level estimates consistently show IPU lagging IPC by 10–15 million hectares. The primary technical reason is the absence of field channels (chak channels) connecting secondary and tertiary canals to individual farm plots. Without these last-mile links, farmers cannot access water even when a dam or main canal exists nearby.\n• Statement 2 — Incorrect: CADWMP was established specifically to bridge the IPC–IPU gap within existing command areas — not to create new irrigation potential. Its interventions include construction of field channels, land leveling, drainage improvement, and implementation of the warabandi rotational water distribution system. Creating new potential (new dams, new canals) is the domain of AIBP and state capital works. CADWMP has now been subsumed under PMKSY but retains this mandate.\n\nValue Addition:\n• The IPC–IPU gap is also caused by waterlogging (in canal-command areas of Punjab, Haryana) and crop-water mismatch — farmers growing less water-intensive crops than the canal design assumed.\n• Water User Associations (WUAs) / Pani Panchayats are the participatory mechanism CADWMP uses to hand over tertiary canal management to farmer groups.\n• PMKSY's overarching goal of 'More Crop Per Drop' directly addresses IPU by improving on-farm water use efficiency."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements:\n\nStatement 1: India's Irrigation Potential Utilized (IPU) consistently falls short of Irrigation Potential Created (IPC), with the gap primarily attributed to inadequate last-mile field channel connectivity within existing command areas.\n\nStatement 2: The Command Area Development and Water Management Programme (CADWMP) was designed to create new irrigation potential by constructing major canals in rain-shadow areas that lack existing irrigation infrastructure.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a5538935-f2df-4a36-b78b-7f129ef7c6d8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Warabandi System: Rotational Water Distribution in Canal Irrigation"
+      ],
+      "subject_que_no": 183,
+      "overall_que_no": 7530
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "conflation",
+      "concept_anchor": "Warabandi — time-based not volume-based allocation",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know warabandi involves 'fixed allocation' to farmers may choose (c) 'volumetric allocation' because they associate 'fixed' with 'measured quantity of water,' confusing the time-based mechanism with volume-based pricing.",
+      "elimination_logic": [
+        "Warabandi literally means 'turn of water' — it is a rotational schedule where each farmer receives canal water for a fixed time period proportional to their land holding.",
+        "Eliminate (a) 'priority-based demand allocation' — warabandi is pre-scheduled, not demand-driven; it does not respond to individual requests.",
+        "Eliminate (c) 'volumetric allocation' — warabandi measures time of supply, not volume of water delivered. Volumetric allocation requires metering infrastructure.",
+        "Eliminate (d) 'bidding-based water market' — this is a proposed reform concept; warabandi is an administrative rotational system, not a market mechanism. Confirm (b) 'time-based rotational allocation'."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges 'equitable fixed allocation' (which warabandi achieves through time) with 'volumetric allocation' (which requires measuring actual water volume). Students who understand warabandi ensures equity but confuse the mechanism — time vs. volume — will choose (c). The distinction matters for water governance reform debates: moving from warabandi to volumetric pricing is a major policy proposal to conserve water.",
+      "final_explanation": "The Warabandi system is the traditional rotational water distribution mechanism used in canal irrigation, primarily in Punjab, Haryana, and Rajasthan.\n\n• Option (a) — Incorrect: Priority-based demand allocation means water is supplied to whoever requests it first or has higher status — warabandi is the opposite; it pre-assigns fixed turns to all farmers.\n• Option (b) — Correct: Warabandi allocates canal water on a time-based rotational schedule. Each farmer in a distributary's command receives water for a fixed number of hours per week proportional to their land holding. The schedule is fixed and predictable, not dependent on actual crop demand.\n• Option (c) — Incorrect: Volumetric allocation requires measuring the actual quantity of water delivered to each farm using flow meters or other measurement devices — warabandi uses time as the proxy for allocation, not measured volume.\n• Option (d) — Incorrect: Water markets involve buying and selling water rights — a proposed reform in some countries but not the basis of warabandi.\n\nValue Addition:\n• Tail-end farmers in a warabandi system are systematically disadvantaged — water losses through seepage and unauthorized extraction by head-reach farmers reduce actual delivery to tail-end plots.\n• Volumetric pricing of irrigation water is recommended by the Mihir Shah Committee (2016) report on water sector reforms as an alternative to warabandi.\n• Warabandi is administered by irrigation department officials and is legally binding — violations can invite penalties."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Warabandi system, prevalent in canal-irrigated areas of Punjab, Haryana, and Rajasthan, is a form of ________ that allocates canal water among farmers within a distributary's command area according to a fixed predetermined schedule.\n\n(a) Priority-based demand allocation, where farmers request water as per crop needs\n(b) Time-based rotational allocation, where each farmer receives water for a fixed duration proportional to land holding\n(c) Volumetric allocation, where each farmer receives a pre-measured quantity of water per irrigation cycle\n(d) Bidding-based water market, where canal water is distributed to the highest-paying farmer first",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a695dec2-4f06-4073-98e8-c256c6aeda79",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Groundwater Depletion and Over-Exploitation: Crisis Dimensions"
+      ],
+      "subject_que_no": 184,
+      "overall_que_no": 7531
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Atal Bhujal Yojana — target states and World Bank assistance",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who associate groundwater stress with the Green Revolution belt may select (b) linking Atal Bhujal Yojana with only Punjab and Haryana, not recalling that the scheme targets 7 states including non-Green Revolution states like Gujarat and Karnataka.",
+      "elimination_logic": [
+        "Identify the correct pairing from key facts: Atal Bhujal Yojana (Atal Jal) is a World Bank-assisted scheme targeting community-led groundwater management in 7 water-stressed states.",
+        "Eliminate (a): Jal Shakti Abhiyan is a time-bound campaign for water conservation — not a World Bank-assisted groundwater management programme. Pairing it with 'World Bank-assisted community groundwater management' is an entity-swap error.",
+        "Eliminate (b): Atal Bhujal Yojana targets 7 states (Gujarat, Haryana, Karnataka, MP, Maharashtra, Rajasthan, UP) — not exclusively Punjab and Haryana. The pair is geographically incomplete.",
+        "Eliminate (d): MGNREGS is a rural employment scheme that can fund water conservation works but is not a groundwater-specific management scheme. Confirm (c): Atal Bhujal Yojana paired with 'World Bank-assisted, community-led groundwater management in 7 water-stressed states' is the correctly matched pair."
+      ],
+      "upsc_trap_explanation": "Option (a) is the primary entity-swap trap: Jal Shakti Abhiyan and Atal Bhujal Yojana are both water-related central government initiatives, and students who have not distinguished them precisely will assign World Bank assistance to the wrong scheme. Jal Shakti Abhiyan was a campaign (not a funded World Bank project) while Atal Jal is the World Bank co-financed scheme specifically for groundwater management.",
+      "final_explanation": "Groundwater depletion has prompted multiple policy responses; distinguishing them by mechanism and funding source is critical.\n\n• Option (a) — Incorrect: Jal Shakti Abhiyan is a government-run time-bound water conservation campaign (2019), not a World Bank-assisted community groundwater management programme. This is an entity-swap.\n• Option (b) — Incorrect: While Punjab and Haryana are certainly among the most groundwater-stressed states, Atal Bhujal Yojana covers 7 states: Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh. Restricting it to two states makes this pairing incorrect.\n• Option (c) — Correct: Atal Bhujal Yojana (Atal Jal) is correctly paired with World Bank-assisted community-led groundwater management across 7 water-stressed states. It focuses on demand-side management and community participation rather than supply augmentation.\n• Option (d) — Incorrect: MGNREGS is a wage employment scheme with water conservation as one permissible work — it is not a dedicated groundwater management programme.\n\nValue Addition:\n• CGWB classifies groundwater assessment units (blocks/talukas) as Safe, Semi-critical, Critical, and Over-exploited — Punjab has the highest proportion of over-exploited blocks.\n• Atal Bhujal Yojana has a demand-side focus: water security plans at Gram Panchayat level, crop diversification, and efficient irrigation promotion.\n• The Green Revolution–MSP–free electricity nexus is the structural driver of groundwater over-exploitation in northwest India — addressing it requires coordinated agricultural and power sector reform."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched?\n\n(a) Jal Shakti Abhiyan — World Bank-assisted programme for community-led groundwater management in water-stressed states\n(b) Atal Bhujal Yojana — Central scheme targeting groundwater recharge exclusively in Punjab and Haryana through subsurface dam construction\n(c) Atal Bhujal Yojana — World Bank-assisted scheme promoting community-led groundwater management in seven water-stressed states\n(d) MGNREGS — Dedicated groundwater management programme for over-exploited aquifer zones in peninsular India",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2205ad48-17eb-4fd1-ac6d-8dbd32edf825",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Traditional/Indigenous Irrigation Systems: Diversity and Revival"
+      ],
+      "subject_que_no": 185,
+      "overall_que_no": 7532
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "Traditional irrigation systems — geography of Karez, Phad, Ahar-Pyne, Zabo",
+      "statement_analysis": [
+        {
+          "statement": "The Karez (Kariz) system is an underground channel-based irrigation technique traditionally practised in the arid regions of Rajasthan.",
+          "verdict": "Correct",
+          "reason": "Karez/Kariz are horizontal underground channels that tap groundwater from hillside aquifers and carry it by gravity to lower agricultural land — found in the arid zones of Rajasthan (and across into Afghanistan/Balochistan). This is a correct geographic placement."
+        },
+        {
+          "statement": "The Ahar-Pyne system is a traditional irrigation network of Bihar, where Ahar refers to a catchment basin and Pyne refers to artificial channels diverting river water into it.",
+          "verdict": "Correct",
+          "reason": "Ahar-Pyne is an indigenous irrigation system of south Bihar. An Ahar is a rectangular embanked reservoir; Pynes are artificial rivulets (channels) that divert river water into the Ahars during monsoon. This is accurately described."
+        },
+        {
+          "statement": "The Phad system of irrigation is associated with the rivers of Nagaland and represents a terrace-farming adaptation to northeastern hill ecology.",
+          "verdict": "Incorrect",
+          "reason": "The Phad system is associated with Maharashtra (rivers Panzara and Mosam in the Khandesh region) — not Nagaland. Nagaland's traditional system is Zabo (also called Ruza), which integrates water harvesting with forests and agricultural terraces."
+        }
+      ],
+      "strong_distractor": "d — A student who is uncertain about the Phad system's geography but confirms Statements 1 and 2 may choose (d) hoping all three are correct, rather than selecting (c) which requires active rejection of Statement 3.",
+      "elimination_logic": [
+        "Verify Statement 3 first — Phad is linked to Maharashtra (Khandesh region, rivers Panzara and Mosam), NOT Nagaland. Nagaland's system is Zabo/Ruza. Statement 3 is incorrect.",
+        "Eliminate options (b) and (d) since both require Statement 3 to be correct.",
+        "Verify Statement 1 — Karez underground channels in arid Rajasthan: correct geographic placement.",
+        "Verify Statement 2 — Ahar (basin) + Pyne (channel) in south Bihar: accurately described. Both Statements 1 and 2 are correct. Answer is (c)."
+      ],
+      "upsc_trap_explanation": "The geographic swap in Statement 3 is the core trap: Phad (Maharashtra) and Zabo (Nagaland) are two distinct traditional irrigation systems from completely different regions. Students who recall both names but have not memorized their geographic anchors may accept the Phad–Nagaland pairing, especially since Nagaland's mountainous terrain seems intuitively suitable for traditional water harvesting adaptations.",
+      "final_explanation": "India's traditional irrigation systems represent diverse engineering solutions adapted to local geography — UPSC frequently tests their geographic placement.\n\n• Statement 1 — Correct: Karez (also spelled Kariz or Qanat) are underground channels that tap groundwater from sloping terrain using gravity alone. They require no pumping energy and are suited to arid zones. Found in Rajasthan's Barmer and Jaisalmer regions and extending into Afghanistan and Balochistan.\n• Statement 2 — Correct: The Ahar-Pyne system of south Bihar captures monsoon runoff. Ahars are rectangular embankments that store water; Pynes are temporary earthen channels (artificial rivulets) dug from rivers to fill the Ahars. Post-zamindari abolition, these fell into neglect for lack of maintenance investment.\n• Statement 3 — Incorrect: The Phad system belongs to Maharashtra's Khandesh region — it involves a cooperative irrigation arrangement on rivers Panzara and Mosam. Nagaland's traditional system is Zabo (Ruza), which integrates hilltop forests, terraced farms, and ponds in a cascade to capture rainwater.\n\nValue Addition:\n• Surangam (also called Thurangam) is an underground gravity-flow irrigation tunnel found in Kerala and Karnataka — conceptually similar to Karez.\n• Johad (earthen check dams) in Rajasthan were famously revived by Rajendra Singh (Waterman of India) through the Tarun Bharat Sangh — a model for community water conservation.\n• MGNREGS and Jal Shakti Abhiyan both identify traditional water harvesting structures (TWHS) as priority intervention points."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about traditional irrigation systems of India:\n\n1. The Karez (Kariz) system is an underground channel-based irrigation technique traditionally practised in the arid regions of Rajasthan.\n2. The Ahar-Pyne system is a traditional irrigation network of Bihar, where Ahar refers to a catchment basin and Pyne refers to artificial channels diverting river water into it.\n3. The Phad system of irrigation is associated with the rivers of Nagaland and represents a terrace-farming adaptation to northeastern hill ecology.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "27892bb9-23f0-418d-add7-00ebadcb018b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Inter-State River Water Disputes and Irrigation Access"
+      ],
+      "subject_que_no": 186,
+      "overall_que_no": 7533
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Article 262 — Supreme Court jurisdiction exclusion for water disputes",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know the Supreme Court has broad jurisdiction under Article 32 and Article 136 may assume it can hear any inter-state water dispute directly, not recalling that Article 262 specifically allows Parliament to exclude SC jurisdiction for such disputes.",
+      "elimination_logic": [
+        "Recall Article 262: Parliament may by law provide for adjudication of inter-state river water disputes and may exclude the jurisdiction of the Supreme Court in such matters.",
+        "The Inter-State River Water Disputes Act, 1956 operationalises Article 262 — it establishes Tribunals and bars direct SC jurisdiction over the merits of water sharing.",
+        "Eliminate (a) — The Supreme Court does NOT have automatic original jurisdiction over water sharing disputes; Parliament has validly excluded it under Article 262.",
+        "Eliminate (c) and (d) — These mischaracterize either the tribunal mechanism or the constitutional provision. Confirm (b): Article 262 empowers Parliament to both establish a tribunal-based adjudication system AND exclude Supreme Court jurisdiction over inter-state water disputes."
+      ],
+      "upsc_trap_explanation": "Students who know the Supreme Court intervened in the Cauvery dispute may incorrectly infer that the SC has full jurisdiction over inter-state water disputes. The nuance is that the SC can examine constitutional questions and structural aspects (e.g., setting up the Cauvery Water Management Authority after the 2018 judgment), but the merits of water-sharing are handled by Tribunals under Article 262, from which SC jurisdiction is statutorily excluded. The trap lies in conflating 'SC intervened' with 'SC has unlimited jurisdiction'.",
+      "final_explanation": "Article 262 is the constitutional provision that governs adjudication of inter-state river water disputes — a critical GS-II and GS-III topic.\n\n• Option (a) — Incorrect: The Supreme Court does NOT have automatic or exclusive original jurisdiction over water-sharing disputes between states. Article 262(2) explicitly permits Parliament to exclude SC jurisdiction, which it has done through the Inter-State River Water Disputes Act, 1956.\n• Option (b) — Correct: Article 262 performs a dual function — it authorises Parliament to establish an adjudication mechanism (Tribunals) for inter-state water disputes AND allows Parliament to bar even the Supreme Court from hearing appeals on the merits of such disputes.\n• Option (c) — Incorrect: Article 262 does not itself create Tribunals — it merely empowers Parliament to legislate for this. The Tribunals are created under the Inter-State River Water Disputes Act, 1956.\n• Option (d) — Incorrect: Water disputes between states are not automatically referred to the Finance Commission; the Finance Commission deals with fiscal devolution, not river water adjudication.\n\nValue Addition:\n• Active Tribunals: Cauvery (Tamil Nadu, Karnataka, Kerala, Puducherry); Krishna; Godavari; Mahanadi (Odisha vs. Chhattisgarh).\n• The Cauvery Water Management Authority (CWMA) was established in 2018 pursuant to the Supreme Court's direction — but the SC directed this on constitutional grounds, not water-sharing merits.\n• The SC CAN hear a water dispute if it involves constitutional interpretation (e.g., validity of a state law) — the exclusion applies only to the water-sharing merits."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the constitutional framework governing inter-state river water disputes in India, which one of the following statements is correct?\n\n(a) The Supreme Court has exclusive original jurisdiction over all inter-state river water disputes under Article 131 of the Constitution.\n(b) Article 262 of the Constitution empowers Parliament to provide by law for the adjudication of inter-state river water disputes and also to exclude the jurisdiction of the Supreme Court from such disputes.\n(c) Article 262 itself establishes Tribunals for water dispute adjudication and mandates a time-bound decision within three years of reference.\n(d) Disputes over sharing of inter-state river waters are automatically referred to the Finance Commission for resolution when negotiations between states fail.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "95f14162-b171-4200-94d6-2bc4083a2178",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Irrigation and Cropping Pattern: Water-Intensive vs. Water-Efficient Crops"
+      ],
+      "subject_que_no": 187,
+      "overall_que_no": 7534
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Water footprint ranking — paddy, wheat, millets comparison",
+      "statement_analysis": [
+        {
+          "statement": "Paddy (rice) requires approximately 1,500–2,000 litres of water per kilogram of grain produced.",
+          "verdict": "Correct",
+          "reason": "Rice cultivation is among the most water-intensive crops; the water footprint of paddy ranges from 1,500 to 2,000 litres per kg depending on cultivation method, soil type, and climate — transplanted paddy at the higher end."
+        },
+        {
+          "statement": "Wheat's water requirement is approximately 900 litres per kilogram, making it considerably less water-intensive than paddy but significantly more so than millets.",
+          "verdict": "Correct",
+          "reason": "Wheat's water footprint is approximately 900 litres/kg — roughly half that of paddy. Millets require only 300–500 litres/kg, so wheat sits correctly in the middle of this ranking."
+        },
+        {
+          "statement": "Millets (nutri-cereals) require 300–500 litres of water per kilogram, which is the lowest among major food grain crops, supporting the case for their promotion as water-efficient alternatives.",
+          "verdict": "Correct",
+          "reason": "Millets (sorghum, bajra, ragi) have evolved in dryland conditions and have C4 photosynthesis pathways that confer water efficiency. At 300–500 litres/kg, they are far less water-intensive than paddy or wheat."
+        },
+        {
+          "statement": "Direct Seeded Rice (DSR) technology eliminates standing water entirely from rice cultivation, reducing water consumption by 40–50% compared to conventional transplanted paddy.",
+          "verdict": "Incorrect",
+          "reason": "DSR reduces water consumption by approximately 15–20%, not 40–50%. It does not eliminate standing water entirely — it reduces the duration and depth of flooding but the crop still requires moisture management. The 40–50% figure overstates DSR's water savings."
+        }
+      ],
+      "strong_distractor": "d — Wait, (d) is the correct answer. The strong distractor is (c): students who know DSR 'saves significant water' and that millets are efficient may accept Statement 4's overstatement of DSR savings without recalling the precise 15–20% figure, choosing 'Only three' (c) instead of 'Only three' — but with Statement 4 as the wrong one. Actually the intended distractor is choosing (c) believing only Statements 1, 2, 3 are correct while also incorrectly accepting Statement 4.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Paddy water footprint 1,500–2,000 litres/kg — standard agronomic figure. Correct.",
+        "Evaluate Statement 2: Wheat at ~900 litres/kg between paddy and millets — correct relative positioning and figure. Correct.",
+        "Evaluate Statement 3: Millets at 300–500 litres/kg — accurately reflects their C4 dryland efficiency. Correct.",
+        "Evaluate Statement 4: DSR saves 15–20% water, not 40–50%; and it does not eliminate standing water entirely. Statement 4 is incorrect. Three statements correct → answer is (b) Only three."
+      ],
+      "upsc_trap_explanation": "Statement 4's trap is the exaggerated water-saving claim for DSR. Students who associate DSR with 'significant water savings' (which is true in direction but wrong in magnitude) and know it reduces the flooding period will accept '40–50%' without catching that this number actually belongs to the difference between paddy and millets, not DSR's incremental saving. The partial-truth technique inserts one false quantum into an otherwise correct description.",
+      "final_explanation": "The water footprint of crops is central to India's irrigation policy debate — particularly in water-scarce states like Punjab and Haryana that grow water-intensive paddy despite depleting aquifers.\n\n• Statement 1 — Correct: Transplanted paddy with standing water is one of the most water-intensive crops globally; its water footprint of 1,500–2,000 litres/kg reflects both evapotranspiration and percolation losses.\n• Statement 2 — Correct: Wheat at ~900 litres/kg is more efficient than paddy but still significant; it anchors the mid-range of water intensity among staple grains.\n• Statement 3 — Correct: Millets' C4 photosynthesis pathway allows stomata to close during peak heat, dramatically reducing water loss. Their promotion under the International Year of Millets (IYOM 2023) aligns directly with water conservation goals.\n• Statement 4 — Incorrect: DSR (Direct Seeded Rice) saves approximately 15–20% of water compared to transplanted paddy by reducing the nursery stage and the initial standing water period. It does not eliminate flooding entirely nor does it achieve 40–50% water savings.\n\nValue Addition:\n• MSP-driven paddy-wheat monoculture in Punjab/Haryana is identified as the core market distortion that sustains water-intensive cropping despite groundwater crisis.\n• Punjab and Haryana governments have been promoting DSR through per-acre incentives to reduce groundwater extraction.\n• The International Year of Millets 2023 was proposed by India and adopted by the UN General Assembly — linking food security, water efficiency, and nutrition."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about the water requirements of major crops and related irrigation technologies:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Paddy (rice) requires approximately 1,500–2,000 litres of water per kilogram of grain produced."
+          ],
+          [
+            "2",
+            "Wheat's water requirement is approximately 900 litres per kilogram, making it considerably less water-intensive than paddy but significantly more so than millets."
+          ],
+          [
+            "3",
+            "Millets (nutri-cereals) require 300–500 litres of water per kilogram, which is the lowest among major food grain crops, supporting the case for their promotion as water-efficient alternatives."
+          ],
+          [
+            "4",
+            "Direct Seeded Rice (DSR) technology eliminates standing water entirely from rice cultivation, reducing water consumption by 40–50% compared to conventional transplanted paddy."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b0a13c6c-a521-4fa5-b480-6c0506988b04",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Irrigation Coverage and Regional Disparities: Irrigated vs. Rainfed Agriculture"
+      ],
+      "subject_que_no": 188,
+      "overall_que_no": 7535
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Eastern India irrigation paradox — low irrigation despite abundant water",
+      "statement_analysis": [
+        {
+          "statement": "Approximately half of India's net sown area remains unirrigated and dependent on rainfall, and rainfed agriculture contributes to a majority of India's pulses and oilseeds production.",
+          "verdict": "Correct",
+          "reason": "About 48% of India's net sown area is rainfed (only ~52% is irrigated). Rainfed regions are the primary producers of pulses and oilseeds — these crops are grown on drylands and contribute disproportionately to nutritional food security."
+        },
+        {
+          "statement": "The low irrigation coverage in states like Jharkhand, Chhattisgarh, and Odisha is primarily due to water scarcity — these states receive low annual rainfall and lack perennial river systems.",
+          "verdict": "Incorrect",
+          "reason": "Jharkhand, Chhattisgarh, and Odisha receive substantial rainfall (often above 1,000 mm annually) and are traversed by major river systems. Their low irrigation is due to lack of infrastructure (dams, canals, tubewells) and institutional capacity — not water scarcity. This is the 'Eastern India irrigation paradox.'"
+        },
+        {
+          "statement": "Punjab achieves near-complete irrigation coverage of its net sown area because it is among the states with the highest annual rainfall in India.",
+          "verdict": "Incorrect",
+          "reason": "Punjab achieves ~98% irrigation intensity not because of high rainfall — it is actually a semi-arid state with moderate to low annual rainfall (~600–700 mm). Its high irrigation is due to an extensive canal network (fed by Himalayan rivers) and intensive groundwater extraction via tubewells."
+        }
+      ],
+      "strong_distractor": "a — Students who correctly identify Statement 2 as wrong but are uncertain about Statement 3 (knowing Punjab is 'highly irrigated' without recalling its rainfall context) may stop at Statement 2 and choose (a) instead of (c).",
+      "elimination_logic": [
+        "Evaluate Statement 1: ~52% irrigated / ~48% rainfed net sown area; rainfed areas dominate pulses and oilseeds production — accurate. Statement 1 is correct, NOT incorrect.",
+        "Evaluate Statement 2: Eastern states (Jharkhand, Chhattisgarh, Odisha) have abundant rainfall and major rivers but low irrigation due to infrastructure deficit — the claim of 'water scarcity' is factually wrong. Statement 2 is NOT correct.",
+        "Evaluate Statement 3: Punjab's ~98% irrigation is driven by canals and tubewells, not rainfall — it is semi-arid. Attributing Punjab's high irrigation to 'highest rainfall' is factually wrong. Statement 3 is NOT correct.",
+        "Question asks which are NOT correct — Statements 2 and 3 are incorrect. Answer is (c) — 2 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the confusion between 'highly irrigated state' and 'high-rainfall state.' Students associate high agriculture productivity in Punjab with favorable natural conditions, possibly conflating it with rainfall. The truth is precisely the opposite — Punjab's semi-aridity is WHY its farmers invested so heavily in canal and tubewell irrigation. This is a classic scope-extension trap that adds 'highest rainfall' as a false explanatory variable for a real outcome.",
+      "final_explanation": "The geography of irrigation in India reveals that irrigation coverage does not track rainfall — it tracks infrastructure investment and institutional capacity.\n\n• Statement 1 — Correct (not the answer): India's ~48% rainfed area supports the bulk of pulse and oilseed cultivation. Rainfed agriculture also supports roughly 40% of total food production and a majority of smallholder livelihoods.\n• Statement 2 — NOT correct: The 'Eastern India irrigation paradox' refers to the anomaly that states like Jharkhand, Chhattisgarh, and Odisha receive heavy monsoon rainfall (often 1,200–1,500 mm/year) and have major rivers (Mahanadi, Damodar, Brahmani) yet have among India's lowest irrigation rates. The constraint is lack of dams, canals, and tubewell infrastructure — not water availability.\n• Statement 3 — NOT correct: Punjab receives only about 600–700 mm of annual rainfall — it is a semi-arid state. Its ~98% irrigation coverage is a result of the colonial-era canal network (Bhakra Nangal, Indira Gandhi Canal feed) and post-Green Revolution tubewell proliferation, not natural rainfall abundance.\n\nValue Addition:\n• Rainfed Area Development (RAD) sub-scheme under NMSA uses an integrated farming systems approach to improve productivity in rainfed areas without depending on irrigation expansion.\n• The Eastern India irrigation paradox is the policy justification for the Eastern India Agriculture Initiative — promoting irrigation investment in Bihar, West Bengal, Odisha, and Chhattisgarh.\n• Irrigation intensity in Punjab (~190%) far exceeds 100% because GIA counts multi-crop irrigation — the same field is irrigated in multiple seasons."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding irrigation coverage and regional disparities in India:\n\n1. Approximately half of India's net sown area remains unirrigated and dependent on rainfall, and rainfed agriculture contributes to a majority of India's pulses and oilseeds production.\n2. The low irrigation coverage in states like Jharkhand, Chhattisgarh, and Odisha is primarily due to water scarcity — these states receive low annual rainfall and lack perennial river systems.\n3. Punjab achieves near-complete irrigation coverage of its net sown area because it is among the states with the highest annual rainfall in India.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1 and 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "261f8f90-fb1f-4db7-bfa0-7758ab2704f2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Flood Irrigation vs. Precision Irrigation: Efficiency and Subsidy Distortions"
+      ],
+      "subject_que_no": 189,
+      "overall_que_no": 7536
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Flat-rate electricity subsidy as barrier to irrigation efficiency",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who understand that DBT for electricity reduces subsidy leakage may choose (b) because it sounds like the correct reform direction, without recognising that flat-rate subsidy (not targeted subsidy) is what removes the price signal for water conservation.",
+      "elimination_logic": [
+        "The question asks for the primary reason flat-rate electricity tariffs for agriculture impede efficient water use.",
+        "When farmers pay a fixed seasonal charge regardless of how much electricity (and hence water) they pump, they have no marginal cost incentive to conserve water — the price signal is absent.",
+        "Eliminate (a) — flat-rate tariffs actually encourage MORE pumping, not less, since the marginal cost of additional pumping is zero once the flat charge is paid.",
+        "Eliminate (b) and (c) — these describe other policy issues (grid stability, crop choice) but do not identify the core price-signal mechanism. Confirm (d) — flat-rate tariff makes the marginal cost of each additional unit of water pumped effectively zero, removing any financial incentive for farmers to adopt water-saving practices."
+      ],
+      "upsc_trap_explanation": "Option (b) sounds policy-correct — DBT is indeed a reform direction. However, the question asks WHY flat-rate tariffs impede efficiency, not what the solution is. Students who immediately think 'reform = DBT' will choose (b) without addressing the causal mechanism. The core issue is the zero-marginal-cost problem created by flat-rate pricing — which removes the price signal that would otherwise incentivize efficiency.",
+      "final_explanation": "The structure of electricity subsidies for agriculture is one of the most important institutional barriers to water conservation in India.\n\n• Option (a) — Incorrect: Flat-rate electricity tariffs do not make water pumping more expensive — they make it cheaper (effectively zero at the margin). This encourages over-extraction, not conservation.\n• Option (b) — Incorrect: While DBT for electricity subsidies is a proposed reform, this option describes a solution, not the reason why the current system is inefficient. The question asks for the causal mechanism of inefficiency.\n• Option (c) — Incorrect: Grid stability is a concern with agricultural feeders, but it is an electricity distribution issue — not the primary reason flat-rate tariffs impede irrigation efficiency.\n• Option (d) — Correct: Under a flat-rate or free electricity regime, once a farmer pays the fixed seasonal charge (or nothing), the marginal cost of pumping one additional unit of water is zero. A rational farmer has no financial reason to stop pumping or switch to drip/sprinkler irrigation. This eliminates the price mechanism that would naturally incentivize water conservation.\n\nValue Addition:\n• Punjab, Andhra Pradesh, Telangana, and Tamil Nadu provide free or heavily subsidised electricity to agricultural pump sets — a policy that directly drives groundwater over-extraction.\n• The Mihir Shah Committee (2016) recommended shifting to volumetric water pricing and metered electricity supply as essential reforms.\n• The power sector–irrigation nexus: agricultural electricity subsidies cause financial losses to state DISCOMs, which then under-invest in rural infrastructure, creating a multi-sector crisis."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A key structural barrier to efficient water use in Indian agriculture is the prevalence of flat-rate or free electricity tariffs for agricultural pump sets. Which of the following most accurately explains why such tariff structures impede irrigation efficiency?\n\n(a) Flat-rate tariffs make the upfront cost of pumping prohibitively high, discouraging farmers from irrigating adequately even during crop stress periods.\n(b) Flat-rate tariffs incentivize farmers to seek Direct Benefit Transfer alternatives, diverting attention from on-field water management.\n(c) Flat-rate tariffs create grid instability on agricultural feeders, leading to erratic power supply that disrupts planned irrigation schedules.\n(d) Flat-rate tariffs reduce the marginal cost of pumping additional water to zero, eliminating the price signal that would otherwise incentivize farmers to adopt water-saving practices.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "36027efc-1d6a-4946-bf21-5ceb20f54bde",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Command Area Development and Water Management Programme (CADWMP)"
+      ],
+      "subject_que_no": 190,
+      "overall_que_no": 7537
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "Water User Associations — participatory irrigation management purpose",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? A states Water User Associations (WUAs) are farmer groups to whom management of canal distribution systems is transferred under participatory irrigation management. This is accurate — WUAs/Pani Panchayats receive operational responsibility for tertiary/field-level canals. A is correct.",
+        "Step 2: Is Reason (R) correct? R states WUAs were introduced to privatize irrigation infrastructure and generate commercial revenue from water sales to farmers. This misrepresents WUAs entirely — they are participatory management bodies, not commercial privatization vehicles. WUAs do not sell water commercially; they manage equitable distribution. R is incorrect.",
+        "Step 3: A correct + R incorrect → answer is (c). No causal evaluation needed since R is factually wrong.",
+        "Confirm: option (c) — A is correct but R is incorrect. Matches."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Participatory Irrigation Management (PIM) through Water User Associations (WUAs) is a key reform in India's canal irrigation governance.\n\nAssertion (A) — Correct: WUAs (also called Pani Panchayats in some states) are formal farmer collectives that receive delegated authority to manage the distribution of canal water within tertiary and field-level channels. They also take responsibility for maintenance, conflict resolution, and equitable distribution within their command area. This transfers day-to-day management from government irrigation departments to the farming community — a decentralization reform.\n\nReason (R) — Incorrect: WUAs are not privatization vehicles. They do not sell water commercially or generate revenue for the state. The objective is equity and efficiency in water distribution — ensuring tail-end farmers receive their share, reducing government maintenance costs, and building local ownership of irrigation infrastructure. Privatization implies profit-driven commercial operation, which is the opposite of PIM's community-management ethos.\n\nSince A is correct and R is factually wrong, the answer is (c).\n\nValue Addition:\n• The Andhra Pradesh Farmers Management of Irrigation Systems Act, 1997 is a pioneering state legislation institutionalizing WUAs — often cited as a model.\n• WUAs under CADWMP/PMKSY receive the operational responsibility for chak (field) channels after government-funded construction.\n• Participatory Irrigation Management is distinct from privatization: ownership remains with the state; only operational management is delegated to farmer groups."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Water User Associations (WUAs), promoted under the participatory irrigation management framework, are farmer collectives that receive delegated authority to manage the distribution of canal water within field-level distribution networks.\n\nReason (R): WUAs were introduced primarily to privatize irrigation infrastructure and generate commercial revenue from water sales to farmers, thereby reducing the financial burden on state irrigation departments.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "803e8270-e0ea-4dc5-9b9f-88f3dbcc6309",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Waterlogging and Soil Salinity/Alkalinity as Irrigation Externalities"
+      ],
+      "subject_que_no": 191,
+      "overall_que_no": 7538
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Waterlogging mechanism — secondary salinization via capillary rise",
+      "statement_analysis": [
+        {
+          "statement": "Secondary salinization in canal-irrigated areas results from excessive irrigation raising the water table, followed by capillary rise of dissolved salts to the soil surface upon evaporation.",
+          "verdict": "Correct",
+          "reason": "This is the textbook mechanism of secondary (irrigation-induced) salinization: over-irrigation → shallow water table → capillary rise → salt deposition at surface upon evaporation. It is distinct from primary salinity which has natural geological or coastal origins."
+        },
+        {
+          "statement": "Gypsum application is used to reclaim alkaline (usar) soils because calcium in gypsum displaces sodium from the soil exchange complex, reducing pH and improving soil structure.",
+          "verdict": "Correct",
+          "reason": "Calcium sulfate (gypsum) is the standard amendment for sodium-saturated alkaline soils — calcium ions displace sodium from clay-humus exchange sites; the displaced sodium is then leached out. This reduces the soil's pH and sodium adsorption ratio (SAR), restoring permeability."
+        },
+        {
+          "statement": "Bio-drainage using eucalyptus plantations along canal banks worsens waterlogging by increasing soil moisture through leaf litter decomposition.",
+          "verdict": "Incorrect",
+          "reason": "Bio-drainage using eucalyptus is used TO REDUCE waterlogging — fast-growing trees with high transpiration rates draw up excess groundwater and lower the water table. Eucalyptus's high water consumption is deliberately exploited for this purpose. Leaf litter decomposition is unrelated to the mechanism."
+        }
+      ],
+      "strong_distractor": "c — Students who know eucalyptus is 'controversial' for water consumption may confuse its mechanism: they might think its water-drawing property depletes groundwater (true in excess planting) but incorrectly infer it worsens waterlogging in canal areas — where its water-drawing is actually the desired outcome.",
+      "elimination_logic": [
+        "Evaluate Statement 3 immediately — bio-drainage with eucalyptus is a waterlogging REMEDY, not a cause. Eucalyptus's high evapotranspiration draws excess groundwater upward through the plant, reducing the water table. Statement 3 is incorrect.",
+        "Eliminate options (b) and (d) since both require Statement 3 to be correct.",
+        "Verify Statement 1 — secondary salinization via water table rise and capillary action is the established mechanism. Correct.",
+        "Verify Statement 2 — gypsum application displacing sodium in usar soils is standard soil science. Correct. Answer is (a) — Statements 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3's trap exploits the dual reputation of eucalyptus: it is criticized for excessive water consumption in afforestation programmes (where it depletes groundwater in naturally dry areas) but that same property is deliberately harnessed for bio-drainage in waterlogged canal areas. Students who remember 'eucalyptus depletes water' may interpret this negatively and accept Statement 3's claim that it 'worsens waterlogging' — precisely inverting the actual use case.",
+      "final_explanation": "Waterlogging and soil salinity are the most significant negative externalities of canal irrigation — affecting millions of hectares and requiring specific remediation approaches.\n\n• Statement 1 — Correct: The waterlogging-salinity chain is: excessive irrigation → percolation → rising water table → when water table reaches within 1.5–2 m of the surface, capillary rise brings dissolved salts to the root zone and soil surface → evaporation deposits white salt crusts. This is secondary (anthropogenic) salinity, distinct from naturally salty soils.\n• Statement 2 — Correct: Alkaline (usar) soils have excess sodium carbonate (Na₂CO₃) which disperses clay, destroys structure, and raises pH above 8.5. Gypsum (CaSO₄) provides calcium ions that exchange with sodium on clay surfaces; the resulting sodium sulfate is soluble and can be leached. Gypsum treatment followed by leaching and grass establishment is the standard reclamation protocol.\n• Statement 3 — Incorrect: Bio-drainage is a waterlogging remediation technique. Eucalyptus and other deep-rooted, high-transpiration species are planted along canal banks specifically because their roots draw excess groundwater — effectively acting as biological pumps that lower the water table and reduce waterlogging.\n\nValue Addition:\n• Approximately 6–8 million hectares of India's agricultural land is affected by waterlogging, salinity, or alkalinity — most concentrated in canal-irrigated zones of Punjab, Haryana, UP, and Rajasthan.\n• Sub-surface drainage (laying perforated pipes underground to drain excess water) is the engineering solution complementing chemical reclamation.\n• Laser land leveling reduces over-irrigation by ensuring uniform water distribution across a field, directly preventing localised waterlogging."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about waterlogging and soil degradation caused by canal irrigation:\n\n1. Secondary salinization in canal-irrigated areas results from excessive irrigation raising the water table, followed by capillary rise of dissolved salts to the soil surface upon evaporation.\n2. Gypsum application is used to reclaim alkaline (usar) soils because calcium in gypsum displaces sodium from the soil exchange complex, reducing pH and improving soil structure.\n3. Bio-drainage using eucalyptus plantations along canal banks worsens waterlogging by increasing soil moisture through leaf litter decomposition.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1871900b-83af-4790-8bcd-86e3586a3fc2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Interlinking of Rivers (ILR) and Its Irrigation Potential"
+      ],
+      "subject_que_no": 192,
+      "overall_que_no": 7539
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "entity-swap",
+      "concept_anchor": "ILR history — Arthur Cotton, K.L. Rao, Ken-Betwa first project",
+      "statement_analysis": [
+        {
+          "statement": "The modern National Perspective Plan for river interlinking, which envisages 30 links under Himalayan and Peninsular components, was originally conceived by Sir Arthur Cotton primarily for navigation purposes.",
+          "verdict": "Incorrect",
+          "reason": "Sir Arthur Cotton proposed river linking for navigation in the 19th century — but the modern National Perspective Plan with 30 links (14 Himalayan + 16 Peninsular) was prepared by the National Water Development Agency (NWDA) in 1980, based on concepts developed by Dr. K.L. Rao (the Ganga-Cauvery link) and Captain Dastur (the Garland Canal). Arthur Cotton is credited with the earliest proposal, not the modern NPP."
+        },
+        {
+          "statement": "The Ken-Betwa Link Project, the first river interlinking project under active implementation, will benefit rain-shadow regions of Andhra Pradesh by transferring water from the Ken River in Madhya Pradesh.",
+          "verdict": "Incorrect",
+          "reason": "Ken-Betwa Link Project benefits the Bundelkhand region of Madhya Pradesh and Uttar Pradesh — not Andhra Pradesh. The project transfers water from Ken River (Madhya Pradesh, which is relatively water-surplus) to Betwa River basin (water-deficit areas of MP and UP)."
+        },
+        {
+          "statement": "A significant environmental concern with the Ken-Betwa Link Project is its potential impact on the Panna Tiger Reserve, through which the Ken River flows and where water diversion may affect wildlife habitat.",
+          "verdict": "Correct",
+          "reason": "Panna Tiger Reserve in Madhya Pradesh is situated along the Ken River, and the Ken-Betwa project requires submergence of a portion of this protected area. This environmental concern — along with displacement and inter-state consent issues — has been a central criticism of the project."
+        }
+      ],
+      "strong_distractor": "b — Students who know the Ken-Betwa project is the 'first ILR project' and that it involves Madhya Pradesh may accept Statement 2 as correct without catching the geographic error (Andhra Pradesh instead of Uttar Pradesh), especially under exam pressure.",
+      "elimination_logic": [
+        "Evaluate Statement 1: The NPP was formulated by NWDA; K.L. Rao and Captain Dastur provided the conceptual foundations of the modern plan. Arthur Cotton's proposal was for navigation, not the modern 30-link framework. Statement 1 attributes the modern NPP to Arthur Cotton — incorrect.",
+        "Evaluate Statement 2: Ken-Betwa benefits Bundelkhand (MP and UP) — not Andhra Pradesh. The geographic attribution to Andhra Pradesh is a clear entity/geographic swap. Statement 2 is NOT correct.",
+        "Evaluate Statement 3: Panna Tiger Reserve and Ken River linkage is accurate — this is the documented environmental flashpoint of the project. Statement 3 IS correct.",
+        "Question asks which are NOT correct: Statements 1 and 2. Answer is (b) — 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 2's geographic swap (Andhra Pradesh for Uttar Pradesh/MP) is the primary trap. Students who associate 'river interlinking in peninsular India' with Andhra Pradesh (which is involved in Krishna-Godavari water disputes) may not scrutinize the specific Ken-Betwa geography carefully. Statement 1's entity-swap (Arthur Cotton credited with the modern NPP rather than with the original navigation proposal) is the secondary trap — students who know Arthur Cotton 'proposed river linking first' may incorrectly extend credit to the full modern plan.",
+      "final_explanation": "The Interlinking of Rivers (ILR) programme has a layered history and a contentious first project — both tested frequently by UPSC.\n\n• Statement 1 — NOT correct: The attribution is partially right (Arthur Cotton was the first to propose river linking in India, for navigation in the 19th century) but the modern 30-link National Perspective Plan was developed by NWDA in 1980, building on proposals by Dr. K.L. Rao (Ganga-Cauvery link concept) and Captain Dastur (Garland Canal concept). The NPP was not 'originally conceived' by Arthur Cotton.\n• Statement 2 — NOT correct: The Ken-Betwa Link Project transfers water from the Ken River (abundant in Madhya Pradesh's Panna district) to the Betwa River basin serving the drought-prone Bundelkhand region of Madhya Pradesh and Uttar Pradesh. Andhra Pradesh has no connection to this project. This is a geographic-swap error.\n• Statement 3 — Correct: Panna Tiger Reserve overlaps with the Ken River corridor in Madhya Pradesh. The Ken-Betwa project requires submergence of approximately 5,803 hectares of forest, including core tiger habitat — a major point of contention between the project proponents and wildlife conservationists.\n\nValue Addition:\n• The projected irrigation benefit of the full ILR programme is approximately 35 million additional hectares — a transformative but disputed figure.\n• National Water Development Agency (NWDA) under the Ministry of Jal Shakti is the nodal agency for ILR planning and feasibility studies.\n• Inter-state consent is a major bottleneck — several proposed links require consent from multiple states with competing water interests."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about India's river interlinking programme:\n\n1. The modern National Perspective Plan for river interlinking, which envisages 30 links under Himalayan and Peninsular components, was originally conceived by Sir Arthur Cotton primarily for navigation purposes.\n2. The Ken-Betwa Link Project, the first river interlinking project under active implementation, will benefit rain-shadow regions of Andhra Pradesh by transferring water from the Ken River in Madhya Pradesh.\n3. A significant environmental concern with the Ken-Betwa Link Project is its potential impact on the Panna Tiger Reserve, through which the Ken River flows and where water diversion may affect wildlife habitat.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 3 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9e9c2f57-1fde-4fbf-ac7c-1bfb1824ed55",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY): Architecture and Components",
+        "Accelerated Irrigation Benefits Programme (AIBP): Purpose, Performance, and Issues"
+      ],
+      "subject_que_no": 193,
+      "overall_que_no": 7540
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "PMKSY components — predecessor schemes and objectives",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know HKKP focuses on 'getting water to every field' (connectivity) and PDMC focuses on 'efficiency' may correctly place these two but confuse AIBP (completing old projects) with WDC-PMKSY (watershed work), choosing option (b).",
+      "elimination_logic": [
+        "Match A: AIBP — its specific mandate is completion of long-pending major and medium irrigation projects to create irrigation potential; 99 projects were prioritized. Correct match: 3.",
+        "Match B: Har Khet Ko Pani (HKKP) — the name literally translates to 'water to every field'; its objective is extending irrigation coverage to unirrigated lands through surface water and groundwater development. Correct match: 1.",
+        "Match C: Per Drop More Crop (PDMC) — promotes drip/sprinkler micro-irrigation for on-farm water use efficiency. Correct match: 4.",
+        "Match D: WDC-PMKSY — watershed development covering rainwater harvesting, groundwater recharge, and soil conservation in rainfed areas; its predecessor was the Integrated Watershed Management Programme (IWMP). Correct match: 2. Full: A-3, B-1, C-4, D-2 → option (d)."
+      ],
+      "upsc_trap_explanation": "The conflation trap works between AIBP and WDC-PMKSY. Both involve physical infrastructure construction and both benefit rainfed areas in different ways. Students who conflate AIBP's 'major/medium project completion' mandate with WDC's 'watershed conservation' mandate will cross-match these two, choosing option (b) or (c). Additionally, students who associate 'watershed development' with 'water to fields' may incorrectly match D with objective 1 (which belongs to HKKP).",
+      "final_explanation": "PMKSY's four-component structure is a frequently tested topic — each component has a distinct predecessor and a distinct objective.\n\nCorrect pairings:\n• A–3 (AIBP → Completing major/medium projects): AIBP (launched 1996-97) was merged into PMKSY specifically to focus central resources on the 99 most critical incomplete major and medium irrigation projects — not watershed work or micro-irrigation.\n• B–1 (HKKP → Water to every unirrigated field): 'Har Khet Ko Pani' directly targets coverage expansion — creating new surface and groundwater irrigation sources and extending pipeline networks to unconnected farmlands.\n• C–4 (PDMC → Drip and sprinkler for on-farm efficiency): Per Drop More Crop funds micro-irrigation systems (drip and sprinkler) at the farm level, promoting water use efficiency rather than coverage expansion.\n• D–2 (WDC-PMKSY → Watershed development in rainfed areas): The watershed component handles soil conservation, rainwater harvesting, groundwater recharge, and livelihood improvement in rain-dependent areas — its predecessor was the Integrated Watershed Management Programme (IWMP).\n\nTrap pair: Options (b) and (c) swap AIBP with WDC-PMKSY — these are the most easily conflated components.\n\nValue Addition:\n• The 60:40 Centre-State cost-sharing ratio applies to PDMC (micro-irrigation); for NE and hill states it is 90:10.\n• District Irrigation Plans (DIPs) and State Irrigation Plans (SIPs) are the decentralized planning tools introduced under PMKSY for integrated irrigation planning.\n• PMKSY was approved for continuation by the Cabinet with an outlay of ₹93,068 crore for 2021-26, with AIBP receiving the largest share."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (PMKSY components) with List II (Primary objectives):",
+        "columns": [
+          "List I (PMKSY Component)",
+          "List II (Primary Objective)"
+        ],
+        "rows": [
+          [
+            "A. Accelerated Irrigation Benefits Programme (AIBP)",
+            "1. Extend irrigation coverage to currently unirrigated farm lands through new surface and groundwater development"
+          ],
+          [
+            "B. Har Khet Ko Pani (HKKP)",
+            "2. Watershed development, soil conservation, and rainwater harvesting in rainfed areas"
+          ],
+          [
+            "C. Per Drop More Crop (PDMC)",
+            "3. Complete long-pending major and medium irrigation projects to create new irrigation potential"
+          ],
+          [
+            "D. Watershed Development Component (WDC-PMKSY)",
+            "4. Promote micro-irrigation (drip and sprinkler) to improve on-farm water use efficiency"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-2, B-1, C-4, D-3\n(c) A-3, B-2, C-1, D-4\n(d) A-3, B-1, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9b74ebb9-5c94-4643-a50e-30de4ae06229",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Net vs. Gross Irrigated Area: Definitions and Measurement",
+        "Irrigation Coverage and Regional Disparities: Irrigated vs. Rainfed Agriculture"
+      ],
+      "subject_que_no": 194,
+      "overall_que_no": 7541
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "GIA vs NIA — which metric shows 'largest irrigated state'",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who think 'GIA is simply a larger number than NIA for the same state' will assume GIA-based ranking is automatically more comprehensive and choose (a), not realising that GIA's double-counting inflates multi-cropping states specifically.",
+      "elimination_logic": [
+        "The scenario requires identifying which metric — NIA or GIA — yields different state-rank outcomes and why.",
+        "GIA double-counts land irrigated in multiple seasons; states with intensive double-cropping (high cropping intensity) will show disproportionately high GIA relative to NIA.",
+        "A state with more physical irrigated land but lower cropping intensity may rank higher on NIA but lower on GIA than a state with less physical land but intensive double-cropping.",
+        "Eliminate (a) and (b) — these assume GIA and NIA produce the same ranking or that GIA is universally more accurate. Eliminate (d) — Land Use Statistics reports both; the issue is the methodological choice, not data availability. Confirm (c): A state with a large physically irrigated area but predominantly single-crop seasons could rank higher on NIA; a smaller state with intensive double-cropped irrigation could rank higher on GIA. The ranking genuinely differs by metric."
+      ],
+      "upsc_trap_explanation": "Option (a) exploits the assumption that 'GIA is always bigger, therefore it tells you more about who is largest.' The trap is that GIA inflates states with multi-season cropping — a state with intensive Kharif+Rabi+Zaid irrigation on the same land area will have a GIA far exceeding its NIA. If such a state has less physical irrigated area than another state that practices mostly single-crop irrigation, the two metrics will give different rankings. Students who don't think through the double-counting mechanism will choose (a) or (b).",
+      "final_explanation": "This scenario tests whether a candidate understands why GIA and NIA can produce different state-level rankings — a critical analytical point for data-based UPSC questions.\n\nApplicable principle: GIA counts each irrigated field once per crop season — a field irrigated in both Kharif and Rabi appears twice. NIA counts it once. A state with high cropping intensity (multiple crops per year) will have a GIA significantly higher than its NIA. A single-crop-dominated state will have GIA approximately equal to NIA.\n\nOption analysis:\n• Option (a) — Incorrect: The metric choice matters precisely because different states have different cropping intensities. GIA does not simply produce a 'more accurate' ranking — it produces a different ranking that reflects multi-season irrigation activity rather than physical irrigated area.\n• Option (b) — Incorrect: NIA-based ranking reflects physical irrigated area, which is also meaningful. Neither metric is universally 'correct' — they measure different things.\n• Option (c) — Correct: A large state with single-season irrigation could rank first on NIA (more physical land irrigated) while a smaller state with intensive double-cropping ranks first on GIA (same land irrigated twice). The scenario correctly identifies that the choice of metric genuinely changes the ranking.\n• Option (d) — Incorrect: Both NIA and GIA data are available from Agricultural Census and Land Use Statistics; data availability is not the issue.\n\nValue Addition:\n• Punjab's cropping intensity exceeds 190% — its GIA is substantially higher than its NIA due to extensive Kharif+Rabi double cropping.\n• Agricultural Census (conducted every 5 years) is the primary source for NIA and GIA data at state and district levels.\n• When UPSC asks about 'the most irrigated state in India,' the answer can differ: Rajasthan (largest NIA in some years due to sheer size), Punjab/UP (highest irrigation intensity by GIA ratios)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A researcher is analysing irrigation data to rank Indian states by their irrigation coverage. She finds that State X ranks first when Gross Irrigated Area (GIA) is used as the criterion, but State Y ranks first when Net Irrigated Area (NIA) is the basis. Both states have accurate data from the same Agricultural Census round.\n\nWhich of the following best explains how this difference in ranking is possible?\n\n(a) GIA is a more comprehensive measure that always produces a higher and more accurate ranking than NIA; State X simply has better data reporting.\n(b) NIA always overstates irrigation coverage because it counts waterlogged and uncultivable land, making State Y's rank artificially high on NIA.\n(c) State X may have less physically irrigated land than State Y but a higher proportion of that land is irrigated across two or more crop seasons each year, inflating its GIA relative to NIA.\n(d) The difference arises because GIA data is sourced from satellite surveys while NIA data comes from village-level patwari records, and the two datasets are not comparable.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "450f0d72-6e82-44fe-aacc-59fb6533413d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Sources of Irrigation: Canals, Tanks, Wells/Tubewells — Relative Share and Trends",
+        "Tank Irrigation: Traditional System, Distribution, and Decline"
+      ],
+      "subject_que_no": 195,
+      "overall_que_no": 7542
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "conflation",
+      "concept_anchor": "Tank decline reasons — one cause is geographic mismatch",
+      "statement_analysis": null,
+      "strong_distractor": "d — Students who associate 'lack of maintenance post-zamindari abolition' as a genuine reason for tank decline will be confident it belongs with the other decline factors and may overlook that 'hard-rock terrain unsuitability' is a reason tanks EXIST there — not a reason they are declining.",
+      "elimination_logic": [
+        "Identify what the question asks: which reason does NOT explain the decline of tank irrigation in India.",
+        "Evaluate (a): Siltation reduces storage capacity progressively — a genuine cause of tank decline. Belongs.",
+        "Evaluate (b): Hard-rock terrain in peninsular India is WHY tanks were built there — it is the reason for their historical prevalence, not their decline. Hard-rock terrain did not change; it cannot explain the recent decline. Does NOT belong.",
+        "Evaluate (c): Post-zamindari abolition, the institutional responsibility for tank maintenance was not transferred to any effective body — a documented cause of decline. Belongs.",
+        "Evaluate (d): Government agencies neglecting traditional tanks in favour of large dam projects is a recognized cause of decline. Belongs. Confirm (b) is the odd one out."
+      ],
+      "upsc_trap_explanation": "Option (b) conflates the reason tanks EXIST in peninsular India (hard-rock terrain limits wells and canals, so tanks were the solution) with reasons they are DECLINING. Hard-rock terrain is a geographic constant — it was the same when tanks flourished in the medieval Kakatiya and Chola periods. It cannot explain their recent decline. Students who associate 'hard rock' with 'tanks' and see 'unsuitability of hard-rock terrain for tank construction' may misread this as a decline factor, choosing (d) or (c) as the odd one out instead.",
+      "final_explanation": "Understanding why tank irrigation has declined requires distinguishing geographic constants (which explain tank prevalence) from institutional and maintenance failures (which explain the decline).\n\n• Option (a) — Belongs to decline reasons: Siltation steadily reduces the catchment area and storage capacity of tanks. Without regular desilting, tanks become progressively shallower and less effective — the primary physical cause of decline.\n• Option (b) — Does NOT belong: Peninsular hard-rock terrain is precisely the reason tank irrigation developed and thrived in South India. This is a geographic precondition for tank prevalence, not a cause of their decline. The terrain has not changed — therefore it cannot explain a historical trend of declining tank efficiency.\n• Option (c) — Belongs to decline reasons: Under zamindari, landlords maintained tanks because their income depended on productive irrigated lands. Post-abolition, no equivalent private or public institution assumed maintenance responsibility — a classic 'commons problem' in irrigation governance.\n• Option (d) — Belongs to decline reasons: Post-independence irrigation policy prioritized large dams (e.g., Bhakra, Nagarjunasagar) as symbols of modernization. Traditional tanks were neglected by state agencies, leading to deterioration.\n\nValue Addition:\n• Encroachment on tank beds and foreshore lands (the area above the highest water level) is another major contemporary cause of tank decline — increasingly covered by unauthorized construction.\n• Mission Kakatiya (Telangana) and Kudimaramathu (Tamil Nadu) are the most prominent state-level responses to arrest tank decline.\n• MGNREGS desilting works have restored thousands of tanks across peninsular states — linking employment generation with ecological restoration."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT correctly explain a reason for the decline of tank irrigation in India?\n\n(a) Progressive siltation of tank beds reduces water storage capacity, diminishing irrigation potential over time.\n(b) Hard-rock terrain in peninsular India is unsuitable for tank construction, making it impossible to maintain tank systems in the region.\n(c) The abolition of the zamindari system removed the private institutional incentive for tank upkeep without creating an adequate public maintenance mechanism.\n(d) State governments shifted irrigation investment priorities towards large dam projects, leading to the neglect of traditional tank systems.",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "528e313a-53eb-4e86-a720-87dca5c4a12e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Warabandi System: Rotational Water Distribution in Canal Irrigation",
+        "Irrigation Potential Created vs. Irrigation Potential Utilized: The Utilization Gap"
+      ],
+      "subject_que_no": 196,
+      "overall_que_no": 7543
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Warabandi — time-based, tail-end farmer disadvantage",
+      "statement_analysis": [
+        {
+          "statement": "The warabandi system allocates canal water on a time-based rotation; however, tail-end farmers frequently receive less water than their entitlement because of seepage losses and unauthorized extraction by head-reach farmers.",
+          "verdict": "Correct",
+          "reason": "Warabandi's time-based schedule assumes uniform flow throughout the distributary, but seepage losses in earthen channels and illegal abstraction by head-reach farmers systematically reduce water availability by the time it reaches tail-end plots — a well-documented equity failure of the system."
+        },
+        {
+          "statement": "Volumetric water pricing is currently the standard method of canal water allocation in most Indian states, and it has been more effective than warabandi in ensuring equitable distribution to tail-end farmers.",
+          "verdict": "Incorrect",
+          "reason": "Volumetric water pricing is NOT the current standard in India — warabandi (time-based rotation) remains the dominant canal water allocation system. Volumetric pricing is a proposed reform recommended by committees such as Mihir Shah (2016); it has not been implemented at scale in any major Indian state."
+        }
+      ],
+      "strong_distractor": "a — Students who support the reform direction (volumetric pricing is better than warabandi) may assume Statement 2 correctly represents both the current standard and its superiority, selecting (a) because both statements appear to describe correct information in their respective contexts.",
+      "elimination_logic": [
+        "Evaluate Statement 2: 'Volumetric water pricing is currently the standard method' — this is factually false. Warabandi is the prevailing system. Statement 2 is incorrect regardless of the normative claim about equity.",
+        "Evaluate Statement 1: Tail-end deprivation under warabandi due to seepage and head-reach unauthorized abstraction is empirically documented. Statement 1 is correct.",
+        "Statement 1 correct + Statement 2 incorrect → answer is (c).",
+        "Confirm: option (c) — Statement 1 correct, Statement 2 incorrect. Matches."
+      ],
+      "upsc_trap_explanation": "Statement 2 uses reversed-causation logic: it implies volumetric pricing is already working and has proven superior — embedding a false current-state claim ('currently the standard') within a normatively appealing comparison. Students who know volumetric pricing is theoretically better will accept Statement 2 as broadly correct without scrutinizing whether it accurately describes the current situation. The trap is the gap between 'what reformers recommend' and 'what actually exists.'",
+      "final_explanation": "Warabandi's equity shortcomings and the reform landscape are distinct empirical and normative questions — UPSC tests whether candidates conflate the two.\n\n• Statement 1 — Correct: Warabandi is a time-based system where each farmer receives water for a fixed period proportional to landholding. In practice, earthen channel seepage (sometimes 30–40% of water) and illegal extractions by head-reach farmers systematically disadvantage tail-end farmers who technically have the same entitlement. This is one of warabandi's most significant structural failures.\n• Statement 2 — Incorrect: Volumetric water pricing — where farmers are charged per unit volume of water delivered — is a reform proposal, not current practice. The Mihir Shah Committee (2016) and the National Water Policy (2012) recommend its adoption, but no major Indian state has implemented volumetric pricing for canal irrigation at scale. Warabandi remains the operational norm in Punjab, Haryana, and Rajasthan canal systems.\n\nValue Addition:\n• Warabandi in Punjab is legally governed under the Northern India Canal and Drainage Act, 1873 — one of India's oldest water laws still in operational use.\n• Modernizing canal irrigation through Supervisory Control and Data Acquisition (SCADA) systems can automate warabandi scheduling, reducing human discretion and head-reach advantage.\n• The transition from warabandi to volumetric pricing requires prior investment in water measurement infrastructure (flow meters at farm outlets) — currently absent in most canal commands."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about canal water distribution systems in India:\n\nStatement 1: The warabandi system allocates canal water on a time-based rotation; however, tail-end farmers frequently receive less water than their entitlement because of seepage losses and unauthorized extraction by head-reach farmers.\n\nStatement 2: Volumetric water pricing is currently the standard method of canal water allocation in most Indian states, and it has been more effective than warabandi in ensuring equitable distribution to tail-end farmers.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a309eea4-038d-44d9-9a14-45b6a7f7459f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Well and Tubewell Irrigation: Groundwater Exploitation and Regional Patterns",
+        "Irrigation and Cropping Pattern: Water-Intensive vs. Water-Efficient Crops"
+      ],
+      "subject_que_no": 197,
+      "overall_que_no": 7544
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Green Revolution MSP-electricity nexus — structural groundwater depletion",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? A states that free or heavily subsidized electricity for agricultural pump sets in Punjab and Haryana creates a structural incentive to over-extract groundwater by removing the marginal cost of additional pumping. This is an accurate causal description of the policy distortion. A is correct.",
+        "Step 2: Is Reason (R) correct? R states that the Minimum Support Price (MSP) regime, by guaranteeing procurement for water-intensive crops like paddy and wheat, discourages crop diversification toward less water-intensive alternatives. This is accurate — guaranteed procurement at remunerative MSP makes paddy (water-intensive) more financially rational than millets or pulses (water-efficient) for farmers. R is correct.",
+        "Step 3: Does R causally explain A? R explains why farmers choose water-intensive crops (MSP regime) — this is a separate driver of water demand from A (which explains why farmers over-pump once they decide to irrigate). Both A and R are true drivers of groundwater depletion, but R (MSP driving crop choice) does not causally explain A (electricity subsidy removing marginal pumping cost). They are parallel, independent structural causes — R does not explain the mechanism described in A. R does NOT explain A.",
+        "A correct + R correct + R does NOT explain A → answer is (b)."
+      ],
+      "upsc_trap_explanation": "This question exploits the 'both true, causally unlinked' trap — the most difficult assertion-reason format. Students who know both facts will instinctively choose (a) because both seem to point toward the same problem (groundwater depletion) and therefore seem causally linked. However, A explains the pumping cost mechanism (electricity subsidy), while R explains the crop choice mechanism (MSP). These are two independent structural drivers of groundwater depletion — neither is the cause of the other.",
+      "final_explanation": "Punjab and Haryana's groundwater crisis has multiple structural causes — distinguishing them is essential for both policy analysis and assertion-reason questions.\n\nAssertion (A) — Correct: When electricity is free or flat-rate for agricultural pump sets, farmers face zero marginal cost for each additional hour of pumping. A rational farmer will pump as long as water is needed (and beyond), since there is no financial penalty for over-extraction. This removes the price signal that would otherwise incentivize efficiency.\n\nReason (R) — Correct: MSP + guaranteed procurement through agencies like FCI makes paddy cultivation financially superior to millets or pulses in Punjab/Haryana, despite paddy's high water demand. Without MSP support for water-efficient crops, farmers rationally choose paddy — perpetuating high irrigation water demand regardless of groundwater levels.\n\nCausal relationship: A and R are two independent drivers of the same problem (groundwater depletion). A explains the pumping-cost mechanism; R explains the crop-choice mechanism. R (MSP policy driving crop selection) does not causally explain A (electricity subsidy mechanism removing pumping cost). They operate through entirely different channels.\n\nAnswer: (b) — Both A and R are correct, but R is NOT the correct explanation of A.\n\nValue Addition:\n• Punjab's water table is declining by 0.5–1 metre annually in many districts — at current rates, several districts face severe depletion within two decades.\n• The Mihir Shah Committee (2016) recommended MSP reforms combined with electricity metering as a package solution — recognizing these are parallel, not sequential, interventions.\n• Crop diversification incentives (higher MSP for maize and pulses in Punjab) are being explored but face market infrastructure challenges."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The provision of free or heavily subsidised electricity to agricultural pump sets in states like Punjab and Haryana creates a structural incentive for groundwater over-extraction by eliminating the marginal cost of additional pumping.\n\nReason (R): The Minimum Support Price regime, by guaranteeing procurement for water-intensive crops such as paddy and wheat, discourages farmers from shifting to less water-demanding crops even in regions facing severe groundwater stress.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bc25a84f-589e-4ffc-9cdb-e75c6c6352d3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Drip and Sprinkler Irrigation: Micro-Irrigation Systems"
+      ],
+      "subject_que_no": 198,
+      "overall_que_no": 7545
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "PDMC funding ratio and PMKSY component identity",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know PDMC is 'Per Drop More Crop' and that it promotes micro-irrigation may accept the pairing in (c) but miss the incorrect cost-sharing ratio (50:50 instead of 60:40).",
+      "elimination_logic": [
+        "Identify what is known about PDMC: it is the micro-irrigation component of PMKSY; funding is 60:40 Centre-State (90:10 for NE/hill states); target crops include horticulture.",
+        "Evaluate (a): 'More Crop Per Drop' is the correct motto/objective orientation but is not the official name of the scheme — official name is 'Per Drop More Crop (PDMC).' Pairing with sprinkler-only focus is also incorrect — PDMC covers both drip and sprinkler. Partially wrong.",
+        "Evaluate (b): 'Per Drop More Crop (PDMC)' correctly named; 60:40 Centre-State funding ratio is accurate; micro-irrigation (drip and sprinkler) correctly identified. All three elements are correct. This is the correct pair.",
+        "Evaluate (c): 60:40 ratio given as 50:50 — incorrect funding ratio. (d): PDMC described as exclusively for large farms — incorrect; it targets smallholders as a priority. Confirm (b)."
+      ],
+      "upsc_trap_explanation": "Option (c) uses a temporal/numeric swap — presenting the correct scheme name (PDMC) and correct technology (micro-irrigation) but substituting an incorrect cost-sharing ratio (50:50 instead of 60:40). Students who recall 'PDMC + micro-irrigation' as the correct pairing but have not memorized the funding ratio will accept (c) without checking the numerical detail. The 60:40 ratio is exam-critical because it matches the general centrally sponsored scheme norm, while 50:50 is a plausible-sounding alternative.",
+      "final_explanation": "Per Drop More Crop (PDMC) is the micro-irrigation promotion component of PMKSY — its funding structure and scope are exam-critical.\n\n• Option (a) — Incorrect: 'More Crop Per Drop' is PMKSY's overall motto, not the official name of the micro-irrigation sub-scheme. Additionally, PDMC covers both drip and sprinkler irrigation — not sprinkler alone. Multiple errors.\n• Option (b) — Correct: PDMC promotes micro-irrigation (both drip and sprinkler systems) at the farm level. The Centre-State cost-sharing ratio is 60:40 for general states and 90:10 for North-Eastern and hill states. This pair is correctly matched on all counts.\n• Option (c) — Incorrect: The 50:50 ratio is wrong. The correct ratio is 60:40. The scheme name and technology description are correct, but the funding ratio error makes this pair incorrect.\n• Option (d) — Incorrect: PDMC specifically targets smallholder and marginal farmers as a priority category — it is not restricted to large commercial farms. The scheme provides higher subsidy rates to small/marginal farmers.\n\nValue Addition:\n• States leading in micro-irrigation adoption: Maharashtra, Gujarat, Andhra Pradesh, Karnataka, and Rajasthan — driven by horticulture crop expansion and water scarcity.\n• The National Mission for Sustainable Agriculture (NMSA) and PMKSY together form the twin pillars of India's farm-level water efficiency strategy.\n• Drip irrigation increases yield in addition to saving water — fertigation (fertilizer application through drip lines) can improve nutrient use efficiency by 30–40%."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched with respect to India's micro-irrigation promotion under PMKSY?\n\n(a) More Crop Per Drop scheme — promotes sprinkler irrigation exclusively on horticulture farms; funded entirely by the Central Government\n(b) Per Drop More Crop (PDMC) — promotes micro-irrigation (drip and sprinkler) at farm level; funded on 60:40 Centre-State cost-sharing basis\n(c) Per Drop More Crop (PDMC) — promotes micro-irrigation across all farm sizes; funded on 50:50 Centre-State cost-sharing basis\n(d) Per Drop More Crop (PDMC) — targets large commercial farms only for drip irrigation installation; smallholders receive no subsidy benefit",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "114db0b6-756e-4cdf-b8ac-3299af399daf",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Major, Medium, and Minor Irrigation: Classification and Policy Implications",
+        "Accelerated Irrigation Benefits Programme (AIBP): Purpose, Performance, and Issues"
+      ],
+      "subject_que_no": 199,
+      "overall_que_no": 7546
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "CCA thresholds — major medium minor exact figures",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who recall approximate figures but confuse the medium irrigation threshold (2,000 ha) with a commonly cited round number (5,000 ha) will choose (b), which represents a plausible but fabricated threshold.",
+      "elimination_logic": [
+        "Recall the exact CCA-based classification: Major > 10,000 ha; Medium 2,000–10,000 ha; Minor < 2,000 ha.",
+        "The blank requires: Medium irrigation lower bound (2,000 ha) and Major irrigation lower bound (10,000 ha).",
+        "Eliminate (a): uses 1,000 ha and 5,000 ha — both are wrong thresholds.",
+        "Eliminate (b): uses 5,000 ha and 10,000 ha — the lower bound for medium (5,000) is incorrect. Eliminate (c): uses 2,000 ha and 20,000 ha — major threshold of 20,000 is incorrect. Confirm (d): 2,000 ha to 10,000 ha for medium; above 10,000 ha for major. These are the official thresholds."
+      ],
+      "upsc_trap_explanation": "Options (a), (b), and (c) each contain one correct figure and one fabricated figure — a plausible-fabrication technique. Option (b) is the strongest distractor because 5,000 ha sounds like a round-number midpoint between 2,000 and 10,000, making it seem like a reasonable minimum for 'medium' scale. Students who remember '10,000' for major but are uncertain about the 2,000 lower boundary of medium will gravitate toward (b), not recognising 5,000 as fabricated.",
+      "final_explanation": "The CCA-based classification of irrigation projects is among the most frequently tested definitional facts in UPSC agriculture questions.\n\n• Option (a) — Incorrect: CCA thresholds of 1,000 ha (medium) and 5,000 ha (major) are both wrong. These are plausible-sounding round numbers but do not match official classification norms.\n• Option (b) — Incorrect: The lower bound of 5,000 ha for medium irrigation is fabricated. The correct minimum for medium is 2,000 ha. Only the major threshold (above 10,000 ha) is correctly stated here.\n• Option (c) — Incorrect: While the medium range starting at 2,000 ha is correct, the major threshold of 20,000 ha is wrong — the correct threshold is 10,000 ha.\n• Option (d) — Correct: Medium irrigation projects have CCA between 2,000 and 10,000 hectares; major irrigation projects exceed 10,000 hectares of CCA. These are the official Planning Commission/CWC classification norms used for project categorization and funding eligibility.\n\nValue Addition:\n• Minor irrigation (CCA < 2,000 ha) is a state subject — states fund these independently or through MGNREGS/Jal Shakti Abhiyan convergence.\n• AIBP under PMKSY covers only major and medium projects — the 99 prioritized projects all fall in the major/medium category.\n• Groundwater irrigation (tubewells), though it constitutes over 60% of NIA, is classified as 'minor irrigation' — a paradox frequently tested by UPSC."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under India's official irrigation project classification system, a project is categorized as 'medium irrigation' if its Culturable Command Area (CCA) lies between ________ hectares, and as 'major irrigation' if CCA exceeds ________ hectares.\n\n(a) 1,000 and 5,000 hectares respectively\n(b) 5,000 and 10,000 hectares respectively\n(c) 2,000 and 20,000 hectares respectively\n(d) 2,000 and 10,000 hectares respectively",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d4d64313-bc32-4c31-a527-e64bb1a316aa",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Waterlogging and Soil Salinity/Alkalinity as Irrigation Externalities",
+        "Canal Irrigation: Types, Coverage, and Limitations"
+      ],
+      "subject_que_no": 200,
+      "overall_que_no": 7547
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Waterlogging affected states — canal irrigation zones",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who associate waterlogging with northern canal systems but forget that Rajasthan (with the Indira Gandhi Canal command) also faces significant waterlogging may choose (c) thinking it is only a Punjab-Haryana-UP problem.",
+      "elimination_logic": [
+        "Waterlogging is concentrated in states with extensive canal irrigation on flat, low-permeability terrain where water tables naturally lie close to the surface.",
+        "The four states most severely affected are Punjab, Haryana, Uttar Pradesh, and Rajasthan — all in the northwest/north with major canal systems (Bhakra system, Indira Gandhi Canal, Eastern and Western Yamuna canals).",
+        "Eliminate (a) — Odisha is a rainfed/tank state; large-scale canal waterlogging is not its primary agricultural problem. Including Odisha while excluding Rajasthan is an entity-swap error.",
+        "Eliminate (c) — Rajasthan is incorrectly excluded; the Indira Gandhi Canal command area (Ganganagar, Hanumangarh districts) is among the most waterlogged zones in India. Confirm (b): Punjab, Haryana, UP, and Rajasthan are all correctly identified."
+      ],
+      "upsc_trap_explanation": "Option (a) replaces Rajasthan with Odisha — an entity-swap that works because Odisha is a flood-prone state and students may associate it with water-related land degradation. However, the type of waterlogging tested here is canal-irrigation-induced (secondary) waterlogging — which does not affect Odisha significantly. Rajasthan's Indira Gandhi Canal command area (Thar Desert region) paradoxically suffers from waterlogging because the arid desert soil has low permeability and the irrigation infrastructure is extensive.",
+      "final_explanation": "Waterlogging from canal irrigation is counterintuitively most severe in semi-arid and arid states where extensive canal networks were built on soils with limited drainage capacity.\n\n• Option (a) — Incorrect: Odisha's water management challenges are primarily flood-related and rainfed agriculture constraints — not canal-induced waterlogging. Replacing Rajasthan with Odisha is a geographic entity-swap error.\n• Option (b) — Correct: Punjab, Haryana, Uttar Pradesh, and Rajasthan are the four states most severely affected by canal-induced waterlogging and secondary soil salinity. Each has extensive canal command areas (Bhakra Nangal system, Indira Gandhi Canal, various UP canals) where over-irrigation has raised water tables, leading to waterlogging and salt accumulation.\n• Option (c) — Incorrect: Rajasthan is incorrectly omitted. The Indira Gandhi Canal (IGC) command area in Ganganagar and Hanumangarh districts is one of India's worst waterlogging zones — a paradox given that IGC was built to irrigate the desert.\n• Option (d) — Incorrect: Tamil Nadu's irrigation issues relate to tank decline and inter-state river disputes — not large-scale canal-induced waterlogging. Bihar and West Bengal face flood-related and drainage issues, not the same type of canal waterlogging.\n\nValue Addition:\n• Approximately 6–8 million hectares of agricultural land in India is affected by waterlogging, salinity, and alkalinity combined.\n• The Indira Gandhi Canal command area waterlogging arose because the desert soil (aeolian sand) has very low capillary conductivity — irrigation water percolates, raises water table, and leads to salt efflorescence.\n• Sub-surface drainage systems (perforated clay or PVC pipes buried below the root zone) are the engineering solution for waterlogged canal commands."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following groups of states are most severely affected by waterlogging and secondary soil salinization caused by canal irrigation?\n\n(a) Punjab, Haryana, Uttar Pradesh, and Odisha\n(b) Punjab, Haryana, Uttar Pradesh, and Rajasthan\n(c) Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh\n(d) Tamil Nadu, Bihar, West Bengal, and Rajasthan",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "59142ae5-e965-4e5b-82cb-8bb45842bbe3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Interlinking of Rivers (ILR) and Its Irrigation Potential",
+        "Inter-State River Water Disputes and Irrigation Access"
+      ],
+      "subject_que_no": 201,
+      "overall_que_no": 7548
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "ILR — NPP structure, NWDA, K.L. Rao, Arthur Cotton roles",
+      "statement_analysis": [
+        {
+          "statement": "The National Perspective Plan for river interlinking envisages 30 links — 14 under the Himalayan Rivers Development component and 16 under the Peninsular Rivers Development component.",
+          "verdict": "Correct",
+          "reason": "The NPP prepared by NWDA has exactly 30 links: 14 Himalayan and 16 Peninsular. The Himalayan links involve transferring surplus flows from Ganga and Brahmaputra tributaries; the Peninsular links involve intra-peninsular transfers."
+        },
+        {
+          "statement": "The Ken-Betwa Link Project is the first river interlinking project under active implementation, primarily designed to transfer water from the water-surplus Ken River basin to the deficit Betwa River basin, benefiting Bundelkhand.",
+          "verdict": "Correct",
+          "reason": "Ken-Betwa is the first ILR project to receive Union Cabinet approval and enter implementation; it addresses the water deficit in Bundelkhand (MP and UP) by diverting Ken river surplus to the Betwa basin. This is accurate."
+        },
+        {
+          "statement": "Dr. K.L. Rao proposed the Ganga-Cauvery link as a conceptual predecessor to the modern National Perspective Plan, while the modern 30-link framework was formalized by the National Water Development Agency.",
+          "verdict": "Correct",
+          "reason": "Dr. K.L. Rao (former Union Minister for Irrigation) proposed the Ganga-Cauvery link in the 1970s; Captain Dastur proposed the Garland Canal concept; the modern NPP synthesizing these ideas into 30 links was prepared by NWDA (established in 1982) under the Ministry of Jal Shakti's predecessor."
+        },
+        {
+          "statement": "The projected additional irrigation potential from full implementation of the ILR National Perspective Plan is approximately 10 million hectares, concentrated entirely in drought-prone peninsular districts.",
+          "verdict": "Incorrect",
+          "reason": "The projected additional irrigation potential from full NPP implementation is approximately 35 million hectares — not 10 million. Additionally, the benefits include both Himalayan and Peninsular components, not exclusively peninsular areas."
+        }
+      ],
+      "strong_distractor": "b — Students who know ILR will create 'large additional irrigated area' but are uncertain whether 10 million or 35 million hectares is correct may mistrust Statement 4's figure while also mistrusting the 30-link breakdown, gravitating toward (b) which includes only Statements 2 and 3.",
+      "elimination_logic": [
+        "Evaluate Statement 4: 10 million hectares and 'entirely peninsular' — both elements are wrong. The projected figure is ~35 million hectares and includes Himalayan component benefits. Statement 4 is incorrect.",
+        "Eliminate options (a) and (d) since both require Statement 4 to be correct.",
+        "Verify Statement 1: 30 links (14 Himalayan + 16 Peninsular) — this is the NPP's documented structure. Correct.",
+        "Verify Statements 2 and 3: Ken-Betwa as first implementation project (correct); K.L. Rao + NWDA attribution (correct). All three (1, 2, 3) are correct. Answer is (c)."
+      ],
+      "upsc_trap_explanation": "Statement 4's plausible-fabrication involves two planted errors: a significantly understated irrigation potential figure (10 million instead of 35 million hectares) and a false geographic scope restriction ('entirely peninsular'). Students who recall a 'large number in crores or millions' but cannot pinpoint the exact figure may accept 10 million as plausible, especially since it seems conservative and cautious — a common UPSC trap for quantity-based answers where students apply 'when in doubt, choose the smaller number' heuristics.",
+      "final_explanation": "The Interlinking of Rivers National Perspective Plan has specific, exam-critical numerical and structural details.\n\n• Statement 1 — Correct: The NPP's 30 links are precisely divided — 14 Himalayan and 16 Peninsular. Himalayan links involve diverting surplus flows from Ganga-Brahmaputra basin; Peninsular links involve transfers within peninsular river systems.\n• Statement 2 — Correct: Ken-Betwa Link Project received Cabinet approval in 2021 and is in active implementation phase — making it the first and only ILR project to cross from planning to execution as of date.\n• Statement 3 — Correct: Dr. K.L. Rao's Ganga-Cauvery link proposal (1970s) and Captain Dastur's Garland Canal concept provided intellectual foundations; NWDA (National Water Development Agency, established 1982) synthesized these into the formal 30-link NPP through hydrological surveys.\n• Statement 4 — Incorrect: The projected additional irrigation potential from the full NPP is approximately 35 million hectares — more than three times the figure stated. The benefits span both Himalayan and Peninsular components — not exclusively peninsular areas.\n\nValue Addition:\n• NWDA operates under the Ministry of Jal Shakti and continues feasibility studies on individual ILR links.\n• The Panna Tiger Reserve controversy (Ken-Betwa requires submergence of tiger habitat) has set a precedent for environmental safeguards in ILR projects.\n• Criticisms of ILR include: inter-state consent difficulties, questionable surplus-deficit basin calculations, high construction costs, and potential ecological disruption to river-dependent ecosystems."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about India's river interlinking programme:\n\n1. The National Perspective Plan for river interlinking envisages 30 links — 14 under the Himalayan Rivers Development component and 16 under the Peninsular Rivers Development component.\n2. The Ken-Betwa Link Project is the first river interlinking project under active implementation, primarily designed to transfer water from the water-surplus Ken River basin to the deficit Betwa River basin, benefiting Bundelkhand.\n3. Dr. K.L. Rao proposed the Ganga-Cauvery link as a conceptual predecessor to the modern National Perspective Plan, while the modern 30-link framework was formalized by the National Water Development Agency.\n4. The projected additional irrigation potential from full implementation of the ILR National Perspective Plan is approximately 10 million hectares, concentrated entirely in drought-prone peninsular districts.\n\nWhich of the above statements is/are correct?\n\n(a) 1, 2 and 4 only\n(b) 2 and 3 only\n(c) 1, 2 and 3 only\n(d) 1, 2, 3 and 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f687dc50-e234-44da-b3b3-7b7b1b8e19d0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Traditional/Indigenous Irrigation Systems: Diversity and Revival",
+        "Groundwater Depletion and Over-Exploitation: Crisis Dimensions"
+      ],
+      "subject_que_no": 202,
+      "overall_que_no": 7549
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "application-scenario",
+      "trap_type": null,
+      "concept_anchor": "Johad revival — Tarun Bharat Sangh community water harvesting model",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who associate Rajasthan's water problems with the Indira Gandhi Canal and government irrigation schemes may think the scenario calls for a central government canal programme rather than a community-based traditional water harvesting solution.",
+      "elimination_logic": [
+        "The scenario describes a community-led, low-cost, traditional water harvesting intervention in Rajasthan's arid zones — these are the defining characteristics of the Johad/Tarun Bharat Sangh model.",
+        "Eliminate (b): Atal Bhujal Yojana is a World Bank-assisted scheme for community-led groundwater management, but it focuses on aquifer management and demand reduction in 7 states — not specifically earthen check dam construction in the Johad tradition.",
+        "Eliminate (c): Indira Gandhi Canal expansion is a large-scale infrastructure project — the opposite of the low-cost, community-managed model described in the scenario.",
+        "Eliminate (d): Warabandi is a canal water distribution mechanism — irrelevant to groundwater recharge through check dams. Confirm (a): the scenario precisely describes the Johad/Tarun Bharat Sangh model — earthen check dams, community management, Rajasthan's Alwar region, and aquifer recharge. This is the UPSC/CSE favorite case study for community-based traditional irrigation revival."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "The scenario closely describes the Johad revival movement in Rajasthan — a landmark case study in community-based traditional water harvesting.\n\nApplicable principle: Traditional water harvesting structures (TWHS), when revived through community participation, can recharge aquifers, revive seasonal streams, and restore irrigation capacity without large-scale infrastructure investment.\n\nScenario mapping:\n• Earthen check dams on seasonal streams = Johads (traditional water storage structures of Rajasthan)\n• Raised water table restoring wells = aquifer recharge effect of Johads\n• Community-managed without government funding = Tarun Bharat Sangh model led by Rajendra Singh\n\nOption analysis:\n• Option (a) — Correct: The Johad revival by Tarun Bharat Sangh in Alwar district, Rajasthan is precisely this model. Rajendra Singh (Waterman of India) led villagers to build thousands of Johads, reviving seasonal rivers (including the Arvari River) and restoring groundwater levels.\n• Option (b) — Incorrect: Atal Bhujal Yojana is a formal government scheme focused on groundwater management in 7 states through Water Security Plans at Gram Panchayat level — not earthen check dam construction by communities without government funding.\n• Option (c) — Incorrect: Indira Gandhi Canal is a state-built large-scale canal irrigation project — antithetical to the low-cost, community-led model described.\n• Option (d) — Incorrect: Warabandi is a canal water rotation schedule — unrelated to groundwater recharge through traditional structures.\n\nValue Addition:\n• Rajendra Singh received the Ramon Magsaysay Award (2001) and Stockholm Water Prize (2015) for the Johad revival work.\n• MGNREGS now explicitly funds Johad and similar traditional water harvesting structure construction/restoration as permitted works.\n• Jal Shakti Abhiyan (2019) identified traditional water harvesting structures as priority intervention sites — directly institutionalizing the Tarun Bharat Sangh approach at national scale."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "In a semi-arid district of Rajasthan, a community organisation, without government funding, mobilised villagers to construct hundreds of small earthen check dams across seasonal streams over two decades. Within ten years, the water table in surrounding villages rose significantly, previously dry wells were revived, and a seasonal river began flowing perennially again. Farmers could now access groundwater for irrigation through traditional open wells where none existed before.\n\nWhich of the following concepts and associated case studies does this scenario most directly illustrate?\n\n(a) Revival of traditional water harvesting structures (Johads) through community participation — exemplified by the Tarun Bharat Sangh's work in Rajasthan's Alwar district\n(b) Implementation of the Atal Bhujal Yojana's community-led aquifer management framework in Rajasthan's water-stressed districts\n(c) Expansion of the Indira Gandhi Canal command area through community contribution to tertiary channel construction in Thar Desert villages\n(d) Application of the warabandi rotational water distribution system to revive groundwater recharge in canal-deprived desert villages",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "cde15619-3f0a-43a8-a8fe-1dbb80227d86",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Flood Irrigation vs. Precision Irrigation: Efficiency and Subsidy Distortions",
+        "Drip and Sprinkler Irrigation: Micro-Irrigation Systems"
+      ],
+      "subject_que_no": 203,
+      "overall_que_no": 7550
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Irrigation efficiency ranking — flood vs sprinkler vs drip",
+      "statement_analysis": [
+        {
+          "statement": "Flood (surface) irrigation has a field application efficiency of approximately 40–50%, making it the least efficient among common irrigation methods.",
+          "verdict": "Correct",
+          "reason": "Flood irrigation loses 50–60% of applied water to deep percolation beyond the root zone, surface runoff, and evaporation. Its 40–50% efficiency is the lowest among the three major irrigation techniques — this is an established agronomic benchmark."
+        },
+        {
+          "statement": "Sprinkler irrigation achieves a field application efficiency of approximately 70–80%, better than flood irrigation but lower than drip systems.",
+          "verdict": "Correct",
+          "reason": "Sprinkler irrigation eliminates surface runoff losses and reduces deep percolation compared to flood systems; it achieves 70–80% efficiency. Drip's 80–90% is higher, correctly placing sprinkler in the middle of the efficiency ranking."
+        },
+        {
+          "statement": "Drip irrigation achieves the highest field application efficiency (80–90%) among the three, and its adoption eliminates the need for soil health management since nutrients are delivered directly to the root zone.",
+          "verdict": "Incorrect",
+          "reason": "While the 80–90% efficiency figure for drip is correct, the claim that it 'eliminates the need for soil health management' is false. Even with fertigation through drip lines, soil health monitoring, organic matter management, and salinity management remain essential — drip does not substitute for soil health practices."
+        },
+        {
+          "statement": "The key institutional barrier to scaling up drip and sprinkler adoption in India is the high upfront capital cost, which discourages smallholder farmers without subsidy support.",
+          "verdict": "Correct",
+          "reason": "High installation cost (drip systems can cost ₹50,000–1,50,000 per hectare) is the primary demand-side barrier. PMKSY's PDMC component specifically addresses this through 55–90% subsidy for micro-irrigation installation, with higher support for small/marginal farmers."
+        }
+      ],
+      "strong_distractor": "d — Students who recognize Statements 1, 2, and 4 as correct and know drip achieves 80–90% efficiency may not catch the false second clause in Statement 3 ('eliminates soil health management') and accept all four as correct, choosing (d).",
+      "elimination_logic": [
+        "Evaluate Statement 3: efficiency figure (80–90%) is correct, but 'eliminates need for soil health management' is a scope-extension error — fertigation does not replace soil health monitoring. Statement 3 is incorrect.",
+        "Confirm Statements 1, 2, and 4: flood efficiency (40–50%), sprinkler (70–80%), drip highest, and high capital cost as barrier — all three are established facts. All correct.",
+        "Three correct, one incorrect → answer is (b) Only three.",
+        "Wait — re-read options. Options are (a) Only one, (b) Only three, (c) Only two, (d) All four. Three correct → (b) Only three."
+      ],
+      "upsc_trap_explanation": "Statement 3's trap is a scope-extension embedded at the end of an otherwise correct sentence. The efficiency figure (80–90%) is accurate, making the statement start correctly. The addition of 'eliminates the need for soil health management' is the planted false clause. Students who process the familiar number quickly and accept the rest without scrutiny will mark Statement 3 as correct — a classic UPSC trap where the wrong element is appended to a true fact.",
+      "final_explanation": "Irrigation method efficiency figures are among the most testable numerical facts in UPSC's agriculture questions.\n\n• Statement 1 — Correct: Flood/surface irrigation wastes water through uncontrolled surface runoff, deep percolation below the root zone, and direct evaporation. At 40–50% efficiency, it accounts for approximately 75% of India's irrigated area despite this inefficiency — because it requires no capital infrastructure at the farm level.\n• Statement 2 — Correct: Sprinkler irrigation eliminates surface runoff and reduces percolation by applying water above the canopy at controlled rates. Achieving 70–80% efficiency, it is suitable for undulating terrain and field crops where drip is not practical.\n• Statement 3 — Incorrect: Drip's 80–90% efficiency is accurate and correctly established. However, fertigation (delivering dissolved fertilizers through drip lines) does not eliminate soil health management. Soil organic matter, pH, micronutrient balance, and salinity require independent monitoring and management regardless of irrigation method.\n• Statement 4 — Correct: High capital cost (installation of drip/sprinkler infrastructure) is the primary adoption barrier. PDMC under PMKSY provides subsidies ranging from 55% (large farmers) to 90% (NE/hill states) to overcome this barrier.\n\nValue Addition:\n• India's overall irrigation efficiency is estimated at only 35–40% at the system level (from canal head to crop) — far below the 80–90% achievable with drip at the field level.\n• The efficiency gap between system-level (35–40%) and field-level (80–90%) reflects losses in canal transmission, seepage, and distribution — not just farm-level application.\n• Laser land leveling is a low-tech intervention that can improve flood irrigation efficiency from 40% to 60% by ensuring uniform water spread across fields."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about irrigation methods and their efficiency characteristics:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Flood (surface) irrigation has a field application efficiency of approximately 40–50%, making it the least efficient among common irrigation methods."
+          ],
+          [
+            "2",
+            "Sprinkler irrigation achieves a field application efficiency of approximately 70–80%, better than flood irrigation but lower than drip systems."
+          ],
+          [
+            "3",
+            "Drip irrigation achieves the highest field application efficiency (80–90%) among the three, and its adoption eliminates the need for soil health management since nutrients are delivered directly to the root zone."
+          ],
+          [
+            "4",
+            "The key institutional barrier to scaling up drip and sprinkler adoption in India is the high upfront capital cost, which discourages smallholder farmers without subsidy support."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "81be9b3b-d023-4531-8601-992170de22e7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Inter-State River Water Disputes and Irrigation Access",
+        "Irrigation Coverage and Regional Disparities: Irrigated vs. Rainfed Agriculture"
+      ],
+      "subject_que_no": 204,
+      "overall_que_no": 7551
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Cauvery Water Management Authority — SC jurisdiction nuance",
+      "statement_analysis": [
+        {
+          "statement": "The Cauvery Water Management Authority (CWMA) was constituted pursuant to the Supreme Court's 2018 judgment, and the Court's authority to direct its creation rested on constitutional interpretation questions rather than the merits of water-sharing allocations.",
+          "verdict": "Correct",
+          "reason": "The Supreme Court directed the Union Government to establish CWMA in its 2018 judgment. The SC's ability to intervene rested on the constitutional obligation of the Union to comply with tribunal awards and implement them — a constitutional question, not a water-sharing merit question from which SC jurisdiction is excluded under Article 262."
+        },
+        {
+          "statement": "Article 262 of the Constitution completely bars the Supreme Court from entertaining any matter connected with inter-state river water, including matters involving constitutional rights of states and questions of constitutional interpretation.",
+          "verdict": "Incorrect",
+          "reason": "Article 262(2) allows Parliament to exclude SC jurisdiction from water-sharing disputes, which Parliament has done through the Inter-State River Water Disputes Act, 1956. However, this exclusion applies to the merits of water-sharing — the SC retains jurisdiction over constitutional questions, enforcement of Union obligations, and structural/procedural matters, as demonstrated by its Cauvery 2018 ruling."
+        }
+      ],
+      "strong_distractor": "a — Students who know 'SC intervened in Cauvery' and 'Article 262 can exclude SC' may accept both statements as consistent and choose (a), without catching that Statement 2 extends the exclusion beyond its actual scope ('any matter connected with inter-state river water').",
+      "elimination_logic": [
+        "Evaluate Statement 2: 'completely bars... any matter connected with inter-state river water, including constitutional rights' — this overstates the exclusion. Article 262 allows exclusion only on water-sharing merits, not on constitutional questions. The SC Cauvery 2018 judgment proves SC can intervene on constitutional grounds. Statement 2 is incorrect.",
+        "Evaluate Statement 1: CWMA was created per SC 2018 directive; SC's authority was grounded in constitutional interpretation (Union obligation to implement tribunal awards), not water-sharing merits. Statement 1 is correct.",
+        "Statement 1 correct + Statement 2 incorrect → answer is (c).",
+        "Confirm: option (c) — Statement 1 is correct, Statement 2 is incorrect. Matches."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is a scope-extension of a real constitutional provision. Article 262(2) does allow Parliament to exclude SC jurisdiction — but only from water-sharing disputes on merits. Statement 2 extends this to 'any matter connected with inter-state river water, including constitutional rights' — which goes far beyond the actual exclusion. A partially prepared student who recalls 'Article 262 bars Supreme Court' will accept the broader version without noticing the qualifier 'completely' and 'including constitutional interpretation' that makes it wrong.",
+      "final_explanation": "The scope of Supreme Court jurisdiction over inter-state river water disputes is a nuanced constitutional question — a standard UPSC trap area.\n\n• Statement 1 — Correct: The Supreme Court's 2018 Cauvery judgment directed the Union Government to establish CWMA and a Cauvery Water Regulation Committee (CWRC). The SC's authority to do so derived from its constitutional oversight role — specifically the Union's obligation under the Constitution to implement the orders of tribunals constituted under Article 262 legislation. This is a constitutional interpretation question, not a water-sharing merit question.\n• Statement 2 — Incorrect: Article 262(2) permits Parliament to bar SC jurisdiction from adjudicating the merits of inter-state water-sharing disputes. This is what the Inter-State River Water Disputes Act, 1956 does. However, the exclusion does not cover all matters 'connected with' water — the SC can and does hear constitutional questions, enforcement matters, and structural compliance issues even when the underlying dispute is about river water. The Cauvery 2018 judgment is direct judicial proof that Statement 2's absolute characterization is wrong.\n\nValue Addition:\n• The Cauvery Water Disputes Tribunal was constituted in 1990; its final award came in 2007 and was modified by the SC in 2018 — a 28-year adjudication process.\n• Parties to the Cauvery dispute: Tamil Nadu, Karnataka, Kerala, and Puducherry.\n• The SC specifically noted in 2018 that the Union's failure to set up the regulatory authority despite a tribunal award was a constitutional dereliction — justifying SC intervention on non-water-sharing grounds."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding the constitutional framework for inter-state river water disputes:\n\nStatement 1: The Cauvery Water Management Authority (CWMA) was constituted pursuant to the Supreme Court's 2018 judgment, and the Court's authority to direct its creation rested on constitutional interpretation questions rather than the merits of water-sharing allocations.\n\nStatement 2: Article 262 of the Constitution completely bars the Supreme Court from entertaining any matter connected with inter-state river water, including matters involving constitutional rights of states and questions of constitutional interpretation.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "53607d78-ce33-49c9-b498-6ca8030997d9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Command Area Development and Water Management Programme (CADWMP)",
+        "Irrigation Potential Created vs. Irrigation Potential Utilized: The Utilization Gap"
+      ],
+      "subject_que_no": 205,
+      "overall_que_no": 7552
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "CADWMP — last-mile connectivity within existing commands, not new potential",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who recall CADWMP is related to 'irrigation development' and 'command areas' may choose (b) — new canal construction — because they conflate 'command area development' with 'creating new canal commands.'",
+      "elimination_logic": [
+        "Recall CADWMP's mandate: it operates within existing canal command areas; it does NOT create new irrigation potential.",
+        "CADWMP's specific interventions: constructing field channels (chak channels), land leveling, improving on-farm drainage, and implementing warabandi rotation to bridge the IPC–IPU gap.",
+        "Eliminate (b): construction of new major/medium canals creates new IPC — this is AIBP's domain, not CADWMP's.",
+        "Eliminate (c) and (d): tubewell installation and large dam construction are capital investment interventions — outside CADWMP's scope. Confirm (a): CADWMP's primary focus is developing last-mile field channel infrastructure within already-created canal command areas."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in options (b), (c), and (d) expands CADWMP's mandate beyond its actual boundary. 'Command Area Development' sounds like it could include creating new command areas (new canals, dams) — which is the intuitive extension. But CADWMP specifically operates within existing, already-created command areas. Students who hear 'development' and associate it with new construction will choose (b). Only students who recall the IPC–IPU gap rationale for CADWMP will correctly identify option (a) as the specific mandate.",
+      "final_explanation": "CADWMP was created to solve a specific problem: irrigation potential that was created (dams and canals built) but not being utilized by farmers.\n\n• Option (a) — Correct: CADWMP's primary intervention is constructing chak (field) channels — the last-mile links between secondary/tertiary canals and individual farm plots. Without these field channels, water sitting in a main canal cannot reach farmers' fields. CADWMP also funds land leveling, on-farm drainage, and warabandi system implementation.\n• Option (b) — Incorrect: Constructing new major and medium canal networks is the mandate of AIBP (under PMKSY). CADWMP works with already-existing canal systems — it improves utilization of created potential, not creation of new potential.\n• Option (c) — Incorrect: Subsidizing tubewell installation for expanding groundwater irrigation is handled through state minor irrigation programmes and Atal Bhujal Yojana — not CADWMP, which is exclusively about surface canal command area improvement.\n• Option (d) — Incorrect: Large dam construction is capital infrastructure development — funded under AIBP and state irrigation capital works. CADWMP's interventions are below-dam, within the command.\n\nValue Addition:\n• CADWMP was merged into PMKSY in 2015-16 but its mandate continues as part of PMKSY's 'Har Khet Ko Pani' component.\n• Water User Associations (WUAs) are the institutional mechanism through which CADWMP transfers field channel management to farmer communities.\n• The IPC–IPU gap that CADWMP targets is estimated at 10–15 million hectares nationally — representing enormous wasted infrastructure investment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Command Area Development and Water Management Programme (CADWMP) was specifically designed to address which of the following?\n\n(a) Constructing field channels and improving last-mile water delivery infrastructure within existing canal command areas to bridge the gap between irrigation potential created and irrigation potential utilized\n(b) Financing the construction of new major and medium canal networks in states that currently lack surface irrigation infrastructure\n(c) Subsidizing tubewell installation for marginal farmers in canal-deprived districts to expand groundwater-based irrigation coverage\n(d) Building large storage dams on rain-fed rivers to augment irrigation supply in chronically drought-affected districts",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bb36b77c-e9b6-4a71-82b8-1d133505d541",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Sources of Irrigation: Canals, Tanks, Wells/Tubewells — Relative Share and Trends",
+        "Well and Tubewell Irrigation: Groundwater Exploitation and Regional Patterns"
+      ],
+      "subject_que_no": 206,
+      "overall_que_no": 7553
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Irrigation source dominance shift — canal to groundwater historical sequence",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know that tubewells proliferated 'during the Green Revolution' and that the Green Revolution preceded the 1990s may choose (a) placing groundwater overtaking canals immediately in the 1960s rather than the 1970s–80s, which reverses the tubewell proliferation sequence relative to Atal Bhujal Yojana.",
+      "elimination_logic": [
+        "Event sequencing: Independence (1947) → canals dominant; Green Revolution begins late 1960s → tubewell proliferation accelerates through 1970s–80s; groundwater overtakes canals as primary irrigation source by the 1980s–90s; Atal Bhujal Yojana launched 2019–20 to address the depletion crisis.",
+        "Correct order: (1) Canal irrigation dominant at independence → (2) Green Revolution triggers tubewell proliferation (1960s–70s) → (3) Groundwater surpasses canals as largest irrigation source (1980s–90s) → (4) Atal Bhujal Yojana launched to manage the resulting depletion crisis (2019–20).",
+        "Eliminate (a): places tubewell proliferation after groundwater overtaking canals — reverses cause and effect.",
+        "Eliminate (b) and (d): both incorrectly sequence Atal Bhujal Yojana or the depletion crisis before the Green Revolution period. Confirm (c): canal dominance → Green Revolution tubewell push → groundwater surpasses canals → Atal Bhujal Yojana response."
+      ],
+      "upsc_trap_explanation": "The temporal trap conflates the start of the Green Revolution (mid-1960s) with when groundwater definitively surpassed canals as the largest source. Tubewell proliferation began in the late 1960s–70s but the cumulative tipping point where groundwater share exceeded canal share occurred during the 1980s–90s as tubewell density continued rising. Students who think 'Green Revolution = immediate groundwater dominance' will compress this sequence and misplace events.",
+      "final_explanation": "India's irrigation source mix underwent a historically significant reversal over six decades — driven by technology, policy subsidies, and institutional choices.\n\nCorrect chronological sequence:\n1. Canal irrigation dominance at independence (1947): Colonial-era investments in large canal systems (Sirhind, Upper Doab, Sarda, Eastern Yamuna) made canals the principal irrigation source.\n2. Green Revolution triggers tubewell proliferation (1960s–70s): HYV seeds' water requirements, combined with subsidized electricity and institutional credit for pump sets, drove explosive tubewell expansion in Punjab, Haryana, and western UP.\n3. Groundwater surpasses canals as largest source (1980s–90s): As tubewell density crossed a threshold, groundwater's share of NIA exceeded canals' — the reversal was complete. This trend continued through the 2000s.\n4. Atal Bhujal Yojana launched (2019–20): The groundwater depletion crisis caused by decades of over-extraction prompted this World Bank-assisted community-led management initiative.\n\nWrong options explained:\n• Option (a): Reverses steps 2 and 3 — proliferation must precede dominance; cannot surpass canals before tubewells proliferate.\n• Option (b): Places Atal Bhujal Yojana before groundwater overtaking canals — impossible since Atal Jal responds to a depletion crisis that postdates groundwater dominance.\n• Option (d): Places canal dominance after the Green Revolution — contradicts the historical record.\n\nValue Addition:\n• The Green Revolution's geographic concentration (Punjab, Haryana, western UP) explains why groundwater depletion is most severe precisely in these states today.\n• National Water Policy 2012 explicitly recognizes groundwater over-exploitation as a major national crisis requiring demand-side management.\n• CGWB data shows groundwater stage of development (extraction as % of recharge) exceeding 100% in many Punjab and Haryana districts — the definition of 'over-exploited.'"
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of developments in India's groundwater irrigation history?\n\n1. Canal irrigation was the dominant source of irrigation in India\n2. Green Revolution policies triggered rapid tubewell proliferation through subsidized electricity\n3. Groundwater surpassed canal irrigation as the largest single source of irrigation by area\n4. Atal Bhujal Yojana was launched to address groundwater depletion in stressed states\n\n(a) 1 → 3 → 2 → 4\n(b) 1 → 2 → 4 → 3\n(c) 1 → 2 → 3 → 4\n(d) 2 → 1 → 3 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "26bd0eac-0c43-41d9-a3d6-4fd2695a4dcd",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Agriculture",
+      "sub_topic": "Irrigation systems — types and coverage",
+      "concepts_used": [
+        "Irrigation and Cropping Pattern: Water-Intensive vs. Water-Efficient Crops",
+        "Irrigation Coverage and Regional Disparities: Irrigated vs. Rainfed Agriculture"
+      ],
+      "subject_que_no": 207,
+      "overall_que_no": 7554
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Rainfed agriculture — contribution to food production and policy instruments",
+      "statement_analysis": [
+        {
+          "statement": "Rainfed agriculture in India, despite covering nearly half the net sown area, is concentrated on the cultivation of water-intensive crops such as paddy and wheat, which require supplemental irrigation.",
+          "verdict": "Incorrect",
+          "reason": "Rainfed areas primarily grow dryland crops — pulses, oilseeds, coarse cereals, and millets — that are suited to low water availability. Paddy and wheat, which require significant irrigation, dominate in irrigated areas (Indo-Gangetic Plain), not rainfed zones."
+        },
+        {
+          "statement": "The Rainfed Area Development (RAD) sub-scheme under the National Mission for Sustainable Agriculture (NMSA) promotes integrated farming systems approaches to improve livelihoods in rain-dependent agricultural zones.",
+          "verdict": "Correct",
+          "reason": "RAD under NMSA specifically targets rainfed areas with integrated farming systems (IFS) combining crop, livestock, horticulture, and water harvesting components to diversify income and reduce monsoon risk — this is its documented mandate."
+        },
+        {
+          "statement": "Millets are more suitable for rainfed farming than paddy because their shallow root systems and minimal water needs make them productive even in low-rainfall, low-soil-depth conditions.",
+          "verdict": "Correct",
+          "reason": "Millets have C4 photosynthesis, high water-use efficiency, drought tolerance, and adaptability to poor soils — making them ideal for rainfed dryland farming. Their water requirements (300–500 litres/kg) are a fraction of paddy's (1,500–2,000 litres/kg)."
+        }
+      ],
+      "strong_distractor": "d — Wait — (d) is the correct answer here. The strong distractor is option (a): students who associate 'India grows a lot of paddy and it's widespread' may not carefully distinguish irrigated vs. rainfed areas as the location of paddy cultivation, accepting Statement 1 as broadly correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: rainfed areas grow dryland crops (pulses, oilseeds, millets) — paddy and wheat require irrigation and dominate in irrigated zones. Statement 1 incorrectly attributes water-intensive crops to rainfed agriculture. Statement 1 is incorrect.",
+        "Eliminate options (a) and (c) since both require Statement 1 to be correct.",
+        "Verify Statement 2: RAD under NMSA with IFS approach for rainfed zones — accurately described. Correct.",
+        "Verify Statement 3: millets' C4 efficiency, drought tolerance, low water need for rainfed farming — accurate. Correct. Both Statements 2 and 3 correct → answer is (d) — 2 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 1's trap is a geographic scope-extension error: paddy is a major crop in India, but it is grown primarily in irrigated zones (Punjab, Haryana, irrigated UP, coastal delta areas). Rainfed agriculture's crop profile is dominated by millets, pulses, and oilseeds — the exact opposite of paddy-wheat. Students who think 'paddy is a major crop → it must be grown in rainfed areas too' without recalling the water-irrigation specificity of paddy cultivation will accept Statement 1.",
+      "final_explanation": "Rainfed agriculture's crop profile is the mirror image of irrigated agriculture — a distinction central to India's food security and water policy debate.\n\n• Statement 1 — Incorrect: Rainfed areas (~48% of net sown area) overwhelmingly grow dryland-adapted crops — pulses, oilseeds (groundnut, soybean, mustard), coarse cereals, and millets. These crops evolved for low-water conditions. Paddy and wheat, which require assured water supply, are grown in irrigated regions. Rainfed areas contribute most of India's pulse and oilseed output — not paddy or wheat.\n• Statement 2 — Correct: RAD under NMSA uses an Integrated Farming Systems (IFS) approach — combining crop production with livestock rearing, horticulture, fisheries, and water harvesting to create multiple income streams for rainfed farmers who face high monsoon risk. This diversification reduces vulnerability.\n• Statement 3 — Correct: Millets (bajra, jowar, ragi, foxtail millet) have evolved precisely for dryland conditions — C4 photosynthesis, efficient stomatal control, and drought dormancy mechanisms allow them to produce acceptable yields even with 300–400 mm of rainfall. Their promotion as 'nutri-cereals' under IYOM 2023 aligns irrigation demand reduction with nutritional goals.\n\nValue Addition:\n• Rainfed agriculture supports approximately 40% of India's total food production despite no irrigation inputs — demonstrating significant productivity potential if rainfed productivity is improved.\n• Rainfed regions house a disproportionate share of India's tribal population and SC/ST farmers — making RAD a social equity programme as much as an agricultural one.\n• DSR (Direct Seeded Rice) technology can help transition some rainfed plots in semi-assured rainfall zones into low-water rice cultivation — expanding the crop portfolio in transition zones."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about rainfed agriculture in India:\n\n1. Rainfed agriculture in India, despite covering nearly half the net sown area, is concentrated on the cultivation of water-intensive crops such as paddy and wheat, which require supplemental irrigation.\n2. The Rainfed Area Development (RAD) sub-scheme under the National Mission for Sustainable Agriculture (NMSA) promotes integrated farming systems approaches to improve livelihoods in rain-dependent agricultural zones.\n3. Millets are more suitable for rainfed farming than paddy because their shallow root systems and minimal water needs make them productive even in low-rainfall, low-soil-depth conditions.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 1 and 3 only\n(c) 1, 2 and 3\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  }
+]

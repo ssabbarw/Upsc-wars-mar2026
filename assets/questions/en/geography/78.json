@@ -1,0 +1,1609 @@
+[
+  {
+    "meta": {
+      "uuid": "7ed4f2ac-ba57-4333-ac5c-6cd2f51977a7",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Southern Oscillation Index (SOI) as a Diagnostic Tool"
+      ],
+      "subject_que_no": 2676,
+      "overall_que_no": 19650
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "SOI definition and pressure stations",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because Darwin is correctly associated with SOI, but reversing it as the high-pressure reference station sounds plausible to a student who knows the two cities but not which is which.",
+      "elimination_logic": [
+        "Eliminate (a): SOI is not measured as the pressure difference with Darwin as the eastern reference — Darwin is in the western Pacific, Tahiti in the east.",
+        "Eliminate (b): SOI is not an oceanic temperature index; it measures atmospheric surface pressure, not sea surface temperatures.",
+        "Eliminate (d): A negative SOI does not indicate La Niña — a negative SOI (lower pressure at Tahiti relative to Darwin) corresponds to El Niño conditions.",
+        "Confirm (c): SOI is the normalized pressure difference between Tahiti (east) and Darwin (west); negative SOI = El Niño, positive SOI = La Niña."
+      ],
+      "upsc_trap_explanation": "Many students know that Darwin and Tahiti are the two reference points for SOI but confuse which is subtracted from which, or associate negative SOI with La Niña instead of El Niño. The entity-swap in option (a) exploits this by reversing the pressure stations while keeping the city names familiar, making it seem plausible.",
+      "final_explanation": "The Southern Oscillation Index (SOI) is the atmospheric diagnostic tool used to identify ENSO phases. It is calculated as the normalized sea-level pressure difference between Tahiti (eastern Pacific) and Darwin, Australia (western Pacific).\n\n• Option (a): Incorrect — the pressure difference is Tahiti minus Darwin, not Darwin minus Tahiti; reversing this changes the sign of the index entirely.\n• Option (b): Incorrect — SOI measures atmospheric pressure, not sea surface temperatures; SST anomalies in the Niño 3.4 region are the oceanic component of ENSO diagnostics.\n• Option (c): Correct — negative SOI means pressure at Tahiti is relatively lower than at Darwin, indicating weakened trade winds and El Niño conditions; positive SOI indicates La Niña.\n• Option (d): Incorrect — the relationship is reversed; negative SOI signals El Niño, positive SOI signals La Niña.\n\nValue Addition:\n• SOI measures only the atmospheric component; ENSO is the full coupled ocean-atmosphere phenomenon.\n• A single month of anomalous SOI is not sufficient — sustained signals over multiple months matter.\n• IMD uses SOI alongside SST data and IOD indices for long-range monsoon forecasting."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly describes the Southern Oscillation Index (SOI) and its relationship with ENSO phases?\n\n(a) SOI is the normalized sea-level pressure difference between Darwin and Tahiti, with a negative SOI indicating La Niña conditions\n(b) SOI measures sea surface temperature anomalies between the eastern and western Pacific, with negative values indicating El Niño\n(c) SOI is the normalized sea-level pressure difference between Tahiti and Darwin, with a negative SOI indicating El Niño conditions\n(d) SOI measures sea-level pressure at Tahiti alone, with a positive SOI indicating El Niño conditions",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1a4d5530-1691-4ee1-a897-a86cc68fec22",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Cycle: Neutral, El Niño, and La Niña States",
+        "ENSO and the Bjerknes Feedback (Positive Feedback Loop)"
+      ],
+      "subject_que_no": 2677,
+      "overall_que_no": 19651
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "La Niña asymmetry and ENSO quasi-periodicity",
+      "statement_analysis": [
+        {
+          "statement": "La Niña is simply the mirror image of El Niño in terms of intensity, duration, and geographic impacts.",
+          "verdict": "Incorrect",
+          "reason": "La Niña exhibits asymmetry relative to El Niño — it tends to be less intense, longer in duration, and its geographic impacts do not perfectly reverse El Niño's patterns."
+        },
+        {
+          "statement": "ENSO follows a quasi-periodic cycle of approximately 2–7 years, meaning it recurs irregularly rather than at fixed intervals.",
+          "verdict": "Correct",
+          "reason": "Unlike truly periodic phenomena such as tidal cycles, ENSO's recurrence varies between 2 and 7 years due to the complex nonlinear interactions between ocean and atmosphere."
+        },
+        {
+          "statement": "An El Niño event is declared when SST anomalies in the Niño 3.4 region equal or exceed +0.5°C for at least five consecutive overlapping months.",
+          "verdict": "Correct",
+          "reason": "The standard threshold used by most meteorological agencies (including NOAA's ONI) is ≥+0.5°C in the Niño 3.4 region sustained over five consecutive three-month periods."
+        }
+      ],
+      "strong_distractor": "d — A student may eliminate Statement 2 thinking ENSO is truly periodic given its broad 'cycle' description, and also doubt Statement 3's precision, making 'd' (1 only) seem safe — but Statements 2 and 3 are both factually correct.",
+      "elimination_logic": [
+        "Eliminate any option that includes Statement 1 as correct — La Niña is NOT a mirror image of El Niño; it shows asymmetry in intensity and duration.",
+        "Confirm Statement 2 is correct — 'quasi-periodic' precisely captures ENSO's irregular 2–7 year recurrence as opposed to a fixed cycle.",
+        "Confirm Statement 3 is correct — the ≥+0.5°C threshold in Niño 3.4 for five consecutive months is the standard El Niño declaration criterion.",
+        "The only option combining Statements 2 and 3 while excluding Statement 1 is (b)."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the common shorthand that La Niña is the 'opposite' of El Niño. While broadly true in direction, the scope-extension trap here lies in the word 'simply' and the claim of equivalence in intensity and duration — both of which are incorrect. La Niña events tend to last longer and are generally less intense than their El Niño counterparts.",
+      "final_explanation": "ENSO encompasses three states — neutral, El Niño, and La Niña — each defined by specific thresholds and characterized by distinct but asymmetric behaviors.\n\n• Statement 1 — Incorrect: La Niña is not a perfect mirror of El Niño. Research shows La Niña events are typically less intense but can persist longer. Their teleconnection patterns also show geographic asymmetry — not a simple reversal of El Niño impacts.\n• Statement 2 — Correct: ENSO is quasi-periodic, cycling every 2–7 years depending on ocean-atmosphere coupling strength. Unlike tides or Earth's orbital cycles, no fixed periodicity governs ENSO onset.\n• Statement 3 — Correct: The internationally accepted threshold for El Niño is a Niño 3.4 SST anomaly of ≥+0.5°C sustained for five consecutive overlapping three-month periods (e.g., OND, NDJ, DJF).\n\nValue Addition:\n• La Niña years following strong El Niño events (rebound La Niña) tend to be stronger than standalone La Niña events.\n• NOAA uses the Oceanic Niño Index (ONI) based on Niño 3.4 three-month running averages for official declarations.\n• The quasi-periodic nature of ENSO makes long-range prediction inherently uncertain beyond 12 months."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the ENSO cycle:\n\n1. La Niña is simply the mirror image of El Niño in terms of intensity, duration, and geographic impacts.\n2. ENSO follows a quasi-periodic cycle of approximately 2–7 years, meaning it recurs irregularly rather than at fixed intervals.\n3. An El Niño event is declared when SST anomalies in the Niño 3.4 region equal or exceed +0.5°C for at least five consecutive overlapping months.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 3 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d430495c-8267-4a28-90eb-4e967ee9e8ba",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Walker Circulation and Its Disruption During ENSO"
+      ],
+      "subject_que_no": 2678,
+      "overall_que_no": 19652
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "conflation",
+      "concept_anchor": "Walker vs Hadley Circulation during ENSO",
+      "statement_analysis": [
+        {
+          "statement": "The Walker Circulation is a meridional (north-south) circulation driven by the temperature contrast between the warm Indo-Pacific and the cool eastern Pacific.",
+          "verdict": "Incorrect",
+          "reason": "The Walker Circulation is zonal (east-west), not meridional. The Hadley Circulation is the meridional cell; conflating the two is a classic exam trap."
+        },
+        {
+          "statement": "During El Niño, the eastward shift of convection toward the central Pacific weakens the trade winds over the tropical Pacific.",
+          "verdict": "Correct",
+          "reason": "El Niño is associated with the eastward migration of the convective centre, which in turn weakens the pressure gradient driving easterly trade winds — a key feature of El Niño onset."
+        },
+        {
+          "statement": "La Niña is associated with enhanced upwelling off the coast of Peru due to stronger trade winds reinforcing the Walker Circulation.",
+          "verdict": "Correct",
+          "reason": "During La Niña, intensified trade winds push warm surface water westward, enhancing cold upwelling along the Peruvian coast and deepening the thermocline in the western Pacific."
+        }
+      ],
+      "strong_distractor": "c — Students may correctly flag Statement 1 as wrong but then doubt Statement 3, thinking La Niña upwelling is a separate coastal phenomenon unrelated to Walker Circulation — option (c) exploits this by offering '1 and 3' as the incorrect pair.",
+      "elimination_logic": [
+        "Identify Statement 1 as incorrect — Walker Circulation is zonal (east-west), not meridional (north-south); meridional circulation is the Hadley Cell.",
+        "Verify Statement 2 is correct — eastward convection shift during El Niño is a defining feature, not an error.",
+        "Verify Statement 3 is correct — La Niña's stronger trades do drive enhanced Peruvian upwelling via the Walker Cell reinforcement.",
+        "Only Statement 1 is incorrect, matching option (a) — '1 only'."
+      ],
+      "upsc_trap_explanation": "The conflation trap here merges attributes of the Walker Circulation (zonal) with those of the Hadley Circulation (meridional). Students who know both circulations exist but haven't fixed the axis of each in memory will accept Statement 1 as plausible, especially since the Indo-Pacific temperature contrast description sounds accurate — only the directional label is wrong.",
+      "final_explanation": "The Walker Circulation is a fundamental organizing principle of tropical climate, distinct from the Hadley Circulation in its orientation and drivers.\n\n• Statement 1 — Incorrect: Walker Circulation is a zonal (east-west) atmospheric cell driven by the SST contrast between the warm western Indo-Pacific and the cool eastern Pacific. Meridional (north-south) circulation is the defining feature of the Hadley Cell. Conflating these two is the most common Walker-related error.\n• Statement 2 — Correct: During El Niño, the convective centre shifts eastward toward the central Pacific, reducing the pressure gradient and weakening the easterly trade winds — this is both the signature and amplifier of El Niño.\n• Statement 3 — Correct: La Niña intensifies the Walker Circulation; stronger trades push warm surface water westward, exposing cold deep water off Peru through enhanced upwelling.\n\nValue Addition:\n• The Walker Circulation was first described by Sir Gilbert Walker in the early 20th century alongside his discovery of the Southern Oscillation.\n• During El Niño, the Walker Cell does not simply weaken — in extreme events, it can partially reverse, with surface winds blowing eastward.\n• Hadley Circulation changes with climate change (widening of Hadley cells) are studied separately from ENSO-driven Walker disruptions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about Walker Circulation and its behaviour during ENSO events:\n\n1. The Walker Circulation is a meridional (north-south) circulation driven by the temperature contrast between the warm Indo-Pacific and the cool eastern Pacific.\n2. During El Niño, the eastward shift of convection toward the central Pacific weakens the trade winds over the tropical Pacific.\n3. La Niña is associated with enhanced upwelling off the coast of Peru due to stronger trade winds reinforcing the Walker Circulation.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a09b3693-50a6-4e62-96ef-101ef0a77a55",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Indices: Niño Regions (1+2, 3, 3.4, 4) and Their Specific Uses",
+        "ENSO Modoki (Central Pacific El Niño) vs. Classical El Niño"
+      ],
+      "subject_que_no": 2679,
+      "overall_que_no": 19653
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Niño region index assignments and applications",
+      "statement_analysis": [
+        {
+          "statement": "Niño 1+2 region tracks SST in the far eastern Pacific and is most sensitive to classical El Niño onset near the Peruvian coast.",
+          "verdict": "Correct",
+          "reason": "Niño 1+2 covers the far eastern Pacific closest to Peru and Ecuador and responds earliest to the SST warming signature of classical El Niño events."
+        },
+        {
+          "statement": "Niño 3.4 region (5°N–5°S, 120°W–170°W) serves as the primary benchmark index used by IMD and WMO for ENSO declarations.",
+          "verdict": "Correct",
+          "reason": "Niño 3.4 is the globally adopted reference region; NOAA's Oceanic Niño Index (ONI) and IMD's official ENSO monitoring both use this region as the primary SST benchmark."
+        },
+        {
+          "statement": "Niño 4 region is best suited for capturing the ENSO Modoki (Central Pacific El Niño) signal.",
+          "verdict": "Correct",
+          "reason": "Niño 4 covers the central Pacific and captures warming patterns characteristic of ENSO Modoki, distinguishing it from the eastern Pacific warming of classical El Niño tracked by Niño 3."
+        },
+        {
+          "statement": "NOAA's Oceanic Niño Index (ONI) is based on SST anomalies in the Niño 3 region, not the Niño 3.4 region.",
+          "verdict": "Incorrect",
+          "reason": "NOAA's ONI is explicitly based on the Niño 3.4 region, not Niño 3. Confusing Niño 3 and Niño 3.4 is a classic precision trap in ENSO questions."
+        }
+      ],
+      "strong_distractor": "d — A student who knows that Niño 3.4 is the benchmark may think NOAA uses it for ONI and mark Statement 4 as correct too, selecting 'All four' — but NOAA's ONI uses Niño 3.4, so Statement 4 (which says Niño 3) is incorrect.",
+      "elimination_logic": [
+        "Verify Statement 1: Niño 1+2 is the far eastern Pacific index sensitive to Peruvian coastal warming — correct.",
+        "Verify Statement 2: Niño 3.4 is the primary benchmark for IMD and WMO — correct.",
+        "Verify Statement 3: Niño 4 captures the central Pacific Modoki signal — correct.",
+        "Identify Statement 4 as incorrect: ONI uses Niño 3.4, not Niño 3 — only three statements are correct, selecting option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 4 exploits the near-identical naming of Niño 3 and Niño 3.4. Students who know that NOAA uses the Niño 3.4 region for ONI may misread the statement quickly and accept it. The trap lies in the subtle substitution of 'Niño 3' for 'Niño 3.4' — a one-character difference with significant factual consequence.",
+      "final_explanation": "ENSO monitoring uses multiple regional SST indices, each calibrated to detect different aspects of the phenomenon.\n\n• Statement 1 — Correct: Niño 1+2 covers the far eastern Pacific (near Peru/Ecuador) and is the first to register SST warming during classical El Niño onset due to coastal upwelling changes.\n• Statement 2 — Correct: Niño 3.4 (5°N–5°S, 120°W–170°W) is the international benchmark used by IMD, WMO, and most national agencies for tracking ENSO state.\n• Statement 3 — Correct: Niño 4 captures the central Pacific warming signature most closely associated with ENSO Modoki events, which have different teleconnection patterns from classical events.\n• Statement 4 — Incorrect: NOAA's ONI is based on Niño 3.4 three-month running means, not the Niño 3 region. This is the most commonly tested precision error in ENSO index questions.\n\nValue Addition:\n• Different agencies using different indices can lead to apparent contradictions in ENSO event declarations — an IMD-declared El Niño may not match NOAA's official declaration in marginal years.\n• ENSO Modoki's distinct teleconnections mean its impact on India and East Asia differs from classical El Niño, making index selection critical for impact forecasting.\n• The El Niño Modoki index (EMI) is a separate composite index designed specifically to capture Modoki events."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about ENSO monitoring indices and their specific uses:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "Niño 1+2 region tracks SST in the far eastern Pacific and is most sensitive to classical El Niño onset near the Peruvian coast."
+          ],
+          [
+            "2",
+            "Niño 3.4 region (5°N–5°S, 120°W–170°W) serves as the primary benchmark index used by IMD and WMO for ENSO declarations."
+          ],
+          [
+            "3",
+            "Niño 4 region is best suited for capturing the ENSO Modoki (Central Pacific El Niño) signal."
+          ],
+          [
+            "4",
+            "NOAA's Oceanic Niño Index (ONI) is based on SST anomalies in the Niño 3 region, not the Niño 3.4 region."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "297f19b5-0e8c-4cf1-85ef-768ea4418b11",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Thermocline Dynamics and Kelvin/Rossby Waves in ENSO",
+        "ENSO and the Bjerknes Feedback (Positive Feedback Loop)"
+      ],
+      "subject_que_no": 2680,
+      "overall_que_no": 19654
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Oceanic waves and feedbacks in ENSO mechanics",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) swaps Kelvin and Rossby waves, which many students half-remember as 'one goes east, one goes west' without fixing which terminates vs. initiates El Niño.",
+      "elimination_logic": [
+        "Fix A: Kelvin waves propagate eastward and deepen the thermocline — they initiate El Niño by suppressing cold upwelling. Match A-3.",
+        "Fix B: Rossby waves propagate westward and shoal the thermocline — they help terminate El Niño. Match B-1.",
+        "Fix C: Bjerknes feedback is the positive feedback loop where warm SST weakens trades, which further warms SST. Match C-4.",
+        "Fix D: The thermocline is shallower in the eastern Pacific under neutral conditions. Match D-2. This gives A-3, B-1, C-4, D-2 — option (b)."
+      ],
+      "upsc_trap_explanation": "The Kelvin/Rossby wave distinction is a high-value trap because both are oceanic waves involved in ENSO but with opposite propagation directions and opposite effects on thermocline depth. Students who remember 'Kelvin = east, Rossby = west' often still confuse which one initiates vs. terminates El Niño. Option (a) exploits the swap of these roles.",
+      "final_explanation": "ENSO is sustained and terminated by a precise interplay of oceanic waves and feedback loops operating across the tropical Pacific.\n\nCorrect matches:\n• A (Kelvin waves) – 3 (eastward propagation, thermocline deepening, El Niño initiation): Oceanic Kelvin waves carry warm water eastward along the equator, deepening the thermocline and suppressing cold upwelling off Peru — the trigger mechanism for El Niño development.\n• B (Rossby waves) – 1 (westward propagation, thermocline shoaling, El Niño termination): Reflected Rossby waves travel westward, raising the thermocline and reintroducing cold water — the ocean's self-correcting mechanism that ends El Niño.\n• C (Bjerknes feedback) – 4 (positive feedback amplifying El Niño through SST-wind coupling): Warm eastern Pacific SST weakens trades, which reduces upwelling of cold water, further warming SST — a self-amplifying loop.\n• D (Thermocline depth pattern) – 2 (shallower in eastern Pacific under neutral conditions): Under normal Walker Circulation, trade winds push warm water west, making the eastern Pacific thermocline shallow and the western thermocline deep.\n\nValue Addition:\n• Oceanic Kelvin waves must be distinguished from atmospheric Kelvin waves discussed in QBO (quasi-biennial oscillation) context — two different phenomena sharing a name.\n• The Bjerknes feedback is named after Jakob Bjerknes who first described the ocean-atmosphere coupling in ENSO in the 1960s.\n• Negative feedbacks (Kelvin/Rossby wave reflections) ultimately overcome the Bjerknes positive feedback, making ENSO oscillatory rather than a runaway warming event."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (ENSO mechanism/feature) with List II (description/role):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Oceanic Kelvin waves",
+            "1. Westward-propagating waves that shoal the thermocline and help terminate El Niño"
+          ],
+          [
+            "B. Oceanic Rossby waves",
+            "2. Shallower in the eastern Pacific under neutral Walker Circulation conditions"
+          ],
+          [
+            "C. Bjerknes feedback",
+            "3. Eastward-propagating waves that deepen the thermocline, triggering El Niño onset"
+          ],
+          [
+            "D. Thermocline depth pattern",
+            "4. Positive feedback where warm SST weakens trade winds, further warming SST"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-4, C-1, D-2\n(d) A-1, B-4, C-3, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b67d68e3-4e4e-4bc5-accb-1a2e872b2a56",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "El Niño Impact on Indian Summer Monsoon (ISM)",
+        "Indian Ocean Dipole (IOD) and Its Interaction with ENSO"
+      ],
+      "subject_que_no": 2681,
+      "overall_que_no": 19655
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "partial-truth",
+      "concept_anchor": "IOD modulating El Niño impact on Indian monsoon",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know that a positive IOD enhances Indian monsoon and that 2019 had above-normal rainfall may accept (a) without checking whether the IOD causally explains why El Niño doesn't always cause drought — the causal chain goes through the IOD, not directly from El Niño to monsoon.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. The statistical link between El Niño and deficient Indian monsoon is real but not deterministic; 1997 and 2019 are examples of El Niño years with near-normal or above-normal monsoon.",
+        "Step 2: Is Reason (R) correct? — Yes. A positive IOD (warm western Indian Ocean, cool eastern Indian Ocean) does enhance moisture convergence over India independently of ENSO.",
+        "Step 3: Does R causally explain A? — No. The Reason explains why the IOD can offset El Niño in specific years, but the Assertion is a general statistical statement about El Niño's non-deterministic relationship with Indian monsoon — not specifically about IOD years. R explains a specific mechanism (IOD compensation) rather than the general observation stated in A.",
+        "Both A and R are factually correct but R is not the complete or direct explanation of A — correct option is (b)."
+      ],
+      "upsc_trap_explanation": "This is a classic option (a) vs. (b) trap. A and R are both factually true, and there IS a logical connection between them — IOD does explain some El Niño non-drought years. However, R explains only one modulating factor for one category of cases, while A is a broader statistical statement encompassing multiple factors (also including the equatorial Indian Ocean warming and local SST patterns). R is not the general causal explanation of A — it is a partial, case-specific explanation.",
+      "final_explanation": "The relationship between El Niño and Indian Summer Monsoon (ISM) is one of the most tested ENSO topics in UPSC, requiring nuanced understanding of 'statistical correlation' vs. 'determinism.'\n\nAssertion (A): Correct. El Niño correlates with deficient monsoon in roughly 60% of strong events, but multiple counter-examples (1997 near-normal, 2019 above-normal) confirm this is not a guaranteed outcome. The relationship is probabilistic.\n\nReason (R): Correct. A positive IOD — warm western Indian Ocean and cool eastern Indian Ocean — enhances moisture flux toward the Indian subcontinent independently of ENSO. In 2019, an exceptionally strong positive IOD more than compensated for the concurrent weak El Niño, resulting in above-normal rainfall.\n\nCausal relationship: R explains a specific mechanism (IOD compensation) relevant to particular years, but A is a general probabilistic statement about El Niño's overall monsoon relationship. R is not the complete or primary explanation for the broader phenomenon described in A — other factors such as equatorial Indian Ocean background warming also play a role. Hence, both are correct but R does not fully explain A.\n\nValue Addition:\n• IOD index is measured as the SST difference between the western Indian Ocean (50°E–70°E, 10°S–10°N) and eastern Indian Ocean (90°E–110°E, 10°S–0°N).\n• Positive IOD years: 1994, 1997, 2019 — all associated with above-normal Indian rainfall despite neutral or weak El Niño.\n• IOD and ENSO are statistically correlated but physically independent climate modes."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Not every El Niño year results in a deficient Indian Summer Monsoon; the relationship between El Niño and monsoon suppression is statistical rather than deterministic.\n\nReason (R): A positive Indian Ocean Dipole, characterised by anomalously warm sea surface temperatures in the western Indian Ocean, can enhance moisture convergence over the Indian subcontinent and partially or fully offset the suppressing influence of El Niño.\n\nWhich of the following is correct?\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5f2caf41-cdc7-471f-a548-3a773748d546",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Teleconnections: Global Rainfall Patterns",
+        "ENSO and Drought in Sub-Saharan Africa and the Sahel"
+      ],
+      "subject_que_no": 2682,
+      "overall_que_no": 19656
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "chronology",
+      "trap_type": null,
+      "concept_anchor": "ENSO event chronology and landmark impacts",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) places the 1997–98 El Niño before the 2010–11 La Niña correctly but incorrectly orders the 2015–16 Amazon fires El Niño and the 2019 positive IOD year, making it a plausible but wrong sequence.",
+      "elimination_logic": [
+        "Anchor Event 1: 1997–98 El Niño was the strongest El Niño of the 20th century — must come first in any post-1990 chronology.",
+        "Anchor Event 2: 2010–11 La Niña caused Queensland floods and Pakistan floods — clearly follows 1997–98.",
+        "Anchor Event 3: 2015–16 El Niño linked to record Amazon fires — occurs between 2010–11 La Niña and 2019 IOD event.",
+        "Anchor Event 4: 2019 positive IOD offsetting El Niño — the most recent event, confirming the sequence 1997–98 → 2010–11 → 2015–16 → 2019, matching option (d)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Landmark ENSO events and their associated impacts form a recurring UPSC examination theme. Understanding the chronological sequence also tests whether students can associate each event with its specific impact signature.\n\nCorrect sequence: 1997–98 El Niño → 2010–11 La Niña → 2015–16 El Niño → 2019 Positive IOD year\n\n• 1997–98 El Niño: The strongest El Niño of the 20th century; caused approximately $45 billion in global agricultural losses; notably, India experienced near-normal monsoon due to partial IOD compensation.\n• 2010–11 La Niña: One of the strongest La Niña events on record; caused catastrophic Queensland floods (worst in decades) and devastating Pakistan floods.\n• 2015–16 El Niño: Among the strongest on record; linked to record Amazon basin fires, severe drought in southern Africa, and coral bleaching on the Great Barrier Reef.\n• 2019 Positive IOD: An exceptionally strong positive IOD (not strictly an ENSO event) coincided with a weak El Niño but delivered above-normal monsoon rainfall to India.\n\nValue Addition:\n• The 1982–83 El Niño was the benchmark 'super El Niño' before 1997–98 surpassed it.\n• 2015–16 El Niño was the first event to be widely forecast 12+ months in advance using coupled models.\n• Successive ENSO events of opposite polarity (El Niño followed by La Niña) are common — called a 'transitional' pattern."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of major ENSO-related events and their associated impacts?\n\n1. The 2010–11 La Niña caused devastating floods in Queensland, Australia\n2. The 1997–98 El Niño was associated with approximately $45 billion in global agricultural losses\n3. A strong positive Indian Ocean Dipole offset El Niño warming, delivering above-normal rainfall to India\n4. The 2015–16 El Niño was linked to record Amazon basin fires and severe southern African drought\n\n(a) 1 – 2 – 3 – 4\n(b) 2 – 4 – 1 – 3\n(c) 2 – 1 – 3 – 4\n(d) 2 – 1 – 4 – 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e0193cd1-c707-46c7-8e31-d01ecbc82504",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and the Northeast Monsoon (Retreating Monsoon) of India",
+        "La Niña Impact on Indian Monsoon and Flooding"
+      ],
+      "subject_que_no": 2683,
+      "overall_que_no": 19657
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "El Niño and northeast monsoon relationship",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know El Niño suppresses the southwest monsoon will assume it also suppresses the northeast monsoon, choosing (a) — but the northeast monsoon can actually be enhanced during El Niño years, which is the opposite relationship.",
+      "elimination_logic": [
+        "Eliminate (a): El Niño suppresses the southwest monsoon but can enhance the northeast monsoon — these are opposite relationships, not uniform suppression.",
+        "Eliminate (b): The northeast monsoon is not driven by the same moisture source or pressure gradient as the southwest monsoon — applying southwest monsoon logic here is incorrect.",
+        "Eliminate (d): La Niña strengthening northeast monsoon is true but the scenario specifically describes El Niño conditions (suppressed southwest monsoon, normal Bay of Bengal SSTs in October), not La Niña.",
+        "Confirm (c): During El Niño, the atmospheric pressure and circulation anomalies can actually favour enhanced northeast monsoon activity over Tamil Nadu and adjacent areas — a documented counterintuitive relationship."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap lies in assuming that El Niño's suppression of the southwest monsoon uniformly applies to ALL Indian monsoon systems. The northeast monsoon (October–December, affecting Tamil Nadu, Puducherry, coastal Andhra) operates through a different atmospheric mechanism and has a different — sometimes opposite — ENSO relationship. Students who over-generalise 'El Niño = bad for Indian rain' fall into this trap.",
+      "final_explanation": "India experiences two distinct monsoon seasons with different ENSO relationships — a critical but frequently overlooked distinction.\n\nThe southwest monsoon (June–September) is suppressed by El Niño through eastward convection shift and reduced moisture convergence over the Indian landmass. However, the northeast monsoon (October–December), which brings critical rainfall to Tamil Nadu, Puducherry, coastal Andhra Pradesh, and Sri Lanka, operates through a different pressure and moisture mechanism using Bay of Bengal SSTs and winter circulation patterns.\n\n• Option (a): Incorrect — El Niño does not uniformly suppress all Indian rainfall; its relationship with the northeast monsoon can be neutral to positive.\n• Option (b): Incorrect — treating both monsoon systems as having identical ENSO responses is a category error; the drivers and feedback mechanisms differ.\n• Option (c): Correct — El Niño conditions can actually be associated with enhanced northeast monsoon activity in some years, representing an opposite relationship to the southwest monsoon impact. This is the climatologically documented pattern.\n• Option (d): Incorrect — the scenario describes El Niño (deficient southwest monsoon), not La Niña; La Niña's enhancement of northeast monsoon is a separate phenomenon.\n\nValue Addition:\n• The northeast monsoon contributes ~35% of Tamil Nadu's annual rainfall — critical for agriculture and water security in peninsular India.\n• 2021 La Niña produced an exceptionally active northeast monsoon with severe Chennai flooding, but La Niña and El Niño mechanisms are distinct.\n• Sri Lanka's Maha cultivation season (Oct–Jan) is heavily dependent on northeast monsoon influenced by ENSO state."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "During October of a particular year, the India Meteorological Department declares an active El Niño event, noting that the southwest monsoon has already withdrawn with a seasonal rainfall deficit of 15%. Bay of Bengal sea surface temperatures in October remain above 28°C. A state government in southern India is planning its agricultural calendar for the upcoming winter season. A climate analyst advises the government that its winter rainfall outlook may differ from the southwest monsoon outcome. Which of the following best explains the scientific basis for this advice?\n\n(a) El Niño suppresses both the southwest and northeast monsoons uniformly, so the state should expect continued rainfall deficits through December\n(b) The northeast monsoon draws from the same moisture source as the southwest monsoon and will therefore be equally affected by the ongoing El Niño\n(c) El Niño conditions can be associated with enhanced northeast monsoon activity over southern peninsular India, as the atmospheric response to El Niño affects the two monsoon systems differently\n(d) La Niña conditions are required for the northeast monsoon to be active, and since La Niña has not set in, the northeast monsoon will be below normal",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "691afdfa-61c8-404b-ad79-e126d624e150",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Teleconnections: Global Rainfall Patterns"
+      ],
+      "subject_que_no": 2684,
+      "overall_que_no": 19658
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "El Niño drought-affected regions globally",
+      "statement_analysis": null,
+      "strong_distractor": "d — Southern Africa (Zimbabwe, Zambia) is correctly drought-affected during El Niño, so students may be uncertain and choose (d) as the odd one, missing that East Africa is actually a rainfall winner during El Niño's October–December short rains season.",
+      "elimination_logic": [
+        "Identify the common attribute: three regions experience drought or below-normal rainfall during El Niño events.",
+        "Australia (eastern) — El Niño drought: confirmed El Niño loser; belongs in the group.",
+        "Northeast Brazil (Nordeste) — El Niño drought via ITCZ suppression: confirmed El Niño loser; belongs in the group.",
+        "East Africa (October–December) — El Niño WINNER: receives above-normal rainfall during the short rains season, making it the odd one out; correct answer is (b).",
+        "Southern Africa — El Niño drought: confirmed El Niño loser; belongs in the group."
+      ],
+      "upsc_trap_explanation": "East Africa during El Niño is one of the most counter-intuitive and frequently tested teleconnection facts. Most students associate El Niño with drought globally and would not expect East Africa to receive above-normal rainfall during El Niño — especially since southern Africa is drought-affected. The geographic distinction between East Africa (enhanced rains) and southern Africa (drought) during El Niño is a high-value UPSC trap.",
+      "final_explanation": "El Niño creates distinct winners and losers in global rainfall distribution through its reorganization of atmospheric circulation patterns.\n\n• Option (a) Eastern Australia: El Niño drought — the Walker Circulation shifts convection eastward away from Australia, causing well-documented drought in the Murray-Darling Basin and eastern states. Belongs in the drought group.\n• Option (b) East Africa (October–December): El Niño WINNER — counter-intuitively, El Niño enhances East Africa's short rains ('Vuli') during October–December through anomalous warming of the western Indian Ocean. This is the odd one out.\n• Option (c) Northeast Brazil: El Niño drought — El Niño displaces the ITCZ northward, suppressing convective rainfall over Brazil's semi-arid Nordeste region. Belongs in the drought group.\n• Option (d) Southern Africa: El Niño drought — Zimbabwe, Zambia, and Mozambique experience reduced rainfall during El Niño due to suppressed convection. Belongs in the drought group.\n\nValue Addition:\n• The East Africa short rains (Vuli) enhancement during El Niño contrasts with long rains (March–May) which show weaker ENSO correlation.\n• Southern Africa and East Africa have opposite ENSO rainfall responses — frequently tested as a paired comparison.\n• Food security crises in East Africa during La Niña (reduced Vuli rains) and in southern Africa during El Niño are common news-based questions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the global impacts of El Niño events, which of the following regions does NOT belong to the same category as the others in terms of its rainfall response during El Niño?\n\n(a) Eastern Australia\n(b) East Africa (October–December short rains season)\n(c) Northeast Brazil (Nordeste region)\n(d) Southern Africa (Zimbabwe and Zambia)",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ef1dab03-1477-4abf-8c2c-4311921d6a07",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and El Niño Impacts on South American Hydrology"
+      ],
+      "subject_que_no": 2685,
+      "overall_que_no": 19659
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "El Niño regional contrast within Brazil",
+      "statement_analysis": [
+        {
+          "statement": "During El Niño events, northeast Brazil (Nordeste region) typically experiences severe drought conditions due to the northward displacement of the ITCZ.",
+          "verdict": "Correct",
+          "reason": "El Niño warms the northern tropical Atlantic relative to the south, shifting the ITCZ northward away from northeast Brazil, suppressing the convective rainfall on which the semi-arid Nordeste depends."
+        },
+        {
+          "statement": "During El Niño events, southern Brazil and Uruguay experience drought conditions similar to those of northeast Brazil, making El Niño uniformly damaging to Brazilian agriculture.",
+          "verdict": "Incorrect",
+          "reason": "Southern Brazil and Uruguay actually receive above-normal rainfall during El Niño due to enhanced moisture flux in the southern subtropics — the regional response within Brazil is opposite between the northeast and south."
+        }
+      ],
+      "strong_distractor": "a — A student aware that El Niño causes drought in Brazil may accept both statements as correct, not knowing that southern Brazil and Uruguay are El Niño rainfall winners.",
+      "elimination_logic": [
+        "Verify Statement 1: Nordeste drought during El Niño is a well-established teleconnection via ITCZ northward shift — correct.",
+        "Evaluate Statement 2: Southern Brazil and Uruguay receive above-normal rainfall during El Niño (not drought) — this makes Statement 2 incorrect.",
+        "The combination of Statement 1 correct and Statement 2 incorrect matches option (c)."
+      ],
+      "upsc_trap_explanation": "The geographic-swap trap generalises El Niño drought from northeast Brazil to all of Brazil. In reality, the country's vast latitudinal extent means opposite rainfall regimes can exist simultaneously — drought in the northeast, flooding in the south — during the same El Niño event. This intra-country contrast is a high-value examination point.",
+      "final_explanation": "Brazil's continental scale means El Niño produces sharply contrasting rainfall outcomes across its regions — a fact that reveals the regional specificity required in ENSO impact analysis.\n\n• Statement 1 — Correct: The Nordeste (northeast Brazil) is one of the world's most El Niño-sensitive drought regions. The mechanism operates through ITCZ displacement — El Niño warms the northern tropical Atlantic, shifting the seasonal rainfall band northward and away from the semi-arid Nordeste.\n• Statement 2 — Incorrect: Southern Brazil, Uruguay, and parts of Argentina experience flooding and above-normal rainfall during El Niño due to anomalously strong subtropical jet stream moisture transport from the tropical Pacific into the La Plata basin. This is the opposite of drought.\n\nValue Addition:\n• The Amazon basin also experiences drought during El Niño (separate from Nordeste drought) due to reduced moisture recycling from the ocean and suppressed deep convection.\n• The 2015–16 El Niño caused record Amazon fires while simultaneously producing flooding in southern South America — both occurring within the same event.\n• Northeast Brazil's Nordeste drought during El Niño has severe food security consequences for one of Brazil's most economically vulnerable regions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about El Niño's hydrological impacts in South America:\n\nStatement 1: During El Niño events, northeast Brazil (Nordeste region) typically experiences severe drought conditions due to the northward displacement of the ITCZ.\n\nStatement 2: During El Niño events, southern Brazil and Uruguay experience drought conditions similar to those of northeast Brazil, making El Niño uniformly damaging to Brazilian agriculture.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "044e473c-2d1a-4b79-8f9c-378958f78678",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Tropical Cyclone Activity"
+      ],
+      "subject_que_no": 2686,
+      "overall_que_no": 19660
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "El Niño frequency vs intensity distinction for Bay of Bengal cyclones",
+      "statement_analysis": null,
+      "strong_distractor": "d — Students who know El Niño generally suppresses cyclones may choose 'frequency and intensity' to cover all bases, but the specific documented effect is on frequency reduction, not intensity elimination.",
+      "elimination_logic": [
+        "Eliminate (a): El Niño does not increase Bay of Bengal cyclone frequency — the increased wind shear argument points the other direction.",
+        "Eliminate (c): El Niño does not uniformly eliminate cyclone risk in the Bay of Bengal — individual cyclones can still intensify.",
+        "Eliminate (d): El Niño reduces frequency but does not necessarily reduce intensity — in fact, prolonged warm SSTs can sustain or intensify individual storms.",
+        "Confirm (b): The documented El Niño effect on Bay of Bengal is suppression of cyclone FREQUENCY (number of events), while individual storms may still intensify — the frequency vs. intensity distinction is the key answer."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap lies in option (d), which says El Niño reduces both frequency AND intensity of Bay of Bengal cyclones. Students who generalize 'El Niño = fewer cyclones' to 'El Niño = weaker cyclones' fall into this trap. In reality, fewer storms form but the ones that do can be just as or more intense due to persisting warm SSTs.",
+      "final_explanation": "El Niño's impact on tropical cyclone activity is regionally differentiated and distinguishes between storm count and storm strength.\n\n• Option (a): Incorrect — El Niño does not increase Bay of Bengal cyclone frequency; the increased upper-level wind shear during El Niño inhibits cyclone formation.\n• Option (b): Correct — El Niño reduces the NUMBER (frequency) of Bay of Bengal cyclones through increased vertical wind shear, which disrupts the organised convection required for cyclone formation. However, individual cyclones that do develop may still intensify because sea surface temperatures remain elevated.\n• Option (c): Incorrect — El Niño suppresses cyclone formation but does not eliminate risk; an 'all risk eliminated' claim is an over-extension.\n• Option (d): Incorrect — the reduction is specifically in frequency, not intensity; warm background SSTs mean individual storm intensity is not necessarily diminished.\n\nValue Addition:\n• During La Niña, Bay of Bengal cyclone frequency increases, including the Arabian Sea, contributing to the 2020 record Atlantic hurricane season occurring simultaneously.\n• El Niño strongly suppresses Atlantic hurricane activity via increased wind shear across the Caribbean and Gulf of Mexico — opposite to its Pacific effects.\n• The 2020 La Niña season produced a record 30 named Atlantic storms, directly linked to reduced wind shear."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "During El Niño events, the Bay of Bengal experiences a documented reduction in cyclone ________, while the risk from individual storms that do develop is not necessarily eliminated because sea surface temperatures remain elevated.\n\n(a) intensity alone, with no change in the number of storms forming\n(b) frequency (number of storms), even as individual cyclones that form may still intensify\n(c) risk entirely, as increased wind shear prevents all cyclone formation in the region\n(d) both frequency and intensity, making El Niño years uniformly safer for Bay of Bengal coastal populations",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "fa69ea6a-eacc-4654-bc99-923a7b20eacc",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Agricultural Impacts on Food Security",
+        "ENSO and Drought in Sub-Saharan Africa and the Sahel"
+      ],
+      "subject_que_no": 2687,
+      "overall_que_no": 19661
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "partial-truth",
+      "concept_anchor": "ENSO agricultural impact pairings",
+      "statement_analysis": null,
+      "strong_distractor": "b — Pairing locust outbreaks with El Niño (rather than La Niña) sounds plausible because El Niño is associated with drought in Africa, and droughts are intuitively linked to pest outbreaks — but locust outbreaks in East Africa are specifically linked to La Niña's excess rainfall.",
+      "elimination_logic": [
+        "Evaluate (a): 1997–98 El Niño causing ~$45 billion in global agricultural losses — this is the documented estimate and the correct pairing; keep as candidate.",
+        "Evaluate (b): East African locust outbreaks linked to El Niño — incorrect; locust outbreaks in East Africa are associated with La Niña-induced excess vegetation growth, not El Niño.",
+        "Evaluate (c): Pakistan flooding during 2010 linked to El Niño — incorrect; 2010 Pakistan floods occurred during La Niña, not El Niño.",
+        "Evaluate (d): Southern Africa maize deficit linked to La Niña — incorrect; Southern Africa experiences El Niño drought and maize deficits, not La Niña."
+      ],
+      "upsc_trap_explanation": "Option (b) is the primary trap — locust outbreaks are linked to La Niña in East Africa (excess rain promotes vegetation, then drying triggers swarming), not El Niño. Students who associate drought-stressed ecosystems with locust outbreaks may incorrectly pair El Niño with locusts. The 2020 East Africa locust crisis followed La Niña-enhanced rainfall patterns.",
+      "final_explanation": "ENSO's agricultural impacts span both production losses from drought and damage from flooding, and extend to pest and disease dynamics.\n\n• Option (a): Correctly matched — the 1997–98 El Niño caused an estimated $45 billion in global agricultural losses through drought in South Asia, Southeast Asia, Australia, and southern Africa, combined with flooding losses in Peru and Ecuador.\n• Option (b): Incorrectly matched — East African locust outbreaks are associated with La Niña-induced above-normal rainfall, which promotes vegetation growth followed by drying that triggers mass locust swarming. El Niño is not the trigger.\n• Option (c): Incorrectly matched — the 2010 Pakistan floods were caused by an exceptionally strong La Niña, not El Niño. La Niña enhances monsoon moisture and caused the deadliest flooding in Pakistan's recorded history.\n• Option (d): Incorrectly matched — southern Africa (Zimbabwe, Zambia, Mozambique) suffers maize deficits during El Niño years through drought, not during La Niña years.\n\nValue Addition:\n• ENSO affects not just crop production volumes but also commodity prices globally — El Niño-induced Australian wheat shortfalls have historically spiked global grain prices.\n• Waterlogging during La Niña flooding damages crops through soil erosion and anoxic root conditions — distinct from drought damage.\n• The 2020–21 East Africa locust crisis, one of the worst in 70 years, was directly preceded by La Niña-enhanced rainfall creating ideal breeding conditions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to ENSO's agricultural and food security impacts is correctly matched?\n\n(a) 1997–98 El Niño event : Estimated $45 billion in global agricultural losses\n(b) East African locust outbreaks : Linked to El Niño through drought-induced vegetation stress\n(c) 2010 Pakistan catastrophic flooding : Caused by a concurrent El Niño event\n(d) Southern Africa maize deficits : Associated with La Niña years in Zimbabwe and Zambia",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "02794a1b-2fc0-4429-afc7-dde4454ccdc3",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Prediction and Forecasting Limitations"
+      ],
+      "subject_que_no": 2688,
+      "overall_que_no": 19662
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Spring predictability barrier and IMD forecast inputs",
+      "statement_analysis": [
+        {
+          "statement": "ENSO prediction models face a 'spring predictability barrier' — forecasts initiated before March–April tend to be less reliable than those initiated later in the year.",
+          "verdict": "Correct",
+          "reason": "The spring predictability barrier is a well-documented phenomenon where ENSO forecast skill drops sharply for predictions spanning the boreal spring (March–May), as SST anomalies in the tropical Pacific undergo rapid transitions during this season."
+        },
+        {
+          "statement": "The India Meteorological Department uses only SST anomalies in the Niño 3.4 region as its sole input for long-range monsoon forecasting.",
+          "verdict": "Incorrect",
+          "reason": "IMD's long-range monsoon forecast is a multi-model ensemble that incorporates ENSO (SST), IOD, Eurasian snow cover, and other regional predictors — not SST alone."
+        },
+        {
+          "statement": "The failure of long-range monsoon forecasts in 2002, an El Niño year that produced a severe drought, exposed significant limitations in model accuracy and became an important policy reference.",
+          "verdict": "Correct",
+          "reason": "2002 was an El Niño year when model forecasts initially predicted a near-normal monsoon; the actual severe drought exposed the inadequacy of existing forecast frameworks and prompted a comprehensive review of monsoon prediction methodology."
+        }
+      ],
+      "strong_distractor": "c — Students may doubt Statement 3's specifics (which year, which event) and select only Statement 1 as safe, choosing option (a) — 1 only.",
+      "elimination_logic": [
+        "Confirm Statement 1: Spring predictability barrier is a documented ENSO forecasting limitation — correct.",
+        "Eliminate Statement 2 as incorrect: IMD uses a multi-model ensemble including ENSO, IOD, and Eurasian snow cover — not SST alone.",
+        "Confirm Statement 3: 2002 El Niño forecast failure is a documented policy event in Indian monsoon forecasting history — correct.",
+        "Only Statements 1 and 3 are correct — matching option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 2's scope-extension trap adds 'sole input' to SST anomalies, which sounds plausible because ENSO is the dominant predictor but is factually wrong — IMD's operational model is multi-variable. Students who know SST is important may not flag the word 'sole' as the error.",
+      "final_explanation": "ENSO prediction is one of the most important applied areas of climate science, with direct relevance to India's agricultural planning and disaster preparedness.\n\n• Statement 1 — Correct: The spring predictability barrier (March–May) is a fundamental limitation of ENSO forecasting. During boreal spring, the tropical Pacific SST undergoes rapid reorganization, making it difficult for models to maintain forecast skill across this seasonal transition. Predictions issued before March are less reliable than those issued in June onward.\n• Statement 2 — Incorrect: IMD uses a multi-model ensemble approach incorporating ENSO state (Niño 3.4 SST), Indian Ocean Dipole, Eurasian snow cover index, and other regional parameters. Relying on SST alone would replicate the pre-2002 model failures.\n• Statement 3 — Correct: The 2002 monsoon forecast failure — when models predicted near-normal monsoon but a severe El Niño-linked drought occurred — became a landmark policy event, driving reforms in IMD's forecast infrastructure and the adoption of multi-model ensemble approaches.\n\nValue Addition:\n• Current state-of-the-art models can predict ENSO 6–12 months ahead but lose skill for predictions spanning the spring barrier.\n• The spring predictability barrier is linked to the inherent noise in the tropical Pacific SST field during March–May.\n• Post-2002, IMD introduced the Statistical Ensemble Forecast System (SEFS) using multiple predictors for long-range monsoon forecasts."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about ENSO prediction and its limitations in the context of Indian monsoon forecasting:\n\n1. ENSO prediction models face a 'spring predictability barrier' — forecasts initiated before March–April tend to be less reliable than those initiated later in the year.\n2. The India Meteorological Department uses only SST anomalies in the Niño 3.4 region as its sole input for long-range monsoon forecasting.\n3. The failure of long-range monsoon forecasts in 2002, an El Niño year that produced a severe drought, exposed significant limitations in model accuracy and became an important policy reference.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2fe4aa89-2182-41ed-b716-3179e0f41850",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Climate Change and ENSO: Frequency, Intensity, and Pattern Shifts"
+      ],
+      "subject_que_no": 2689,
+      "overall_que_no": 19663
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "IPCC AR6 projections on ENSO under climate change",
+      "statement_analysis": [
+        {
+          "statement": "According to IPCC AR6, climate change is projected to increase the frequency of El Niño events, making them more common in a warmer world.",
+          "verdict": "Incorrect",
+          "reason": "IPCC AR6 projects that El Niño and La Niña events will become more INTENSE under global warming, not more frequent. The frequency projection is not the headline finding."
+        },
+        {
+          "statement": "The observed increase in central Pacific (Modoki) El Niño events in recent decades has been linked to anthropogenic warming, complicating the reliability of historical ENSO–monsoon correlations.",
+          "verdict": "Correct",
+          "reason": "The shift toward more ENSO Modoki events is an observed trend with a climate change dimension; Modoki events have different teleconnection patterns, reducing the predictive value of historical ENSO–ISM statistical relationships."
+        },
+        {
+          "statement": "Background warming of the Indian Ocean due to climate change reduces the relative SST cooling signal during La Niña events, dampening the expected enhancement of the Indian Summer Monsoon during La Niña years.",
+          "verdict": "Correct",
+          "reason": "As baseline Indian Ocean temperatures rise, the La Niña-induced warm SST anomaly over the Indian Ocean becomes less distinct from the mean, reducing the additional evaporative boost that historically enhanced the ISM during La Niña."
+        }
+      ],
+      "strong_distractor": "b — Students who know climate change intensifies extreme weather may accept Statement 1 as correct (thinking 'more extreme = more frequent') and only flag one of the other two statements, selecting option (b) — '1 and 3 only'.",
+      "elimination_logic": [
+        "Identify Statement 1 as incorrect: IPCC AR6's key projection is increased INTENSITY, not frequency — this is a scope-extension trap replacing 'intensity' with 'frequency'.",
+        "Verify Statement 2 is correct: Modoki frequency increase and its implications for historical correlations is a documented observation.",
+        "Verify Statement 3 is correct: Indian Ocean warming dampening La Niña monsoon enhancement is a documented climate change feedback.",
+        "Only Statement 1 is incorrect — matching option (c) — '1 only'."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in Statement 1 exploits the intuitive but incorrect assumption that a warmer world means more ENSO events. IPCC AR6's actual finding is that El Niño and La Niña intensity will increase under warming, but frequency is not projected to increase significantly. Students who conflate 'more intense climate variability' with 'more frequent ENSO events' will wrongly accept Statement 1.",
+      "final_explanation": "Climate change is not simply 'amplifying ENSO' in a uniform way — the IPCC AR6 findings are nuanced and specific about what changes and what does not.\n\n• Statement 1 — Incorrect: IPCC AR6 projects that El Niño and La Niña events will become more intense (stronger SST anomalies, more extreme impacts) under global warming. The frequency of ENSO events is not projected to increase — this is the critical distinction that Statement 1 violates by substituting 'frequency' for 'intensity.'\n• Statement 2 — Correct: The observed shift toward more central Pacific (Modoki) El Niño events in recent decades is associated with background Pacific warming patterns. Since Modoki has weaker suppression of Indian monsoon but stronger impacts on Australia and East Asia, historical ENSO–monsoon correlations become less reliable for forecasting.\n• Statement 3 — Correct: The Indian Ocean's warming background means La Niña events no longer produce the same relative anomaly over Indian waters. The historical La Niña enhancement of ISM depended on a meaningful SST contrast — that contrast is being eroded by baseline warming.\n\nValue Addition:\n• IPCC AR6 (2021) is more confident than AR5 about ENSO intensity increases under 2°C warming.\n• El Niño Modoki's distinct twin cyclonic anomaly pattern produces different teleconnections over Japan, Australia, and East Africa compared to classical El Niño.\n• The dampening of La Niña monsoon enhancement is a slow-onset risk with long-term implications for South Asian food security planning."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the projected changes in ENSO under climate change:\n\n1. According to IPCC AR6, climate change is projected to increase the frequency of El Niño events, making them more common in a warmer world.\n2. The observed increase in central Pacific (Modoki) El Niño events in recent decades has been linked to anthropogenic warming, complicating the reliability of historical ENSO–monsoon correlations.\n3. Background warming of the Indian Ocean due to climate change reduces the relative SST cooling signal during La Niña events, dampening the expected enhancement of the Indian Summer Monsoon during La Niña years.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 1 and 3 only\n(c) 1 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e387258d-8123-4ce6-8fdb-e93d19401f6b",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Eurasian Snow Cover: Teleconnection to Indian Monsoon"
+      ],
+      "subject_que_no": 2690,
+      "overall_que_no": 19664
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Blanford Hypothesis and Eurasian snow cover mechanism",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) reverses the causal direction by claiming El Niño causes Eurasian snow cover, which then suppresses monsoon — this conflates the compounding effect with a direct causal chain and sounds logical to a partially prepared student.",
+      "elimination_logic": [
+        "Eliminate (a): Snow cover is not caused by the Indian monsoon — it is a winter predictor used months before monsoon onset, not a monsoon consequence.",
+        "Eliminate (c): Eurasian snow cover is an independent variable; El Niño may be associated with above-normal snow but does not 'cause' it in a simple direct manner — the reversed-causation trap.",
+        "Eliminate (d): Snow cover's effect operates through reduced land-sea thermal gradient, not through blocking Bay of Bengal moisture — the mechanism is incorrect.",
+        "Confirm (b): Excess Eurasian snow cover increases albedo, keeps land surfaces cooler, reduces the land-sea temperature differential that drives the monsoon, and weakens moisture convergence — Blanford's mechanism, first proposed in 1884."
+      ],
+      "upsc_trap_explanation": "Option (c) is a reversed-causation trap: it makes El Niño the cause of snow cover, then uses snow cover to explain monsoon suppression — creating a seemingly logical El Niño → snow → monsoon chain. But Eurasian snow cover is an independent predictor, not caused by El Niño. El Niño and snow cover can co-occur and act synergistically, but the causal direction in (c) is wrong.",
+      "final_explanation": "The Blanford Hypothesis (1884) is among the earliest documented attempts at long-range monsoon prediction and remains relevant to IMD's operational forecasting.\n\n• Option (a): Incorrect — Eurasian snow cover is a winter predictor of the upcoming monsoon; it is not caused by the monsoon and has no feedback relationship in that direction.\n• Option (b): Correct — excess Himalayan and Eurasian snow cover in winter raises regional albedo, cools the landmass, and reduces the land-sea temperature gradient that is the fundamental driver of monsoon circulation. This weakens the pressure differential drawing moist air inland, suppressing ISM strength.\n• Option (c): Incorrect — this reverses the causal chain. El Niño is statistically associated with above-normal Eurasian snow cover in some years, but El Niño does not directly 'cause' snow cover. The two factors can reinforce each other compoundingly but are independently driven.\n• Option (d): Incorrect — the mechanism is land surface cooling via albedo effect, not Bay of Bengal moisture blocking. Snow cover operates through the thermal gradient, not ocean moisture pathways.\n\nValue Addition:\n• Blanford's 1884 paper in Nature is considered the founding document of statistical monsoon prediction.\n• IMD currently uses Eurasian snow cover in March–April as one of several predictors in its multi-model long-range forecast.\n• El Niño years with above-normal Eurasian snow cover represent compounding negative signals for ISM — both factors independently suppress the monsoon."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Blanford Hypothesis, first proposed in 1884, established a predictive relationship between Eurasian snow cover and the Indian Summer Monsoon. Which of the following correctly describes the mechanism through which excess winter snow cover over the Himalayas and Eurasia suppresses the subsequent Indian monsoon?\n\n(a) Snowmelt from excess winter cover increases freshwater influx into the Arabian Sea, reducing sea surface salinity and weakening moisture evaporation during the pre-monsoon season\n(b) Excess snow cover increases surface albedo, keeps the landmass cooler for longer, reduces the land-sea thermal gradient that drives monsoon circulation, and thereby weakens moisture convergence over India\n(c) El Niño events cause above-normal Eurasian snow accumulation, which then directly suppresses the Indian monsoon through this intermediate step in the causal chain\n(d) Heavy snow cover blocks westerly disturbances from delivering pre-monsoon moisture to the Bay of Bengal, reducing the initial moisture available for monsoon onset",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "083034f1-09ab-4421-8713-e0245e0dd352",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and the Bjerknes Feedback (Positive Feedback Loop)",
+        "Thermocline Dynamics and Kelvin/Rossby Waves in ENSO"
+      ],
+      "subject_que_no": 2691,
+      "overall_que_no": 19665
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Bjerknes feedback positive vs ENSO oscillatory termination",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know Bjerknes feedback amplifies El Niño and that Kelvin/Rossby waves are part of ENSO dynamics may accept both A and R as related, choosing (a) without verifying whether R actually explains A.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. The Bjerknes feedback is a positive feedback that amplifies El Niño once initiated: warm SST → weakens trades → less cold upwelling → warmer SST.",
+        "Step 2: Is Reason (R) correct? — Yes. Oceanic Kelvin and Rossby waves do act as negative feedbacks that eventually terminate El Niño by shoaling the thermocline and reintroducing cold water.",
+        "Step 3: Does R causally explain A? — No. A states that Bjerknes is a positive feedback that amplifies ENSO. R explains what ultimately terminates El Niño (negative feedbacks). R explains the termination mechanism, not why the Bjerknes feedback is positive or why it amplifies the initial anomaly. These are two separate facts — both true, but R explains termination while A describes amplification.",
+        "Both A and R are correct but R does not explain A — correct option is (b). Wait — re-reading: A says Bjerknes is a positive feedback that amplifies. R says negative feedbacks terminate it. R explains ENSO's oscillatory nature (why it ends), while A explains why it intensifies. R does not explain A. Correct option is (b)."
+      ],
+      "upsc_trap_explanation": "This is a true (a) vs (b) trap. Both A and R are factually correct and both relate to ENSO mechanics. The trap lies in whether R (negative feedbacks from Kelvin/Rossby waves that terminate El Niño) causally explains A (the positive Bjerknes feedback that amplifies El Niño). They describe opposite mechanisms — amplification vs. termination. R is complementary context, not a causal explanation of A.",
+      "final_explanation": "The ENSO cycle is sustained by a delicate balance between self-amplifying (positive) and self-limiting (negative) feedback mechanisms.\n\nAssertion (A): Correct. The Bjerknes feedback is a classic positive feedback loop: anomalous SST warming in the eastern Pacific weakens trade winds, which reduces cold-water upwelling and thermocline tilting, which further warms eastern Pacific SSTs. This explains why El Niño, once initiated, tends to intensify rapidly rather than dissipate.\n\nReason (R): Correct. Kelvin and Rossby waves provide the negative feedbacks that ultimately terminate El Niño. Kelvin waves deepen the thermocline (initiating El Niño) but reflected Rossby waves travel westward and shoal the thermocline, eventually cooling eastern Pacific SSTs and ending the event.\n\nCausal relationship: R describes the termination mechanism of ENSO. A describes the amplification mechanism. R does not explain why Bjerknes feedback is positive or why it amplifies El Niño — it explains the separate mechanism that stops it. Both facts are correct but are causally unconnected as statement pairs.\n\nValue Addition:\n• Jakob Bjerknes (son of Vilhelm Bjerknes) first formalized the ocean-atmosphere coupling in ENSO in 1969.\n• The balance between Bjerknes amplification and Kelvin/Rossby negative feedbacks is what makes ENSO quasi-periodic rather than a continuous state.\n• Strong Bjerknes feedback years explain why some El Niño events intensify explosively (e.g., 1997–98) while others remain moderate."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): The Bjerknes feedback operates as a positive feedback mechanism during El Niño — anomalous SST warming in the eastern Pacific weakens trade winds, which reduces cold-water upwelling, which further warms the eastern Pacific, causing the event to intensify once it is initiated.\n\nReason (R): Oceanic Kelvin waves and Rossby waves provide negative feedbacks that eventually terminate El Niño by shoaling the thermocline and reintroducing cold subsurface water into the eastern Pacific, making ENSO oscillatory rather than a permanent state.\n\nWhich of the following is correct?\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "c75a274f-7fd6-4338-b168-832a496e7ff4",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Modoki (Central Pacific El Niño) vs. Classical El Niño",
+        "ENSO Indices: Niño Regions (1+2, 3, 3.4, 4) and Their Specific Uses"
+      ],
+      "subject_que_no": 2692,
+      "overall_que_no": 19666
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "ENSO Modoki vs classical El Niño distinctions",
+      "statement_analysis": [
+        {
+          "statement": "Classical El Niño is characterised by SST warming primarily in the eastern Pacific (Niño 3 region), while ENSO Modoki features warming concentrated in the central Pacific (Niño 4 region).",
+          "verdict": "Correct",
+          "reason": "This spatial distinction is the definitional difference between the two El Niño types — classical in the eastern Pacific, Modoki in the central Pacific."
+        },
+        {
+          "statement": "ENSO Modoki produces a single warm pool anomaly similar to classical El Niño but displaced westward, with no structural difference in atmospheric circulation patterns.",
+          "verdict": "Incorrect",
+          "reason": "ENSO Modoki produces twin cyclonic circulation anomalies in the subtropics on either side of the warm pool, which is structurally distinct from the single warm pool pattern of classical El Niño."
+        },
+        {
+          "statement": "The increasing frequency of ENSO Modoki events in recent decades is considered relevant to the declining reliability of historical ENSO–Indian monsoon statistical correlations.",
+          "verdict": "Correct",
+          "reason": "Since Modoki has a weaker suppressive effect on the Indian monsoon compared to classical El Niño, its growing prevalence means models trained on historical El Niño–ISM relationships become less accurate."
+        },
+        {
+          "statement": "ENSO Modoki events have a weaker suppressive effect on the Indian Summer Monsoon compared to classical El Niño events.",
+          "verdict": "Correct",
+          "reason": "The central Pacific warming in Modoki produces a different teleconnection pattern over South Asia — moisture convergence over India is less disrupted than in classical eastern Pacific warming events."
+        }
+      ],
+      "strong_distractor": "c — Students may doubt Statement 4's precision (thinking Modoki could also suppress monsoon strongly) and accept Statement 2 as describing a 'displaced' El Niño, selecting 'Only two' as the answer.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Classical El Niño = Niño 3 (eastern), Modoki = Niño 4 (central) — correct.",
+        "Identify Statement 2 as incorrect: Modoki generates twin cyclonic anomalies in the subtropics, not a single warm pool — the structural difference is the key feature.",
+        "Evaluate Statement 3: Modoki frequency increase reducing historical correlation reliability — correct.",
+        "Evaluate Statement 4: Modoki has weaker ISM suppression — correct.",
+        "Three statements (1, 3, 4) are correct — option (c). Re-verify: 1 correct, 2 incorrect, 3 correct, 4 correct = three correct = option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2's geographic-swap trap replaces the structurally distinct twin cyclonic anomaly pattern of Modoki with a simplified 'displaced westward warm pool' description — making it sound like a minor geographic variation rather than a structurally different circulation regime. Students who have not studied Modoki's specific circulation characteristics will accept this as a reasonable simplification.",
+      "final_explanation": "ENSO Modoki represents a distinct mode of tropical Pacific variability that differs from classical El Niño in both spatial structure and global teleconnections.\n\n• Statement 1 — Correct: The eastern vs. central Pacific distinction is the defining spatial feature. Classical El Niño: Niño 3 warming; ENSO Modoki: Niño 4 warming. This geographic difference drives fundamentally different atmospheric responses.\n• Statement 2 — Incorrect: Modoki is not simply a westward-displaced warm pool. It generates twin anticyclonic/cyclonic anomalies in the subtropics on either side of the central Pacific warm pool — a three-pole SST pattern (warm centre, cool on both sides) that is structurally distinct from classical El Niño's single eastern warm pool.\n• Statement 3 — Correct: Growing Modoki frequency means that applying correlations derived from classical El Niño history to modern ENSO forecasting introduces error — a documented challenge for IMD's long-range forecasting.\n• Statement 4 — Correct: Modoki's central Pacific warming shifts teleconnections differently, resulting in weaker moisture divergence anomalies over India compared to classical El Niño.\n\nValue Addition:\n• The term 'Modoki' is Japanese for 'similar but different' — coined by Ashok et al. (2007).\n• Modoki's impacts on East Asia and Australia differ significantly from classical El Niño, making it important for regional agricultural planning.\n• The El Niño Modoki Index (EMI) is a composite of SST anomalies across Niño 4 minus contributions from Niño 1+2 and Niño 3."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about ENSO Modoki (Central Pacific El Niño) and its differences from classical El Niño:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "Classical El Niño is characterised by SST warming primarily in the eastern Pacific (Niño 3 region), while ENSO Modoki features warming concentrated in the central Pacific (Niño 4 region)."
+          ],
+          [
+            "2",
+            "ENSO Modoki produces a single warm pool anomaly similar to classical El Niño but displaced westward, with no structural difference in atmospheric circulation patterns."
+          ],
+          [
+            "3",
+            "The increasing frequency of ENSO Modoki events in recent decades is considered relevant to the declining reliability of historical ENSO–Indian monsoon statistical correlations."
+          ],
+          [
+            "4",
+            "ENSO Modoki events have a weaker suppressive effect on the Indian Summer Monsoon compared to classical El Niño events."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "184e5dec-a165-4092-b888-7d69ad464746",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Indian Ocean Dipole (IOD) and Its Interaction with ENSO"
+      ],
+      "subject_que_no": 2693,
+      "overall_que_no": 19667
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "IOD independence from ENSO and 2019 case",
+      "statement_analysis": [
+        {
+          "statement": "The Indian Ocean Dipole (IOD) is an independent mode of oceanic variability measured as the difference in sea surface temperatures between the western Indian Ocean (near Somalia/Arabia) and the eastern Indian Ocean (near Sumatra), and can influence the Indian monsoon independently of ENSO.",
+          "verdict": "Correct",
+          "reason": "IOD is a distinct climate mode physically separate from ENSO; it has its own origin, dynamics, and teleconnection patterns, though it can co-occur with ENSO phases."
+        },
+        {
+          "statement": "The Indian Ocean Dipole is a component sub-mode of ENSO, operating within the Indo-Pacific coupled system and always occurring simultaneously with El Niño or La Niña events.",
+          "verdict": "Incorrect",
+          "reason": "IOD is NOT part of ENSO — it is a separate mode of variability. IOD events can and do occur in neutral ENSO years, and the two systems can co-occur, reinforce, or counteract each other without one requiring the other."
+        }
+      ],
+      "strong_distractor": "a — Actually (a) is correct here. The strong distractor would be (d), where a student who conflates IOD with ENSO accepts Statement 2 as correct and rejects Statement 1 as too 'independent' a claim.",
+      "elimination_logic": [
+        "Evaluate Statement 1: IOD as an independent SST dipole in the Indian Ocean, capable of independently influencing ISM — this is factually correct.",
+        "Evaluate Statement 2: IOD described as a 'component sub-mode of ENSO' always co-occurring with El Niño or La Niña — this is factually incorrect; IOD is independent and can occur in neutral ENSO years.",
+        "Statement 1 correct + Statement 2 incorrect = option (a)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges IOD into the ENSO framework, which many students accept because both involve tropical Pacific/Indian Ocean SST patterns and both affect Indian monsoon. The claim that IOD 'always occurs simultaneously' with ENSO is the key false element — for example, 1994 and some other years saw positive IOD during neutral ENSO conditions.",
+      "final_explanation": "The IOD is one of the most important climate modes affecting Indian monsoon but is frequently — and incorrectly — described as part of ENSO.\n\n• Statement 1 — Correct: IOD is a genuine independent climate mode. It is measured as SST difference between western Indian Ocean (50°E–70°E) and eastern Indian Ocean (90°E–110°E). A positive IOD (warm west, cool east) enhances Indian monsoon; a negative IOD suppresses it. This can happen regardless of ENSO state.\n• Statement 2 — Incorrect: IOD is not a sub-mode of ENSO. The two systems are physically independent, though statistical correlations exist because Pacific warming during El Niño can suppress eastern Indian Ocean SSTs, creating conditions conducive to positive IOD. However, IOD has its own dynamics and can occur in neutral ENSO years. The 1994 positive IOD occurred without a significant El Niño.\n\nValue Addition:\n• 2019 featured a strong positive IOD (+1.5°C anomaly) co-occurring with a weak El Niño — the IOD signal dominated, giving India above-normal rainfall.\n• Negative IOD can reinforce El Niño's monsoon suppression — a double negative for Indian agriculture.\n• The IOD also influences East African and Australian rainfall independently of ENSO — a broadening of its global significance in UPSC questions."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the Indian Ocean Dipole (IOD) and its relationship with ENSO:\n\nStatement 1: The Indian Ocean Dipole (IOD) is an independent mode of oceanic variability measured as the difference in sea surface temperatures between the western Indian Ocean (near Somalia/Arabia) and the eastern Indian Ocean (near Sumatra), and can influence the Indian monsoon independently of ENSO.\n\nStatement 2: The Indian Ocean Dipole is a component sub-mode of ENSO, operating within the Indo-Pacific coupled system and always occurring simultaneously with El Niño or La Niña events.\n\nWhich of the following is correct?\n\n(a) Statement 1 is correct but Statement 2 is incorrect\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Both Statement 1 and Statement 2 are correct\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5f96e152-239e-4c9e-bffe-e861c9c43db9",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Australian Drought/Flood Cycle"
+      ],
+      "subject_que_no": 2694,
+      "overall_que_no": 19668
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "El Niño drought and Murray-Darling Basin Australia",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'Western Australia' sounds plausible because it is the other well-known agricultural region in Australia, but El Niño drought primarily affects eastern and southeastern Australia, particularly the Murray-Darling Basin.",
+      "elimination_logic": [
+        "Eliminate (a): The Great Barrier Reef is a marine ecosystem in northeastern Queensland — it is affected by El Niño bleaching, not by agricultural drought.",
+        "Eliminate (c): Western Australia's rainfall is primarily driven by Indian Ocean conditions and frontal systems, not the Walker Circulation shifts that affect eastern Australia.",
+        "Eliminate (d): The Gulf of Carpentaria is a northern Australian coastal region — El Niño drought most severely impacts the eastern/southeastern agricultural belt.",
+        "Confirm (b): The Murray-Darling Basin is Australia's primary agricultural region and is specifically documented as the most drought-affected area during El Niño due to Walker Circulation shifts."
+      ],
+      "upsc_trap_explanation": "The geographic-swap trap places Western Australia as an alternative to the Murray-Darling Basin. Students who know El Niño causes Australian drought but haven't fixed the specific region may choose Western Australia as Australia's 'main agricultural zone,' not knowing that the Murray-Darling Basin is the specific El Niño–drought nexus documented in climatological literature.",
+      "final_explanation": "El Niño's Australian drought impact is regionally concentrated and mechanistically tied to Walker Circulation shifts.\n\n• Option (a): Incorrect — the Great Barrier Reef is affected by El Niño through coral bleaching (warm SSTs) and reduced cloud cover, not through agricultural drought mechanisms.\n• Option (b): Correct — the Murray-Darling Basin, which covers parts of Queensland, New South Wales, Victoria, and South Australia, is Australia's most productive agricultural region and is most severely impacted by El Niño drought. The Walker Circulation shifts convective rainfall away from eastern Australia toward the central Pacific, reducing rainfall across this basin.\n• Option (c): Incorrect — Western Australia's climate is primarily influenced by the Indian Ocean and Southern Ocean frontal systems; El Niño drought is concentrated in the eastern states.\n• Option (d): Incorrect — the Gulf of Carpentaria is a northern coastal embayment; while ENSO affects monsoonal rainfall in northern Australia, the agricultural drought impact is strongest in the Murray-Darling Basin.\n\nValue Addition:\n• The Murray-Darling Basin produces approximately 40% of Australia's agricultural output — El Niño drought here has global commodity price implications.\n• 2019–20 Australian 'Black Summer' bushfires were preceded by El Niño/positive IOD-driven drought in eastern Australia.\n• La Niña years bring flooding to Queensland and New South Wales — the 2010–11 La Niña caused the worst Queensland floods in decades."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "During El Niño events, the eastward shift of the Walker Circulation's convective centre moves rainfall away from Australia toward the central Pacific, most severely impacting the ________, which is Australia's principal agricultural basin and accounts for a significant share of the country's crop and livestock production.\n\n(a) Great Barrier Reef coastal zone in northeastern Queensland\n(b) Murray-Darling Basin in eastern and southeastern Australia\n(c) Western Australian grain belt centred on the Swan Coastal Plain\n(d) Gulf of Carpentaria basin in northern Australia",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bc588325-1ef6-429f-b364-b84238f90fa1",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Tropical Cyclone Activity",
+        "La Niña Impact on Indian Monsoon and Flooding"
+      ],
+      "subject_que_no": 2695,
+      "overall_que_no": 19669
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "La Niña cyclone enhancement and 2020 Atlantic season",
+      "statement_analysis": [
+        {
+          "statement": "El Niño suppresses Atlantic hurricane activity primarily by increasing vertical wind shear across the Caribbean and Gulf of Mexico, which disrupts organised convection necessary for hurricane formation.",
+          "verdict": "Correct",
+          "reason": "Increased upper-level westerly winds during El Niño create strong vertical wind shear that tears apart developing tropical systems in the Atlantic basin — the primary mechanism of El Niño's hurricane suppression."
+        },
+        {
+          "statement": "La Niña years are associated with more Bay of Bengal cyclones, and the 2020 La Niña season corresponded with a record Atlantic hurricane season.",
+          "verdict": "Correct",
+          "reason": "La Niña reduces wind shear in the Atlantic and Bay of Bengal, favouring more tropical cyclone formation in both basins. The 2020 Atlantic season (which exhausted the standard named storm list) occurred during active La Niña conditions."
+        },
+        {
+          "statement": "El Niño eliminates the risk of Bay of Bengal cyclone formation entirely, as the combination of increased wind shear and reduced SSTs prevent all cyclone development.",
+          "verdict": "Incorrect",
+          "reason": "El Niño reduces Bay of Bengal cyclone FREQUENCY but does not eliminate risk; individual cyclones can still develop and intensify, and SSTs may remain warm enough to sustain intensification."
+        }
+      ],
+      "strong_distractor": "d — Students who know ENSO affects both Atlantic and Bay of Bengal cyclone activity may accept all three statements as correct, not catching the 'eliminates entirely' exaggeration in Statement 3.",
+      "elimination_logic": [
+        "Confirm Statement 1: El Niño–Atlantic hurricane suppression via wind shear is a well-established teleconnection — correct.",
+        "Confirm Statement 2: La Niña 2020 + record Atlantic season + Bay of Bengal activity — all documented — correct.",
+        "Identify Statement 3 as incorrect: 'Eliminates risk entirely' is a scope-extension error; El Niño reduces frequency but individual cyclones still form and can intensify.",
+        "Only Statements 1 and 2 are correct — option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3's scope-extension trap adds 'entirely eliminates risk' and 'reduced SSTs' to El Niño's Bay of Bengal impact. Students who know El Niño suppresses Bay of Bengal cyclones may not catch the over-extension to zero risk, especially since the SST claim sounds plausible. In reality, SSTs in the Bay of Bengal remain elevated during El Niño — only the wind shear increases, reducing formation frequency without eliminating individual storm risk.",
+      "final_explanation": "ENSO's influence on tropical cyclone activity is one of the most reliable and policy-relevant teleconnections, but requires careful regional differentiation.\n\n• Statement 1 — Correct: El Niño strengthens upper-level westerly winds across the tropical Atlantic, creating wind shear that prevents the organised deep convection necessary for hurricane formation. This is the single most important reason for fewer Atlantic hurricanes during El Niño years.\n• Statement 2 — Correct: La Niña reduces wind shear in both the Atlantic and Bay of Bengal. The 2020 Atlantic hurricane season — which had 30 named storms and exhausted the alphabetical naming list for the second time in history — coincided with active La Niña conditions.\n• Statement 3 — Incorrect: El Niño reduces the NUMBER of Bay of Bengal cyclones through wind shear increases, but does not eliminate risk. Bay of Bengal SSTs typically remain above the cyclone formation threshold (26°C) even during El Niño, meaning individual storms can still develop. The key ENSO impact is on frequency, not absolute elimination.\n\nValue Addition:\n• Eastern Pacific hurricane activity actually INCREASES during El Niño because SSTs warm and wind shear decreases in that basin.\n• The Arabian Sea has seen increased cyclone frequency in recent decades partly due to Indian Ocean warming — a separate trend from ENSO modulation.\n• ENSO forecasts are directly used by National Hurricane Center and IMD for seasonal cyclone outlook advisories."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about ENSO's influence on tropical cyclone activity:\n\n1. El Niño suppresses Atlantic hurricane activity primarily by increasing vertical wind shear across the Caribbean and Gulf of Mexico, which disrupts organised convection necessary for hurricane formation.\n2. La Niña years are associated with more Bay of Bengal cyclones, and the 2020 La Niña season corresponded with a record Atlantic hurricane season.\n3. El Niño eliminates the risk of Bay of Bengal cyclone formation entirely, as the combination of increased wind shear and reduced SSTs prevent all cyclone development.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 2 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1dfbf859-f959-4723-9bd5-230b76ee526c",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Drought in Sub-Saharan Africa and the Sahel",
+        "ENSO Teleconnections: Global Rainfall Patterns"
+      ],
+      "subject_que_no": 2696,
+      "overall_que_no": 19670
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "ENSO teleconnection regional contrasts in Africa",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) places East Africa as an El Niño drought region and southern Africa as a La Niña drought region — reversing the correct pairings in a way that seems geographically plausible since 'Africa = drought' is a common stereotype.",
+      "elimination_logic": [
+        "Fix A: Southern Africa (Zimbabwe, Zambia) experiences drought during El Niño — match A-2.",
+        "Fix B: East Africa's short rains (Oct–Dec) are positively correlated with El Niño — MORE rain, not drought — match B-3.",
+        "Fix C: The Sahel's rainfall is more strongly modulated by Atlantic SSTs than by Pacific ENSO — match C-4.",
+        "Fix D: La Niña brings above-normal rains to southern Africa — match D-1. This gives A-2, B-3, C-4, D-1 — option (b)."
+      ],
+      "upsc_trap_explanation": "The geographic-swap trap in option (a) reverses the East Africa and southern Africa ENSO relationships. Most students know 'Africa suffers El Niño drought' as a general rule, but the specific distinction — East Africa BENEFITS from El Niño during short rains (Oct–Dec), while southern Africa suffers — is the precision trap. Option (a) exploits this by giving East Africa El Niño drought and southern Africa La Niña drought.",
+      "final_explanation": "Sub-Saharan Africa's ENSO teleconnections are regionally differentiated and frequently tested because they include at least one counter-intuitive relationship (East Africa during El Niño).\n\nCorrect matches:\n• A (Southern Africa — Zimbabwe, Zambia) – 2 (El Niño → drought): El Niño suppresses the ITCZ and convective rainfall over southern Africa, causing documented maize deficits in Zimbabwe and Zambia that require international food aid.\n• B (East Africa October–December short rains 'Vuli') – 3 (El Niño → enhanced rainfall): During El Niño, anomalous western Indian Ocean warming and circulation changes enhance East Africa's short rains — one of the most counter-intuitive and frequently tested ENSO teleconnections.\n• C (Sahel and West Africa) – 4 (more strongly modulated by Atlantic SSTs than ENSO): Unlike southern and eastern Africa, the Sahel's interannual rainfall variability is primarily driven by tropical Atlantic SST gradients rather than Pacific ENSO forcing.\n• D (Southern Africa during La Niña) – 1 (above-normal rains): La Niña enhances southern African rainfall — the reverse of El Niño's drought effect — creating flood risks in the same countries that suffer drought during El Niño.\n\nValue Addition:\n• Zimbabwe and Zambia's maize-based food security makes them among the most ENSO-exposed nations globally.\n• East Africa's La Niña response (short rains failure) directly contributed to the 2010–11 Horn of Africa famine.\n• The Sahel's primary climate driver being Atlantic SSTs explains why Sahel drought decades (1970s–1980s) didn't correlate with Pacific ENSO patterns."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (African region/season) with List II (ENSO-related rainfall response):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Southern Africa (Zimbabwe, Zambia)",
+            "1. La Niña → above-normal rains"
+          ],
+          [
+            "B. East Africa short rains (October–December)",
+            "2. El Niño → drought and maize deficits"
+          ],
+          [
+            "C. Sahel and West Africa",
+            "3. El Niño → enhanced rainfall (counter-intuitive)"
+          ],
+          [
+            "D. Southern Africa during La Niña years",
+            "4. More strongly modulated by Atlantic SSTs than Pacific ENSO"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-2, C-4, D-1\n(b) A-2, B-3, C-4, D-1\n(c) A-2, B-4, C-3, D-1\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "60c5c66b-b185-4601-b983-20e9c6fba7f7",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Cycle: Neutral, El Niño, and La Niña States",
+        "Southern Oscillation Index (SOI) as a Diagnostic Tool"
+      ],
+      "subject_que_no": 2697,
+      "overall_que_no": 19671
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Multi-indicator ENSO diagnosis vs single-index reliance",
+      "statement_analysis": null,
+      "strong_distractor": "a — A student who knows SOI is a key ENSO indicator may choose (a), thinking a sustained negative SOI is sufficient to declare El Niño — but the scenario explicitly states SST anomalies are below the +0.5°C threshold, making (a) an incomplete and incorrect declaration basis.",
+      "elimination_logic": [
+        "Eliminate (a): SOI alone cannot be used to declare El Niño; the atmospheric signal (negative SOI) must be accompanied by sustained SST anomalies ≥+0.5°C in Niño 3.4 for five consecutive months.",
+        "Eliminate (b): Declaring La Niña based on weakening SSTs is incorrect — SSTs below +0.5°C threshold in the scenario are simply non-El Niño, not necessarily La Niña (which requires ≤−0.5°C).",
+        "Eliminate (d): Declaring El Niño based on thermocline deepening alone without the required SST threshold being met violates the operational declaration criteria.",
+        "Confirm (c): The scenario describes a case where atmospheric signals (negative SOI) are present but oceanic signals (SST anomalies) do not yet meet the threshold — this is the documented situation where SOI gives a false signal, requiring multi-indicator corroboration before a declaration."
+      ],
+      "upsc_trap_explanation": "This scenario exploits the partial-truth trap: negative SOI IS an El Niño indicator, making option (a) feel correct. The trap lies in the scenario's explicit mention that SST anomalies are below the declaration threshold — a situation that IMD and WMO operational protocols require to be resolved before declaring El Niño. Students who stop reasoning after 'negative SOI = El Niño' fall into this trap.",
+      "final_explanation": "ENSO declaration requires both oceanic and atmospheric components to meet threshold criteria — a critical operational distinction that this scenario tests.\n\nThe scenario presents a split signal: atmospheric data (negative SOI) suggests El Niño, but oceanic data (SST anomalies below +0.5°C for less than five months) does not yet meet the declaration threshold. This is a documented limitation of SOI as a sole diagnostic tool.\n\n• Option (a): Incorrect — a sustained negative SOI alone is insufficient to declare El Niño; ENSO is a coupled ocean-atmosphere phenomenon requiring both components to confirm the event.\n• Option (b): Incorrect — SST anomalies below El Niño threshold do not indicate La Niña; La Niña requires ≤−0.5°C anomaly sustained for five months, which is not described in the scenario.\n• Option (c): Correct — this scenario represents a SOI false signal situation; operational protocols require SST anomalies to reach and sustain the +0.5°C threshold for five consecutive overlapping months alongside atmospheric indicators before El Niño can be officially declared.\n• Option (d): Incorrect — deepening thermocline supports El Niño development but is not a standalone declaration criterion; SST and SOI thresholds must be met operationally.\n\nValue Addition:\n• 'Atmospheric El Niño' (negative SOI without SST threshold) and 'Oceanic El Niño' (SST met without atmospheric confirmation) are documented transitional states.\n• The requirement for sustained anomaly over five months prevents false positives from short-lived variability.\n• False ENSO signals have historically led to premature policy advisories — the post-2002 reform in IMD protocols addressed this specifically."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A Pacific climate monitoring centre reports that the Southern Oscillation Index has remained negative for the past four months, indicating anomalously low pressure at Tahiti relative to Darwin. Concurrently, oceanic temperature data show SST anomalies in the Niño 3.4 region averaging +0.3°C over the same period, which is below the standard El Niño declaration threshold. Thermocline depth data from Argo floats show a modest deepening in the central Pacific. An agricultural ministry requests clarity on whether El Niño conditions should be factored into the upcoming Kharif crop advisory. Which of the following responses from the climate agency is most scientifically appropriate?\n\n(a) El Niño conditions should be declared based on the sustained negative SOI, as the atmospheric signal alone is sufficient for an operational ENSO declaration affecting crop advisories\n(b) La Niña conditions should be considered since SST anomalies are weakening below the El Niño threshold, indicating a transition toward the opposite phase\n(c) Neither El Niño nor La Niña should be declared; the atmospheric signal (negative SOI) represents a potential false signal, and the oceanic SST anomalies must sustain the +0.5°C threshold for five consecutive months before an official declaration can be made\n(d) El Niño should be declared based on the deepening thermocline signal alone, as thermocline anomalies are the most reliable early indicator and override SST threshold requirements",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "340179fc-d05a-4cf0-8426-8279d24abdd4",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and El Niño Impacts on South American Hydrology",
+        "ENSO Teleconnections: Global Rainfall Patterns"
+      ],
+      "subject_que_no": 2698,
+      "overall_que_no": 19672
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "geographic-swap",
+      "concept_anchor": "El Niño flood-affected regions globally",
+      "statement_analysis": null,
+      "strong_distractor": "b — Southern Brazil is less intuitive as an El Niño flooding region to students who associate South America with El Niño drought (northeast Brazil), potentially making them choose (b) as the odd one out.",
+      "elimination_logic": [
+        "Identify the common attribute: three regions receive above-normal rainfall or flooding during El Niño events.",
+        "Ecuador and coastal Peru — El Niño flooding: normally hyperarid coast receives catastrophic rains during El Niño — confirmed winner.",
+        "Southern Brazil and Uruguay — El Niño flooding: subtropical jet moisture enhancement produces above-normal rainfall — confirmed winner.",
+        "Southeastern USA — El Niño flooding: El Niño enhances Gulf moisture and produces above-normal winter/spring rainfall — confirmed winner.",
+        "Amazon basin — El Niño drought and fire: El Niño suppresses Amazonian rainfall and increases wildfire risk — the odd one out; correct answer is (d)."
+      ],
+      "upsc_trap_explanation": "The Amazon is within South America and students may intuitively group it with the Ecuador/Peru flooding story. The geographic-swap trap here is the Amazon being in the same continent as El Niño flooding regions but having the opposite response — drought and fire, not flooding. The Amazon's El Niño drought is a distinct and important UPSC teleconnection fact.",
+      "final_explanation": "El Niño creates simultaneous flooding and drought within South America itself — one of the clearest examples of ENSO's regionally asymmetric impacts.\n\n• Option (a) Ecuador and coastal Peru: El Niño WINNER — the normally hyperarid Peruvian and Ecuadorian coast receives catastrophic flooding as the anomalously warm eastern Pacific SSTs draw intense convection toward the coast. The 1998 El Niño caused historic flooding in these regions.\n• Option (b) Southern Brazil and Uruguay: El Niño WINNER — subtropical South America receives above-normal rainfall through enhanced moisture flux driven by a strengthened subtropical jet. Belongs in the flooding group.\n• Option (c) Southeastern USA: El Niño WINNER — El Niño shifts the jet stream southward, delivering above-normal winter/spring precipitation to the Gulf Coast and southeastern states. Belongs in the flooding group.\n• Option (d) Amazon basin: El Niño DROUGHT — anomalously warm eastern Pacific suppresses convection over the Amazon, reducing rainfall and increasing fire risk. The 2015–16 El Niño caused record Amazon fires. This is the odd one out.\n\nValue Addition:\n• Peru's El Niño flooding and drought coexist during the same event — northern coastal regions flood while the Amazon drains into drought simultaneously.\n• El Niño-induced Amazon drought reduces the 'flying rivers' — moisture-laden air masses that transport rainfall from the Amazon to southern Brazil, compounding agricultural impacts.\n• The ITCZ's northward displacement during El Niño simultaneously droughts northeast Brazil and floods coastal Ecuador/Peru — a dramatic intra-regional contrast."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to El Niño's global rainfall impacts, which of the following regions does NOT belong to the same category as the others in terms of its typical precipitation response during El Niño events?\n\n(a) Ecuador and the coastal regions of Peru\n(b) Southern Brazil and Uruguay\n(c) Southeastern United States\n(d) Amazon basin of Brazil",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8f0e1bf5-cc41-4cec-9396-9e257c079aec",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Walker Circulation and Its Disruption During ENSO",
+        "ENSO Cycle: Neutral, El Niño, and La Niña States"
+      ],
+      "subject_que_no": 2699,
+      "overall_que_no": 19673
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "conflation",
+      "concept_anchor": "Walker vs Hadley Circulation orientation and ENSO impact",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) correctly identifies that Hadley Circulation is meridional and Walker is zonal, but then incorrectly states that La Niña weakens the Walker Cell — La Niña strengthens it. Students who fix the orientation correctly but misremember the La Niña direction may select (b).",
+      "elimination_logic": [
+        "Eliminate (b): La Niña intensifies (not weakens) the Walker Circulation — stronger trade winds reinforce the Walker Cell.",
+        "Eliminate (c): The Walker Circulation is zonal (east-west), not meridional; this option conflates Walker and Hadley.",
+        "Eliminate (d): During El Niño, the Walker Cell weakens or partially reverses — it does NOT intensify.",
+        "Confirm (a): Walker Circulation is zonal; Hadley is meridional; El Niño weakens Walker while La Niña intensifies it — all three claims in (a) are correct."
+      ],
+      "upsc_trap_explanation": "The conflation trap in option (c) directly swaps the directional descriptions of Walker and Hadley circulations — a common memory error. Option (b) fixes the orientation correctly but introduces an error in the La Niña relationship, targeting students who know circulation axes but not ENSO phase effects.",
+      "final_explanation": "Distinguishing Walker from Hadley Circulation is foundational to understanding ENSO mechanics.\n\n• Option (a): Correct — Walker Circulation operates zonally (east-west) along the equatorial belt, driven by the SST contrast between the warm western Pacific and cool eastern Pacific. Hadley Circulation operates meridionally (north-south) driven by the equator-to-pole temperature gradient. El Niño weakens the Walker Cell by reducing the east-west pressure gradient; La Niña intensifies it through stronger trade winds.\n• Option (b): Incorrect — correctly identifies the orientation difference but reverses La Niña's effect; La Niña intensifies Walker Circulation, it does not weaken it.\n• Option (c): Incorrect — conflates the two circulations by calling Walker meridional; Walker is zonal, Hadley is meridional.\n• Option (d): Incorrect — states El Niño intensifies the Walker Circulation; El Niño weakens (and in extreme cases reverses) the Walker Cell.\n\nValue Addition:\n• The Walker Circulation was named after Sir Gilbert Walker who discovered the Southern Oscillation in the 1920s–30s.\n• Climate change projections suggest a weakening Walker Circulation as background SSTs rise — similar to El Niño-like conditions becoming more persistent.\n• The Hadley Cell's poleward expansion under climate change is separate from Walker Circulation changes and affects subtropical dry zones independently."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following statements about Walker and Hadley Circulations and their relationship with ENSO is correct?\n\n(a) Walker Circulation is a zonal (east-west) atmospheric cell, while Hadley Circulation is a meridional (north-south) cell; El Niño weakens the Walker Circulation while La Niña intensifies it\n(b) Walker Circulation is a meridional (north-south) cell and Hadley Circulation is a zonal (east-west) cell; La Niña weakens the Walker Circulation while El Niño intensifies it\n(c) Both Walker and Hadley Circulations are zonal cells operating in the tropics; El Niño disrupts Walker Circulation while Hadley Circulation remains unaffected by ENSO\n(d) Walker Circulation is a zonal cell linking the Indo-Pacific warm pool to the cool eastern Pacific; El Niño intensifies the Walker Circulation by increasing the east-west pressure gradient",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "df13929d-170a-4866-a595-eb93bf2f2cc7",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "La Niña Impact on Indian Monsoon and Flooding",
+        "ENSO and the Northeast Monsoon (Retreating Monsoon) of India"
+      ],
+      "subject_que_no": 2700,
+      "overall_que_no": 19674
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "La Niña ISM enhancement and northeast monsoon specifics",
+      "statement_analysis": [
+        {
+          "statement": "La Niña events guarantee above-normal Indian Summer Monsoon rainfall in all years, as the enhanced Walker Circulation and warmer Indo-Pacific invariably deliver excess moisture to the subcontinent.",
+          "verdict": "Incorrect",
+          "reason": "La Niña enhances ISM statistically but does not guarantee excess rainfall in every year — 2010 La Niña caused Pakistan floods but India had a variable regional response, confirming the probabilistic rather than deterministic nature."
+        },
+        {
+          "statement": "La Niña typically strengthens the northeast monsoon over Tamil Nadu and Sri Lanka through warmer Bay of Bengal conditions, increased cyclone activity, and enhanced moisture flux.",
+          "verdict": "Correct",
+          "reason": "La Niña's enhancement of Bay of Bengal SSTs and reduction in wind shear increase both rainfall delivery and cyclone frequency during the northeast monsoon season (Oct–Dec), benefiting Tamil Nadu, Puducherry, and Sri Lanka."
+        },
+        {
+          "statement": "During La Niña years, flooding in South Asia is confined to Bangladesh and northeastern India, with other South Asian subregions remaining unaffected by excess rainfall.",
+          "verdict": "Incorrect",
+          "reason": "La Niña flooding impacts extend across multiple South Asian regions including Pakistan (2010 catastrophic floods), Bangladesh, Myanmar, and parts of India — it is not confined to Bangladesh and northeastern India alone."
+        }
+      ],
+      "strong_distractor": "c — Students may read Statement 3 quickly and accept 'Bangladesh and northeastern India' as partially correct (both do receive excess rainfall), missing the 'confined to' scope-extension that makes the statement wrong.",
+      "elimination_logic": [
+        "Identify Statement 1 as incorrect: 'guarantee' is the scope-extension error — La Niña enhances ISM probabilistically, not deterministically.",
+        "Verify Statement 2 is correct: La Niña enhancement of northeast monsoon over Tamil Nadu and Sri Lanka is well-documented.",
+        "Identify Statement 3 as incorrect: 'confined to' is the scope-extension error — La Niña flooding affects Pakistan, Myanmar, and other parts of South Asia, not just Bangladesh and northeastern India.",
+        "Statements 1 and 3 are incorrect — matching option (b)."
+      ],
+      "upsc_trap_explanation": "Both Statement 1 and Statement 3 use scope-extension techniques — Statement 1 with 'guarantee' (converting a probabilistic relationship into a certainty) and Statement 3 with 'confined to' (limiting a widespread impact to two specific areas). Students who know La Niña generally enhances monsoon may not spot these precision errors.",
+      "final_explanation": "La Niña's impacts on South Asian monsoon systems are significant but must be understood as probabilistic and geographically varied, not deterministic or regionally uniform.\n\n• Statement 1 — Incorrect: La Niña is statistically associated with enhanced ISM rainfall but does not 'guarantee' above-normal rainfall in every La Niña year. In 2010, La Niña caused catastrophic Pakistan flooding but India's monsoon response was variable by region. The deterministic claim is the error.\n• Statement 2 — Correct: La Niña strengthens the northeast monsoon through warmer Bay of Bengal conditions (higher evaporation, moisture loading) and reduced wind shear (more cyclone formation). Tamil Nadu, Puducherry, coastal Andhra, and Sri Lanka all benefit from this enhancement. The 2021 La Niña produced an exceptionally active northeast monsoon.\n• Statement 3 — Incorrect: La Niña flooding is not 'confined to' Bangladesh and northeastern India. The 2010 La Niña caused the worst flooding in Pakistan's recorded history, inundated large parts of Myanmar, and produced above-normal rainfall across a much wider South Asian region.\n\nValue Addition:\n• La Niña winters tend to produce more Bay of Bengal cyclones, with direct implications for Tamil Nadu and Andhra Pradesh coastal communities.\n• The 2021 La Niña-enhanced northeast monsoon was Chennai's wettest season in several years.\n• Pakistan's vulnerability to La Niña flooding is linked to enhanced Arabian Sea and Bay of Bengal moisture combined with upstream Himalayan river runoff."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about La Niña's impact on the Indian monsoon system and South Asian hydrology:\n\n1. La Niña events guarantee above-normal Indian Summer Monsoon rainfall in all years, as the enhanced Walker Circulation and warmer Indo-Pacific invariably deliver excess moisture to the subcontinent.\n2. La Niña typically strengthens the northeast monsoon over Tamil Nadu and Sri Lanka through warmer Bay of Bengal conditions, increased cyclone activity, and enhanced moisture flux.\n3. During La Niña years, flooding in South Asia is confined to Bangladesh and northeastern India, with other South Asian subregions remaining unaffected by excess rainfall.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "24c8f7d2-00d5-4285-bf22-ae7d600baa94",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and the Bjerknes Feedback (Positive Feedback Loop)",
+        "Thermocline Dynamics and Kelvin/Rossby Waves in ENSO"
+      ],
+      "subject_que_no": 2701,
+      "overall_que_no": 19675
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "entity-swap",
+      "concept_anchor": "ENSO mechanism terminology pairings",
+      "statement_analysis": null,
+      "strong_distractor": "a — Pairing 'Bjerknes feedback' with 'negative feedback stabilising El Niño' sounds plausible to students who know Bjerknes is involved in ENSO but mix up positive vs. negative feedback directions.",
+      "elimination_logic": [
+        "Evaluate (a): Bjerknes feedback paired with 'negative feedback that stabilises El Niño' — incorrect; Bjerknes is a POSITIVE feedback that AMPLIFIES El Niño.",
+        "Evaluate (b): Oceanic Rossby waves paired with 'westward-propagating waves that contribute to El Niño termination by shoaling the thermocline' — correct; Rossby waves propagate westward and raise the thermocline, terminating El Niño.",
+        "Evaluate (c): Spring predictability barrier paired with 'ENSO forecasts made in June–August are the least reliable' — incorrect; the barrier applies to predictions SPANNING boreal spring (March–May), so forecasts made BEFORE March are least reliable.",
+        "Evaluate (d): ENSO Modoki paired with 'warming concentrated in the Niño 1+2 (far eastern Pacific) region' — incorrect; Modoki features central Pacific (Niño 4) warming, not eastern Pacific."
+      ],
+      "upsc_trap_explanation": "Option (a) exploits entity-swap by swapping 'positive feedback' for 'negative feedback' in the Bjerknes description. Students who associate Bjerknes with ENSO dynamics but haven't fixed the feedback direction will accept this pairing. Option (d) swaps Niño 1+2 for Niño 4, exploiting the proliferation of Niño region numbers as a confusion source.",
+      "final_explanation": "ENSO mechanism terminology pairings require precise matching of process names with their definitions.\n\n• Option (a): Incorrectly matched — Bjerknes feedback is a POSITIVE feedback that amplifies El Niño, not a stabilising negative feedback. Once SST warming begins, it weakens trades, reduces upwelling, and further warms the SST in a self-reinforcing loop.\n• Option (b): Correctly matched — Oceanic Rossby waves propagate westward after being initiated at the eastern Pacific boundary. These waves shoal (raise) the thermocline as they travel west and are reflected at the western boundary, sending Kelvin waves back eastward that cool the eastern Pacific — a key mechanism for El Niño termination.\n• Option (c): Incorrectly matched — the spring predictability barrier refers to the difficulty of making accurate ENSO forecasts that span boreal spring (March–May). Forecasts made BEFORE March (not June–August) are least reliable; June–August forecasts looking forward are actually among the more reliable ones.\n• Option (d): Incorrectly matched — ENSO Modoki features warming in the central Pacific (Niño 4 region), not the far eastern Pacific Niño 1+2 region, which tracks coastal Peru/Ecuador SST for classical El Niño.\n\nValue Addition:\n• The Rossby wave reflection mechanism at the western boundary is the starting point of the ENSO recharge-discharge oscillator model.\n• Spring predictability barrier occurs because tropical Pacific SSTs undergo fastest transitions during March–May, making initial conditions less determinative.\n• Bjerknes (1969) demonstrated that ocean-atmosphere coupling is essential to explain ENSO — a paradigm shift from purely atmospheric or oceanic explanations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to ENSO dynamics is correctly matched?\n\n(a) Bjerknes feedback : A negative feedback mechanism that stabilises El Niño by preventing further SST warming once the event is established\n(b) Oceanic Rossby waves : Westward-propagating waves that contribute to El Niño termination by shoaling the thermocline in the central and eastern Pacific\n(c) Spring predictability barrier : ENSO forecasts made between June and August are the least reliable because the Pacific SST is most variable during this period\n(d) ENSO Modoki : Characterised by SST warming concentrated in the Niño 1+2 (far eastern Pacific) region rather than the central Pacific",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dd2d29b4-04ad-4192-9f76-5c65b0652e5b",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "El Niño Impact on Indian Summer Monsoon (ISM)",
+        "ENSO and Eurasian Snow Cover: Teleconnection to Indian Monsoon"
+      ],
+      "subject_que_no": 2702,
+      "overall_que_no": 19676
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "quantitative-pairing",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Compounding negative predictors for Indian Summer Monsoon",
+      "statement_analysis": [
+        {
+          "statement": "The statistical relationship between El Niño and the Indian Summer Monsoon is probabilistic, not deterministic — approximately 60% of strong El Niño years are associated with deficient monsoon.",
+          "verdict": "Correct",
+          "reason": "This is the documented statistical correlation; multiple El Niño years have produced near-normal or above-normal Indian monsoon (1997, 2019), confirming the probabilistic nature of the relationship."
+        },
+        {
+          "statement": "Eurasian snow cover in winter acts as a seasonal predictor of the Indian Summer Monsoon because excess snow increases surface albedo, delays land warming, and reduces the thermal gradient driving the monsoon.",
+          "verdict": "Correct",
+          "reason": "This is the Blanford Hypothesis (1884) mechanism — excess winter snow cover over Eurasia suppresses ISM through albedo-driven cooling of the landmass and reduced land-sea thermal gradient."
+        },
+        {
+          "statement": "El Niño directly causes above-normal Eurasian snow cover, which then suppresses the Indian monsoon — making El Niño the primary causal trigger in a linear El Niño → snow → monsoon suppression chain.",
+          "verdict": "Incorrect",
+          "reason": "Eurasian snow cover is an independent predictor — not directly caused by El Niño. ENSO and snow cover can co-occur and synergistically suppress the monsoon, but the causal chain is not linear; they are parallel independent predictors."
+        },
+        {
+          "statement": "The equatorial Indian Ocean warming that occurs during El Niño can partially compensate for the suppression of the Indian monsoon, complicating simple ENSO-to-monsoon impact assessments.",
+          "verdict": "Correct",
+          "reason": "El Niño warms the equatorial Indian Ocean, increasing local moisture evaporation that can partially offset the reduced moisture convergence caused by eastward convection shift — a genuine complicating factor."
+        }
+      ],
+      "strong_distractor": "d — Students who know El Niño is associated with more Eurasian snow in some years may accept Statement 3 as stating a real correlation, without catching the 'directly causes' and 'linear chain' errors that make it incorrect.",
+      "elimination_logic": [
+        "Verify Statement 1: 60% correlation for strong El Niño and deficient ISM — probabilistic relationship, correct.",
+        "Verify Statement 2: Blanford Hypothesis mechanism — albedo, delayed land warming, reduced thermal gradient — correct.",
+        "Identify Statement 3 as incorrect: 'directly causes' and 'linear chain' are the reversed-causation and over-simplification errors; snow cover is independent, not El Niño-caused.",
+        "Verify Statement 4: Indian Ocean warming during El Niño partially offsetting ISM suppression — correct.",
+        "Three statements correct (1, 2, 4) — option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 3's reversed-causation trap presents a plausible but false causal chain: El Niño → snow cover → monsoon suppression. El Niño years ARE sometimes associated with above-normal Eurasian snow (a statistical association), but El Niño does not 'directly cause' snow cover. IMD treats snow cover as an independent predictor alongside ENSO, not as a downstream ENSO effect. The word 'directly causes' is the key false claim.",
+      "final_explanation": "The Indian Summer Monsoon is influenced by multiple independent and partially correlated predictors — understanding which is cause vs. correlation vs. independent predictor is critical for UPSC-level analysis.\n\n• Statement 1 — Correct: The El Niño–ISM statistical link (~60% for strong events) is real but non-deterministic. Multiple counter-examples (1997, 2019) confirm that other factors can override El Niño's suppressive influence.\n• Statement 2 — Correct: Blanford's 1884 hypothesis — still used by IMD — establishes that excess winter Eurasian snow cover increases albedo, keeps land cooler, reduces the land-sea thermal gradient, and weakens the pressure differential driving monsoon onset and intensity.\n• Statement 3 — Incorrect: Eurasian snow cover is an independent predictor, not a direct downstream consequence of El Niño. While El Niño years sometimes co-occur with above-normal Eurasian snow, the causal mechanism is not a simple linear chain. ENSO and snow cover can act synergistically (compounding suppression) but are treated as parallel independent variables in IMD's forecast models.\n• Statement 4 — Correct: El Niño-induced equatorial Indian Ocean warming increases local evaporation and moisture availability, which can partially compensate for reduced moisture convergence — explaining some of the years when El Niño does not produce a deficient monsoon.\n\nValue Addition:\n• IMD uses at least five independent predictors in its operational long-range monsoon forecast, including ENSO, IOD, snow cover, and local SST indices.\n• When El Niño and above-normal Eurasian snow co-occur, monsoon suppression risk is compounded — these are called 'double jeopardy' years in climate literature.\n• The equatorial Indian Ocean warming buffer is eroding as background Indian Ocean temperatures rise under climate change."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about El Niño, Eurasian snow cover, and their combined influence on the Indian Summer Monsoon:",
+        "columns": [
+          "Statement No.",
+          "Statement"
+        ],
+        "rows": [
+          [
+            "1",
+            "The statistical relationship between El Niño and the Indian Summer Monsoon is probabilistic, not deterministic — approximately 60% of strong El Niño years are associated with deficient monsoon."
+          ],
+          [
+            "2",
+            "Eurasian snow cover in winter acts as a seasonal predictor of the Indian Summer Monsoon because excess snow increases surface albedo, delays land warming, and reduces the thermal gradient driving the monsoon."
+          ],
+          [
+            "3",
+            "El Niño directly causes above-normal Eurasian snow cover, which then suppresses the Indian monsoon — making El Niño the primary causal trigger in a linear El Niño → snow → monsoon suppression chain."
+          ],
+          [
+            "4",
+            "The equatorial Indian Ocean warming that occurs during El Niño can partially compensate for the suppression of the Indian monsoon, complicating simple ENSO-to-monsoon impact assessments."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "053cef58-f596-4bb2-848d-ae72b943ff1a",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Thermocline Dynamics and Kelvin/Rossby Waves in ENSO"
+      ],
+      "subject_que_no": 2703,
+      "overall_que_no": 19677
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "two-statement-relationship",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Oceanic vs atmospheric Kelvin waves distinction",
+      "statement_analysis": [
+        {
+          "statement": "Oceanic Kelvin waves involved in ENSO propagate eastward along the equator, deepening the thermocline and triggering El Niño onset — these are distinct from the atmospheric Kelvin waves discussed in the context of the stratospheric Quasi-Biennial Oscillation (QBO).",
+          "verdict": "Correct",
+          "reason": "Oceanic Kelvin waves in ENSO dynamics are entirely different from atmospheric Kelvin waves in QBO literature — both share the name but operate in different media, at different speeds, and with different climate effects."
+        },
+        {
+          "statement": "During La Niña, Kelvin waves deepen the thermocline in the western Pacific, driving the warm pool deeper and further intensifying the Walker Circulation by increasing the east-west SST gradient.",
+          "verdict": "Incorrect",
+          "reason": "During La Niña, the thermocline in the eastern Pacific shallows (not deepens in the western Pacific via Kelvin waves as the active agent) — stronger trade winds physically push warm water westward, deepening the western Pacific thermocline, but this is a wind-driven process, not primarily a Kelvin wave-driven thermocline deepening in the west."
+        }
+      ],
+      "strong_distractor": "a — Students who know Kelvin waves are associated with thermocline changes in both El Niño and La Niña may accept Statement 2 as describing La Niña's western Pacific thermocline deepening through Kelvin wave action — conflating wind-driven warm water pile-up with Kelvin wave dynamics.",
+      "elimination_logic": [
+        "Evaluate Statement 1: Oceanic ENSO Kelvin waves vs. atmospheric QBO Kelvin waves — the distinction is real and important; Statement 1 is correct.",
+        "Evaluate Statement 2: La Niña thermocline dynamics are primarily wind-driven (stronger trades push warm water west); framing it as Kelvin waves deepening the western thermocline misattributes the mechanism — incorrect.",
+        "Statement 1 correct + Statement 2 incorrect = option (d)."
+      ],
+      "upsc_trap_explanation": "Statement 2 performs an entity-swap: it assigns Kelvin wave agency to what is actually a wind-driven thermocline change during La Niña. While Kelvin waves play a role in both phases of ENSO, the western Pacific thermocline deepening during La Niña is primarily driven by stronger trade winds piling warm water westward — not by a distinct Kelvin wave deepening mechanism as stated.",
+      "final_explanation": "Kelvin waves are one of ENSO's most tested mechanical concepts, and they require precise disambiguation across contexts.\n\n• Statement 1 — Correct: Oceanic Kelvin waves in ENSO propagate eastward at ~2–3 m/s along the equatorial thermocline, carrying warm water eastward and deepening the thermocline off South America — the trigger mechanism for El Niño development. These are entirely different from atmospheric Kelvin waves in the stratospheric QBO context, which propagate vertically and affect the stratospheric wind cycle. Sharing a name while being completely different phenomena makes this a high-value UPSC distinction.\n• Statement 2 — Incorrect: During La Niña, stronger easterly trade winds physically advect warm surface water toward the western Pacific, deepening the western Pacific thermocline. This is a wind-driven Ekman transport process, not a Kelvin wave deepening event. Kelvin waves during La Niña termination are generated differently and play a role in ENSO transition, but the primary La Niña western thermocline deepening mechanism is trade wind intensification.\n\nValue Addition:\n• Oceanic Kelvin waves travel at ~2 m/s along the equatorial waveguide, crossing the Pacific in ~60–90 days — relevant to El Niño onset timing.\n• QBO atmospheric Kelvin waves propagate upward through the stratosphere — entirely different domain, speed, and climate relevance.\n• Monitoring Kelvin wave activity via satellite altimetry (sea surface height anomalies) is a key operational El Niño early warning tool."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about Kelvin waves and thermocline dynamics in the context of ENSO:\n\nStatement 1: Oceanic Kelvin waves involved in ENSO propagate eastward along the equator, deepening the thermocline and triggering El Niño onset — these are distinct from the atmospheric Kelvin waves discussed in the context of the stratospheric Quasi-Biennial Oscillation (QBO).\n\nStatement 2: During La Niña, Kelvin waves deepen the thermocline in the western Pacific, driving the warm pool deeper and further intensifying the Walker Circulation by increasing the east-west SST gradient.\n\nWhich of the following is correct?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is incorrect but Statement 2 is correct\n(d) Statement 1 is correct but Statement 2 is incorrect",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b253ee03-1efc-47a0-a0dc-c3589772f580",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Agricultural Impacts on Food Security",
+        "ENSO and Australian Drought/Flood Cycle"
+      ],
+      "subject_que_no": 2704,
+      "overall_que_no": 19678
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": null,
+      "concept_anchor": "Walker Circulation and Australian El Niño drought mechanism",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who understand that Walker Circulation shifts away from Australia during El Niño (which is true) but aren't sure whether this is the specific causal explanation for reduced rainfall may hedge toward (b), doubting the causal link.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. El Niño causes documented drought and reduced agricultural output in eastern and southeastern Australia, particularly the Murray-Darling Basin.",
+        "Step 2: Is Reason (R) correct? — Yes. The Walker Circulation shift during El Niño moves the convective centre eastward toward the central Pacific, physically removing the main source of rainfall-producing convection from the Australian region.",
+        "Step 3: Does R causally explain A? — Yes. The Walker Circulation shift is the direct atmospheric mechanism by which El Niño reduces Australian rainfall — this is a genuine and complete causal explanation, not merely a correlation. Correct option is (a)."
+      ],
+      "upsc_trap_explanation": null,
+      "final_explanation": "Australia's El Niño drought relationship is one of the most mechanistically clear ENSO teleconnections globally, making it a strong assertion-reason pairing.\n\nAssertion (A): Correct. Eastern and southeastern Australia, particularly the Murray-Darling Basin, consistently experience drought during El Niño events. Agricultural output — including wheat, cotton, and livestock — declines significantly, with global commodity price implications. The 2019 El Niño preceded Australia's 'Black Summer' fire season.\n\nReason (R): Correct. Under normal (neutral) conditions, the Walker Circulation brings rising convective air and rainfall to the western Pacific and Australia. During El Niño, the convective centre shifts eastward toward the central Pacific, carrying the rain-producing systems with it and leaving Australia under a descending limb of the Walker Cell — producing drought conditions.\n\nCausal link: R directly and completely explains A. The Walker Circulation shift is the primary physical mechanism by which El Niño removes rainfall from Australia. This is not a spurious correlation — it is a well-established causal chain from SST anomaly → Walker Circulation shift → convection relocation → Australian rainfall deficit → agricultural drought.\n\nValue Addition:\n• Australia's Bureau of Meteorology uses ENSO state as the primary seasonal drought outlook indicator for eastern states.\n• Global wheat prices during El Niño years partly reflect Australian export reductions — a geography-economy overlap frequently tested in UPSC.\n• La Niña's opposite effect (Queensland flooding in 2010–11) is caused by the reverse Walker Circulation enhancement bringing convective rainfall back toward Australia."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): El Niño events are associated with significant agricultural drought in eastern and southeastern Australia, particularly in the Murray-Darling Basin, reducing crop and livestock output with implications for global commodity markets.\n\nReason (R): During El Niño, the Walker Circulation's convective centre shifts eastward toward the central Pacific, moving rainfall-producing systems away from Australia and placing eastern regions under the descending dry limb of the Walker Cell.\n\nWhich of the following is correct?\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "225fad3f-327f-4ae6-863e-a0f36d2f5e97",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Indices: Niño Regions (1+2, 3, 3.4, 4) and Their Specific Uses",
+        "Southern Oscillation Index (SOI) as a Diagnostic Tool"
+      ],
+      "subject_que_no": 2705,
+      "overall_que_no": 19679
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "match-the-column",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "ENSO diagnostic tools and their specific applications",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) swaps ONI's Niño 3.4 basis with Niño 3 (making it seem like a slight geographic shift) and reassigns IMD thresholds to NOAA — two precision errors that students familiar with the concepts but not the operational specifics will miss.",
+      "elimination_logic": [
+        "Fix A: SOI is measured between Tahiti and Darwin — as the atmospheric component of ENSO coupling. Match A-3.",
+        "Fix B: NOAA's ONI uses Niño 3.4 three-month running means for official ENSO declarations. Match B-1.",
+        "Fix C: Niño 1+2 is the far eastern Pacific index most sensitive to classical El Niño coastal SST changes near Peru and Ecuador. Match C-4.",
+        "Fix D: Different agencies using different indices (NOAA's ONI vs. IMD's thresholds) can produce apparently contradictory El Niño declarations in borderline years. Match D-2. This gives A-3, B-1, C-4, D-2 — option (b)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap here operates as an index-swap: options (a) and (c) place ONI on the Niño 3 region instead of Niño 3.4 — a one-character difference that changes the factual basis of the declaration. Students who know Niño regions broadly but haven't fixed the ONI-Niño 3.4 link specifically will not catch this substitution.",
+      "final_explanation": "ENSO monitoring uses a suite of indices, each serving a specific diagnostic purpose — precise knowledge of each index's definition and application is required.\n\nCorrect matches:\n• A (Southern Oscillation Index — SOI) – 3 (measures atmospheric component as normalized pressure difference between Tahiti and Darwin): SOI captures the atmospheric side of the coupled ENSO phenomenon. Negative SOI → El Niño; positive SOI → La Niña.\n• B (NOAA's Oceanic Niño Index — ONI) – 1 (based on three-month running mean SST anomalies in the Niño 3.4 region): ONI is the standard US government tool for declaring El Niño and La Niña events operationally, using Niño 3.4 (not Niño 3).\n• C (Niño 1+2 region) – 4 (far eastern Pacific index most sensitive to classical El Niño onset near the Peruvian coast): Niño 1+2 covers the smallest and most coastal area and responds earliest to SST changes near Peru during classical eastern Pacific El Niño events.\n• D (Index diversity between agencies) – 2 (can produce apparently contradictory ENSO declarations in marginal years when agencies use different thresholds): IMD, NOAA, Japan Meteorological Agency, and Australian BoM use slightly different thresholds and indices, leading to divergent official declarations in borderline events.\n\nValue Addition:\n• The Niño 3.4 region (5°N–5°S, 120°W–170°W) was chosen because it shows the highest correlation with global ENSO teleconnections.\n• ONI threshold: ≥+0.5°C for five consecutive three-month periods for El Niño; ≤−0.5°C for La Niña.\n• Index divergence between agencies became publicly visible during the 2014–15 borderline El Niño, when different agencies disagreed on whether to declare an event."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (ENSO diagnostic tool or index) with List II (specific description or application):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Southern Oscillation Index (SOI)",
+            "1. Based on three-month running mean SST anomalies in the Niño 3.4 region; used by NOAA for official ENSO declarations"
+          ],
+          [
+            "B. NOAA's Oceanic Niño Index (ONI)",
+            "2. Can produce apparently contradictory ENSO declarations in marginal years when agencies use different thresholds"
+          ],
+          [
+            "C. Niño 1+2 region",
+            "3. Measures atmospheric component of ENSO as the normalized pressure difference between Tahiti and Darwin"
+          ],
+          [
+            "D. Index diversity between monitoring agencies",
+            "4. Far eastern Pacific index most sensitive to classical El Niño onset near the Peruvian coast"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-2, D-4\n(b) A-3, B-1, C-4, D-2\n(c) A-3, B-4, C-1, D-2\n(d) A-1, B-4, C-3, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "824f546e-fcd3-4c42-8d25-d48d2e942078",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "Climate Change and ENSO: Frequency, Intensity, and Pattern Shifts",
+        "ENSO Modoki (Central Pacific El Niño) vs. Classical El Niño"
+      ],
+      "subject_que_no": 2706,
+      "overall_que_no": 19680
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "IPCC AR6 ENSO intensity vs frequency distinction",
+      "statement_analysis": null,
+      "strong_distractor": "a — Stating that climate change increases both frequency and intensity of El Niño events feels comprehensive and intuitively correct to students, but frequency increase is not the IPCC AR6 projection — intensity is.",
+      "elimination_logic": [
+        "Eliminate (a): IPCC AR6 projects intensity increase, not frequency increase — 'both frequency and intensity' is a scope-extension beyond what the evidence supports.",
+        "Eliminate (b): IPCC AR6 does not project decreased ENSO activity or a cooling trend in the tropical Pacific — this is factually unsupported.",
+        "Eliminate (d): 'More frequent and weaker' contradicts both the frequency and intensity projections — El Niño events are projected to be more intense, not weaker.",
+        "Confirm (c): IPCC AR6 projects that El Niño and La Niña events will become more intense under continued warming, with a concurrent shift toward more central Pacific (Modoki) events — this is the correct characterisation of the projected changes."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap in option (a) adds 'frequency' to the correct finding of 'intensity increase.' Students who remember 'climate change makes El Niño worse' will naturally extend this to 'more frequent and more intense' — but IPCC AR6 is specific that frequency is not the primary projected change. The distinction between frequency and intensity is the entire testable dimension here.",
+      "final_explanation": "IPCC AR6's findings on ENSO under climate change require careful reading — what changes, what doesn't, and in what direction.\n\n• Option (a): Incorrect — 'both frequency and intensity' over-extends the IPCC finding. AR6 specifically projects intensity increases without a corresponding frequency increase. More frequent El Niño events is not a headline AR6 projection.\n• Option (b): Incorrect — IPCC AR6 does not project decreased or weakened ENSO activity. The projections point toward stronger individual events.\n• Option (c): Correct — IPCC AR6's key finding for ENSO under climate change is that El Niño and La Niña events will likely become more intense, and the observed trend toward more central Pacific (Modoki) events is expected to continue. This second feature is particularly important for Indian monsoon forecasting as Modoki has different teleconnection patterns.\n• Option (d): Incorrect — 'more frequent but weaker' contradicts both dimensions of the actual projection; intensity is projected to increase, and frequency is not projected to increase.\n\nValue Addition:\n• 'More intense ENSO' under warming means stronger SST anomalies and more extreme rainfall/drought impacts globally — a major food security concern.\n• The Modoki frequency increase has policy implications: historical ENSO–ISM correlations trained on classical El Niño data become less accurate.\n• Background Indian Ocean warming partly offsets La Niña's monsoon enhancement — reducing the 'good news' from La Niña years for Indian agriculture over time."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "With reference to the projections of the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6) regarding ENSO under continued global warming, which of the following statements is most accurately aligned with the report's findings?\n\n(a) Climate change is projected to increase both the frequency and intensity of El Niño and La Niña events, making ENSO disruptions more common and more extreme\n(b) IPCC AR6 projects a gradual weakening of ENSO variability as background tropical Pacific warming reduces the east-west SST gradient that drives the phenomenon\n(c) El Niño and La Niña events are projected to become more intense under global warming, with a concurrent shift toward more central Pacific (Modoki) type El Niño events\n(d) Climate change is expected to produce more frequent but weaker El Niño events as the background warming smooths out Pacific SST gradients",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "d44423be-afcc-4b88-8507-dd2cef4dbeed",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and Agricultural Impacts on Food Security",
+        "ENSO Teleconnections: Global Rainfall Patterns"
+      ],
+      "subject_que_no": 2707,
+      "overall_que_no": 19681
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "La Niña agricultural impacts — flooding vs drought crop damage",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who associate La Niña with 'good rains' for South Asia may advise increased crop cultivation expecting a bumper harvest, not recognising that excess rainfall causes waterlogging and crop damage — option (c) exploits this partial truth.",
+      "elimination_logic": [
+        "Eliminate (a): Advising against all cultivation during La Niña ignores that La Niña brings above-normal rain that can be beneficial for some crops — an over-correction that ignores nuance.",
+        "Eliminate (c): Advising blanket expansion of all crop cultivation ignores the flooding, waterlogging, and soil erosion risks that La Niña excess rainfall creates — partial truth trap.",
+        "Eliminate (d): Recommending drought-resistant crops during La Niña is the wrong ENSO phase response — drought-resistant varieties are El Niño preparedness, not La Niña preparedness.",
+        "Confirm (b): La Niña excess rainfall risk requires flood-resilient crop varieties, drainage infrastructure investments, and crop insurance for waterlogging damage — the correct agricultural preparedness response."
+      ],
+      "upsc_trap_explanation": "Option (c) is a partial-truth trap: La Niña generally enhances South Asian monsoon, which is 'good for agriculture' in a surface reading. But excess rainfall causes waterlogging, soil erosion, crop disease (fungal infections in wet conditions), and infrastructure damage — making undiscriminating expansion of cultivation risky. The partial truth is that La Niña brings rain; the missing element is that too much rain also damages crops.",
+      "final_explanation": "La Niña's agricultural impact requires distinguishing between beneficial rainfall enhancement and destructive excess — a nuanced policy distinction tested here.\n\nThe scenario presents an active La Niña and requests crop advisory for Bangladesh (a consistently La Niña-vulnerable country through flooding). The correct response must account for both the statistical rainfall enhancement AND its agricultural risk dimension.\n\n• Option (a): Incorrect — recommending against all cultivation ignores that La Niña also enables good growing conditions for well-drained crops; a blanket cultivation moratorium would be economically harmful and factually unwarranted.\n• Option (b): Correct — La Niña flooding risk requires targeted agricultural adaptation: promoting flood-tolerant rice varieties (e.g., Sub1A varieties), investing in drainage infrastructure, expanding crop insurance coverage for waterlogging losses, and avoiding low-lying areas for vulnerable crops.\n• Option (c): Incorrect — blanket expansion of cultivation without addressing drainage and flood risk leads to crop losses in the very areas most vulnerable to La Niña excess rainfall. The 2010 Pakistan La Niña flooding destroyed crops across millions of hectares despite initially being a 'good rain' year.\n• Option (d): Incorrect — drought-resistant crops are El Niño preparedness. During La Niña, the risk is not drought but flooding; drought-resistant varieties are irrelevant and divert resources from the correct adaptation.\n\nValue Addition:\n• ENSO-based seasonal forecasting allows governments to pre-position crop insurance schemes and flood relief 3–6 months in advance.\n• Flood-tolerant 'Swarna Sub1' rice varieties developed by IRRI can survive 14+ days of submergence — a direct La Niña adaptation tool.\n• Locust outbreak risk in East Africa during La Niña (excess rain promotes breeding) is a secondary pest-related agricultural impact beyond direct crop damage."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A La Niña event has been declared by the World Meteorological Organization in September of a given year, with ENSO forecasts suggesting it will persist through the following January–March. The governments of Bangladesh and Myanmar are preparing agricultural advisories for the upcoming winter and early spring crop seasons. Historical data confirms that both countries experience above-normal rainfall and widespread flooding during active La Niña years. Based on the ENSO-agriculture relationship, which of the following advisory approaches best reflects the scientific evidence?\n\n(a) Recommend that farmers avoid all cultivation during La Niña years, as the risk of crop failure is universal across all crop types due to inundation\n(b) Promote flood-tolerant crop varieties, recommend investment in drainage infrastructure, and expand crop insurance schemes for waterlogging losses, while alerting farmers in low-lying areas to reduce cultivation of flood-sensitive crops\n(c) Advise blanket expansion of cultivation across all crop types and regions because La Niña guarantees above-normal rainfall, which is uniformly beneficial for agricultural output\n(d) Recommend planting drought-resistant crop varieties as a precautionary measure, since La Niña may still cause localized rainfall deficits in some districts",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1aba6b15-9d35-47a6-a157-600e72feac09",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and the Northeast Monsoon (Retreating Monsoon) of India",
+        "ENSO and Tropical Cyclone Activity"
+      ],
+      "subject_que_no": 2708,
+      "overall_que_no": 19682
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Northeast monsoon regional specificity and cyclone-ENSO interaction",
+      "statement_analysis": [
+        {
+          "statement": "The northeast monsoon (October–December) delivers critical rainfall to Tamil Nadu, Puducherry, coastal Andhra Pradesh, and Sri Lanka — regions that receive a significant share of their annual precipitation during this season.",
+          "verdict": "Correct",
+          "reason": "The northeast monsoon is the primary rainfall season for peninsular India south of 12°N and for Sri Lanka, with Tamil Nadu receiving approximately 35% of its annual rainfall during October–December."
+        },
+        {
+          "statement": "During La Niña, the northeast monsoon over Tamil Nadu and Sri Lanka is typically enhanced because the Bay of Bengal remains warmer than usual, increasing moisture flux and cyclone activity.",
+          "verdict": "Correct",
+          "reason": "La Niña's suppression of wind shear and enhancement of Bay of Bengal SSTs both increase northeast monsoon moisture delivery and the frequency of Bay of Bengal cyclones during October–December."
+        },
+        {
+          "statement": "El Niño always suppresses the northeast monsoon over southern India, creating rainfall deficits in Tamil Nadu and Sri Lanka in every El Niño year without exception.",
+          "verdict": "Incorrect",
+          "reason": "The El Niño–northeast monsoon relationship is the opposite of its southwest monsoon relationship — El Niño can actually enhance or be neutral to the northeast monsoon in some years, and the relationship is not an absolute suppression in every El Niño year."
+        }
+      ],
+      "strong_distractor": "c — Students may accept all three statements as correct (thinking 'El Niño suppresses all Indian rain'), choosing option (d) — 1, 2 and 3 — but Statement 3's absolute suppression claim is wrong.",
+      "elimination_logic": [
+        "Confirm Statement 1: Northeast monsoon regional extent and seasonal rainfall significance — correct factual foundation.",
+        "Confirm Statement 2: La Niña enhancement of northeast monsoon via Bay of Bengal SST and cyclone activity — correct.",
+        "Identify Statement 3 as incorrect: 'always' and 'without exception' are scope-extensions; El Niño can enhance or be neutral to the northeast monsoon — opposite to its southwest monsoon effect.",
+        "Only Statements 1 and 2 are correct — option (d) — wait: options should be checked. (a) 1 only, (b) 2 only, (c) 1, 2 and 3, (d) 1 and 2 only — yes, option (d) is correct."
+      ],
+      "upsc_trap_explanation": "Statement 3 deploys a double scope-extension ('always' and 'without exception') applied to El Niño's northeast monsoon relationship. Students who correctly know that El Niño suppresses the southwest monsoon extend this logic to all Indian monsoon systems — missing the documented fact that the northeast monsoon has a different and sometimes opposite ENSO relationship.",
+      "final_explanation": "The northeast monsoon's ENSO relationship is one of the most counterintuitive and policy-relevant distinctions in Indian climate science.\n\n• Statement 1 — Correct: The northeast monsoon (October–December) is the primary rainy season for Tamil Nadu, Puducherry, southern coastal Andhra Pradesh, and Sri Lanka. Tamil Nadu receives approximately 35% of annual rainfall during this season, making it critical for agriculture, groundwater recharge, and urban water supply.\n• Statement 2 — Correct: La Niña enhances northeast monsoon through two reinforcing pathways — warmer Bay of Bengal SSTs increase evaporation and moisture loading, while reduced wind shear increases Bay of Bengal cyclone frequency and intensity. The 2021 La Niña produced Chennai's wettest northeast monsoon in several years.\n• Statement 3 — Incorrect: The El Niño–northeast monsoon relationship is NOT the same as the El Niño–southwest monsoon relationship. El Niño's atmospheric circulation anomalies during October–December can actually enhance or be neutral to the northeast monsoon in some years. The absolute claims 'always' and 'without exception' make Statement 3 factually wrong — this is precisely the UPSC-targeted opposite relationship that separates well-prepared from superficially prepared students.\n\nValue Addition:\n• Sri Lanka's Maha cultivation season (Oct–Jan) depends critically on northeast monsoon; La Niña years with enhanced northeast monsoon can boost Sri Lankan rice production.\n• Tamil Nadu's Cauvery basin irrigation scheduling uses northeast monsoon forecasts incorporating ENSO state.\n• The 2021 northeast monsoon was classified as exceptionally active — linked to active La Niña and above-normal Bay of Bengal temperatures."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the northeast monsoon of India and its relationship with ENSO:\n\n1. The northeast monsoon (October–December) delivers critical rainfall to Tamil Nadu, Puducherry, coastal Andhra Pradesh, and Sri Lanka — regions that receive a significant share of their annual precipitation during this season.\n2. During La Niña, the northeast monsoon over Tamil Nadu and Sri Lanka is typically enhanced because the Bay of Bengal remains warmer than usual, increasing moisture flux and cyclone activity.\n3. El Niño always suppresses the northeast monsoon over southern India, creating rainfall deficits in Tamil Nadu and Sri Lanka in every El Niño year without exception.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1, 2 and 3\n(d) 1 and 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3b3dc395-0c14-41e2-8274-48e02b934076",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO Prediction and Forecasting Limitations",
+        "ENSO and Eurasian Snow Cover: Teleconnection to Indian Monsoon"
+      ],
+      "subject_que_no": 2709,
+      "overall_que_no": 19683
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "identify-the-pair",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Blanford Hypothesis year and IMD forecast reform year",
+      "statement_analysis": null,
+      "strong_distractor": "b — Pairing the 2002 monsoon forecast failure with 'La Niña year' sounds plausible to students who know 2002 was a drought year but misremember the ENSO phase — 2002 was an El Niño year, not La Niña.",
+      "elimination_logic": [
+        "Evaluate (a): Blanford Hypothesis proposed in 1894 — incorrect; it was 1884, not 1894 — temporal-swap trap.",
+        "Evaluate (b): 2002 monsoon forecast failure paired with 'La Niña year' — incorrect; 2002 was an El Niño year, not La Niña.",
+        "Evaluate (c): Spring predictability barrier — ENSO forecasts spanning January–February are least reliable — incorrect; the barrier applies to boreal spring (March–May), not January–February.",
+        "Evaluate (d): IMD's long-range monsoon forecast using multi-model ensemble including Eurasian snow cover as one of several inputs — correct; IMD operationally uses ENSO, IOD, and Eurasian snow cover among multiple predictors."
+      ],
+      "upsc_trap_explanation": "Option (a) deploys a temporal-swap, changing 1884 to 1894 — a one-decade shift that students who know the Blanford Hypothesis is from the 'late 19th century' may not catch. Option (b) performs an ENSO-phase swap, changing El Niño to La Niña for the 2002 drought year — exploiting students who remember the drought but not the specific ENSO phase that caused it.",
+      "final_explanation": "ENSO forecasting history pairs require precise knowledge of dates, ENSO phases, and institutional methodologies.\n\n• Option (a): Incorrectly matched — the Blanford Hypothesis was proposed in 1884, not 1894. H.F. Blanford published his analysis of Himalayan snow cover and Indian monsoon in Nature in 1884 — a decade difference that is a classic temporal-swap trap.\n• Option (b): Incorrectly matched — the 2002 monsoon forecast failure occurred during an El Niño year, not a La Niña year. El Niño conditions in 2002 contributed to one of India's worst droughts, and IMD's initial forecast of near-normal monsoon proved catastrophically wrong.\n• Option (c): Incorrectly matched — the spring predictability barrier refers to forecasts spanning March–May (boreal spring), not January–February. ENSO predictions that must bridge March–April face reduced skill because tropical Pacific SSTs undergo rapid changes during this season.\n• Option (d): Correctly matched — IMD's operational long-range monsoon forecast is a multi-model ensemble that uses ENSO state (Niño 3.4), IOD, Eurasian snow cover, and several other regional predictors. Snow cover is explicitly used as a winter-season predictor for the subsequent monsoon.\n\nValue Addition:\n• H.F. Blanford (1884) was the first Director-General of the India Meteorological Department — his snow-monsoon hypothesis came from his institutional role.\n• The 2002 forecast failure led to a Pulwarty-Manton review that recommended multi-model ensemble approaches for IMD.\n• IMD issues its first long-range monsoon forecast in April and updates it in June — both spanning the spring predictability barrier."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to ENSO forecasting history and methodology is correctly matched?\n\n(a) Blanford Hypothesis : First proposed in 1894, establishing the link between Himalayan snow cover and the Indian Summer Monsoon\n(b) 2002 Indian monsoon forecast failure : Occurred during a La Niña year and exposed limitations in model accuracy for below-normal monsoon prediction\n(c) Spring predictability barrier : ENSO forecasts that span the January–February period are least reliable because Pacific SSTs are most volatile during northern winter\n(d) IMD long-range monsoon forecasting : Uses a multi-model ensemble approach incorporating ENSO state, IOD, and Eurasian snow cover as inputs alongside other regional predictors",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7badc482-4341-4449-9be4-697f5fcaa5ec",
+      "language": "en",
+      "subject": "Geography",
+      "topic": "Oceanography",
+      "sub_topic": "ENSO — global impacts on rainfall, drought, agriculture",
+      "concepts_used": [
+        "ENSO and the Bjerknes Feedback (Positive Feedback Loop)",
+        "ENSO Cycle: Neutral, El Niño, and La Niña States"
+      ],
+      "subject_que_no": 2710,
+      "overall_que_no": 19684
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Bjerknes feedback positive vs negative feedback distinction",
+      "statement_analysis": null,
+      "strong_distractor": "c — 'Negative feedback that self-limits El Niño once it peaks' sounds technically accurate because negative feedbacks do eventually terminate El Niño — but the Bjerknes feedback itself is a POSITIVE feedback; the negative feedbacks come from Kelvin/Rossby waves, not from the Bjerknes mechanism.",
+      "elimination_logic": [
+        "Eliminate (b): 'Neutral equilibrium feedback' is not a real climate science term and mischaracterises the Bjerknes mechanism.",
+        "Eliminate (c): Bjerknes feedback is a POSITIVE, not negative, feedback — the self-limiting mechanism is provided by Kelvin/Rossby waves, not by Bjerknes.",
+        "Eliminate (d): 'Meridional overturning circulation' is a thermohaline circulation concept unrelated to Bjerknes feedback in ENSO.",
+        "Confirm (a): Bjerknes feedback is a positive feedback where warm eastern Pacific SST weakens trades, which reduces upwelling and further warms SST — a self-amplifying loop that explains rapid El Niño intensification."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in option (c) substitutes 'negative feedback' for 'positive feedback' in the Bjerknes mechanism description. This is attractive because students know that El Niño eventually self-limits — but that self-limitation comes from Kelvin/Rossby wave negative feedbacks, not from the Bjerknes mechanism itself. Conflating 'ENSO ends' with 'Bjerknes is negative' is the core error.",
+      "final_explanation": "The Bjerknes feedback is foundational to understanding why El Niño intensifies rapidly once initiated.\n\n• Option (a): Correct — Bjerknes feedback is a positive feedback: the warm SST anomaly in the eastern Pacific weakens trade winds (less cold-water upwelling needed to balance), which allows the SST to warm further, which further weakens trades, and so on. This amplification explains why El Niño events can intensify rapidly from borderline to strong within a single season.\n• Option (b): Incorrect — 'neutral equilibrium feedback' has no meaning in ENSO dynamics; it is not a recognised climate feedback classification.\n• Option (c): Incorrect — this correctly identifies that El Niño eventually self-limits but misattributes this to the Bjerknes mechanism. Bjerknes is a positive (amplifying) feedback; the negative (limiting) feedbacks are oceanic Kelvin and Rossby wave reflections that shoal the thermocline and terminate El Niño.\n• Option (d): Incorrect — meridional overturning circulation (thermohaline/AMOC) is a deep ocean process driven by density differences, entirely separate from the surface-layer equatorial Pacific dynamics of the Bjerknes feedback.\n\nValue Addition:\n• Bjerknes (1969) showed that the ocean-atmosphere coupling in the tropical Pacific operates as a coupled instability — revolutionary for climate science.\n• The strength of the Bjerknes feedback varies by event — strong feedback years (1997–98, 2015–16) produced super El Niños while weaker feedback produces moderate events.\n• Monitoring trade wind anomalies in real-time is one way to track Bjerknes feedback strength during El Niño development."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The ________ describes the self-amplifying coupling between ocean and atmosphere in the tropical Pacific during El Niño, whereby anomalous SST warming in the eastern Pacific weakens trade winds, which reduces cold-water upwelling, which in turn further warms the eastern Pacific SSTs, creating a rapidly intensifying cycle.\n\n(a) Bjerknes feedback — a positive feedback mechanism that explains why El Niño intensifies once it is initiated\n(b) Bjerknes feedback — a neutral equilibrium feedback that maintains the ENSO cycle in a steady oscillatory state\n(c) Bjerknes feedback — a negative feedback that self-limits El Niño once it peaks by redirecting warm water toward the western Pacific\n(d) Bjerknes feedback — a meridional overturning circulation response that connects eastern Pacific SST warming to deep thermohaline adjustments",
+      "table_data": null
+    }
+  }
+]

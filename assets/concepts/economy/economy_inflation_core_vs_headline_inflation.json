@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Inflation",
+  "sub_topic": "Core vs headline inflation",
+  "concepts": [
+    {
+      "name": "Definition and Compositional Distinction: Core vs Headline Inflation",
+      "key_dimensions": [
+        "Headline inflation includes all goods/services in the price index (food, fuel, and core); core inflation explicitly excludes food and energy components",
+        "Rationale for exclusion: food and energy prices are supply-shock driven and volatile, not reflective of demand-side pressures",
+        "Common UPSC trap: 'Core inflation is always lower than headline inflation' — this is FALSE; core can exceed headline during commodity price crashes",
+        "WPI vs CPI context: both have headline measures, but core derivation differs across indices"
+      ]
+    },
+    {
+      "name": "CPI-Based Headline Inflation: Structure and Weights",
+      "key_dimensions": [
+        "CPI (Combined) is the official inflation benchmark for monetary policy in India since 2014",
+        "Weights: Food and Beverages (~45.86%), Fuel and Light (~6.84%), Miscellaneous (~28.32%) — food dominates, making CPI headline highly volatile",
+        "Base year revision: 2012=100 (current); implications of base year change on measured inflation",
+        "Rural vs Urban CPI: different weights assigned, leading to divergence in measured inflation across segments"
+      ]
+    },
+    {
+      "name": "WPI-Based Headline Inflation: Composition and Policy Relevance",
+      "key_dimensions": [
+        "WPI measures wholesale price changes at the producer/trader level; base year 2011-12",
+        "Three major groups: Primary Articles (~22.6%), Fuel & Power (~13.1%), Manufactured Products (~64.2%)",
+        "WPI is no longer the primary policy anchor but remains relevant for deflating GDP and tracking supply-side inflation",
+        "UPSC trap: WPI does not include services; CPI does — this is a critical structural difference"
+      ]
+    },
+    {
+      "name": "Core Inflation Measurement in India: Methodological Variations",
+      "key_dimensions": [
+        "India has no officially published 'core inflation' series; it is derived by excluding food and fuel from CPI — making it a computed, not a notified, measure",
+        "RBI uses 'CPI excluding food and fuel' as its operational proxy for core inflation",
+        "Alternative measures: 'trimmed mean inflation' and 'weighted median inflation' used globally but not standard in India",
+        "UPSC angle: absence of an official core inflation series means analysts may report different core figures — a deliberate examination trap"
+      ]
+    },
+    {
+      "name": "Role of Core Inflation in RBI's Monetary Policy Framework",
+      "key_dimensions": [
+        "Flexible Inflation Targeting (FIT) framework (2016): RBI mandated to keep CPI headline inflation at 4% ±2% — headline, NOT core, is the legal target",
+        "Yet RBI's MPC deliberations rely heavily on core inflation trends to assess demand-side pressures before changing repo rate",
+        "Persistent core inflation signals entrenched inflation expectations, prompting rate hikes even when headline is supply-driven",
+        "UPSC trap: students confuse the 'target' (headline CPI) with the 'diagnostic tool' (core inflation) — these are different roles"
+      ]
+    },
+    {
+      "name": "Flexible Inflation Targeting (FIT) Framework and Inflation Band",
+      "key_dimensions": [
+        "Established under amended RBI Act Section 45ZA; target set by Government of India in consultation with RBI every 5 years",
+        "Current target: 4% CPI with upper tolerance of 6% and lower tolerance of 2% (effective 2016, renewed 2021 for 2021-26)",
+        "Breach condition: if inflation remains outside 6% or below 2% for three consecutive quarters, RBI must report to government — a critical accountability mechanism",
+        "FIT uses headline CPI, not core: this is because food inflation directly impacts household welfare and inflation expectations in India"
+      ]
+    },
+    {
+      "name": "Food Inflation: Why It Dominates Indian Headline Inflation",
+      "key_dimensions": [
+        "Food and beverages weight ~45.86% in CPI — among the highest weightage globally for a major economy; reflects consumption patterns of lower-income households",
+        "Structural drivers: monsoon dependency, MSP revisions, supply chain inefficiencies, vegetable price spikes (perishables like tomatoes, onions)",
+        "High food inflation creates 'base effect' distortions that can make headline appear to moderate even when underlying pressures persist",
+        "Policy tension: RBI cannot control food inflation through rate hikes (supply-side issue), yet it breaches the headline target — this is the core-headline policy dilemma"
+      ]
+    },
+    {
+      "name": "Fuel and Energy Inflation: The Second Excluded Component",
+      "key_dimensions": [
+        "Fuel and Light weight in CPI (~6.84%); includes LPG, kerosene, firewood — not petrol/diesel directly in CPI fuel sub-index",
+        "Petrol and diesel are captured under 'Transport' in CPI Miscellaneous group — UPSC trap on where fuel prices actually appear in CPI",
+        "Energy price volatility is global and supply-driven (OPEC decisions, geopolitical events); monetary policy cannot address it, justifying exclusion from core",
+        "Administered vs market prices: India's partially administered fuel prices can suppress or amplify measured fuel inflation, distorting headline figures"
+      ]
+    },
+    {
+      "name": "Stagflation and the Core-Headline Divergence Problem",
+      "key_dimensions": [
+        "Stagflation: simultaneous high inflation and low/negative growth — headline inflation rises (food/fuel shocks) while core inflation remains low or moderate",
+        "Policy dilemma: rate hikes to control headline stagflation damage growth further; rate cuts to boost growth worsen inflation",
+        "India's experience: 2011-13 period saw high headline CPI alongside slowing growth — classic core-headline divergence driven by food and fuel",
+        "Core inflation as the true barometer: low core during stagflation suggests demand is weak, rate hikes are counterproductive — a key MPC reasoning tool"
+      ]
+    },
+    {
+      "name": "Inflation Expectations and the Transmission from Headline to Core",
+      "key_dimensions": [
+        "Persistent headline inflation (even if supply-driven) can de-anchor inflation expectations, causing wage-price spirals that eventually embed into core inflation",
+        "Second-round effects: high food prices → demand for higher wages → higher manufacturing costs → core inflation rises with a lag",
+        "RBI's Inflation Expectations Survey of Households: tracks 3-month and 1-year ahead expectations; used to assess whether headline-to-core transmission is occurring",
+        "UPSC angle: headline inflation is the 'trigger,' core inflation is the 'consequence' of unanchored expectations — this sequence is important for prelims and mains"
+      ]
+    },
+    {
+      "name": "GDP Deflator vs CPI vs WPI: Overlaps and Distinctions",
+      "key_dimensions": [
+        "GDP Deflator = Nominal GDP / Real GDP × 100; broadest measure of economy-wide inflation, includes services not in WPI",
+        "GDP Deflator is not a 'cost of living' index; CPI is — this is the key functional distinction",
+        "WPI used for deflating manufacturing sector output in national accounts; GDP Deflator is the aggregate",
+        "UPSC trap: 'Which is the most comprehensive inflation measure?' — GDP Deflator, not CPI or WPI, because it covers the entire economy"
+      ]
+    },
+    {
+      "name": "Base Effect in Inflation Measurement",
+      "key_dimensions": [
+        "Base effect: a high price level in the base year makes current inflation appear lower (favorable base effect) and vice versa",
+        "Critically affects headline more than core: food and fuel prices are more volatile, creating stronger base effects in headline CPI",
+        "RBI explicitly adjusts for base effects in MPC statements when interpreting monthly inflation data",
+        "UPSC trap: a 'fall in inflation' due to base effect does NOT mean prices fell — only the rate of increase slowed; price level can still be rising"
+      ]
+    },
+    {
+      "name": "Monetary Policy Transmission: Why Core Inflation is More Rate-Sensitive",
+      "key_dimensions": [
+        "Core inflation (manufactured goods, services) is driven by demand-side factors — credit growth, consumption spending — which are directly influenced by interest rates",
+        "Food and fuel inflation are supply-determined; raising repo rate does not reduce tomato prices or crude oil prices",
+        "Transmission channels: repo rate → bank lending rates → credit demand → consumption/investment → demand-pull core inflation",
+        "Implication for UPSC mains: when RBI hikes rates to 'control inflation,' it is operationally targeting core inflation mechanisms, even though the legal mandate is headline CPI"
+      ]
+    },
+    {
+      "name": "Producer Price Index (PPI) vs WPI: The Unrealized Transition",
+      "key_dimensions": [
+        "India uses WPI as producer-level price index; globally, PPI is standard (used by USA, EU) — India has been deliberating PPI adoption since 2014 Urjit Patel Committee",
+        "WPI measures prices at the wholesale/first point of sale; PPI measures prices from the producer's perspective, excluding trade margins",
+        "PPI would give a cleaner measure of supply-side inflationary pressure, separating production cost inflation from distribution inflation",
+        "UPSC relevance: committee recommendations for PPI adoption appear in economic surveys; question on 'why India should shift from WPI to PPI' is a recurring mains theme"
+      ]
+    },
+    {
+      "name": "Disinflation vs Deflation vs Negative Inflation: Conceptual Traps",
+      "key_dimensions": [
+        "Disinflation: inflation rate is falling but still positive (e.g., from 6% to 3%) — prices still rising, just slower",
+        "Deflation: general price level is falling (negative inflation rate) — associated with demand collapse, debt deflation spiral",
+        "India experienced WPI deflation in 2015-16 (negative WPI) while CPI remained positive — highlights index-level divergence",
+        "UPSC trap: 'WPI deflation means prices fell for consumers' — FALSE; CPI remained above 4% during the same period, showing core-headline and WPI-CPI simultaneous divergence"
+      ]
+    },
+    {
+      "name": "Suppressed Inflation and Administered Prices in India",
+      "key_dimensions": [
+        "Suppressed inflation: government-controlled prices (fuel, fertilizers, electricity) keep measured inflation artificially low; when decontrolled, inflation surges",
+        "India's fuel price deregulation (petrol in 2010, diesel in 2014) caused a one-time headline inflation spike — this is 'price level adjustment,' not structural inflation",
+        "Administered prices affect headline inflation directly but may not affect core inflation if they don't trigger second-round wage-price effects",
+        "MSP for agricultural commodities: upward MSP revisions directly feed into food inflation component of headline CPI — a deliberate policy-inflation linkage UPSC tests"
+      ]
+    },
+    {
+      "name": "K-Core and Trimmed Mean: Alternative Core Inflation Measures",
+      "key_dimensions": [
+        "Trimmed mean inflation: excludes a fixed percentage of items with the highest and lowest price changes each period — captures a dynamic 'core' rather than fixed exclusion",
+        "K-core: excludes the top and bottom K% of items by price change magnitude; more robust than simple food-fuel exclusion",
+        "These measures are used in academic RBI research papers and have appeared in Economic Survey discussions — relevant for advanced mains answers",
+        "UPSC angle: question on 'limitations of conventional core inflation measurement' requires knowledge of these alternatives to score differentiated marks"
+      ]
+    },
+    {
+      "name": "Global Commodity Prices and Import-Driven (Cost-Push) Headline Inflation",
+      "key_dimensions": [
+        "India is a net importer of crude oil, edible oils, and pulses — global price shocks directly transmit to domestic headline inflation through import channel",
+        "Exchange rate depreciation amplifies import inflation: rupee weakening → higher import costs → higher fuel and commodity prices → headline CPI rises",
+        "This is 'imported inflation' — beyond RBI's direct control, yet it breaches headline targets, creating accountability pressure under FIT",
+        "Core inflation remains insulated from short-term commodity shocks but can be affected if import costs persist and feed into manufactured goods prices over time"
+      ]
+    },
+    {
+      "name": "Urjit Patel Committee Recommendations (2014): Institutionalizing Headline CPI as Target",
+      "key_dimensions": [
+        "Expert Committee to Revise and Strengthen the Monetary Policy Framework (2014) — chaired by Urjit Patel; recommended CPI as nominal anchor over WPI",
+        "Recommended glide path: CPI below 8% by Jan 2015, below 6% by Jan 2016, 4% ±2% thereafter — which was institutionalized in the 2016 FIT framework",
+        "Committee explicitly chose headline CPI (not core) because food inflation directly affects the poor and influences inflation expectations in India's context",
+        "UPSC trap: students attribute FIT solely to RBI Act amendment — but the intellectual foundation was the Urjit Patel Committee; both are needed for complete answers"
+      ]
+    },
+    {
+      "name": "Core Inflation Stickiness and Its Implications for Rate Cut Decisions",
+      "key_dimensions": [
+        "Core inflation is 'sticky' — it does not fall as quickly as headline inflation because services pricing (rentals, education, healthcare) adjusts slowly downward",
+        "Post-COVID India: headline CPI moderated due to base effects and food price correction, but core inflation remained elevated (~5-6%), preventing aggressive rate cuts",
+        "RBI's communication challenge: explaining why rates remain high when headline appears benign — answer lies in sticky core inflation",
+        "UPSC mains question pattern: 'Despite headline inflation moderating, RBI maintained repo rate. Analyze.' — requires core inflation stickiness as central argument"
+      ]
+    }
+  ]
+}

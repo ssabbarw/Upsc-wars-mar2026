@@ -1,0 +1,187 @@
+{
+  "subject": "Geography",
+  "topic": "Climatology",
+  "sub_topic": "Climate classification — Koppen system",
+  "concepts": [
+    {
+      "name": "Foundations and Logic of the Köppen Classification System",
+      "key_dimensions": [
+        "Basis of classification: vegetation as proxy for climate (empirical vs. genetic approach)",
+        "Role of Wladimir Köppen and subsequent modifications by Geiger and Trewartha",
+        "Use of temperature and precipitation thresholds (not wind, humidity, or pressure) — common trap",
+        "Limitations: static boundaries, inability to capture microclimates or transitional zones"
+      ]
+    },
+    {
+      "name": "The Köppen Letter Code System: Structure and Hierarchy",
+      "key_dimensions": [
+        "First-order letters (A, B, C, D, E) and their primary defining criteria",
+        "Second-order letters (s, w, f, m) indicating seasonal precipitation patterns",
+        "Third-order letters (a, b, c, d, h, k) indicating temperature sub-types",
+        "UPSC trap: 'f' meaning no dry season (not 'forest') and distinguishing Af vs Am vs Aw"
+      ]
+    },
+    {
+      "name": "Group A (Tropical Climates): Criteria and Sub-types",
+      "key_dimensions": [
+        "Defining threshold: all months above 18°C, no winter — distinguishing from C climates",
+        "Af (Tropical Rainforest): no dry month, uniform rainfall — Amazon, Congo, Western Ghats",
+        "Am (Tropical Monsoon): short dry season compensated by heavy annual rainfall — India's west coast",
+        "Aw (Tropical Savanna): distinct dry season in winter — Deccan Plateau, Brazilian Cerrado"
+      ]
+    },
+    {
+      "name": "Am vs Aw: The Monsoon-Savanna Distinction (High UPSC Trap Zone)",
+      "key_dimensions": [
+        "Am threshold: driest month rainfall > 100 − r/25 (compensatory moisture formula)",
+        "Why India's west coast is Am and not Aw despite having a dry season",
+        "Why parts of peninsular India and Maharashtra are Aw not Am",
+        "Overlap confusion: monsoon rainfall intensity vs. distribution pattern"
+      ]
+    },
+    {
+      "name": "Group B (Arid and Semi-Arid Climates): Defining Logic",
+      "key_dimensions": [
+        "Unique feature: B climates defined by potential evapotranspiration exceeding precipitation, not temperature",
+        "BWh (Hot Desert), BWk (Cold Desert), BSh (Hot Steppe), BSk (Cold Steppe) — sub-type logic",
+        "Why Thar Desert is BWh but Ladakh/Tibetan Plateau is BWk or ET — altitude trap",
+        "Comparison: BW (true desert) vs BS (steppe) threshold: 50% of the B/non-B boundary rainfall"
+      ]
+    },
+    {
+      "name": "BWh vs BWk: Hot and Cold Desert Distinction",
+      "key_dimensions": [
+        "Threshold: mean annual temperature above or below 18°C",
+        "BWh examples: Sahara, Thar, Arabian Desert; BWk: Gobi, Taklamakan, Patagonian Desert",
+        "Why Gobi is cold desert despite being in Asia's interior — continentality effect",
+        "UPSC trap: Cold deserts in India (Ladakh, Spiti) — which Köppen sub-type applies"
+      ]
+    },
+    {
+      "name": "Group C (Temperate/Mesothermal Climates): Criteria and Global Distribution",
+      "key_dimensions": [
+        "Defining thresholds: coldest month between −3°C and 18°C; at least one month above 10°C",
+        "Sub-types: Cfa (Humid Subtropical), Cfb (Oceanic/Marine West Coast), Csa/Csb (Mediterranean)",
+        "Why Mediterranean coasts, Southeast USA, and Western Europe have different C sub-types",
+        "India connection: parts of NE India and Nilgiris approach C climates — examiner trap"
+      ]
+    },
+    {
+      "name": "Mediterranean Climate (Csa/Csb): Characteristics and Global Occurrence",
+      "key_dimensions": [
+        "Defining feature: dry summer (precipitation in driest summer month < 1/3 of wettest winter month)",
+        "Five global occurrences: Mediterranean basin, California, Chile, SW Australia, South Africa's Cape",
+        "Why Mediterranean climate exists only on WEST coasts of continents between 30°–45° latitudes",
+        "Csa vs Csb: hottest month above/below 22°C — vineyards, citrus vs. cool-summer orchards"
+      ]
+    },
+    {
+      "name": "Cfa (Humid Subtropical) Climate: India and Global Context",
+      "key_dimensions": [
+        "Criteria: no dry season, hottest month above 22°C, coldest month above −3°C",
+        "Global distribution: SE USA, SE China, parts of South America, NE India (Assam region)",
+        "Distinguishing Cfa from Aw: both have summer rain but differ in winter temperature",
+        "Why parts of West Bengal and Assam may be classified Cfa — monsoon + mild winter combination"
+      ]
+    },
+    {
+      "name": "Cfb (Marine West Coast/Oceanic Climate): Features and Significance",
+      "key_dimensions": [
+        "Criteria: no dry season, no month above 22°C but 4+ months above 10°C — mild, equable climate",
+        "Distribution: Western Europe (UK, France, Germany), Pacific NW USA, NZ, Southern Chile",
+        "Why Western Europe has Cfb despite high latitude — North Atlantic Drift (warm ocean current) role",
+        "Contrast with Dfb (same temperature but continental — cold winters): UPSC overlap trap"
+      ]
+    },
+    {
+      "name": "Group D (Continental/Microthermal Climates): Criteria and Sub-types",
+      "key_dimensions": [
+        "Defining threshold: coldest month below −3°C, warmest month above 10°C — absent in Southern Hemisphere (no large landmass)",
+        "Sub-types: Dfa/Dfb (humid continental), Dfc/Dfd (subarctic/boreal), Dwa/Dwb (monsoon-influenced)",
+        "Why Group D climates are absent south of equator — continental mass distribution trap",
+        "Taiga/Boreal forest associated with Dfc — Russia, Canada, Scandinavia"
+      ]
+    },
+    {
+      "name": "Group E (Polar Climates): ET vs EF Distinction",
+      "key_dimensions": [
+        "ET (Tundra): warmest month between 0°C and 10°C — supports low shrubs, mosses, lichens",
+        "EF (Ice Cap): warmest month below 0°C — perpetual ice, no vegetation (Antarctica, Greenland interior)",
+        "Why Antarctica is EF but Arctic coasts are ET — temperature threshold significance",
+        "UPSC trap: Tibetan Plateau — ET or H climate? Altitude vs. latitude-based classification debate"
+      ]
+    },
+    {
+      "name": "Highland (H) Climate: The Unofficial Sixth Group",
+      "key_dimensions": [
+        "Not part of original Köppen system — added by later geographers to address altitude-driven climates",
+        "Vertical zonation: same mountain may pass through A→C→D→E as altitude increases",
+        "Himalayas, Andes, Rockies, Ethiopian Highlands — H climate classification",
+        "UPSC trap: why Leh/Ladakh cannot be simply classified as E — complex highland vs polar distinction"
+      ]
+    },
+    {
+      "name": "India's Climate Types Under Köppen Classification",
+      "key_dimensions": [
+        "Mapping India: Aw (most of peninsula), Am (west coast, NE India coastal), BWh (Thar), BSh (Rajasthan fringe, Deccan rain shadow)",
+        "Cwg (Gangetic Plains variant) — Cw with hot dry summer: 'g' for Ganges — examiner favorite",
+        "ET/H (Himalayas, Ladakh, Sikkim highlands) — altitude modification",
+        "UPSC trap: why there is no Af climate in India despite heavy rainfall in Cherrapunji — seasonal distribution disqualifies it"
+      ]
+    },
+    {
+      "name": "Cwg Climate: The Gangetic Plain Special Case",
+      "key_dimensions": [
+        "Cw: C climate with dry winter; 'g' suffix for 'Gangetic' — hottest month before summer solstice (pre-monsoon peak in May–June)",
+        "Why hottest month is May/June not July in Gangetic Plains — monsoon cooling effect after June",
+        "Distinguishing Cwg from Aw: winter temperature threshold (C vs A) and pre-monsoon heat peak",
+        "Geographic extent: Indo-Gangetic Plain, parts of Madhya Pradesh and Chhattisgarh"
+      ]
+    },
+    {
+      "name": "Precipitation Seasonality Codes: f, s, w, m — Rules and Traps",
+      "key_dimensions": [
+        "'f' (feucht = moist): no dry season — all months receive adequate rain; applies to A, C, D groups",
+        "'w' (winter dry): driest month in winter has < 10% of annual rainfall (for A climates: < 60mm)",
+        "'s' (summer dry): characteristic of Mediterranean; driest summer month < 30mm AND < 1/3 of wettest winter month",
+        "'m' (monsoon): special A sub-type — short dry season but high enough annual rain to sustain rainforest"
+      ]
+    },
+    {
+      "name": "Temperature Sub-codes: a, b, c, d in C and D Groups",
+      "key_dimensions": [
+        "'a': hottest month above 22°C (hot summer) — Cfa, Csa, Dfa",
+        "'b': hottest month below 22°C but 4+ months above 10°C (warm summer) — Cfb, Dfb",
+        "'c': fewer than 4 months above 10°C (cool short summer) — Cfc, Dfc (Subarctic)",
+        "'d': coldest month below −38°C (extremely cold winter) — Dfd, Dwd — found only in Siberia (Verkhoyansk trap)"
+      ]
+    },
+    {
+      "name": "Köppen Boundaries and Their Correspondence with Natural Vegetation",
+      "key_dimensions": [
+        "Köppen's original intent: climate boundaries should match vegetation boundaries (e.g., treeline = ET/EF boundary)",
+        "A/C boundary: 18°C coldest month isotherm — corresponds to tropical vs subtropical vegetation shift",
+        "C/D boundary: −3°C coldest month — corresponds to frost-tolerant vs frost-hardy deciduous forest shift",
+        "D/E boundary: 10°C warmest month — corresponds to treeline (boreal forest vs tundra)"
+      ]
+    },
+    {
+      "name": "Comparison: Köppen vs Thornthwaite vs Trewartha Classification Systems",
+      "key_dimensions": [
+        "Köppen: empirical, temperature + precipitation data, vegetation proxy — most widely used",
+        "Thornthwaite: uses potential evapotranspiration (PET) and moisture index — more process-based",
+        "Trewartha: modified Köppen — added Group H, modified D/C boundary, better for tropics",
+        "UPSC angle: which system is more relevant for India? — monsoon climate better captured by modified systems"
+      ]
+    },
+    {
+      "name": "Climate Change Impacts on Köppen Zone Boundaries",
+      "key_dimensions": [
+        "Poleward and upward shift of climate zones — C climates expanding at expense of D climates",
+        "Aridification: expansion of B climates (BSh/BWh) into former Aw zones — Sahel, Rajasthan fringe",
+        "Shrinkage of E (polar) zones — Arctic tundra converting to boreal, glacial retreat",
+        "India-specific: shifts in Am/Aw boundary due to changing monsoon intensity and variability"
+      ]
+    }
+  ]
+}

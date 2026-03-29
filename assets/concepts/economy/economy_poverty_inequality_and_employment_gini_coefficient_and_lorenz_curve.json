@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Poverty, Inequality and Employment",
+  "sub_topic": "Gini coefficient and Lorenz curve",
+  "concepts": [
+    {
+      "name": "Lorenz Curve: Construction and Geometric Interpretation",
+      "key_dimensions": [
+        "How cumulative population share (x-axis) maps against cumulative income/wealth share (y-axis)",
+        "The role of the 45-degree line of perfect equality as a reference benchmark",
+        "Why the Lorenz curve always lies below or on the line of perfect equality (convexity property)",
+        "Distinction between Lorenz curves for income vs. wealth distributions and what a crossing Lorenz curve implies"
+      ]
+    },
+    {
+      "name": "Gini Coefficient: Mathematical Definition and Derivation from Lorenz Curve",
+      "key_dimensions": [
+        "Gini = Area A / (Area A + Area B), where A is the gap between perfect equality line and Lorenz curve",
+        "Range of Gini coefficient: 0 (perfect equality) to 1 (perfect inequality) — why it cannot exceed 1",
+        "Alternative formula: Gini as half the relative mean absolute difference between all pairs of incomes",
+        "UPSC trap: Gini of 0 does not mean zero poverty; it means equal distribution at any income level"
+      ]
+    },
+    {
+      "name": "Perfect Equality vs. Perfect Inequality: Extreme Cases on the Lorenz Curve",
+      "key_dimensions": [
+        "Perfect equality: Lorenz curve coincides with the 45-degree diagonal; Gini = 0",
+        "Perfect inequality: Lorenz curve runs along both axes (one person owns everything); Gini = 1",
+        "Why pure perfect inequality is a theoretical construct never observed in practice",
+        "Policy implication: Any real economy's Lorenz curve lies strictly between these two extremes"
+      ]
+    },
+    {
+      "name": "Gini Coefficient as a Measure of Relative vs. Absolute Inequality",
+      "key_dimensions": [
+        "Gini captures relative inequality (shares), not absolute income gaps — critical distinction",
+        "Two countries with same Gini can have vastly different absolute poverty levels (UPSC trap)",
+        "Why economic growth can reduce absolute poverty while Gini remains unchanged or worsens",
+        "Comparison with absolute inequality measures like the Theil Index and Atkinson Index"
+      ]
+    },
+    {
+      "name": "Limitations and Criticisms of the Gini Coefficient",
+      "key_dimensions": [
+        "Insensitivity to where inequality occurs: same Gini can result from inequality at top vs. bottom of distribution",
+        "Cannot capture multidimensional inequality (health, education, gender) — contrast with MPI",
+        "Crossing Lorenz curves problem: two distributions with crossing curves can yield identical Gini values",
+        "Does not account for negative incomes, making it less reliable for wealth inequality measurement"
+      ]
+    },
+    {
+      "name": "Crossing Lorenz Curves and Ambiguity in Inequality Comparison",
+      "key_dimensions": [
+        "When two Lorenz curves intersect, neither distribution unambiguously dominates the other",
+        "Lorenz dominance: Distribution A is unambiguously more equal than B only if A's curve never crosses B's",
+        "Implication: Gini alone cannot rank societies when curves cross — need supplementary measures",
+        "UPSC angle: This is why a single statistic like Gini is insufficient for comprehensive policy analysis"
+      ]
+    },
+    {
+      "name": "India's Gini Coefficient: Trends and Contextual Data",
+      "key_dimensions": [
+        "India's income Gini (approx. 0.35–0.38) vs. wealth Gini (approx. 0.65–0.74) — stark divergence",
+        "Oxfam and World Inequality Report findings: top 1% holding disproportionate wealth share in India",
+        "Rural vs. urban Gini differences and the role of land ownership in wealth concentration",
+        "Post-liberalisation trend: India's Gini has risen, suggesting growth has not been uniformly inclusive"
+      ]
+    },
+    {
+      "name": "Global Gini Comparisons and India's Position",
+      "key_dimensions": [
+        "High-inequality countries: South Africa (~0.63), Brazil (~0.53); low-inequality: Nordic countries (~0.25–0.29)",
+        "India vs. China Gini comparison — China's Gini rose sharply with rapid growth (Kuznets curve link)",
+        "Between-country vs. within-country Gini: global inequality measured by combining both components",
+        "UPSC trap: A lower Gini than a peer nation does not imply lower poverty — purchasing power and base income matter"
+      ]
+    },
+    {
+      "name": "Kuznets Inverted-U Hypothesis and Its Relationship with the Gini Coefficient",
+      "key_dimensions": [
+        "Kuznets curve: inequality (Gini) first rises then falls as per-capita income increases during development",
+        "Stages: agrarian economy → industrialisation (Gini rises) → mature economy (Gini falls)",
+        "Empirical criticism: Many developing nations show rising Gini even at advanced stages — hypothesis challenged",
+        "India's trajectory as a test case: IT/services-led growth vs. manufacturing-led growth and inequality outcomes"
+      ]
+    },
+    {
+      "name": "Wealth Gini vs. Income Gini: Why Wealth Inequality Is Always Higher",
+      "key_dimensions": [
+        "Wealth accumulates over generations (inheritance); income is a flow variable — structural difference",
+        "Negative incomes are possible but negative wealth is bounded, affecting Gini calculation differently",
+        "India's wealth Gini (~0.74) far exceeds income Gini (~0.35) — policy implication for wealth/inheritance tax debate",
+        "Piketty's r > g argument: return on capital exceeding growth rate perpetually widens wealth Gini"
+      ]
+    },
+    {
+      "name": "Lorenz Curve Applications Beyond Income: Consumption, Land, and Health Inequality",
+      "key_dimensions": [
+        "Consumption Lorenz curve used in India's NSSO/PLFS data — preferred over income data due to reliability",
+        "Land distribution Lorenz curve: highlights agrarian inequality relevant to land reform debates",
+        "Health inequality: Concentration curves (extension of Lorenz) measure inequality in health outcomes",
+        "UPSC angle: Economic Survey uses consumption-based Gini, not income-based — understanding data source matters"
+      ]
+    },
+    {
+      "name": "Gini Coefficient and the Palma Ratio: Complementary Inequality Metrics",
+      "key_dimensions": [
+        "Palma Ratio = income share of top 10% / income share of bottom 40% — more policy-intuitive than Gini",
+        "Palma addresses Gini's weakness of over-sensitivity to middle of distribution; focuses on extremes",
+        "UN and UNDP increasingly recommend Palma alongside Gini for SDG monitoring (SDG 10: Reduced Inequalities)",
+        "India's Palma ratio context: highlights how the top decile's share dwarfs gains for the bottom two quintiles"
+      ]
+    },
+    {
+      "name": "Gini Coefficient and Poverty: Why They Measure Different Phenomena",
+      "key_dimensions": [
+        "Poverty is an absolute threshold concept; Gini is a relative distributional concept — fundamentally different",
+        "A country can have low Gini but high poverty (equal misery) or high Gini with low poverty (unequal prosperity)",
+        "UPSC trap: Reduction in Gini does not necessarily mean reduction in poverty headcount ratio",
+        "Need to read Gini alongside poverty lines (Tendulkar, Rangarajan) and MPI for comprehensive assessment"
+      ]
+    },
+    {
+      "name": "Decomposition of the Gini Coefficient: Within-Group and Between-Group Inequality",
+      "key_dimensions": [
+        "Total inequality = Within-group inequality + Between-group inequality + Overlap/interaction term",
+        "Application: decomposing India's Gini into rural-urban, caste, gender, or sectoral components",
+        "Policy use: if between-group inequality dominates, targeted group-specific policies are more effective",
+        "Limitation: Gini is not perfectly decomposable (unlike Theil Index), creating an overlap residual term"
+      ]
+    },
+    {
+      "name": "Lorenz Curve and Social Welfare Functions: Normative Dimensions",
+      "key_dimensions": [
+        "Atkinson's theorem: if one Lorenz curve dominates another, all inequality-averse social welfare functions prefer it",
+        "Link between Lorenz dominance and Pareto efficiency — Pareto improvement does not guarantee Lorenz improvement",
+        "Rawlsian maximin principle vs. utilitarian principle: different ethical positions imply different preferred Lorenz positions",
+        "UPSC angle: distributive justice debates (Rawls, Sen's capability approach) have direct measurable counterparts in Lorenz analysis"
+      ]
+    },
+    {
+      "name": "NSSO/PLFS Data and Measurement of Consumption Inequality in India",
+      "key_dimensions": [
+        "MPCE (Monthly Per Capita Expenditure) from HCES used to plot Lorenz curve and derive consumption Gini",
+        "Controversy: 2017–18 NSSO data reportedly suppressed due to showing rising consumption inequality",
+        "HCES 2022–23 revival: new data providing updated picture of consumption distribution post-COVID",
+        "UPSC trap: India lacks a comprehensive, regular income survey — consumption Gini is a proxy with its own biases (underreporting of top incomes)"
+      ]
+    },
+    {
+      "name": "Policy Interventions Aimed at Shifting the Lorenz Curve Towards Equality",
+      "key_dimensions": [
+        "Progressive taxation: steeper income/wealth tax shifts after-tax Lorenz curve closer to equality line",
+        "Direct benefit transfers (DBT), MGNREGA, PM-KISAN: targeted at bottom quintiles to lift the left portion of the curve",
+        "Public expenditure on education and health: reduces opportunity inequality, affecting long-run Lorenz position",
+        "UPSC angle: evaluate whether India's fiscal policy is effectively compressing the Lorenz curve — pre-tax vs. post-tax Gini comparison"
+      ]
+    },
+    {
+      "name": "Gini Coefficient in the Context of SDG 10 and India's Voluntary National Review",
+      "key_dimensions": [
+        "SDG Target 10.1: achieve income growth of bottom 40% at rate higher than national average (Palma/Lorenz logic embedded)",
+        "India's Voluntary National Review (VNR) submissions and reporting on inequality indicators",
+        "Tension between India's GDP growth narrative and persisting high wealth concentration (Oxfam reports)",
+        "UPSC angle: how international commitments under SDGs create accountability for Gini/inequality trends in domestic policymaking"
+      ]
+    },
+    {
+      "name": "Thomas Piketty's Wealth Inequality Framework and Its Gini Implications for India",
+      "key_dimensions": [
+        "r > g thesis: when return on capital (r) exceeds economic growth rate (g), wealth Gini structurally worsens",
+        "World Inequality Database (WID) data on India: top 1% income share rising — corroborated by rising wealth Gini",
+        "Policy prescription: progressive wealth tax, inheritance tax as tools to compress wealth Lorenz curve",
+        "UPSC angle: Piketty's framework used to critique liberalisation-era policies — contrast with trickle-down growth arguments"
+      ]
+    },
+    {
+      "name": "Gender Dimension of the Gini Coefficient and Lorenz Curve",
+      "key_dimensions": [
+        "Standard Gini calculated on household income may mask intra-household gender inequality",
+        "Gender Wage Gap as a component contributing to overall income Gini — women's lower labour force participation in India",
+        "Feminist economics critique: Lorenz curve ignores unpaid care work, understating women's economic contribution",
+        "UPSC angle: Gender Development Index (GDI) and Gender Inequality Index (GII) complement Gini in capturing gendered distributional outcomes"
+      ]
+    }
+  ]
+}

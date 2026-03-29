@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Money and Banking",
+  "sub_topic": "Repo rate and reverse repo rate",
+  "concepts": [
+    {
+      "name": "Repo Rate: Definition, Mechanism and Collateral Framework",
+      "key_dimensions": [
+        "Precise definition: rate at which RBI lends short-term funds to commercial banks against government securities",
+        "Role of collateral — eligible securities under LAF (G-Secs, T-Bills, State Development Loans)",
+        "Repurchase agreement structure: banks sell securities and agree to buy back at a higher price",
+        "UPSC trap: Repo is NOT a simple loan — it is a collateralised borrowing with a repurchase obligation"
+      ]
+    },
+    {
+      "name": "Reverse Repo Rate: Definition and Directional Logic",
+      "key_dimensions": [
+        "Rate at which RBI borrows money FROM commercial banks (absorbs excess liquidity)",
+        "Directional trap: always LOWER than repo rate — forms the floor of the LAF corridor",
+        "Banks park surplus funds with RBI overnight at reverse repo rate",
+        "UPSC trap: Reverse repo is RBI's tool to ABSORB liquidity, not inject it — opposite of repo"
+      ]
+    },
+    {
+      "name": "Liquidity Adjustment Facility (LAF): The Operational Framework",
+      "key_dimensions": [
+        "LAF is the corridor within which repo and reverse repo operate — introduced in 2000 post Narasimham Committee",
+        "Components: Repo (injection), Reverse Repo (absorption), and Marginal Standing Facility (MSF)",
+        "The interest rate corridor: MSF Rate > Repo Rate > Reverse Repo Rate",
+        "UPSC trap: LAF is an operating procedure, not a standalone rate — repo/reverse repo are instruments within LAF"
+      ]
+    },
+    {
+      "name": "Policy Repo Rate as the Benchmark: Signal vs. Operational Rate",
+      "key_dimensions": [
+        "Post-2014 Urjit Patel Committee: Policy repo rate made the single operating target of monetary policy",
+        "Distinction between 'policy rate' (signalling) and 'operating rate' (actual market rate RBI targets)",
+        "Weighted Average Call Rate (WACR) is the operational target — RBI tries to anchor it near repo rate",
+        "UPSC trap: Repo rate is the POLICY rate, but the actual operating target is WACR, not repo rate itself"
+      ]
+    },
+    {
+      "name": "Transmission Mechanism: How Repo Rate Changes Affect the Economy",
+      "key_dimensions": [
+        "Transmission chain: Repo Rate → Bank lending rates (MCLR/EBLR) → Credit demand → Investment → Output & Inflation",
+        "Asymmetric transmission problem: banks pass on rate hikes faster than rate cuts",
+        "External Benchmark Lending Rate (EBLR) introduced in 2019 to improve transmission — directly linked to repo rate",
+        "UPSC trap: Change in repo rate does NOT automatically change deposit/lending rates — transmission is imperfect and lagged"
+      ]
+    },
+    {
+      "name": "Repo Rate and Inflation Control: Contractionary Monetary Policy",
+      "key_dimensions": [
+        "Raising repo rate → increases cost of borrowing → reduces money supply → controls demand-pull inflation",
+        "Flexible Inflation Targeting (FIT) framework: RBI mandated to keep CPI inflation at 4% ±2%",
+        "UPSC trap: Repo rate is effective against demand-pull inflation, NOT cost-push (supply-side) inflation",
+        "Conflict between inflation control and growth — raising repo rate may hurt GDP growth simultaneously"
+      ]
+    },
+    {
+      "name": "Repo Rate and Economic Growth: Accommodative vs. Restrictive Stance",
+      "key_dimensions": [
+        "Lowering repo rate → cheaper credit → increased investment and consumption → economic stimulus",
+        "Monetary policy stance terminology: Accommodative (rate cuts likely), Neutral, Calibrated Tightening, Withdrawal of Accommodation",
+        "UPSC trap: 'Withdrawal of accommodation' does NOT mean rate hike — it means the next move is unlikely to be a cut",
+        "Tension between growth and inflation mandates, especially during stagflation scenarios"
+      ]
+    },
+    {
+      "name": "Marginal Standing Facility (MSF): The Emergency Borrowing Window",
+      "key_dimensions": [
+        "MSF rate = Repo Rate + 25 bps (typically) — banks can borrow overnight beyond their normal LAF quota",
+        "Banks can borrow against SLR securities — can even dip into SLR holdings (up to a limit) to borrow under MSF",
+        "MSF forms the CEILING of the LAF interest rate corridor",
+        "UPSC trap: MSF rate is always HIGHER than repo rate; it is a penal/emergency rate, not the standard borrowing rate"
+      ]
+    },
+    {
+      "name": "The Interest Rate Corridor: Floor, Ceiling and Width",
+      "key_dimensions": [
+        "Floor = Reverse Repo Rate (currently Repo - 25 bps post-2020 SDF introduction, or Standing Deposit Facility)",
+        "Ceiling = MSF Rate (Repo + 25 bps)",
+        "Width of corridor = 50 bps (25 bps on each side of repo rate in normal times)",
+        "UPSC trap: After introduction of SDF in April 2022, SDF rate replaced reverse repo as the effective floor — SDF rate = Repo - 25 bps"
+      ]
+    },
+    {
+      "name": "Standing Deposit Facility (SDF): New Floor of LAF Corridor",
+      "key_dimensions": [
+        "Introduced in April 2022 Budget — RBI absorbs excess liquidity WITHOUT giving collateral to banks",
+        "SDF rate = Repo Rate - 25 bps (currently) — it is the new effective floor of the LAF corridor",
+        "Key difference from reverse repo: SDF is uncollateralised (RBI does not provide G-Secs in return)",
+        "UPSC trap: After SDF introduction, reverse repo rate became less relevant operationally — SDF is the new floor, NOT reverse repo"
+      ]
+    },
+    {
+      "name": "Monetary Policy Committee (MPC): Who Decides the Repo Rate",
+      "key_dimensions": [
+        "MPC constituted under amended RBI Act Section 45ZB — 6 members: 3 RBI officials + 3 government nominees",
+        "Decisions by majority vote; RBI Governor has casting vote in case of tie",
+        "MPC decides ONLY the policy repo rate — operational decisions (like CRR, SLR) remain with RBI Board",
+        "UPSC trap: MPC does NOT decide reverse repo rate independently — it is set as a spread below repo rate by RBI"
+      ]
+    },
+    {
+      "name": "Repo Rate vs. Bank Rate: Key Distinctions",
+      "key_dimensions": [
+        "Bank Rate: rate at which RBI provides long-term credit — no collateral requirement, no repurchase agreement",
+        "Repo Rate: short-term (usually overnight), collateralised, with repurchase obligation",
+        "Post-LAF: Bank Rate = MSF Rate (aligned since 2012) — used mainly as penal rate for SLR defaults",
+        "UPSC trap: Bank Rate and Repo Rate are NOT the same — Bank Rate is for long-term lending, repo is short-term and collateralised"
+      ]
+    },
+    {
+      "name": "CRR and SLR: Distinction from Repo and Reverse Repo as Liquidity Tools",
+      "key_dimensions": [
+        "CRR/SLR are quantity-based tools (control money supply directly); Repo/Reverse Repo are price-based tools (control cost of money)",
+        "CRR change has immediate and powerful effect; Repo rate change works through transmission mechanism (indirect)",
+        "UPSC trap: RBI can control liquidity via BOTH quantity tools (CRR) and price tools (repo) — they are complements, not substitutes",
+        "Reducing CRR injects permanent liquidity; repo injection is temporary (overnight or short-term)"
+      ]
+    },
+    {
+      "name": "Repo Rate Impact on Exchange Rate and Capital Flows",
+      "key_dimensions": [
+        "Higher repo rate → higher domestic interest rates → attracts foreign capital (FPI debt inflows) → rupee appreciation",
+        "Lower repo rate → capital outflows risk → rupee depreciation pressure",
+        "Interest rate differential between India and US Fed rate influences carry trade and rupee stability",
+        "UPSC trap: RBI faces a trilemma — cannot simultaneously have independent monetary policy, fixed exchange rate, and free capital flows"
+      ]
+    },
+    {
+      "name": "Real Repo Rate vs. Nominal Repo Rate",
+      "key_dimensions": [
+        "Real Repo Rate = Nominal Repo Rate − Inflation Rate (CPI); negative real rates stimulate, positive real rates tighten",
+        "RBI targets positive real interest rates to maintain credibility under FIT framework",
+        "During COVID, real repo rate was negative — deliberate accommodative stance",
+        "UPSC trap: A LOWER nominal repo rate during HIGH inflation can still be contractionary in real terms if real rate rises"
+      ]
+    },
+    {
+      "name": "Open Market Operations (OMO) vs. Repo: Complementary Liquidity Tools",
+      "key_dimensions": [
+        "OMO: RBI buys/sells G-Secs in open market — permanent liquidity injection/absorption; changes bank reserves",
+        "Repo: temporary liquidity management — reversed at maturity; does not permanently alter money supply",
+        "Variable Rate Repo (VRR) vs. Fixed Rate Repo — VRR allows market-determined rates for longer tenors",
+        "UPSC trap: OMO purchase injects PERMANENT liquidity while repo injection is TEMPORARY — both involve G-Secs but differ in permanence"
+      ]
+    },
+    {
+      "name": "Repo Rate and Asset Price Inflation: Beyond CPI Targeting",
+      "key_dimensions": [
+        "Low repo rates can fuel asset price bubbles (real estate, stock markets) even when CPI remains controlled",
+        "RBI's mandate targets CPI, NOT asset prices — creates a policy blind spot",
+        "Macroprudential tools (LTV ratios, sectoral risk weights) used alongside repo rate to address asset bubbles",
+        "UPSC trap: RBI does NOT target stock market or housing prices via repo rate — this is a deliberate limitation of inflation targeting"
+      ]
+    },
+    {
+      "name": "Repo Rate Changes: Frequency, Quantum and Forward Guidance",
+      "key_dimensions": [
+        "MPC meets bi-monthly (6 times a year) — rate changes typically in multiples of 25 bps",
+        "Forward guidance: RBI communicates future stance to manage market expectations (e.g., 'stance remains accommodative')",
+        "Surprise rate changes outside scheduled MPC meetings possible in emergency (e.g., COVID May 2020 off-cycle cut)",
+        "UPSC trap: Stance change and rate change are DIFFERENT signals — stance can change without a rate change (e.g., neutral stance with unchanged repo rate)"
+      ]
+    },
+    {
+      "name": "Historical Context: Repo and Reverse Repo Rate Trends and Crisis Response",
+      "key_dimensions": [
+        "Post-GFC 2008: RBI cut repo rate sharply — repo from 9% to 4.75% (2009) to stimulate economy",
+        "COVID-19 response: Repo cut to historic low of 4% (May 2020); reverse repo cut more aggressively to 3.35% to discourage parking",
+        "UPSC trap: During COVID, RBI widened the LAF corridor asymmetrically by cutting reverse repo MORE than repo — deliberate to force banks to lend rather than park funds",
+        "2022–2023 rate hike cycle: Repo raised from 4% to 6.5% in response to post-COVID inflation surge"
+      ]
+    },
+    {
+      "name": "Reverse Repo Rate Asymmetric Cut: COVID-Era Policy Innovation",
+      "key_dimensions": [
+        "RBI cut reverse repo rate by 90 bps vs. 40 bps for repo during COVID — widened corridor from 25 bps to 65 bps",
+        "Rationale: Discourage banks from parking excess liquidity with RBI; nudge them to lend to productive sectors",
+        "This created a 'disincentive' mechanism — banks earned less by parking with RBI than by lending",
+        "UPSC trap: Asymmetric corridor is NOT a standard feature — it was an emergency innovation; understanding WHY it was done is key"
+      ]
+    }
+  ]
+}

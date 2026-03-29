@@ -1,0 +1,187 @@
+{
+  "subject": "Economy",
+  "topic": "Domestic Market Infrastructure",
+  "sub_topic": "Clearing Corporation of India — CCIL",
+  "concepts": [
+    {
+      "name": "CCIL: Institutional Identity and Ownership Structure",
+      "key_dimensions": [
+        "Established in 2001 as a limited company under Companies Act — NOT a statutory body",
+        "Promoted by RBI along with banks and financial institutions (SBI, LIC, NABARD, ICICI Bank etc.)",
+        "Distinction from SEBI-regulated clearing corporations (NSE Clearing, BSE Clearing) — CCIL is RBI-regulated",
+        "UPSC trap: CCIL is often confused with a government body or a statutory regulator"
+      ]
+    },
+    {
+      "name": "CCIL as a Qualified Central Counterparty (QCCP)",
+      "key_dimensions": [
+        "Acts as Central Counterparty (CCP) — interposes itself between buyer and seller, becoming buyer to every seller and seller to every buyer",
+        "QCCP status under Basel III norms and CPMI-IOSCO Principles for Financial Market Infrastructures (PFMI)",
+        "Significance: Lower capital charges for banks dealing through QCCPs vs. bilateral OTC trades",
+        "UPSC trap: Difference between CCP, QCCP, and a clearing house — and why QCCP status matters for bank capital adequacy"
+      ]
+    },
+    {
+      "name": "Novation: Core Legal Mechanism of CCIL",
+      "key_dimensions": [
+        "Novation = original contract between two parties is replaced by two new contracts — each with CCIL as the counterparty",
+        "Eliminates bilateral counterparty risk — the defining function of CCIL",
+        "Applies across all segments: G-Secs, forex, money markets",
+        "UPSC angle: Novation vs. netting vs. settlement guarantee — three distinct risk-mitigation tools"
+      ]
+    },
+    {
+      "name": "Segments Cleared and Settled by CCIL",
+      "key_dimensions": [
+        "Government Securities (G-Secs) — outright and repo transactions on NDS-OM",
+        "Foreign Exchange — USD/INR spot, forward, and swap segments",
+        "Collateralised Borrowing and Lending Obligation (CBLO) — now replaced by Tri-Party Repo (TREP)",
+        "UPSC trap: CCIL does NOT clear equity/derivatives — those are under NSE Clearing/BSE Clearing under SEBI"
+      ]
+    },
+    {
+      "name": "CCIL's Role in the NDS-OM Platform",
+      "key_dimensions": [
+        "NDS-OM (Negotiated Dealing System — Order Matching) is RBI's electronic platform for secondary market G-Sec trading",
+        "CCIL provides guaranteed settlement for all NDS-OM trades — settlement finality is critical",
+        "Straight-Through Processing (STP): Trade → Clearing → Settlement with no manual intervention",
+        "UPSC angle: NDS-OM vs. NDS (reporting platform) vs. CCIL (settlement entity) — three distinct but linked systems"
+      ]
+    },
+    {
+      "name": "Risk Management: Settlement Guarantee Fund (SGF)",
+      "key_dimensions": [
+        "SGF is the primary loss-absorbing resource maintained by CCIL to guarantee settlement",
+        "Funded by member contributions (Initial Margin + Default Fund contributions) and CCIL's own capital",
+        "Waterfall mechanism: Defaulting member's margin → Default fund contribution → CCIL's own capital → Non-defaulting members' fund",
+        "UPSC trap: SGF is segment-specific (separate SGFs for G-Sec, Forex, TREP segments)"
+      ]
+    },
+    {
+      "name": "Margining System: Initial and Mark-to-Market Margins",
+      "key_dimensions": [
+        "Initial Margin: Collected upfront based on Value-at-Risk (VaR) methodology to cover potential future exposure",
+        "Mark-to-Market (MTM) Margin: Daily/intraday collection to cover current exposure as market prices move",
+        "Variation Margin in Forex: Covers exchange rate risk on open positions",
+        "UPSC angle: Procyclicality concern — margin calls increase during stress periods, amplifying market volatility"
+      ]
+    },
+    {
+      "name": "Multilateral Netting and Its Systemic Significance",
+      "key_dimensions": [
+        "CCIL nets all buy and sell positions of a member across all counterparties — reducing gross settlement to a single net obligation",
+        "Dramatically reduces settlement risk and liquidity requirement for the system",
+        "Example: 100 bilateral trades → single net position per member per segment",
+        "UPSC angle: Netting efficiency ratio — CCIL reduces settlement value by ~95%+ in G-Sec segment, a frequently cited statistic"
+      ]
+    },
+    {
+      "name": "Tri-Party Repo (TREP) and CCIL's Role",
+      "key_dimensions": [
+        "CCIL operates the Tri-Party Repo (TREP) platform, which replaced the older CBLO in 2018",
+        "Three parties: borrower, lender, and CCIL as the tri-party agent managing collateral",
+        "Collateral management: CCIL selects, transfers, values, and substitutes collateral on behalf of parties",
+        "UPSC trap: CBLO was a money market instrument; TREP is its successor — candidates often cite CBLO in current affairs contexts"
+      ]
+    },
+    {
+      "name": "CCIL and the Forex Settlement Mechanism",
+      "key_dimensions": [
+        "CCIL settles USD/INR spot and forward trades — the INR leg is settled domestically; USD leg via CLS Bank (Continuous Linked Settlement) or CCIL's own mechanism",
+        "Forex Settlement Guarantee: CCIL guarantees settlement of USD/INR trades, significantly reducing Herstatt (FX settlement) risk",
+        "CCIL is the only CCP for the onshore forex market in India",
+        "UPSC angle: Herstatt risk = the risk that one leg of an FX trade is paid but the other is not — CCIL's CCP role eliminates this"
+      ]
+    },
+    {
+      "name": "CCIL's Regulatory Oversight: RBI vs. SEBI Jurisdiction",
+      "key_dimensions": [
+        "CCIL is regulated and supervised by RBI under the Payment and Settlement Systems Act, 2007",
+        "Designated as a 'Systemically Important Financial Market Infrastructure (SIFMI)' by RBI",
+        "SEBI regulates equity/commodity clearing corporations — CCIL operates in the RBI domain (G-Sec, Forex, Money Market)",
+        "UPSC trap: CCIL is also subject to oversight under the FSDC (Financial Stability and Development Council) framework for systemic risk monitoring"
+      ]
+    },
+    {
+      "name": "CCIL as Systemically Important Financial Market Infrastructure (SIFMI)",
+      "key_dimensions": [
+        "Designated SIFMI status implies enhanced regulatory scrutiny — RBI conducts stress tests and recovery/resolution planning",
+        "Linked to global CPMI-IOSCO 'Principles for Financial Market Infrastructures (PFMIs)' — 24 principles for robust FMIs",
+        "Recovery and Resolution Planning (RRP): CCIL must have plans to recover from extreme but plausible stress scenarios",
+        "UPSC angle: 'Too important to fail' — SIFMI designation signals that CCIL's failure would have systemic consequences for India's financial markets"
+      ]
+    },
+    {
+      "name": "CCIL and Cross-Border Regulatory Disputes (EU EMIR Issue)",
+      "key_dimensions": [
+        "EU's EMIR (European Market Infrastructure Regulation) required third-country CCPs (including CCIL) to be recognized by ESMA",
+        "ESMA demanded direct supervisory access to CCIL's operations — India/RBI refused citing sovereignty concerns",
+        "Result: EU banks were potentially barred from trading with CCIL-cleared instruments, raising concerns about liquidity in Indian G-Sec/forex markets",
+        "UPSC relevance: Highlights tension between domestic financial sovereignty and global regulatory harmonization — current affairs dimension"
+      ]
+    },
+    {
+      "name": "Default Management Process at CCIL",
+      "key_dimensions": [
+        "If a member defaults, CCIL takes over its open positions and manages them through hedging, auctioning, or close-out",
+        "Default fund: Non-defaulting members contribute to cover losses beyond the defaulting member's margin — 'mutualisation of losses'",
+        "CCIL has never invoked the SGF/default fund in its history — key fact for UPSC",
+        "UPSC trap: Distinction between 'default fund' (pre-funded by all members) and 'initial margin' (pre-funded by the specific member)"
+      ]
+    },
+    {
+      "name": "Legal Basis: Payment and Settlement Systems Act, 2007",
+      "key_dimensions": [
+        "PSS Act 2007 provides the legal framework for payment and settlement systems in India — RBI is the designated authority",
+        "CCIL operates as an 'authorised payment system' under PSS Act — giving its netting and settlement finality legal backing",
+        "Settlement finality: Once a transaction is settled through CCIL, it cannot be reversed even if a member goes bankrupt — protects systemic integrity",
+        "UPSC angle: Before PSS Act, netting agreements had legal uncertainty — PSS Act gave statutory recognition to netting"
+      ]
+    },
+    {
+      "name": "CCIL's CSD Function: Securities Settlement System (SSS)",
+      "key_dimensions": [
+        "CCIL operates a Securities Settlement System (SSS) — it settles G-Sec transactions using DvP (Delivery versus Payment) mechanism",
+        "DvP ensures simultaneous exchange of securities and funds — eliminates principal risk",
+        "Three DvP models: DvP-I (gross-gross), DvP-II (gross-net), DvP-III (net-net) — CCIL uses DvP-III for G-Secs",
+        "UPSC trap: CCIL settles G-Secs but the actual custody/depository function for G-Secs is with RBI's SGL (Subsidiary General Ledger) — CCIL and RBI-SGL are distinct"
+      ]
+    },
+    {
+      "name": "CCIL's Trade Repository Function",
+      "key_dimensions": [
+        "CCIL operates as a Trade Repository (TR) for OTC derivatives — collecting and maintaining records of interest rate swaps, forex derivatives",
+        "Mandated reporting: Under RBI directions, banks must report all OTC derivative transactions to CCIL's TR",
+        "Regulatory use: RBI and other regulators use TR data for systemic risk monitoring and market surveillance",
+        "UPSC angle: Trade repositories were a key G20 Pittsburgh Summit (2009) reform mandate post-global financial crisis — CCIL's TR is India's implementation"
+      ]
+    },
+    {
+      "name": "CCIL's Unique Position: No Direct Retail/Corporate Access",
+      "key_dimensions": [
+        "Only banks, primary dealers, insurance companies, and select financial institutions can be direct members of CCIL",
+        "Retail investors and corporates access G-Sec markets indirectly through member banks — CCIL is a wholesale market infrastructure",
+        "Membership criteria include minimum net worth requirements and RBI/SEBI regulatory status",
+        "UPSC trap: Retail Direct Scheme (RBI) allows individuals to buy G-Secs directly from RBI — but settlement still flows through the system CCIL supports, not directly through CCIL membership"
+      ]
+    },
+    {
+      "name": "CCIL's Contribution to Monetary Policy Transmission",
+      "key_dimensions": [
+        "By guaranteeing G-Sec and repo market settlements, CCIL ensures smooth functioning of RBI's Liquidity Adjustment Facility (LAF) operations",
+        "TREP platform (operated by CCIL) is the primary overnight money market — its rate (TREP rate) benchmarks short-term liquidity conditions",
+        "Efficient collateral management through TREP reduces counterparty risk in interbank markets, deepening monetary policy transmission",
+        "UPSC angle: Link between market infrastructure efficiency (CCIL) and macroeconomic policy effectiveness (RBI's monetary policy)"
+      ]
+    },
+    {
+      "name": "Comparison: CCIL vs. SEBI-Regulated Clearing Corporations",
+      "key_dimensions": [
+        "CCIL: RBI-regulated, covers G-Secs/Forex/Money Markets, non-profit orientation, wholesale market only",
+        "NSE Clearing Ltd / BSE Clearing: SEBI-regulated, covers equity/equity derivatives/commodity derivatives, for-profit, retail and institutional",
+        "Both use CCP model with novation, margining, and default funds — but different asset classes and regulators",
+        "UPSC trap: CCIL and NSE Clearing are sometimes presented as competitors — they operate in entirely different market segments and regulatory domains"
+      ]
+    }
+  ]
+}

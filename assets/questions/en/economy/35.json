@@ -1,0 +1,1555 @@
+[
+  {
+    "meta": {
+      "uuid": "dc4812cf-80c9-4a0d-9cb7-ac8f7035d599",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Statutory Foundation and Institutional Character of DICGC"
+      ],
+      "subject_que_no": 1179,
+      "overall_que_no": 8526
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DICGC legal status under RBI umbrella",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because DICGC is housed under RBI's institutional umbrella and its Chairman is a Deputy Governor, making students conflate organisational proximity with departmental status.",
+      "elimination_logic": [
+        "Eliminate (a): DICGC is not a department of RBI — it is a separate legal entity incorporated under its own statute, distinct from RBI's internal departments.",
+        "Eliminate (c): DICGC is not an independent statutory regulator like SEBI or IRDAI — it operates under RBI ownership, making it a subsidiary, not an autonomous regulator.",
+        "Eliminate (d): DICGC is not a scheduled commercial bank; it provides insurance to banks and cannot accept deposits itself.",
+        "Confirm (b): DICGC is a wholly-owned subsidiary of RBI, established under the DICGC Act, 1961 — a separate legal entity but not independent of RBI ownership."
+      ],
+      "upsc_trap_explanation": "Students who know that RBI 'controls' DICGC often mark it as a department of RBI. The trap is the word 'department' — a department has no separate legal personality, whereas DICGC was incorporated as a distinct legal entity under the DICGC Act, 1961. Its Chairman being a Deputy Governor of RBI reinforces the proximity illusion. Precise knowledge of subsidiary vs. department distinction is needed.",
+      "final_explanation": "DICGC occupies a unique institutional position in India's financial architecture. It was constituted under the DICGC Act, 1961 and became operational in 1978 following the merger of the Deposit Insurance Corporation (est. 1962) and the Credit Guarantee Corporation of India (est. 1971).\n\n• Option (a) — Incorrect: A 'department' of RBI would have no independent legal existence. DICGC has its own Board, its own balance sheet, and is incorporated as a body corporate — characteristics incompatible with departmental status.\n• Option (b) — Correct: DICGC is a wholly-owned subsidiary of RBI. RBI holds 100% of its capital, appoints its Board, and provides it lines of credit — yet DICGC remains a separate legal entity with its own statute.\n• Option (c) — Incorrect: Independent statutory regulators (SEBI, IRDAI, PFRDA) have autonomous governance and are not owned by another financial institution. DICGC is owned and governed by RBI.\n• Option (d) — Incorrect: DICGC does not accept deposits; it insures deposits made with member banks.\n\nValue Addition:\n• The DICGC Act, 1961 is the parent legislation; the Corporation became operational only in 1978 after the merger.\n• RBI's Deputy Governor typically chairs DICGC's Board — an indicator of control, not departmental merger.\n• This subsidiary structure is distinct from the FDIC (USA), which is an independent agency of the US government."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which one of the following most accurately describes the institutional character of the Deposit Insurance and Credit Guarantee Corporation (DICGC)?\n\n(a) It is a department within the Reserve Bank of India with no separate legal identity\n(b) It is a wholly-owned subsidiary of the Reserve Bank of India constituted under its own statute\n(c) It is an independent statutory regulator functioning autonomously outside the RBI's purview\n(d) It is a scheduled commercial bank licensed to insure deposits of other banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "60238ee6-3905-42d7-afc3-39c1657ee355",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Coverage Limit: ₹5 Lakh Insurance per Depositor per Bank"
+      ],
+      "subject_que_no": 1180,
+      "overall_que_no": 8527
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "DICGC coverage aggregation rule per depositor per bank",
+      "statement_analysis": [
+        {
+          "statement": "The ₹5 lakh insurance cover under DICGC applies per depositor per bank, meaning all deposits of a person across different branches of the same bank are aggregated for the purpose of this limit.",
+          "verdict": "Correct",
+          "reason": "DICGC coverage is per depositor per bank — deposits across all branches of the same bank are clubbed together, and the maximum payable is ₹5 lakh regardless of the number of branches."
+        },
+        {
+          "statement": "The ₹5 lakh insurance limit covers the principal amount of insured deposits separately from the interest accrued on those deposits.",
+          "verdict": "Incorrect",
+          "reason": "The ₹5 lakh limit covers both principal AND interest combined. If a depositor's principal is ₹4.8 lakh and accrued interest is ₹0.4 lakh, the total claim is ₹5.2 lakh but only ₹5 lakh is insured — not ₹5 lakh for principal and ₹5 lakh for interest separately."
+        },
+        {
+          "statement": "If a depositor holds accounts in two different banks and each account has ₹4 lakh, the depositor is entitled to a maximum insurance payout of ₹8 lakh in case both banks fail simultaneously.",
+          "verdict": "Correct",
+          "reason": "The ₹5 lakh limit is per depositor per bank. Since these are two different banks, each failure gives rise to a separate ₹5 lakh entitlement — in this case, the full ₹4 lakh from each bank would be covered, totalling ₹8 lakh."
+        }
+      ],
+      "strong_distractor": "b — Option (b) is deceptive because it includes Statement 3 alone, which is correct, but excludes Statement 1 — students who are uncertain about Statement 1's aggregation rule often avoid it and pick only the clearly correct Statement 3.",
+      "elimination_logic": [
+        "Evaluate Statement 1: aggregation across branches of the same bank is the correct rule — ₹5 lakh is the ceiling regardless of how many branches the depositor uses. Statement 1 is Correct.",
+        "Evaluate Statement 2: the ₹5 lakh cap covers principal plus interest combined, not separately — the word 'separately' makes this statement false. Statement 2 is Incorrect.",
+        "Evaluate Statement 3: the per-depositor-per-bank rule means two different banks create two independent insurance entitlements — the depositor is covered up to ₹5 lakh from each bank separately. Statement 3 is Correct.",
+        "Statements 1 and 3 are correct; Statement 2 is incorrect — the answer is (c) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a carefully designed trap exploiting the intuition that 'principal' and 'interest' are naturally separate components of a deposit. Many students assume that if the principal itself is ₹5 lakh, interest would be paid on top. The DICGC rule combines both — a depositor with ₹4.8 lakh principal and ₹0.3 lakh interest receives only ₹5 lakh in total. This is a classic scope-extension trap where 'separately' inflates the entitlement beyond what the law provides.",
+      "final_explanation": "DICGC's coverage mechanics require understanding three distinct rules: the per-depositor-per-bank aggregation rule, the combined principal-plus-interest ceiling, and the multi-bank independence rule.\n\n• Statement 1 — Correct: All deposits of the same person in different branches of one bank are aggregated. A depositor with ₹3 lakh in Branch A and ₹2.5 lakh in Branch B of Bank X can claim only ₹5 lakh, not ₹5.5 lakh, if Bank X fails.\n• Statement 2 — Incorrect: The ₹5 lakh limit is a combined ceiling on principal and accrued interest. There is no separate ₹5 lakh for each component. This is a common misreading.\n• Statement 3 — Correct: Different banks create independent entitlements. Simultaneous failure of two banks where a depositor holds ₹4 lakh in each would yield ₹8 lakh total — ₹4 lakh from each, both within their respective ₹5 lakh ceilings.\n\nValue Addition:\n• Coverage limit history: ₹1,500 (1962) → ₹1 lakh (1993) → ₹5 lakh (February 2020).\n• The 2020 enhancement was implemented following recommendations to align with international norms.\n• India now covers approximately 98% of all depositor accounts by number, though only about 50% of total deposit value by amount."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the deposit insurance coverage provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC):\n\n1. The ₹5 lakh insurance cover under DICGC applies per depositor per bank, meaning all deposits of a person across different branches of the same bank are aggregated for the purpose of this limit.\n2. The ₹5 lakh insurance limit covers the principal amount of insured deposits separately from the interest accrued on those deposits.\n3. If a depositor holds accounts in two different banks and each account has ₹4 lakh, the depositor is entitled to a maximum insurance payout of ₹8 lakh in case both banks fail simultaneously.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ab8afd75-c95d-4c14-8a6e-f43590b52554",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Types of Deposits Covered vs. Not Covered by DICGC"
+      ],
+      "subject_que_no": 1181,
+      "overall_que_no": 8528
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "DICGC exclusions — government deposits not covered",
+      "statement_analysis": [
+        {
+          "statement": "Recurring deposits held by individual depositors in insured banks are covered under DICGC's deposit insurance scheme.",
+          "verdict": "Correct",
+          "reason": "Recurring deposits are explicitly covered under DICGC insurance along with savings, fixed, and current deposits in insured banks."
+        },
+        {
+          "statement": "Deposits made by the Central Government with insured banks are not covered under DICGC insurance.",
+          "verdict": "Correct",
+          "reason": "Central Government deposits are among the categories explicitly excluded from DICGC coverage."
+        },
+        {
+          "statement": "Deposits of State Governments are covered under DICGC insurance because only Central Government deposits are excluded from coverage.",
+          "verdict": "Incorrect",
+          "reason": "Both Central and State Government deposits are excluded from DICGC coverage — not just Central Government deposits. This is a critical distinction and a common misconception."
+        }
+      ],
+      "strong_distractor": "b — Option (b) pointing to Statement 2 as incorrect is deceptive because Statement 2 is factually correct; students who are unsure whether Central Government deposits are excluded may mark it as the incorrect statement.",
+      "elimination_logic": [
+        "Evaluate Statement 1: recurring deposits are explicitly among the covered deposit types — this is correct, so Statement 1 is not the answer.",
+        "Evaluate Statement 2: Central Government deposits are excluded from DICGC coverage — this is factually correct, so Statement 2 is not the answer.",
+        "Evaluate Statement 3: the claim that 'only Central Government deposits are excluded' is false — State Government deposits are equally excluded. The word 'only' creates a false restriction. Statement 3 is Incorrect.",
+        "The answer is (d) 3 only — Statement 3 is the one that is NOT correct."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 3 exploits a common misreading: students often remember that 'government deposits are excluded' but forget that this applies to BOTH Central and State governments. The phrase 'only Central Government' in Statement 3 is designed to catch students who have partial knowledge. The UPSC frequently tests such 'only/also' distinctions. State Government deposits enjoy no special protection under DICGC.",
+      "final_explanation": "DICGC's exclusion list is as important as its coverage list for examination purposes. The law explicitly bars certain categories from protection to avoid moral hazard and because sovereign entities have independent fiscal capacity.\n\n• Statement 1 — Correct: Recurring deposits are covered. DICGC covers savings, fixed, current, and recurring deposits — the four standard deposit types available to retail customers.\n• Statement 2 — Correct: Central Government deposits are excluded. The rationale is that the sovereign does not need deposit insurance protection.\n• Statement 3 — Incorrect: This statement falsely claims that State Government deposits are covered and only Central Government deposits are excluded. In reality, both Central and State Government deposits are outside DICGC's insurance net.\n\nValue Addition:\n• Also excluded: deposits of foreign governments, inter-bank deposits, deposits held outside India, and deposits specifically exempted by RBI with DICGC concurrence.\n• The exclusion of inter-bank deposits prevents circular insurance claims within the banking system.\n• DICGC covers deposits in rupees as well as foreign currency deposits held in India by non-government depositors."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the scope of deposit insurance provided by DICGC:\n\n1. Recurring deposits held by individual depositors in insured banks are covered under DICGC's deposit insurance scheme.\n2. Deposits made by the Central Government with insured banks are not covered under DICGC insurance.\n3. Deposits of State Governments are covered under DICGC insurance because only Central Government deposits are excluded from coverage.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 2 only\n(d) 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "29f04000-73db-42c2-82b2-1c13747c0508",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Mandatory vs. Voluntary Insurance — Which Banks Must Register"
+      ],
+      "subject_que_no": 1182,
+      "overall_que_no": 8529
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Mandatory DICGC coverage — which bank categories included",
+      "statement_analysis": [
+        {
+          "statement": "Branches of foreign banks operating within India are mandatorily covered under DICGC deposit insurance.",
+          "verdict": "Correct",
+          "reason": "All commercial banks, including branches of foreign banks operating in India, are mandatorily insured under DICGC."
+        },
+        {
+          "statement": "Regional Rural Banks (RRBs) are mandatorily covered under DICGC deposit insurance.",
+          "verdict": "Correct",
+          "reason": "RRBs are mandatorily covered under DICGC — they serve rural depositors and their inclusion is important for financial inclusion."
+        },
+        {
+          "statement": "Primary Agricultural Credit Societies (PACS) are eligible for DICGC deposit insurance coverage.",
+          "verdict": "Incorrect",
+          "reason": "PACS are cooperative societies, not cooperative banks — only primary cooperative BANKS are eligible, not primary cooperative societies such as PACS."
+        },
+        {
+          "statement": "Primary Cooperative Banks are eligible to register with DICGC for deposit insurance.",
+          "verdict": "Correct",
+          "reason": "Primary cooperative banks (distinct from primary cooperative societies) are eligible for DICGC coverage, though they are not automatically mandated in the same manner as commercial banks."
+        }
+      ],
+      "strong_distractor": "c — Option (c) 'Only three' tempts students who recognise that PACS are excluded but are uncertain whether RRBs are mandatory or voluntary, potentially miscounting.",
+      "elimination_logic": [
+        "Pair 1 (foreign bank branches in India): commercial banks including foreign bank branches are mandatorily insured — Correct.",
+        "Pair 2 (RRBs): RRBs are mandatorily covered — Correct.",
+        "Pair 3 (PACS): PACS are cooperative societies, not banks — they are NOT eligible. The trap is conflating 'cooperative society' with 'cooperative bank' — Incorrect.",
+        "Pair 4 (Primary Cooperative Banks): eligible for DICGC — Correct. Three of the four pairs are correctly stated, so the answer is (b) Only three."
+      ],
+      "upsc_trap_explanation": "The PACS trap is a standard UPSC mechanism: 'primary cooperative society' sounds similar to 'primary cooperative bank' but the two are legally distinct. PACS are credit cooperatives but not licensed banks under the Banking Regulation Act. Only primary cooperative BANKS fall under DICGC eligibility. A student recalling that 'cooperatives are covered' without this granularity will incorrectly mark all four as correct.",
+      "final_explanation": "DICGC's coverage of different bank types is frequently tested. The key framework is: all scheduled commercial banks (including foreign bank branches) are mandatorily covered; RRBs are mandatorily covered; cooperative banks have a tiered eligibility structure.\n\n• Pair 1 — Correct: Foreign bank branches in India are treated as commercial banks for DICGC purposes and must mandatorily insure.\n• Pair 2 — Correct: RRBs, sponsored by commercial banks and serving rural areas, are mandatorily covered — a deliberate policy to protect rural depositors.\n• Pair 3 — Incorrect: PACS are cooperative societies registered under cooperative society laws, not licensed banks. They do not fall under DICGC's ambit — a major policy gap for rural depositors.\n• Pair 4 — Correct: Primary cooperative banks (licensed under Banking Regulation Act) are eligible for DICGC coverage.\n\nValue Addition:\n• The distinction between cooperative societies and cooperative banks is jurisdictional: cooperative banks are regulated by both RBI and state governments, while PACS are purely state-regulated.\n• The exclusion of PACS from DICGC represents a significant vulnerability for rural depositors who rely heavily on PACS for savings.\n• State Cooperative Banks and District Central Cooperative Banks are also eligible for DICGC coverage."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "How many of the following pairs regarding DICGC deposit insurance coverage are correctly stated?",
+        "columns": [
+          "Bank / Institution Type",
+          "Coverage Status under DICGC"
+        ],
+        "rows": [
+          [
+            "Branches of foreign banks operating within India",
+            "Mandatorily covered"
+          ],
+          [
+            "Regional Rural Banks (RRBs)",
+            "Mandatorily covered"
+          ],
+          [
+            "Primary Agricultural Credit Societies (PACS)",
+            "Eligible for coverage"
+          ],
+          [
+            "Primary Cooperative Banks",
+            "Eligible for coverage"
+          ]
+        ],
+        "footer_text": "(a) Only one\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "23c0ee23-a21d-488e-89da-8c62dc2d21c6",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Premium Structure and Who Bears the Cost",
+        "Assessable Deposits vs. Insured Deposits — Calculation Methodology"
+      ],
+      "subject_que_no": 1183,
+      "overall_que_no": 8530
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "DICGC premium structure and deposit classification",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) swaps the premium base with the liability base, which is the most common confusion: students who know 'premium is on total deposits' but conflate this with 'insured deposits' will pick this option.",
+      "elimination_logic": [
+        "Match A (Premium paid by): banks pay the premium — depositors cannot be charged by law. A matches with 3.",
+        "Match B (Premium rate since 2020): 12 paise per ₹100 per annum — revised upward from 10 paise in 2020. B matches with 1.",
+        "Match C (Premium calculation base): premium is levied on assessable deposits (total insurable deposits), NOT just the ₹5 lakh covered portion. C matches with 4.",
+        "Match D (DIF investment): DIF is invested in government securities, not equities or bank deposits. D matches with 2. Correct combination: A-3, B-1, C-4, D-2 — option (a)."
+      ],
+      "upsc_trap_explanation": "The conflation trap here merges 'assessable deposits' with 'insured deposits.' Assessable deposits are the total pool of insurable deposits before applying the per-depositor cap; insured deposits are the legally covered portion after capping. Premium is charged on the larger assessable pool, while DICGC's maximum liability is limited to insured deposits. Students who do not know this distinction will swap List II items 3 and 4, landing on option (b).",
+      "final_explanation": "DICGC's premium structure operates on a flat-rate basis applied to assessable deposits, creating a deliberate distinction between the premium base and the insurance liability base.\n\nCorrect matches:\n• A–3: Premium is paid entirely by insured banks. Law prohibits banks from explicitly passing this cost to depositors (though it may be absorbed in interest rate margins).\n• B–1: The current rate is 12 paise per ₹100 of assessable deposits per annum, revised upward from 10 paise effective April 2020.\n• C–4: Premium is calculated on assessable deposits — the total pool of deposits eligible for insurance before applying the ₹5 lakh per-depositor ceiling. This is broader than insured deposits.\n• D–2: The Deposit Insurance Fund is invested in government securities — consistent with the need for liquidity and safety.\n\nTrap pairings: C-3 (premium on insured deposits) is wrong — premiums on a smaller base would undervalue risk. D-1 (DIF in equities) is wrong — DIF requires capital preservation.\n\nValue Addition:\n• A risk-based premium system (different rates for riskier banks) has been discussed but not yet implemented in India.\n• Banks submit half-yearly returns to DICGC declaring assessable deposit figures for premium calculation.\n• The FDIC (USA) uses a risk-based premium system — India's flat-rate system is considered less incentive-compatible."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I with List II:",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Entity that pays the DICGC premium",
+            "1. 12 paise per ₹100 per annum"
+          ],
+          [
+            "B. Current annual premium rate (post-2020)",
+            "2. Government securities"
+          ],
+          [
+            "C. Base on which premium is calculated",
+            "3. Insured banks, not depositors"
+          ],
+          [
+            "D. Primary investment avenue for the Deposit Insurance Fund",
+            "4. Assessable deposits (total insurable deposits)"
+          ]
+        ],
+        "footer_text": "(a) A-3, B-1, C-4, D-2\n(b) A-3, B-1, C-3, D-2\n(c) A-1, B-3, C-4, D-2\n(d) A-3, B-4, C-1, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "cba77898-7b45-4da9-b977-a3829f766c71",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Trigger Events for DICGC Claim Payment — Liquidation vs. Restructuring",
+        "DICGC (Amendment) Act, 2021 — Key Reforms"
+      ],
+      "subject_que_no": 1184,
+      "overall_que_no": 8531
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "2021 Amendment — moratorium trigger replaces liquidation wait",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who correctly identify both A and R as true often reflexively pick (a), failing to check whether R actually explains A — the causal link here is different from what R describes.",
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes. Post the DICGC (Amendment) Act, 2021, depositors can claim insured amounts within 90 days of a bank being placed under All-Inclusive Directions (moratorium) — they no longer need to wait for final liquidation.",
+        "Step 2 — Is R correct? Yes. The PMC Bank crisis (2019) exposed a genuine gap: depositors waited years for their money because the old framework required waiting for winding-up proceedings to conclude.",
+        "Step 3 — Does R causally explain A? No. While the PMC crisis was the political and contextual motivation for the 2021 amendment, R does not constitute the legal or logical explanation for why 90-day payment is now possible. The explanation for A is the amendment's introduction of a moratorium trigger as a new legal basis for payment — not the PMC crisis itself. R describes the background context, not the operative reason.",
+        "A is correct, R is correct, but R does NOT explain A — correct option is (b). Wait — re-evaluating: the question is asking whether R is the correct explanation of A. R states the PMC crisis 'exposed the gap,' which is context, not the direct legal cause. Correct option is (b)."
+      ],
+      "upsc_trap_explanation": "This is a classic UPSC assertion-reason trap where both statements are true but causally disconnected. Students who verify factual correctness of both A and R — and stop there — will pick (a). The precision required is in Step 3: R explains the historical motivation for the amendment, but the correct explanation of A (why 90-day payment is now possible) is the legal mechanism introduced by the 2021 amendment itself, not the PMC Bank crisis. Context ≠ causal explanation.",
+      "final_explanation": "The DICGC (Amendment) Act, 2021 was a landmark reform that fundamentally changed when depositors receive their insurance money.\n\nAssertion (A) — Correct: Before 2021, depositors had to wait for a bank's licence to be cancelled or a winding-up order to be passed — a process that could take years. The 2021 amendment introduced a new trigger: once a bank is placed under All-Inclusive Directions (moratorium) by RBI, DICGC must pay insured depositors within 90 days. This is the correct statement of current law.\n\nReason (R) — Correct: The PMC Bank crisis (2019) was indeed the proximate political trigger for the amendment. PMC depositors were locked out of their funds for years under the old framework, creating public outrage.\n\nCausal relationship: R describes the historical context and public policy motivation for the amendment — not the legal mechanism that makes 90-day payment possible. The actual explanation for A is the statutory introduction of the moratorium-as-trigger concept in the 2021 amendment. R is background, not causation.\n\nCorrect option: (b) — Both A and R are correct, but R is NOT the correct explanation of A.\n\nValue Addition:\n• Under the 2021 framework, once DICGC pays an insured depositor during moratorium, the depositor assigns their claim rights to DICGC (subrogation).\n• The 90-day clock starts from the date the bank is placed under moratorium.\n• If a reconstruction or amalgamation scheme is finalised before 90 days, DICGC still pays the insured portion."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Following legislative changes in 2021, insured depositors of a bank placed under moratorium by the Reserve Bank of India can receive their deposit insurance claims within 90 days, without waiting for the bank's final liquidation or licence cancellation.\n\nReason (R): The Punjab & Maharashtra Co-operative Bank crisis revealed that the earlier framework compelled depositors to wait for lengthy winding-up proceedings before receiving any insurance payment.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "255c0cb9-4051-499d-9afd-0e24691fa2b9",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Statutory Foundation and Institutional Character of DICGC"
+      ],
+      "subject_que_no": 1185,
+      "overall_que_no": 8532
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "DICGC institutional evolution timeline",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) places the Credit Guarantee Corporation before the Deposit Insurance Corporation, which is a plausible error for students who recall both entities but not their founding sequence.",
+      "elimination_logic": [
+        "Deposit Insurance Corporation was established first, in 1962, directly following the DICGC Act, 1961 — place this as Event 1.",
+        "Credit Guarantee Corporation of India came later, in 1971, as a separate entity to guarantee credit to small borrowers — place this as Event 2.",
+        "The merger of the two into DICGC happened in 1978 — place this as Event 3.",
+        "The 2021 Amendment Act introducing the 90-day moratorium trigger is the most recent event — Event 4. Correct sequence: 1962 → 1971 → 1978 → 2021, which is option (b)."
+      ],
+      "upsc_trap_explanation": "The trap is the 1971/1978 sequence. Students who know 'there was a merger' but conflate the founding of Credit Guarantee Corporation with the merger year will mis-sequence. Additionally, some students may place the merger earlier (thinking it happened soon after the DICGC Act, 1961). Precise year recall separates the well-prepared from the partially prepared.",
+      "final_explanation": "DICGC's institutional history spans six decades and involves two distinct predecessor entities.\n\nCorrect sequence:\n1. Deposit Insurance Corporation (1962): Established under the DICGC Act, 1961 to protect depositors of banks that failed. This was India's first formal deposit insurance mechanism.\n2. Credit Guarantee Corporation of India (1971): A separate entity created to guarantee credit facilities extended to small borrowers and industries.\n3. Merger forming DICGC (1978): The two corporations were merged to form the present DICGC, combining both functions under one roof.\n4. DICGC (Amendment) Act, 2021: Introduced the 90-day moratorium-based payment trigger — the most significant reform since the corporation's founding.\n\nWhy other options fail:\n• Option (a) places the merger before the CGC's founding — impossible.\n• Option (c) reverses DIC and CGC founding years.\n• Option (d) misplaces the 2021 amendment before the merger.\n\nValue Addition:\n• The DICGC Act, 1961 is the foundational statute — the Corporation itself began operations only in 1962.\n• The 1978 merger was driven by administrative efficiency — both entities served overlapping constituencies.\n• India's deposit insurance predates many emerging market deposit insurance systems."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of institutional events in the history of DICGC?\n\n1. Establishment of the Deposit Insurance Corporation\n2. Establishment of the Credit Guarantee Corporation of India\n3. Merger of the two predecessor entities into DICGC\n4. Enactment of the DICGC Amendment Act introducing time-bound claims during moratorium\n\n(a) 2 – 1 – 3 – 4\n(b) 1 – 2 – 3 – 4\n(c) 2 – 1 – 4 – 3\n(d) 1 – 3 – 2 – 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "79bef67e-33ae-4641-a819-f04c9b2800e4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Small Finance Banks and Payment Banks — DICGC Coverage"
+      ],
+      "subject_que_no": 1186,
+      "overall_que_no": 8533
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Payment Bank deposit limit vs. DICGC coverage limit interaction",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) suggesting partial coverage tempts students who apply the general rule without accounting for the Payment Bank's own deposit ceiling of ₹2 lakh, which is lower than the DICGC limit.",
+      "elimination_logic": [
+        "Identify the applicable rules: Payment Banks are licensed commercial banks — they are covered by DICGC. Their deposit acceptance limit is ₹2 lakh per customer.",
+        "Apply the coverage ceiling: DICGC insures up to ₹5 lakh per depositor per bank. A customer can hold at most ₹2 lakh in a Payment Bank.",
+        "Since ₹2 lakh < ₹5 lakh, the entire deposit of every Payment Bank customer is within the DICGC ceiling — 100% coverage for all depositors.",
+        "Eliminate (a) and (d): Payment Banks ARE covered by DICGC. Eliminate (b): partial coverage would only arise if deposits exceeded ₹5 lakh — impossible in a Payment Bank. Answer is (c)."
+      ],
+      "upsc_trap_explanation": "The trap is applying the general DICGC rule mechanically. A student who knows 'DICGC covers up to ₹5 lakh' but does not connect this with the Payment Bank's ₹2 lakh deposit ceiling will not realise that 100% coverage is automatically guaranteed. The ₹2 lakh cap on Payment Banks is a regulatory feature under their licensing conditions — it creates a situation where the DICGC ceiling is never reached, making all depositors fully covered.",
+      "final_explanation": "This scenario tests the interaction between two separate regulatory limits: the Payment Bank deposit ceiling and the DICGC insurance ceiling.\n\nApplicable principle: Payment Banks are licensed as commercial banks under the Banking Regulation Act and are therefore mandatorily covered under DICGC. Separately, their licence conditions restrict them from accepting deposits exceeding ₹2 lakh per customer.\n\nMapping to scenario: Since no depositor can hold more than ₹2 lakh in a Payment Bank, and DICGC covers up to ₹5 lakh, the DICGC ceiling can never be breached by a Payment Bank depositor. This creates de facto 100% coverage.\n\n• Option (a) — Incorrect: Payment Banks are covered; they are licensed commercial banks.\n• Option (b) — Incorrect: Partial coverage would require deposits exceeding ₹5 lakh, which is structurally impossible here.\n• Option (c) — Correct: Every depositor is fully covered because the maximum possible deposit (₹2 lakh) is well below the insurance limit (₹5 lakh).\n• Option (d) — Incorrect: DICGC coverage of Payment Banks is mandatory and current, not pending policy review.\n\nValue Addition:\n• This feature makes Payment Banks highly credible for small depositors, supporting financial inclusion.\n• Small Finance Banks (also licensed commercial banks) are similarly covered — their deposit acceptance has no such ceiling.\n• The ₹2 lakh Payment Bank limit was set at licensing to prevent systemic risk from these newer entities."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Priya deposits ₹1.8 lakh in a licensed Payment Bank, which is the maximum amount she is permitted to hold in such an institution. The Payment Bank subsequently faces financial distress and the Reserve Bank of India places it under moratorium. Priya wishes to understand her insurance protection under DICGC. Which of the following correctly describes her position?\n\n(a) Priya's deposit is not covered because Payment Banks are not eligible for DICGC insurance\n(b) Priya is only partially covered because DICGC covers deposits in Payment Banks up to ₹1 lakh\n(c) Priya's entire deposit of ₹1.8 lakh is fully covered because the Payment Bank's deposit ceiling is lower than the DICGC insurance limit\n(d) Priya's coverage is subject to a policy review because Payment Banks were not originally envisaged under the DICGC Act, 1961",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5905a5a7-f9a5-4321-bf2e-189b031a79a3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Credit Guarantee Function of DICGC"
+      ],
+      "subject_que_no": 1187,
+      "overall_que_no": 8534
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DICGC active primary function vs. its nominal credit guarantee role",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know CGTMSE deals with credit guarantees and attempt to distinguish it from DICGC on functional grounds may incorrectly pick (c) rather than identifying DICGC's credit guarantee function as dormant.",
+      "elimination_logic": [
+        "Identify the category: the question asks which does NOT primarily function as an active credit guarantee mechanism today.",
+        "CGTMSE actively guarantees credit to micro and small enterprises — it is currently operational.",
+        "NCGTC (National Credit Guarantee Trustee Company) provides credit guarantees to skill loans, education loans, and other sectors — active.",
+        "DICGC nominally includes 'Credit Guarantee' in its name, but its active primary function today is deposit insurance — its credit guarantee schemes have been largely wound down or transferred.",
+        "SIDBI provides refinance and developmental support but is not primarily a credit guarantee entity — however, among the four, DICGC is the most clearly out-of-place as a credit guarantor in practice. Answer: (b)."
+      ],
+      "upsc_trap_explanation": "This question exploits the name-based confusion around DICGC. Students see 'Credit Guarantee' in DICGC's full name and assume it is actively involved in credit guarantee functions alongside CGTMSE and NCGTC. In reality, DICGC's credit guarantee operations have largely been transferred or wound down — its primary active function is deposit insurance. The trap is that the name misleads about the current functional role.",
+      "final_explanation": "Credit guarantee in India's financial ecosystem involves multiple institutions, but their active roles differ significantly.\n\n• Option (a) — CGTMSE: Actively guarantees credit to micro and small enterprises through Member Lending Institutions. Core functional mandate is credit guarantee.\n• Option (b) — DICGC: Although 'Credit Guarantee' appears in its name, DICGC's credit guarantee schemes have been substantially wound down over time. Its active primary function today is deposit insurance. This makes DICGC the odd one out in a list of active credit guarantors.\n• Option (c) — NCGTC: Provides credit guarantees under various government schemes including skill loans, education loans, and loans to start-ups. Actively functional.\n• Option (d) — Credit Guarantee Fund for Agriculture: Provides credit guarantees for agricultural lending — sector-specific but active.\n\nValue Addition:\n• DICGC's credit guarantee functions were originally designed for small-scale industries and traders.\n• The separation of credit guarantee from deposit insurance in functional terms makes CGTMSE the dominant credit guarantee institution for MSEs.\n• Students should note: DICGC's name reflects historical mandate; current primary mandate is deposit insurance."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following does NOT function primarily as an active credit guarantee institution in India's current financial architecture?\n\n(a) Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)\n(b) Deposit Insurance and Credit Guarantee Corporation (DICGC)\n(c) National Credit Guarantee Trustee Company (NCGTC)\n(d) Credit Guarantee Fund for Agriculture",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7dadfda1-18c1-4f0d-bae9-2fb51fc11adf",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Role of RBI in DICGC Governance and Oversight"
+      ],
+      "subject_que_no": 1188,
+      "overall_que_no": 8535
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "RBI governance of DICGC and conflict of interest",
+      "statement_analysis": [
+        {
+          "statement": "The Reserve Bank of India appoints the Board of DICGC, and the Chairman of DICGC is typically a Deputy Governor of RBI.",
+          "verdict": "Correct",
+          "reason": "RBI as the sole owner of DICGC appoints its Board, with a Deputy Governor of RBI traditionally serving as Chairman — reflecting the close governance integration."
+        },
+        {
+          "statement": "In the event the Deposit Insurance Fund falls short of meeting claims, the Central Government provides an explicit statutory guarantee to make up the shortfall.",
+          "verdict": "Incorrect",
+          "reason": "It is the RBI — not the Central Government — that provides lines of credit to DICGC if the DIF is insufficient. There is no explicit statutory government guarantee backing the DIF, unlike the FDIC in the USA which has US Treasury backing."
+        }
+      ],
+      "strong_distractor": "a — Students who know 'the government backs bank deposits' conflate general government policy with a specific statutory guarantee for DICGC's DIF, marking Statement 2 as correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: RBI appoints DICGC's Board and a Deputy Governor chairs it — this is a standard feature of RBI's ownership relationship. Statement 1 is Correct.",
+        "Evaluate Statement 2: The backstop for DIF inadequacy comes from RBI lines of credit, not from an explicit Central Government guarantee. India's DIF lacks the Treasury-backed guarantee that the US FDIC enjoys. Statement 2 is Incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — answer is (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2 is constructed to exploit a common assumption: that the government ultimately backs bank deposits. While this may be true as a political reality (too-big-to-fail logic), there is NO explicit statutory guarantee from the Central Government to cover DICGC's shortfalls. The RBI provides lines of credit, but this is different from a government guarantee. Contrast with the FDIC, which has explicit US Treasury backing — India's system does not replicate this feature.",
+      "final_explanation": "RBI's relationship with DICGC involves governance control and financial backstopping, but the nature of each must be precisely understood.\n\n• Statement 1 — Correct: RBI appoints DICGC's Board as the 100% owner. A Deputy Governor of RBI chairs the Board — an arrangement that ensures alignment between RBI's regulatory function and DICGC's insurance function, though it also raises conflict-of-interest concerns.\n• Statement 2 — Incorrect: The Central Government provides no explicit statutory guarantee for DICGC's DIF. If the Fund runs short, RBI extends lines of credit to DICGC. This is a critical distinction from the US FDIC model, where explicit Treasury backing enhances depositor confidence.\n\nValue Addition:\n• The conflict of interest: RBI as bank regulator may be reluctant to acknowledge a bank's failure quickly, which could delay DICGC payouts — a structural tension.\n• India's DIF lacks the 'full faith and credit' guarantee that makes the US FDIC uniquely credible.\n• The reserve ratio of India's DIF (insured deposits covered by DIF balance) is lower than international benchmarks, raising concerns about adequacy in a systemic crisis."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about the Reserve Bank of India's role in DICGC's governance and financial backing:\n\nStatement 1: The Reserve Bank of India appoints the Board of DICGC, and the Chairman of DICGC is typically a Deputy Governor of RBI.\n\nStatement 2: In the event the Deposit Insurance Fund falls short of meeting claims, the Central Government provides an explicit statutory guarantee to make up the shortfall.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ea703259-20bc-4ada-af46-1dfa5b582fdb",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Treatment of Joint Account Holders Under DICGC"
+      ],
+      "subject_que_no": 1189,
+      "overall_que_no": 8536
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Joint accounts treated as distinct depositor from individual accounts",
+      "statement_analysis": null,
+      "strong_distractor": "c — Option (c) tempts students who assume joint accounts are merely sub-accounts of one of the holders, leading them to believe no additional coverage arises from holding both individual and joint accounts.",
+      "elimination_logic": [
+        "Recall the rule: DICGC treats a joint account as a separate depositor distinct from the individual accounts of the same persons.",
+        "This means Ramesh's individual account (₹5 lakh max) and the Ramesh+Suresh joint account (₹5 lakh max) are separately eligible.",
+        "Eliminate (b) and (d): these options treat the accounts as merged for coverage purposes — incorrect under DICGC rules.",
+        "Eliminate (c): the individual and joint accounts are treated as distinct depositors — Ramesh can receive up to ₹5 lakh from each, confirming (a) as correct."
+      ],
+      "upsc_trap_explanation": "Students who apply the intuitive notion that 'it's the same person's money' incorrectly assume that Ramesh's individual and joint accounts are aggregated under his ₹5 lakh ceiling. DICGC's framework treats the joint account holder combination as a legally distinct depositor identity. This allows strategic use of joint accounts to maximise coverage — a fact that surprises many students.",
+      "final_explanation": "DICGC's treatment of joint accounts is a technical but important provision that enables depositors to maximise coverage.\n\n• Option (a) — Correct: The joint account (Ramesh + Suresh) is treated as a depositor distinct from Ramesh's individual account. Ramesh is therefore eligible for up to ₹5 lakh on his individual account AND the joint account has a separate ₹5 lakh ceiling. Ramesh's effective exposure in this bank is covered across both dimensions.\n• Option (b) — Incorrect: Aggregating all of Ramesh's accounts (individual + joint) under one ₹5 lakh limit is not how DICGC rules operate.\n• Option (c) — Incorrect: Individual and joint accounts are NOT merged — they are distinct depositor identities.\n• Option (d) — Incorrect: The joint account does not receive reduced coverage; it receives the full ₹5 lakh ceiling as a separate depositor.\n\nValue Addition:\n• A+B and B+A joint accounts are treated as the SAME depositor combination — order of names does not create a new depositor identity.\n• Strategic depositor: a person can hold individual accounts in multiple banks AND joint accounts — each creates independent insurance entitlements.\n• This rule is consistent with IADI guidelines on joint account treatment."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Ramesh holds an individual savings account with ₹4 lakh at Bank X. He also holds a joint fixed deposit of ₹3 lakh with Suresh at the same Bank X. Under DICGC's deposit insurance rules, the joint account held by Ramesh and Suresh is treated as ________ for the purpose of the ₹5 lakh insurance limit.\n\n(a) A separate depositor from Ramesh's individual account, entitling it to an independent ₹5 lakh ceiling\n(b) Part of Ramesh's individual depositor identity, reducing his effective remaining coverage to ₹1 lakh\n(c) A sub-account of Ramesh that is aggregated with his individual deposits for a combined ceiling of ₹5 lakh\n(d) A reduced-coverage account attracting only 50% of the standard ₹5 lakh limit",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3a50b1d2-fa9e-415c-ba8b-3ba8bde294c8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "International Comparisons — FDIC (USA) and Other Deposit Insurance Schemes"
+      ],
+      "subject_que_no": 1190,
+      "overall_que_no": 8537
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "FDIC vs. DICGC comparative features",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know India 'covers 98% of depositors' may conflate this with deposit value coverage and incorrectly mark (a) as correct without separating account-count coverage from deposit-value coverage.",
+      "elimination_logic": [
+        "Evaluate (a): India covers ~98% of depositor accounts by number — but only ~50% by deposit value. The pair states 'deposit value' covered at 98% — this conflates the two metrics. Incorrect.",
+        "Evaluate (b): FDIC coverage is $250,000, not $100,000 (the pre-2008 limit). The $100,000 limit was the pre-crisis ceiling. Incorrect.",
+        "Evaluate (c): FDIC indeed has explicit US Treasury backing — it can borrow from the Treasury if its fund is depleted. DICGC has no equivalent explicit government guarantee — RBI provides lines of credit instead. This contrast is correctly stated. Correct.",
+        "Evaluate (d): IADI stands for International Association of Deposit Insurers — not 'International Alliance.' Additionally, IADI is not a UN agency. Incorrect."
+      ],
+      "upsc_trap_explanation": "Option (a) is a conflation trap — it merges two genuine statistics: India covers ~98% of depositor accounts by number AND ~50% of deposit value. A student who recalls only the '98%' figure and does not remember what it refers to (accounts, not value) will mark (a) as correct. This is a classic UPSC technique of splitting a compound fact and reassigning the quantifier to the wrong variable.",
+      "final_explanation": "Comparative deposit insurance knowledge — particularly the FDIC vs. DICGC contrast — is a high-value topic for UPSC.\n\n• Option (a) — Incorrect: India covers approximately 98% of depositor accounts by number but only around 50% of total deposit value. Claiming 98% deposit value coverage is incorrect.\n• Option (b) — Incorrect: FDIC's current coverage limit is $250,000 per depositor per bank (raised from $100,000 in 2008 during the financial crisis). The $100,000 figure is outdated.\n• Option (c) — Correct: FDIC benefits from an explicit US Treasury backstop — it can borrow up to $100 billion from the Treasury. DICGC has no comparable explicit government guarantee; RBI merely extends lines of credit, which is a weaker form of support.\n• Option (d) — Incorrect: IADI stands for International Association of Deposit Insurers. It is not a UN agency — it is an association of deposit insurance entities worldwide.\n\nValue Addition:\n• IADI's Core Principles for Effective Deposit Insurance Systems serve as the global benchmark; India's compliance is assessed periodically.\n• The US, UK, and EU all have explicit government backstops for their deposit insurance funds — India is an outlier.\n• Risk-based premiums (FDIC) vs. flat-rate premiums (DICGC) is a recurring policy debate in India."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched?\n\n(a) India (DICGC) — Approximately 98% of total deposit value in banks is covered within the insurance limit\n(b) USA (FDIC) — Current per-depositor insurance coverage limit of USD 100,000\n(c) USA (FDIC) — Has an explicit US Treasury backstop allowing borrowings if the insurance fund is depleted; DICGC has no equivalent government guarantee\n(d) IADI — United Nations agency that sets mandatory deposit insurance norms for member countries",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bfefe23f-7d32-4c0d-bdf4-e1c47421c871",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Subrogation Rights of DICGC Post-Payment"
+      ],
+      "subject_que_no": 1191,
+      "overall_que_no": 8538
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "DICGC subrogation — depositor retains claim above insured limit",
+      "statement_analysis": [
+        {
+          "statement": "When DICGC pays an insured depositor after a bank failure, it acquires the depositor's rights as a creditor of the failed bank to the extent of the amount paid.",
+          "verdict": "Correct",
+          "reason": "Subrogation means DICGC steps into the shoes of the depositor and becomes a creditor of the liquidation estate to the extent of the insurance payout."
+        },
+        {
+          "statement": "Once DICGC pays the insured amount to a depositor, the depositor's entire claim against the failed bank — including amounts exceeding ₹5 lakh — is extinguished and transferred to DICGC.",
+          "verdict": "Incorrect",
+          "reason": "Subrogation is limited to the amount DICGC paid. A depositor with ₹8 lakh in a failed bank receives ₹5 lakh from DICGC but retains an independent right to claim the remaining ₹3 lakh from the liquidation estate."
+        },
+        {
+          "statement": "DICGC's practical recovery from a failed bank's liquidation estate is often only a fraction of the amount it paid to depositors, given the generally low asset quality of failed banks.",
+          "verdict": "Correct",
+          "reason": "In practice, failed banks have significantly impaired assets, resulting in low recovery rates for all creditors including DICGC in liquidation proceedings."
+        }
+      ],
+      "strong_distractor": "c — Option (c) includes Statement 1 and 3 which are both correct, making it almost identical to option (b). Students must carefully evaluate Statement 2 to distinguish between (b) and (c).",
+      "elimination_logic": [
+        "Evaluate Statement 1: subrogation is exactly this — DICGC steps into depositor's shoes as a creditor up to the paid amount. Statement 1 is Correct.",
+        "Evaluate Statement 2: 'entire claim including amounts exceeding ₹5 lakh is extinguished' — this is false. Only the ₹5 lakh portion transfers to DICGC; the excess remains the depositor's independent claim. Statement 2 is Incorrect.",
+        "Evaluate Statement 3: low recovery rates from failed banks are well-documented — DICGC's subrogation rights do not guarantee full recovery. Statement 3 is Correct.",
+        "Statements 1 and 3 are correct; Statement 2 is incorrect — answer is (b) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a scope-extension trap: students who know 'claims transfer to DICGC' through subrogation may extend this to 'all claims transfer,' extinguishing the depositor's right to the uninsured portion. DICGC's subrogation is precisely limited to the amount it paid. The depositor retains an independent creditor status for the uninsured balance — a critical distinction that affects depositors with large balances in failed banks.",
+      "final_explanation": "Subrogation is the legal mechanism by which DICGC, after paying insured depositors, acquires the right to recover from the failed bank's assets in place of those depositors.\n\n• Statement 1 — Correct: DICGC pays ₹5 lakh to an insured depositor and then steps into that depositor's shoes as a creditor in the liquidation proceedings for that amount. This is standard subrogation.\n• Statement 2 — Incorrect: The uninsured portion (above ₹5 lakh) remains the depositor's own claim against the liquidation estate. Subrogation is not a global assignment of all depositor rights — it is limited to the amount DICGC paid. This is a vital protection for depositors with large balances.\n• Statement 3 — Correct: Failed banks typically have deteriorated assets, litigation-entangled properties, and NPAs. DICGC's recovery from liquidation estates is historically modest.\n\nValue Addition:\n• Under the 2021 Amendment, depositors receiving interim payment during moratorium must formally assign their claim rights to DICGC (subrogation formalised at moratorium stage itself, not just at liquidation).\n• Depositors can simultaneously receive ₹5 lakh from DICGC and pursue the remaining claim in liquidation.\n• DICGC's creditor ranking in liquidation proceedings affects how much it ultimately recovers."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding DICGC's subrogation rights following the payment of deposit insurance claims:\n\n1. When DICGC pays an insured depositor after a bank failure, it acquires the depositor's rights as a creditor of the failed bank to the extent of the amount paid.\n2. Once DICGC pays the insured amount to a depositor, the depositor's entire claim against the failed bank — including amounts exceeding ₹5 lakh — is extinguished and transferred to DICGC.\n3. DICGC's practical recovery from a failed bank's liquidation estate is often only a fraction of the amount it paid to depositors, given the generally low asset quality of failed banks.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 3 only\n(c) 1, 2 and 3\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "87405b7f-61b5-4a0a-be2d-71c1247f3fff",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Financial Resolution and Deposit Insurance (FRDI) Bill, 2017 — Contrast with DICGC"
+      ],
+      "subject_que_no": 1192,
+      "overall_que_no": 8539
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "FRDI Bill withdrawn; 2021 DICGC Amendment is actual reform",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who followed the FRDI Bill debate may incorrectly believe it was passed in a modified form, confusing it with the 2021 DICGC Amendment which was the actual legislative reform that materialised.",
+      "elimination_logic": [
+        "Eliminate (a): The FRDI Bill was never passed — it was withdrawn in 2018 following public concern over the bail-in clause. No modified version was enacted.",
+        "Eliminate (b): The 2021 DICGC Amendment did introduce time-bound payment but it strengthened the DICGC framework — it did NOT replace DICGC with a new Resolution Corporation.",
+        "Eliminate (d): The bail-in clause was the controversial element that caused the FRDI Bill's withdrawal — the 2021 amendment specifically avoided bail-in and instead strengthened depositor protection.",
+        "Confirm (c): FRDI Bill 2017 was withdrawn in 2018. The reform that actually materialised was the DICGC (Amendment) Act, 2021 — which enhanced depositor protection without a bail-in mechanism."
+      ],
+      "upsc_trap_explanation": "This is a temporal and entity-swap trap targeting students who know about both the FRDI Bill and the 2021 Amendment but confuse the outcome of each. The FRDI Bill was widely discussed in 2017–18 and its withdrawal in 2018 was newsworthy. Students who retain 'FRDI → Resolution Corporation → passed' as a memory fragment will incorrectly mark (a). The actual reform was the DICGC Amendment Act, 2021, which took a completely different approach — protecting depositors without any bail-in.",
+      "final_explanation": "The FRDI Bill and the DICGC Amendment represent two very different policy approaches to banking resolution.\n\n• Option (a) — Incorrect: The FRDI Bill was withdrawn in 2018 after massive public backlash against its 'bail-in' clause, which allowed a failing bank to use depositor funds beyond the insured limit for its own resolution. No modified version was ever passed.\n• Option (b) — Incorrect: The 2021 DICGC Amendment strengthened the existing DICGC framework — it did not establish a new Resolution Corporation. The Resolution Corporation concept died with the FRDI Bill.\n• Option (c) — Correct: The FRDI Bill (2017) was withdrawn in 2018. The actual legislative reform was the DICGC (Amendment) Act, 2021, which introduced time-bound 90-day payments during moratorium — entirely within the existing DICGC structure.\n• Option (d) — Incorrect: The 2021 Amendment specifically protects depositors by accelerating payments; it has no bail-in provision.\n\nValue Addition:\n• The bail-in clause under FRDI would have allowed banks to convert depositor funds into equity or haircut deposits — the exact opposite of deposit insurance.\n• The 2021 Amendment was contextualised by the PMC Bank depositor distress case.\n• India currently has no dedicated Financial Resolution Corporation — resolution of financial firms relies on RBI, SEBI, IRDAI, and other sector regulators."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly describes the legislative outcome of the Financial Resolution and Deposit Insurance (FRDI) Bill, 2017 and its relationship to subsequent reforms in India's deposit insurance framework?\n\n(a) The FRDI Bill was passed in a modified form in 2018, establishing a Resolution Corporation that operates alongside DICGC\n(b) The FRDI Bill lapsed but was substantially revived through the DICGC Amendment Act, 2021, which created a new Resolution Corporation replacing DICGC\n(c) The FRDI Bill was withdrawn in 2018 following public opposition; the reform that actually materialised was the DICGC (Amendment) Act, 2021, which enhanced depositor protection within the existing DICGC framework\n(d) The FRDI Bill was withdrawn but its bail-in clause was incorporated into the DICGC (Amendment) Act, 2021 as a resolution mechanism for cooperative banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "44e7fb93-4261-4c9e-81d3-23a5d35f2650",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "De-registration of Banks from DICGC and Its Consequences"
+      ],
+      "subject_que_no": 1193,
+      "overall_que_no": 8540
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "De-registration vs. licence cancellation — distinct events, different consequences",
+      "statement_analysis": [
+        {
+          "statement": "A bank can be de-registered from DICGC insurance while still remaining operational as a licensed bank.",
+          "verdict": "Correct",
+          "reason": "De-registration from DICGC (for non-payment of premium or non-submission of returns) is a separate event from RBI's cancellation of a bank's operating licence — a bank can be de-registered from DICGC while continuing to accept deposits."
+        },
+        {
+          "statement": "Deposits made by customers before the date of a bank's de-registration from DICGC remain insured even after de-registration.",
+          "verdict": "Correct",
+          "reason": "Pre-de-registration deposits retain their insurance cover; only deposits accepted AFTER the de-registration date are uninsured. This is a critical consumer protection nuance."
+        },
+        {
+          "statement": "Once a bank is de-registered from DICGC, all deposits held by customers — irrespective of when they were made — lose insurance coverage immediately.",
+          "verdict": "Incorrect",
+          "reason": "Insurance coverage does not retroactively disappear for pre-de-registration deposits. The cut-off is the de-registration date: deposits made before remain covered, deposits made after are not."
+        }
+      ],
+      "strong_distractor": "c — Option (c) includes Statements 1 and 3, where 3 is incorrect. Students who intuitively feel de-registration cancels all coverage (because the bank is no longer a member) will pick this option.",
+      "elimination_logic": [
+        "Evaluate Statement 1: de-registration is distinct from licence cancellation — a bank can lose DICGC membership while still operating. Statement 1 is Correct.",
+        "Evaluate Statement 2: pre-de-registration deposits are protected — the coverage persists for deposits made while the bank was a DICGC member. Statement 2 is Correct.",
+        "Evaluate Statement 3: 'all deposits irrespective of when made lose coverage immediately' — this is false. The temporal cut-off (de-registration date) determines coverage. Statement 3 is Incorrect.",
+        "Statements 1 and 2 are correct; Statement 3 is incorrect — answer is (b) 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the intuitive assumption that membership in DICGC is like a subscription — cancel it and all coverage disappears. The legal reality is more nuanced: the insurance contract for each deposit is formed at the time of deposit acceptance. Deposits accepted during the membership period retain their contractual insurance protection even if the bank later loses DICGC membership. This temporal granularity is the precise knowledge UPSC rewards.",
+      "final_explanation": "De-registration from DICGC is a distinct regulatory action with specific temporal consequences for depositor protection.\n\n• Statement 1 — Correct: RBI can cancel a bank's DICGC registration for failure to pay premiums or submit half-yearly returns. This is independent of the bank's operating licence — the bank may continue functioning without DICGC membership, creating a hidden risk for new depositors.\n• Statement 2 — Correct: The de-registration date acts as a temporal threshold. Deposits made while the bank was a valid DICGC member retain their insurance protection regardless of what happens afterward.\n• Statement 3 — Incorrect: Coverage for pre-de-registration deposits is not retroactively cancelled. Immediate cancellation of all coverage would be manifestly unfair to depositors who had no knowledge of the bank's non-compliance with DICGC norms.\n\nValue Addition:\n• Depositor awareness of their bank's DICGC registration status is a significant practical challenge — there is limited public visibility into de-registration actions.\n• The gap between de-registration and licence cancellation creates a 'coverage blind spot' for new depositors who may be unaware their deposits are uninsured.\n• RBI publishes the list of DICGC-registered banks on its website — a resource depositors can use to verify coverage status."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the de-registration of a bank from DICGC's deposit insurance scheme:\n\n1. A bank can be de-registered from DICGC insurance while still remaining operational as a licensed bank.\n2. Deposits made by customers before the date of a bank's de-registration from DICGC remain insured even after de-registration.\n3. Once a bank is de-registered from DICGC, all deposits held by customers — irrespective of when they were made — lose insurance coverage immediately.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "bdc3eb98-32eb-479a-8edb-33c8fbd17fc5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Moral Hazard Problem in Deposit Insurance Design"
+      ],
+      "subject_que_no": 1194,
+      "overall_que_no": 8541
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Moral hazard in deposit insurance — depositor complacency and bank risk-taking",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes. Deposit insurance, by guaranteeing depositors against loss, reduces their incentive to monitor the financial health of their bank. This is the depositor-side moral hazard.",
+        "Step 2 — Is R correct? Yes. When deposits are insured, banks face reduced pressure from depositors to maintain sound practices — they may take on more risk knowing that losses beyond the insured limit fall primarily on large uninsured depositors and the deposit insurance fund.",
+        "Step 3 — Does R causally explain A? Yes. The reason depositors exercise reduced market discipline (A) is precisely that their funds are protected by insurance, eliminating the financial consequence of choosing a risky bank (R). R directly explains the mechanism behind A.",
+        "A correct + R correct + R explains A → correct option is (a)."
+      ],
+      "upsc_trap_explanation": "This assertion-reason is designed so that both A and R are correct and causally connected — making (a) the right answer. The trap is for students who reflexively choose (b) when they see a 'double correct' pair, assuming UPSC always designs these to be non-explanatory. In this case, R genuinely and directly explains A — the insurance protection is precisely the reason depositor monitoring is reduced. Students must actually verify the causal link rather than assuming it will be absent.",
+      "final_explanation": "Moral hazard is one of the core theoretical critiques of deposit insurance and is highly relevant to UPSC's policy analysis questions.\n\nAssertion (A) — Correct: Deposit insurance creates depositor-side moral hazard. When depositors know their funds are protected, they have no incentive to choose banks carefully based on financial soundness — a phenomenon called reduced market discipline.\n\nReason (R) — Correct: Banks exploiting this reduced scrutiny may take on higher risks — extending loans to riskier borrowers, maintaining lower capital buffers, or engaging in speculative activities — knowing that depositors will not react adversely because their funds are insured. This is bank-side moral hazard.\n\nCausal relationship: R correctly explains A. The mechanism is direct: because deposits are protected by insurance (R), depositors have no financial stake in monitoring bank risk (A). The causal arrow runs from insurance protection → depositor indifference → reduced discipline on banks.\n\nCorrect option: (a) — Both A and R are correct, and R is the correct explanation of A.\n\nValue Addition:\n• Co-insurance (depositor bears a small percentage of loss) is a theoretical mitigant to depositor moral hazard.\n• Risk-based premiums address bank-side moral hazard by charging riskier banks more.\n• India's coverage limit (₹5 lakh) is a deliberate design choice — full coverage for small depositors, partial exposure for large sophisticated depositors who can monitor bank risk."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Comprehensive deposit insurance schemes can reduce the incentive of depositors to monitor the financial soundness of their banks, thereby weakening market discipline on banking institutions.\n\nReason (R): When deposits are insured, banks face reduced pressure from informed depositors and may be inclined to pursue riskier lending and investment strategies, transferring potential losses to the deposit insurance fund.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0a4820a8-76d6-4888-b377-88efbdfb1618",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Coverage Limit: ₹5 Lakh Insurance per Depositor per Bank",
+        "Assessable Deposits vs. Insured Deposits — Calculation Methodology"
+      ],
+      "subject_que_no": 1195,
+      "overall_que_no": 8542
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "DICGC coverage mechanics — per-depositor aggregation and deposit classification",
+      "statement_analysis": [
+        {
+          "statement": "A depositor with ₹2.5 lakh in a savings account and ₹3 lakh in a fixed deposit, both in the same bank, will receive a maximum of ₹5 lakh from DICGC if that bank fails.",
+          "verdict": "Correct",
+          "reason": "Both accounts in the same bank are aggregated — total ₹5.5 lakh — but DICGC pays only up to ₹5 lakh per depositor per bank."
+        },
+        {
+          "statement": "Premium payable by a bank to DICGC is calculated only on that portion of deposits that falls within the ₹5 lakh insured ceiling for each depositor.",
+          "verdict": "Incorrect",
+          "reason": "Premium is calculated on assessable deposits — the total eligible deposit pool before applying per-depositor caps — not just the insured portion. Calculating on only the capped amount would significantly understate the premium base."
+        },
+        {
+          "statement": "A bank must submit half-yearly returns to DICGC declaring its assessable deposit figures.",
+          "verdict": "Correct",
+          "reason": "Banks are required to submit half-yearly returns to DICGC with their assessable deposit data, which forms the basis for premium calculation."
+        },
+        {
+          "statement": "Assessable deposits and insured deposits are identical concepts — both refer to the portion of deposits covered by the ₹5 lakh ceiling.",
+          "verdict": "Incorrect",
+          "reason": "Assessable deposits are the total pool eligible for insurance (before applying the ₹5 lakh cap); insured deposits are the legally covered portion after applying per-depositor limits. They are distinct and assessable deposits are always larger."
+        }
+      ],
+      "strong_distractor": "c — 'Only three' tempts students who correctly identify Statement 2 as wrong but are uncertain about Statement 4, potentially marking only Statement 4 as additionally wrong and arriving at three correct.",
+      "elimination_logic": [
+        "Statement 1: aggregation rule applies — ₹5.5 lakh total but only ₹5 lakh paid — Correct.",
+        "Statement 2: premium is on assessable deposits, not insured deposits — the claim 'only the insured portion' is incorrect. Statement 2 is Incorrect.",
+        "Statement 3: half-yearly return requirement is a statutory obligation — Correct.",
+        "Statement 4: assessable and insured deposits are NOT identical — assessable is always larger. Statement 4 is Incorrect.",
+        "Two correct statements (1 and 3), two incorrect (2 and 4) — answer is (b) Only two."
+      ],
+      "upsc_trap_explanation": "Statement 4 is the hidden trap — students who learn 'assessable = insured = covered' as a shorthand will mark this as correct. The distinction is: assessable deposits are the pre-cap total; insured deposits are the post-cap protected amount. A bank with one depositor holding ₹10 lakh has ₹10 lakh in assessable deposits but only ₹5 lakh in insured deposits. Premium is charged on the larger number — a fact that matters for understanding DICGC's financial mechanics.",
+      "final_explanation": "Understanding the layered vocabulary of DICGC — assessable deposits, insured deposits, covered amounts — is essential for precision in examination.\n\n• Statement 1 — Correct: Same bank, same depositor — all accounts aggregated. ₹5.5 lakh total → ₹5 lakh payout. Correct application of aggregation rule.\n• Statement 2 — Incorrect: Premium base is assessable deposits (the whole insurable pool), not the insured portion after per-depositor capping. Using the smaller insured base would undercharge banks for their actual exposure.\n• Statement 3 — Correct: Half-yearly returns to DICGC are a statutory compliance requirement for all insured banks.\n• Statement 4 — Incorrect: Assessable deposits ≠ insured deposits. Assessable deposits are the gross eligible pool; insured deposits are the net liability after applying ₹5 lakh caps. The difference between these two numbers represents the uninsured portion of deposits — important for measuring DIF adequacy.\n\nValue Addition:\n• India's insured deposits as a percentage of assessable deposits gives the DIF's 'exposure ratio' — a key metric for systemic risk assessment.\n• Half-yearly compliance also tracks whether banks are maintaining proper DICGC membership in good standing.\n• The gap between assessable and insured deposits is where large corporate depositors and wealthy individuals hold unprotected funds."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "How many of the following statements regarding DICGC's coverage mechanics and premium calculation are correct?",
+        "columns": [
+          "Statement",
+          "rows\": [\n            [\"1",
+          "A depositor with ₹2.5 lakh in a savings account and ₹3 lakh in a fixed deposit, both in the same bank, will receive a maximum of ₹5 lakh from DICGC if that bank fails.",
+          "2",
+          "Premium payable by a bank to DICGC is calculated only on that portion of deposits that falls within the ₹5 lakh insured ceiling for each depositor.",
+          "3",
+          "A bank must submit half-yearly returns to DICGC declaring its assessable deposit figures.",
+          "4",
+          "Assessable deposits and insured deposits are identical concepts — both refer to the portion of deposits covered by the ₹5 lakh ceiling."
+        ],
+        "footer_text": "(a) Only one\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "daffa733-943e-4f22-aa04-15430c9ec727",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "DICGC's Role in Financial Stability and Systemic Risk Mitigation",
+        "Deposit Insurance Fund (DIF) — Adequacy and Management"
+      ],
+      "subject_que_no": 1196,
+      "overall_que_no": 8543
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "DIF limitations — systemic risk and government guarantee absence",
+      "statement_analysis": [
+        {
+          "statement": "DICGC deposit insurance is designed to protect individual depositors from bank failures but is not intended as a tool to address economy-wide systemic banking crises.",
+          "verdict": "Correct",
+          "reason": "Deposit insurance addresses individual bank failures; systemic crises require macro-prudential tools, lender-of-last-resort operations, and government fiscal intervention — well beyond DICGC's mandate."
+        },
+        {
+          "statement": "The Deposit Insurance Fund (DIF) maintained by DICGC is invested in equity shares of public sector banks to generate higher returns, ensuring fund adequacy over time.",
+          "verdict": "Incorrect",
+          "reason": "DIF is invested in government securities — not equity shares. Investment in equities would expose the insurance fund to the very risks it is designed to insure against, creating a perverse conflict."
+        },
+        {
+          "statement": "Deposit insurance prevents bank runs by assuring small depositors that their funds are protected, thereby contributing to systemic financial stability.",
+          "verdict": "Correct",
+          "reason": "The psychological assurance provided by deposit insurance is a key channel through which it promotes financial stability — insured depositors have no incentive to rush to withdraw funds upon rumours of bank distress."
+        }
+      ],
+      "strong_distractor": "a — Students who know DIF is invested 'conservatively' and vaguely recall 'bank-related investments' may incorrectly think equity in PSBs is a permissible and standard investment, making Statement 2 seem correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: deposit insurance is for individual failures, not systemic crises — this is correct. Statement 1 is not the NOT-correct statement.",
+        "Evaluate Statement 2: DIF invested in equity shares of public sector banks — this is factually wrong. DIF is invested in government securities. Statement 2 is NOT correct.",
+        "Evaluate Statement 3: deposit insurance prevents bank runs through depositor assurance — this is a textbook function. Statement 3 is correct.",
+        "Only Statement 2 is NOT correct — answer is (a) 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 uses the plausible-sounding phrase 'public sector banks' to make the investment in equities appear safe and logical. Students who know DIF must be conservatively invested but cannot recall the specific instrument (government securities) may be unsure — leading them to accept Statement 2 as plausible. Investing DIF in PSB equities would be circular (insuring banks while investing in those same banks' stocks), which is precisely why government securities are the mandated instrument.",
+      "final_explanation": "DICGC's DIF management is governed by safety and liquidity imperatives, not return maximisation.\n\n• Statement 1 — Correct: Deposit insurance is a micro-level protection tool — it addresses single bank failures. Systemic crises (like the 2008 global financial crisis) require coordinated macro-level responses: central bank liquidity support, fiscal recapitalisation, regulatory forbearance.\n• Statement 2 — NOT Correct: DIF is invested in government securities, not equity shares. Investing in PSB equities would create a circular exposure — the fund designed to compensate for bank failures would be diminished precisely when banks fail (equity values collapse). Government securities provide safety, liquidity, and stable returns.\n• Statement 3 — Correct: The prevention of bank runs is deposit insurance's most important systemic stability function. Insured depositors do not panic-withdraw — this containment of contagion is valuable for financial system stability.\n\nValue Addition:\n• India's DIF reserve ratio (DIF as % of insured deposits) is periodically reviewed for adequacy against international benchmarks.\n• FDIC's DRR (Designated Reserve Ratio) target is 1.35% of insured deposits — India's equivalent is generally lower.\n• In a true systemic crisis, DIF alone would be inadequate — the RBI's lender-of-last-resort function and government fiscal backing become the primary defence."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Deposit Insurance Fund (DIF) maintained by DICGC and its role in financial stability:\n\n1. DICGC deposit insurance is designed to protect individual depositors from bank failures but is not intended as a tool to address economy-wide systemic banking crises.\n2. The Deposit Insurance Fund (DIF) maintained by DICGC is invested in equity shares of public sector banks to generate higher returns, ensuring fund adequacy over time.\n3. Deposit insurance prevents bank runs by assuring small depositors that their funds are protected, thereby contributing to systemic financial stability.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 2 only\n(b) 1 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "696eaeda-a2a0-4393-be15-c9404e46e5c0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Exclusion of Cooperative Societies from DICGC Coverage — Policy Gap",
+        "Mandatory vs. Voluntary Insurance — Which Banks Must Register"
+      ],
+      "subject_que_no": 1197,
+      "overall_que_no": 8544
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "application-scenario",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Cooperative society vs. cooperative bank — DICGC coverage gap for rural depositors",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know 'cooperatives are covered' without knowing the society/bank distinction will mark (a), assuming DICGC protects all cooperative-sector deposits.",
+      "elimination_logic": [
+        "Identify the entity type: a Primary Agricultural Credit Society (PACS) is a cooperative society, not a cooperative bank licensed under the Banking Regulation Act.",
+        "Apply the DICGC rule: only primary cooperative BANKS are eligible for DICGC coverage. PACS are outside DICGC's ambit regardless of their deposit-taking activities.",
+        "Eliminate (a): PACS deposits are not insured — the farmer's ₹80,000 has no DICGC protection.",
+        "Eliminate (c) and (d): ₹80,000 is below ₹5 lakh, so if PACS were covered, the farmer would get full coverage — but PACS are not covered at all. The farmer must approach state government mechanisms or seek recovery through liquidation proceedings. Answer: (b)."
+      ],
+      "upsc_trap_explanation": "The trap exploits the 'cooperative = covered' shorthand. Students who have absorbed that 'cooperative banks are covered' without carefully noting 'cooperative BANKS (not societies)' will incorrectly conclude that PACS deposits are insured. PACS are registered under cooperative society legislation and are not licensed as banks under the Banking Regulation Act — they fall outside DICGC's statutory jurisdiction entirely. This is a major policy gap with direct relevance to rural depositor vulnerability.",
+      "final_explanation": "The PACS scenario tests one of the most important policy gaps in India's deposit insurance architecture.\n\nApplicable principle: DICGC coverage is available to primary cooperative BANKS — entities licensed as banks under the Banking Regulation Act. Primary Agricultural Credit Societies (PACS) are cooperative societies registered under state cooperative society acts and are NOT licensed banks. They are therefore outside DICGC's coverage net.\n\nMapping to scenario: Ramkhelawan's ₹80,000 deposit with a PACS has no DICGC protection. His only recourse is state government intervention, the PACS's own liquidation process, or any state-specific depositor protection mechanism — none of which provide the certainty of DICGC insurance.\n\n• Option (a) — Incorrect: DICGC does not cover PACS deposits. The entity type (society, not bank) is disqualifying.\n• Option (b) — Correct: PACS are not eligible for DICGC coverage — Ramkhelawan has no insurance protection for this deposit.\n• Option (c) — Incorrect: While ₹80,000 < ₹5 lakh would mean full coverage IF PACS were covered, the premise is wrong — PACS are excluded.\n• Option (d) — Incorrect: PACS deposits are categorically excluded, not partially excluded. The amount is irrelevant to eligibility.\n\nValue Addition:\n• PACS form the base of India's short-term rural credit cooperative structure — their exclusion from DICGC leaves crores of rural depositors unprotected.\n• Multi-state cooperative societies are regulated by the Centre; single-state ones by state governments — adding jurisdictional complexity to coverage.\n• Post-PMC Bank crisis, there are ongoing discussions about extending deposit insurance to a broader range of cooperative entities."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Ramkhelawan, a marginal farmer in a village in Uttar Pradesh, has deposited ₹80,000 in his local Primary Agricultural Credit Society (PACS) which is registered under the state's cooperative society legislation and accepts deposits from its members. The PACS subsequently faces insolvency. Ramkhelawan approaches the nearest DICGC office claiming deposit insurance. Which of the following correctly describes his legal position under the DICGC framework?\n\n(a) Ramkhelawan's deposit is fully covered since DICGC insures all cooperative institutions that accept deposits from members\n(b) Ramkhelawan has no insurance protection under DICGC because Primary Agricultural Credit Societies are cooperative societies, not cooperative banks, and fall outside DICGC's coverage\n(c) Ramkhelawan is fully covered because his deposit of ₹80,000 is well within the ₹5 lakh ceiling applicable to all cooperative entities\n(d) Ramkhelawan is partially covered because PACS deposits above ₹50,000 are excluded but amounts below that threshold are insured",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b018e6d0-5ffe-42ab-8b32-571361e10da2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Statutory Foundation and Institutional Character of DICGC",
+        "Trigger Events for DICGC Claim Payment — Liquidation vs. Restructuring"
+      ],
+      "subject_que_no": 1198,
+      "overall_que_no": 8545
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "DICGC legislative and operational milestones sequence",
+      "statement_analysis": null,
+      "strong_distractor": "b — Placing the ₹5 lakh enhancement before the 2021 Amendment is the most common error — students recall both events from roughly the same period (both around 2020–21) and often reverse their sequence.",
+      "elimination_logic": [
+        "DICGC Act enacted in 1961 — this is the foundational legislation, earliest in the sequence.",
+        "The ₹5 lakh coverage enhancement was announced in the Union Budget 2020 and came into effect in February 2020.",
+        "The DICGC (Amendment) Act, 2021 — passed after the coverage enhancement, introducing the 90-day moratorium payment.",
+        "Correct sequence: DICGC Act (1961) → ₹5 lakh enhancement (2020) → 2021 Amendment. Option (a) is correct."
+      ],
+      "upsc_trap_explanation": "The 2020 coverage enhancement and the 2021 Amendment are temporally close and students frequently conflate or reverse them. The ₹5 lakh limit came first (Budget 2020, effective February 2020), followed by the structural reform of payment timing in the 2021 Amendment Act. Additionally, students may place the 1961 Act after the 1978 merger — but the Act predates the Corporation's operational merger.",
+      "final_explanation": "Key DICGC legislative timeline tested here spans six decades.\n\nCorrect sequence:\n1. DICGC Act, 1961 — the parent statute. Note: the Corporation became fully operational only in 1978 after the merger, but the Act was passed in 1961.\n2. ₹5 lakh coverage limit enhancement (2020) — announced in Union Budget 2020, the first revision since ₹1 lakh was set in 1993. This was a coverage quantum change.\n3. DICGC (Amendment) Act, 2021 — structural reform changing when payment is triggered (moratorium, not liquidation). This followed the coverage enhancement.\n\nWhy wrong options fail:\n• Option (b): places 2021 Amendment before the ₹5 lakh enhancement — reverses the 2020/2021 sequence.\n• Option (c): places the ₹5 lakh enhancement before the DICGC Act — impossible.\n• Option (d): places the 2021 Amendment before the DICGC Act — impossible.\n\nValue Addition:\n• The ₹1 lakh limit was set in 1993 and remained unchanged for 27 years — the 2020 enhancement was long overdue.\n• The 1961 Act predates the Corporation's actual merger (1978) by 17 years — the Act created the legal framework; the merger created the operational entity.\n• Both 2020 and 2021 reforms together represent the most significant strengthening of DICGC's framework since 1993."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following represents the correct chronological sequence of the following events in DICGC's legislative history?\n\n1. Enactment of the DICGC Act establishing the Corporation's statutory framework\n2. Enhancement of the per-depositor insurance coverage limit to ₹5 lakh\n3. Amendment introducing time-bound payment of insured deposits during moratorium\n\n(a) 1 – 2 – 3\n(b) 1 – 3 – 2\n(c) 2 – 1 – 3\n(d) 3 – 1 – 2",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ae09f5dc-1ed0-47e2-95b1-939141410206",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "DICGC (Amendment) Act, 2021 — Key Reforms"
+      ],
+      "subject_que_no": 1199,
+      "overall_que_no": 8546
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "2021 Amendment — subrogation, time-bound payment, pending schemes",
+      "statement_analysis": [
+        {
+          "statement": "Under the DICGC (Amendment) Act, 2021, DICGC is required to pay the insured amount to depositors within 90 days of a bank being placed under All-Inclusive Directions by the Reserve Bank of India.",
+          "verdict": "Correct",
+          "reason": "The 2021 Amendment introduced the 90-day payment obligation triggered by the bank being placed under All-Inclusive Directions (moratorium), eliminating the need to wait for winding-up."
+        },
+        {
+          "statement": "DICGC is exempted from making payment under the 2021 Amendment if a reconstruction or amalgamation scheme for the bank under moratorium is still pending finalisation.",
+          "verdict": "Incorrect",
+          "reason": "Under the 2021 Amendment, DICGC must pay the insured amount even if a reconstruction or amalgamation scheme is pending — the payment is not contingent on the scheme's outcome."
+        },
+        {
+          "statement": "A depositor who receives the insured amount from DICGC during the moratorium period must assign their claim rights, to the extent of the amount received, to DICGC.",
+          "verdict": "Correct",
+          "reason": "This is the subrogation mechanism formalised by the 2021 Amendment — depositors receiving interim payments must assign their creditor rights to DICGC for the paid amount, enabling DICGC to recover from the failed bank's assets."
+        }
+      ],
+      "strong_distractor": "d — Option (d) includes Statement 2 which is incorrect, but students who believe 'pending scheme' would logically pause insurance payment (making Statement 2 seem reasonable) will pick this option.",
+      "elimination_logic": [
+        "Evaluate Statement 1: 90-day payment from the date of All-Inclusive Directions — this is the core reform of the 2021 Amendment. Statement 1 is Correct.",
+        "Evaluate Statement 2: 'exempted if reconstruction scheme is pending' — false. The 2021 Amendment explicitly requires payment even when schemes are pending. Statement 2 is Incorrect.",
+        "Evaluate Statement 3: subrogation — depositor assigns claim rights to DICGC for the amount received — this is explicitly part of the 2021 Amendment's design. Statement 3 is Correct.",
+        "Statements 1 and 3 correct, Statement 2 incorrect — answer is (c) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a partial-truth trap: it is plausible that pending reconstruction would pause insurance claims (logical expectation: wait and see if the bank survives). The 2021 Amendment was specifically designed to override this logic — even if reconstruction is pending, DICGC must pay within 90 days. This was a deliberate policy choice to break the 'wait forever' pattern that PMC Bank depositors experienced. A student applying logical reasoning rather than precise legal knowledge will fall into this trap.",
+      "final_explanation": "The DICGC (Amendment) Act, 2021 introduced three interlocking reforms: a new trigger (moratorium), a time limit (90 days), and a subrogation mechanism.\n\n• Statement 1 — Correct: All-Inclusive Directions (moratorium) by RBI is the new payment trigger. The 90-day clock starts from the date of these Directions, not from any later event.\n• Statement 2 — Incorrect: A pending reconstruction or amalgamation scheme does not pause DICGC's payment obligation. The amendment explicitly requires payment regardless of whether a resolution scheme is in progress. This ensures depositors are not held hostage to uncertain bank restructuring timelines.\n• Statement 3 — Correct: The assignment of claim rights (subrogation) is a formal requirement under the 2021 Amendment. Depositors who receive the ₹5 lakh (or less) during moratorium must formally assign their creditor rights for that amount to DICGC.\n\nValue Addition:\n• The PMC Bank case (2019) is the direct policy trigger for the 2021 Amendment — PMC depositors waited years for relief.\n• Under the 2021 framework, DICGC pays from its DIF even before the bank's fate is determined.\n• Post-payment, DICGC participates in the bank's resolution or liquidation as a subrogated creditor."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the key provisions introduced by the DICGC (Amendment) Act, 2021:\n\n1. Under the DICGC (Amendment) Act, 2021, DICGC is required to pay the insured amount to depositors within 90 days of a bank being placed under All-Inclusive Directions by the Reserve Bank of India.\n2. DICGC is exempted from making payment under the 2021 Amendment if a reconstruction or amalgamation scheme for the bank under moratorium is still pending finalisation.\n3. A depositor who receives the insured amount from DICGC during the moratorium period must assign their claim rights, to the extent of the amount received, to DICGC.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f4a1139a-9357-4c19-a20e-7d03b6d19c85",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Coverage Limit: ₹5 Lakh Insurance per Depositor per Bank"
+      ],
+      "subject_que_no": 1200,
+      "overall_que_no": 8547
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "DICGC coverage limit historical progression",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who remember 'DICGC was enhanced from ₹1 lakh to ₹5 lakh' but are unaware of the 1962 and 1993 values may guess ₹1 lakh as the 1962 starting point, incorrectly picking (b).",
+      "elimination_logic": [
+        "Eliminate (a): ₹500 was never the DICGC coverage limit — this is a fabrication.",
+        "Eliminate (b): ₹1 lakh was the 1993 figure, not the 1962 starting amount.",
+        "Eliminate (d): ₹5,000 was not the 1962 limit.",
+        "Confirm (c): the insurance scheme began in 1962 at ₹1,500 per depositor — this is the historically recorded initial limit."
+      ],
+      "upsc_trap_explanation": "Students typically recall the two most recent coverage values (₹1 lakh in 1993 and ₹5 lakh in 2020) but the 1962 starting value of ₹1,500 is less commonly known. The trap in (b) uses ₹1 lakh — a genuine DICGC figure but from 1993, not 1962. Students who know the progression exists but not the precise starting point will default to ₹1 lakh as the 'original' figure.",
+      "final_explanation": "DICGC's coverage limit has evolved significantly over six decades, reflecting India's economic growth and the changing purchasing power of money.\n\n• Option (a) — ₹500: Not a figure associated with any stage of DICGC's coverage history.\n• Option (b) — ₹1 lakh: This was the coverage limit set in 1993 — not the original 1962 limit.\n• Option (c) — ₹1,500: Correct. When the Deposit Insurance Corporation began operations in 1962, the insurance coverage was set at ₹1,500 per depositor — a figure appropriate for the deposit sizes and economic conditions of that era.\n• Option (d) — ₹5,000: Not a figure from DICGC's coverage history.\n\nValue Addition:\n• Coverage progression: ₹1,500 (1962) → ₹1 lakh (1993) → ₹5 lakh (February 2020). The 1993–2020 gap of 27 years drew criticism for not keeping pace with inflation.\n• In real terms, the ₹5 lakh limit today is arguably lower than the ₹1,500 limit was in 1962 relative to average deposit sizes.\n• The 2020 enhancement was recommended by a committee examining DICGC's adequacy."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "When the deposit insurance scheme in India was first operationalised in 1962, what was the insurance coverage limit per depositor?\n\n(a) ₹500\n(b) ₹1 lakh\n(c) ₹1,500\n(d) ₹5,000",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8d1b6dd4-3bc5-4467-ba61-bc4e8e2d8aa8",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Treatment of Joint Account Holders Under DICGC",
+        "Coverage Limit: ₹5 Lakh Insurance per Depositor per Bank"
+      ],
+      "subject_que_no": 1201,
+      "overall_que_no": 8548
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "scope-extension",
+      "concept_anchor": "A+B and B+A joint accounts — same depositor combination rule",
+      "statement_analysis": [
+        {
+          "statement": "Under DICGC rules, a joint account held in the names of 'A and B' is treated as a different depositor from a joint account held in the names of 'B and A' at the same bank, thereby entitling the two accounts to separate ₹5 lakh ceilings.",
+          "verdict": "Incorrect",
+          "reason": "DICGC treats joint accounts based on the combination of account holders — A+B and B+A are the SAME combination, not different depositors. The order of names does not create a distinct depositor identity."
+        },
+        {
+          "statement": "A joint account held by persons X and Y at a bank is treated as a distinct depositor from X's individual account at the same bank, and both are entitled to separate ₹5 lakh insurance ceilings.",
+          "verdict": "Correct",
+          "reason": "The joint account (X+Y) as a depositor entity is legally distinct from X's individual account — each gets a separate ₹5 lakh ceiling, allowing the same individual to be associated with more than ₹5 lakh of covered deposits in one bank."
+        }
+      ],
+      "strong_distractor": "a — Students who know 'joint accounts get separate coverage' may apply this knowledge broadly and also accept Statement 1 as correct, without noting the crucial order-of-names point.",
+      "elimination_logic": [
+        "Evaluate Statement 1: A+B and B+A — same persons, just different name order. DICGC treats these as the SAME depositor combination. Statement 1 is Incorrect.",
+        "Evaluate Statement 2: X's individual account vs. X+Y joint account — these are genuinely distinct depositor identities under DICGC. Statement 2 is Correct.",
+        "Statement 1 incorrect, Statement 2 correct — answer is (d).",
+        "Wait — re-reading options: (d) states 'Statement 1 is incorrect but Statement 2 is correct.' That matches. Correct option is (d)."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the intuitive idea that reversing the names creates a new account — after all, A+B and B+A would appear as different entries in a bank's records in some systems. DICGC's rule looks past the name order to the actual combination of individuals. Two accounts with the same persons, regardless of name order, are treated as one depositor. This precision prevents artificial multiplication of insurance entitlements through name-order manipulation.",
+      "final_explanation": "DICGC's joint account rules distinguish between genuinely different depositor combinations and artificial name-order variations.\n\n• Statement 1 — Incorrect: A+B and B+A are the same depositor combination — same two people, just different ordering of names. DICGC does not treat name order as creating a distinct depositor identity. Together, they would have one ₹5 lakh ceiling, not two.\n• Statement 2 — Correct: An individual account (X alone) and a joint account (X+Y) are genuinely distinct depositor identities because the latter involves an additional person, Y. Each has an independent ₹5 lakh ceiling. X can therefore be associated with coverage of up to ₹10 lakh at the same bank (₹5 lakh on individual account + ₹5 lakh on X+Y joint account).\n\nValue Addition:\n• This distinction enables legitimate coverage optimisation: a person can hold individual accounts and multiple joint accounts with different partners at the same bank, each with separate ₹5 lakh protection.\n• A+B+C joint account is a different depositor from A+B joint account — the addition of C creates a genuinely new combination.\n• The same rule applies across all banks — each bank is evaluated independently for the per-depositor-per-bank ceiling."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about DICGC's treatment of joint accounts:\n\nStatement 1: Under DICGC rules, a joint account held in the names of 'A and B' is treated as a different depositor from a joint account held in the names of 'B and A' at the same bank, thereby entitling the two accounts to separate ₹5 lakh ceilings.\n\nStatement 2: A joint account held by persons X and Y at a bank is treated as a distinct depositor from X's individual account at the same bank, and both are entitled to separate ₹5 lakh insurance ceilings.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "0849e270-51a1-4cd0-9067-91d960948708",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Deposit Insurance Fund (DIF) — Adequacy and Management",
+        "Role of RBI in DICGC Governance and Oversight"
+      ],
+      "subject_que_no": 1202,
+      "overall_que_no": 8549
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "DIF composition — sources of fund accumulation",
+      "statement_analysis": null,
+      "strong_distractor": "d — Fines and penalties sounds like a credible revenue source for a regulatory body — students may confuse DICGC with a regulatory authority that imposes penalties.",
+      "elimination_logic": [
+        "Eliminate (a): DICGC does not receive equity capital contributions from member banks — the premium-for-insurance relationship is contractual, not equity-based.",
+        "Eliminate (c): Union Government grants are not a standard source for DIF — the DIF is built on premiums and investment income, not government budgetary support.",
+        "Eliminate (d): DICGC does not levy fines or penalties — it is not a banking regulator. Regulatory penalties flow to RBI.",
+        "Confirm (b): DIF is built from (i) premiums collected from insured banks, (ii) returns on investments in government securities, and (iii) recoveries from liquidated banks through subrogation. These three are the established sources."
+      ],
+      "upsc_trap_explanation": "Option (d) exploits the confusion between DICGC's role and that of a banking regulator. RBI (as regulator) imposes penalties on banks — not DICGC. DICGC is an insurer, not a regulator. A student who vaguely recalls 'banking authority → penalises banks → money goes to insurance fund' will be drawn to (d). Option (c) (government grants) seems plausible given India's general pattern of government-backed financial institutions, but DIF explicitly does not have a government grant mechanism.",
+      "final_explanation": "The Deposit Insurance Fund's financial sustainability depends on its three established revenue sources.\n\n• Option (a) — Incorrect: Equity capital contributions from member banks would create an ownership claim — banks are premium-paying insured entities, not equity contributors to DICGC.\n• Option (b) — Correct: The DIF is built from three sources: (1) annual premiums collected from all insured banks at 12 paise per ₹100 of assessable deposits; (2) investment income from DIF holdings in government securities; and (3) recoveries from liquidation estates of failed banks through DICGC's subrogation rights.\n• Option (c) — Incorrect: The Central Government does not make routine grants to the DIF. RBI provides lines of credit if the fund is insufficient — this is different from a grant and is an exceptional measure.\n• Option (d) — Incorrect: DICGC imposes no penalties or fines. It is an insurer, not a regulator.\n\nValue Addition:\n• Recovery from liquidated banks (third source) is typically low — DICGC often receives only a fraction of what it paid out.\n• The adequacy of DIF depends primarily on the premium stream and investment returns.\n• RBI's line of credit to DICGC (emergency backstop) is not part of the DIF's regular composition — it is a contingency measure."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Deposit Insurance Fund (DIF) maintained by DICGC is primarily built from ________.\n\n(a) Equity capital contributions from member banks and direct transfers from the RBI's surplus\n(b) Annual premiums from insured banks, investment income on government securities held by DICGC, and recoveries from liquidation estates of failed banks\n(c) Union Government grants, fines imposed on non-compliant banks, and voluntary contributions from State Governments\n(d) Fines and penalties levied by DICGC on banks violating deposit insurance norms, and returns on equity investments in scheduled commercial banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4e2b207e-0eb3-43b9-99e3-ee3ad102e086",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Types of Deposits Covered vs. Not Covered by DICGC",
+        "Mandatory vs. Voluntary Insurance — Which Banks Must Register"
+      ],
+      "subject_que_no": 1203,
+      "overall_que_no": 8550
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DICGC coverage and exclusion — deposit types and bank categories",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) correctly matches A and B but incorrectly pairs C with inter-bank deposits (covered) and D with foreign government deposits — students who know individual matches but not the comprehensive pairing will land here.",
+      "elimination_logic": [
+        "Match A (recurring deposits): recurring deposits are among the covered deposit types — A matches 2 (covered).",
+        "Match B (foreign government deposits): foreign government deposits are explicitly excluded — B matches 4 (not covered).",
+        "Match C (inter-bank deposits): inter-bank deposits are excluded to prevent circular insurance claims — C matches 4 (not covered). Wait — 4 is already used for B. Re-reading the list: 1=covered savings, 2=covered recurring, 3=RRBs mandatory, 4=not covered foreign govt. Need correct list structure. Match C (inter-bank deposits) → NOT covered (same exclusion category as B). The question pairs each List I item with one List II item — they share exclusion/inclusion but differ in reason.",
+        "Using the four distinct List II items provided: A-2, B-4, C-3, D-1. Verify: recurring deposits → covered (correct); foreign government deposits → excluded (correct); inter-bank deposits → excluded due to circular claim concern (correct for 3); deposits of State cooperative banks → covered as eligible cooperative banks (correct for 1). Answer: (d) A-2, B-4, C-3, D-1."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap here is List I item D — 'deposits in State Cooperative Banks registered with DICGC.' Students who carry the general exclusion of 'government deposits' and conflate 'State cooperative' with 'State government' will incorrectly mark these as excluded. State Cooperative Banks are cooperative banking institutions eligible for DICGC coverage — they are not government deposits.",
+      "final_explanation": "This question tests whether students can correctly classify deposit categories and bank types under DICGC's coverage framework.\n\nCorrect pairings:\n• A (Recurring deposits) – 2 (Covered under DICGC): Recurring deposits are standard retail deposits explicitly within DICGC's coverage — same as savings, fixed, and current deposits.\n• B (Deposits of foreign governments with Indian banks) – 4 (Excluded from DICGC coverage): Foreign government deposits are among the explicitly excluded categories.\n• C (Inter-bank deposits) – 3 (Excluded to prevent circular insurance): If Bank X deposits with Bank Y and both Y's deposits are insured, Y's failure would trigger Bank X's insurance claim — a circular and potentially destabilising outcome. Hence excluded.\n• D (Deposits in State Cooperative Banks registered with DICGC) – 1 (Covered if bank is registered member): State Cooperative Banks are eligible cooperative banks — not government entities. Their deposits are covered once the bank registers with DICGC.\n\nTrap pairing: D-4 is the most dangerous error — conflating 'State Cooperative Bank' with 'State Government deposit.'\n\nValue Addition:\n• The inter-bank deposit exclusion is a systemic risk management choice — it prevents domino-effect insurance claims during banking system stress.\n• State Cooperative Banks sit above District Central Cooperative Banks in the short-term cooperative credit structure.\n• Foreign bank branches in India are covered; foreign GOVERNMENT deposits are not — the entity making the deposit, not the bank receiving it, determines exclusion."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Deposit / Bank Category) with List II (DICGC Coverage Status / Reason):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Recurring deposits of individual customers in insured banks",
+            "1. Covered if the bank is a registered member with DICGC"
+          ],
+          [
+            "B. Deposits made by foreign governments with banks in India",
+            "2. Covered under DICGC deposit insurance"
+          ],
+          [
+            "C. Inter-bank deposits (deposits placed by one bank with another bank)",
+            "3. Excluded to prevent circular insurance claims within the banking system"
+          ],
+          [
+            "D. Deposits in State Cooperative Banks registered with DICGC",
+            "4. Excluded from DICGC coverage"
+          ]
+        ],
+        "footer_text": "(a) A-1, B-4, C-3, D-2\n(b) A-2, B-4, C-1, D-3\n(c) A-2, B-3, C-4, D-1\n(d) A-2, B-4, C-3, D-1"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9bef6991-5c3d-4013-b3c3-0ee7aff4d0b0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Moral Hazard Problem in Deposit Insurance Design",
+        "DICGC's Role in Financial Stability and Systemic Risk Mitigation"
+      ],
+      "subject_que_no": 1204,
+      "overall_que_no": 8551
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "Moral hazard mitigants in deposit insurance design",
+      "statement_analysis": [
+        {
+          "statement": "Risk-based premiums, under which banks with riskier portfolios pay higher insurance premiums, are considered a mechanism to reduce the bank-side moral hazard created by deposit insurance.",
+          "verdict": "Correct",
+          "reason": "Risk-based premiums impose a direct cost on risky behaviour — banks taking excessive risks pay more for insurance, internalising part of the risk externality created by deposit insurance."
+        },
+        {
+          "statement": "Full deposit insurance coverage — covering 100% of all deposits without any limit — is the most effective way to prevent bank runs and is therefore the preferred design in most advanced economies.",
+          "verdict": "Incorrect",
+          "reason": "Full coverage maximises moral hazard — both depositors (no monitoring incentive) and banks (no discipline from depositors). Most advanced economies deliberately set coverage limits to preserve partial market discipline; unlimited coverage is not the preferred design."
+        },
+        {
+          "statement": "Co-insurance arrangements, where depositors bear a percentage of any loss, are considered a mitigant to depositor-side moral hazard in deposit insurance design.",
+          "verdict": "Correct",
+          "reason": "Co-insurance preserves some 'skin in the game' for depositors — if they bear a portion of losses, they retain an incentive to monitor their bank's health, reducing complacency."
+        }
+      ],
+      "strong_distractor": "b — This is the correct answer here. The strong distractor FOR STUDENTS is Statement 2, which sounds authoritative ('full coverage → maximum stability') and could mislead students into thinking it is correct.",
+      "elimination_logic": [
+        "Evaluate Statement 1: risk-based premiums as a moral hazard mitigant — this is a standard policy mechanism. Statement 1 is Correct — not the NOT-correct answer.",
+        "Evaluate Statement 2: 'full coverage is preferred in most advanced economies' — this inverts the policy reality. Advanced economies deliberately limit coverage to preserve market discipline. Full coverage creates maximum moral hazard. Statement 2 is NOT correct.",
+        "Evaluate Statement 3: co-insurance as mitigant to depositor moral hazard — correct in design theory. Statement 3 is Correct.",
+        "Only Statement 2 is NOT correct — answer is (b) 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 uses a reversed-causation argument: 'full coverage best prevents bank runs (stability goal) → therefore preferred.' The flaw is that while full coverage does maximally prevent bank runs, it simultaneously maximises moral hazard — an unacceptable trade-off that makes full coverage unpopular among policymakers. The statement presents only one side of the design equation. Advanced economies balance stability against moral hazard, which is why all major deposit insurance schemes have coverage limits.",
+      "final_explanation": "Deposit insurance design involves deliberate trade-offs between stability (preventing bank runs) and market discipline (limiting moral hazard).\n\n• Statement 1 — Correct: Risk-based premiums are the primary tool to address bank-side moral hazard. By charging riskier banks more, they introduce a cost to excessive risk-taking within the insured framework. The FDIC (USA) uses risk-based premiums; India's DICGC uses a flat rate.\n• Statement 2 — NOT Correct: Full deposit insurance without a coverage limit would maximise the prevention of bank runs but would eliminate all depositor incentive to monitor banks and remove any market discipline on bank risk-taking. This combination of problems makes unlimited coverage economically unsound. Most advanced economies deliberately cap coverage.\n• Statement 3 — Correct: Co-insurance (e.g., depositor bears 10% of any loss) preserves depositor vigilance. Though not currently used in India, it is a theoretically sound mitigant to depositor-side moral hazard.\n\nValue Addition:\n• India's ₹5 lakh limit is a deliberate design: small depositors get full protection (financial inclusion); large depositors bear partial risk (market discipline).\n• The Financial Stability Board (FSB) and IADI guidelines discourage unlimited deposit insurance except as a temporary crisis-management measure.\n• During the 2008 global financial crisis, some countries temporarily introduced unlimited guarantees — but only as emergency measures, not permanent design."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the design of deposit insurance schemes and the moral hazard considerations involved:\n\n1. Risk-based premiums, under which banks with riskier portfolios pay higher insurance premiums, are considered a mechanism to reduce the bank-side moral hazard created by deposit insurance.\n2. Full deposit insurance coverage — covering 100% of all deposits without any limit — is the most effective way to prevent bank runs and is therefore the preferred design in most advanced economies.\n3. Co-insurance arrangements, where depositors bear a percentage of any loss, are considered a mitigant to depositor-side moral hazard in deposit insurance design.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 2 only\n(c) 1 and 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f26db375-a768-484a-a305-f23a7c916345",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Small Finance Banks and Payment Banks — DICGC Coverage",
+        "Mandatory vs. Voluntary Insurance — Which Banks Must Register"
+      ],
+      "subject_que_no": 1205,
+      "overall_que_no": 8552
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "Payment Bank deposit ceiling fully within DICGC coverage limit",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know 'Small Finance Banks are covered' may select (c) without verifying whether the 'savings deposits only' qualifier is accurate — it is not; SFBs cover all standard deposit types.",
+      "elimination_logic": [
+        "Evaluate (a): Payment Banks have a ₹2 lakh deposit ceiling per customer; DICGC limit is ₹5 lakh — since ₹2 lakh < ₹5 lakh, all Payment Bank depositors are 100% covered. This pair is correctly matched.",
+        "Evaluate (b): Small Finance Banks' DICGC coverage is mandatory since they are licensed commercial banks — but the pair claims coverage requires 'prior RBI approval' separately, which is not accurate. Coverage is automatic upon licensing. Incorrectly matched.",
+        "Evaluate (c): SFBs are covered for ALL standard deposits (savings, fixed, current, recurring) — not just savings deposits. The 'savings deposits only' restriction is fabricated. Incorrect.",
+        "Evaluate (d): Payment Banks are covered regardless of whether deposits are in savings or current accounts — the ₹2 lakh ceiling applies to the total deposits, not just savings. The pair incorrectly states current account deposits are excluded. Incorrect."
+      ],
+      "upsc_trap_explanation": "Option (c) uses a 'savings deposits only' qualifier for Small Finance Banks — a plausible-sounding restriction since SFBs were initially positioned as serving rural/semi-urban savings needs. In reality, SFBs as licensed commercial banks can offer all deposit types and all are covered under DICGC. The conflation trap merges 'SFB's target customer base (small savers)' with 'SFB's DICGC coverage scope,' which are unrelated.",
+      "final_explanation": "Newer banking categories (Payment Banks, Small Finance Banks) and their DICGC coverage are high-value examination topics.\n\n• Option (a) — Correctly matched: Payment Banks are licensed commercial banks covered under DICGC. Their ₹2 lakh per-customer deposit ceiling means every depositor's entire balance is automatically within the ₹5 lakh DICGC limit. 100% coverage for all Payment Bank depositors is structurally guaranteed.\n• Option (b) — Incorrectly matched: Small Finance Banks automatically acquire DICGC coverage as part of their commercial bank licensing — no separate prior RBI approval for DICGC registration is required as a distinct step.\n• Option (c) — Incorrectly matched: SFBs are covered for all standard deposit types — savings, fixed, current, and recurring. Restricting coverage to 'savings deposits only' is factually wrong.\n• Option (d) — Incorrectly matched: Payment Banks can offer both savings and current accounts (within the ₹2 lakh ceiling) and both are covered under DICGC.\n\nValue Addition:\n• Payment Banks' 100% DICGC coverage is a significant credibility feature for financial inclusion outreach.\n• SFBs were created precisely to serve underserved segments — their full DICGC coverage supports depositor confidence in these institutions.\n• Both SFBs and Payment Banks are subject to the same ₹5 lakh per-depositor-per-bank ceiling as any other commercial bank."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs is correctly matched?\n\n(a) Payment Banks — All depositors are structurally 100% covered under DICGC because the regulatory deposit ceiling per customer (₹2 lakh) is lower than the DICGC insurance limit (₹5 lakh)\n(b) Small Finance Banks — DICGC coverage requires prior RBI approval separately from the banking licence, and premiums are paid by depositors\n(c) Small Finance Banks — DICGC coverage applies only to savings deposits; fixed and current deposits in SFBs are not insured\n(d) Payment Banks — DICGC covers savings account deposits but not current account deposits held with Payment Banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "1d84d75e-058c-4c7f-98a5-872f4b7a9d0c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Statutory Foundation and Institutional Character of DICGC",
+        "Credit Guarantee Function of DICGC"
+      ],
+      "subject_que_no": 1206,
+      "overall_que_no": 8553
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DICGC name includes credit guarantee but primary function is deposit insurance",
+      "statement_analysis": null,
+      "elimination_logic": [
+        "Step 1 — Is A correct? Yes. DICGC's primary active function today is deposit insurance — its credit guarantee activities have been substantially wound down or transferred to other entities.",
+        "Step 2 — Is R correct? No. CGTMSE was not established as a result of DICGC's credit guarantee wind-down. CGTMSE was set up in 2000 as a joint initiative of the Ministry of MSME and SIDBI — it has its own independent origin and mandate, not born out of DICGC's transition.",
+        "Step 3: Since R is factually incorrect, the answer is (c) — A is correct but R is incorrect.",
+        "Confirm: correct_option is (c)."
+      ],
+      "upsc_trap_explanation": "This is an entity-swap trap in the Reason. CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises) was established in 2000 by the Ministry of MSME and SIDBI — not as a successor to DICGC's credit guarantee functions. R incorrectly establishes a causal lineage between DICGC's wind-down and CGTMSE's creation. Students who know both DICGC wound down credit guarantee AND CGTMSE exists may connect the dots incorrectly without knowing CGTMSE's independent origin.",
+      "final_explanation": "DICGC's institutional evolution involves a shift from dual functions to a predominantly deposit insurance focus.\n\nAssertion (A) — Correct: While DICGC's full name includes 'Credit Guarantee,' its credit guarantee schemes (for small industries, small traders, etc.) have been largely wound down or transferred over time. Today, deposit insurance is DICGC's primary active function — the 'Credit Guarantee' in its name reflects historical mandate, not current operational focus.\n\nReason (R) — Incorrect: CGTMSE was established in August 2000 as a joint initiative of the Government of India (Ministry of Micro, Small and Medium Enterprises) and SIDBI — not as a successor institution to DICGC's credit guarantee operations. CGTMSE has its own legislative and institutional foundation, independent of DICGC's evolution.\n\nSince A is correct and R is factually wrong, the correct option is (c).\n\nValue Addition:\n• CGTMSE provides collateral-free credit guarantees to MSEs through Member Lending Institutions — a distinct product from what DICGC historically offered.\n• DICGC's remaining credit guarantee operations (if any) are minimal — the active credit guarantee ecosystem in India is led by CGTMSE, NCGTC, and sector-specific guarantee trusts.\n• The name 'DICGC' is now somewhat misleading — it suggests equal weight to both functions, whereas deposit insurance dominates current operations."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Assertion (A): Despite the word 'Credit Guarantee' appearing in its name, DICGC's primary active operational function in the present context is deposit insurance, as its credit guarantee activities have been substantially wound down over time.\n\nReason (R): The Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) was established as a successor institution specifically to take over and expand the credit guarantee functions that DICGC was phasing out.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4a9d1f6e-8ace-4721-99ed-4bc82227578d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "De-registration of Banks from DICGC and Its Consequences",
+        "Trigger Events for DICGC Claim Payment — Liquidation vs. Restructuring"
+      ],
+      "subject_que_no": 1207,
+      "overall_que_no": 8554
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "De-registration cuts coverage only for post-de-registration deposits",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who assume de-registration 'cancels' all insurance will choose (b), failing to account for the temporal protection of pre-de-registration deposits.",
+      "elimination_logic": [
+        "Identify the key facts: Bank Y was de-registered in March 2023. Sunita made deposits in January 2023 (before de-registration) and June 2023 (after de-registration). Bank failed in December 2023.",
+        "Apply the de-registration rule: deposits made BEFORE de-registration date retain insurance; deposits made AFTER de-registration are uninsured.",
+        "Sunita's January 2023 deposit (₹2 lakh): made while Bank Y was a DICGC member — covered up to ₹5 lakh.",
+        "Sunita's June 2023 deposit (₹1.5 lakh): made after de-registration — not covered. Total DICGC payout: ₹2 lakh. Answer: (d)."
+      ],
+      "upsc_trap_explanation": "This is a temporal-swap trap: two deposits, one before and one after de-registration. Students who apply 'de-registration cancels all coverage' will pick (b) (no coverage at all). Students who apply 'de-registration doesn't matter, she's covered' will pick (a) (₹3.5 lakh total). The precise rule — temporal cut-off at de-registration date — is needed to correctly isolate the covered portion. The trap works because both extreme answers (full coverage and no coverage) are available as options.",
+      "final_explanation": "De-registration from DICGC creates a temporal threshold with precise consequences for depositor protection.\n\nApplicable principle: De-registration date is the cut-off. Deposits made while the bank was a DICGC member retain their insurance. Deposits made after de-registration are not covered — the insurance contract for each deposit is formed at the time of deposit, contingent on the bank's membership status at that moment.\n\nMapping to scenario:\n• January 2023 deposit (₹2 lakh): Bank Y was a DICGC member — this deposit is insured. Full ₹2 lakh is recoverable from DICGC.\n• June 2023 deposit (₹1.5 lakh): Bank Y had already been de-registered in March 2023 — this deposit has no DICGC coverage. Sunita must seek recovery from the liquidation estate for this amount.\n\n• Option (a) — Incorrect: Applies full coverage to both deposits — ignores the de-registration cut-off.\n• Option (b) — Incorrect: Applies no coverage to either deposit — incorrectly treats de-registration as retroactive.\n• Option (c) — Incorrect: Covers the June deposit (post-de-registration) which is wrong; excludes the January deposit incorrectly.\n• Option (d) — Correct: Only the January 2023 deposit (₹2 lakh) is covered — made before de-registration. Total DICGC payout: ₹2 lakh.\n\nValue Addition:\n• A bank can be de-registered while still operating — depositors of an operational bank may unknowingly be uninsured.\n• RBI's DICGC registration list is publicly available — depositors can verify their bank's status.\n• The de-registration mechanism acts as a compliance incentive: banks risk losing depositor trust if de-registered."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Sunita holds two deposits in Bank Y: a fixed deposit of ₹2 lakh opened in January 2023, and a recurring deposit account with ₹1.5 lakh opened in June 2023. In March 2023, Bank Y was de-registered from DICGC for failing to pay insurance premiums, though it continued accepting deposits. In December 2023, Bank Y's licence was cancelled and it was placed under liquidation. How much can Sunita claim from DICGC?\n\n(a) ₹3.5 lakh — the full amount of both deposits, since the total is within the ₹5 lakh ceiling\n(b) Nothing — de-registration means none of Sunita's deposits carry any DICGC insurance\n(c) ₹1.5 lakh — only the June 2023 deposit is covered since it was opened after the bank's compliance status was re-evaluated\n(d) ₹2 lakh — only the January 2023 deposit is covered since it was made before the de-registration date; the June 2023 deposit is uninsured",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f1799080-b93c-4e30-902d-0ca06437bd83",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "International Comparisons — FDIC (USA) and Other Deposit Insurance Schemes",
+        "Deposit Insurance Fund (DIF) — Adequacy and Management"
+      ],
+      "subject_que_no": 1208,
+      "overall_que_no": 8555
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "India covers 98% accounts but only 50% deposit value — distinction critical",
+      "statement_analysis": [
+        {
+          "statement": "India's deposit insurance scheme, with a ₹5 lakh coverage limit, covers approximately 98% of all depositor accounts by number, though the percentage of total deposit value insured is significantly lower.",
+          "verdict": "Correct",
+          "reason": "The ~98% figure refers to the proportion of accounts (by count) where the entire balance is within ₹5 lakh — since most Indian depositors hold small balances. However, by deposit value (rupee amount), only about 50% of total deposits are covered — because large corporate/institutional deposits are uncapped and far exceed ₹5 lakh."
+        },
+        {
+          "statement": "India's Deposit Insurance Fund (DIF) reserve ratio — the proportion of insured deposits covered by the fund balance — is higher than the FDIC's Designated Reserve Ratio of 1.35%, indicating superior fund adequacy.",
+          "verdict": "Incorrect",
+          "reason": "India's DIF reserve ratio is generally lower than international benchmarks, including the FDIC's 1.35% DRR — not higher. India's DIF adequacy is a concern, particularly for simultaneous multiple-bank failure scenarios."
+        }
+      ],
+      "strong_distractor": "a — Students who recall 'India now covers 98% of depositors' and assume 'DIF is large because premiums are high' may accept both statements as correct without knowing the specific DRR comparison.",
+      "elimination_logic": [
+        "Evaluate Statement 1: 98% by account count but ~50% by deposit value — this is a well-established distinction in DICGC policy discussion. Statement 1 is Correct.",
+        "Evaluate Statement 2: India's DIF reserve ratio is NOT higher than FDIC's 1.35% DRR — India's ratio is lower, not higher, raising adequacy concerns. 'Higher than FDIC' is the false claim. Statement 2 is Incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — answer is (c) Statement 1 correct but Statement 2 incorrect."
+      ],
+      "upsc_trap_explanation": "Statement 2 is a partial-truth trap: the DIF reserve ratio concept is real, the FDIC's 1.35% figure is accurate, but the comparative direction ('India higher than FDIC') is inverted. Students who know India 'recently strengthened DICGC' through the 2020 coverage enhancement and 2021 Amendment may assume fund adequacy also improved beyond FDIC standards — a logical but factually unsupported inference. India's DIF remains below international benchmarks for reserve adequacy.",
+      "final_explanation": "Distinguishing coverage breadth (by account count) from coverage depth (by deposit value) is one of DICGC's most examined analytical concepts.\n\n• Statement 1 — Correct: India's ₹5 lakh limit covers nearly all small depositors in full (98% of accounts) — because most Indians hold modest bank balances. However, wealthy individuals and large corporates hold disproportionately large deposits that far exceed ₹5 lakh, so by rupee value only about 50% of total deposits are covered. This is the fundamental policy tension in deposit insurance design.\n• Statement 2 — Incorrect: India's DIF reserve ratio (DIF balance as % of insured deposits) is lower than the FDIC's Designated Reserve Ratio of 1.35% — not higher. A lower reserve ratio means the fund is less able to absorb large-scale simultaneous failures. This is a known systemic vulnerability in India's deposit insurance architecture.\n\nValue Addition:\n• The FDIC's 1.35% DRR is a statutory target — if it falls below this, the FDIC must implement a restoration plan.\n• India has no equivalent statutory DIF target ratio — the adequacy is assessed periodically without a legislated floor.\n• Improving India's DIF reserve ratio would require either higher premiums, a government capital injection, or both — a continuing policy debate."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about India's deposit insurance coverage and the adequacy of the Deposit Insurance Fund:\n\nStatement 1: India's deposit insurance scheme, with a ₹5 lakh coverage limit, covers approximately 98% of all depositor accounts by number, though the percentage of total deposit value insured is significantly lower.\n\nStatement 2: India's Deposit Insurance Fund (DIF) reserve ratio — the proportion of insured deposits covered by the fund balance — is higher than the FDIC's Designated Reserve Ratio of 1.35%, indicating superior fund adequacy.\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b7891ec7-bdaf-4d7e-9f6d-c6a0cb2831fb",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Premium Structure and Who Bears the Cost",
+        "Assessable Deposits vs. Insured Deposits — Calculation Methodology"
+      ],
+      "subject_que_no": 1209,
+      "overall_que_no": 8556
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "DICGC premium rate revised to 12 paise per ₹100 in 2020",
+      "statement_analysis": null,
+      "strong_distractor": "b — 10 paise per ₹100 is the immediately preceding premium rate (before the 2020 revision) — students who recall 'the old rate' without knowing it was revised will pick this.",
+      "elimination_logic": [
+        "Eliminate (b): 10 paise per ₹100 was the rate BEFORE the 2020 revision — it is the immediately preceding rate, making it the strongest distractor.",
+        "Eliminate (c): 5 paise per ₹100 is not associated with any historical DICGC premium rate.",
+        "Eliminate (d): 15 paise per ₹100 is not the current rate — this is above the current rate.",
+        "Confirm (a): The premium was revised to 12 paise per ₹100 of assessable deposits per annum in 2020, the current applicable rate."
+      ],
+      "upsc_trap_explanation": "Option (b) (10 paise) is the pre-2020 rate — the temporal-swap trap. Students who memorised DICGC's premium rate at some point before 2020 will recall '10 paise' and mark (b). The 2020 revision increased the rate from 10 to 12 paise — a 20% increase that accompanied the coverage enhancement to ₹5 lakh. Both changes (coverage and premium) were part of the same 2020 reform package.",
+      "final_explanation": "DICGC's premium structure is a flat-rate system applied annually to assessable deposits.\n\n• Option (a) — Correct: 12 paise per ₹100 of assessable deposits per annum is the current premium rate, effective from 2020. This rate was revised upward from the previous 10 paise per ₹100.\n• Option (b) — Incorrect: 10 paise per ₹100 was the rate before the 2020 revision — this is the immediately preceding rate and the primary trap for students who memorised the pre-2020 figure.\n• Option (c) — Incorrect: 5 paise per ₹100 has no association with DICGC's premium history.\n• Option (d) — Incorrect: 15 paise per ₹100 exceeds the current rate — not the applicable premium.\n\nValue Addition:\n• The 2020 changes were simultaneous: coverage limit raised from ₹1 lakh to ₹5 lakh AND premium rate raised from 10 paise to 12 paise — connecting both for memory.\n• Premium is borne by banks — depositors do not directly pay it, though it may be implicitly reflected in deposit interest rate spreads.\n• Premium is calculated on assessable deposits (the total insurable pool), not just the ₹5 lakh-capped insured deposits — a distinction that makes the premium base larger than the insurance liability."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Following the revisions to DICGC's premium structure in 2020, the annual insurance premium payable by insured banks to DICGC is currently fixed at ________ of assessable deposits.\n\n(a) 12 paise per ₹100\n(b) 10 paise per ₹100\n(c) 5 paise per ₹100\n(d) 15 paise per ₹100",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b58b39a3-84d1-4baf-bff5-cabc8e1ff29a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Exclusion of Cooperative Societies from DICGC Coverage — Policy Gap",
+        "DICGC (Amendment) Act, 2021 — Key Reforms"
+      ],
+      "subject_que_no": 1210,
+      "overall_que_no": 8557
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "PMC Bank crisis intersection with cooperative bank oversight and DICGC reform",
+      "statement_analysis": [
+        {
+          "statement": "The Punjab & Maharashtra Co-operative Bank (PMC) crisis exposed weaknesses in the pre-2021 DICGC framework, specifically the requirement for depositors to wait for full winding-up proceedings before receiving insurance payments.",
+          "verdict": "Correct",
+          "reason": "PMC Bank was placed under RBI's restrictive Directions from September 2019, and depositors faced years of uncertain waiting under the pre-2021 framework — this directly catalysed the 2021 DICGC Amendment."
+        },
+        {
+          "statement": "The DICGC (Amendment) Act, 2021 also extended deposit insurance coverage to Primary Agricultural Credit Societies (PACS) operating in rural areas, addressing the cooperative sector gap highlighted by the PMC crisis.",
+          "verdict": "Incorrect",
+          "reason": "The 2021 Amendment reformed payment timing for existing DICGC-covered entities — it did NOT extend coverage to PACS. PACS remain outside DICGC's ambit even after the 2021 Amendment."
+        },
+        {
+          "statement": "Multi-state cooperative societies in India are regulated by the Central Government, while single-state cooperative societies fall under state government jurisdiction — a dual regulatory structure that complicates uniform deposit insurance coverage for the cooperative sector.",
+          "verdict": "Correct",
+          "reason": "This jurisdictional complexity is a genuine structural barrier to extending DICGC coverage uniformly across all cooperative entities — a policy gap that the 2021 Amendment did not address."
+        }
+      ],
+      "strong_distractor": "d — Students who know the 2021 Amendment was 'about cooperative banks' (it was contextualised by a cooperative bank crisis) may assume Statement 2 is true — that it extended coverage to PACS.",
+      "elimination_logic": [
+        "Evaluate Statement 1: PMC Bank crisis as the proximate trigger for the 2021 DICGC Amendment — this is factually established. Statement 1 is Correct.",
+        "Evaluate Statement 2: '2021 Amendment extended coverage to PACS' — false. The Amendment addressed payment timing, not coverage extension to new entity types. PACS remain uncovered. Statement 2 is Incorrect.",
+        "Evaluate Statement 3: multi-state vs. single-state cooperative jurisdictional split — this is a genuine constitutional and regulatory feature complicating cooperative sector insurance. Statement 3 is Correct.",
+        "Statements 1 and 3 correct; Statement 2 incorrect — answer is (c) 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "Statement 2 exploits the PMC-Bank-as-cooperative-bank narrative. Since PMC Bank was a cooperative bank and the 2021 Amendment was motivated by the PMC crisis, students may assume the Amendment addressed the broader cooperative coverage gap. It did not — the 2021 Amendment's scope was limited to payment timing mechanics for already-covered entities. PACS coverage would require a separate legislative effort involving both central and state jurisdictions.",
+      "final_explanation": "The PMC Bank crisis was the political trigger for the 2021 Amendment, but understanding precisely what the Amendment did and did not do is critical.\n\n• Statement 1 — Correct: Before 2021, PMC Bank depositors waited years because payment required completed liquidation proceedings. Their ordeal directly drove the legislative push for time-bound payments. The 2021 Amendment addressed this exact gap.\n• Statement 2 — Incorrect: The 2021 Amendment reformed when existing insured entities' depositors receive payment (within 90 days of moratorium). It did not extend the universe of covered entities. PACS remain excluded — the cooperative society vs. cooperative bank distinction was not altered by the Amendment.\n• Statement 3 — Correct: The constitutional division of regulatory authority — Centre for multi-state cooperatives, States for single-state cooperatives — creates a fragmented oversight landscape. Extending DICGC (a central institution) to state-regulated cooperatives raises jurisdictional questions requiring legislative coordination.\n\nValue Addition:\n• PMC Bank had assets of over ₹11,000 crore — not a small institution. Its crisis affected thousands of depositors and preceded the 2021 reform.\n• RBI's expanded powers over cooperative banks (via the Banking Regulation Amendment Act, 2020) addressed some governance gaps but not deposit insurance coverage.\n• The PACS coverage gap affects millions of rural depositors who rely on PACS for savings — a significant financial inclusion concern."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Punjab & Maharashtra Co-operative Bank (PMC) crisis and its relationship to DICGC reforms and cooperative sector policy:\n\n1. The Punjab & Maharashtra Co-operative Bank (PMC) crisis exposed weaknesses in the pre-2021 DICGC framework, specifically the requirement for depositors to wait for full winding-up proceedings before receiving insurance payments.\n2. The DICGC (Amendment) Act, 2021 also extended deposit insurance coverage to Primary Agricultural Credit Societies (PACS) operating in rural areas, addressing the cooperative sector gap highlighted by the PMC crisis.\n3. Multi-state cooperative societies in India are regulated by the Central Government, while single-state cooperative societies fall under state government jurisdiction — a dual regulatory structure that complicates uniform deposit insurance coverage for the cooperative sector.\n\nWhich of the above statements is/are correct?\n\n(a) 2 and 3 only\n(b) 1 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a2726354-9c45-4f34-a816-34d247488294",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Statutory Foundation and Institutional Character of DICGC",
+        "Mandatory vs. Voluntary Insurance — Which Banks Must Register",
+        "Types of Deposits Covered vs. Not Covered by DICGC"
+      ],
+      "subject_que_no": 1211,
+      "overall_que_no": 8558
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "odd-one-out",
+      "trap_type": "entity-swap",
+      "concept_anchor": "Categories excluded from DICGC deposit insurance coverage",
+      "statement_analysis": null,
+      "strong_distractor": "c — Inter-bank deposits are commonly associated with regular banking operations, and students may assume they are covered because 'banks also need protection.' The exclusion is specific and policy-driven.",
+      "elimination_logic": [
+        "Identify the category: the question asks which deposit type IS covered by DICGC — the odd one out is the type that DOES NOT share the 'excluded' attribute.",
+        "Option (a) — State government deposits: excluded from DICGC coverage.",
+        "Option (b) — Recurring deposits of resident individuals: COVERED by DICGC — this is the odd one out among a list of excluded items.",
+        "Option (c) — Inter-bank deposits: excluded from DICGC coverage.",
+        "Option (d) — Deposits of foreign governments: excluded from DICGC coverage. Answer: (b)."
+      ],
+      "upsc_trap_explanation": "The question inverts the usual framing — asking what IS covered among mostly excluded items. Students on autopilot who mark 'which is NOT covered' will pick (b) thinking it is the exception from coverage. The odd-one-out here is the one deposit type that enjoys DICGC coverage — recurring deposits of resident individuals — while all others are among the standard exclusion categories.",
+      "final_explanation": "DICGC's exclusion list is well-defined and this question tests whether students can identify the one item that does NOT belong to it.\n\n• Option (a) — State government deposits: Excluded. Both Central and State government deposits are outside DICGC's coverage net.\n• Option (b) — Recurring deposits of resident individuals: COVERED under DICGC — the odd one out. This is a standard retail deposit type within DICGC's protection. All other options belong to the exclusion list.\n• Option (c) — Inter-bank deposits: Excluded to prevent circular insurance claims — if Bank A deposits with Bank B and both are insured, Bank B's failure would trigger Bank A's insurance claim, creating systemic feedback loops.\n• Option (d) — Deposits of foreign governments: Excluded alongside Central and State government deposits — sovereign entities are not the intended beneficiaries of retail deposit insurance.\n\nValue Addition:\n• The exclusion list is designed to focus DICGC's protection on retail depositors — individuals, small businesses, and trusts.\n• Deposits held outside India (even in Indian banks' overseas branches) are also excluded.\n• Deposits specifically exempted by RBI with DICGC concurrence form a residual exclusion category allowing regulatory flexibility."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four deposit categories share the characteristic of being excluded from DICGC's deposit insurance coverage. Which one does NOT belong to this group of excluded categories?\n\n(a) Deposits held by State Governments in insured banks\n(b) Recurring deposits held by resident Indian individuals in insured banks\n(c) Inter-bank deposits (deposits placed by one licensed bank with another)\n(d) Deposits made by foreign governments in branches of Indian banks",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9376eb06-bf2e-40e8-95d3-729b499524f0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Financial Resolution and Deposit Insurance (FRDI) Bill, 2017 — Contrast with DICGC",
+        "DICGC's Role in Financial Stability and Systemic Risk Mitigation"
+      ],
+      "subject_que_no": 1212,
+      "overall_que_no": 8559
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "FRDI Bill bail-in clause and its withdrawal vs. 2021 DICGC reform",
+      "statement_analysis": [
+        {
+          "statement": "The Financial Resolution and Deposit Insurance Bill, 2017 proposed the establishment of a Resolution Corporation to oversee the resolution of financial firms, which would have superseded DICGC's role.",
+          "verdict": "Correct",
+          "reason": "The FRDI Bill proposed a Resolution Corporation with comprehensive resolution powers over banks, insurance companies, and other financial entities — this would have subsumed DICGC's deposit insurance function within a broader resolution framework."
+        },
+        {
+          "statement": "The 'bail-in' provision in the FRDI Bill, 2017 would have allowed a failing financial institution to use depositor funds beyond the insured limit to finance its own resolution, which was a key reason for the Bill's withdrawal.",
+          "verdict": "Correct",
+          "reason": "The bail-in clause — allowing a failing bank to convert uninsured depositor deposits into equity or haircut them — generated massive public opposition. This was the primary reason the Bill was withdrawn in 2018."
+        },
+        {
+          "statement": "After the withdrawal of the FRDI Bill, the Government of India enacted the Banking Resolution Act, 2019 as an alternative framework, which retained certain elements of the bail-in concept in a modified form.",
+          "verdict": "Incorrect",
+          "reason": "No 'Banking Resolution Act, 2019' was enacted. The FRDI Bill was withdrawn and no direct replacement legislation was passed — the response was instead the strengthening of the existing DICGC framework through the 2021 Amendment."
+        }
+      ],
+      "strong_distractor": "c — Option (c) presents Statements 1 and 3 together. Since Statement 3 sounds authoritative (a named act in a plausible year), students who accept Statements 1 and 3 as correct without verifying Statement 3's existence will pick this option.",
+      "elimination_logic": [
+        "Evaluate Statement 1: FRDI proposed a Resolution Corporation to supersede DICGC — this is a core feature of the Bill. Statement 1 is Correct.",
+        "Evaluate Statement 2: bail-in clause causing public outrage and the Bill's withdrawal — this is the documented historical record. Statement 2 is Correct.",
+        "Evaluate Statement 3: 'Banking Resolution Act, 2019' — this is a fabricated legislation. No such act exists. After FRDI's withdrawal, the actual reform was the DICGC Amendment Act, 2021. Statement 3 is Incorrect.",
+        "Statements 1 and 2 correct; Statement 3 incorrect — answer is (d) 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 is a plausible-fabrication trap — a named act (Banking Resolution Act) in a plausible year (2019, between FRDI withdrawal and DICGC Amendment). Students who do not specifically know that no such act was passed will find it credible. The UPSC frequently tests whether students know what did NOT happen as much as what did. The actual post-FRDI reform was the DICGC Amendment Act, 2021 — not a separate resolution legislation.",
+      "final_explanation": "The FRDI Bill episode and its aftermath are an important case study in banking regulation policy evolution.\n\n• Statement 1 — Correct: The FRDI Bill proposed a single Resolution Corporation with powers over all financial sector firms. For banks, this would have replaced DICGC as the primary deposit protection mechanism — a comprehensive structural overhaul.\n• Statement 2 — Correct: The bail-in clause (Section 52 of the FRDI Bill) specified that a failing institution could use depositor funds (beyond the insured amount) for its own rescue — effectively making depositors unsecured creditors who could lose part of their deposits in a resolution. This triggered widespread public alarm and social media campaigns, leading to the Bill's withdrawal in August 2018.\n• Statement 3 — Incorrect: No 'Banking Resolution Act, 2019' exists. This is a fabricated legislation. Post-withdrawal of FRDI, no comprehensive resolution framework was enacted. The Government instead strengthened the DICGC framework through the 2021 Amendment — a much narrower but practically important reform.\n\nValue Addition:\n• The FRDI Bill would have been India's first comprehensive bank resolution legislation — its absence means bank resolution still relies on ad hoc RBI regulatory actions.\n• The bail-in debate remains relevant globally — bail-in tools are used in the EU's Bank Recovery and Resolution Directive (BRRD).\n• India currently lacks a formal cross-sector resolution mechanism for financial firms — a gap in regulatory architecture."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about the Financial Resolution and Deposit Insurance (FRDI) Bill, 2017:\n\n1. The Financial Resolution and Deposit Insurance Bill, 2017 proposed the establishment of a Resolution Corporation to oversee the resolution of financial firms, which would have superseded DICGC's role.\n2. The 'bail-in' provision in the FRDI Bill, 2017 would have allowed a failing financial institution to use depositor funds beyond the insured limit to finance its own resolution, which was a key reason for the Bill's withdrawal.\n3. After the withdrawal of the FRDI Bill, the Government of India enacted the Banking Resolution Act, 2019 as an alternative framework, which retained certain elements of the bail-in concept in a modified form.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 3 only\n(c) 1 and 3 only\n(d) 1 and 2 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "2c4f8897-94f5-4416-a487-f601bc74722a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Domestic Monetary and Banking",
+      "sub_topic": "Deposit Insurance and Credit Guarantee Corporation — DICGC",
+      "concepts_used": [
+        "Subrogation Rights of DICGC Post-Payment",
+        "DICGC (Amendment) Act, 2021 — Key Reforms",
+        "Trigger Events for DICGC Claim Payment — Liquidation vs. Restructuring"
+      ],
+      "subject_que_no": 1213,
+      "overall_que_no": 8560
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Depositor retains right to claim uninsured balance from liquidation estate",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who understand 'DICGC steps into depositor's shoes' may extend this to conclude that DICGC takes over ALL claims, eliminating the depositor's right to the uninsured portion.",
+      "elimination_logic": [
+        "Eliminate (b): subrogation is limited to the amount DICGC paid (₹5 lakh) — it does not extinguish the depositor's claim for the uninsured ₹3 lakh. The depositor retains an independent creditor status for the excess.",
+        "Eliminate (c): DICGC subrogation operates automatically by law — it does not require a formal court petition from the depositor to transfer rights.",
+        "Eliminate (d): both DICGC (subrogated creditor for ₹5 lakh) and the depositor (remaining creditor for ₹3 lakh) can participate in liquidation — they are not mutually exclusive creditors.",
+        "Confirm (a): DICGC pays ₹5 lakh and becomes a subrogated creditor for that amount; the depositor retains an independent claim against the liquidation estate for the remaining ₹3 lakh."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap: students who know 'DICGC steps into depositor's shoes through subrogation' extend this to 'DICGC steps into ALL of the depositor's shoes, eliminating the depositor's own claim.' Subrogation is bounded — it applies only to the amount actually paid by DICGC. The depositor's rights beyond the insured amount (₹3 lakh in this case) remain with the depositor, not DICGC. Confusing partial subrogation with complete assignment of all creditor rights is the specific knowledge gap this question targets.",
+      "final_explanation": "Understanding the precise boundaries of subrogation is essential for both examination and practical depositor protection analysis.\n\n• Option (a) — Correct: When a bank fails and a depositor holds ₹8 lakh, DICGC pays ₹5 lakh and becomes subrogated to that extent — it steps into the depositor's shoes as a creditor of the failed bank for ₹5 lakh. The depositor retains an independent right to claim the remaining ₹3 lakh (uninsured portion) from the liquidation estate.\n• Option (b) — Incorrect: Subrogation does not transfer the depositor's entire claim to DICGC. The assignment is limited to the insured amount paid. The depositor and DICGC become simultaneous but separately quantified creditors in the liquidation.\n• Option (c) — Incorrect: Subrogation is a legal mechanism that operates automatically when DICGC pays the insured amount — no separate court petition is required from the depositor to effect the transfer.\n• Option (d) — Incorrect: Both DICGC (for ₹5 lakh) and the depositor (for ₹3 lakh) participate in the same liquidation proceedings as independent creditors. Their claims are additive, not mutually exclusive.\n\nValue Addition:\n• In practice, recoveries from failed bank liquidation estates are low — both DICGC and the uninsured depositor face uncertain and typically partial recovery.\n• Under the 2021 Amendment, subrogation is formalised at the moratorium stage — depositors receiving payment during moratorium must formally assign their claim rights.\n• Depositors with balances above ₹5 lakh should not assume the uninsured portion is lost — they are creditors and can participate in liquidation distribution."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A depositor holds ₹8 lakh in a bank that subsequently fails and is placed under liquidation. DICGC pays the depositor ₹5 lakh as the insured amount. Which of the following correctly describes the legal position of the depositor and DICGC regarding the remaining ₹3 lakh?\n\n(a) DICGC becomes a subrogated creditor of the failed bank to the extent of ₹5 lakh, while the depositor retains an independent right to claim the uninsured ₹3 lakh from the liquidation estate\n(b) Through subrogation, DICGC takes over the depositor's entire claim against the failed bank including the ₹3 lakh, and the depositor's right to the uninsured portion is extinguished\n(c) The depositor must file a formal court petition to assign the ₹3 lakh claim to DICGC before participating in liquidation proceedings\n(d) DICGC's subrogation rights and the depositor's claim to the remaining ₹3 lakh are mutually exclusive — only one party can participate in the liquidation estate proceedings",
+      "table_data": null
+    }
+  }
+]

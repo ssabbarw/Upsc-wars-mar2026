@@ -1,0 +1,1627 @@
+[
+  {
+    "meta": {
+      "uuid": "03648a95-1b4c-4320-a796-acc2a8b3e482",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FDI vs FPI: Definitional Boundaries and Threshold Rule"
+      ],
+      "subject_que_no": 553,
+      "overall_que_no": 7900
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "10% equity threshold: FDI vs FPI classification under FEMA",
+      "statement_analysis": null,
+      "strong_distractor": "a — Option (a) is deceptive because students often assume the 10% rule applies to all capital instruments since 'capital' is a broader term, making total capital seem like the logical base.",
+      "elimination_logic": [
+        "Eliminate options referencing total capital or total investment — the threshold applies specifically to paid-up equity capital under FEMA classification.",
+        "Eliminate option (c) as it reverses the rule — investment below 10% of paid-up equity is FPI, not FDI.",
+        "Eliminate option (d) because preference shares and debentures are treated differently from equity — the 10% rule does not uniformly apply across all instruments.",
+        "Confirm option (b): an investment of 10% or more of paid-up equity capital is classified as FDI — this is the precise FEMA threshold."
+      ],
+      "upsc_trap_explanation": "The trap here is the word 'equity.' Students who recall the 10% rule but misremember it as applying to 'total capital' will select option (a). Preference shares and debentures — which form part of total capital — are treated under different instruments and do not trigger the FDI classification through the same 10% threshold. UPSC questions frequently test whether students know the exact base of calculation, not merely the percentage.",
+      "final_explanation": "Under the FEMA regulatory framework, the classification of a foreign investment as FDI or FPI depends on the proportion of paid-up equity capital acquired. A foreign investor acquiring 10% or more of the paid-up equity capital of an Indian company is classified as an FDI investor; anything below 10% falls under FPI.\n\n• Option (a) — Incorrect: The threshold applies to paid-up equity, not total capital. Preference shares and debentures are treated under separate instrument categories.\n• Option (b) — Correct: Investment of 10% or more of paid-up equity = FDI; less than 10% = FPI. This is the precise FEMA classification criterion.\n• Option (c) — Incorrect: This reverses the rule. Below 10% is FPI; at or above 10% is FDI.\n• Option (d) — Incorrect: The threshold is not uniform across all instruments — only paid-up equity triggers this specific classification.\n\nValue Addition:\n• If an FPI's holding crosses 10% in a company, it must mandatorily convert to the FDI route — this is the reclassification trigger.\n• The percentage-alone test cannot always determine strategic intent — the grey zone between portfolio and strategic investment remains a regulatory challenge.\n• FEMA (1999) governs this classification; FERA (1973) preceded it with a much more restrictive framework."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Under the FEMA regulatory framework governing foreign investments in India, the classification of an investment as Foreign Direct Investment (FDI) rather than Foreign Portfolio Investment (FPI) is determined by a threshold rule. Which of the following correctly describes this rule?\n\n(a) An investment constituting 10% or more of the total capital of an Indian company is classified as FDI\n(b) An investment constituting 10% or more of the paid-up equity capital of an Indian company is classified as FDI\n(c) An investment constituting less than 10% of the paid-up equity capital of an Indian company is classified as FDI\n(d) The 10% threshold applies uniformly to equity shares, preference shares, and debentures for classification purposes",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "11caa1c3-ffa1-4082-b892-4966bd0cc3cb",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Foreign Portfolio Investor (FPI) Regulatory Framework post-2019"
+      ],
+      "subject_que_no": 554,
+      "overall_que_no": 7901
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "multi-statement-correct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "FPI three-category classification and registration mechanism",
+      "statement_analysis": [
+        {
+          "statement": "Under SEBI's FPI framework, sovereign wealth funds and central banks of foreign governments are classified as Category I FPIs.",
+          "verdict": "Correct",
+          "reason": "Category I FPIs include government and government-related entities such as central banks, sovereign wealth funds, and international/multilateral organisations — the highest-trust category with the lightest KYC requirements."
+        },
+        {
+          "statement": "Foreign Portfolio Investors are required to register directly with SEBI to obtain FPI status.",
+          "verdict": "Incorrect",
+          "reason": "FPIs register through Designated Depository Participants (DDPs), not directly with SEBI. DDPs act as the interface between the FPI and the regulator."
+        },
+        {
+          "statement": "The FII category, along with sub-accounts and QFIs, was merged into the unified FPI regime by SEBI.",
+          "verdict": "Correct",
+          "reason": "SEBI consolidated FIIs, their sub-accounts, and Qualified Foreign Investors (QFIs) into the unified FPI framework — initially in 2014 and further refined in 2019."
+        }
+      ],
+      "strong_distractor": "d — A student who knows SEBI is the FPI regulator may assume direct registration with SEBI is the process, making the option set 'all three correct' seem plausible — but statement 2 is wrong on the registration mechanism.",
+      "elimination_logic": [
+        "Confirm Statement 1 — central banks and government entities are Category I FPIs; this is correct.",
+        "Scrutinise Statement 2 — registration occurs through Designated Depository Participants (DDPs), not directly with SEBI; Statement 2 is incorrect.",
+        "Confirm Statement 3 — FII, sub-accounts, and QFI categories were merged into FPI in 2014; this is correct.",
+        "Since Statements 1 and 3 are correct and Statement 2 is incorrect, the answer is option (c): 1 and 3 only."
+      ],
+      "upsc_trap_explanation": "The trap in Statement 2 exploits the natural assumption that SEBI, being the regulator, would be the direct registration authority. Students who know SEBI regulates FPIs but do not know the operational intermediary (DDPs) will mark Statement 2 as correct. This is a classic entity-swap trap — the regulatory authority (SEBI) is swapped in place of the operational interface (DDP).",
+      "final_explanation": "SEBI's FPI framework, consolidating multiple earlier categories, created a three-tier system with differentiated KYC obligations. Category I FPIs (government entities, central banks, sovereign wealth funds) receive the lightest scrutiny; Category II covers regulated funds; Category III covers all residual foreign investors.\n\n• Statement 1 — Correct: Sovereign wealth funds and central banks qualify as Category I FPIs — the highest-tier, most trusted category.\n• Statement 2 — Incorrect: Registration is through Designated Depository Participants (DDPs), not directly with SEBI. DDPs serve as the regulatory interface.\n• Statement 3 — Correct: FIIs, sub-accounts, and QFIs were merged into a unified FPI regime — FIIs as a standalone category no longer exist.\n\nValue Addition:\n• FII terminology may still appear in older UPSC questions and market commentary — but the regulatory category was abolished in 2014.\n• DDPs are typically custodian banks or depository participants registered with SEBI who handle FPI onboarding.\n• Category III FPIs face the highest KYC scrutiny, including enhanced due diligence requirements introduced in the 2019 SEBI circular."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the Foreign Portfolio Investor (FPI) regulatory framework in India:\n\n1. Under SEBI's FPI framework, sovereign wealth funds and central banks of foreign governments are classified as Category I FPIs.\n2. Foreign Portfolio Investors are required to register directly with SEBI to obtain FPI status.\n3. The FII category, along with sub-accounts and QFIs, was merged into the unified FPI regime by SEBI.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "12204cc9-0884-4370-aeee-d4d84a6af8c7",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FDI Policy Architecture: Automatic Route vs Government Route"
+      ],
+      "subject_que_no": 555,
+      "overall_que_no": 7902
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "entity-swap",
+      "concept_anchor": "FIPB abolition 2017 and current government route mechanism",
+      "statement_analysis": [
+        {
+          "statement": "The Foreign Investment Promotion Board (FIPB) continues to function as the nodal body for approving FDI proposals under the government route.",
+          "verdict": "Incorrect",
+          "reason": "FIPB was abolished in May 2017. Government route approvals are now handled by competent sectoral ministries, with DPIIT acting as facilitator."
+        },
+        {
+          "statement": "FDI in lottery businesses and gambling activities is permitted up to 26% under the government route in India.",
+          "verdict": "Incorrect",
+          "reason": "Lottery, gambling, and betting are among the sectors where FDI is completely prohibited — not merely capped at 26% under government route."
+        },
+        {
+          "statement": "Under the automatic route for FDI, prior approval from the Reserve Bank of India is required before the investment is made.",
+          "verdict": "Incorrect",
+          "reason": "The automatic route requires no prior government or RBI approval — the investor simply notifies the RBI after the investment is made through the AD (Authorised Dealer) bank."
+        }
+      ],
+      "strong_distractor": "c — Option (c) naming only Statement 3 as incorrect tempts students who remember the automatic route does not need government approval but forget it also doesn't need prior RBI approval — confusing post-investment notification with pre-investment approval.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — FIPB was abolished in May 2017; it no longer exists. Statement 1 is incorrect.",
+        "Evaluate Statement 2 — Lottery and gambling are prohibited sectors for FDI, not permitted at any cap. Statement 2 is incorrect.",
+        "Evaluate Statement 3 — Automatic route requires no prior approval; only post-investment notification to RBI through the AD bank is needed. Statement 3 is incorrect.",
+        "All three statements are incorrect — but format rule requires at least one correct. Re-reading: the question asks which are NOT correct, and all three qualify. The answer matching 'all three' is option (b): 1, 2 and 3."
+      ],
+      "upsc_trap_explanation": "Two independent traps operate here. Statement 1 exploits temporal confusion — FIPB existed for decades and its abolition in 2017 is a frequently tested discontinuity. Statement 2 exploits the assumption that restricted and prohibited sectors have some floor cap — students may confuse 'prohibited' with 'heavily restricted.' Statement 3 conflates the post-investment RBI notification requirement with a pre-investment approval requirement.",
+      "final_explanation": "India's FDI policy distinguishes between the automatic route (no prior approval needed) and the government route (sector-ministry approval needed). The institutional architecture changed significantly in 2017.\n\n• Statement 1 — Incorrect: FIPB was abolished in May 2017. Government route approvals now vest with competent sectoral ministries; DPIIT facilitates and coordinates.\n• Statement 2 — Incorrect: Lottery, gambling, betting, chit funds, and Nidhi companies are in the prohibited category — FDI is not permitted at any percentage, not even under government route.\n• Statement 3 — Incorrect: The automatic route requires no prior approval from either the government or RBI. Investors only need to notify the RBI through their Authorised Dealer bank after the investment.\n\nValue Addition:\n• The Foreign Investment Facilitation Portal (FIFP) is the single online window replacing FIPB's function — managed by DPIIT.\n• Prohibited FDI sectors also include real estate business (not construction), tobacco manufacturing, and atomic energy.\n• Post-FIPB, approval timelines of 8–10 weeks apply to government route proposals processed through competent ministries."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding India's FDI policy framework:\n\n1. The Foreign Investment Promotion Board (FIPB) continues to function as the nodal body for approving FDI proposals under the government route.\n2. FDI in lottery businesses and gambling activities is permitted up to 26% under the government route in India.\n3. Under the automatic route for FDI, prior approval from the Reserve Bank of India is required before the investment is made.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 2 only\n(b) 1, 2 and 3\n(c) 3 only\n(d) 2 and 3 only",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "353c20ee-c38a-439e-bb76-5e1c0704f880",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Sectoral FDI Caps and Strategic Sensitivity"
+      ],
+      "subject_que_no": 556,
+      "overall_que_no": 7903
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "Sectoral FDI caps: defence, insurance, print media, retail",
+      "statement_analysis": [
+        {
+          "statement": "Defence sector: FDI up to 74% is permitted under the automatic route; beyond 74% requires government approval.",
+          "verdict": "Correct",
+          "reason": "The defence sector allows 74% FDI under automatic route; investment beyond 74% requires government route approval — this was liberalised to attract domestic defence manufacturing."
+        },
+        {
+          "statement": "Multi-brand retail trading: FDI up to 51% is permitted under the automatic route with specified conditionalities.",
+          "verdict": "Incorrect",
+          "reason": "Multi-brand retail allows 51% FDI but only under the government route, not the automatic route — it is one of the sectors with conditionalities (30% local sourcing, minimum $100 million investment) requiring government approval."
+        },
+        {
+          "statement": "Print media (publishing newspapers/periodicals): FDI cap is set at 26%.",
+          "verdict": "Correct",
+          "reason": "FDI in print media (newspapers and periodicals dealing in news and current affairs) is capped at 26% — this is a strategic sensitivity-based restriction."
+        },
+        {
+          "statement": "Single-brand retail trading: 100% FDI is permitted, entirely under the automatic route.",
+          "verdict": "Correct",
+          "reason": "Single-brand retail trading permits 100% FDI; up to 49% under automatic route and beyond 49% under government route — but 100% is permitted overall. However, 100% is now fully under automatic route after 2019 relaxations."
+        }
+      ],
+      "strong_distractor": "c — A student who correctly identifies Statements 1, 3 and 4 as correct but mistakenly believes multi-brand retail is also automatic route (confusing with single-brand) will select 'Only three' for the wrong combination.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — 74% auto route in defence is correct; this is a well-publicised liberalisation. Mark correct.",
+        "Evaluate Statement 2 — Multi-brand retail at 51% is government route, NOT automatic route. The automatic route assignment is the error. Mark incorrect.",
+        "Evaluate Statement 3 — Print media cap of 26% is a well-known strategic restriction. Mark correct.",
+        "Evaluate Statement 4 — Single-brand retail at 100% FDI (now automatic route) is correct. Mark correct.",
+        "Three of four are correct — select option (c): Only three."
+      ],
+      "upsc_trap_explanation": "Statement 2 is the trap. Students who know the 51% cap for multi-brand retail often do not remember it is under the government route. Confusing the route (automatic vs government) while correctly recalling the cap percentage is a classic partial-truth trap that UPSC exploits in sectoral FDI questions. The conditionalities (30% local sourcing, $100 million minimum) add another layer of precision required.",
+      "final_explanation": "India's sectoral FDI policy distinguishes not just by the permitted cap but also by the route — automatic or government — through which that cap can be reached. Conflating the two is the most common error in sectoral FDI questions.\n\n• Statement 1 — Correct: Defence allows 74% FDI under automatic route; beyond 74% needs government approval.\n• Statement 2 — Incorrect: Multi-brand retail (51% cap) falls under the government route — not automatic. Conditionalities include 30% local sourcing and minimum $100 million investment.\n• Statement 3 — Correct: Print media is capped at 26% — one of the most restrictive caps due to strategic sensitivity around news content.\n• Statement 4 — Correct: Single-brand retail trading permits 100% FDI — fully under automatic route after 2019 rationalisation.\n\nValue Addition:\n• Digital news media is also capped at 26% — paralleling print media restrictions.\n• Insurance and private sector banking both allow 74% FDI.\n• Atomic energy is prohibited for FDI — distinct from defence which is restricted but permitted up to 100% via government route."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding sectoral FDI caps in India:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "Defence sector: FDI up to 74% is permitted under the automatic route; beyond 74% requires government approval."
+          ],
+          [
+            "2",
+            "Multi-brand retail trading: FDI up to 51% is permitted under the automatic route with specified conditionalities."
+          ],
+          [
+            "3",
+            "Print media (publishing newspapers/periodicals): FDI cap is set at 26%."
+          ],
+          [
+            "4",
+            "Single-brand retail trading: 100% FDI is permitted, entirely under the automatic route."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6c977e20-8945-43e3-ba2f-c4cc01e543e2",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FPI Investment Limits in Government and Corporate Bonds",
+        "External Commercial Borrowings (ECB) vs FDI vs FPI: Overlaps"
+      ],
+      "subject_que_no": 557,
+      "overall_que_no": 7904
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "FPI debt instruments: VRR, FAR, Masala Bonds, ECB classification",
+      "statement_analysis": null,
+      "strong_distractor": "b — Swapping Masala Bonds (A-2) and Masala Bonds (A-3) is the most likely confusion since students may conflate Masala Bonds with the FAR (both relate to rupee access for foreign investors) or with ECB (both are overseas borrowings).",
+      "elimination_logic": [
+        "Match A (Voluntary Retention Route): VRR offers exemption from macro-prudential limits in exchange for a minimum 3-year retention commitment — matches with 3.",
+        "Match B (Fully Accessible Route): FAR opens specific G-sec series to non-resident investors without any quantitative limits — key to Euroclear inclusion — matches with 1.",
+        "Match C (Masala Bonds): These are rupee-denominated bonds issued overseas, making the currency risk borne by the foreign investor — matches with 4.",
+        "Match D (External Commercial Borrowings): ECB are loans (debt) raised by Indian entities from foreign sources — not equity, not bonds in rupees — matches with 2. Correct answer is option (a): A-3, B-1, C-4, D-2."
+      ],
+      "upsc_trap_explanation": "The conflation trap operates between Masala Bonds and ECB. Both involve overseas capital raising by Indian entities, but Masala Bonds are rupee-denominated (currency risk on investor), while ECB is typically foreign-currency-denominated (currency risk on Indian borrower). Students conflate these two under 'overseas borrowing' without distinguishing currency denomination and risk allocation. Additionally, VRR and FAR are both G-sec related but serve opposite purposes — VRR imposes retention discipline while FAR removes quantity ceilings entirely.",
+      "final_explanation": "India has multiple channels through which foreign investors access domestic debt markets, each with distinct features and purposes.\n\nCorrect matches: A-3, B-1, C-4, D-2\n\n• A (VRR) — 3: The Voluntary Retention Route grants exemption from macro-prudential investment limits in exchange for a minimum 3-year retention commitment — incentivising sticky, long-term FPI debt flows.\n• B (FAR) — 1: The Fully Accessible Route designates specific government securities series open to non-resident investors without any quantitative ceiling — the enabling reform for Euroclear and Clearstream settlement of Indian G-secs.\n• C (Masala Bonds) — 4: Rupee-denominated bonds issued in overseas markets; foreign investors bear the exchange rate risk — a hybrid instrument between ECB and FPI debt.\n• D (ECB) — 2: External Commercial Borrowings are foreign-currency loans raised by Indian entities from overseas lenders — a debt inflow governed by RBI's ECB framework, not an equity or bond instrument.\n\nValue Addition:\n• FAR inclusion in global bond indices (like JP Morgan GBI-EM) from 2024 represents a landmark for India's sovereign debt market.\n• Masala Bonds were first issued by IFC (World Bank arm) in 2013; NTPC, HDFC issued early corporate Masala Bonds.\n• ECB repayment creates future current account outflow pressure — interest and principal must be paid in foreign currency."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Foreign Investment/Debt Instrument) with List II (Key Characteristic):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Voluntary Retention Route (VRR)",
+            "1. Specific G-sec series open to non-residents without quantitative limits — enabled Euroclear inclusion"
+          ],
+          [
+            "B. Fully Accessible Route (FAR)",
+            "2. Foreign-currency loans raised by Indian entities from overseas — governed by RBI framework"
+          ],
+          [
+            "C. Masala Bonds",
+            "3. FPIs exempt from macro-prudential limits in exchange for minimum 3-year retention commitment"
+          ],
+          [
+            "D. External Commercial Borrowings (ECB)",
+            "4. Rupee-denominated bonds issued overseas — currency risk borne by the foreign investor"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-3, B-1, C-4, D-2\n(b) A-1, B-3, C-2, D-4\n(c) A-3, B-4, C-1, D-2\n(d) A-1, B-3, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3cba3cc8-b054-4590-afa3-d8552ab1166c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Hot Money Problem and Macroeconomic Vulnerability",
+        "Balance of Payments Treatment: Capital Account vs Financial Account"
+      ],
+      "subject_que_no": 558,
+      "overall_que_no": 7905
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "FPI hot money: exchange rate vulnerability and BoP classification",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both A and R are factually correct may assume R explains A without realising that the exchange rate depreciation from FPI outflows is caused by demand-supply dynamics in forex markets, not directly by the BoP classification of FPI under the financial account.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. FPI outflows are sudden and reversible; they depreciate the rupee by creating excess supply of rupees in the forex market and by draining foreign exchange reserves.",
+        "Step 2: Is Reason (R) correct? — Yes. Under the IMF's BPM6 framework (adopted by RBI), FDI and FPI are both recorded under the Financial Account, not the Capital Account.",
+        "Step 3: Does R causally explain A? — No. The exchange rate vulnerability from FPI outflows stems from the reversible nature of portfolio flows and their large volume, not from their accounting classification under the financial account. The BoP classification is a measurement convention, not a causal driver of exchange rate movements.",
+        "Both A and R are correct but R does NOT explain A — correct option is (b)."
+      ],
+      "upsc_trap_explanation": "This question exploits a reversed-causation assumption. Students who know both facts — FPI causes rupee depreciation (A) and FPI is in the financial account (R) — may assume a causal link where none exists. The BoP classification tells us where FPI flows are recorded, not why they cause currency volatility. The actual cause of rupee depreciation during FPI outflows is the mechanics of forex demand-supply, not accounting categorisation. UPSC frequently uses this 'both correct, no causal link' design in assertion-reason questions on macroeconomics.",
+      "final_explanation": "Understanding FPI's macroeconomic impact requires distinguishing between the operational consequence of reversible flows and the accounting framework used to record them.\n\n• Assertion (A): Correct. FPI flows — especially equity and short-term debt — are highly reversible. Large, sudden outflows (as seen in the 2013 Taper Tantrum and 2020 COVID selloff) cause rupee depreciation by converting rupee assets to foreign currency rapidly, pressuring both exchange rates and forex reserves.\n• Reason (R): Correct. The IMF's Balance of Payments Manual (BPM6), adopted by India's RBI, places both FDI and FPI under the Financial Account — not the Capital Account. The term 'Capital Account Convertibility' in policy discourse refers to something different (freedom to convert currency for capital transactions).\n• Causal link: R does not explain A. The BoP accounting convention (financial account vs capital account) has no bearing on the mechanism by which FPI outflows create exchange rate pressure. The reversibility and volume of FPI flows — not their classification — cause currency vulnerability.\n\nValue Addition:\n• India has partial Capital Account Convertibility — full CAC has been a long-pending reform recommendation (Tarapore Committee, 1997 and 2006).\n• The 2013 Taper Tantrum saw the rupee fall to nearly ₹68/dollar driven by FPI debt outflows.\n• RBI uses forex reserves (built partly from FPI/FDI inflows) as a buffer against sudden FPI reversals."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following Assertion and Reason:\n\nAssertion (A): Sudden reversals of Foreign Portfolio Investment (FPI) flows can cause significant depreciation of the Indian rupee and drain the country's foreign exchange reserves.\n\nReason (R): Under the IMF's BPM6 framework adopted by the RBI, both FDI and FPI are recorded under the Financial Account of the Balance of Payments, not the Capital Account.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ce990dc5-181e-47b8-8318-d2e2f64010f3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Transfer Pricing and Round-Tripping in FDI",
+        "Double Taxation Avoidance Agreements (DTAAs) and FDI Geography"
+      ],
+      "subject_que_no": 559,
+      "overall_que_no": 7906
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "DTAA revision Mauritius, GAAR, Singapore grandfathering timeline",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know GAAR was legislated earlier (Finance Act 2012) but forget it was deferred and became effective only in 2017 may place it before the Mauritius DTAA revision, selecting option (b).",
+      "elimination_logic": [
+        "Anchor Event 1: QFI introduced in 2012 — this is the earliest event among the given options and is unambiguously placed first.",
+        "Anchor Event 2: Mauritius DTAA revised in 2016 — capital gains taxable at source from April 2017 onwards; this revision precedes GAAR's effective date.",
+        "Anchor Event 3: GAAR became effective April 2017 — though legislated in Finance Act 2012, it was deferred multiple times and took effect only from Assessment Year 2018-19 (financial year 2017-18).",
+        "Anchor Event 4: FIPB abolished May 2017 — just months after GAAR's commencement; these two 2017 events are close but FIPB abolition came after GAAR's April commencement.",
+        "Correct order: QFI introduced (2012) → Mauritius DTAA revised (2016) → GAAR effective (April 2017) → FIPB abolished (May 2017). This matches option (c)."
+      ],
+      "upsc_trap_explanation": "The temporal trap targets GAAR's effective date. GAAR was legislated in the Finance Act of 2012 but was repeatedly deferred by the government — anxious not to deter foreign investment during a fragile economic period. It finally took effect in April 2017 (for FY 2017-18 onwards). Students who associate GAAR with 2012 legislation will incorrectly place it before the Mauritius DTAA revision of 2016, distorting the sequence. The proximity of GAAR (April 2017) and FIPB abolition (May 2017) creates an additional ordering challenge.",
+      "final_explanation": "This question tests knowledge of the precise sequencing of four major reforms in India's foreign investment regulatory landscape between 2012 and 2017.\n\nCorrect sequence: QFI introduced → Mauritius DTAA revised → GAAR effective → FIPB abolished\n\n• QFI (2012): Qualified Foreign Investor category introduced in January 2012 to allow direct retail foreign access to Indian markets — the earliest of the four events.\n• Mauritius DTAA revision (2016): The India-Mauritius DTAA was revised in May 2016; capital gains became taxable at source from April 2017 — ending decades of tax arbitrage.\n• GAAR effective (April 2017): Though legislated in Finance Act 2012, GAAR's application was deferred until FY 2017-18 to stabilise investor sentiment.\n• FIPB abolished (May 2017): The Foreign Investment Promotion Board was wound up in May 2017, shifting government-route approvals to sectoral ministries.\n\nValue Addition:\n• Singapore's DTAA had a grandfathering provision protecting pre-April 2017 investments — a sunset clause design that softened transition.\n• After Mauritius DTAA revision, Netherlands and USA gained relative importance as FDI source countries.\n• QFI was ultimately subsumed into the FPI regime by SEBI in 2014 — making QFI's existence as a separate category short-lived."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following is the correct chronological sequence of the events listed below?\n\n1. Qualified Foreign Investor (QFI) category introduced for direct market access\n2. India-Mauritius DTAA revised to make capital gains taxable at source\n3. General Anti-Avoidance Rules (GAAR) became effective for tax assessments\n4. Foreign Investment Promotion Board (FIPB) abolished\n\n(a) 1 → 3 → 2 → 4\n(b) 1 → 3 → 4 → 2\n(c) 1 → 2 → 3 → 4\n(d) 2 → 1 → 3 → 4",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dd529531-6108-4283-b008-d50c24a2364f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Press Note 3 (2020) and Opportunistic FDI Restrictions"
+      ],
+      "subject_que_no": 560,
+      "overall_que_no": 7907
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "application-scenario",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Press Note 3: land-border countries, beneficial ownership, sector-agnostic application",
+      "statement_analysis": null,
+      "strong_distractor": "b — A student who knows Press Note 3 restricts Chinese investment may assume it applies only to sensitive sectors (defence, telecom), making option (b) — which limits the restriction to strategic sectors — seem precise and well-reasoned.",
+      "elimination_logic": [
+        "Eliminate option (a): Press Note 3 applies to ALL sectors including those otherwise under automatic route — the scenario involves a technology company, which is normally 100% automatic route. Press Note 3 overrides this.",
+        "Eliminate option (b): The restriction is not confined to sensitive sectors — it applies sector-agnostically to all investments from land-border countries.",
+        "Eliminate option (c): The Chinese firm holding 35% in the Singapore entity makes China the ultimate beneficial owner (UBO) — Press Note 3 explicitly extends to beneficial ownership even when the immediate investor is from a third country.",
+        "Confirm option (d): Government route approval is mandatory because the UBO test triggers Press Note 3 — the Singapore entity's Chinese beneficial owner brings the investment under the land-border country restriction."
+      ],
+      "upsc_trap_explanation": "The trap operates on two levels. First, students may assume that routing through Singapore bypasses Press Note 3 — but the UBO (beneficial ownership) clause explicitly captures such structures. Second, students may assume Press Note 3 applies only to strategic sectors — but it is sector-agnostic, overriding even 100% automatic route sectors. This tests application of the regulation beyond surface recall.",
+      "final_explanation": "Press Note 3, issued in April 2020, was a defensive investment measure triggered by concerns about opportunistic acquisitions of stressed Indian companies by Chinese entities during the COVID-19 period.\n\nApplicable principle: Press Note 3 requires government route approval for any FDI where the investor — or its ultimate beneficial owner — is from a country sharing a land border with India (China, Pakistan, Bangladesh, Nepal, Bhutan, Myanmar). This applies regardless of the sector and regardless of whether the immediate investor is routed through a third country.\n\nMapping to scenario: The Singapore entity holds 35% beneficial ownership from a Chinese parent. Even though Singapore is not a land-border country, China (the UBO) is. The technology sector normally permits 100% FDI under automatic route — but Press Note 3 overrides this.\n\n• Option (a): Incorrect — the technology sector's automatic route status does not override Press Note 3's UBO-based restriction.\n• Option (b): Incorrect — Press Note 3 is sector-agnostic; it applies to all sectors, not just strategic ones.\n• Option (c): Incorrect — routing through a Singapore intermediary does not bypass the UBO clause; the Chinese parent's beneficial ownership triggers the restriction.\n• Option (d): Correct — government approval is mandatory under Press Note 3 due to the Chinese UBO, regardless of sector or investment route.\n\nValue Addition:\n• Press Note 3 also applies when a land-border country entity is the UBO of the investing firm — anti-circumvention design.\n• The six land-border countries covered: China, Pakistan, Bangladesh, Nepal, Bhutan, Myanmar.\n• Even portfolio investments (FPI) with land-border country UBOs can face heightened scrutiny under this framework."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A Singapore-based technology fund seeks to invest ₹500 crore in an Indian fintech startup, acquiring a 30% equity stake. Due diligence reveals that a Chinese corporation holds 35% ownership in the Singapore fund, making it the largest single shareholder. The fintech sector in India normally permits 100% FDI under the automatic route. The Indian startup's board has not passed any resolution restricting foreign investment.\n\nWhich of the following correctly describes the regulatory position of this proposed investment under India's current FDI framework?\n\n(a) The investment proceeds under the automatic route since the fintech sector has no FDI cap and Singapore is not a land-border country\n(b) The investment requires government approval only if the fintech startup operates in a sector classified as strategically sensitive\n(c) The investment can proceed under the automatic route since the immediate investor is a Singapore entity, and third-country routing is not restricted under Press Note 3\n(d) The investment requires prior government approval because the ultimate beneficial owner of the Singapore fund is from a country sharing a land border with India",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "b8777312-cb48-469d-9422-3aa78bb7c51d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Participatory Notes (P-Notes) and Regulatory Concerns"
+      ],
+      "subject_que_no": 561,
+      "overall_que_no": 7908
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "odd-one-out",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "P-Notes: regulatory restrictions and UBO anonymity concerns",
+      "statement_analysis": null,
+      "strong_distractor": "b — Option (b) referencing derivatives without hedging purpose is a genuine restriction on P-Notes (SEBI 2017 tightening), making students uncertain whether it is the 'odd one out' or a real restriction.",
+      "elimination_logic": [
+        "Evaluate option (a): P-Note issuance is restricted to registered FPIs only — correct restriction; this belongs to the regulatory framework.",
+        "Evaluate option (b): Post-2017, P-Notes on derivatives are restricted to those with a hedging purpose — this is a genuine SEBI restriction.",
+        "Evaluate option (c): P-Note holders are NOT required to register with SEBI — the FPI issuing P-Notes registers, not the end investor. A claim that P-Note holders must file periodic disclosures with SEBI is fabricated — SEBI cannot identify them; that is the core anonymity concern.",
+        "Evaluate option (d): KYC on the ultimate beneficial owner is mandatory for the FPI issuing P-Notes — genuine post-2017 SEBI tightening.",
+        "Option (c) is the odd one out — it attributes a SEBI registration/disclosure obligation to P-Note holders directly, which contradicts the entire regulatory concern about P-Note anonymity."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap inserts a regulatory-sounding obligation (SEBI periodic disclosure by P-Note holders) that does not exist. The entire regulatory concern about P-Notes is that SEBI cannot identify ultimate beneficial owners — so attributing a disclosure requirement to them directly inverts the regulatory reality. Students with superficial knowledge of P-Note tightening may accept this as one more post-2017 restriction, when in fact it contradicts the fundamental anonymity problem.",
+      "final_explanation": "Participatory Notes (P-Notes or Offshore Derivative Instruments) allow foreign investors to gain exposure to Indian securities through an FPI intermediary without directly registering with SEBI. This creates anonymity concerns about ultimate beneficial ownership.\n\n• Option (a): A genuine feature — only SEBI-registered FPIs can issue P-Notes; unregistered entities cannot create these instruments.\n• Option (b): A genuine 2017 restriction — P-Notes on derivatives are permitted only when the position serves a hedging purpose, not for speculative derivative exposure.\n• Option (c): The odd one out — P-Note holders do NOT register with SEBI or file periodic disclosures with SEBI. The FPI issuer registers; the end investor remains anonymous to the regulator. This anonymity is precisely the policy concern around P-Notes.\n• Option (d): A genuine post-2017 SEBI requirement — FPIs issuing P-Notes must conduct KYC on the ultimate beneficial owner of the P-Note.\n\nValue Addition:\n• P-Note issuance as a percentage of total FPI assets has declined sharply since SEBI's 2017 tightening.\n• The SC-appointed SIT on Black Money (2015) raised concerns about P-Notes being used for round-tripping.\n• The FPI issuing P-Notes must ensure the end investor is from a FATF-compliant jurisdiction."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements about Participatory Notes (P-Notes) issued by Foreign Portfolio Investors in India. Three of these reflect actual features or restrictions applicable to P-Notes under SEBI's regulatory framework; one does NOT.\n\nWhich of the following does NOT correctly describe an actual regulatory feature of P-Notes?\n\n(a) Only SEBI-registered Foreign Portfolio Investors are permitted to issue Participatory Notes to overseas investors\n(b) Participatory Notes on derivative positions are permitted only when the underlying position serves a hedging purpose\n(c) Holders of Participatory Notes are required to file periodic disclosures with SEBI regarding their beneficial ownership and investment intent\n(d) The FPI issuing Participatory Notes must conduct Know-Your-Customer (KYC) verification of the ultimate beneficial owner of the P-Note",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "be97a06d-7891-4a2a-9080-8ce3726c18e4",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FEMA vs FERA: Paradigm Shift in Foreign Investment Regulation"
+      ],
+      "subject_que_no": 562,
+      "overall_que_no": 7909
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "two-statement-relationship",
+      "trap_type": "partial-truth",
+      "concept_anchor": "FEMA civil offence nature; ED dual mandate under FEMA and PMLA",
+      "statement_analysis": [
+        {
+          "statement": "Violations under the Foreign Exchange Management Act (FEMA), 1999 are treated as civil offences, with enforcement handled primarily through monetary penalties rather than criminal prosecution.",
+          "verdict": "Correct",
+          "reason": "FEMA replaced FERA's criminal prosecution model with a civil offence framework — violations attract monetary penalties and the presumption of innocence applies. Criminal prosecution for money laundering is separately handled under PMLA, not FEMA itself."
+        },
+        {
+          "statement": "The Enforcement Directorate (ED) enforces FEMA exclusively and has no statutory role under any other legislation concerning financial crimes.",
+          "verdict": "Incorrect",
+          "reason": "The ED has a dual mandate — it enforces both FEMA and the Prevention of Money Laundering Act (PMLA). These are two distinct statutory roles, and the ED's PMLA work frequently complements FEMA investigations but operates under separate legal authority."
+        }
+      ],
+      "strong_distractor": "a — Students who know ED enforces FEMA may assume Statement 2 is broadly correct without knowing the ED's equally important PMLA mandate, leading them to select 'both correct.'",
+      "elimination_logic": [
+        "Evaluate Statement 1 — FEMA violations are civil offences with monetary penalties; this replaced FERA's criminal model. Statement 1 is correct.",
+        "Evaluate Statement 2 — The ED enforces FEMA but also enforces PMLA (Prevention of Money Laundering Act); the claim of 'exclusively FEMA' is false. Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is the word 'exclusively.' The ED's association with FEMA enforcement is strong in public discourse, but the PMLA mandate is equally important — and in recent years, more prominent. Students who recall 'ED enforces FEMA' without knowing the PMLA dual mandate accept Statement 2 as correct. The partial-truth technique inserts one false element ('exclusively, no other legislation') into an otherwise correct claim.",
+      "final_explanation": "FEMA (1999) marked a liberalisation paradigm shift from FERA (1973). FERA treated every foreign exchange transaction with suspicion, presumed guilt, and used criminal prosecution. FEMA adopted a presumption of innocence, civil offence framework, and market-friendly approach.\n\n• Statement 1 — Correct: FEMA violations result in civil penalties (monetary), not criminal prosecution. Serious contraventions that involve money laundering are separately prosecuted under PMLA — not under FEMA itself.\n• Statement 2 — Incorrect: The Enforcement Directorate holds a dual statutory mandate — FEMA enforcement (foreign exchange violations) and PMLA enforcement (money laundering). Describing its role as 'exclusive' to FEMA is factually wrong.\n\nValue Addition:\n• FERA (1973) was a product of the foreign exchange scarcity era; its criminal presumption reflected capital control philosophy.\n• Under FEMA, the onus of proof for violations lies with the enforcement authority, not the accused — reversal of FERA's burden-of-proof approach.\n• ED's PMLA powers include arrest, attachment of property, and prosecution — far more coercive than its FEMA penalty powers."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about foreign exchange regulation in India:\n\nStatement 1: Violations under the Foreign Exchange Management Act (FEMA), 1999 are treated as civil offences, with enforcement handled primarily through monetary penalties rather than criminal prosecution.\n\nStatement 2: The Enforcement Directorate (ED) enforces FEMA exclusively and has no statutory role under any other legislation concerning financial crimes.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5ad57609-7d05-490b-a137-5af626019a72",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Aggregate FPI Limit and Sectoral Investment Caps"
+      ],
+      "subject_que_no": 563,
+      "overall_que_no": 7910
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Aggregate FPI limit: 24% default, board resolution to increase",
+      "statement_analysis": null,
+      "strong_distractor": "c — '10%' is a real threshold in FPI regulation (individual FPI limit beyond which reclassification to FDI occurs), making it sound precisely relevant. Students confuse the individual-investor threshold with the company-level aggregate threshold.",
+      "elimination_logic": [
+        "Eliminate option (a): 49% is a sectoral cap (e.g., insurance, multi-brand retail), not the default aggregate FPI limit for a company.",
+        "Eliminate option (c): 10% is the individual FPI investor threshold (beyond which FDI reclassification is triggered) — not the aggregate company-level FPI limit.",
+        "Eliminate option (d): 26% is the FDI cap for print media — a sector-specific cap, not the default aggregate FPI ceiling.",
+        "Confirm option (b): The default aggregate FPI limit in any Indian company is 24% of paid-up capital. A company's board can pass a resolution to raise this to the applicable sectoral cap or statutory limit."
+      ],
+      "upsc_trap_explanation": "The 10% distractor (option c) is particularly deceptive because 10% is a genuine threshold in FPI regulation — it triggers reclassification of an individual FPI holding as FDI. Students who conflate the individual investor threshold with the aggregate company-level ceiling will select option (c) with confidence. The 24% aggregate limit is less commonly recalled than the 10% individual threshold, making this a precision-knowledge question.",
+      "final_explanation": "India's FPI investment framework operates with two simultaneously applicable limits: an individual-investor limit and a company-level aggregate limit.\n\n• Option (a) — Incorrect: 49% is a sectoral FDI cap (insurance, broadcasting segments) — not the default aggregate FPI ceiling.\n• Option (b) — Correct: The default aggregate FPI limit is 24% of paid-up capital. This can be raised by board resolution up to the applicable sectoral FDI cap or statutory limit.\n• Option (c) — Incorrect: 10% is the individual FPI limit — when any single FPI's holding reaches 10%, further purchase triggers mandatory FDI reclassification. This is a different threshold operating at the investor level, not the company level.\n• Option (d) — Incorrect: 26% is the FDI cap for print media — a sector-specific cap unrelated to the default aggregate FPI ceiling.\n\nValue Addition:\n• The 24% aggregate limit acts as a 'creeping acquisition' guardrail — analogous to SEBI's Takeover Code trigger thresholds.\n• Once aggregate FPI holdings breach the limit, subsequent purchases by any FPI trigger automatic mandatory divestment.\n• RBI and SEBI jointly monitor aggregate FPI holdings and send alerts as companies approach the threshold."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The default aggregate limit for Foreign Portfolio Investment in any Indian company is ________ of its paid-up capital, which can be raised to the applicable sectoral cap through a resolution of the company's board of directors.\n\n(a) 49%\n(b) 24%\n(c) 10%\n(d) 26%",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a6aef32e-3217-4a2f-b75f-1f42fecace18",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "National Investment and Infrastructure Fund (NIIF) as Quasi-FDI Vehicle"
+      ],
+      "subject_que_no": 564,
+      "overall_que_no": 7911
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "identify-the-pair",
+      "trap_type": "conflation",
+      "concept_anchor": "NIIF ownership structure: not a sovereign wealth fund",
+      "statement_analysis": null,
+      "strong_distractor": "d — Describing NIIF as a sovereign wealth fund (SWF) is the most tempting error since NIIF is government-backed and mobilises foreign capital for infrastructure — the functional profile resembles an SWF to a casual observer.",
+      "elimination_logic": [
+        "Evaluate option (a): NIIF as a 'blended finance intermediary' — government holds 49%, rest is private/foreign capital. This correctly describes NIIF's structure and purpose as a blended finance vehicle. This pair is correctly matched.",
+        "Evaluate option (b): NIIF's Master Fund described as a 'Fund of Funds' — this is incorrect; the Fund of Funds is a separate sub-fund within NIIF, not the Master Fund.",
+        "Evaluate option (c): NIIF described as exempt from SEBI regulations — this is not accurate; NIIF funds are regulated and listed entities are subject to standard market regulations.",
+        "Evaluate option (d): NIIF as a sovereign wealth fund — incorrect; the government holds only 49%, and the remainder is private/foreign. A true SWF is state-owned/controlled. NIIF's own classification is as an alternative investment fund."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges NIIF's government backing with sovereign wealth fund status. Since the government owns 49% and NIIF mobilises long-term foreign capital for infrastructure (functions similar to an SWF), the SWF label feels accurate. But SWFs are state-owned (100% or majority government), while NIIF is a blended public-private vehicle — the government is the anchor investor, not the sole owner. UPSC exploits this functional similarity to test structural precision.",
+      "final_explanation": "The National Investment and Infrastructure Fund (NIIF) was established to attract long-term foreign and domestic capital into Indian infrastructure through a blended finance model — co-investing government capital alongside private and foreign institutional investors.\n\n• Option (a) — Correct: NIIF as a blended finance intermediary with 49% government ownership is the accurate characterisation. The government acts as the anchor investor to de-risk participation for foreign and private investors — a hallmark of blended finance.\n• Option (b) — Incorrect: NIIF's Master Fund focuses on infrastructure equity investments; the Fund of Funds and Strategic Opportunities Fund are separate sub-funds with different risk-return profiles.\n• Option (c) — Incorrect: NIIF funds operate within the regulatory framework; this pairing is fabricated.\n• Option (d) — Incorrect: NIIF is not a sovereign wealth fund — government holds only 49%. Sovereign wealth funds are state-owned (majority government); NIIF is a public-private partnership structure classified as an Alternative Investment Fund.\n\nValue Addition:\n• Category I SWFs (government-owned) are classified as Category I FPIs under SEBI — distinct from NIIF.\n• NIIF's three sub-funds: Master Fund (infrastructure equity), Fund of Funds (investing in other funds), Strategic Opportunities Fund (developmental projects).\n• UAE's Abu Dhabi Investment Authority and Ontario Teachers' Pension Plan are among NIIF's anchor foreign investors."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to the National Investment and Infrastructure Fund (NIIF) is correctly matched?\n\n(a) NIIF — A blended finance intermediary with the Government of India holding 49% and the remainder from private and foreign investors\n(b) NIIF Master Fund — A fund that invests in other alternative investment funds rather than directly in infrastructure assets\n(c) NIIF — Exempt from SEBI's Alternative Investment Fund regulations due to its government-backed status\n(d) NIIF — A Sovereign Wealth Fund wholly owned by the Government of India for deploying overseas capital into domestic infrastructure",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5797226a-c97c-4c09-b161-5c65151823d1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Real Estate Investment Trusts (REITs) and InvITs as FPI Entry Points",
+        "Sectoral FDI Caps and Strategic Sensitivity"
+      ],
+      "subject_que_no": 565,
+      "overall_que_no": 7912
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "multi-statement-correct",
+      "trap_type": "partial-truth",
+      "concept_anchor": "REITs: FDI in real estate business prohibited vs construction permitted",
+      "statement_analysis": [
+        {
+          "statement": "FDI in 'real estate business' is prohibited in India, but FDI in construction development projects is permitted under specified conditions.",
+          "verdict": "Correct",
+          "reason": "FDI in real estate business (buying and selling of real estate or trading in transferable development rights) is prohibited. However, FDI in construction development — townships, housing, commercial premises — is permitted, making the distinction legally critical."
+        },
+        {
+          "statement": "Foreign Portfolio Investors can acquire units of listed Real Estate Investment Trusts (REITs), providing indirect exposure to income-generating real estate without direct FDI.",
+          "verdict": "Correct",
+          "reason": "REITs are listed on stock exchanges, and FPIs can invest in REIT units through the secondary market — this is a regulated route for real estate exposure that bypasses the FDI prohibition on real estate business."
+        },
+        {
+          "statement": "A REIT in India is required to invest at least 80% of its assets in completed and revenue-generating properties, limiting exposure to speculative under-construction projects.",
+          "verdict": "Correct",
+          "reason": "SEBI's REIT regulations mandate that at least 80% of the REIT's asset value must be in completed, revenue-generating assets — ensuring investors receive income from operational properties rather than speculative construction exposure."
+        }
+      ],
+      "strong_distractor": "c — A student who is unsure whether REITs truly bypass the real estate FDI prohibition may doubt Statement 2, selecting '1 and 3 only' as a cautious answer — but the REIT-FPI route is a well-established regulatory pathway.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — The FDI distinction between 'real estate business' (prohibited) and 'construction development' (permitted) is a tested regulatory nuance. Statement 1 is correct.",
+        "Evaluate Statement 2 — FPIs investing in listed REIT units is explicitly permitted — SEBI REITs regulations allow FPI participation in listed REIT units. Statement 2 is correct.",
+        "Evaluate Statement 3 — The 80% completed-asset requirement is a SEBI REIT regulation designed to prevent speculation. Statement 3 is correct.",
+        "All three statements are correct — select option (d): 1, 2 and 3."
+      ],
+      "upsc_trap_explanation": "The trap targets Statement 1's nuance. 'Real estate business' and 'real estate construction development' sound similar to a casual reader but are treated very differently under India's FDI policy. Students who recall 'FDI in real estate is prohibited' may incorrectly mark Statement 1 as false, not recognising the important exception for construction development. This is a scope-extension error — applying the prohibition too broadly to construction as well.",
+      "final_explanation": "India's FDI policy on real estate draws a precise line between prohibited 'real estate business' (trading in property, transferable development rights) and permitted 'construction development' (townships, commercial development). REITs bridge this gap by giving FPIs access to income-generating real estate through listed units.\n\n• Statement 1 — Correct: The prohibition applies to the business of buying and selling real estate for profit. Construction development — creating real estate assets — is a separate, permitted category under FDI.\n• Statement 2 — Correct: FPIs can freely invest in listed REIT units on stock exchanges. This provides real estate exposure within the securities market framework, not through direct FDI in real estate.\n• Statement 3 — Correct: SEBI mandates ≥80% of REIT assets in completed, revenue-generating properties. This structural requirement distinguishes REITs from real estate development funds.\n\nValue Addition:\n• Infrastructure Investment Trusts (InvITs) follow a parallel model for infrastructure assets — NHAI and PowerGrid have listed InvITs as monetisation tools.\n• Embassy Office Parks REIT (2019) was India's first listed REIT.\n• InvIT units are also accessible to FPIs, providing a route to infrastructure debt and equity exposure without direct ECB or FDI structuring."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding Real Estate Investment Trusts (REITs) and FDI policy in India:\n\n1. FDI in 'real estate business' is prohibited in India, but FDI in construction development projects is permitted under specified conditions.\n2. Foreign Portfolio Investors can acquire units of listed Real Estate Investment Trusts (REITs), providing indirect exposure to income-generating real estate without direct FDI.\n3. A REIT in India is required to invest at least 80% of its assets in completed and revenue-generating properties, limiting exposure to speculative under-construction projects.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4afef94e-f8a9-415d-b798-87795259c0c5",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Sovereign Wealth Funds (SWFs) and Their Regulatory Treatment"
+      ],
+      "subject_que_no": 566,
+      "overall_que_no": 7913
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "SWF tax exemption: Union Budget 2020, infrastructure, 3-year lock-in",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students may recall the 2019 budget as the year of major FPI rationalisation and attribute the SWF exemption to the same budget cycle, picking 2019 instead of 2020.",
+      "elimination_logic": [
+        "Eliminate option (a): The 2019 budget rationalised FPI categories and KYC norms — the SWF tax exemption for infrastructure investments was not announced in Union Budget 2019.",
+        "Eliminate option (b): The exemption requires a minimum 3-year lock-in period, not 5 years. A 5-year requirement would be significantly more restrictive and was not the announced condition.",
+        "Eliminate option (d): The exemption covers interest, dividend, and capital gains from qualifying infrastructure investments — not 'all income from Indian investments' across all sectors.",
+        "Confirm option (c): Union Budget 2020 exempted SWFs and pension funds from tax on interest, dividend, and capital gains earned from qualifying infrastructure investments, subject to a minimum 3-year lock-in."
+      ],
+      "upsc_trap_explanation": "The temporal trap places the SWF exemption in 2019 (option a) — the year of major FPI regulatory rationalisation — rather than 2020, when the actual tax incentive for SWF infrastructure investments was introduced. Students who associate the SWF policy boost with the broader FPI regulatory reforms of 2019 will make this error. UPSC frequently tests year-precision for budget announcements.",
+      "final_explanation": "Sovereign Wealth Funds are state-controlled investment vehicles that India has sought to attract into long-term infrastructure projects. The Union Budget 2020 provided a significant tax incentive to catalyse SWF and pension fund participation.\n\n• Option (a) — Incorrect: Union Budget 2019 focused on FPI category rationalisation and KYC simplification — not the SWF infrastructure tax exemption.\n• Option (b) — Incorrect: The lock-in requirement is 3 years, not 5 years. A 5-year lock-in would be more restrictive and was not the announced conditionality.\n• Option (c) — Correct: Union Budget 2020 exempted SWFs and pension funds from tax on interest, dividend, and capital gains from qualifying infrastructure investments with a minimum 3-year lock-in.\n• Option (d) — Incorrect: The exemption is limited to infrastructure investments, not all Indian investments. Sector targeting was central to the policy design.\n\nValue Addition:\n• SWFs are classified as Category I FPIs under SEBI's framework — the most trusted regulatory category.\n• The SWF exemption targets patient capital — long-term investors aligned with India's infrastructure financing needs.\n• Abu Dhabi Investment Authority (ADIA) and GIC (Singapore) are among the SWFs that have made significant India infrastructure commitments."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following correctly describes the tax treatment accorded to Sovereign Wealth Funds (SWFs) for their investments in Indian infrastructure, as announced in the Union Budget?\n\n(a) Union Budget 2019 exempted SWFs from tax on capital gains from infrastructure investments with a minimum 3-year lock-in period\n(b) SWFs are exempt from tax on income from all qualifying infrastructure investments, provided a minimum 5-year lock-in period is maintained\n(c) Union Budget 2020 exempted SWFs and pension funds from tax on interest, dividend, and capital gains from qualifying infrastructure investments with a minimum 3-year lock-in\n(d) SWFs registered as Category I FPIs are exempt from all taxes on income from Indian investments, irrespective of the asset class or holding period",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "3764239d-d866-4f50-b73e-f5200bbf782d",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Transfer Pricing and Round-Tripping in FDI",
+        "Double Taxation Avoidance Agreements (DTAAs) and FDI Geography"
+      ],
+      "subject_que_no": 567,
+      "overall_que_no": 7914
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Mauritius DTAA revision, GAAR commercial substance test, round-tripping",
+      "statement_analysis": [
+        {
+          "statement": "Round-tripping involves Indian capital being routed through offshore jurisdictions and reintroduced into India disguised as foreign direct investment, primarily to exploit tax treaty benefits.",
+          "verdict": "Correct",
+          "reason": "Round-tripping is precisely this — domestic capital externally recycled through low-tax or treaty-advantaged jurisdictions (Mauritius, Singapore) and returned as 'FDI' to circumvent domestic tax obligations."
+        },
+        {
+          "statement": "Under GAAR, which became effective from Assessment Year 2018-19, tax authorities can deny treaty benefits to an arrangement that lacks genuine commercial substance.",
+          "verdict": "Correct",
+          "reason": "GAAR (General Anti-Avoidance Rules) took effect from AY 2018-19 (FY 2017-18). It empowers tax authorities to look beyond the legal form of an arrangement and deny treaty shopping benefits where the arrangement lacks bona fide commercial purpose."
+        },
+        {
+          "statement": "Following revision of the India-Mauritius DTAA in 2016, capital gains on investments made through Mauritius prior to April 2017 were immediately subjected to Indian capital gains tax without any transitional protection.",
+          "verdict": "Incorrect",
+          "reason": "The revised Mauritius DTAA included a grandfathering provision — investments made before April 1, 2017 retained tax protection. New investments from April 2017 onwards became taxable at source in India. There was deliberate transitional protection, not immediate retroactive taxation."
+        }
+      ],
+      "strong_distractor": "d — Students who know grandfathering existed for Singapore DTAA may doubt whether Mauritius also had grandfathering, and the confident language of Statement 3 may mislead them into thinking retroactive taxation was the policy choice.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — Round-tripping exploiting Mauritius/Singapore DTAA for tax avoidance is the textbook definition. Statement 1 is correct.",
+        "Evaluate Statement 2 — GAAR effective from AY 2018-19 (FY 2017-18) is accurate; the commercial substance test is GAAR's core tool. Statement 2 is correct.",
+        "Evaluate Statement 3 — The Mauritius DTAA revision included grandfathering for pre-April 2017 investments; immediate retroactive taxation did not occur. Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — answer is option (a): 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the grandfathering provision nuance. Students aware that the Mauritius DTAA was revised in 2016 may assume all investments became immediately taxable — missing the grandfathering protection for pre-April 2017 vintage investments. This is the same temporal-swap trap: the 2016 revision date versus the April 2017 effective date for new investments, with protection for older investments. Confusing these timelines leads to incorrectly marking Statement 3 as correct.",
+      "final_explanation": "The Mauritius-India DTAA, which exempted capital gains from Indian tax for decades, was a cornerstone of treaty shopping and round-tripping structures. Its 2016 revision and GAAR together restructured India's anti-avoidance architecture.\n\n• Statement 1 — Correct: Round-tripping — routing Indian money through Mauritius or Singapore to re-enter as 'FDI' — was the dominant abuse exploiting DTAA benefits. The lack of capital gains tax in Mauritius made this structure near-costless.\n• Statement 2 — Correct: GAAR became effective from AY 2018-19. Its commercial substance test gives authorities power to pierce treaty shopping arrangements that have no genuine business rationale.\n• Statement 3 — Incorrect: The DTAA revision was prospective with grandfathering. Investments made before April 1, 2017 continued to enjoy the old tax treatment; new investments from that date became subject to Indian capital gains tax. Retroactive taxation would have created massive investor litigation and was deliberately avoided.\n\nValue Addition:\n• Singapore's DTAA revision also included grandfathering — a consistent policy design principle across both treaty revisions.\n• Post-revision, the Netherlands and USA have increased their share of FDI into India as intermediary structures shifted.\n• Transfer pricing (manipulation of intra-group transaction prices) is a separate but related profit-shifting mechanism — governed by India's Transfer Pricing regulations under the Income Tax Act."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding round-tripping, GAAR, and India's tax treaty revisions:\n\n1. Round-tripping involves Indian capital being routed through offshore jurisdictions and reintroduced into India disguised as foreign direct investment, primarily to exploit tax treaty benefits.\n2. Under GAAR, which became effective from Assessment Year 2018-19, tax authorities can deny treaty benefits to an arrangement that lacks genuine commercial substance.\n3. Following revision of the India-Mauritius DTAA in 2016, capital gains on investments made through Mauritius prior to April 2017 were immediately subjected to Indian capital gains tax without any transitional protection.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "f4d52852-0955-4292-9606-aeefa0428d5c",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Balance of Payments Treatment: Capital Account vs Financial Account"
+      ],
+      "subject_que_no": 568,
+      "overall_que_no": 7915
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "scope-extension",
+      "concept_anchor": "BPM6 BoP classification: FDI in financial account; India's partial CAC",
+      "statement_analysis": [
+        {
+          "statement": "Under the IMF's BPM6 framework, repatriation of profits by a foreign direct investor from India is recorded as a debit in the Financial Account of India's Balance of Payments.",
+          "verdict": "Incorrect",
+          "reason": "Profit repatriation by foreign investors (primary income outflow) is recorded under the Current Account, specifically under the 'Primary Income' sub-component — not the Financial Account. Only equity capital flows (FDI/FPI) are in the Financial Account."
+        },
+        {
+          "statement": "'Capital Account Convertibility' in the Indian policy context refers to India having achieved full freedom to convert the rupee for all capital transactions, including FDI, FPI, and ECB, without any restrictions.",
+          "verdict": "Incorrect",
+          "reason": "India has only partial Capital Account Convertibility — significant restrictions remain on capital flows, especially short-term and speculative flows. The Tarapore Committee's recommendations for full CAC remain unimplemented. India does not have full CAC."
+        },
+        {
+          "statement": "FDI inflows into India are recorded as a credit entry in the Financial Account of the Balance of Payments under the BPM6 framework.",
+          "verdict": "Correct",
+          "reason": "Under BPM6 (adopted by India's RBI), FDI inflows — representing acquisition of equity in Indian firms by non-residents — are credit entries in the Financial Account. This is factually correct and should NOT be identified as incorrect."
+        }
+      ],
+      "strong_distractor": "d — Selecting 'all three' as incorrect is the trap for students who are uncertain about Statement 3 and hedge by marking everything as wrong, confusing the overall complexity of BoP accounting with factual incorrectness.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — Profit repatriation is under the Current Account (Primary Income), not the Financial Account. Statement 1 is NOT correct — qualifies as 'incorrect' for this format.",
+        "Evaluate Statement 2 — India has partial, not full, CAC. Describing India as having 'full freedom' for capital transactions is factually wrong. Statement 2 is NOT correct.",
+        "Evaluate Statement 3 — FDI inflows as credit in the Financial Account under BPM6 is accurate. Statement 3 IS correct — does not qualify as 'incorrect.'",
+        "Statements 1 and 2 are not correct; Statement 3 is correct. Answer is option (b): 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 1 exploits the misconception that all foreign investment-related flows (both equity and income) are in the Financial Account. In reality, the Financial Account captures equity/capital flows (FDI, FPI), while the associated income (dividends, profits) flows through the Current Account under Primary Income. This BoP accounting distinction is frequently confused in UPSC economics questions.",
+      "final_explanation": "India's Balance of Payments records foreign investment flows across different accounts depending on their nature — capital/equity flows versus income flows — a distinction that is frequently confused.\n\n• Statement 1 — Incorrect: Profit repatriation is a current account transaction (debit under 'Primary Income'). The Financial Account records the initial equity investment, not the ongoing income from it.\n• Statement 2 — Incorrect: India has partial Capital Account Convertibility. Restrictions remain on various capital flows. The Tarapore Committee (1997, 2006) recommended full CAC with preconditions — these remain unimplemented.\n• Statement 3 — Correct: FDI inflows are credit entries in the Financial Account under BPM6. This accurately reflects the IMF's revised BPM6 classification adopted by RBI.\n\nValue Addition:\n• Under BPM6, what was previously called 'Capital Account' in India's BoP has been restructured — the 'Capital Account' now refers to a narrow category (capital transfers like debt forgiveness); FDI/FPI sit in the Financial Account.\n• The current account deficit (CAD) is financed by surpluses in the Financial Account (FDI, FPI, ECB inflows).\n• India's forex reserve accumulation also appears in the Financial Account as 'Reserve Assets.'"
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding India's Balance of Payments and Capital Account Convertibility:\n\n1. Under the IMF's BPM6 framework, repatriation of profits by a foreign direct investor from India is recorded as a debit in the Financial Account of India's Balance of Payments.\n2. 'Capital Account Convertibility' in the Indian policy context refers to India having achieved full freedom to convert the rupee for all capital transactions, including FDI, FPI, and ECB, without any restrictions.\n3. FDI inflows into India are recorded as a credit entry in the Financial Account of the Balance of Payments under the BPM6 framework.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "4b608485-a248-471e-af2c-55c680e42207",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Foreign Investment Facilitation Portal (FIFP) and DPIIT's Role Post-FIPB Abolition"
+      ],
+      "subject_que_no": 569,
+      "overall_que_no": 7916
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "DPIIT role: facilitator not approver; FIFP single window mechanism",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know DPIIT replaced FIPB as the nodal body for FDI may assume DPIIT approves all government-route FDI proposals — conflating coordination/facilitation with final approval authority.",
+      "elimination_logic": [
+        "Eliminate option (a): DPIIT does not directly approve government-route FDI (except in its own sector). Approval authority rests with competent sectoral ministries.",
+        "Eliminate option (b): DPIIT does not approve FDI proposals — it routes applications to relevant ministries through the FIFP portal and facilitates inter-ministerial coordination.",
+        "Eliminate option (d): FIFP is not a substitute for sectoral ministry approval — it is the online routing mechanism. Proposals still require substantive review by the competent ministry.",
+        "Confirm option (c): DPIIT facilitates and coordinates FDI applications through the Foreign Investment Facilitation Portal (FIFP), routing them to the relevant sectoral ministries for actual approval — and maintains consolidated FDI data."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap places approval authority with DPIIT when it actually rests with sectoral ministries. DPIIT's role is coordination, facilitation, and data maintenance — not substantive decision-making on most FDI proposals. Students who know 'DPIIT replaced FIPB' make the logical leap that DPIIT now approves FDI, which is inaccurate. This precision on institutional roles within the post-FIPB architecture is a typical UPSC institutional-knowledge question.",
+      "final_explanation": "The abolition of FIPB in May 2017 decentralised FDI approval authority to competent sectoral ministries rather than centralising it in a new equivalent body. DPIIT's role is facilitative, not decisional.\n\n• Option (a) — Incorrect: DPIIT approves FDI only in sectors under its own ministry's jurisdiction. For all other sectors, approval lies with the relevant ministry (Finance, Defence, Telecom, etc.).\n• Option (b) — Incorrect: DPIIT does not independently decide on government-route FDI proposals — it routes them and tracks timelines but does not provide the substantive sectoral approval.\n• Option (c) — Correct: DPIIT operates the Foreign Investment Facilitation Portal (FIFP), routes applications to the appropriate sectoral ministries, provides coordination support, and maintains India's official FDI statistics.\n• Option (d) — Incorrect: FIFP is a routing and tracking platform; the competent sectoral ministry still conducts substantive review and issues the approval. FIFP does not replace ministerial authority.\n\nValue Addition:\n• The FIFP replaced the erstwhile FIPB Online portal — maintaining continuity of the single-window interface while dispersing approval authority.\n• Government-route proposals have an 8–10 week processing timeline; missed deadlines can attract deemed approval provisions in specific frameworks.\n• DPIIT also publishes India's annual FDI equity inflow data — the authoritative source for FDI statistics in policy documents."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Following the abolition of the Foreign Investment Promotion Board (FIPB) in 2017, which of the following correctly describes the role of the Department for Promotion of Industry and Internal Trade (DPIIT) in India's government-route FDI approval process?\n\n(a) DPIIT has inherited the FIPB's mandate and directly approves all government-route FDI proposals across all sectors\n(b) DPIIT independently approves government-route FDI proposals up to ₹5,000 crore and refers larger proposals to the Cabinet Committee on Economic Affairs\n(c) DPIIT operates the Foreign Investment Facilitation Portal to route FDI applications to the relevant sectoral ministries and facilitates inter-ministerial coordination, while actual approval authority rests with the competent ministries\n(d) DPIIT's Foreign Investment Facilitation Portal grants automatic deemed approval for government-route FDI proposals if no response is received from the relevant ministry within the stipulated timeline",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8b3550f2-46aa-44e1-b412-6e819fb74cee",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FDI vs FPI: Definitional Boundaries and Threshold Rule",
+        "Aggregate FPI Limit and Sectoral Investment Caps"
+      ],
+      "subject_que_no": 570,
+      "overall_que_no": 7917
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "FPI limits: individual threshold, aggregate limit, board resolution, reclassification",
+      "statement_analysis": [
+        {
+          "statement": "An individual FPI holding exactly 9.5% of a company's paid-up equity capital is classified as an FPI investor and does not trigger any mandatory reclassification.",
+          "verdict": "Correct",
+          "reason": "The reclassification threshold is 10% — below 10%, the holding remains FPI. 9.5% is comfortably below the trigger and no reclassification obligation arises."
+        },
+        {
+          "statement": "The aggregate FPI holding in a company automatically defaults to the applicable sectoral FDI cap unless the company's board reduces it to 24% by passing a resolution.",
+          "verdict": "Incorrect",
+          "reason": "The default aggregate FPI limit is 24% of paid-up capital. The board can increase it by resolution to the sectoral cap — not the reverse. The 24% is the default floor, not a cap that defaults to sectoral limits automatically."
+        },
+        {
+          "statement": "Once the aggregate FPI holding in a company approaches the prescribed limit, SEBI and RBI issue alerts so that further FPI purchases can be managed before the limit is breached.",
+          "verdict": "Correct",
+          "reason": "RBI and SEBI jointly monitor FPI holdings through their surveillance system and issue early-warning alerts as aggregate FPI shareholding approaches the company's prescribed limit — preventing inadvertent breaches."
+        },
+        {
+          "statement": "If a single FPI acquires 10% or more of a company's paid-up equity, the investment must be mandatorily reclassified under the FDI route.",
+          "verdict": "Correct",
+          "reason": "The 10% threshold is the reclassification trigger — when a single FPI's holding reaches or exceeds 10% of paid-up equity, it triggers mandatory conversion to FDI. This is the core FDI-FPI boundary rule under FEMA."
+        }
+      ],
+      "strong_distractor": "c — Selecting 'only three' tempts students who correctly identify three true statements but incorrectly assess Statement 3 as fabricated (the monitoring and alert system exists but is less commonly known).",
+      "elimination_logic": [
+        "Evaluate Statement 1 — 9.5% is below the 10% reclassification threshold; the holding remains FPI. Correct.",
+        "Evaluate Statement 2 — The default aggregate FPI limit is 24%; the board can increase it to sectoral cap, not reduce it. The statement reverses the direction of board action. Incorrect.",
+        "Evaluate Statement 3 — SEBI/RBI monitoring and alert system for FPI aggregate limits is a real operational feature. Correct.",
+        "Evaluate Statement 4 — 10% threshold triggers mandatory FDI reclassification for individual FPI holdings. Correct.",
+        "Three of four correct — answer is option (c): Only three."
+      ],
+      "upsc_trap_explanation": "Statement 2's trap is directional reversal. Students who know the 24% default and board resolution mechanism may get confused about the direction — thinking the board reduces from sectoral cap to 24% rather than increases from 24% to the sectoral cap. This partial-truth trap inserts factual elements (24%, board resolution, sectoral cap) but reverses their relationship, making it sound authoritative while being substantively wrong.",
+      "final_explanation": "The FPI investment framework operates through two simultaneously active limits — individual-investor and company-aggregate — monitored jointly by SEBI and RBI.\n\n• Statement 1 — Correct: 9.5% is below the 10% reclassification threshold; this holding remains FPI with no further compliance obligation.\n• Statement 2 — Incorrect: The direction of the board resolution mechanism is reversed. The default aggregate FPI ceiling is 24%; by board resolution, a company can raise it to the applicable sectoral FDI cap or statutory limit — not lower it from the sectoral cap to 24%.\n• Statement 3 — Correct: The regulatory surveillance system monitors FPI aggregate levels and issues alerts before limits are breached — an important operational safeguard.\n• Statement 4 — Correct: The 10% individual-FPI threshold triggers mandatory FDI reclassification — the foundational FDI-FPI boundary rule.\n\nValue Addition:\n• The individual limit (10%) and aggregate limit (24%) are independent — both can be binding simultaneously on the same company.\n• Post-breach mandatory divestment applies if aggregate limits are exceeded — paralleling the SEBI Takeover Code creeping acquisition mechanism.\n• Companies can also set FPI limits below 24% by board resolution if they prefer to restrict foreign portfolio ownership."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements regarding FPI investment limits in Indian companies:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "An individual FPI holding exactly 9.5% of a company's paid-up equity capital is classified as an FPI investor and does not trigger any mandatory reclassification."
+          ],
+          [
+            "2",
+            "The aggregate FPI holding in a company automatically defaults to the applicable sectoral FDI cap unless the company's board reduces it to 24% by passing a resolution."
+          ],
+          [
+            "3",
+            "Once the aggregate FPI holding in a company approaches the prescribed limit, SEBI and RBI issue alerts so that further FPI purchases can be managed before the limit is breached."
+          ],
+          [
+            "4",
+            "If a single FPI acquires 10% or more of a company's paid-up equity, the investment must be mandatorily reclassified under the FDI route."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "ada48fa1-a8b9-491e-b714-9455f98d476e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "External Commercial Borrowings (ECB) vs FDI vs FPI: Overlaps"
+      ],
+      "subject_que_no": 571,
+      "overall_que_no": 7918
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "ECB vs Masala Bonds: currency risk allocation difference",
+      "statement_analysis": [
+        {
+          "statement": "External Commercial Borrowings (ECBs) are typically denominated in foreign currency, placing the exchange rate risk on the Indian borrowing entity.",
+          "verdict": "Correct",
+          "reason": "Standard ECBs are foreign-currency denominated loans — when the rupee depreciates, the repayment burden in rupee terms increases, placing currency risk squarely on the Indian borrower."
+        },
+        {
+          "statement": "Masala Bonds, being rupee-denominated instruments issued in overseas markets, transfer the exchange rate risk to the foreign investor rather than the Indian issuer.",
+          "verdict": "Correct",
+          "reason": "Since Masala Bonds are denominated in rupees, the foreign investor receives rupee returns. If the rupee depreciates against the investor's home currency, the investor's real return falls — the currency risk is borne by the investor, not the Indian issuer."
+        }
+      ],
+      "strong_distractor": "c — Students who confuse ECB and Masala Bonds as both foreign-currency instruments may incorrectly mark Statement 2 as wrong, thinking Masala Bonds also place currency risk on the Indian issuer.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — ECBs are foreign-currency loans; rupee depreciation increases repayment burden on Indian borrower. Currency risk is on the Indian entity. Statement 1 is correct.",
+        "Evaluate Statement 2 — Masala Bonds are rupee-denominated; foreign investors bear exchange rate risk since their returns are in rupees. Statement 2 is correct.",
+        "Both statements are individually correct — select option (a)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges ECB and Masala Bonds under 'overseas borrowing,' causing students to assume both carry currency risk on the Indian issuer. The key distinction — denomination currency determines who bears exchange rate risk — is the precise knowledge tested. Students who think Masala Bonds are just another form of ECB with foreign-currency denomination will mark Statement 2 as incorrect.",
+      "final_explanation": "ECBs and Masala Bonds are both mechanisms for Indian entities to access overseas capital, but they differ fundamentally in who bears the exchange rate risk — a distinction with significant macroeconomic implications.\n\n• Statement 1 — Correct: ECBs are typically US dollar or euro-denominated. Indian companies must convert foreign currency for operations but repay in that foreign currency — so rupee depreciation directly inflates their debt burden. This is why RBI monitors ECB exposure carefully.\n• Statement 2 — Correct: Masala Bonds are rupee-denominated — the Indian issuer receives and repays in rupees. Foreign investors convert their home currency to rupees to invest and receive rupee returns. If the rupee weakens, their effective yield (converted back to home currency) declines — they bear the exchange rate risk.\n\nValue Addition:\n• Masala Bonds were first issued by the IFC (World Bank's private arm) in 2013 to develop the offshore rupee bond market.\n• The currency risk transfer in Masala Bonds reduces India's aggregate external debt vulnerability — a macroprudential advantage.\n• ECB repayments create future current account pressure; Masala Bond repayments are in rupees and do not directly stress foreign exchange reserves."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements regarding overseas financing instruments used by Indian entities:\n\nStatement 1: External Commercial Borrowings (ECBs) are typically denominated in foreign currency, placing the exchange rate risk on the Indian borrowing entity.\n\nStatement 2: Masala Bonds, being rupee-denominated instruments issued in overseas markets, transfer the exchange rate risk to the foreign investor rather than the Indian issuer.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "73879d9e-e7b0-4092-89d5-e27f6c8568c1",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Qualified Foreign Investor (QFI) and Consolidation into FPI"
+      ],
+      "subject_que_no": 572,
+      "overall_que_no": 7919
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "fill-in-the-blank",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "QFI introduced 2012, consolidated into FPI by SEBI in 2014",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who associate QFI with the broader FPI rationalisation exercise may select 2019 (the year of SEBI's further FPI refinement), conflating the consolidation year with the later refinement year.",
+      "elimination_logic": [
+        "Eliminate option (a): QFI was introduced in 2012; it could not have been merged in the same year — 2012 is the year of QFI creation, not its dissolution.",
+        "Eliminate option (b): 2019 saw SEBI's further refinement of the FPI framework (three-category classification), not the initial merger of QFI into FPI.",
+        "Eliminate option (d): 2017 is associated with GAAR effectiveness and FIPB abolition — not the QFI-FPI consolidation.",
+        "Confirm option (c): SEBI merged QFI, FII, and sub-accounts into a unified FPI regime in 2014 — the consolidation year is 2014."
+      ],
+      "upsc_trap_explanation": "The temporal trap places the consolidation in 2019 — the year of SEBI's FPI framework refinement — rather than 2014. Students who know FPI was rationalised remember 2019 but forget the earlier 2014 consolidation that actually eliminated QFI as a category. The two regulatory events (2014 merger, 2019 three-category refinement) are related but distinct, and confusing their years is a classic temporal-swap error.",
+      "final_explanation": "The Qualified Foreign Investor (QFI) category had a short regulatory life — created in 2012 and subsumed into the FPI framework just two years later in 2014.\n\n• Option (a) — Incorrect: 2012 was the year QFI was introduced, not the year it was merged into FPI.\n• Option (b) — Incorrect: 2019 marked SEBI's further FPI refinement — introducing the three-category system (Category I, II, III) and enhanced KYC — but QFI had already ceased to exist since 2014.\n• Option (c) — Correct: In 2014, SEBI consolidated QFIs, FIIs, and FII sub-accounts into a unified FPI regime, eliminating regulatory arbitrage between categories.\n• Option (d) — Incorrect: 2017 was the year GAAR took effect and FIPB was abolished — separate events unrelated to QFI consolidation.\n\nValue Addition:\n• Rationale for QFI consolidation: regulatory arbitrage across FII, QFI, and sub-account categories was creating compliance gaps and investor confusion.\n• FIIs as a category also ceased to exist in 2014 — the FII terminology still appears in older SEBI circulars and is a common question trap.\n• QFI was designed for retail foreign investors; FII was for institutional investors — both were unified under the single FPI umbrella."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "The Qualified Foreign Investor (QFI) category was introduced in 2012 to allow direct retail foreign investor access to Indian markets. It was subsequently merged into the unified Foreign Portfolio Investor (FPI) regime by SEBI in ________, alongside the FII and sub-account categories.\n\n(a) 2012\n(b) 2019\n(c) 2014\n(d) 2017",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "09e451d6-ffff-4014-bc64-5eba0c0db3ec",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Hot Money Problem and Macroeconomic Vulnerability",
+        "Impact of FDI on Current Account Deficit and Rupee Stability"
+      ],
+      "subject_que_no": 573,
+      "overall_que_no": 7920
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "identify-the-pair",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "FPI hot money episodes: Taper Tantrum 2013, Original Sin, reserve adequacy",
+      "statement_analysis": null,
+      "strong_distractor": "c — The 'Original Sin' description in option (c) sounds plausible since India does borrow internationally through ECB (which is in foreign currency) — students may not recall that 'Original Sin' specifically refers to the inability to issue international debt in one's own currency.",
+      "elimination_logic": [
+        "Evaluate option (a): Taper Tantrum (2013) caused FPI debt outflows from emerging markets including India, leading to rupee depreciation — the pairing of 2013 Taper Tantrum with rupee pressure is correct.",
+        "Evaluate option (b): The 'Original Sin' concept refers to an emerging economy's inability to borrow internationally in its own currency — not, as stated, 'investors' inability to repatriate capital.' This is a reversed-causation mislabelling of the concept. The pair is incorrectly matched.",
+        "Evaluate option (c): The statement about FPI debt outflows causing reserve depletion and rupee depreciation is a well-established macroeconomic causal chain — this pairing is correctly described.",
+        "Evaluate option (d): The 2020 COVID-19 selloff was indeed characterised by large-scale FPI equity outflows — a documented episode of hot money reversal. This pair is correctly matched.",
+        "Option (b) is the incorrectly matched pair."
+      ],
+      "upsc_trap_explanation": "The reversed-causation trap mislabels 'Original Sin.' The actual concept — coined by Eichengreen and Hausmann — refers to an emerging economy's structural inability to issue sovereign debt in its own currency in international markets, exposing it to currency mismatch risk. Option (b) redefines it as investors' inability to repatriate capital, which is a plausible-sounding but entirely different concept (capital controls). Students who haven't studied the specific concept will find both descriptions vaguely plausible.",
+      "final_explanation": "FPI-driven macroeconomic volatility has produced several documented crisis episodes in India's recent history, each illustrating the 'hot money' problem.\n\n• Option (a) — Correctly matched: The 2013 Taper Tantrum — triggered by the US Federal Reserve's signal of QE tapering — caused sharp FPI outflows from Indian debt markets, depreciating the rupee to historic lows.\n• Option (b) — Incorrectly matched: 'Original Sin' does not refer to investors' inability to repatriate capital. It describes an emerging economy's structural inability to borrow internationally in its own currency — forcing dependence on foreign-currency debt, which creates currency mismatch risk for the borrower.\n• Option (c) — Correctly matched: FPI debt outflows simultaneously weaken the rupee (as foreign currency is demanded to exit) and deplete reserves (if RBI intervenes to defend the rupee).\n• Option (d) — Correctly matched: The March 2020 COVID-19 selloff saw one of the largest single-month FPI equity outflows from Indian markets — a textbook hot money reversal.\n\nValue Addition:\n• India's inability to issue G-secs internationally in rupees (until FAR/Euroclear reforms) reflects the Original Sin constraint.\n• Reserve adequacy is measured by the import cover ratio and short-term external debt cover — both are stressed during large FPI outflows.\n• RBI's forex intervention during sharp depreciations uses reserves built partly from prior FPI/FDI inflows."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following pairs relating to foreign portfolio investment volatility and macroeconomic concepts is NOT correctly matched?\n\n(a) 2013 Taper Tantrum — Sudden FPI debt outflows from India causing sharp rupee depreciation\n(b) Original Sin problem — Foreign investors' structural inability to repatriate portfolio capital from emerging markets without triggering exchange rate losses\n(c) FPI debt outflow episode — Simultaneous pressure on forex reserves and rupee exchange rate, requiring RBI intervention\n(d) 2020 COVID-19 selloff — Large-scale FPI equity withdrawals from Indian markets within a compressed time period",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "a9f0c9f6-2e0c-4714-876c-fa4551d5557b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Participatory Notes (P-Notes) and Regulatory Concerns",
+        "Foreign Portfolio Investor (FPI) Regulatory Framework post-2019"
+      ],
+      "subject_que_no": 574,
+      "overall_que_no": 7921
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "assertion-reason",
+      "trap_type": "entity-swap",
+      "concept_anchor": "P-Notes: FPI registers with SEBI, not end investor; UBO anonymity",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know Assertion (A) is correct and confuse the Reason by thinking P-Note holders have some form of SEBI registration (perhaps through the issuing FPI) may mark R as incorrect, choosing option (c) — but R is factually correct.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. SEBI cannot identify the ultimate beneficial owner of P-Notes because P-Note holders are not required to register with SEBI. This anonymity is precisely the regulatory concern.",
+        "Step 2: Is Reason (R) correct? — Yes. The FPI that issues P-Notes is the entity registered with SEBI. The end investor (P-Note holder) is not known to SEBI — only the issuing FPI is visible to the regulator.",
+        "Step 3: Does R causally explain A? — Yes. The reason SEBI cannot identify UBOs is precisely because the regulatory registration obligation falls only on the FPI issuer, not on the P-Note holder. R directly explains the anonymity in A.",
+        "Both A and R correct, R explains A — correct option is (a)."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in the Reason targets the assumption that P-Note holders have some indirect registration with SEBI through the issuing FPI. Students may think that because the FPI registers and reports, SEBI effectively knows the end investor — but this is incorrect. The reporting is at the FPI level, not the P-Note holder level, which is precisely why SEBI identified UBO identification as a regulatory gap. The Reason is correct and it directly causes the Assertion.",
+      "final_explanation": "Participatory Notes (P-Notes) are offshore derivative instruments where a SEBI-registered FPI issues a contract to a foreign investor, giving that investor economic exposure to an Indian security without the investor needing to register with SEBI.\n\n• Assertion (A): Correct. SEBI's inability to identify the ultimate beneficial owner of P-Notes is a documented regulatory concern — flagged by multiple committees including the SC-appointed SIT on Black Money. The anonymity creates risk of money laundering and round-tripping through the Indian capital market.\n• Reason (R): Correct. Only the issuing FPI is registered with SEBI and subject to its regulatory oversight. The P-Note holder (end investor) is an offshore entity with no direct SEBI visibility. The FPI's KYC obligation extends to knowing its P-Note holder, but SEBI's own sight is limited to the FPI layer.\n• Causal link: R directly explains A. The structural reason SEBI cannot see the UBO is that the registration obligation ends at the FPI issuer — the P-Note holder is one step removed from SEBI's regulatory perimeter.\n\nValue Addition:\n• SEBI's 2017 circular required FPIs to report P-Note issuance on a monthly basis and restricted P-Notes on derivatives to hedging purposes only.\n• P-Note outstanding as a proportion of total FPI assets has fallen significantly post-2017 tightening.\n• KYC of UBOs is now mandatory for issuing FPIs — but SEBI still relies on the FPI rather than directly engaging with P-Note holders."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following Assertion and Reason:\n\nAssertion (A): SEBI is unable to directly identify the ultimate beneficial owners (UBOs) of Participatory Notes (P-Notes) issued by Foreign Portfolio Investors, creating regulatory concerns about money laundering and tax evasion.\n\nReason (R): It is the Foreign Portfolio Investor issuing the Participatory Notes that is registered with SEBI — the end investor holding the P-Note is not required to register with SEBI.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "7a414068-00d7-4cbe-8445-a6ada956428e",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FDI Policy Architecture: Automatic Route vs Government Route",
+        "Sectoral FDI Caps and Strategic Sensitivity"
+      ],
+      "subject_que_no": 575,
+      "overall_que_no": 7922
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "match-the-column",
+      "trap_type": "conflation",
+      "concept_anchor": "Prohibited vs restricted FDI sectors: atomic energy, print media, defence, tobacco",
+      "statement_analysis": null,
+      "strong_distractor": "a — Swapping atomic energy and defence (A and B) is the most likely error — students know both have national security dimensions and may conflate 'prohibited' (atomic energy) with 'restricted' (defence allows FDI up to 100% via government route).",
+      "elimination_logic": [
+        "Match A (Atomic Energy): FDI is completely prohibited — not restricted, not capped, but prohibited under the Atomic Energy Act. Matches with 4.",
+        "Match B (Defence manufacturing): FDI is permitted up to 74% under automatic route; beyond 74% requires government route — it is restricted, not prohibited. Matches with 1.",
+        "Match C (Tobacco product manufacturing): FDI is prohibited — included in the prohibited sectors list. Matches with 3.",
+        "Match D (Print media — news/current affairs): FDI is capped at 26% — among the most restricted permitted sectors. Matches with 2.",
+        "Correct matching: A-4, B-1, C-3, D-2 — option (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap targets the atomic energy-defence confusion. Both sectors involve national security, but their FDI treatment is categorically different: atomic energy is flatly prohibited under the Atomic Energy Act (a constitutional restriction on private and foreign ownership of nuclear materials), while defence manufacturing allows up to 100% FDI (74% automatic + government route for the rest). Students who assume 'strategic = prohibited' conflate these two very different treatments.",
+      "final_explanation": "India's FDI policy distinguishes sharply between prohibited sectors (zero FDI permitted) and restricted sectors (FDI permitted with caps or conditions). Confusing these categories — especially for strategically sensitive sectors — is a consistent UPSC trap.\n\nCorrect matches: A-4, B-1, C-3, D-2\n\n• A (Atomic Energy) — 4 (Prohibited): The Atomic Energy Act prohibits private and foreign ownership of nuclear infrastructure. FDI in atomic energy is not merely restricted but completely prohibited.\n• B (Defence manufacturing) — 1 (74% auto route; beyond via government): This is a 'restricted' sector, not a prohibited one. The cap was raised from 49% to 74% under automatic route as part of defence indigenisation efforts.\n• C (Tobacco product manufacturing) — 3 (Prohibited): Tobacco manufacturing is in the prohibited category — FDI is not permitted at any percentage.\n• D (Print media — news) — 2 (26% cap): Print media dealing in news and current affairs allows FDI up to 26% — one of the lowest caps among permitted sectors.\n\nValue Addition:\n• Real estate business (not construction), lottery/gambling, Nidhi companies, and chit funds are also in the prohibited category.\n• Single-brand retail (100%) vs multi-brand retail (51% government route) is another commonly tested distinction.\n• Digital news media is also capped at 26% — parallel to print media."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Sector) with List II (FDI Treatment):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. Atomic Energy",
+            "1. FDI up to 74% under automatic route; beyond 74% via government route"
+          ],
+          [
+            "B. Defence Manufacturing",
+            "2. FDI permitted up to 26% — among the lowest caps for a permitted sector"
+          ],
+          [
+            "C. Tobacco Product Manufacturing",
+            "3. FDI prohibited — included in the negative list regardless of route"
+          ],
+          [
+            "D. Print Media (News and Current Affairs)",
+            "4. FDI prohibited under the Atomic Energy Act — not merely restricted"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-4, C-3, D-2\n(b) A-4, B-1, C-2, D-3\n(c) A-4, B-1, C-3, D-2\n(d) A-3, B-2, C-4, D-1"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "73126b76-cbe3-4004-a10b-084f45547775",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Press Note 3 (2020) and Opportunistic FDI Restrictions",
+        "FDI Policy Architecture: Automatic Route vs Government Route"
+      ],
+      "subject_que_no": 576,
+      "overall_que_no": 7923
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "multi-statement-correct",
+      "trap_type": "scope-extension",
+      "concept_anchor": "Press Note 3: land-border countries, all sectors covered, UBO extension",
+      "statement_analysis": [
+        {
+          "statement": "Press Note 3 (2020) restricts the automatic route for FDI from countries sharing a land border with India, requiring government approval even in sectors that normally permit 100% FDI under the automatic route.",
+          "verdict": "Correct",
+          "reason": "Press Note 3 applies sector-agnostically — even sectors fully open to FDI under the automatic route (like technology, e-commerce) require government approval if the investor is from a land-border country. The restriction overrides sectoral openness."
+        },
+        {
+          "statement": "The requirement under Press Note 3 extends to investments where the investor is from a non-land-border country but the ultimate beneficial owner of that investor is an entity from a land-border country.",
+          "verdict": "Correct",
+          "reason": "The UBO (ultimate beneficial owner) extension is a core anti-circumvention feature of Press Note 3 — routing investment through a third-country entity does not bypass the restriction if the actual beneficial owner is from a land-border country."
+        },
+        {
+          "statement": "Press Note 3 (2020) was specifically triggered by concerns about Chinese investments in India's defence and telecommunications sectors, and applies exclusively to those two sectors.",
+          "verdict": "Incorrect",
+          "reason": "Press Note 3 was triggered broadly by concerns about opportunistic acquisitions of stressed Indian companies across all sectors — not limited to defence and telecom. The policy applies to all sectors without exception."
+        }
+      ],
+      "strong_distractor": "c — A student who knows statements 1 and 3 involve testable claims may doubt whether the UBO extension (Statement 2) is actually part of Press Note 3, selecting '1 only' as the safe conservative answer.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — Press Note 3 overrides even 100% automatic route sectors for land-border country investors. Statement 1 is correct.",
+        "Evaluate Statement 2 — The UBO extension is a documented feature — routing through Singapore or UAE does not help if the Chinese parent is the UBO. Statement 2 is correct.",
+        "Evaluate Statement 3 — Press Note 3 applies to all sectors universally — the claim that it targets only defence and telecom is incorrect. Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — answer is option (b): 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3 exploits the natural association between national security investment restrictions and defence/telecom sectors. Students who understand Press Note 3 arose from security concerns about China may incorrectly assume it is sector-specific — analogous to the existing restrictions in defence and telecom. But Press Note 3's design was deliberately sector-agnostic, targeting the opportunistic valuation-discount acquisition risk rather than sector-specific strategic concerns.",
+      "final_explanation": "Press Note 3 (April 2020) introduced a horizontal investment restriction cutting across all sectors — an unusual departure from India's sector-specific FDI policy architecture.\n\n• Statement 1 — Correct: The restriction overrides even fully automatic-route sectors. A Chinese entity investing in an Indian software company (normally 100% automatic) still needs government approval. The policy is specifically designed to be sector-neutral.\n• Statement 2 — Correct: The UBO clause is the anti-circumvention backbone of Press Note 3. Even if a Chinese company invests through its Singapore subsidiary, if the Chinese parent is the ultimate beneficial owner, the restriction applies to the entire investment structure.\n• Statement 3 — Incorrect: Press Note 3 was not limited to defence or telecom. It was motivated by broad concerns about Chinese entities — including technology, healthcare, and financial companies — acquiring distressed Indian assets at depressed COVID-period valuations.\n\nValue Addition:\n• The six land-border countries covered: China, Pakistan, Bangladesh, Nepal, Bhutan, and Myanmar.\n• Bangladesh and Nepal are included — practical implications are monitored since both countries have significant economic interactions with India's border states.\n• SEBI amended FPI regulations in parallel to align the UBO-based restriction with the Press Note 3 framework."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding Press Note 3 (2020) issued by the Government of India:\n\n1. Press Note 3 (2020) restricts the automatic route for FDI from countries sharing a land border with India, requiring government approval even in sectors that normally permit 100% FDI under the automatic route.\n2. The requirement under Press Note 3 extends to investments where the investor is from a non-land-border country but the ultimate beneficial owner of that investor is an entity from a land-border country.\n3. Press Note 3 (2020) was specifically triggered by concerns about Chinese investments in India's defence and telecommunications sectors, and applies exclusively to those two sectors.\n\nWhich of the above statements is/are correct?\n\n(a) 1 only\n(b) 1 and 2 only\n(c) 2 and 3 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "8dabbb14-a791-44c0-a980-531bef773c1a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FPI Investment Limits in Government and Corporate Bonds"
+      ],
+      "subject_que_no": 577,
+      "overall_que_no": 7924
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "odd-one-out",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "FPI bond access restrictions: unlisted below-investment-grade bonds excluded",
+      "statement_analysis": null,
+      "strong_distractor": "d — 'Treasury Bills (T-Bills)' are short-term government instruments. Students who associate FPI bond access primarily with long-term G-secs may incorrectly assume T-Bills are excluded — but T-Bills are explicitly covered under FPI's government securities access.",
+      "elimination_logic": [
+        "Evaluate option (a): Unlisted corporate bonds rated below investment grade — FPIs are explicitly restricted from investing in these. This does NOT belong to the list of instruments accessible to FPIs. This is the odd one out.",
+        "Evaluate option (b): Government Securities (G-Secs) — FPIs can invest in G-Secs under both the general route and the Fully Accessible Route (FAR). Belongs to accessible instruments.",
+        "Evaluate option (c): State Development Loans (SDLs) — explicitly listed as instruments FPIs can access. Belongs to accessible instruments.",
+        "Evaluate option (d): Treasury Bills (T-Bills) — short-term government instruments accessible to FPIs. Belongs to accessible instruments.",
+        "Option (a) — unlisted below-investment-grade corporate bonds — is the instrument NOT accessible to FPIs."
+      ],
+      "upsc_trap_explanation": "The plausible-fabrication trap in option (a) sounds like a partial regulatory restriction — 'unlisted' and 'below investment grade' each represent real regulatory concepts in bond markets, and their combination sounds like a plausible caveat. Students who know FPIs can invest in corporate bonds may not recall the specific exclusion of unlisted below-investment-grade bonds, making option (a) seem like one more corporate bond sub-category that is accessible. In fact, it is explicitly excluded.",
+      "final_explanation": "FPIs have broad but regulated access to India's government and corporate debt markets, with specific exclusions designed to prevent exposure to illiquid or distressed instruments.\n\n• Option (a) — The odd one out: FPIs cannot invest in unlisted corporate bonds rated below investment grade. This is an explicit exclusion — the combination of 'unlisted' (no market pricing) and 'below investment grade' (high default risk) makes such instruments unsuitable for FPI access under macro-prudential norms.\n• Option (b) — Belongs: Government Securities (G-Secs) are the primary FPI debt access channel — available under the general limit, VRR, and FAR (fully accessible without limits for designated series).\n• Option (c) — Belongs: State Development Loans (SDLs) are sub-sovereign government bonds accessible to FPIs within the general limit framework.\n• Option (d) — Belongs: Treasury Bills (T-Bills) — short-term (91, 182, 364-day) central government instruments — are explicitly accessible to FPIs.\n\nValue Addition:\n• The Voluntary Retention Route (VRR) exempts FPIs from macro-prudential limits in exchange for a 3-year minimum retention commitment.\n• FAR was the key reform enabling India's G-Sec inclusion in global bond indices (JP Morgan GBI-EM from 2024).\n• FPI debt investment limits are monitored in real-time by the Clearing Corporation of India (CCIL)."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Foreign Portfolio Investors (FPIs) are permitted to invest in a range of Indian debt instruments, subject to regulatory limits. Three of the following instrument types are accessible to FPIs under the prevailing SEBI/RBI framework; one is NOT.\n\nWhich of the following does NOT fall within the categories of debt instruments accessible to FPIs under India's regulatory framework?\n\n(a) Unlisted corporate bonds rated below investment grade\n(b) Central Government Securities (G-Secs) under the Fully Accessible Route\n(c) State Development Loans (SDLs) within the prescribed aggregate limits\n(d) Treasury Bills (T-Bills) issued by the Government of India",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "47e4cf5d-bdda-4fe7-ae5e-0ec35b942b9a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Impact of FDI on Current Account Deficit and Rupee Stability",
+        "Balance of Payments Treatment: Capital Account vs Financial Account"
+      ],
+      "subject_que_no": 578,
+      "overall_que_no": 7925
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-correct",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "FDI lifecycle: capital inflow improves financial account; profit repatriation worsens current account",
+      "statement_analysis": [
+        {
+          "statement": "Initial FDI inflows improve India's financial account position by providing foreign currency capital, which also helps finance the current account deficit.",
+          "verdict": "Correct",
+          "reason": "FDI inflows are credit entries in the financial account. They bring in foreign currency, adding to reserves and financing any current account deficit — this is the immediate beneficial effect of FDI on India's external position."
+        },
+        {
+          "statement": "Over time, the profit repatriation by foreign direct investors creates outflows recorded in the current account under 'Primary Income,' worsening the current account position.",
+          "verdict": "Correct",
+          "reason": "Dividends and profits paid to foreign investors are classified as 'Primary Income' under the current account — they represent income outflows that worsen the current account balance over the FDI lifecycle, even though the original investment was in the financial account."
+        },
+        {
+          "statement": "The net current account impact of FDI is uniformly negative because all FDI eventually leads to profit repatriation that exceeds the original capital brought in.",
+          "verdict": "Incorrect",
+          "reason": "The net current account impact depends on the quality and orientation of FDI — export-oriented FDI generates foreign currency earnings (current account credit) that can offset profit repatriation outflows. The claim of 'uniformly negative' net impact is an overgeneralisation."
+        }
+      ],
+      "strong_distractor": "d — A student who is sceptical about FDI's overall benefits may accept Statement 3 as correct (reasoning that all FDI eventually extracts more than it contributes), leading to the 'all three correct' answer which violates the format rule — but more importantly, ignores the quality-of-FDI dimension.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — FDI inflows as credit in financial account financing CAD is a standard BoP identity. Statement 1 is correct.",
+        "Evaluate Statement 2 — Profit repatriation under Primary Income in current account is accurate BoP accounting. Statement 2 is correct.",
+        "Evaluate Statement 3 — The 'uniformly negative' claim ignores export-oriented FDI which generates current account credits through exports. The net impact is not uniformly negative — it depends on FDI quality and orientation. Statement 3 is incorrect.",
+        "Statements 1 and 2 correct, Statement 3 incorrect — answer is option (a): 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 3's reversed-causation trap overgeneralises the FDI lifecycle effect. While profit repatriation does create current account outflows (true), this does not mean the net impact is 'uniformly negative.' Export-oriented FDI — a manufacturing plant exporting goods — generates export revenues (current account credit) that may exceed profit repatriation. UPSC often tests whether students can resist absolutist claims ('always,' 'uniformly,' 'never') that contain a kernel of truth.",
+      "final_explanation": "FDI's impact on India's balance of payments is multiphase — the initial inflow and the ongoing operational effects are recorded in different accounts and can move in opposite directions.\n\n• Statement 1 — Correct: FDI inflows enter the financial account as a credit, providing foreign currency that also helps finance the current account deficit. This is the immediate external sector benefit of FDI.\n• Statement 2 — Correct: Once the investment operates, profits and dividends paid to the foreign investor are outflows under 'Primary Income' in the current account. This worsens CAD over time — the lifecycle cost of FDI.\n• Statement 3 — Incorrect: The net current account impact is not uniformly negative. Export-oriented FDI generates export revenues — current account credits — that can exceed or offset profit repatriation. Domestic-market-oriented FDI has a worse net current account profile than export-oriented FDI.\n\nValue Addition:\n• RBI uses 'import cover' (months of imports that reserves can finance) and 'short-term debt to reserves' as reserve adequacy metrics during FPI/FDI stress.\n• Export-oriented FDI in electronics (mobile manufacturing) has improved India's current account profile in recent years.\n• Capital gains repatriation by FPI investors is recorded in the financial account, not the current account — a distinction from dividend repatriation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding the balance of payments effects of Foreign Direct Investment in India:\n\n1. Initial FDI inflows improve India's financial account position by providing foreign currency capital, which also helps finance the current account deficit.\n2. Over time, the profit repatriation by foreign direct investors creates outflows recorded in the current account under 'Primary Income,' worsening the current account position.\n3. The net current account impact of FDI is uniformly negative because all FDI eventually leads to profit repatriation that exceeds the original capital brought in.\n\nWhich of the above statements is/are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "84cd6dc7-f8c4-44f8-9e66-42ca01ec0199",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Double Taxation Avoidance Agreements (DTAAs) and FDI Geography"
+      ],
+      "subject_que_no": 579,
+      "overall_que_no": 7926
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "chronology",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "Singapore DTAA grandfathering vs Mauritius DTAA revision; DTAA reform sequence",
+      "statement_analysis": null,
+      "strong_distractor": "b — Students who know both DTAAs were revised around the same period may place Singapore before Mauritius, not realising Mauritius was revised first (May 2016) and Singapore's revision followed with the same April 2017 effective date.",
+      "elimination_logic": [
+        "Event 1 — Mauritius DTAA revised (May 2016): The India-Mauritius DTAA was revised in May 2016 — capital gains taxable at source for investments from April 1, 2017.",
+        "Event 2 — Singapore DTAA grandfathering effective (April 2017): India-Singapore DTAA was revised to align with Mauritius — grandfathering investments pre-April 2017, with source-based taxation from April 2017.",
+        "Event 3 — GAAR effective (April 2017): Took effect from AY 2018-19 (FY 2017-18) alongside DTAA revisions to form a comprehensive anti-avoidance framework.",
+        "Event 4 — NIIF established (2015): NIIF was set up in 2015 under the Union Budget announcement — this predates the DTAA revisions.",
+        "Correct chronological order: NIIF established (2015) → Mauritius DTAA revised (2016) → Singapore DTAA/GAAR effective (2017). Answer is option (c): 4 → 1 → 2 → 3."
+      ],
+      "upsc_trap_explanation": "The temporal trap involves the relative sequencing of the Mauritius DTAA revision (May 2016) and the Singapore DTAA revision (also effective April 2017). Students who know both were revised 'around 2016-17' may reverse their order or treat them as simultaneous. In reality, the Mauritius revision came first (May 2016), and the Singapore revision followed with the same April 2017 effective date. Additionally, NIIF's 2015 establishment is often confused with the 2017 policy year.",
+      "final_explanation": "The reform of India's tax treaty architecture and the establishment of new investment vehicles occurred across a specific 2015–2017 window — each event building on the previous.\n\nCorrect order: NIIF established → Mauritius DTAA revised → Singapore DTAA grandfathering effective → GAAR effective\n\n• NIIF established (2015): Announced in Union Budget 2015-16, the National Investment and Infrastructure Fund was set up to attract long-term infrastructure capital — the earliest event.\n• Mauritius DTAA revised (May 2016): The pivotal revision making capital gains taxable at source in India from April 2017 — ending decades of treaty shopping through Mauritius.\n• Singapore DTAA grandfathering (April 2017): India-Singapore DTAA aligned with Mauritius treaty — grandfathering pre-April 2017 investments, taxing new investments at source.\n• GAAR effective (April 2017): The General Anti-Avoidance Rules became operative from FY 2017-18, completing the anti-avoidance framework alongside the DTAA revisions.\n\nValue Addition:\n• After DTAA revisions, Mauritius and Singapore's share of FDI inflows declined as the tax arbitrage disappeared.\n• Netherlands and Singapore (for legitimate operational reasons) and USA gained relative prominence as FDI source countries post-2017.\n• The sunset clause design (grandfathering) in both DTAA revisions was deliberate — preventing retroactive application that would have triggered investor arbitration."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following is the correct chronological sequence of the events given below?\n\n1. Revision of the India-Mauritius DTAA making capital gains taxable at source in India\n2. India-Singapore DTAA's grandfathering provision becoming effective for pre-existing investments\n3. General Anti-Avoidance Rules (GAAR) becoming operative for tax assessments in India\n4. Establishment of the National Investment and Infrastructure Fund (NIIF)\n\n(a) 1 → 4 → 2 → 3\n(b) 4 → 2 → 1 → 3\n(c) 4 → 1 → 2 → 3\n(d) 1 → 2 → 4 → 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "e77b6509-32a0-4e91-a0da-90a3e7eb785a",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Sovereign Wealth Funds (SWFs) and Their Regulatory Treatment",
+        "National Investment and Infrastructure Fund (NIIF) as Quasi-FDI Vehicle"
+      ],
+      "subject_que_no": 580,
+      "overall_que_no": 7927
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "two-statement-relationship",
+      "trap_type": "conflation",
+      "concept_anchor": "SWF vs NIIF: government ownership distinction; SWF = Category I FPI",
+      "statement_analysis": [
+        {
+          "statement": "Sovereign Wealth Funds (SWFs) are classified as Category I Foreign Portfolio Investors under SEBI's FPI framework, receiving the most favourable regulatory treatment including lighter KYC requirements.",
+          "verdict": "Correct",
+          "reason": "SWFs — being state-owned investment vehicles of foreign governments — are classified as Category I FPIs under SEBI's framework, which provides the most trusted regulatory status with lighter KYC obligations."
+        },
+        {
+          "statement": "The National Investment and Infrastructure Fund (NIIF) is classified as a Sovereign Wealth Fund since the Government of India is its largest single shareholder.",
+          "verdict": "Incorrect",
+          "reason": "NIIF is not a Sovereign Wealth Fund. Government of India holds 49% — making it the largest single shareholder but not a majority or sole owner. A true SWF requires state ownership/control. NIIF is classified as an Alternative Investment Fund under SEBI's AIF regulations."
+        }
+      ],
+      "strong_distractor": "a — Students who associate NIIF with government backing and its infrastructure mandate may confidently accept Statement 2 alongside Statement 1, selecting 'both correct.' The 49% government stake and the quasi-governmental function make NIIF look like an SWF.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — SWFs as Category I FPIs under SEBI is accurate; this is the highest-trust FPI category with government-entity status. Statement 1 is correct.",
+        "Evaluate Statement 2 — NIIF has 49% government ownership, not majority/full state ownership. True SWFs are majority or fully state-owned. NIIF is an AIF, not an SWF. Statement 2 is incorrect.",
+        "Statement 1 correct, Statement 2 incorrect — select option (c)."
+      ],
+      "upsc_trap_explanation": "The conflation trap merges government backing with sovereign ownership. NIIF's 49% government stake, infrastructure focus, and foreign capital mobilisation role create a functional resemblance to an SWF. But the definitional distinction is ownership — SWFs are majority or fully state-owned; NIIF is a public-private blended finance vehicle. UPSC exploits this functional-vs-structural distinction in questions about SWFs and NIIF.",
+      "final_explanation": "SWFs and NIIF both mobilise capital for long-term investment, but their ownership structures and regulatory classifications are fundamentally different.\n\n• Statement 1 — Correct: Foreign sovereign wealth funds are classified as Category I FPIs by SEBI. Being state entities, they receive the lightest KYC scrutiny and most trusted regulatory status — Category I also includes foreign central banks and multilateral organisations.\n• Statement 2 — Incorrect: NIIF is not a sovereign wealth fund. The government holds 49% — anchor investor, not majority owner. The remaining 51%+ is held by private and foreign institutional investors. NIIF is registered as an Alternative Investment Fund under SEBI's AIF regulations. The SWF label requires majority state ownership and control.\n\nValue Addition:\n• Abu Dhabi Investment Authority, GIC (Singapore), and Ontario Teachers' Pension Plan have invested in NIIF — themselves Category I FPIs or their equivalents.\n• The Union Budget 2020 SWF tax exemption was specifically designed to attract SWFs into NIIF's infrastructure deals.\n• NIIF's blended finance model — government as anchor de-risking private/foreign capital — is a template being replicated in other policy domains."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following two statements about Sovereign Wealth Funds (SWFs) and the National Investment and Infrastructure Fund (NIIF):\n\nStatement 1: Sovereign Wealth Funds (SWFs) are classified as Category I Foreign Portfolio Investors under SEBI's FPI framework, receiving the most favourable regulatory treatment including lighter KYC requirements.\n\nStatement 2: The National Investment and Infrastructure Fund (NIIF) is classified as a Sovereign Wealth Fund since the Government of India is its largest single shareholder.\n\nWhich one of the following is correct in respect of the above statements?\n\n(a) Both Statement 1 and Statement 2 are correct\n(b) Both Statement 1 and Statement 2 are incorrect\n(c) Statement 1 is correct but Statement 2 is incorrect\n(d) Statement 1 is incorrect but Statement 2 is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "6157daf0-6002-441f-ac5a-4692fd2b42f3",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FDI vs FPI: Definitional Boundaries and Threshold Rule",
+        "Aggregate FPI Limit and Sectoral Investment Caps"
+      ],
+      "subject_que_no": 581,
+      "overall_que_no": 7928
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "application-scenario",
+      "trap_type": "partial-truth",
+      "concept_anchor": "FPI-to-FDI reclassification trigger: individual 10% threshold crossed",
+      "statement_analysis": null,
+      "strong_distractor": "a — A student who knows FPI and FDI are different regulatory channels may assume the FPI can simply choose to retain its FPI status since it did not intend to acquire a strategic stake — missing the mandatory nature of the reclassification requirement once the 10% threshold is crossed.",
+      "elimination_logic": [
+        "Eliminate option (a): Reclassification is mandatory — the FPI cannot opt to retain FPI status after crossing 10%. The crossing of the threshold triggers an automatic legal obligation, not a discretionary choice.",
+        "Eliminate option (b): The FPI does not need to sell down to 9.9% — the regulation requires reclassification to FDI route, not mandatory divestment. Divestment is one option but the primary requirement is FDI route compliance.",
+        "Eliminate option (d): The company board's sectoral FDI cap is the aggregate limit concern — the individual FPI crossing 10% triggers reclassification regardless of whether the company's aggregate FPI limit is near breach. These are two separate regulatory mechanisms.",
+        "Confirm option (c): Crossing 10% of paid-up equity mandatorily triggers conversion to the FDI route — the FPI must comply with FDI regulations from that point, regardless of intent."
+      ],
+      "upsc_trap_explanation": "Option (a) is the partial-truth trap — it correctly notes that the FPI had no strategic intent (true) but incorrectly concludes this allows retention of FPI status. Intent is irrelevant to the threshold rule — the 10% of paid-up equity is an objective regulatory trigger, not a subjective intent test. The FEMA classification is mechanical: cross 10%, trigger FDI classification. This mirrors UPSC's pattern of testing whether students know rules operate mechanically on facts, not on the investor's stated purpose.",
+      "final_explanation": "The FDI-FPI boundary under FEMA is a hard threshold rule — crossing 10% of paid-up equity triggers mandatory reclassification regardless of investor intent, market timing, or portfolio strategy.\n\nApplicable principle: Under FEMA, any single investor acquiring 10% or more of the paid-up equity capital of an Indian company must be classified as an FDI investor. This is an objective threshold — it does not depend on whether the acquisition was intentional or strategic.\n\nMapping to scenario: The FPI's holding rises to 12% through market purchases — the 10% threshold is crossed. Mandatory reclassification to FDI route is triggered. The FPI must now comply with FDI regulations (sector caps, reporting, etc.).\n\n• Option (a): Incorrect — retention of FPI status is not a permissible option once 10% is crossed. The reclassification is mandatory under FEMA, not voluntary.\n• Option (b): Incorrect — the primary requirement is reclassification to FDI, not mandatory sell-down. Divestment may be required if the sector does not permit the FDI level, but reclassification is the primary obligation.\n• Option (c): Correct — crossing 10% of paid-up equity mandatorily triggers FDI route compliance. The FPI's lack of strategic intent is legally irrelevant to the threshold calculation.\n• Option (d): Incorrect — the company board's aggregate FPI limit is a separate mechanism. The individual-investor 10% reclassification threshold operates independently.\n\nValue Addition:\n• The reclassification also means the investor must comply with FDI reporting requirements (Form FC-GPR/FC-TRS to RBI).\n• If the sector has an FDI cap below the investor's holding, divestment to the permissible level becomes mandatory.\n• This reclassification mechanism prevents de facto strategic control from being exercised under the FPI's lighter regulatory regime."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "A registered Category II Foreign Portfolio Investor (FPI) has been gradually increasing its equity stake in an Indian pharmaceutical company through open market purchases, accumulating a 12% shareholding of the company's paid-up equity capital. The FPI maintains that its investment is purely for portfolio diversification with no intent to exercise management control. The pharmaceutical sector permits 100% FDI under the automatic route. The company's board has set the aggregate FPI limit at 49%.\n\nWhat is the correct regulatory position of this FPI's investment under India's prevailing FEMA framework?\n\n(a) The FPI may retain its portfolio investor status since its declared intent is non-strategic and the pharmaceutical sector has no FDI restriction that would prohibit the level of holding\n(b) The FPI is required to immediately divest its holding to below 10% of paid-up equity to continue operating as an FPI, as it is prohibited from holding above 10% under any circumstances\n(c) The FPI's crossing of the 10% paid-up equity threshold mandatorily triggers reclassification as a Foreign Direct Investment, requiring compliance with FDI regulatory obligations regardless of investment intent\n(d) The reclassification obligation is triggered only when the aggregate FPI shareholding in the company approaches the 49% board-approved limit, not by the individual FPI's holding",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "9c5d846b-8d3c-4ca0-b019-9d0bad3f674b",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FEMA vs FERA: Paradigm Shift in Foreign Investment Regulation",
+        "Transfer Pricing and Round-Tripping in FDI"
+      ],
+      "subject_que_no": 582,
+      "overall_que_no": 7929
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "match-the-column",
+      "trap_type": "temporal-swap",
+      "concept_anchor": "FERA vs FEMA paradigm; GAAR; transfer pricing; ED dual mandate",
+      "statement_analysis": null,
+      "strong_distractor": "b — Swapping FERA (A) with FEMA (B) is the most tempting error for students who confuse which legislation carried the criminal prosecution model versus the civil offence model — especially since both involved the ED.",
+      "elimination_logic": [
+        "Match A (FERA 1973): FERA operated on presumption of guilt with criminal prosecution — reflects capital scarcity era philosophy. Matches with 3.",
+        "Match B (FEMA 1999): FEMA operates on civil offence framework with monetary penalties and presumption of innocence. Matches with 1.",
+        "Match C (GAAR — General Anti-Avoidance Rules): Empowers tax authorities to deny treaty benefits where arrangements lack commercial substance — anti-treaty shopping tool. Matches with 4.",
+        "Match D (Transfer Pricing): Manipulation of intra-group transaction prices between parent and subsidiary to shift profits to low-tax jurisdictions. Matches with 2.",
+        "Correct matching: A-3, B-1, C-4, D-2 — option (d)."
+      ],
+      "upsc_trap_explanation": "The temporal-swap trap exploits the fact that FERA and FEMA both involve the ED and foreign exchange regulation, making students uncertain which carried criminal presumption (FERA) versus civil offence (FEMA). Students who know 'FEMA replaced FERA' but do not recall which direction the reform went (from criminal to civil) may swap A and B. Additionally, GAAR and Transfer Pricing — both tax anti-avoidance tools — are sometimes conflated since both address profit shifting, but through entirely different mechanisms.",
+      "final_explanation": "India's foreign investment regulatory history spans two eras — the restrictive FERA era and the liberalised FEMA era — complemented by specific anti-avoidance tools in the tax domain.\n\nCorrect matches: A-3, B-1, C-4, D-2\n\n• A (FERA 1973) — 3 (Presumption of guilt; criminal prosecution model): FERA treated every forex transaction with suspicion. Violations were criminal offences and the accused had to prove innocence — reflecting post-independence capital scarcity philosophy.\n• B (FEMA 1999) — 1 (Civil offence; monetary penalties; presumption of innocence): FEMA replaced FERA's punitive model with a liberalised framework — violations attract civil penalties, and enforcement burden lies with the authority.\n• C (GAAR) — 4 (Denial of treaty benefits for arrangements lacking commercial substance): GAAR is India's principal statutory tool to combat treaty shopping — empowering authorities to pierce arrangements that have legal form but no genuine business purpose.\n• D (Transfer Pricing) — 2 (Intra-group price manipulation to shift profits to low-tax jurisdictions): Transfer pricing is a profit-shifting mechanism — companies manipulate prices on transactions between parent and subsidiary to book profits in countries with lower tax rates.\n\nValue Addition:\n• The ED enforces both FEMA (civil penalties) and PMLA (criminal prosecution) — its dual mandate is a frequent exam target.\n• GAAR took effect in 2017 after multiple legislative deferrals due to investor sentiment concerns.\n• India's Transfer Pricing regulations (Chapter X of the Income Tax Act) were introduced in 2001, following international norms (OECD guidelines)."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Match List I (Legislation / Concept) with List II (Key Characteristic):",
+        "columns": [
+          "List I",
+          "List II"
+        ],
+        "rows": [
+          [
+            "A. FERA (Foreign Exchange Regulation Act, 1973)",
+            "1. Civil offence framework; monetary penalties; presumption of innocence — liberalised foreign exchange regulation"
+          ],
+          [
+            "B. FEMA (Foreign Exchange Management Act, 1999)",
+            "2. Manipulation of prices on intra-company cross-border transactions to shift taxable profits to lower-tax jurisdictions"
+          ],
+          [
+            "C. General Anti-Avoidance Rules (GAAR)",
+            "3. Presumption of guilt; criminal prosecution for violations — reflected capital scarcity era philosophy"
+          ],
+          [
+            "D. Transfer Pricing",
+            "4. Empowers tax authorities to deny treaty benefits to arrangements that lack genuine commercial substance"
+          ]
+        ],
+        "footer_text": "Which of the following is the correct matching?\n\n(a) A-1, B-3, C-4, D-2\n(b) A-1, B-3, C-2, D-4\n(c) A-3, B-1, C-2, D-4\n(d) A-3, B-1, C-4, D-2"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5d09c0c1-4d47-4459-b560-048c85a24ef0",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Foreign Portfolio Investor (FPI) Regulatory Framework post-2019",
+        "Qualified Foreign Investor (QFI) and Consolidation into FPI"
+      ],
+      "subject_que_no": 583,
+      "overall_que_no": 7930
+    },
+    "solution": {
+      "correct_option": "c",
+      "question_type": "assertion-reason",
+      "trap_type": "reversed-causation",
+      "concept_anchor": "FPI unification rationale: regulatory arbitrage elimination between FII, QFI, sub-accounts",
+      "statement_analysis": null,
+      "strong_distractor": "a — Students who know both A and R are factually correct may assume regulatory arbitrage caused confusion, and that consolidation resolved it — making R seem like it explains A. But the causal logic needs precise evaluation.",
+      "elimination_logic": [
+        "Step 1: Is Assertion (A) correct? — Yes. SEBI did consolidate FIIs, QFIs, and sub-accounts into a unified FPI framework in 2014 — this is a documented fact.",
+        "Step 2: Is Reason (R) correct? — Yes. Regulatory arbitrage between FII, QFI, and sub-account categories was creating compliance gaps and investor confusion — this is the documented rationale for consolidation.",
+        "Step 3: Does R causally explain A? — Yes. The existence of arbitrage-prone multi-category structure was precisely the regulatory problem that motivated SEBI's consolidation into FPI. R directly explains why A happened.",
+        "Both A and R correct, R explains A — correct option is (a)."
+      ],
+      "upsc_trap_explanation": "This assertion-reason question is designed with a genuine causal link — R does explain A. The trap is designed for students who habitually select option (b) when they see A and R both correct, assuming causal disconnection. The regulatory arbitrage between FII, QFI, and sub-accounts was the precisely documented reason for consolidation — making R a true causal explanation of A, not merely a correlated fact. Students must verify causation specifically, not just co-occurrence.",
+      "final_explanation": "SEBI's decision to unify multiple foreign investor categories was a deliberate regulatory rationalisation to eliminate compliance arbitrage.\n\n• Assertion (A): Correct. In 2014, SEBI merged FIIs (institutional), QFIs (retail foreign investors introduced 2012), and FII sub-accounts into a single FPI category — creating a unified regulatory framework.\n• Reason (R): Correct. The co-existence of FII, QFI, and sub-account categories created regulatory arbitrage — investors could choose the category with lighter compliance requirements for functionally identical activities. This created gaps in oversight and confusion for cross-border investors navigating multiple sets of rules.\n• Causal link: R genuinely explains A. The regulatory arbitrage problem was the stated policy rationale for SEBI's FPI consolidation. This is not merely correlation — the consolidation was a direct response to the arbitrage and compliance gap problem.\n\nValue Addition:\n• The 2019 SEBI FPI circular further refined the unified framework — introducing the three-tier Category I, II, III classification with differentiated KYC.\n• Sub-accounts (entities registered under an FII umbrella) were a significant pre-2014 market participant — their merger eliminated a layer of regulatory complexity.\n• QFI's short life (2012–2014) reflects how quickly SEBI recognised the arbitrage problem and moved to consolidation."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following Assertion and Reason:\n\nAssertion (A): In 2014, SEBI consolidated the Foreign Institutional Investor (FII), Qualified Foreign Investor (QFI), and FII sub-account categories into a unified Foreign Portfolio Investor (FPI) regime.\n\nReason (R): The co-existence of multiple foreign investor categories was creating regulatory arbitrage opportunities and compliance gaps, as investors could navigate between categories with different oversight requirements for functionally similar investment activities.\n\n(a) Both A and R are correct, and R is the correct explanation of A\n(b) Both A and R are correct, but R is NOT the correct explanation of A\n(c) A is correct but R is incorrect\n(d) A is incorrect but R is correct",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "dc949b86-22d3-4aff-b871-ba918c4ba4bf",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Hot Money Problem and Macroeconomic Vulnerability",
+        "External Commercial Borrowings (ECB) vs FDI vs FPI: Overlaps"
+      ],
+      "subject_que_no": 584,
+      "overall_que_no": 7931
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "quantitative-pairing",
+      "trap_type": "partial-truth",
+      "concept_anchor": "FDI stability vs FPI reversibility; ECB current account pressure; Masala Bond currency risk",
+      "statement_analysis": [
+        {
+          "statement": "FDI is considered more stable than FPI because it typically involves physical asset creation, making rapid reversal structurally difficult compared to portfolio securities that can be liquidated quickly.",
+          "verdict": "Correct",
+          "reason": "FDI's stability advantage stems from physical investment in plant, machinery, and technology — these cannot be liquidated as quickly as listed securities. This structural illiquidity is the basis for treating FDI as 'stable capital' versus FPI's 'hot money' characterisation."
+        },
+        {
+          "statement": "External Commercial Borrowing repayments create pressure on India's current account because principal and interest must be paid in foreign currency, directly reducing foreign exchange reserves.",
+          "verdict": "Incorrect",
+          "reason": "ECB repayments (principal and interest) are recorded under different BoP accounts: interest payments are a current account debit (under Primary Income), while principal repayment is a financial account debit. ECB repayments do draw on forex reserves but the 'current account pressure' characterisation is partially imprecise — principal repayment is in the financial account."
+        },
+        {
+          "statement": "FPI provides liquidity and price discovery benefits to Indian capital markets even though it introduces volatility risk through reversible 'hot money' flows.",
+          "verdict": "Correct",
+          "reason": "FPI's dual role — liquidity provider and volatility source — is a well-established characterisation. FPI brings foreign capital into secondary markets, improving price discovery and market depth, while simultaneously creating vulnerability to sudden reversals."
+        },
+        {
+          "statement": "The 'Original Sin' problem implies that India cannot issue sovereign debt internationally denominated in rupees, forcing dependence on foreign-currency-denominated external debt that carries currency risk.",
+          "verdict": "Correct",
+          "reason": "Original Sin (Eichengreen-Hausmann) specifically describes an emerging economy's inability to borrow internationally in its own currency — India's external borrowings have historically been in foreign currencies, creating currency mismatch risk for the borrower."
+        }
+      ],
+      "strong_distractor": "c — Selecting 'only three' tempts students who accept all four statements but are uncertain about Statement 2's precise BoP accounting — they may mark Statement 2 as correct, selecting all four.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — FDI stability through physical asset creation vs FPI liquidation ease is the standard comparative characterisation. Correct.",
+        "Evaluate Statement 2 — ECB interest is current account; principal repayment is financial account. The statement says 'current account pressure' for the whole ECB repayment — this is partially imprecise/incorrect. Incorrect.",
+        "Evaluate Statement 3 — FPI's dual role (liquidity + volatility) is correctly characterised. Correct.",
+        "Evaluate Statement 4 — Original Sin definition is correctly stated. Correct.",
+        "Three of four correct — answer is option (c): Only three."
+      ],
+      "upsc_trap_explanation": "Statement 2's partial-truth trap takes a broadly familiar concept (ECB creates future outflow pressure) and introduces a BoP accounting imprecision. Students who recall 'ECB repayments stress the current account' will accept Statement 2 without examining the precise BoP classification. In reality, interest payments stress the current account while principal repayments are financial account debits. The distinction matters for BoP analysis and is a precision test UPSC uses in economics questions.",
+      "final_explanation": "Understanding the macroeconomic profile of different foreign capital forms requires both conceptual clarity and BoP accounting precision.\n\n• Statement 1 — Correct: FDI's physical asset nature creates structural illiquidity — cannot be recalled as quickly as portfolio securities. This is the basis for the FDI-as-stable-capital vs FPI-as-hot-money classification.\n• Statement 2 — Incorrect: ECB principal repayment is a financial account debit; only interest payments are current account debits (Primary Income). The statement's sweeping attribution of all ECB repayment pressure to the current account is imprecise.\n• Statement 3 — Correct: FPI simultaneously provides market liquidity and price discovery while creating hot money vulnerability — the standard dual-role characterisation in policy literature.\n• Statement 4 — Correct: Original Sin describes the structural inability to borrow internationally in domestic currency — India's historical external debt (ECB, sovereign bonds) has been foreign-currency-denominated, creating currency mismatch risk.\n\nValue Addition:\n• FAR (Fully Accessible Route) for G-Secs and India's eventual Euroclear inclusion represent steps toward addressing the Original Sin constraint.\n• During the 2013 Taper Tantrum, both FPI debt and equity outflows coincided, amplifying rupee depreciation beyond what either alone would have caused.\n• RBI's reserve adequacy target implicitly accounts for potential FPI outflow scenarios — 'stress testing' of reserves is a standard monetary policy exercise."
+    },
+    "formatted_presentation": {
+      "has_table": true,
+      "display_text": null,
+      "table_data": {
+        "header_text": "Consider the following statements about foreign capital flows and macroeconomic vulnerability:",
+        "columns": [
+          "Statement",
+          "Claim"
+        ],
+        "rows": [
+          [
+            "1",
+            "FDI is considered more stable than FPI because it typically involves physical asset creation, making rapid reversal structurally difficult compared to portfolio securities that can be liquidated quickly."
+          ],
+          [
+            "2",
+            "External Commercial Borrowing repayments create pressure on India's current account because principal and interest must be paid in foreign currency, directly reducing foreign exchange reserves."
+          ],
+          [
+            "3",
+            "FPI provides liquidity and price discovery benefits to Indian capital markets even though it introduces volatility risk through reversible 'hot money' flows."
+          ],
+          [
+            "4",
+            "The 'Original Sin' problem implies that India cannot issue sovereign debt internationally denominated in rupees, forcing dependence on foreign-currency-denominated external debt that carries currency risk."
+          ]
+        ],
+        "footer_text": "How many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four"
+      }
+    }
+  },
+  {
+    "meta": {
+      "uuid": "70e76989-a3b1-49e8-91e4-54ad130655cf",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Real Estate Investment Trusts (REITs) and InvITs as FPI Entry Points"
+      ],
+      "subject_que_no": 585,
+      "overall_que_no": 7932
+    },
+    "solution": {
+      "correct_option": "b",
+      "question_type": "direct",
+      "trap_type": "entity-swap",
+      "concept_anchor": "InvIT infrastructure assets: roads, power, pipelines; NHAI and PowerGrid listed InvITs",
+      "statement_analysis": null,
+      "strong_distractor": "c — Students who know InvITs are for infrastructure and recall NHAI as an infrastructure entity may extend this to assume NHAI issued a REIT (confusing REIT and InvIT), selecting option (c) which incorrectly names InvIT as 'NHAI Real Estate Investment Trust.'",
+      "elimination_logic": [
+        "Eliminate option (a): InvITs are for infrastructure assets — roads, power transmission, pipelines, gas networks. They are not equity ownership vehicles for operational companies broadly.",
+        "Eliminate option (c): NHAI issued an InvIT (Infrastructure Investment Trust), not a REIT. REITs are for real estate (office, retail, hospitality); InvITs are for infrastructure. The entity swap between REIT and InvIT is the trap.",
+        "Eliminate option (d): InvITs do not require 90% of distributable cash flow to be distributed — this is a condition associated with REITs in some jurisdictions. The 80% completed-asset requirement applies to REITs in India.",
+        "Confirm option (b): InvITs hold infrastructure assets (roads, power transmission lines, pipelines) and FPIs can invest in listed InvIT units, providing infrastructure exposure through the securities market rather than direct FDI."
+      ],
+      "upsc_trap_explanation": "The entity-swap trap in option (c) substitutes 'REIT' for 'InvIT' in describing NHAI's listed instrument. Students who recall 'NHAI issued a listed instrument for infrastructure monetisation' may not remember whether the instrument was an InvIT or REIT. Since REIT sounds like the more familiar term and NHAI deals with real assets, the swap feels natural. NHAI listed an InvIT (infrastructure), not a REIT (real estate).",
+      "final_explanation": "Infrastructure Investment Trusts (InvITs) are listed investment vehicles pooling income from operational infrastructure assets — distinct from REITs which focus on real estate.\n\n• Option (a) — Incorrect: InvITs are not general equity investment vehicles for all infrastructure companies. They hold specific operational infrastructure assets (toll roads, power lines, pipelines) and distribute the income from these assets to unit holders.\n• Option (b) — Correct: InvITs hold operational infrastructure assets such as toll roads, power transmission lines, and pipelines. FPIs can invest in listed InvIT units, gaining infrastructure exposure through the securities market. NHAI and PowerGrid have both listed InvITs as monetisation tools.\n• Option (c) — Incorrect: NHAI issued an Infrastructure Investment Trust (InvIT), not a REIT. The instrument is an InvIT because it holds infrastructure assets (toll roads), not real estate. This is the entity-swap trap.\n• Option (d) — Incorrect: The 80% completed-asset requirement applies to REITs in India (SEBI REIT regulations). InvITs have their own structural requirements but the 90% cash distribution characterisation in this option is not the defining InvIT rule.\n\nValue Addition:\n• India's first InvIT was listed in 2017 (IRB InvIT Fund and IndInfravit Trust).\n• NHAI InvIT and PowerGrid InvIT represent government-owned infrastructure monetisation — assets transferred to the InvIT while the parent retains operational control.\n• InvIT units are accessible to both domestic and foreign (FPI) investors, making them a key foreign capital access route for India's infrastructure sector."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Which of the following statements about Infrastructure Investment Trusts (InvITs) and their role in India's foreign investment framework is correct?\n\n(a) InvITs are listed vehicles through which foreign investors can acquire equity ownership in Indian infrastructure companies, effectively equivalent to direct FDI in those companies\n(b) InvITs hold operational infrastructure assets such as toll roads, power transmission lines, and pipelines, and Foreign Portfolio Investors can invest in listed InvIT units to gain infrastructure exposure through the securities market\n(c) The National Highways Authority of India (NHAI) listed a Real Estate Investment Trust (REIT) to monetise its road assets, allowing FPIs to invest in highway infrastructure\n(d) InvITs are required to distribute at least 90% of their distributable cash flow to unit holders and must hold 80% of their assets in completed infrastructure projects",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "5f3c5420-93da-4d0a-9bd9-38d70d6e2578",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "FDI Policy Architecture: Automatic Route vs Government Route",
+        "Foreign Investment Facilitation Portal (FIFP) and DPIIT's Role Post-FIPB Abolition"
+      ],
+      "subject_que_no": 586,
+      "overall_que_no": 7933
+    },
+    "solution": {
+      "correct_option": "a",
+      "question_type": "multi-statement-incorrect",
+      "trap_type": "plausible-fabrication",
+      "concept_anchor": "Post-FIPB approval mechanism: DPIIT role, sector ministry approval, FIFP function",
+      "statement_analysis": [
+        {
+          "statement": "After the abolition of FIPB in 2017, a new statutory body called the Foreign Investment Approval Committee (FIAC) was constituted under the Ministry of Finance to handle government-route FDI approvals.",
+          "verdict": "Incorrect",
+          "reason": "No such body as 'Foreign Investment Approval Committee (FIAC)' was created post-FIPB. Government-route approvals devolved to competent sectoral ministries, with DPIIT acting as the facilitating portal through the FIFP — no new centralised approval body was established."
+        },
+        {
+          "statement": "Under the post-FIPB framework, the Reserve Bank of India (RBI) is responsible for processing and approving government-route FDI applications in sectors under its regulatory purview, such as banking and insurance.",
+          "verdict": "Incorrect",
+          "reason": "RBI's role in FDI is regulatory and monitoring (reporting, FEMA compliance) — not approval authority for government-route applications. Banking-sector government-route FDI approvals vest with the Ministry of Finance, not the RBI."
+        },
+        {
+          "statement": "The Foreign Investment Facilitation Portal (FIFP) routes government-route FDI applications to the relevant sectoral ministry and DPIIT tracks the timeline of approvals.",
+          "verdict": "Correct",
+          "reason": "This accurately describes FIFP's function — it is DPIIT's online platform that receives applications, routes them to competent ministries, and facilitates inter-ministerial coordination, including tracking approval timelines."
+        }
+      ],
+      "strong_distractor": "d — A student who is unsure about the RBI's post-FIPB role may accept Statement 2 (given RBI's real regulatory authority over banking) and select 'only Statement 1 is NOT correct,' missing that Statement 2 is also wrong.",
+      "elimination_logic": [
+        "Evaluate Statement 1 — No FIAC was created; the FIAC is a fabricated body. Government-route approvals devolved to sectoral ministries. Statement 1 is NOT correct.",
+        "Evaluate Statement 2 — RBI does not approve government-route FDI; sectoral ministries do (Ministry of Finance for banking, Ministry of Defence for defence, etc.). RBI monitors and receives FDI reports but is not the approval authority. Statement 2 is NOT correct.",
+        "Evaluate Statement 3 — FIFP routing and DPIIT tracking is the accurate description of the post-FIPB mechanism. Statement 3 IS correct.",
+        "Statements 1 and 2 are not correct; Statement 3 is correct — answer is option (a): 1 and 2 only."
+      ],
+      "upsc_trap_explanation": "Statement 1 uses a plausible-fabrication — the 'Foreign Investment Approval Committee (FIAC)' sounds like a natural institutional successor to FIPB, with a comparable acronym pattern and a plausible ministry attachment. Students who haven't specifically studied the post-FIPB institutional design will find this credible. Statement 2 exploits the natural assumption that RBI, being the primary regulator of banking, would have approval authority over FDI in banks — but the approval authority is with the Finance Ministry.",
+      "final_explanation": "The post-FIPB institutional design decentralised approval authority while creating a coordination portal — a design frequently tested in UPSC institutional-knowledge questions.\n\n• Statement 1 — Incorrect: No 'Foreign Investment Approval Committee' was created. The FIPB's functions were distributed — the FIFP portal replaced the administrative window; sectoral ministries gained approval authority. Creating a new centralised body would have defeated the decentralisation purpose.\n• Statement 2 — Incorrect: RBI is a monetary and banking regulator — its FDI-related role is FEMA compliance monitoring and receipt of FDI reporting (Form FC-GPR, FC-TRS). Government-route FDI approval for banking goes to the Ministry of Finance, not RBI.\n• Statement 3 — Correct: The FIFP is DPIIT's digital facilitation platform — it routes applications to competent sectoral ministries and tracks approval timelines, acting as the administrative backbone of the post-FIPB system.\n\nValue Addition:\n• DPIIT approves FDI only in sectors under its own ministerial jurisdiction (e.g., industrial policy) — for all others it is a facilitator.\n• The 8–10 week timeline for government-route approvals was prescribed post-FIPB abolition.\n• FDI statistics are compiled by DPIIT using RBI data — DPIIT is the authoritative source for India's published FDI equity inflow figures."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Consider the following statements regarding India's FDI approval mechanism after the abolition of the Foreign Investment Promotion Board (FIPB) in 2017:\n\n1. After the abolition of FIPB in 2017, a new statutory body called the Foreign Investment Approval Committee (FIAC) was constituted under the Ministry of Finance to handle government-route FDI approvals.\n2. Under the post-FIPB framework, the Reserve Bank of India (RBI) is responsible for processing and approving government-route FDI applications in sectors under its regulatory purview, such as banking and insurance.\n3. The Foreign Investment Facilitation Portal (FIFP) routes government-route FDI applications to the relevant sectoral ministry and DPIIT tracks the timeline of approvals.\n\nWhich of the above statements is/are NOT correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 only\n(d) 1, 2 and 3",
+      "table_data": null
+    }
+  },
+  {
+    "meta": {
+      "uuid": "20e379d4-c07c-4a51-92cf-2b332f49ee1f",
+      "language": "en",
+      "subject": "Economy",
+      "topic": "Capital Markets and Financial System",
+      "sub_topic": "Foreign institutional investors vs FDI",
+      "concepts_used": [
+        "Sectoral FDI Caps and Strategic Sensitivity",
+        "FPI Investment Limits in Government and Corporate Bonds"
+      ],
+      "subject_que_no": 587,
+      "overall_que_no": 7934
+    },
+    "solution": {
+      "correct_option": "d",
+      "question_type": "odd-one-out",
+      "trap_type": "scope-extension",
+      "concept_anchor": "FDI prohibited sectors list: atomic energy, lottery, tobacco, real estate business",
+      "statement_analysis": null,
+      "strong_distractor": "c — Insurance is a heavily regulated sector with a 74% cap, making it seem plausibly restrictive enough to be 'prohibited.' Students who confuse a heavily capped sector with a prohibited sector will select option (c).",
+      "elimination_logic": [
+        "Evaluate option (a): Lottery and gambling — explicitly in the prohibited FDI list. Belongs to prohibited category.",
+        "Evaluate option (b): Chit funds — explicitly prohibited from FDI. Belongs to prohibited category.",
+        "Evaluate option (c): Private sector banking — FDI is permitted up to 74%. This is a restricted (capped) sector, not a prohibited one. Does NOT belong to prohibited category.",
+        "Evaluate option (d): Tobacco product manufacturing — explicitly prohibited from FDI. Belongs to prohibited category.",
+        "The odd one out is option (c) — private sector banking is not prohibited, unlike the other three."
+      ],
+      "upsc_trap_explanation": "The scope-extension trap operates by including private sector banking — a heavily regulated, politically sensitive sector — alongside genuinely prohibited sectors. Students who associate 'heavily regulated' with 'prohibited' (a scope extension error) will incorrectly identify banking as prohibited. The 74% cap on private banking FDI reflects restriction, not prohibition — a critical distinction in FDI policy.",
+      "final_explanation": "India's FDI policy draws a firm line between prohibited sectors (zero FDI permitted) and restricted sectors (FDI permitted but capped or conditioned). Confusing the two is the most common sectoral FDI error.\n\n• Option (a) — In the prohibited category: Lottery, gambling, and betting are explicitly listed in India's prohibited FDI sectors — FDI is not permitted at any percentage or route.\n• Option (b) — In the prohibited category: Chit funds — a form of informal savings collective — are prohibited from FDI, along with Nidhi companies.\n• Option (c) — The odd one out: Private sector banking allows up to 74% FDI. It is one of the most liberalised financial sector caps — a restricted sector, not a prohibited one.\n• Option (d) — In the prohibited category: Tobacco product manufacturing is prohibited from FDI — one of the public health-motivated exclusions in India's negative list.\n\nValue Addition:\n• Real estate business (not construction), atomic energy, and trading in Transferable Development Rights are also in the prohibited category.\n• Prohibited sectors are determined by statute (Atomic Energy Act, FEMA Regulations) and policy (Consolidated FDI Policy).\n• The Consolidated FDI Policy issued by DPIIT is updated periodically and is the authoritative reference for current sectoral caps and prohibited activities."
+    },
+    "formatted_presentation": {
+      "has_table": false,
+      "display_text": "Three of the following four activities are included in India's list of sectors where Foreign Direct Investment is completely prohibited. One is NOT in the prohibited list but is subject to a sectoral cap.\n\nWhich of the following does NOT belong to India's FDI-prohibited sector list?\n\n(a) Lottery business and gambling\n(b) Chit funds\n(c) Private sector banking\n(d) Tobacco product manufacturing",
+      "table_data": null
+    }
+  }
+]
