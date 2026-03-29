@@ -7,6 +7,14 @@ import 'package:upsc_wars_new/features/home/domain/entities/subject.dart';
 /// corresponding ARB key to lib/l10n/app_en.arb + app_hi.arb, then
 /// run `flutter gen-l10n`.
 abstract final class SubjectsDataSource {
+  /// Returns the [Subject] with [Subject.id] equal to [id], or `null`.
+  static Subject? tryById(String id) {
+    for (final Subject s in all) {
+      if (s.id == id) return s;
+    }
+    return null;
+  }
+
   static final List<Subject> all = [
     Subject(
       id: 'geography',

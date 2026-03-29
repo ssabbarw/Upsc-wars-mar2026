@@ -108,4 +108,34 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get mcqSeedRetry => 'Retry';
+
+  @override
+  String subjectTestListTitle(String subjectName) {
+    return '$subjectName — Tests';
+  }
+
+  @override
+  String subjectTestListTileTitle(int testNumber) {
+    return 'Test $testNumber';
+  }
+
+  @override
+  String subjectTestListTileRange(int start, int end) {
+    return 'Questions $start–$end';
+  }
+
+  @override
+  String get subjectTestListEmpty =>
+      'There are not enough questions for a full practice test yet. Each test needs 25 questions.';
+
+  @override
+  String get subjectTestListUnknownSubject => 'This subject is not available.';
+
+  @override
+  String get subjectTestListLoadError =>
+      'Could not load tests. Try again later.';
+
+  @override
+  String get subjectTestListOpenSoon =>
+      'Starting a test will be available in a future update.';
 }

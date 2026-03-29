@@ -108,4 +108,34 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get mcqSeedRetry => 'पुनः प्रयास';
+
+  @override
+  String subjectTestListTitle(String subjectName) {
+    return '$subjectName — टेस्ट';
+  }
+
+  @override
+  String subjectTestListTileTitle(int testNumber) {
+    return 'टेस्ट $testNumber';
+  }
+
+  @override
+  String subjectTestListTileRange(int start, int end) {
+    return 'प्रश्न $start–$end';
+  }
+
+  @override
+  String get subjectTestListEmpty =>
+      'पूर्ण अभ्यास टेस्ट के लिए अभी पर्याप्त प्रश्न नहीं हैं। प्रत्येक टेस्ट में 25 प्रश्न चाहिए।';
+
+  @override
+  String get subjectTestListUnknownSubject => 'यह विषय उपलब्ध नहीं है।';
+
+  @override
+  String get subjectTestListLoadError =>
+      'टेस्ट लोड नहीं हो सके। बाद में पुनः प्रयास करें।';
+
+  @override
+  String get subjectTestListOpenSoon =>
+      'टेस्ट शुरू करने की सुविधा आगे के अपडेट में उपलब्ध होगी।';
 }

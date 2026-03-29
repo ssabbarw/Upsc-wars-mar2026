@@ -106,5 +106,42 @@
   "@mcqSeedFailed": { "description": "Message when MCQ import fails" },
 
   "mcqSeedRetry": "Retry",
-  "@mcqSeedRetry": { "description": "Button to retry MCQ import" }
+  "@mcqSeedRetry": { "description": "Button to retry MCQ import" },
+
+  "subjectTestListTitle": "{subjectName} — Tests",
+  "@subjectTestListTitle": {
+    "description": "App bar title for subject practice test list",
+    "placeholders": {
+      "subjectName": { "type": "String" }
+    }
+  },
+
+  "subjectTestListTileTitle": "Test {testNumber}",
+  "@subjectTestListTileTitle": {
+    "description": "Title for one practice test row",
+    "placeholders": {
+      "testNumber": { "type": "int" }
+    }
+  },
+
+  "subjectTestListTileRange": "Questions {start}–{end}",
+  "@subjectTestListTileRange": {
+    "description": "Ordinal question range within the subject for one test",
+    "placeholders": {
+      "start": { "type": "int" },
+      "end": { "type": "int" }
+    }
+  },
+
+  "subjectTestListEmpty": "There are not enough questions for a full practice test yet. Each test needs 25 questions.",
+  "@subjectTestListEmpty": { "description": "Shown when subject has fewer than 25 MCQs in the database" },
+
+  "subjectTestListUnknownSubject": "This subject is not available.",
+  "@subjectTestListUnknownSubject": { "description": "Invalid subject id in route" },
+
+  "subjectTestListLoadError": "Could not load tests. Try again later.",
+  "@subjectTestListLoadError": { "description": "Generic error loading subject test list" },
+
+  "subjectTestListOpenSoon": "Starting a test will be available in a future update.",
+  "@subjectTestListOpenSoon": { "description": "Snack bar when user taps a test before quiz flow exists" }
 }

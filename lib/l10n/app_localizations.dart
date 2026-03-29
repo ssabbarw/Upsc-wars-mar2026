@@ -289,6 +289,48 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Retry'**
   String get mcqSeedRetry;
+
+  /// App bar title for subject practice test list
+  ///
+  /// In en, this message translates to:
+  /// **'{subjectName} — Tests'**
+  String subjectTestListTitle(String subjectName);
+
+  /// Title for one practice test row
+  ///
+  /// In en, this message translates to:
+  /// **'Test {testNumber}'**
+  String subjectTestListTileTitle(int testNumber);
+
+  /// Ordinal question range within the subject for one test
+  ///
+  /// In en, this message translates to:
+  /// **'Questions {start}–{end}'**
+  String subjectTestListTileRange(int start, int end);
+
+  /// Shown when subject has fewer than 25 MCQs in the database
+  ///
+  /// In en, this message translates to:
+  /// **'There are not enough questions for a full practice test yet. Each test needs 25 questions.'**
+  String get subjectTestListEmpty;
+
+  /// Invalid subject id in route
+  ///
+  /// In en, this message translates to:
+  /// **'This subject is not available.'**
+  String get subjectTestListUnknownSubject;
+
+  /// Generic error loading subject test list
+  ///
+  /// In en, this message translates to:
+  /// **'Could not load tests. Try again later.'**
+  String get subjectTestListLoadError;
+
+  /// Snack bar when user taps a test before quiz flow exists
+  ///
+  /// In en, this message translates to:
+  /// **'Starting a test will be available in a future update.'**
+  String get subjectTestListOpenSoon;
 }
 
 class _AppLocalizationsDelegate

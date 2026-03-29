@@ -3,6 +3,7 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:upsc_wars_new/features/home/presentation/pages/home_page.dart';
 import 'package:upsc_wars_new/features/splash/presentation/pages/splash_page.dart';
+import 'package:upsc_wars_new/features/subject_tests/presentation/pages/subject_test_list_page.dart';
 
 part 'app_router.g.dart';
 
@@ -11,6 +12,7 @@ part 'app_router.g.dart';
 enum AppRoute {
   splash,
   home,
+  subjectTests,
 }
 
 @riverpod
@@ -28,6 +30,14 @@ GoRouter appRouter(Ref ref) {
         path: '/home',
         name: AppRoute.home.name,
         builder: (context, state) => const HomePage(),
+      ),
+      GoRoute(
+        path: '/subject/:subjectId/tests',
+        name: AppRoute.subjectTests.name,
+        builder: (context, state) {
+          final subjectId = state.pathParameters['subjectId']!;
+          return SubjectTestListPage(subjectId: subjectId);
+        },
       ),
     ],
   );
