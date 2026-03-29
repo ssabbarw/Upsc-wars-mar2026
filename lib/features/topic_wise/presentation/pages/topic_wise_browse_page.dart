@@ -114,13 +114,45 @@ class TopicWiseBrowsePage extends HookConsumerWidget {
                           (t) => t.label.toLowerCase().contains(query),
                         )
                         .toList();
-                return TopicWiseTagListSection(
-                  items: filtered,
-                  allCount: items.length,
-                  query: query,
-                  l10n: l10n,
-                  accentColor: _accent,
-                  onTagTap: onTagTap,
+                final totalTags = items.length;
+                final shownTags = filtered.length;
+                return Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    if (totalTags > 0)
+                      Padding(
+                        padding: EdgeInsets.fromLTRB(
+                          context.wp(4),
+                          0,
+                          context.wp(4),
+                          context.hp(0.8),
+                        ),
+                        child: Text(
+                          query.isEmpty || shownTags == totalTags
+                              ? l10n.topicWiseBrowseTotalTagCount(totalTags)
+                              : l10n.topicWiseBrowseTagsShownOfTotal(
+                                  shownTags,
+                                  totalTags,
+                                ),
+                          textAlign: TextAlign.center,
+                          style: theme.textTheme.titleSmall?.copyWith(
+                            fontSize: context.sp(14),
+                            fontWeight: FontWeight.w600,
+                            color: _accent,
+                          ),
+                        ),
+                      ),
+                    Expanded(
+                      child: TopicWiseTagListSection(
+                        items: filtered,
+                        allCount: totalTags,
+                        query: query,
+                        l10n: l10n,
+                        accentColor: _accent,
+                        onTagTap: onTagTap,
+                      ),
+                    ),
+                  ],
                 );
               },
               loading: () => const Center(

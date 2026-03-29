@@ -78,6 +78,22 @@ class AppLocalizationsEn extends AppLocalizations {
   String get topicWiseBrowseSearchHint => 'Search tags…';
 
   @override
+  String topicWiseBrowseTotalTagCount(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count tags',
+      one: '$count tag',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String topicWiseBrowseTagsShownOfTotal(int shown, int total) {
+    return 'Showing $shown of $total tags';
+  }
+
+  @override
   String get topicWiseBrowseGroupingTopic => 'Showing: topics';
 
   @override
@@ -306,4 +322,52 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get practiceTestCollapsibleStatement => 'Statement analysis';
+
+  @override
+  String practiceTestReviewVerdictCorrect(String letter) {
+    return 'Correct — your answer ($letter) is right.';
+  }
+
+  @override
+  String practiceTestReviewVerdictIncorrect(String letter) {
+    return 'Incorrect — the correct answer is ($letter).';
+  }
+
+  @override
+  String practiceTestReviewVerdictSkipped(String letter) {
+    return 'Not answered — the correct answer is ($letter).';
+  }
+
+  @override
+  String practiceTestReviewCorrectOptionLine(String letter, String text) {
+    return '($letter) $text';
+  }
+
+  @override
+  String get practiceTestReviewValueAdditionToggleShow => '+ value addition';
+
+  @override
+  String get practiceTestReviewValueAdditionToggleHide => '− value addition';
+
+  @override
+  String get practiceTestReviewDeepDiveTitle => 'Deep dive';
+
+  @override
+  String get practiceTestReviewTabStatements => 'Statements';
+
+  @override
+  String get practiceTestReviewTabElimination => 'Elimination';
+
+  @override
+  String get practiceTestReviewTabTrap => 'Trap breakdown';
+
+  @override
+  String get practiceTestReviewStrongDistractorHeading => 'Strong distractor';
+
+  @override
+  String get practiceTestReviewWhyWrongHeading =>
+      'Why aspirants get this wrong';
+
+  @override
+  String get practiceTestReviewEmptySection => 'No notes here.';
 }

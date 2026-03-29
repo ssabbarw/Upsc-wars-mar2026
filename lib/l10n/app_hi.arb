@@ -27,6 +27,8 @@
 
   "topicWiseBrowseTitle": "विषय-वार ब्राउज़",
   "topicWiseBrowseSearchHint": "टैग खोजें…",
+  "topicWiseBrowseTotalTagCount": "{count, plural, one{{count} टैग} other{{count} टैग}}",
+  "topicWiseBrowseTagsShownOfTotal": "{total} टैग में से {shown} दिख रहे हैं",
   "topicWiseBrowseGroupingTopic": "दिखा रहे हैं: विषय",
   "topicWiseBrowseGroupingSubTopic": "दिखा रहे हैं: उप-विषय",
   "topicWiseBrowseGroupingConcepts": "दिखा रहे हैं: अवधारणाएँ",
@@ -98,5 +100,19 @@
   "practiceTestCollapsibleTrap": "UPSC जाल",
   "practiceTestCollapsibleDistractor": "मजबूत विधर्मी",
   "practiceTestCollapsibleElimination": "उन्मूलन तर्क",
-  "practiceTestCollapsibleStatement": "कथन विश्लेषण"
+  "practiceTestCollapsibleStatement": "कथन विश्लेषण",
+
+  "practiceTestReviewVerdictCorrect": "सही — आपका उत्तर ({letter}) सही है।",
+  "practiceTestReviewVerdictIncorrect": "गलत — सही उत्तर ({letter}) है।",
+  "practiceTestReviewVerdictSkipped": "अनुत्तरित — सही उत्तर ({letter}) है।",
+  "practiceTestReviewCorrectOptionLine": "({letter}) {text}",
+  "practiceTestReviewValueAdditionToggleShow": "+ अतिरिक्त बिंदु",
+  "practiceTestReviewValueAdditionToggleHide": "− अतिरिक्त बिंदु",
+  "practiceTestReviewDeepDiveTitle": "गहराई से",
+  "practiceTestReviewTabStatements": "कथन",
+  "practiceTestReviewTabElimination": "उन्मूलन",
+  "practiceTestReviewTabTrap": "जाल विश्लेषण",
+  "practiceTestReviewStrongDistractorHeading": "मजबूत विधर्मी",
+  "practiceTestReviewWhyWrongHeading": "अभ्यर्थी यहाँ क्यों गलत करते हैं",
+  "practiceTestReviewEmptySection": "यहाँ कोई नोट नहीं।"
 }

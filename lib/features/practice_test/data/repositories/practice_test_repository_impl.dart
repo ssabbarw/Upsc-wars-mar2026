@@ -43,6 +43,8 @@ SELECT
   m.has_table AS has_table,
   m.correct_option AS correct_option,
   m.bookmarked AS bookmarked,
+  m.trap_type AS trap_type,
+  m.concept_anchor AS concept_anchor,
   c.question_text AS question_text,
   c.display_text AS display_text,
   c.final_explanation AS final_explanation,
@@ -107,6 +109,8 @@ LIMIT ? OFFSET ?
       strongDistractor: row['strong_distractor'] as String?,
       eliminationLogicJson: row['elimination_logic'] as String?,
       statementAnalysisJson: row['statement_analysis'] as String?,
+      trapType: row['trap_type'] as String?,
+      conceptAnchor: row['concept_anchor'] as String?,
       table: table,
     );
   }

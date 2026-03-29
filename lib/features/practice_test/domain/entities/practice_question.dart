@@ -17,6 +17,8 @@ class PracticeQuestion {
     this.strongDistractor,
     this.eliminationLogicJson,
     this.statementAnalysisJson,
+    this.trapType,
+    this.conceptAnchor,
     this.table,
   });
 
@@ -40,5 +42,12 @@ class PracticeQuestion {
   final String? strongDistractor;
   final String? eliminationLogicJson;
   final String? statementAnalysisJson;
+
+  /// From `solution.trap_type` in bundled JSON (`mcq_meta_data.trap_type`).
+  final String? trapType;
+
+  /// From `solution.concept_anchor` (`mcq_meta_data.concept_anchor`).
+  final String? conceptAnchor;
+
   final PracticeTableData? table;
 }

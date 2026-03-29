@@ -78,6 +78,22 @@ class AppLocalizationsHi extends AppLocalizations {
   String get topicWiseBrowseSearchHint => 'टैग खोजें…';
 
   @override
+  String topicWiseBrowseTotalTagCount(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count टैग',
+      one: '$count टैग',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String topicWiseBrowseTagsShownOfTotal(int shown, int total) {
+    return '$total टैग में से $shown दिख रहे हैं';
+  }
+
+  @override
   String get topicWiseBrowseGroupingTopic => 'दिखा रहे हैं: विषय';
 
   @override
@@ -306,4 +322,52 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get practiceTestCollapsibleStatement => 'कथन विश्लेषण';
+
+  @override
+  String practiceTestReviewVerdictCorrect(String letter) {
+    return 'सही — आपका उत्तर ($letter) सही है।';
+  }
+
+  @override
+  String practiceTestReviewVerdictIncorrect(String letter) {
+    return 'गलत — सही उत्तर ($letter) है।';
+  }
+
+  @override
+  String practiceTestReviewVerdictSkipped(String letter) {
+    return 'अनुत्तरित — सही उत्तर ($letter) है।';
+  }
+
+  @override
+  String practiceTestReviewCorrectOptionLine(String letter, String text) {
+    return '($letter) $text';
+  }
+
+  @override
+  String get practiceTestReviewValueAdditionToggleShow => '+ अतिरिक्त बिंदु';
+
+  @override
+  String get practiceTestReviewValueAdditionToggleHide => '− अतिरिक्त बिंदु';
+
+  @override
+  String get practiceTestReviewDeepDiveTitle => 'गहराई से';
+
+  @override
+  String get practiceTestReviewTabStatements => 'कथन';
+
+  @override
+  String get practiceTestReviewTabElimination => 'उन्मूलन';
+
+  @override
+  String get practiceTestReviewTabTrap => 'जाल विश्लेषण';
+
+  @override
+  String get practiceTestReviewStrongDistractorHeading => 'मजबूत विधर्मी';
+
+  @override
+  String get practiceTestReviewWhyWrongHeading =>
+      'अभ्यर्थी यहाँ क्यों गलत करते हैं';
+
+  @override
+  String get practiceTestReviewEmptySection => 'यहाँ कोई नोट नहीं।';
 }

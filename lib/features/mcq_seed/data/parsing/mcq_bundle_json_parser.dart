@@ -92,3 +92,25 @@ Map<String, dynamic> parseMcqBundleJson(String raw) {
     'table': tableRows,
   };
 }
+
+/// Parses several JSON bundle files in a single isolate trip (reduces [compute] overhead).
+///
+/// Must remain a top-level function so it can be passed to [compute].
+Map<String, dynamic> parseMcqBundleJsonBatch(List<String> rawStrings) {
+  final mergedMcq = <Map<String, dynamic>>[];
+  final mergedContent = <Map<String, dynamic>>[];
+  final mergedTable = <Map<String, dynamic>>[];
+  for (final raw in rawStrings) {
+    final one = parseMcqBundleJson(raw);
+    mergedMcq.addAll((one['mcq'] as List<dynamic>).cast<Map<String, dynamic>>());
+    mergedContent
+        .addAll((one['content'] as List<dynamic>).cast<Map<String, dynamic>>());
+    mergedTable
+        .addAll((one['table'] as List<dynamic>).cast<Map<String, dynamic>>());
+  }
+  return <String, dynamic>{
+    'mcq': mergedMcq,
+    'content': mergedContent,
+    'table': mergedTable,
+  };
+}

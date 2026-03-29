@@ -70,6 +70,23 @@
   "topicWiseBrowseSearchHint": "Search tags…",
   "@topicWiseBrowseSearchHint": { "description": "Hint for topic-wise tag search field" },
 
+  "topicWiseBrowseTotalTagCount": "{count, plural, one{{count} tag} other{{count} tags}}",
+  "@topicWiseBrowseTotalTagCount": {
+    "description": "Total number of tags for the selected subject",
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "topicWiseBrowseTagsShownOfTotal": "Showing {shown} of {total} tags",
+  "@topicWiseBrowseTagsShownOfTotal": {
+    "description": "Filtered tag count vs total while search is active",
+    "placeholders": {
+      "shown": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
   "topicWiseBrowseGroupingTopic": "Showing: topics",
   "@topicWiseBrowseGroupingTopic": { "description": "Caption when config uses topic field" },
 
@@ -247,5 +264,34 @@
   "practiceTestCollapsibleTrap": "UPSC trap",
   "practiceTestCollapsibleDistractor": "Strong distractor",
   "practiceTestCollapsibleElimination": "Elimination logic",
-  "practiceTestCollapsibleStatement": "Statement analysis"
+  "practiceTestCollapsibleStatement": "Statement analysis",
+
+  "practiceTestReviewVerdictCorrect": "Correct — your answer ({letter}) is right.",
+  "@practiceTestReviewVerdictCorrect": {
+    "placeholders": { "letter": { "type": "String" } }
+  },
+  "practiceTestReviewVerdictIncorrect": "Incorrect — the correct answer is ({letter}).",
+  "@practiceTestReviewVerdictIncorrect": {
+    "placeholders": { "letter": { "type": "String" } }
+  },
+  "practiceTestReviewVerdictSkipped": "Not answered — the correct answer is ({letter}).",
+  "@practiceTestReviewVerdictSkipped": {
+    "placeholders": { "letter": { "type": "String" } }
+  },
+  "practiceTestReviewCorrectOptionLine": "({letter}) {text}",
+  "@practiceTestReviewCorrectOptionLine": {
+    "placeholders": {
+      "letter": { "type": "String" },
+      "text": { "type": "String" }
+    }
+  },
+  "practiceTestReviewValueAdditionToggleShow": "+ value addition",
+  "practiceTestReviewValueAdditionToggleHide": "− value addition",
+  "practiceTestReviewDeepDiveTitle": "Deep dive",
+  "practiceTestReviewTabStatements": "Statements",
+  "practiceTestReviewTabElimination": "Elimination",
+  "practiceTestReviewTabTrap": "Trap breakdown",
+  "practiceTestReviewStrongDistractorHeading": "Strong distractor",
+  "practiceTestReviewWhyWrongHeading": "Why aspirants get this wrong",
+  "practiceTestReviewEmptySection": "No notes here."
 }

@@ -42,6 +42,12 @@ abstract final class McqSeedConstants {
   /// Used only when [fileCountMode] is [McqSeedFileCountMode.cappedSequential].
   static const int filesPerSubject = 20;
 
+  /// How many JSON bundles are loaded, parsed (one [compute] call), and written per DB transaction.
+  ///
+  /// Larger values reduce isolate and SQLite transaction overhead (faster seed) but use more RAM
+  /// while parsing. Typical phones: `4`–`8`. Set to `1` to approximate the legacy one-file-at-a-time behaviour.
+  static const int seedBundleBatchSize = 6;
+
   /// [SharedPreferences] key — when true, bundled MCQ seeding is skipped.
   static const String prefsSeedCompleteKey = 'mcq_en_seed_v1_complete';
 }

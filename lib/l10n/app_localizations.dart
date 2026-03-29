@@ -236,6 +236,18 @@ abstract class AppLocalizations {
   /// **'Search tags…'**
   String get topicWiseBrowseSearchHint;
 
+  /// Total number of tags for the selected subject
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, one{{count} tag} other{{count} tags}}'**
+  String topicWiseBrowseTotalTagCount(int count);
+
+  /// Filtered tag count vs total while search is active
+  ///
+  /// In en, this message translates to:
+  /// **'Showing {shown} of {total} tags'**
+  String topicWiseBrowseTagsShownOfTotal(int shown, int total);
+
   /// Caption when config uses topic field
   ///
   /// In en, this message translates to:
@@ -625,6 +637,84 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Statement analysis'**
   String get practiceTestCollapsibleStatement;
+
+  /// No description provided for @practiceTestReviewVerdictCorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'Correct — your answer ({letter}) is right.'**
+  String practiceTestReviewVerdictCorrect(String letter);
+
+  /// No description provided for @practiceTestReviewVerdictIncorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'Incorrect — the correct answer is ({letter}).'**
+  String practiceTestReviewVerdictIncorrect(String letter);
+
+  /// No description provided for @practiceTestReviewVerdictSkipped.
+  ///
+  /// In en, this message translates to:
+  /// **'Not answered — the correct answer is ({letter}).'**
+  String practiceTestReviewVerdictSkipped(String letter);
+
+  /// No description provided for @practiceTestReviewCorrectOptionLine.
+  ///
+  /// In en, this message translates to:
+  /// **'({letter}) {text}'**
+  String practiceTestReviewCorrectOptionLine(String letter, String text);
+
+  /// No description provided for @practiceTestReviewValueAdditionToggleShow.
+  ///
+  /// In en, this message translates to:
+  /// **'+ value addition'**
+  String get practiceTestReviewValueAdditionToggleShow;
+
+  /// No description provided for @practiceTestReviewValueAdditionToggleHide.
+  ///
+  /// In en, this message translates to:
+  /// **'− value addition'**
+  String get practiceTestReviewValueAdditionToggleHide;
+
+  /// No description provided for @practiceTestReviewDeepDiveTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Deep dive'**
+  String get practiceTestReviewDeepDiveTitle;
+
+  /// No description provided for @practiceTestReviewTabStatements.
+  ///
+  /// In en, this message translates to:
+  /// **'Statements'**
+  String get practiceTestReviewTabStatements;
+
+  /// No description provided for @practiceTestReviewTabElimination.
+  ///
+  /// In en, this message translates to:
+  /// **'Elimination'**
+  String get practiceTestReviewTabElimination;
+
+  /// No description provided for @practiceTestReviewTabTrap.
+  ///
+  /// In en, this message translates to:
+  /// **'Trap breakdown'**
+  String get practiceTestReviewTabTrap;
+
+  /// No description provided for @practiceTestReviewStrongDistractorHeading.
+  ///
+  /// In en, this message translates to:
+  /// **'Strong distractor'**
+  String get practiceTestReviewStrongDistractorHeading;
+
+  /// No description provided for @practiceTestReviewWhyWrongHeading.
+  ///
+  /// In en, this message translates to:
+  /// **'Why aspirants get this wrong'**
+  String get practiceTestReviewWhyWrongHeading;
+
+  /// No description provided for @practiceTestReviewEmptySection.
+  ///
+  /// In en, this message translates to:
+  /// **'No notes here.'**
+  String get practiceTestReviewEmptySection;
 }
 
 class _AppLocalizationsDelegate

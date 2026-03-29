@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
@@ -10,6 +8,7 @@ import 'package:upsc_wars_new/core/utils/responsive.dart';
 import 'package:upsc_wars_new/features/practice_test/data/repositories/practice_test_repository_impl.dart';
 import 'package:upsc_wars_new/features/practice_test/domain/entities/practice_test_outcome.dart';
 import 'package:upsc_wars_new/features/practice_test/presentation/widgets/practice_mcq_table.dart';
+import 'package:upsc_wars_new/features/practice_test/presentation/widgets/practice_review_explanation_section.dart';
 import 'package:upsc_wars_new/l10n/app_localizations.dart';
 
 /// Full explanations for every question in a completed test.
@@ -31,7 +30,6 @@ class PracticeTestReviewPage extends HookConsumerWidget {
       );
     }
 
-    final controller = usePageController();
     final pageIndex = useState(0);
     final bookmarkMap = useState<Map<int, bool>>({
       for (final item in o.items)
@@ -64,25 +62,18 @@ class PracticeTestReviewPage extends HookConsumerWidget {
       body: Column(
         children: [
           Expanded(
-            child: PageView.builder(
-              controller: controller,
-              itemCount: o.items.length,
-              onPageChanged: (i) => pageIndex.value = i,
-              itemBuilder: (context, index) {
-                final it = o.items[index];
-                return SingleChildScrollView(
-                  padding: EdgeInsets.fromLTRB(
-                    context.wp(4),
-                    context.hp(1),
-                    context.wp(4),
-                    context.hp(2),
-                  ),
-                  child: _ReviewQuestionBody(
-                    item: it,
-                    l10n: l10n,
-                  ),
-                );
-              },
+            child: SingleChildScrollView(
+              key: ValueKey<int>(o.items[pageIndex.value].question.overallQueNo),
+              padding: EdgeInsets.fromLTRB(
+                context.wp(4),
+                context.hp(1),
+                context.wp(4),
+                context.hp(2),
+              ),
+              child: _ReviewQuestionBody(
+                item: o.items[pageIndex.value],
+                l10n: l10n,
+              ),
             ),
           ),
           SafeArea(
@@ -99,12 +90,7 @@ class PracticeTestReviewPage extends HookConsumerWidget {
                   Expanded(
                     child: OutlinedButton(
                       onPressed: pageIndex.value > 0
-                          ? () {
-                              controller.previousPage(
-                                duration: const Duration(milliseconds: 280),
-                                curve: Curves.easeOutCubic,
-                              );
-                            }
+                          ? () => pageIndex.value = pageIndex.value - 1
                           : null,
                       child: Text(l10n.practiceTestPrev),
                     ),
@@ -123,12 +109,7 @@ class PracticeTestReviewPage extends HookConsumerWidget {
                   Expanded(
                     child: FilledButton(
                       onPressed: pageIndex.value < o.items.length - 1
-                          ? () {
-                              controller.nextPage(
-                                duration: const Duration(milliseconds: 280),
-                                curve: Curves.easeOutCubic,
-                              );
-                            }
+                          ? () => pageIndex.value = pageIndex.value + 1
                           : null,
                       child: Text(l10n.practiceTestNext),
                     ),
@@ -250,135 +231,11 @@ class _ReviewQuestionBody extends StatelessWidget {
           children: ['A', 'B', 'C', 'D'].map(optionChip).toList(),
         ),
         SizedBox(height: context.hp(2.5)),
-        Text(
-          q.finalExplanation ?? '',
-          style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                height: 1.55,
-                fontSize: context.sp(15),
-              ),
+        PracticeReviewExplanationSection(
+          item: item,
+          l10n: l10n,
         ),
-        if (q.upscTrapExplanation != null &&
-            q.upscTrapExplanation!.trim().isNotEmpty)
-          _CollapsibleBlock(
-            title: l10n.practiceTestCollapsibleTrap,
-            child: Text(
-              q.upscTrapExplanation!,
-              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    height: 1.5,
-                  ),
-            ),
-          ),
-        if (q.strongDistractor != null &&
-            q.strongDistractor!.trim().isNotEmpty)
-          _CollapsibleBlock(
-            title: l10n.practiceTestCollapsibleDistractor,
-            child: Text(
-              q.strongDistractor!,
-              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    height: 1.5,
-                  ),
-            ),
-          ),
-        if (_eliminationBullets(q.eliminationLogicJson).isNotEmpty)
-          _CollapsibleBlock(
-            title: l10n.practiceTestCollapsibleElimination,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: _eliminationBullets(q.eliminationLogicJson)
-                  .map(
-                    (line) => Padding(
-                      padding: EdgeInsets.only(bottom: context.hp(0.8)),
-                      child: Text(
-                        '• $line',
-                        style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                              height: 1.45,
-                            ),
-                      ),
-                    ),
-                  )
-                  .toList(),
-            ),
-          ),
-        if (_formatStatementAnalysis(q.statementAnalysisJson) != null)
-          _CollapsibleBlock(
-            title: l10n.practiceTestCollapsibleStatement,
-            child: Text(
-              _formatStatementAnalysis(q.statementAnalysisJson)!,
-              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    height: 1.45,
-                  ),
-            ),
-          ),
       ],
-    );
-  }
-
-  static List<String> _eliminationBullets(String? raw) {
-    if (raw == null || raw.isEmpty) return [];
-    try {
-      final d = jsonDecode(raw);
-      if (d is List) return d.map((e) => '$e').toList();
-    } catch (_) {}
-    return [];
-  }
-
-  static String? _formatStatementAnalysis(String? raw) {
-    if (raw == null || raw.isEmpty) return null;
-    try {
-      final d = jsonDecode(raw);
-      if (d is! List) return raw;
-      final b = StringBuffer();
-      for (final x in d) {
-        if (x is Map) {
-          b.writeln('• ${x['statement']}');
-          b.writeln('  ${x['verdict']}: ${x['reason']}\n');
-        }
-      }
-      final s = b.toString().trim();
-      return s.isEmpty ? null : s;
-    } catch (_) {
-      return raw;
-    }
-  }
-}
-
-class _CollapsibleBlock extends StatelessWidget {
-  const _CollapsibleBlock({
-    required this.title,
-    required this.child,
-  });
-
-  final String title;
-  final Widget child;
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: EdgeInsets.only(top: context.hp(1.2)),
-      child: Card(
-        margin: EdgeInsets.zero,
-        elevation: 0,
-        color: Theme.of(context)
-            .colorScheme
-            .surfaceContainerHighest
-            .withValues(alpha: 0.4),
-        child: ExpansionTile(
-          initiallyExpanded: false,
-          title: Text(
-            title,
-            style: Theme.of(context).textTheme.titleSmall?.copyWith(
-                  fontWeight: FontWeight.w700,
-                ),
-          ),
-          childrenPadding: EdgeInsets.fromLTRB(
-            context.wp(3),
-            0,
-            context.wp(3),
-            context.hp(1.5),
-          ),
-          children: [child],
-        ),
-      ),
     );
   }
 }
