@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:upsc_wars_new/core/constants/app_sizes.dart';
+import 'package:upsc_wars_new/core/utils/responsive.dart';
 
 /// A live countdown that ticks every second and renders:
 ///
@@ -51,31 +51,56 @@ class CountdownTimer extends HookWidget {
     if (expired) {
       return Text(
         expiredText,
+        textAlign: TextAlign.center,
         style: theme.textTheme.titleMedium?.copyWith(
           color: colorScheme.onSurfaceVariant,
+          fontSize: context.sp(16),
         ),
       );
     }
 
+    final double gapBetweenUnits = context.wp(2);
+
     return Column(
-      crossAxisAlignment: CrossAxisAlignment.center,
+      crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        Wrap(
-          spacing: AppSizes.lg,
-          runSpacing: AppSizes.xs,
-          children: [
-            _CountUnit(value: remaining.value.inDays, label: 'Days'),
-            _CountUnit(value: remaining.value.inHours % 24, label: 'Hr'),
-            _CountUnit(value: remaining.value.inMinutes % 60, label: 'mm'),
-            _CountUnit(value: remaining.value.inSeconds % 60, label: 'ss'),
-          ],
+        FittedBox(
+          fit: BoxFit.scaleDown,
+          alignment: Alignment.center,
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              _CountUnit(
+                value: remaining.value.inDays,
+                label: 'Days',
+              ),
+              SizedBox(width: gapBetweenUnits),
+              _CountUnit(
+                value: remaining.value.inHours % 24,
+                label: 'Hr',
+              ),
+              SizedBox(width: gapBetweenUnits),
+              _CountUnit(
+                value: remaining.value.inMinutes % 60,
+                label: 'mm',
+              ),
+              SizedBox(width: gapBetweenUnits),
+              _CountUnit(
+                value: remaining.value.inSeconds % 60,
+                label: 'ss',
+              ),
+            ],
+          ),
         ),
-        const SizedBox(height: AppSizes.sm),
+        SizedBox(height: context.hp(1)),
         Text(
           label,
+          textAlign: TextAlign.center,
           style: theme.textTheme.titleMedium?.copyWith(
             color: colorScheme.onSurface,
             fontWeight: FontWeight.w700,
+            fontSize: context.sp(16),
           ),
         ),
       ],
@@ -99,6 +124,9 @@ class _CountUnit extends StatelessWidget {
     final theme = Theme.of(context);
     final colorScheme = theme.colorScheme;
 
+    final double digitFontSize = context.sp(34);
+    final double unitLabelFontSize = context.sp(12);
+
     return Row(
       mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.baseline,
@@ -106,16 +134,19 @@ class _CountUnit extends StatelessWidget {
       children: [
         Text(
           value.toString().padLeft(2, '0'),
-          style: theme.textTheme.displaySmall?.copyWith(
+          style: TextStyle(
+            fontSize: digitFontSize,
             color: colorScheme.primary,
             fontWeight: FontWeight.w700,
             fontFeatures: const [FontFeature.tabularFigures()],
             height: 1,
           ),
         ),
+        SizedBox(width: context.wp(0.8)),
         Text(
           label,
-          style: theme.textTheme.titleSmall?.copyWith(
+          style: TextStyle(
+            fontSize: unitLabelFontSize,
             color: colorScheme.onSurfaceVariant,
             fontWeight: FontWeight.w500,
           ),
