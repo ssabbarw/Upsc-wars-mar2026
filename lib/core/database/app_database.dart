@@ -14,7 +14,7 @@ class AppDatabase {
   static final AppDatabase instance = AppDatabase._();
 
   static const String _dbName = 'upsc_wars.db';
-  static const int _version = 2;
+  static const int _version = 3;
 
   Database? _database;
 
@@ -46,6 +46,11 @@ class AppDatabase {
     if (oldVersion < 2) {
       await _createMcqMetaDataTables(db);
     }
+    if (oldVersion < 3) {
+      await db.execute('''
+ALTER TABLE mcq_meta_data ADD COLUMN bookmarked INTEGER NOT NULL DEFAULT 0
+''');
+    }
   }
 
   static Future<void> _createMcqMetaDataTables(Database db) async {
@@ -62,7 +67,8 @@ CREATE TABLE IF NOT EXISTS mcq_meta_data (
   concept_anchor TEXT,
   has_table INTEGER NOT NULL,
   user_attempt TEXT,
-  correct_option TEXT NOT NULL
+  correct_option TEXT NOT NULL,
+  bookmarked INTEGER NOT NULL DEFAULT 0
 )
 ''');
     await db.execute('''

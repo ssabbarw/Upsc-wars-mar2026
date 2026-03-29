@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:upsc_wars_new/core/utils/responsive.dart';
+import 'package:upsc_wars_new/core/router/app_router.dart';
 import 'package:upsc_wars_new/features/home/data/datasources/subjects_datasource.dart';
 import 'package:upsc_wars_new/features/subject_tests/presentation/providers/subject_tests_providers.dart';
 import 'package:upsc_wars_new/l10n/app_localizations.dart';
@@ -76,8 +78,12 @@ class SubjectTestListPage extends ConsumerWidget {
                   ),
                 ),
                 onTap: () {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(content: Text(l10n.subjectTestListOpenSoon)),
+                  context.pushNamed(
+                    AppRoute.practiceTestRun.name,
+                    pathParameters: {
+                      'subjectId': subjectId,
+                      'testNumber': '${t.testNumber}',
+                    },
                   );
                 },
               );

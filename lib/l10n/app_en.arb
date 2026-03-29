@@ -143,5 +143,74 @@
   "@subjectTestListLoadError": { "description": "Generic error loading subject test list" },
 
   "subjectTestListOpenSoon": "Starting a test will be available in a future update.",
-  "@subjectTestListOpenSoon": { "description": "Snack bar when user taps a test before quiz flow exists" }
+  "@subjectTestListOpenSoon": { "description": "Deprecated snack copy" },
+
+  "practiceTestProgress": "{current} / {total}",
+  "@practiceTestProgress": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "practiceTestTimer": "{minutes}:{seconds}",
+  "@practiceTestTimer": {
+    "placeholders": {
+      "minutes": { "type": "String" },
+      "seconds": { "type": "String" }
+    }
+  },
+  "practiceTestOption": "Option {letter}",
+  "@practiceTestOption": {
+    "placeholders": { "letter": { "type": "String" } }
+  },
+  "practiceTestPrev": "Prev",
+  "practiceTestNext": "Next",
+  "practiceTestBookmark": "Bookmark",
+  "practiceTestRevisit": "Revisit",
+  "@practiceTestRevisit": { "description": "Label to mark question for later revisit" },
+  "practiceTestSubmit": "Submit",
+  "practiceTestSubmitConfirmTitle": "Submit test?",
+  "@practiceTestSubmitConfirmTitle": { "description": "Title for submit confirmation dialog" },
+  "practiceTestSubmitConfirmMessage": "Are you sure? You cannot change your answers after submitting.",
+  "@practiceTestSubmitConfirmMessage": { "description": "Body for submit confirmation dialog" },
+  "practiceTestSubmitConfirmCancel": "Not now",
+  "@practiceTestSubmitConfirmCancel": { "description": "Dismiss submit confirmation" },
+  "practiceTestSubmitConfirmSubmit": "Yes, submit",
+  "@practiceTestSubmitConfirmSubmit": { "description": "Confirm submit test" },
+  "practiceTestSummary": "Summary",
+  "practiceTestSummaryTitle": "Question palette",
+  "practiceTestLegendAnswered": "Answered",
+  "practiceTestLegendSkipped": "Skipped",
+  "practiceTestLegendPending": "Not done",
+  "practiceTestLegendRevisit": "Revisit",
+  "@practiceTestLegendRevisit": { "description": "Legend for questions marked to revisit" },
+  "practiceTestLoadError": "Could not load this test.",
+  "practiceTestTimeUp": "Time is up — submitting…",
+
+  "practiceTestResultsTitle": "Test complete",
+  "practiceTestStatTotal": "Total questions",
+  "practiceTestStatCorrect": "Correct",
+  "practiceTestStatIncorrect": "Incorrect",
+  "practiceTestStatSkipped": "Skipped",
+  "practiceTestStatAccuracy": "Accuracy",
+  "practiceTestStatTime": "Time taken",
+  "practiceTestTypeBreakdown": "Accuracy by question type",
+  "practiceTestTypeRow": "{typeName}: {percent}%",
+  "@practiceTestTypeRow": {
+    "placeholders": {
+      "typeName": { "type": "String" },
+      "percent": { "type": "int" }
+    }
+  },
+  "practiceTestReviewExplanations": "View explanations",
+  "practiceTestBackHome": "Back to tests",
+  "practiceTestResultsMissing": "Results are unavailable.",
+
+  "practiceTestReviewTitle": "Explanations",
+  "practiceTestYourPick": "Your answer",
+  "practiceTestCorrectLabel": "Correct",
+  "practiceTestCollapsibleTrap": "UPSC trap",
+  "practiceTestCollapsibleDistractor": "Strong distractor",
+  "practiceTestCollapsibleElimination": "Elimination logic",
+  "practiceTestCollapsibleStatement": "Statement analysis"
 }

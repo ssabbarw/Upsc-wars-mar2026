@@ -138,4 +138,130 @@ class AppLocalizationsHi extends AppLocalizations {
   @override
   String get subjectTestListOpenSoon =>
       'टेस्ट शुरू करने की सुविधा आगे के अपडेट में उपलब्ध होगी।';
+
+  @override
+  String practiceTestProgress(int current, int total) {
+    return '$current / $total';
+  }
+
+  @override
+  String practiceTestTimer(String minutes, String seconds) {
+    return '$minutes:$seconds';
+  }
+
+  @override
+  String practiceTestOption(String letter) {
+    return 'विकल्प $letter';
+  }
+
+  @override
+  String get practiceTestPrev => 'पिछला';
+
+  @override
+  String get practiceTestNext => 'अगला';
+
+  @override
+  String get practiceTestBookmark => 'बुकमार्क';
+
+  @override
+  String get practiceTestRevisit => 'पुनः देखें';
+
+  @override
+  String get practiceTestSubmit => 'जमा करें';
+
+  @override
+  String get practiceTestSubmitConfirmTitle => 'टेस्ट जमा करें?';
+
+  @override
+  String get practiceTestSubmitConfirmMessage =>
+      'क्या आप निश्चित हैं? जमा करने के बाद उत्तर बदले नहीं जा सकते।';
+
+  @override
+  String get practiceTestSubmitConfirmCancel => 'अभी नहीं';
+
+  @override
+  String get practiceTestSubmitConfirmSubmit => 'हाँ, जमा करें';
+
+  @override
+  String get practiceTestSummary => 'सारांश';
+
+  @override
+  String get practiceTestSummaryTitle => 'प्रश्न सूची';
+
+  @override
+  String get practiceTestLegendAnswered => 'उत्तर दिया';
+
+  @override
+  String get practiceTestLegendSkipped => 'छोड़ा';
+
+  @override
+  String get practiceTestLegendPending => 'बाकी';
+
+  @override
+  String get practiceTestLegendRevisit => 'पुनः देखें';
+
+  @override
+  String get practiceTestLoadError => 'यह टेस्ट लोड नहीं हो सका।';
+
+  @override
+  String get practiceTestTimeUp => 'समय समाप्त — जमा किया जा रहा है…';
+
+  @override
+  String get practiceTestResultsTitle => 'टेस्ट पूर्ण';
+
+  @override
+  String get practiceTestStatTotal => 'कुल प्रश्न';
+
+  @override
+  String get practiceTestStatCorrect => 'सही';
+
+  @override
+  String get practiceTestStatIncorrect => 'गलत';
+
+  @override
+  String get practiceTestStatSkipped => 'छोड़े गए';
+
+  @override
+  String get practiceTestStatAccuracy => 'सटीकता';
+
+  @override
+  String get practiceTestStatTime => 'लिया गया समय';
+
+  @override
+  String get practiceTestTypeBreakdown => 'प्रकार के अनुसार सटीकता';
+
+  @override
+  String practiceTestTypeRow(String typeName, int percent) {
+    return '$typeName: $percent%';
+  }
+
+  @override
+  String get practiceTestReviewExplanations => 'व्याख्याएँ देखें';
+
+  @override
+  String get practiceTestBackHome => 'टेस्ट पर वापस';
+
+  @override
+  String get practiceTestResultsMissing => 'परिणाम उपलब्ध नहीं।';
+
+  @override
+  String get practiceTestReviewTitle => 'व्याख्या';
+
+  @override
+  String get practiceTestYourPick => 'आपका उत्तर';
+
+  @override
+  String get practiceTestCorrectLabel => 'सही';
+
+  @override
+  String get practiceTestCollapsibleTrap => 'UPSC जाल';
+
+  @override
+  String get practiceTestCollapsibleDistractor => 'मजबूत विधर्मी';
+
+  @override
+  String get practiceTestCollapsibleElimination => 'उन्मूलन तर्क';
+
+  @override
+  String get practiceTestCollapsibleStatement => 'कथन विश्लेषण';
 }

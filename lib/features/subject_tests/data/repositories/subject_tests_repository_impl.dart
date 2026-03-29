@@ -24,7 +24,7 @@ class SubjectTestsRepositoryImpl implements SubjectTestsRepository {
 
     try {
       final rows = await _db.rawQuery(
-        'SELECT COUNT(*) AS c FROM mcq WHERE subject = ?',
+        'SELECT COUNT(*) AS c FROM mcq_meta_data WHERE subject = ?',
         [dbSubject],
       );
       final total = Sqflite.firstIntValue(rows) ?? 0;

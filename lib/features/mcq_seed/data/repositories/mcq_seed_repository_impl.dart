@@ -60,7 +60,7 @@ class McqSeedRepositoryImpl implements McqSeedRepository {
               final batch = txn.batch();
               for (final row in mcqList) {
                 batch.insert(
-                  'mcq',
+                  'mcq_meta_data',
                   row,
                   conflictAlgorithm: ConflictAlgorithm.replace,
                 );

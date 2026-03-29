@@ -326,11 +326,245 @@ abstract class AppLocalizations {
   /// **'Could not load tests. Try again later.'**
   String get subjectTestListLoadError;
 
-  /// Snack bar when user taps a test before quiz flow exists
+  /// Deprecated snack copy
   ///
   /// In en, this message translates to:
   /// **'Starting a test will be available in a future update.'**
   String get subjectTestListOpenSoon;
+
+  /// No description provided for @practiceTestProgress.
+  ///
+  /// In en, this message translates to:
+  /// **'{current} / {total}'**
+  String practiceTestProgress(int current, int total);
+
+  /// No description provided for @practiceTestTimer.
+  ///
+  /// In en, this message translates to:
+  /// **'{minutes}:{seconds}'**
+  String practiceTestTimer(String minutes, String seconds);
+
+  /// No description provided for @practiceTestOption.
+  ///
+  /// In en, this message translates to:
+  /// **'Option {letter}'**
+  String practiceTestOption(String letter);
+
+  /// No description provided for @practiceTestPrev.
+  ///
+  /// In en, this message translates to:
+  /// **'Prev'**
+  String get practiceTestPrev;
+
+  /// No description provided for @practiceTestNext.
+  ///
+  /// In en, this message translates to:
+  /// **'Next'**
+  String get practiceTestNext;
+
+  /// No description provided for @practiceTestBookmark.
+  ///
+  /// In en, this message translates to:
+  /// **'Bookmark'**
+  String get practiceTestBookmark;
+
+  /// Label to mark question for later revisit
+  ///
+  /// In en, this message translates to:
+  /// **'Revisit'**
+  String get practiceTestRevisit;
+
+  /// No description provided for @practiceTestSubmit.
+  ///
+  /// In en, this message translates to:
+  /// **'Submit'**
+  String get practiceTestSubmit;
+
+  /// Title for submit confirmation dialog
+  ///
+  /// In en, this message translates to:
+  /// **'Submit test?'**
+  String get practiceTestSubmitConfirmTitle;
+
+  /// Body for submit confirmation dialog
+  ///
+  /// In en, this message translates to:
+  /// **'Are you sure? You cannot change your answers after submitting.'**
+  String get practiceTestSubmitConfirmMessage;
+
+  /// Dismiss submit confirmation
+  ///
+  /// In en, this message translates to:
+  /// **'Not now'**
+  String get practiceTestSubmitConfirmCancel;
+
+  /// Confirm submit test
+  ///
+  /// In en, this message translates to:
+  /// **'Yes, submit'**
+  String get practiceTestSubmitConfirmSubmit;
+
+  /// No description provided for @practiceTestSummary.
+  ///
+  /// In en, this message translates to:
+  /// **'Summary'**
+  String get practiceTestSummary;
+
+  /// No description provided for @practiceTestSummaryTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Question palette'**
+  String get practiceTestSummaryTitle;
+
+  /// No description provided for @practiceTestLegendAnswered.
+  ///
+  /// In en, this message translates to:
+  /// **'Answered'**
+  String get practiceTestLegendAnswered;
+
+  /// No description provided for @practiceTestLegendSkipped.
+  ///
+  /// In en, this message translates to:
+  /// **'Skipped'**
+  String get practiceTestLegendSkipped;
+
+  /// No description provided for @practiceTestLegendPending.
+  ///
+  /// In en, this message translates to:
+  /// **'Not done'**
+  String get practiceTestLegendPending;
+
+  /// Legend for questions marked to revisit
+  ///
+  /// In en, this message translates to:
+  /// **'Revisit'**
+  String get practiceTestLegendRevisit;
+
+  /// No description provided for @practiceTestLoadError.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not load this test.'**
+  String get practiceTestLoadError;
+
+  /// No description provided for @practiceTestTimeUp.
+  ///
+  /// In en, this message translates to:
+  /// **'Time is up — submitting…'**
+  String get practiceTestTimeUp;
+
+  /// No description provided for @practiceTestResultsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Test complete'**
+  String get practiceTestResultsTitle;
+
+  /// No description provided for @practiceTestStatTotal.
+  ///
+  /// In en, this message translates to:
+  /// **'Total questions'**
+  String get practiceTestStatTotal;
+
+  /// No description provided for @practiceTestStatCorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'Correct'**
+  String get practiceTestStatCorrect;
+
+  /// No description provided for @practiceTestStatIncorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'Incorrect'**
+  String get practiceTestStatIncorrect;
+
+  /// No description provided for @practiceTestStatSkipped.
+  ///
+  /// In en, this message translates to:
+  /// **'Skipped'**
+  String get practiceTestStatSkipped;
+
+  /// No description provided for @practiceTestStatAccuracy.
+  ///
+  /// In en, this message translates to:
+  /// **'Accuracy'**
+  String get practiceTestStatAccuracy;
+
+  /// No description provided for @practiceTestStatTime.
+  ///
+  /// In en, this message translates to:
+  /// **'Time taken'**
+  String get practiceTestStatTime;
+
+  /// No description provided for @practiceTestTypeBreakdown.
+  ///
+  /// In en, this message translates to:
+  /// **'Accuracy by question type'**
+  String get practiceTestTypeBreakdown;
+
+  /// No description provided for @practiceTestTypeRow.
+  ///
+  /// In en, this message translates to:
+  /// **'{typeName}: {percent}%'**
+  String practiceTestTypeRow(String typeName, int percent);
+
+  /// No description provided for @practiceTestReviewExplanations.
+  ///
+  /// In en, this message translates to:
+  /// **'View explanations'**
+  String get practiceTestReviewExplanations;
+
+  /// No description provided for @practiceTestBackHome.
+  ///
+  /// In en, this message translates to:
+  /// **'Back to tests'**
+  String get practiceTestBackHome;
+
+  /// No description provided for @practiceTestResultsMissing.
+  ///
+  /// In en, this message translates to:
+  /// **'Results are unavailable.'**
+  String get practiceTestResultsMissing;
+
+  /// No description provided for @practiceTestReviewTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Explanations'**
+  String get practiceTestReviewTitle;
+
+  /// No description provided for @practiceTestYourPick.
+  ///
+  /// In en, this message translates to:
+  /// **'Your answer'**
+  String get practiceTestYourPick;
+
+  /// No description provided for @practiceTestCorrectLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Correct'**
+  String get practiceTestCorrectLabel;
+
+  /// No description provided for @practiceTestCollapsibleTrap.
+  ///
+  /// In en, this message translates to:
+  /// **'UPSC trap'**
+  String get practiceTestCollapsibleTrap;
+
+  /// No description provided for @practiceTestCollapsibleDistractor.
+  ///
+  /// In en, this message translates to:
+  /// **'Strong distractor'**
+  String get practiceTestCollapsibleDistractor;
+
+  /// No description provided for @practiceTestCollapsibleElimination.
+  ///
+  /// In en, this message translates to:
+  /// **'Elimination logic'**
+  String get practiceTestCollapsibleElimination;
+
+  /// No description provided for @practiceTestCollapsibleStatement.
+  ///
+  /// In en, this message translates to:
+  /// **'Statement analysis'**
+  String get practiceTestCollapsibleStatement;
 }
 
 class _AppLocalizationsDelegate

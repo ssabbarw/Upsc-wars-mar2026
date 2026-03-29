@@ -41,6 +41,7 @@ Map<String, dynamic> parseMcqBundleJson(String raw) {
       'has_table': hasTable ? 1 : 0,
       'user_attempt': null,
       'correct_option': correctStr,
+      'bookmarked': 0,
     });
 
     final displayText = fp['display_text'];

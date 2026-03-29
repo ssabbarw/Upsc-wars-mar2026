@@ -138,4 +138,130 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get subjectTestListOpenSoon =>
       'Starting a test will be available in a future update.';
+
+  @override
+  String practiceTestProgress(int current, int total) {
+    return '$current / $total';
+  }
+
+  @override
+  String practiceTestTimer(String minutes, String seconds) {
+    return '$minutes:$seconds';
+  }
+
+  @override
+  String practiceTestOption(String letter) {
+    return 'Option $letter';
+  }
+
+  @override
+  String get practiceTestPrev => 'Prev';
+
+  @override
+  String get practiceTestNext => 'Next';
+
+  @override
+  String get practiceTestBookmark => 'Bookmark';
+
+  @override
+  String get practiceTestRevisit => 'Revisit';
+
+  @override
+  String get practiceTestSubmit => 'Submit';
+
+  @override
+  String get practiceTestSubmitConfirmTitle => 'Submit test?';
+
+  @override
+  String get practiceTestSubmitConfirmMessage =>
+      'Are you sure? You cannot change your answers after submitting.';
+
+  @override
+  String get practiceTestSubmitConfirmCancel => 'Not now';
+
+  @override
+  String get practiceTestSubmitConfirmSubmit => 'Yes, submit';
+
+  @override
+  String get practiceTestSummary => 'Summary';
+
+  @override
+  String get practiceTestSummaryTitle => 'Question palette';
+
+  @override
+  String get practiceTestLegendAnswered => 'Answered';
+
+  @override
+  String get practiceTestLegendSkipped => 'Skipped';
+
+  @override
+  String get practiceTestLegendPending => 'Not done';
+
+  @override
+  String get practiceTestLegendRevisit => 'Revisit';
+
+  @override
+  String get practiceTestLoadError => 'Could not load this test.';
+
+  @override
+  String get practiceTestTimeUp => 'Time is up — submitting…';
+
+  @override
+  String get practiceTestResultsTitle => 'Test complete';
+
+  @override
+  String get practiceTestStatTotal => 'Total questions';
+
+  @override
+  String get practiceTestStatCorrect => 'Correct';
+
+  @override
+  String get practiceTestStatIncorrect => 'Incorrect';
+
+  @override
+  String get practiceTestStatSkipped => 'Skipped';
+
+  @override
+  String get practiceTestStatAccuracy => 'Accuracy';
+
+  @override
+  String get practiceTestStatTime => 'Time taken';
+
+  @override
+  String get practiceTestTypeBreakdown => 'Accuracy by question type';
+
+  @override
+  String practiceTestTypeRow(String typeName, int percent) {
+    return '$typeName: $percent%';
+  }
+
+  @override
+  String get practiceTestReviewExplanations => 'View explanations';
+
+  @override
+  String get practiceTestBackHome => 'Back to tests';
+
+  @override
+  String get practiceTestResultsMissing => 'Results are unavailable.';
+
+  @override
+  String get practiceTestReviewTitle => 'Explanations';
+
+  @override
+  String get practiceTestYourPick => 'Your answer';
+
+  @override
+  String get practiceTestCorrectLabel => 'Correct';
+
+  @override
+  String get practiceTestCollapsibleTrap => 'UPSC trap';
+
+  @override
+  String get practiceTestCollapsibleDistractor => 'Strong distractor';
+
+  @override
+  String get practiceTestCollapsibleElimination => 'Elimination logic';
+
+  @override
+  String get practiceTestCollapsibleStatement => 'Statement analysis';
 }
